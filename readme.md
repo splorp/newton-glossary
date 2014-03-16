@@ -1,7 +1,7 @@
 
 # The Newton Glossary
 
-#### The almost definitive guide to Newton-related terms and definitions.
+#### An almost definitive guide to Newton-related terms and definitions.
 
 The majority of the terms found in this glossary were compiled by [Grant Hutchinson](http://splorp.com/) between 2001 and 2004, with gobs of help from [Paul Guyot](http://www.kallisys.com/), [Victor Rehorst](http://www.chuma.org/), and members of the [NewtonTalk](http://newtontalk.net/) community.
 

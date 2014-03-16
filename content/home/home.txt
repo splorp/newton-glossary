@@ -4,4 +4,4 @@ Title: The Newton Glossary
 
 Text: 
 
-The almost definitive guide to Newton-related terms and definitions.
+An almost definitive guide to Newton-related terms and definitions.

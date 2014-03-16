@@ -2,7 +2,7 @@ Title: The Newton Glossary
 ----
 Author: Grant Hutchinson
 ----
-Description: The almost definitive guide to Newton-related terms and definitions.
+Description: An almost definitive guide to Newton-related terms and definitions.
 ----
 Keywords: apple, newton, pda, messagepad, emate, computer, glossary, dictionary, reference
 ----
