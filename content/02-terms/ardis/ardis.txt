@@ -1,0 +1,16 @@
+Title: Ardis
+
+----
+
+Text:
+
+A defunct wireless data carrier based in the United States. The Ardis network provided two-way data transmission based on radio packet technology. Ardis compatible wireless modems were used in the Motorola Marco Newton clone.
+
+----
+
+Related:
+- /terms/marco
+
+----
+
+Source: GH

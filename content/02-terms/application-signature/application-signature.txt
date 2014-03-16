@@ -1,0 +1,17 @@
+Title: Application Signature
+
+----
+
+Text:
+
+A 4 to 10 character designation that uniquely identifies the creator or developer of a Newton application. This signature is embedded in an application when it is compiled into a package.
+
+----
+
+Related:
+- /terms/application
+- /terms/package
+
+----
+
+Source: ADH

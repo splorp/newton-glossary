@@ -1,0 +1,22 @@
+Title: Arc
+
+----
+
+Text:
+
+A portion of the circumference of an oval bounded by a pair of radii joining at the oval’s center. Contrast a wedge, which includes part of the oval’s interior. Arcs and wedges are defined by the bounding rectangle that encloses the oval, along with a pair of angles marking the positions of the bounding radii.
+
+----
+
+Related:
+- /terms/line
+- /terms/oval
+- /terms/polygon
+- /terms/rectangle
+- /terms/rounded-rectangle
+- /terms/shape
+- /terms/wedge
+
+----
+
+Source: NPG

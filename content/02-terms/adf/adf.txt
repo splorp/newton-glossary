@@ -1,0 +1,15 @@
+Title: ADF
+
+----
+
+Text:
+
+Application Definition Format. A text file format defined by Revelar Inc. that contains a description on how to display, edit, import, and export the data from an application soup so that the Revelar Connection Utility can handle it.
+
+----
+
+Related:
+- terms/rcu
+- terms/revelar-connection-utility
+- terms/soup
+

@@ -1,0 +1,18 @@
+Title: Application Base View
+
+----
+
+Text:
+
+The topmost parent view in an application. The application base view typically encloses all other views that make up the application.
+
+----
+
+Related:
+- /terms/application
+- /terms/main-view
+- /terms/view
+
+----
+
+Source: NPG

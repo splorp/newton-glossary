@@ -1,0 +1,11 @@
+Title: Application
+
+----
+
+Text:
+
+Software that performs a specific task, such as [Notepad](/terms/notepad), [Dates](/terms/dates), and [Names](/terms/names).
+
+----
+
+Source: NUIG

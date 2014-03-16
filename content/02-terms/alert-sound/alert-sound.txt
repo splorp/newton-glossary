@@ -1,0 +1,17 @@
+Title: Alert Sound
+
+----
+
+Text:
+
+An audible warning from the Newton’s speaker that warns the user of an unusual or potentially undesirable situation. An alert sound may or may not be accompanied by a notification slip.
+
+----
+
+Related:
+- terms/alert-box
+- terms/notification-slip
+
+----
+
+Source: NUIG
