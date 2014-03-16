@@ -7,6 +7,16 @@
   <article>
     <h1><?php echo html($page->title()) ?></h1>
     <?php echo kirbytext($page->text()) ?>
+
+	<?php if($page->related()): ?>
+	<h2>Related:</h2>
+	<ul>
+		<?php foreach(related($page->related()) as $related): ?>
+	  	<li><a href="<?php echo $related->url() ?>"><?php echo html($related->title()) ?></a></li>
+  		<?php endforeach ?>
+  	</ul>
+  	<?php endif ?>
+  	
   </article>
 
 </section>
