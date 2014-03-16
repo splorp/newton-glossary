@@ -13,7 +13,7 @@ body {
   line-height: 26px;
   background: #fff;
   color: #777;
-  width: 450px;
+  width: 45%;
   margin: 50px auto;
 }
 a {
@@ -27,7 +27,7 @@ a:visited {
   outline: 0px;
 }
 a:hover {
-  color: red;
+  color: #090;
 }
 img {
   outline: 0;
@@ -40,28 +40,31 @@ h1 {
   margin-bottom: 20px;
 }
 h2 {
-  font-size: 28px;
-  font-weight: normal;
-  color: red;
+  font-size: 20px;
+  color: 222;
   margin-bottom: 21px;
 }
 h3 {
   font-weight: normal;
-  font-size: 20px;
+  font-size: 16px;
   color: #222;
   margin-bottom: 21px;
 }
 h4 {
-  color: red;
+  color: #090;
   font-weight: normal;
 }
 p {
   margin-bottom: 20px;
 }
+header h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
 nav {
   overflow: hidden;
-  border-top: 1px solid red;
-  border-bottom: 1px solid red;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
   padding: 10px 0;
 }
 nav li {
@@ -71,7 +74,8 @@ nav li {
   float: left;
 }
 nav li a.active {
-  color: red;
+  color: #090;
+  font-weight: bold;
 }
 nav.submenu {
   border-top: none;
@@ -85,13 +89,12 @@ section.content {
 }
 footer {
   padding-top: 20px;
-  margin-top: 20px;
-  border-top: 1px solid red;
+  margin-top: 40px;
+  border-top: 1px solid grey;
   font-size: 13px;
-  color: #222;
 }
 footer a {
-  color: red;
+  color: #090;
 }
 footer a:hover {
   color: #222;
