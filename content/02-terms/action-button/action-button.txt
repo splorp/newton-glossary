@@ -1,0 +1,5 @@
+Title: Action Button
+----
+Text: The small envelope button used in applications to invoke routing functions. When tapped, it displays a picker listing routing actions available for the current item.
+
+Source: NPG
