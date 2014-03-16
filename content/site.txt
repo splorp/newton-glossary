@@ -1,9 +1,9 @@
-Title: Kirby
+Title: The Newton Glossary
 ----
-Author: Bastian Allgeier
+Author: Grant Hutchinson
 ----
-Description: Kirby is awesome
+Description: The almost definitive guide to Newton-related terms and definitions.
 ----
-Keywords: kirby, cms, kirbycms, php, filesystem
+Keywords: apple, newton, pda, messagepad, emate, computer, glossary, dictionary, reference
 ----
-Copyright: © 2009-(date: Year) (link: http://bastianallgeier.com text: Bastian Allgeier)
+Copyright: © 2001-(date: Year) (link: http://splorp.me/ text: Grant Hutchinson)
