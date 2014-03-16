@@ -1,7 +1,7 @@
-Title: The Newton Glossary
+Title: Welcome
 
 ----
 
-Text: 
+Text:
 
-An almost definitive guide to Newton-related terms and definitions.
+Since its inception in 2001, the Newton Glossary has grown to include over [_$t](/terms) terms, definitions, acronyms, and other bits of trivia.
