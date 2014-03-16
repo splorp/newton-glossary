@@ -2,7 +2,7 @@
 
 // find the open/active page on the first level
 $open  = $pages->findOpen();
-$items = ($open) ? $open->children()->visible() : false; 
+$items = ($open) ? $open->children() : false; 
 
 ?>
 <?php if($items && $items->count()): ?>
