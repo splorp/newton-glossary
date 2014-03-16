@@ -1,9 +1,17 @@
 Title: ACTFAQ
+
 ----
-Text: After Checking The FAQ. A statement made after searching in vain for an answer to a question in the FAQ, but prior to asking for help on the NewtonTalk mailing list.
+
+Text:
+
+After Checking The Frequently Asked Questions. A statement made after searching in vain for an answer to a question in the FAQ, but prior to asking for help on the NewtonTalk mailing list.
+
 ----
+
 Related:
 - terms/faq
 - terms/newtontalk
+
 ----
+
 Source: NTLK

@@ -1,10 +1,18 @@
 Title: Action Names
+
 ----
-Text: A contact management application created by Iambic Software which enhances the capabilities of the built-in Names and Dates applications. Also referred to as AN.
+
+Text:
+
+A contact management application created by Iambic Software which enhances the capabilities of the built-in Names and Dates applications. Also referred to as AN.
+
 ----
+
 Related:
 - terms/an
 - terms/names
 - terms/dates
+
 ----
+
 Source: GH

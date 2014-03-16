@@ -9,7 +9,7 @@
     <?php echo kirbytext($page->text()) ?>
 
 	<?php if($page->related()): ?>
-	<h2>Related:</h2>
+	<h2>Related Terms</h2>
 	<ul>
 		<?php foreach(related($page->related()) as $related): ?>
 	  	<li><a href="<?php echo $related->url() ?>"><?php echo html($related->title()) ?></a></li>
