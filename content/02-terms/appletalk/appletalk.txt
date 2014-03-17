@@ -4,13 +4,14 @@ Title: AppleTalk
 
 Text:
 
-A routable networking protocol developed by Apple for communications between Mac OS computers and other platforms over a Local Area Network. AppleTalk supports networking layers such as LocalTalk and Ethernet.
+A routable networking protocol developed by Apple for communications between Mac OS computers and other platforms over a Local Area Network. AppleTalk supports networking layers such as [LocalTalk](/terms/localtalk) and [Ethernet](/terms/ethernet).
 
 ----
 
 Related:
-- /terms/localtalk
+- /terms/at
 - /terms/ethernet
+- /terms/localtalk
 
 ----
 

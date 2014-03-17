@@ -4,4 +4,6 @@ Title: Welcome
 
 Text:
 
-Since its inception in 2001, the Newton Glossary has grown to include over [_$t](/terms) terms, definitions, acronyms, and other bits of trivia.
+Since its inception in 2001, the Newton Glossary has grown to include over 700 terms, definitions, acronyms, and other bits of trivia.
+
+Terms currently available: [_$t](/terms)

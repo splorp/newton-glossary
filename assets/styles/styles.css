@@ -1,6 +1,6 @@
 * {
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
 }
 html {
   height: 101%;
@@ -8,13 +8,13 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 body {
+  background: #fff;
+  color: #777;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 26px;
-  background: #fff;
-  color: #777;
-  width: 45%;
   margin: 50px auto;
+  width: 45%;
 }
 a {
   color: #222;
@@ -30,25 +30,25 @@ a:hover {
   color: #090;
 }
 img {
-  outline: 0;
   border: 0;
+  outline: 0;
 }
 h1 {
+  color: #222;
   font-size: 28px;
   line-height: 40px;
-  color: #222;
   margin-bottom: 20px;
 }
 h2 {
-  font-size: 20px;
   color: 222;
-  margin-bottom: 21px;
+  font-size: 20px;
+  margin-bottom: 20px;
 }
 h3 {
-  font-weight: normal;
-  font-size: 16px;
   color: #222;
-  margin-bottom: 21px;
+  font-size: 16px;
+  font-weight: normal;
+  margin-bottom: 20px;
 }
 h4 {
   color: #090;
@@ -56,15 +56,19 @@ h4 {
 }
 p {
   margin-bottom: 20px;
+  max-width: 500px;
+}
+ul, ol {
+  margin-bottom: 20px;
 }
 header h1 {
   font-size: 32px;
   margin-bottom: 10px;
 }
 nav {
-  overflow: hidden;
-  border-top: 1px solid grey;
   border-bottom: 1px solid grey;
+  border-top: 1px solid grey;
+  overflow: hidden;
   padding: 10px 0;
 }
 nav li {
@@ -88,10 +92,10 @@ section.content {
   margin-top: 40px;
 }
 footer {
-  padding-top: 20px;
-  margin-top: 40px;
   border-top: 1px solid grey;
   font-size: 13px;
+  margin-top: 40px;
+  padding-top: 20px;
 }
 footer a {
   color: #090;
