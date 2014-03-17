@@ -4,13 +4,13 @@ Title: ACTFAQ
 
 Text:
 
-After Checking The Frequently Asked Questions. A statement made after searching in vain for an answer to a question in the [FAQ](terms/faq), but prior to asking for help on the [NewtonTalk](http://newtontalk.net/) mailing list.
+After Checking The Frequently Asked Questions. A statement made after searching in vain for an answer to a question in the [FAQ](/terms/faq), but prior to asking for help on the [NewtonTalk](http://newtontalk.net/) mailing list.
 
 ----
 
 Related:
-- terms/faq
-- terms/newtontalk
+- /terms/faq
+- /terms/newtontalk
 
 ----
 

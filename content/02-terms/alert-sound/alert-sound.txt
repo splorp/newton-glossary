@@ -9,8 +9,8 @@ An audible warning from the Newton’s speaker that warns the user of an unusual
 ----
 
 Related:
-- terms/alert-box
-- terms/notification-slip
+- /terms/alert-box
+- /terms/notification-slip
 
 ----
 

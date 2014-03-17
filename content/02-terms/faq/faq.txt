@@ -9,7 +9,7 @@ Frequently Asked Questions. A moderated and frequently updated document containi
 ----
 
 Related:
-- terms/actfaq
+- /terms/actfaq
 
 ----
 

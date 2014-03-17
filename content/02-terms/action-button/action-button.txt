@@ -9,11 +9,11 @@ The small envelope button used in applications to invoke routing functions. When
 ----
 
 Related:
-- terms/action-picker
-- terms/envelope-button
-- terms/routing
-- terms/routing-button
-- terms/routing-slip
+- /terms/action-picker
+- /terms/envelope-button
+- /terms/routing
+- /terms/routing-button
+- /terms/routing-slip
 
 ----
 

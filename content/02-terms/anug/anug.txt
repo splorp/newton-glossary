@@ -9,5 +9,5 @@ Arizona Newton Users Group.
 ----
 
 Related:
-- terms/newton-user-group
-- terms/nug
+- /terms/newton-user-group
+- /terms/nug

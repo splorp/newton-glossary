@@ -9,9 +9,9 @@ After Newton. The period of time that has elapsed since the cancellation of the 
 ----
 
 Related:
-- terms/action-names
-- terms/bn
-- terms/dn
+- /terms/action-names
+- /terms/bn
+- /terms/dn
 
 ----
 

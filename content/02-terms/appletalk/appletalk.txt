@@ -9,8 +9,8 @@ A routable networking protocol developed by Apple for communications between Mac
 ----
 
 Related:
-- terms/localtalk
-- terms/ethernet
+- /terms/localtalk
+- /terms/ethernet
 
 ----
 

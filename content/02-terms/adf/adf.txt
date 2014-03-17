@@ -9,7 +9,7 @@ Application Definition Format. A text file format defined by Revelar Inc. that c
 ----
 
 Related:
-- terms/rcu
-- terms/revelar-connection-utility
-- terms/soup
+- /terms/rcu
+- /terms/revelar-connection-utility
+- /terms/soup
 

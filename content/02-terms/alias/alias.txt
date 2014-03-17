@@ -9,8 +9,8 @@ An object that consists of a reference to another object. An alias saves space, 
 ----
 
 Related:
-- terms/entry-alias
-- terms/object
+- /terms/entry-alias
+- /terms/object
 
 ----
 

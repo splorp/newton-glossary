@@ -9,9 +9,9 @@ A contact management application created by Iambic Software which enhances the c
 ----
 
 Related:
-- terms/an
-- terms/names
-- terms/dates
+- /terms/an
+- /terms/names
+- /terms/dates
 
 ----
 

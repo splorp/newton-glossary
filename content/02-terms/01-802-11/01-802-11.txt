@@ -9,10 +9,10 @@ A family of standards developed by the IEEE for wireless networking.
 ----
 
 Related:
-- terms/airmac
-- terms/airport
-- terms/wavelan
-- terms/wep
+- /terms/airmac
+- /terms/airport
+- /terms/wavelan
+- /terms/wep
 
 ----
 
