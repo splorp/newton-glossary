@@ -14,4 +14,8 @@ Keywords: apple, newton, pda, messagepad, emate, computer, glossary, dictionary,
 
 ----
 
-Copyright: © 2001-(date: Year) (link: http://splorp.me/ text: Grant Hutchinson) et al.
+Copyright: © 2001–(date: Year) (link: http://splorp.me/ text: Grant Hutchinson) et al.
+
+----
+
+Colophon: Made with (link: http://getkirby.com/ text: Kirby) & (link: http://barebones.com/products/bbedit/ text: BBEdit)
