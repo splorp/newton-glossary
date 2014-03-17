@@ -1,0 +1,18 @@
+Title: ARMistice
+
+----
+
+Text:
+
+A later version of the NuBus-based Newton development card which followed the [ARMageddon](/terms/armageddon) card.
+
+----
+
+Related:
+- /terms/arm
+- /terms/armageddon
+- /terms/messagepad
+
+----
+
+Source: GH

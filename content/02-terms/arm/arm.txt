@@ -1,0 +1,16 @@
+Title: ARM
+
+----
+
+Text:
+
+Advanced RISC Machines. The company that produced the processors used in Newton OS devices.
+
+This entry require updates regarding iOS processors and history.
+
+cf. http://en.wikipedia.org/wiki/ARM_architecture
+
+----
+
+Related:
+- /terms/strongarm

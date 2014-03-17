@@ -1,0 +1,22 @@
+Title: IrDA
+
+----
+
+Text:
+
+An infrared communications protocol standard developed by the [Infrared Data Association](/terms/infrared-data-association) and used in Newton OS 2.1 devices.
+
+----
+
+Related:
+- /terms/ask
+- /terms/beaming
+- /terms/infrared-data-association
+- /terms/irda-lap
+- /terms/irda-lmp
+- /terms/irda-sir
+- /terms/squirting
+
+----
+
+Source: IRFAQ

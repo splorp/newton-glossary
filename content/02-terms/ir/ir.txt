@@ -1,0 +1,7 @@
+Title: IR
+
+----
+
+Text:
+
+See [Infrared](/terms/infrared)

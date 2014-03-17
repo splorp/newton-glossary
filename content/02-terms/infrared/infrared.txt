@@ -1,0 +1,25 @@
+Title: Infrared
+
+----
+
+Text:
+
+Electromagnetic waves in the frequency range just below visible light. Infrared-based sources and receivers are used in Newton devices for communication with other devices.
+
+----
+
+Related:
+- /terms/ask
+- /terms/beaming
+- /terms/infrared-data-association
+- /terms/ir
+- /terms/irda
+- /terms/irda-lap
+- /terms/irda-lmp
+- /terms/irda-sir
+- /terms/newtir
+- /terms/squirting
+
+-----
+
+Source: FOLDOC
