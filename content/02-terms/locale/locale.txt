@@ -1,0 +1,7 @@
+Title: Locale
+
+----
+
+Text:
+
+See [Emporium](/terms/emporium)

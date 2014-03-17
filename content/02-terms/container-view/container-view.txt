@@ -1,0 +1,18 @@
+Title: Container View
+
+----
+
+Text:
+
+A framed [object](/terms/object) that displays information (text, graphics, or both) and may contain controls that the user operates by [tapping](/terms/tapping), as well as areas where the user can write and draw.
+
+----
+
+Related:
+- /terms/frame
+- /terms/object
+- /terms/tapping
+
+----
+
+Source: NUIG

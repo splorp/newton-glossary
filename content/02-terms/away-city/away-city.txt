@@ -1,0 +1,19 @@
+Title: Away City
+
+----
+
+Text:
+
+The [locale](/terms/locale) or [emporium](/terms/emporium) that is displayed as a counterpoint to your [home city](/terms/home-city). It defines the country dialing code, time zone, and other locale specific information. Sometimes called the “I’m here” city.
+
+----
+
+Related:
+- /terms/emporium
+- /terms/home-city
+- /terms/locale
+- /terms/work-site
+
+----
+
+Source: NPG

@@ -1,0 +1,17 @@
+Title: Assist Drawer
+
+----
+
+Text:
+
+The [container view](/terms/container-view) or that appears when the [Assist](/terms/assist) function is called.
+
+----
+
+Related:
+- /terms/assist
+- /terms/container-view
+
+----
+
+Source: NBM

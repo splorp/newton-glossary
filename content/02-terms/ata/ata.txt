@@ -1,0 +1,12 @@
+Title: ATA
+
+----
+
+Text:
+
+Advanced Technology Attachment. An interface standard generally used for data storage devices.
+
+----
+
+Related:
+- /terms/pcmcia
