@@ -1,0 +1,7 @@
+Title: Beam
+
+----
+
+Text:
+
+See [Beaming](/terms/beaming)

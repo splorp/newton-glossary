@@ -1,0 +1,20 @@
+Title: Binary Object
+
+----
+
+Text:
+
+A sequence of bytes that can represent any kind of data, can be adjusted dynamically in size, and can have a user-specified [class](/terms/class). Examples of binary objects include strings, real numbers, sounds, and bitmaps.
+
+----
+
+Related:
+- /terms/class
+- /terms/object
+- /terms/reference
+- /terms/virtual-binary-object
+- /terms/vbo
+
+----
+
+Source: NPG

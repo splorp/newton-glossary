@@ -1,0 +1,20 @@
+Title: Cursor
+
+----
+
+Text:
+
+A visually distinct mark indicating where newly typed text will be inserted. The cursor moves as text is typed and can also be moved by the user to change the insertion point within a document or [field](/terms/field).
+
+----
+
+Related:
+- /terms/caret
+- /terms/blinking-line
+- /terms/edit
+- /terms/field
+- /terms/input-line
+
+----
+
+Source: FOLDOC

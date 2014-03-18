@@ -1,0 +1,21 @@
+Title: Batman
+
+----
+
+Text:
+
+Code name for one of the original design concepts for the [MessagePad](/terms/messagepad) incorporating a automotive-inspired, hood or cowl-shaped lid.
+
+----
+
+Related:
+- /terms/batmobile
+- /terms/h1000
+- /terms/junior
+- /terms/messagepad
+- /terms/omp
+- /terms/wedge
+
+----
+
+Source: AD

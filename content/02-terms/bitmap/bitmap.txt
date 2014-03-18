@@ -1,0 +1,18 @@
+Title: Bitmap
+
+----
+
+Text:
+
+A sequence of bits in memory that represent the [pixels](/terms/pixel) of an image to be displayed.
+
+----
+
+Related:
+- /terms/binary-object
+- /terms/pixel
+- /terms/resource
+
+----
+
+Source: NUIG

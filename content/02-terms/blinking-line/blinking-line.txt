@@ -1,0 +1,20 @@
+Title: Blinking Line
+
+----
+
+Text:
+
+A flashing line indicating where new text will be inserted. More commonly known as a [cursor](/terms/cursor).
+
+----
+
+Related:
+- /terms/caret
+- /terms/cursor
+- /terms/edit
+- /terms/field
+- /terms/input-line
+
+----
+
+Source: NUIG

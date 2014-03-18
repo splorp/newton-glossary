@@ -1,0 +1,18 @@
+Title: Beaming
+
+----
+
+Text:
+
+Transmitting data to or receiving data from another device via an [infrared](/terms/infrared) connection.
+
+----
+
+Related:
+- /terms/beam
+- /terms/endpoint
+- /terms/infrared
+- /terms/irda
+- /terms/newtir
+- /terms/routing
+- /terms/squirting
