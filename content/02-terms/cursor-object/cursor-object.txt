@@ -1,0 +1,18 @@
+Title: Cursor (Object)
+
+----
+
+Text:
+
+An object returned by the Query [method](/terms/method). The cursor contains methods that iterate over a set of [soup](/terms/soup) entries meeting the criteria specified in the query. The addition or deletion of entries matching the query specification is automatically reflected in the set of entries referenced by the cursor, even if the changes occur after the original query was made.
+
+----
+
+Related:
+- /terms/cursor-text
+- /terms/method
+- /terms/soup
+
+----
+
+Source: NPG

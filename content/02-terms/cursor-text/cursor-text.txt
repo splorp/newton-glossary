@@ -1,4 +1,4 @@
-Title: Cursor
+Title: Cursor (Text)
 
 ----
 
@@ -10,6 +10,7 @@ A visually distinct mark indicating where newly typed text will be inserted. The
 
 Related:
 - /terms/caret
+- /terms/cursor-object
 - /terms/blinking-line
 - /terms/edit
 - /terms/field
