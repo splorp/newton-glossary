@@ -11,10 +11,10 @@ The plural of emporium is emporia. Now you know.
 ----
 
 Related:
-- /terms/locale
 - /terms/away-city
 - /terms/home-city
-- /terms/work-site
+- /terms/locale
+- /terms/worksite
 
 ----
 

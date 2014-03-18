@@ -12,7 +12,7 @@ Related:
 - /terms/emporium
 - /terms/home-city
 - /terms/locale
-- /terms/work-site
+- /terms/worksite
 
 ----
 

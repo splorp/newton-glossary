@@ -9,10 +9,10 @@ The [locale](/terms/locale) or [emporium](/terms/emporium) used by the system to
 ----
 
 Related:
-- /terms/emporium
 - /terms/away-city
+- /terms/emporium
 - /terms/locale
-- /terms/work-site
+- /terms/worksite
 
 ----
 
