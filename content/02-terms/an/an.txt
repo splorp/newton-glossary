@@ -4,7 +4,9 @@ Title: AN
 
 Text:
 
-After Newton. The period of time that has elapsed since the cancellation of the Newton. Generally agreed to be any point after February 27th, 1998. AN is also an abbreviation for the Action Names software package.
+After Newton. The period of time that has elapsed since the cancellation of the Newton. Generally agreed to be any point after February 27th, 1998.
+
+AN is also an abbreviation for the [Action Names](/terms/action-names) software package.
 
 ----
 
