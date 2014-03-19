@@ -18,4 +18,4 @@ Copyright: © 2001–(date: Year) (link: http://splorp.me/ text: Grant Hutchinso
 
 ----
 
-Colophon: Made with (link: http://getkirby.com/ text: Kirby) & (link: http://barebones.com/products/bbedit/ text: BBEdit)
+Colophon: Powered by (link: http://getkirby.com/ text: Kirby)
