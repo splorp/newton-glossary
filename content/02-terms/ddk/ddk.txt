@@ -1,0 +1,7 @@
+Title: DDK
+
+----
+
+Text:
+
+See [Driver Development Kit](/terms/driver-development-kit)

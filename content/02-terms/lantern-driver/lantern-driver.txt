@@ -1,0 +1,20 @@
+Title: Lantern Driver
+
+----
+
+Text:
+
+A [data link layer](/terms/data-link-layer) driver which allows Newton applications to use specific hardware (typically an [ethernet](/terms/ethernet) card) in conjunction with the [Lantern Library](/terms/lantern-library) incorporated into the [Newton Devices](newton-devices) package.
+
+----
+
+Related:
+- /terms/data-link-layer
+- /terms/device-driver
+- /terms/lantern-driver
+- /terms/lantern-library
+- /terms/newton-devices
+
+----
+
+Source: PG

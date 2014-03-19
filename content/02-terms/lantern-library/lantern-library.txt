@@ -1,0 +1,7 @@
+Title: Lantern Library
+
+----
+
+Text:
+
+See [Newton Devices](/terms/newton-devices)
