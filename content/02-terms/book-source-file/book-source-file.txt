@@ -1,0 +1,22 @@
+Title: Book Source File
+
+----
+
+Text:
+
+A word processor file containing content items tagged with [Newton Book Maker](/terms/newton-book-maker) commands.
+
+----
+
+Related:
+- /terms/book
+- /terms/book-definition-file
+- /terms/book-maker
+- /terms/book-maker-commands
+- /terms/dot-commands
+- /terms/help-book
+- /terms/newton-book-maker
+
+----
+
+Source: NBM

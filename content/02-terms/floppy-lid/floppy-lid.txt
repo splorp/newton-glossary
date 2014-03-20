@@ -1,0 +1,17 @@
+Title: Floppy Lid
+
+----
+
+Text:
+
+The result of the failure of the tension spring found in the hinge of an [eMate](/terms/emate-300) lid. The tension spring will normally hold the lid and display at any given angle. When the tension spring fails, the lid flops down.
+
+----
+
+Related:
+- /terms/broink
+- /terms/emate-300
+
+----
+
+Source: MOB

@@ -1,0 +1,7 @@
+Title: Software Reset
+
+----
+
+Text:
+
+See [Soft Reset](/terms/soft-reset)

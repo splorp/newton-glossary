@@ -1,0 +1,16 @@
+Title: Build
+
+----
+
+Text:
+
+A version of a complied program. Also refers to the act of compiling various [project files](/terms/project-file) into the executable program.
+
+----
+
+Related:
+- /terms/newton-toolkit
+- /terms/ntk
+- /terms/project
+- /terms/project-build
+- /terms/project-file

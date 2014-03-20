@@ -1,0 +1,17 @@
+Title: Boolean
+
+----
+
+Text:
+
+A special kind of immediate value. In [NewtonScript](/terms/newtonscript), there is only one Boolean, called true. Functions and control structures use [nil](/terms/nil) to represent false. When testing for a value, nil represents false, and any other value is equivalent to true.
+
+----
+
+Related:
+- /terms/newtonscript
+- /terms/nil
+
+----
+
+Source: NPG

@@ -1,0 +1,16 @@
+Title: Busy Cursor
+
+----
+
+Text:
+
+A graphical indicator automatically displayed by the system while it is temporarily unable to process user input. Often represented by an icon of a watch or clock.
+
+----
+
+Related:
+- /terms/cursor-user-interface
+
+----
+
+Source: NUIG

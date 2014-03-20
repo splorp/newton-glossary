@@ -4,7 +4,7 @@ Title: Area 51
 
 Text:
 
-An easter egg found in the Newton OS which when activated displays the icon for a meeting as a person facing an alien, the icon for an event as a flying saucer, to-do tasks are represented by a robot, and so on.
+An [easter egg](/terms/easter-egg) found in the [Newton OS](/terms/newton-os) which when activated displays the icon for a meeting as a person facing an alien, the icon for an event as a flying saucer, to-do tasks are represented by a robot, and so on.
 
 ----
 

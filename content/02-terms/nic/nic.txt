@@ -1,0 +1,7 @@
+Title: NIC
+
+----
+
+Text:
+
+See [Newton Interconnect](/terms/newton-interconnect)

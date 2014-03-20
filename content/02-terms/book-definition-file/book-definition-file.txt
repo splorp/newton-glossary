@@ -1,0 +1,25 @@
+Title: Book Definition File
+
+----
+
+Text:
+
+An output file produced by [Newton Book Maker](/terms/newton-book-maker). It is used as input to [Newton Toolkit](/terms/newton-toolkit) to build a Newton book or application-specific [help book](/terms/help-book).
+
+----
+
+Related:
+- /terms/book
+- /terms/book-maker
+- /terms/book-reader
+- /terms/book-maker-commands
+- /terms/book-source-file
+- /terms/help-book
+- /terms/help-browser
+- /terms/newton-book-maker
+- /terms/newton-book-reader
+- /terms/newton-toolkit
+
+----
+
+Source: NBM
