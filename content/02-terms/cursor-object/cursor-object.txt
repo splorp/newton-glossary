@@ -9,7 +9,8 @@ An object returned by the Query [method](/terms/method). The cursor contains met
 ----
 
 Related:
-- /terms/cursor-text
+- /terms/cursor-user-interface
+- /terms/entry
 - /terms/method
 - /terms/soup
 
