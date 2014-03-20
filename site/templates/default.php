@@ -1,4 +1,4 @@
-<?php snippet('header') ?>
+<?php snippet('header', array('section' => 'term', 'title' => $page->title(), 'page_description' => str::unhtml(kirbytext($page->text())))); ?>
 <?php snippet('menu') ?>
 <?php $page->isChildOf($pages->find('terms')) ? snippet('prevnext') : snippet('submenu'); ?>
 
