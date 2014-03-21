@@ -7,5 +7,6 @@ Text:
 Affectionate nickname for some of the first Newton development prototypes. So called because of their flat design and heat they generated, similar to the [coffee decanter warmers](http://www.bunn.com/products/serving/decanters/wx2.html) manufactured by the [Bunn-O-Matic Corporation](http://www.bunn.com/).
 
 ----
+
 Source: NSSN
  
