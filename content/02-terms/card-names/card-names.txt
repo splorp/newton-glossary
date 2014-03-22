@@ -1,0 +1,19 @@
+Title: Card (Names)
+
+----
+
+Text:
+
+A view of information pertaining to an entry in the [Names](/terms/names) application [soup](/terms/soup), graphically formatted as a business card.
+
+----
+
+Related:
+- /terms/card-pc
+- /terms/names
+- /terms/soup
+- /terms/view
+
+----
+
+Source: NPG

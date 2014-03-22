@@ -1,0 +1,18 @@
+Title: PDIL
+
+----
+
+Text:
+
+Protocol Desktop Integration Library. A code layer containing the protocol used to communicate with the [Connection](/terms/connection) and [Dock](/terms/dock) applications on Newton devices.
+
+----
+
+Related:
+- /terms/cdil
+- /terms/connection
+- /terms/desktop-integration-library
+- /terms/dil
+- /terms/dock
+- /terms/fdil
+- /terms/hlfdil

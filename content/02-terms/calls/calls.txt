@@ -1,0 +1,14 @@
+Title: Calls
+
+----
+
+Text:
+
+The built-in [application](/terms/application) for making and storing information about telephone calls.
+
+----
+
+Related:
+- /terms/application
+- /terms/call-slip
+- /terms/container-view

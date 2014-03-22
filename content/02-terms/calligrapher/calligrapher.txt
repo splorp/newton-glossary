@@ -1,0 +1,18 @@
+Title: Calligrapher
+
+----
+
+Text:
+
+The cursive [handwriting recognition system](/terms/handwriting-recognition-system) found in all Newton devices except the [eMate](/terms/emate). Calligrapher was also used as the [print recognizer](/terms/print-recognizer) in Newton OS 1.x devices such as the [MessagePad 100](/terms/messagepad-100).
+
+----
+
+Related:
+- /terms/cursive-recognizer
+- /terms/egg-freckles
+- /terms/handwriting-recognition-system
+- /terms/hwr
+- /terms/print-recognizer
+- /terms/recognizer
+- /terms/rosetta

@@ -1,0 +1,21 @@
+Title: Button Provider
+
+----
+
+Text:
+
+An application that can add a [button](/terms/button) to another application or [button host](/terms/button-host).
+
+----
+
+Related:
+- /terms/button
+- /terms/button-host
+- /terms/graphical-user-interface
+- /terms/gui
+- /terms/ui
+- /terms/user-interface
+
+----
+
+Source: NPG

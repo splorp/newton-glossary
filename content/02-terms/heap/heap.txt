@@ -1,0 +1,17 @@
+Title: Heap
+
+----
+
+Text:
+
+An area of memory reserved for use by programs. On a Newton device, heap often refers specifically to the [NewtonScript heap](/terms/newtonscript-heap).
+
+----
+
+Related:
+- /terms/c-heap
+- /terms/newtonscript-heap
+
+----
+
+Source: PG

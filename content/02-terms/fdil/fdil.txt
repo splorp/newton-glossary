@@ -1,0 +1,20 @@
+Title: FDIL
+
+----
+
+Text:
+
+Frame Desktop Integration Layer. A code layer responsible for the management of [NewtonScript](/terms/newtonscript) compatible objects, which supercedes the High Level Frame Desktop Integration Layer or [HFDIL](/terms/hlfdil).
+
+----
+
+Related:
+- /terms/cdil
+- /terms/desktop-integration-library
+- /terms/dil
+- /terms/hlfdil
+- /terms/pdil
+
+----
+
+Source: PN

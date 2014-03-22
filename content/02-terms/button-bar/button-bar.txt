@@ -1,0 +1,26 @@
+Title: Button Bar
+
+----
+
+Text:
+
+A thick black line with graphical [buttons](/terms/button) arranged on it. Can also refer to the set of icons found at the bottom of the Newton screen which are used to launch applications.
+
+----
+
+Related:
+- /terms/button-bar
+- /terms/button-host
+- /terms/button-provider
+- /terms/graphical-user-interface
+- /terms/gui
+- /terms/ryo
+- /terms/silk-button
+- /terms/silk-screen-button
+- /terms/ui
+- /terms/universal-scroll-arrows
+- /terms/user-interface
+
+----
+
+Source: NUIG

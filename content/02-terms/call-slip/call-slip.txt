@@ -1,0 +1,13 @@
+Title: Call Slip
+
+----
+
+Text:
+
+An input [container view](/terms/container-view) for recording data associated with a telephone call.
+
+----
+
+Related:
+- /terms/calls
+- /terms/container-view

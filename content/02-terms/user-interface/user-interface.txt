@@ -1,0 +1,18 @@
+Title: User Interface
+
+----
+
+Text:
+
+The rules and conventions by which a device communicates and interacts with the person operating it. Also referred to as simply [UI](/terms/ui).
+
+----
+
+Related:
+- /terms/graphical-user-interface
+- /terms/gui
+- /terms/ui
+
+----
+
+Source: NUIG

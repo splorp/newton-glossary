@@ -1,0 +1,19 @@
+Title: Byte Code
+
+----
+
+Text:
+
+The hardware independent instructions that are interpreted when a [NewtonScript](/terms/newtonscript) function executes.
+
+
+----
+
+Related:
+- /terms/function
+- /terms/newtonscript
+- /terms/ns
+
+----
+
+Source: NTK

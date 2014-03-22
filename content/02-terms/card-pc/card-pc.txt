@@ -1,0 +1,16 @@
+Title: Card (PC)
+
+----
+
+Text:
+
+A small, removable peripheral card primarily used for memory expansion and application storage. Other peripherals based on the [PC card](/terms/pc-card) form factor are networking cards, modems, hard disk drives, and [video adapters](/terms/ez-presenter).
+
+----
+
+Related:
+- /terms/flash-card
+- /terms/pc-card
+- /terms/pcmcia
+- /terms/storage-card
+- /terms/ez-presenter

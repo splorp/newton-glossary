@@ -1,0 +1,19 @@
+Title: NewtonScript Heap
+
+----
+
+Text:
+
+An area of memory used by the system for dynamically allocated [objects](/terms/object), including [NewtonScript](/terms/newtonscript) objects.
+
+----
+
+Related:
+- /terms/c-heap
+- /terms/heap
+- /terms/newtonscript
+- /terms/object
+
+----
+
+Source: NPG
