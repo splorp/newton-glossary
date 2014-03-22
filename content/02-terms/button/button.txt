@@ -17,7 +17,6 @@ Related:
 - /terms/graphical-user-interface
 - /terms/gui
 - /terms/hard-button
-- /terms/hot-spot
 - /terms/keyboard-equivalent
 - /terms/large-close-box
 - /terms/picture-button
@@ -31,7 +30,6 @@ Related:
 - /terms/silk-screen-button
 - /terms/soft-button
 - /terms/tag-button
-- /terms/tap
 - /terms/text-button
 - /terms/ui
 - /terms/universal-scroll-arrows
