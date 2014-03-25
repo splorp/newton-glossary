@@ -1,0 +1,21 @@
+Title: Object
+
+----
+
+Text:
+
+A typed piece of data that can be an [immediate](/terms/immediate) value, [array](/terms/array), [frame](/terms/frame), or [binary object](/terms/binary-object). In [NewtonScript](/terms/newtonscript), only frame objects can hold [methods](/terms/method) and receive [messages](/terms/message).
+
+----
+
+Related:
+- /terms/array
+- /terms/binary-object
+- /terms/frame
+- /terms/immediate
+- /terms/message
+- /terms/method
+
+----
+
+Source: NPG

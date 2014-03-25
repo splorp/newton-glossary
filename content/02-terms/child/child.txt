@@ -1,0 +1,19 @@
+Title: Child
+
+----
+
+Text:
+
+A [frame](/terms/frame) that references another its [parent](/terms/parent) frame. With regard to [views](/terms/view), a child view is enclosed by its parent view.
+
+----
+
+Related:
+- /terms/frame
+- /terms/parent
+- /terms/sibling
+- /terms/view
+
+----
+
+Source: NPG

@@ -1,0 +1,19 @@
+Title: Sibling
+
+----
+
+Text:
+
+[Child](/terms/child) frames that have the same [parent](/terms/parent) frame.
+
+----
+
+Related:
+- /terms/child
+- /terms/frame
+- /terms/parent
+- /terms/view
+
+----
+
+Source: NPG

@@ -1,0 +1,19 @@
+Title: Slot
+
+----
+
+Text:
+
+An element of a [frame](/terms/frame) or [array](/terms/array) that can hold an [immediate](/terms/immediate) value or [reference](/terms/reference) value.
+
+----
+
+Related:
+- /terms/array
+- /terms/frame
+- /terms/immediate
+- /terms/reference
+
+----
+
+Source: NPG

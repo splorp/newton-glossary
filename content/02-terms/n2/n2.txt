@@ -1,0 +1,17 @@
+Title: N2
+
+----
+
+Text:
+
+The code name for the hardware platform built on the [Voyager](/terms/voyager) chip set and the base platform for [MP2x00](/terms/mp2x00) series of Newtons. N2 hardware could theoretically support up to four PCMCIA slots, 4MB of DRAM, 12MB of Flash RAM, and 16MB of ROM. It was also developed for third-party licensed or [clone](/terms/clone) Newton devices.
+
+----
+
+Related:
+- /terms/clone
+- /terms/voyager
+
+----
+
+Source: PG

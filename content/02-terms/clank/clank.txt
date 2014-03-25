@@ -1,0 +1,18 @@
+Title: Clank
+
+----
+
+Text:
+
+The sound made by the Newton device after scrolling to the end of a list of text items, generally when using the [local scroll arrows](/terms/local-scroll-arrows). Referred to as [Clanking](/terms/clanking) in the [NetHopper](/terms/nethopper) user manual.
+
+----
+
+Related:
+- /terms/clanking
+- /terms/local-scroll-arrows
+- /terms/scrolling-list
+
+----
+
+Source: NH

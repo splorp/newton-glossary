@@ -1,0 +1,19 @@
+Title: MP2x00
+
+----
+
+Text:
+
+A shorthand term used when referring to both the [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices.
+
+----
+
+Related:
+- /terms/messagepad-2000
+- /terms/messagepad-2100
+- /terms/mp2000
+- /terms/mp2100
+
+----
+
+Source: GH
