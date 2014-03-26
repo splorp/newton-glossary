@@ -8,4 +8,6 @@ The majority of the terms found in this glossary were compiled by [Grant Hutchin
 
 As with any specialized compendium, the contents are never perfect or completely finished. All suggestions, corrections, complaints, and pull requests will be happily accepted.
 
+This iteration of the glossary is written in [Markdown](http://daringfireball.net/projects/markdown/) and published using [Kirby](http://getkirby.com/), a file-based CMS platform built on PHP. Since the content will undoubtedly go through countless changes by multiple contributors over time, it is being maintained in a repository on [GitHub](https://github.com/splorp/newton-glossary/).
+
 There is also a [searchable version](http://tools.unna.org/glossary/) of the glossary created by Victor Rehorst and currently maintained by [Morgan Aldridge](https://github.com/morgant) as part of the [United Network of Newton Archives](http://www.unna.org/).
