@@ -1,0 +1,18 @@
+Title: Newton Press
+
+----
+
+Text:
+
+Software developed by Apple for creating and distributing electronic documents as [Newton Books](/terms/newton-book).
+
+----
+
+Related:
+- /terms/book
+- /terms/book-maker
+- /terms/book-reader
+- /terms/claris-xtnd
+- /terms/newton-book
+- /terms/newton-book-maker
+- /terms/newton-book-reader

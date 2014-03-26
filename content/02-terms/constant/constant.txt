@@ -1,0 +1,20 @@
+Title: Constant
+
+----
+
+Text:
+
+A value that does not change, as opposed to a [variable](/terms/variable). In [NewtonScript](/terms/newtonscript) the value of the constant is substituted wherever the constant is used in code.
+
+----
+
+Related:
+- /terms/global
+- /terms/local
+- /terms/magic-pointer
+- /terms/newtonscript
+- /terms/variable
+
+----
+
+Source: NPG

@@ -1,0 +1,20 @@
+Title: Close
+
+----
+
+Text:
+
+To make a [container view](/terms/container-view) go away by tapping the [Close box](/terms/close-box).
+
+----
+
+Related:
+- /terms/button
+- /terms/close-box
+- /terms/container-view
+- /terms/large-close-box
+- /terms/x
+
+----
+
+Source: NUIG

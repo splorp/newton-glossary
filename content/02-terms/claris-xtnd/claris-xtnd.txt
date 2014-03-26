@@ -1,0 +1,11 @@
+Title: Claris XTND
+
+----
+
+Text:
+
+See [XTND](/terms/xtnd)
+
+----
+
+Source: GH
