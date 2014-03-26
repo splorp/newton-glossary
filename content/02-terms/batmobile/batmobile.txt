@@ -5,3 +5,7 @@ Title: Batmobile
 Text:
 
 See [Batman](/terms/batman)
+
+----
+
+Source: GH

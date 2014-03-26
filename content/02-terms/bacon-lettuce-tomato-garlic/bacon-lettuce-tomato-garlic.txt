@@ -5,3 +5,7 @@ Title: Bacon Lettuce Tomato & Garlic
 Text:
 
 See [BLTG](/terms/bltg)
+
+----
+
+Source: PG
