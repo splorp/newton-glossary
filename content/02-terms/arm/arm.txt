@@ -4,7 +4,7 @@ Title: ARM
 
 Text:
 
-Advanced RISC Machines. The company that produced the processors used in Newton OS devices.
+Advanced RISC Machines. The company that produced the processors used in [Newton OS](/terms/newton-os) devices.
 
 This entry require updates regarding iOS processors and history.
 
