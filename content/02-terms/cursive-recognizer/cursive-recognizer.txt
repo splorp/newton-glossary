@@ -1,0 +1,18 @@
+Title: Cursive Recognizer
+
+----
+
+Text:
+
+The algorithmic component of the [handwriting recognition](/terms/handwriting-recognition) system that identifies handwritten or cursive script characters, as opposed to handprinted or block characters.
+
+----
+
+Related:
+- /terms/calligrapher
+- /terms/egg-freckles
+- /terms/handwriting-recognition
+- /terms/hwr
+- /terms/print-recognizer
+- /terms/recognizer
+- /terms/rosetta

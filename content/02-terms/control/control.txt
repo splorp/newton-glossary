@@ -1,0 +1,21 @@
+Title: Control
+
+----
+
+Text:
+
+A [user interface](/terms/user-interface) element or [object](/terms/object) in a [container view](/terms/container-view) that a user can manipulate with a [pen](/terms/pen) to cause instant action with visible results or to change settings that modify a future action.
+
+----
+
+Related:
+- /terms/object
+- /terms/container-view
+- /terms/graphical-user-interface
+- /terms/gui
+- /terms/ui
+- /terms/user-interface
+
+----
+
+Source: NUIG

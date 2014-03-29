@@ -1,0 +1,20 @@
+Title: Central Processing Unit
+
+----
+
+Text:
+
+The primary computing part of a digital device. In conjunction with a timing circuit and memory, makes up a computer.
+
+----
+
+Related:
+- /terms/arm
+- /terms/implant
+- /terms/main-logic-board
+- /terms/risc
+- /terms/strongarm
+
+----
+
+Source: TE

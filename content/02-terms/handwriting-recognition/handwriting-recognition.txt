@@ -1,0 +1,18 @@
+Title: Handwriting Recognition
+
+----
+
+Text:
+
+The algorithmic conversion of handwritten or handprinted text into digital text.
+
+----
+
+Related:
+- /terms/calligrapher
+- /terms/cursive-recognizer
+- /terms/egg-freckles
+- /terms/hwr
+- /terms/print-recognizer
+- /terms/recognizer
+- /terms/rosetta

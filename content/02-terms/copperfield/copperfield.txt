@@ -1,0 +1,21 @@
+Title: Copperfield
+
+----
+
+Text:
+
+The internal system code name for the [book reader](/terms/book-reader) application built into the [Newton OS](/terms/newton-os).
+
+----
+
+Related:
+- /terms/book
+- /terms/book-reader
+- /terms/help-book
+- /terms/help-browser
+- /terms/newton-book-reader
+- /terms/newton-digital-book
+
+----
+
+Source: PG

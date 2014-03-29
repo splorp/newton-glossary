@@ -1,0 +1,7 @@
+Title: HWR
+
+----
+
+Text:
+
+See [Handwriting Recognition](/terms/handwriting-recognition)

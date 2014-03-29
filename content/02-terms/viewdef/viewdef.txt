@@ -1,0 +1,11 @@
+Title: viewDef
+
+----
+
+Text:
+
+See [View Definition](/terms/view-definition)
+
+----
+
+Source: NPG
