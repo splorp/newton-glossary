@@ -10,7 +10,7 @@ html {
 body {
   background: #fff;
   color: #777;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
   font-size: 16px;
   line-height: 26px;
   margin: 50px auto;
@@ -49,6 +49,9 @@ h3 {
   font-size: 16px;
   font-weight: normal;
   margin-bottom: 20px;
+}
+em {
+  font-family: Palatino, "Palatino Linotype", Georgia, serif;
 }
 h4 {
   color: #090;

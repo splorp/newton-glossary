@@ -16,6 +16,10 @@
       </ul>
     <?php endif ?>
 
+    <?php if($page->source()): ?>
+      <p><em>Source: <?php echo html($page->source()) ?></em></p>
+    <?php endif ?>
+
   </article>
 </section>
 
