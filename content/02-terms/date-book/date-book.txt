@@ -1,0 +1,7 @@
+Title: Date Book
+
+----
+
+Text:
+
+See [Dates](/terms/dates)

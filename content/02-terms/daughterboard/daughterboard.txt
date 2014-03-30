@@ -1,0 +1,17 @@
+Title: Daughterboard
+
+----
+
+Text:
+
+A small, secondary circuit board that generally is attached to the [main logic board](/terms/main-logic-board) or [motherboard](/terms/motherboard). The daughterboard in a Newton device contains the [ROM](/terms/rom) chips.
+
+----
+
+Related:
+
+- /terms/main-logic-board
+- /terms/mlb
+- /terms/mobo
+- /terms/motherboard
+- /terms/rom

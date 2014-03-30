@@ -1,0 +1,7 @@
+Title: DM
+
+----
+
+Text:
+
+See [DateMan](/terms/dateman)

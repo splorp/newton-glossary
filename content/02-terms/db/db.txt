@@ -1,0 +1,7 @@
+Title: DB
+
+----
+
+Text:
+
+See [Database](/terms/database)
