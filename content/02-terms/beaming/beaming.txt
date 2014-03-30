@@ -9,6 +9,7 @@ Transmitting data to or receiving data from another device via an [infrared](/te
 ----
 
 Related:
+
 - /terms/beam
 - /terms/endpoint
 - /terms/infrared

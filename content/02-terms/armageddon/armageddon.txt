@@ -11,10 +11,13 @@ The ARMageddon card preceded the [ARMistice](/terms/armistice) card. They were s
 ----
 
 Related:
+
 - /terms/arm
 - /terms/armistice
 - /terms/messagepad
 
 ----
 
-Source: GH
+Source:
+
+GH

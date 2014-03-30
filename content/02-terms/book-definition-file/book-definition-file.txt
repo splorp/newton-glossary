@@ -9,6 +9,7 @@ An output file produced by [Newton Book Maker](/terms/newton-book-maker). It is 
 ----
 
 Related:
+
 - /terms/book
 - /terms/book-maker
 - /terms/book-reader
@@ -22,4 +23,6 @@ Related:
 
 ----
 
-Source: NBM
+Source:
+
+NBM

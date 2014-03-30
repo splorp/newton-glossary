@@ -9,6 +9,7 @@ A [package](/terms/package) containing various driver functions allowing communi
 ----
 
 Related:
+
 - /terms/api
 - /terms/device-driver
 - /terms/lantern-driver
@@ -16,4 +17,6 @@ Related:
 
 ----
 
-Source: PG
+Source:
+
+PG

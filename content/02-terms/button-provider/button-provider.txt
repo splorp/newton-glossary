@@ -9,6 +9,7 @@ An application that can add a [button](/terms/button) to another application or 
 ----
 
 Related:
+
 - /terms/button
 - /terms/button-host
 - /terms/graphical-user-interface
@@ -18,4 +19,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

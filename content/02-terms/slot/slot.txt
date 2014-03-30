@@ -9,6 +9,7 @@ An element of a [frame](/terms/frame) or [array](/terms/array) that can hold an 
 ----
 
 Related:
+
 - /terms/array
 - /terms/frame
 - /terms/immediate
@@ -16,4 +17,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

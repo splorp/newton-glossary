@@ -9,6 +9,7 @@ The [locale](/terms/locale) or [emporium](/terms/emporium) that is displayed as 
 ----
 
 Related:
+
 - /terms/emporium
 - /terms/home-city
 - /terms/locale
@@ -16,4 +17,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

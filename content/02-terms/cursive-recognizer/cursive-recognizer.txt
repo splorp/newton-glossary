@@ -9,6 +9,7 @@ The algorithmic component of the [handwriting recognition](/terms/handwriting-re
 ----
 
 Related:
+
 - /terms/calligrapher
 - /terms/egg-freckles
 - /terms/handwriting-recognition

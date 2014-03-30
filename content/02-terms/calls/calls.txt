@@ -9,6 +9,7 @@ The built-in [application](/terms/application) for making and storing informatio
 ----
 
 Related:
+
 - /terms/application
 - /terms/call-slip
 - /terms/container-view

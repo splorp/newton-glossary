@@ -9,6 +9,7 @@ An area of memory used by the system for dynamically allocated [objects](/terms/
 ----
 
 Related:
+
 - /terms/c-heap
 - /terms/heap
 - /terms/newtonscript
@@ -16,4 +17,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

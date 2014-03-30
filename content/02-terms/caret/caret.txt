@@ -9,6 +9,7 @@ A [cursor](/terms/cursor) symbol (^) that indicates where the Newton will insert
 ----
 
 Related:
+
 - /terms/blinking-line
 - /terms/carrot
 - /terms/cursor
@@ -16,4 +17,6 @@ Related:
 
 ----
 
-Source: NUIG
+Source:
+
+NUIG

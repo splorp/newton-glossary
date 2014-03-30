@@ -9,6 +9,7 @@ A small, removable peripheral card primarily used for memory expansion and appli
 ----
 
 Related:
+
 - /terms/flash-card
 - /terms/pc-card
 - /terms/pcmcia

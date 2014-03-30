@@ -9,6 +9,7 @@ A view [template](/terms/template) that defines how to display data from a parti
 ----
 
 Related:
+
 - /terms/datadef
 - /terms/data-definition
 - /terms/template
@@ -16,4 +17,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

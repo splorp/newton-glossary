@@ -9,6 +9,7 @@ An object returned by the Query [method](/terms/method). The cursor contains met
 ----
 
 Related:
+
 - /terms/cursor-user-interface
 - /terms/entry
 - /terms/method
@@ -16,4 +17,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

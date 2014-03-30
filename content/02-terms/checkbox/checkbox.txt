@@ -9,6 +9,7 @@ A standard [user interface](/terms/user-interface) control that displays a setti
 ----
 
 Related:
+
 - /terms/button
 - /terms/radio-button
 - /terms/ui
@@ -18,4 +19,6 @@ Related:
 
 ----
 
-Source: NUIG
+Source:
+
+NUIG

@@ -9,10 +9,13 @@ The sound made by the Newton device after scrolling to the end of a list of text
 ----
 
 Related:
+
 - /terms/clanking
 - /terms/local-scroll-arrows
 - /terms/scrolling-list
 
 ----
 
-Source: NH
+Source:
+
+NH

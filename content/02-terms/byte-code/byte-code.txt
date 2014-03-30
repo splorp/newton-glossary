@@ -10,10 +10,13 @@ The hardware independent instructions that are interpreted when a [NewtonScript]
 ----
 
 Related:
+
 - /terms/function
 - /terms/newtonscript
 - /terms/ns
 
 ----
 
-Source: NTK
+Source:
+
+NTK

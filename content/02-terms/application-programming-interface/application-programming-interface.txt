@@ -9,8 +9,11 @@ A language and message format used by an application to communicate with the ope
 ----
 
 Related:
+
 - /terms/api
 
 ----
 
-Source: TE
+Source:
+
+TE

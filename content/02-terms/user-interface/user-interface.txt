@@ -9,10 +9,13 @@ The rules and conventions by which a device communicates and interacts with the 
 ----
 
 Related:
+
 - /terms/graphical-user-interface
 - /terms/gui
 - /terms/ui
 
 ----
 
-Source: NUIG
+Source:
+
+NUIG

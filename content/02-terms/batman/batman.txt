@@ -9,6 +9,7 @@ Code name for one of the original design concepts for the [MessagePad](/terms/me
 ----
 
 Related:
+
 - /terms/batmobile
 - /terms/h1000
 - /terms/junior
@@ -18,4 +19,6 @@ Related:
 
 ----
 
-Source: AD
+Source:
+
+AD

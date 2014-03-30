@@ -9,9 +9,12 @@ An [easter egg](/terms/easter-egg) found in the [Newton OS](/terms/newton-os) wh
 ----
 
 Related:
+
 - /terms/easter-egg
 - /terms/egg-freckles
 
 ----
 
-Source: OL
+Source:
+
+OL

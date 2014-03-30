@@ -9,6 +9,7 @@ A brand name used by Apple in Japan for their version of the 802.11 wireless com
 ----
 
 Related:
+
 - /terms/802-11
 - /terms/airport
 - /terms/wavelan

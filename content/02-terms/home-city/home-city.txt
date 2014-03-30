@@ -9,6 +9,7 @@ The [locale](/terms/locale) or [emporium](/terms/emporium) used by the system to
 ----
 
 Related:
+
 - /terms/away-city
 - /terms/emporium
 - /terms/locale
@@ -16,4 +17,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

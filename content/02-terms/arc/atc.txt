@@ -9,6 +9,7 @@ A portion of the circumference of an oval bounded by a pair of radii joining at 
 ----
 
 Related:
+
 - /terms/line
 - /terms/oval
 - /terms/polygon
@@ -19,4 +20,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

@@ -9,10 +9,13 @@ A sequence of bits in memory that represent the [pixels](/terms/pixel) of an ima
 ----
 
 Related:
+
 - /terms/binary-object
 - /terms/pixel
 - /terms/resource
 
 ----
 
-Source: NUIG
+Source:
+
+NUIG

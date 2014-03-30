@@ -9,6 +9,7 @@ A [frame](/terms/frame) that references another its [parent](/terms/parent) fram
 ----
 
 Related:
+
 - /terms/frame
 - /terms/parent
 - /terms/sibling
@@ -16,4 +17,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

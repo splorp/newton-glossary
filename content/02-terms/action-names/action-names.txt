@@ -9,10 +9,13 @@ A contact management application created by [Iambic Software](http://www.iambic.
 ----
 
 Related:
+
 - /terms/an
 - /terms/names
 - /terms/dates
 
 ----
 
-Source: GH
+Source:
+
+GH

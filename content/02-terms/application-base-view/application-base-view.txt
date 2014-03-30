@@ -9,10 +9,13 @@ The topmost parent view in an application. The application base view typically e
 ----
 
 Related:
+
 - /terms/application
 - /terms/main-view
 - /terms/view
 
 ----
 
-Source: NPG
+Source:
+
+NPG

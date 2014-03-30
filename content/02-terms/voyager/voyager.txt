@@ -9,6 +9,7 @@ Code name for the [ASIC](/terms/asic) chip set used in the [MessagePad 2000](/te
 ----
 
 Related:
+
 - /terms/asic
 - /terms/cirrus
 - /terms/n2

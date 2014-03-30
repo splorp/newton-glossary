@@ -9,8 +9,11 @@ A defunct wireless data carrier based in the United States. The Ardis network pr
 ----
 
 Related:
+
 - /terms/marco
 
 ----
 
-Source: GH
+Source:
+
+GH

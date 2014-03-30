@@ -9,10 +9,13 @@ The layer in device communications that translates data into a format that can b
 ----
 
 Related:
+
 - /terms/device-driver
 - /terms/lantern-driver
 - /terms/newton-devices
 
 ----
 
-Source: PG
+Source:
+
+PG

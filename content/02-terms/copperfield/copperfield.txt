@@ -9,6 +9,7 @@ The internal system code name for the [book reader](/terms/book-reader) applicat
 ----
 
 Related:
+
 - /terms/book
 - /terms/book-reader
 - /terms/help-book
@@ -18,4 +19,6 @@ Related:
 
 ----
 
-Source: PG
+Source:
+
+PG

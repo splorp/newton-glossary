@@ -11,6 +11,7 @@ cf. http://www.0x1.org/d/stuff/newton/interconnect/
 ----
 
 Related:
+
 - /terms/auto-dock
 - /terms/dongle
 - /terms/dongle-destroyer
@@ -19,4 +20,6 @@ Related:
 
 ----
 
-Source: GH
+Source:
+
+GH

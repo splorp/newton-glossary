@@ -9,10 +9,13 @@ An illumination technology consisting of a thin film phosphor layer sandwiched b
 ----
 
 Related:
+
 - /terms/backlight
 - /terms/el
 - /terms/elp
 
 ----
 
-Source: TE
+Source:
+
+TE

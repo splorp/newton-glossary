@@ -9,10 +9,13 @@ One part of reserved memory used specifically by native program [functions](/ter
 ----
 
 Related:
+
 - /terms/function
 - /terms/heap
 - /terms/newtonscript-heap
 
 ----
 
-Source: PG
+Source:
+
+PG

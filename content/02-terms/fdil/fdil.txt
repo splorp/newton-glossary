@@ -9,6 +9,7 @@ Frame Desktop Integration Layer. A code layer responsible for the management of 
 ----
 
 Related:
+
 - /terms/cdil
 - /terms/desktop-integration-library
 - /terms/dil
@@ -17,4 +18,6 @@ Related:
 
 ----
 
-Source: PN
+Source:
+
+PN

@@ -9,6 +9,7 @@ A flag that modifies an individual content item when creating a [Newton book](/t
 ----
 
 Related:
+
 - /terms/book-source-file
 - /terms/document-flag
 - /terms/flag
@@ -19,4 +20,6 @@ Related:
 
 ----
 
-Source: NBM
+Source:
+
+NBM

@@ -9,6 +9,7 @@ A [user interface](/terms/user-interface) element or [object](/terms/object) in 
 ----
 
 Related:
+
 - /terms/object
 - /terms/container-view
 - /terms/graphical-user-interface
@@ -18,4 +19,6 @@ Related:
 
 ----
 
-Source: NUIG
+Source:
+
+NUIG

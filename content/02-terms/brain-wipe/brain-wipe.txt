@@ -9,6 +9,7 @@ The colloquial term for performing a [hard reset](/terms/hard-reset) on a Newton
 ----
 
 Related:
+
 - /terms/cold-boot
 - /terms/deep-reset
 - /terms/hard-reset
@@ -21,4 +22,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

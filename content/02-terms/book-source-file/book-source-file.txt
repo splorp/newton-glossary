@@ -9,6 +9,7 @@ A word processor file containing content items tagged with [Newton Book Maker](/
 ----
 
 Related:
+
 - /terms/book
 - /terms/book-definition-file
 - /terms/book-maker
@@ -19,4 +20,6 @@ Related:
 
 ----
 
-Source: NBM
+Source:
+
+NBM

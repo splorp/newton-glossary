@@ -9,6 +9,7 @@ A value that does not change, as opposed to a [variable](/terms/variable). In [N
 ----
 
 Related:
+
 - /terms/global
 - /terms/local
 - /terms/magic-pointer
@@ -17,4 +18,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

@@ -11,10 +11,13 @@ AN is also an abbreviation for the [Action Names](/terms/action-names) software 
 ----
 
 Related:
+
 - /terms/action-names
 - /terms/bn
 - /terms/dn
 
 ----
 
-Source: NTLK
+Source:
+
+NTLK

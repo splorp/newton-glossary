@@ -9,9 +9,12 @@ An industry body developing standards for infrared data transfer.
 ----
 
 Related:
+
 - /terms/irda
 - /terms/infrared
 
 ----
 
-Source: IRFAQ
+Source:
+
+IRFAQ

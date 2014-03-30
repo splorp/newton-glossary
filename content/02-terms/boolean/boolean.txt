@@ -9,6 +9,7 @@ A special kind of immediate value. In [NewtonScript](/terms/newtonscript), there
 ----
 
 Related:
+
 - /terms/function
 - /terms/newtonscript
 - /terms/nil
@@ -16,4 +17,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

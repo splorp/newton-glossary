@@ -9,6 +9,7 @@ A flashing line indicating where new text will be inserted. More commonly known 
 ----
 
 Related:
+
 - /terms/caret
 - /terms/cursor
 - /terms/edit
@@ -17,4 +18,6 @@ Related:
 
 ----
 
-Source: NUIG
+Source:
+
+NUIG

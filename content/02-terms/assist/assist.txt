@@ -9,8 +9,11 @@ A function built into Newton device that can automatically perform certain tasks
 ----
 
 Related:
+
 - /terms/assist-drawer
 
 ----
 
-Source: GH
+Source:
+
+GH

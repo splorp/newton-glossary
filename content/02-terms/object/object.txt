@@ -9,6 +9,7 @@ A typed piece of data that can be an [immediate](/terms/immediate) value, [array
 ----
 
 Related:
+
 - /terms/array
 - /terms/binary-object
 - /terms/frame
@@ -18,4 +19,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

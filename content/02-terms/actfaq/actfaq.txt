@@ -9,9 +9,12 @@ After Checking The Frequently Asked Questions. A statement made after searching 
 ----
 
 Related:
+
 - /terms/faq
 - /terms/newtontalk
 
 ----
 
-Source: NTLK
+Source:
+
+NTLK

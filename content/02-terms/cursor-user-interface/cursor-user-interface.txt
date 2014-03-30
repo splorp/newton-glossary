@@ -9,6 +9,7 @@ A visually distinct mark indicating where newly typed text will be inserted. The
 ----
 
 Related:
+
 - /terms/busy-cursor
 - /terms/caret
 - /terms/cursor-object
@@ -19,4 +20,6 @@ Related:
 
 ----
 
-Source: FOLDOC
+Source:
+
+FOLDOC

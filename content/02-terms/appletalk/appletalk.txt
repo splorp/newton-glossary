@@ -9,10 +9,13 @@ A routable networking protocol developed by Apple for communications between Mac
 ----
 
 Related:
+
 - /terms/at
 - /terms/ethernet
 - /terms/localtalk
 
 ----
 
-Source: TE
+Source:
+
+TE

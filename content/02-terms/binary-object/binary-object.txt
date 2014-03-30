@@ -9,6 +9,7 @@ A sequence of bytes that can represent any kind of data, can be adjusted dynamic
 ----
 
 Related:
+
 - /terms/class
 - /terms/object
 - /terms/reference
@@ -17,4 +18,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

@@ -9,6 +9,7 @@ A [view](/terms/view) that appears onscreen as part of the [user interface](/ter
 ----
 
 Related:
+
 - /terms/call-slip
 - /terms/item-info-slip
 - /terms/memory-info-slip
@@ -21,4 +22,6 @@ Related:
 
 ----
 
-Source: NUIG
+Source:
+
+NUIG

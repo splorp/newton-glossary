@@ -8,4 +8,6 @@ See [View Definition](/terms/view-definition)
 
 ----
 
-Source: NPG
+Source:
+
+NPG

@@ -9,6 +9,7 @@ To make a [container view](/terms/container-view) go away by tapping the [Close 
 ----
 
 Related:
+
 - /terms/button
 - /terms/close-box
 - /terms/container-view
@@ -17,4 +18,6 @@ Related:
 
 ----
 
-Source: NUIG
+Source:
+
+NUIG

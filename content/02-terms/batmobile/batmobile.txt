@@ -8,4 +8,6 @@ See [Batman](/terms/batman)
 
 ----
 
-Source: GH
+Source:
+
+GH

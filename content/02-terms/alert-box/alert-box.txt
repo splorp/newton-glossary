@@ -9,9 +9,12 @@ A view that appears on the screen to warn the user or report an error.
 ----
 
 Related:
+
 - /terms/alert-sound
 - /terms/notification-slip
 
 ----
 
-Source: NUIG
+Source:
+
+NUIG

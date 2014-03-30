@@ -9,6 +9,7 @@ A small [graphical user interface](/terms/graphical-user-interface) object that 
 ----
 
 Related:
+
 - /terms/action-button
 - /terms/button-bar
 - /terms/button-host
@@ -37,4 +38,6 @@ Related:
 
 ----
 
-Source: NUIG
+Source:
+
+NUIG

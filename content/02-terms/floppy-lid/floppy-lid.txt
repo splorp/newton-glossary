@@ -9,9 +9,12 @@ The result of the failure of the tension spring found in the hinge of an [eMate]
 ----
 
 Related:
+
 - /terms/broink
 - /terms/emate-300
 
 ----
 
-Source: MOB
+Source:
+
+MOB

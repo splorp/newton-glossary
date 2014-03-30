@@ -9,8 +9,11 @@ Very Large Scale Integration. Semiconductor integrated circuits composed of hund
 ----
 
 Related:
+
 - /terms/asic
 
 ----
 
-Source: FOLDOC
+Source:
+
+FOLDOC

@@ -9,6 +9,7 @@ A shorthand term used when referring to both the [MessagePad 2000](/terms/messag
 ----
 
 Related:
+
 - /terms/messagepad-2000
 - /terms/messagepad-2100
 - /terms/mp2000
@@ -16,4 +17,6 @@ Related:
 
 ----
 
-Source: GH
+Source:
+
+GH

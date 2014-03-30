@@ -9,10 +9,13 @@ Application Specific Integrated Circuit. A [VLSI](/terms/vlsi) computer chip, cu
 ----
 
 Related:
+
 - /terms/runt
 - /terms/vlsi
 - /terms/voyager
 
 ----
 
-Source: FOLDOC
+Source:
+
+FOLDOC

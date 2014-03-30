@@ -9,9 +9,12 @@ A PCMCIA card that contains an application geared towards a specific use. Applic
 ----
 
 Related:
+
 - /terms/application
 - /terms/pcmcia
 
 ----
 
-Source: MPH
+Source:
+
+MPH

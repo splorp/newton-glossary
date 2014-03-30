@@ -9,10 +9,13 @@ The use of pictures and icons rather than text to represent the input and output
 ----
 
 Related:
+
 - /terms/gui
 - /terms/ui
 - /terms/user-interface
 
 ----
 
-Source: FOLDOC
+Source:
+
+FOLDOC

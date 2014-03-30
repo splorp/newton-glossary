@@ -9,9 +9,12 @@ The code name for the hardware platform built on the [Voyager](/terms/voyager) c
 ----
 
 Related:
+
 - /terms/clone
 - /terms/voyager
 
 ----
 
-Source: PG
+Source:
+
+PG

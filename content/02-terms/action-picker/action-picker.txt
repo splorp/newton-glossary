@@ -9,6 +9,7 @@ A listing of various routing actions available for the current item. Activated b
 ----
 
 Related:
+
 - /terms/action-button
 - /terms/envelope-button
 - /terms/routing
@@ -17,4 +18,6 @@ Related:
 
 ----
 
-Source: GH
+Source:
+
+GH

@@ -11,9 +11,12 @@ cf. https://en.wikipedia.org/wiki/XTND
 ----
 
 Related:
+
 - /terms/claris-xtnd
 - /terms/newton-press
 
 ----
 
-Source: GH
+Source:
+
+GH

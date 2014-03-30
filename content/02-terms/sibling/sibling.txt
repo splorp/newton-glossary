@@ -9,6 +9,7 @@ Text:
 ----
 
 Related:
+
 - /terms/child
 - /terms/frame
 - /terms/parent
@@ -16,4 +17,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

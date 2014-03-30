@@ -9,10 +9,13 @@ A later version of the NuBus-based Newton development card which followed the [A
 ----
 
 Related:
+
 - /terms/arm
 - /terms/armageddon
 - /terms/messagepad
 
 ----
 
-Source: GH
+Source:
+
+GH

@@ -9,6 +9,7 @@ Describes an [application](/terms/application) that can adjust its actions accor
 ----
 
 Related:
+
 - /terms/application
 - /terms/graphical-user-interface
 - /terms/gui
@@ -17,4 +18,6 @@ Related:
 
 ----
 
-Source: NUIG
+Source:
+
+NUIG

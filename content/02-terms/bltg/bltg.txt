@@ -9,6 +9,7 @@ A value found in [RAM](/terms/ram) on a Newton device which is used to indicate 
 ----
 
 Related:
+
 - /terms/bacon-lettuce-tomato-garlic
 - /terms/global
 - /terms/newton-os
@@ -16,4 +17,6 @@ Related:
 
 ----
 
-Source: PG
+Source:
+
+PG

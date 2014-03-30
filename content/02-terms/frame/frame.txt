@@ -9,6 +9,7 @@ An unordered collection of [slots](/terms/slot), each of which consists of a nam
 ----
 
 Related:
+
 - /terms/child
 - /terms/class
 - /terms/message
@@ -19,4 +20,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

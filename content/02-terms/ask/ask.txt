@@ -9,6 +9,7 @@ Amplitude Shift Keying. An [infrared](/terms/infrared) communications protocol d
 ----
 
 Related:
+
 - /terms/beaming
 - /terms/infrared
 - /terms/irda
@@ -17,4 +18,6 @@ Related:
 
 ----
 
-Source: CL
+Source:
+
+CL

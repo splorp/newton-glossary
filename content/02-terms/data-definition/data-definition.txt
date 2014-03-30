@@ -10,6 +10,7 @@ A [frame](/terms/frame) containing [slots](/terms/slot) that define a particular
 ----
 
 Related:
+
 - /terms/datadef
 - /terms/frame
 - /terms/method
@@ -21,4 +22,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

@@ -9,6 +9,7 @@ The automatic transfer of data between a Newton device to another computer once 
 ----
 
 Related:
+
 - /terms/connection
 - /terms/dock
 - /terms/newton-interconnect

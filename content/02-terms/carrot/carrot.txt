@@ -9,9 +9,12 @@ What the [caret](/terms/caret) symbol is mistakenly called in the [NetHopper](/t
 ----
 
 Related:
+
 - /terms/caret
 - /terms/nethopper
 
 ----
 
-Source: NH
+Source:
+
+NH

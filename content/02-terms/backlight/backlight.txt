@@ -9,5 +9,6 @@ The [electro-luminescent panel](/terms/electro-luminescent-panel) which illumina
 ----
 
 Related:
+
 - /terms/el
 - /terms/electro-luminescent-panel

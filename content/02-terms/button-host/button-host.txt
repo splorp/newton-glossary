@@ -9,6 +9,7 @@ An application that will display a [button](/terms/button) sent by another appli
 ----
 
 Related:
+
 - /terms/button-bar
 - /terms/button
 - /terms/button-provider
@@ -19,4 +20,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

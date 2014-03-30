@@ -9,6 +9,7 @@ A thick black line with graphical [buttons](/terms/button) arranged on it. Can a
 ----
 
 Related:
+
 - /terms/button-bar
 - /terms/button-host
 - /terms/button-provider
@@ -23,4 +24,6 @@ Related:
 
 ----
 
-Source: NUIG
+Source:
+
+NUIG

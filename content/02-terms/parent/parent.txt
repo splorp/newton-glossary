@@ -9,6 +9,7 @@ A [frame](/terms/frame) referenced through the parent [slot](/terms/slot) of ano
 ----
 
 Related:
+
 - /terms/child
 - /terms/frame
 - /terms/sibling
@@ -17,4 +18,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

@@ -9,6 +9,7 @@ The small envelope button used in applications to invoke routing functions. When
 ----
 
 Related:
+
 - /terms/action-picker
 - /terms/button
 - /terms/envelope-button
@@ -18,4 +19,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

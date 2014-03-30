@@ -9,9 +9,12 @@ Before Newton. The period of time prior to the introduction of the Newton. Gener
 ----
 
 Related:
+
 - /terms/an
 - /terms/dn
 
 ----
 
-Source: NTLK
+Source:
+
+NTLK

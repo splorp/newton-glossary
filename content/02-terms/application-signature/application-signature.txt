@@ -9,9 +9,12 @@ A 4 to 10 character designation that uniquely identifies the creator or develope
 ----
 
 Related:
+
 - /terms/application
 - /terms/package
 
 ----
 
-Source: ADH
+Source:
+
+ADH

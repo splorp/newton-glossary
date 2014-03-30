@@ -9,6 +9,7 @@ Code name of the charging cradle designed to work with the [MessagePad 110](/ter
 ----
 
 Related:
+
 - /terms/lindy
 - /terms/lindy-crib
 - /terms/messagepad-110
@@ -16,4 +17,6 @@ Related:
 
 ----
 
-Source: VR
+Source:
+
+VR

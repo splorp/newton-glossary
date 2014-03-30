@@ -9,10 +9,13 @@ A framed [object](/terms/object) that displays information (text, graphics, or b
 ----
 
 Related:
+
 - /terms/frame
 - /terms/object
 - /terms/tapping
 
 ----
 
-Source: NUIG
+Source:
+
+NUIG

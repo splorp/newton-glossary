@@ -9,6 +9,7 @@ High Level Frame Desktop Integration Layer. A code layer responsible for the man
 ----
 
 Related:
+
 - /terms/cdil
 - /terms/desktop-integration-library
 - /terms/dil
@@ -17,4 +18,6 @@ Related:
 
 ----
 
-Source: NTJ
+Source:
+
+NTJ

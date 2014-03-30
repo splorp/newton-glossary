@@ -10,6 +10,7 @@ A [Newton Book Maker](/terms/newton-book-maker) command that defines a content i
 ----
 
 Related:
+
 - /terms/book-source-file
 - /terms/document-command
 - /terms/dot-command
@@ -20,4 +21,6 @@ Related:
 
 ----
 
- Source: NBM
+ Source:
+
+NBM

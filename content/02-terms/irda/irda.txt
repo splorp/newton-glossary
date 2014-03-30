@@ -9,6 +9,7 @@ An infrared communications protocol standard developed by the [Infrared Data Ass
 ----
 
 Related:
+
 - /terms/ask
 - /terms/beaming
 - /terms/infrared-data-association
@@ -19,4 +20,6 @@ Related:
 
 ----
 
-Source: IRFAQ
+Source:
+
+IRFAQ

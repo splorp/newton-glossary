@@ -9,6 +9,7 @@ The primary computing part of a digital device. In conjunction with a timing cir
 ----
 
 Related:
+
 - /terms/arm
 - /terms/implant
 - /terms/main-logic-board
@@ -17,4 +18,6 @@ Related:
 
 ----
 
-Source: TE
+Source:
+
+TE

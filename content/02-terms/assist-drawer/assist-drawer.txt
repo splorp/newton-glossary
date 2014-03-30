@@ -9,10 +9,13 @@ The [container view](/terms/container-view) or that appears when the [Assist](/t
 ----
 
 Related:
+
 - /terms/assist
 - /terms/container-view
 - /terms/function
 
 ----
 
-Source: NBM
+Source:
+
+NBM

@@ -9,6 +9,7 @@ A device manufactured by a third party company using Newton technology licensed 
 ----
 
 Related:
+
 - /terms/access-device
 - /terms/ad2000
 - /terms/expertpad
@@ -22,4 +23,6 @@ Related:
 
 ----
 
-Source: GH
+Source:
+
+GH

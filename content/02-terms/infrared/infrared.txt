@@ -9,6 +9,7 @@ Electromagnetic waves in the frequency range just below visible light. Infrared-
 ----
 
 Related:
+
 - /terms/ask
 - /terms/beaming
 - /terms/infrared-data-association
@@ -22,4 +23,6 @@ Related:
 
 -----
 
-Source: FOLDOC
+Source:
+
+FOLDOC

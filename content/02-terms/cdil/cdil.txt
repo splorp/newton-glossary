@@ -9,6 +9,7 @@ Communication Desktop Integration Layer. A code layer that provides a stream bas
 ----
 
 Related:
+
 - /terms/desktop-integration-library
 - /terms/dil
 - /terms/fdil
@@ -17,4 +18,6 @@ Related:
 
 ----
 
-Source: PN
+Source:
+
+PN

@@ -9,6 +9,7 @@ A view of information pertaining to an entry in the [Names](/terms/names) applic
 ----
 
 Related:
+
 - /terms/card-pc
 - /terms/names
 - /terms/soup
@@ -16,4 +17,6 @@ Related:
 
 ----
 
-Source: NPG
+Source:
+
+NPG

@@ -9,6 +9,7 @@ A [data link layer](/terms/data-link-layer) driver which allows Newton applicati
 ----
 
 Related:
+
 - /terms/data-link-layer
 - /terms/device-driver
 - /terms/lantern-driver
@@ -17,4 +18,6 @@ Related:
 
 ----
 
-Source: PG
+Source:
+
+PG

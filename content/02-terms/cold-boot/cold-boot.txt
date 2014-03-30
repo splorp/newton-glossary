@@ -9,6 +9,7 @@ A method of resetting a Newton device that erases all data, removes any [System 
 ----
 
 Related:
+
 - /terms/brain-wipe
 - /terms/deep-reset
 - /terms/hard-reset
@@ -21,4 +22,6 @@ Related:
 
 ----
 
-Source: NFAQ
+Source:
+
+NFAQ
