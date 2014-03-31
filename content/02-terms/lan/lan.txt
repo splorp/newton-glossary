@@ -1,0 +1,7 @@
+Title: LAN
+
+----
+
+Text:
+
+See [Local Area Network](/terms/local-area-network)

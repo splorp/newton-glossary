@@ -1,0 +1,23 @@
+Title: Engineering Verification Test
+
+----
+
+Text:
+
+An early engineering prototype of a piece of hardware.
+
+----
+
+Related:
+
+- /terms/development-verification-test
+- /terms/dvt
+- /terms/evt
+- /terms/product-verification-test
+- /terms/pvt
+
+----
+
+Source:
+
+NFAQ

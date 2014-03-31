@@ -1,0 +1,7 @@
+Title: DHCP
+
+----
+
+Text:
+
+See [Dynamic Host Configuration Protocol](/terms/dynamic-host-configuration-protocol)

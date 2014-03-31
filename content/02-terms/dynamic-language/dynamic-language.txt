@@ -1,0 +1,7 @@
+Title: Dynamic Language
+
+----
+
+Text:
+
+See [Dylan](/terms/dylan)

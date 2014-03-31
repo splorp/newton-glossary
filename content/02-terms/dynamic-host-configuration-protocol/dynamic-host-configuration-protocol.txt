@@ -1,0 +1,15 @@
+Title: Dynamic Host Configuration Protocol
+
+----
+
+Text:
+
+A [protocol](/terms/protocol) that dynamically allocates [IP](/terms/ip) addresses to computers on a network. Commonly referred to as [DHCP](/terms/dhcp).
+
+----
+
+Related:
+
+- /terms/dhcp
+- /terms/ip
+- /terms/protocol

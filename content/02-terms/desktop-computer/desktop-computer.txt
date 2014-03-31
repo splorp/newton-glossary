@@ -1,0 +1,23 @@
+Title: Desktop Computer
+
+----
+
+Text:
+
+A computer system that generally resides on a desk or table, as opposed to a portable laptop or tablet computer. In terms of a [Newton OS](/terms/newton-os) environment, the desktop computer would likely be running either the Mac OS or Windows operating system.
+
+----
+
+Related:
+
+- /terms/desktop
+- /terms/laptop
+- /terms/laptop-computer
+- /terms/tablet
+- /terms/tablet-computer
+
+----
+
+Source:
+
+NPG

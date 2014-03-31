@@ -1,0 +1,23 @@
+Title: Dylan
+
+----
+
+Text:
+
+The high-level dynamic programming language developed at Apple that was to run on the original Newton platform. Known for being slow and difficult to write programs with. Also referred to as [Denali](/terms/denali) and [Ralph](/terms/ralph).
+
+----
+
+Related:
+
+- /terms/denali
+- /terms/ralph
+- /terms/junior
+- /terms/senior
+- /terms/dynamic-language
+
+----
+
+Source:
+
+DG
