@@ -15,5 +15,6 @@ Related:
 - /terms/egg-freckles
 - /terms/hwr
 - /terms/print-recognizer
+- /terms/recognized-text
 - /terms/recognizer
 - /terms/rosetta
