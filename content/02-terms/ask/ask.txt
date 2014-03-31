@@ -4,17 +4,7 @@ Title: ASK
 
 Text:
 
-Amplitude Shift Keying. An [infrared](/terms/infrared) communications protocol developed by Sharp used in Newton devices.
-
-----
-
-Related:
-
-- /terms/beaming
-- /terms/infrared
-- /terms/irda
-- /terms/newtir
-- /terms/squirting
+See [Amplitude Shift Keying](/terms/amplitude-shift-keying)
 
 ----
 

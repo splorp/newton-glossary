@@ -1,0 +1,25 @@
+Title: Amplitude Shift Keying
+
+----
+
+Text:
+
+An [infrared](/terms/infrared) communications [protocol](/terms/protocol) developed by Sharp used in Newton devices. Commonly referred to as [ASK](/terms/ask).
+
+----
+
+Related:
+
+- /terms/ask
+- /terms/beaming
+- /terms/infrared
+- /terms/irda
+- /terms/newtir
+- /terms/protocol
+- /terms/squirting
+
+----
+
+Source:
+
+CL
