@@ -2,6 +2,10 @@ Title: Change Log
 
 ----
 
+Description: A chronological list of major changes and updates to the Newton Glossary.
+
+----
+
 Text:
 
 ## 21 November 2004
