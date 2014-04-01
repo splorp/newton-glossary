@@ -88,6 +88,9 @@ nav.submenu {
   border-top: none;
   margin-bottom: 20px;
 }
+nav.submenu.alphabetical li {
+  float: none;
+}
 nav.submenu a {
   font-weight: normal;
 }
