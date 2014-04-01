@@ -1,7 +1,0 @@
-Title: Source A
-
-----
-
-Text:
-
-Something, something.

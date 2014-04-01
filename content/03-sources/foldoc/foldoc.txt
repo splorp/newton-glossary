@@ -1,0 +1,9 @@
+Title: Free Online Dictionary of Computing
+
+----
+
+Text:
+
+FOLDOC is a computing dictionary. It includes definitions of acronyms, jargon, programming languages, tools, architecture, operating systems, networking, theory, conventions, standards, mathematics, telecoms, electronics, institutions, companies, projects, products, history, in fact any of the vocabulary you might expect to find in a computer dictionary.
+
+http://foldoc.org/

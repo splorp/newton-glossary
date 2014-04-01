@@ -1,7 +1,0 @@
-Title: Source C
-
-----
-
-Text:
-
-Something, something.
