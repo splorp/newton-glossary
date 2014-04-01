@@ -12,4 +12,4 @@ cf. http://www.flickr.com/photos/abeles/sets/72157629005100169/
 
 Source:
 
-JA
+- /sources/ja

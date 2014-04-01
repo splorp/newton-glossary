@@ -10,4 +10,4 @@ See [XTND](/terms/xtnd)
 
 Source:
 
-GH
+- /sources/gh

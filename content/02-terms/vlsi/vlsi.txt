@@ -16,4 +16,4 @@ Related:
 
 Source:
 
-FOLDOC
+- /sources/foldoc

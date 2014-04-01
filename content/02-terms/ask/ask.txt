@@ -10,4 +10,4 @@ See [Amplitude Shift Keying](/terms/amplitude-shift-keying)
 
 Source:
 
-CL
+- /sources/cl

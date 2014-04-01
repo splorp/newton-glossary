@@ -10,4 +10,4 @@ Software that performs a specific task, such as [Notepad](/terms/notepad), [Date
 
 Source:
 
-NUIG
+- /sources/nuig

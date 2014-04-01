@@ -20,4 +20,4 @@ Related:
 
 Source:
 
-NTJ
+- /sources/njt

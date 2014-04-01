@@ -24,4 +24,4 @@ Related:
 
 Source:
 
-NFAQ
+- /sources/nfaq

@@ -10,4 +10,4 @@ See [Access Device](/terms/access-device)
 
 Source:
 
-JA
+- /sources/ja

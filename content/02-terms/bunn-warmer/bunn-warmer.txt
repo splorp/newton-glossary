@@ -10,5 +10,5 @@ Affectionate nickname for some of the first Newton development prototypes. So ca
 
 Source:
 
-NSSN
+- /sources/nssn
  
