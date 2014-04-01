@@ -12,3 +12,7 @@ There is also a [searchable version](http://tools.unna.org/glossary/) of the glo
 
 As with any specialized compendium, the contents are never perfect or completely finished. All suggestions, corrections, complaints, and [pull requests](https://github.com/splorp/newton-glossary/pulls) will be happily accepted. If possible, please use the project’s [issue tracker](https://github.com/splorp/newton-glossary/issues) for any input you might have.
 
+## Colophon
+
++ [Alphabetise Plugin](https://github.com/shoesforindustry/kirbycms-extensions/tree/master/plugins/alphabetise) by [Russ Baldwin](http://shoesforindustry.net/)
++ [Related Pages Plugin](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) by [Bastian Allgeier](http://bastianallgeier.com/)
