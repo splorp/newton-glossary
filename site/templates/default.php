@@ -1,12 +1,14 @@
 <?php snippet('header', array('title' => $page->title(), 'page_description' => excerpt(kirbytext($page->text()), 300))); ?>
 <?php snippet('menu') ?>
-<?php $page->isChildOf($pages->find('terms')) || $page->isChildOf($pages->find('sources')) ? snippet('prevnext') : snippet('submenu'); ?>
+<?php $page->isChildOf($pages->find('terms')) || $page->isChildOf($pages->find('sources')) ? snippet('prevnext') : '' ; ?>
 
 <section class="content">
   <article>
     <h1><?php echo html($page->title()) ?></h1>
     <?php echo kirbytext($page->text()) ?>
 
+	<?php $page->isChildOf($pages->find('terms')) || $page->isChildOf($pages->find('sources')) ? '' : snippet('submenu'); ?>
+	
     <?php if($page->source()): ?>
         <?php foreach(related($page->source()) as $source): ?>
           <p><em>Source: <a href="<?php echo $source->url() ?>"><?php echo html($source->title()) ?></a></em></p>

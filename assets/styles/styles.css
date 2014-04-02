@@ -88,11 +88,17 @@ nav.submenu {
   border-top: none;
   margin-bottom: 20px;
 }
-nav.submenu.alphabetical li {
-  float: none;
-}
 nav.submenu a {
   font-weight: normal;
+}
+nav.submenu.alphabetical {
+  border-bottom: none;
+  border-top: 1px solid grey;
+  margin-top: 40px;
+  padding-top: 40px;
+}
+nav.submenu.alphabetical li {
+  float: none;
 }
 section.content {
   margin-top: 40px;
