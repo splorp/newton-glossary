@@ -1,6 +1,5 @@
 <?php snippet('header', array('title' => $page->title(), 'page_description' => excerpt(kirbytext($page->text()), 300))); ?>
 <?php snippet('menu') ?>
-
 <?php $page->isChildOf($pages->find('terms')) || $page->isChildOf($pages->find('sources')) ? snippet('prevnext') : snippet('submenu'); ?>
 
 <section class="content">
