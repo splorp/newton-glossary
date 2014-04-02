@@ -4,15 +4,17 @@ Title: About
 
 Text:
 
-The bulk of the terms found in this glossary were compiled from numerous [sources](/sources) by [Grant Hutchinson](http://splorp.com/) between 2001 and 2004, with help from [Paul Guyot](http://www.kallisys.com/), [Victor Rehorst](http://www.chuma.org/), and members of the [NewtonTalk](http://newtontalk.net/) community.
-
-This iteration of the glossary is written in [Markdown](http://daringfireball.net/projects/markdown/) and published using [Kirby](http://getkirby.com/), a file-based CMS platform built on PHP. Since the content will undoubtedly go through countless changes by multiple contributors over time, it is being maintained in a repository on [GitHub](https://github.com/splorp/newton-glossary/).
+The bulk of the terms found in this glossary were compiled from numerous [sources](/sources) by [Grant Hutchinson](http://splorp.com/) between 2001 and 2004, with help from [Paul Guyot](http://www.kallisys.com/), [Victor Rehorst](http://www.chuma.org/), and countless members of the [NewtonTalk](http://newtontalk.net/) community.
 
 There is also a [searchable version](http://tools.unna.org/glossary/) of the glossary created by Victor Rehorst and currently maintained by [Morgan Aldridge](https://github.com/morgant) as part of the [United Network of Newton Archives](http://www.unna.org/).
 
 As with any specialized compendium, the contents are never perfect or completely finished. All suggestions, corrections, complaints, and [pull requests](https://github.com/splorp/newton-glossary/pulls) will be happily accepted. If possible, please use the project’s [issue tracker](https://github.com/splorp/newton-glossary/issues) for any input you might have.
 
 ## Colophon
+
+This iteration of the glossary is formatted in [Markdown](http://daringfireball.net/projects/markdown/) using plain text files and published using [Kirby](http://getkirby.com/). Kirby is an extensible content management system build on PHP. Over time, the glossary will undoubtedly go through countless changes and updates by multiple contributors, therefore it is being maintained in a repository on [GitHub](https://github.com/splorp/newton-glossary/).
+
+To customize our Kirby experience, we’re also using the following plugins.
 
 + [Alphabetise Plugin](https://github.com/shoesforindustry/kirbycms-extensions/tree/master/plugins/alphabetise) by [Russ Baldwin](http://shoesforindustry.net/)
 + [Related Pages Plugin](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) by [Bastian Allgeier](http://bastianallgeier.com/)
