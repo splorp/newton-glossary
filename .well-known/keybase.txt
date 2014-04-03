@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/splorp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://glossary.splorp.me
+  * I am splorp (https://keybase.io/splorp) on keybase.
+  * I have a public key with fingerprint 7183 A1AB 990B BA7A A800  4F90 8937 8FA1 A380 B759
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "7183a1ab990bba7aa8004f9089378fa1a380b759",
+            "host": "keybase.io",
+            "key_id": "89378fa1a380b759",
+            "uid": "c8f16aa98bb63b1ecc48c20a93b9e900",
+            "username": "splorp"
+        },
+        "service": {
+            "hostname": "glossary.splorp.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396500935,
+    "expire_in": 157680000,
+    "prev": "8b13e704e766530180172841ef47634370767a4aa317173cae53a901a4fcb6f3",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMHyAnicbZFvSFRZGMZntMQGF1QkrFWIa9saDXau5879M20KyRi7ShSVwjoynHvn
+zMzdHe+93TujDirOhOkXhUhZMHDXIOmDhVRitKk7ihEkG1Rk9cFiIgan1MpAFlHy
+XHO/9elwnuf3Pu95zzvzXbrFZj3+5/mR+vxkrXU2vhq2nP4p9aCFElVvhHK2UL/j
+rcMnK36sa7qshCgnxdE8RDQSBQGIIuIQ4gFgfALgBcjxPuJAHoicQ6DsVEA1zAoS
+IyIDl8gq0cjFI3uJ+g0+vGVIvI9mERJ4UWShSGNJYnipFCABigIWADBBA+sKasCE
+NrSgqmtUm50iWqMsEa1lq/G27w+qhoH0SMlXsISIdkrT1ZAqqUHiB0IhzWmWhyKa
+yTdh0bOd5BFlxUtmJwWNWDdkVaGcNCGlkGxG01BgHQAI0GGncLMm69gjm4SDY8mX
+AGC2wY3mpCINMQcYzLGsAwKaBzRXyjM09jEcCxnIAY7lEIMQpDmagxLCDogEQCPG
+J4msD5L+Bj6nqCSbJu9EfnNs2a+gUFjHVNt03L3DYrVZMnammeuz2HZl/7/U1Him
+ZaBiqHuxPTzVXun648RMFZhaTfVuXBuK/vb55UROx78PszfuxuqmRzOKp4pan7vV
+UwXrPf6/fq2br8pd6V7oD9xfeNcRLe/Ke/xhNPfG3C+tyzlvM7nJ60cSbYPem+8T
+a8m1M+7JhurXinEl/e9nrsOldUFaW9rD91bfK087MDSyO9ns7jL2RuJly7HEki26
+P+fNxNjJVGpDm4XrP9qL9iUcsduXgj1RwdI3/WXxVf9wQWDmyc8rNY/y8GVtmC08
+VFWddTZpba9fmu/7NHiwpvnWZJyp6KwYGOt8Me66EHg690P+1Z7OO0drC8XK4eKP
+x8qy/suP6kX/6N/jmOti0yahOxm/
+=KlFy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/splorp
+
+==================================================================
