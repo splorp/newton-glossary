@@ -1,0 +1,26 @@
+Title: Document Command
+
+----
+
+Text:
+
+A [Newton Book Maker](/terms/newton-book-maker) command that affects the [book source file](/terms/book-source-file).
+
+----
+
+Related:
+
+- /terms/book-maker
+- /terms/book-maker-commands
+- /terms/book-source-file
+- /terms/content-command
+- /terms/help-book
+- /terms/layout-command
+- /terms/newton-book
+- /terms/newton-book-maker
+
+----
+
+Source:
+
+- /sources/nbm

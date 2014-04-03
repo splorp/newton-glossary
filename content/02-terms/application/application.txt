@@ -4,7 +4,7 @@ Title: Application
 
 Text:
 
-Software that performs a specific task, such as [Notepad](/terms/notepad), [Dates](/terms/dates), and [Names](/terms/names).
+Software that performs a specific task, such as the [Notepad](/terms/notepad), [Dates](/terms/dates), and [Names](/terms/names) applications built into the [Newton OS](/terms/newton-os).
 
 ----
 

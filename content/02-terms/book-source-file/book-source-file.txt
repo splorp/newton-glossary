@@ -14,7 +14,6 @@ Related:
 - /terms/book-definition-file
 - /terms/book-maker
 - /terms/book-maker-commands
-- /terms/dot-commands
 - /terms/help-book
 - /terms/newton-book-maker
 

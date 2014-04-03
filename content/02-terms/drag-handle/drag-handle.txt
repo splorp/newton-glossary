@@ -1,0 +1,24 @@
+Title: Drag Handle
+
+----
+
+Text:
+
+A small control that a user can [drag](/terms/drag) to move a [container view](/terms/container-view). The drag handle is indicated by a small black tab with a central hole, centered on the top border of the container view.
+
+----
+
+Related:
+
+- /terms/container-view
+- /terms/drag
+- /terms/graphical-user-interface
+- /terms/gui
+- /terms/ui
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/nuig

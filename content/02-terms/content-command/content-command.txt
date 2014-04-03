@@ -11,12 +11,11 @@ A [Newton Book Maker](/terms/newton-book-maker) command that defines a content i
 
 Related:
 
+- /terms/book-maker-commands
 - /terms/book-source-file
 - /terms/document-command
-- /terms/dot-command
 - /terms/layout-command
 - /terms/newton-book
-- /terms/newton-book-commands
 - /terms/newton-book-maker
 
 ----

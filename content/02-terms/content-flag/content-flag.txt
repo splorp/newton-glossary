@@ -4,18 +4,19 @@ Title: Content Flag
 
 Text:
 
-A flag that modifies an individual content item when creating a [Newton book](/terms/newton-book). Most flags in the [Newton Book Maker](/terms/newton-book-maker) language are content flags.
+A setting value that modifies an individual content item when creating a [Newton book](/terms/newton-book). Most [flags](/terms/flag) in the [Newton Book Maker](/terms/newton-book-maker) language are content flags.
 
 ----
 
 Related:
 
 - /terms/book-source-file
+- /terms/content-command
 - /terms/document-flag
 - /terms/flag
+- /terms/help-book
 - /terms/layout-flag
 - /terms/newton-book
-- /terms/newton-book-flag
 - /terms/newton-book-maker
 
 ----

@@ -4,7 +4,7 @@ Title: Action Picker
 
 Text:
 
-A listing of various routing actions available for the current item. Activated by tapping on the Action Button. The Action button has the icon of an envelope on it and is sometimes referred to as the Envelope Button or Routing Button.
+A listing of various routing actions available for the current item. Activated by [tapping](/terms/tapping) on the [Action Button](/terms/action-button). The Action button has the icon of an envelope on it and is sometimes referred to as the [Envelope Button](/terms/envelope-button) or [Routing Button](/terms/routing-button).
 
 ----
 
