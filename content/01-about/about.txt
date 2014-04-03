@@ -12,9 +12,13 @@ As with any specialized compendium, the contents are never perfect or completely
 
 ## Colophon
 
-This iteration of the glossary is formatted in [Markdown](http://daringfireball.net/projects/markdown/) using plain text files and published using [Kirby](http://getkirby.com/). Kirby is an extensible content management system build on PHP. Over time, the glossary will undoubtedly go through countless changes and updates by multiple contributors, therefore it is being maintained in a repository on [GitHub](https://github.com/splorp/newton-glossary/).
+This iteration of the glossary is formatted in [Markdown](http://daringfireball.net/projects/markdown/) using plain text files and published using [Kirby](http://getkirby.com/) — an extensible content management system build on PHP.
 
-To customize our Kirby experience, we’re also using the following plugins.
+For peace of mind and ease of maintenance, the project resides in a public [GitHub](https://github.com/splorp/newton-glossary/) repository.
 
-+ [Alphabetise Plugin](https://github.com/shoesforindustry/kirbycms-extensions/tree/master/plugins/alphabetise) by [Russ Baldwin](http://shoesforindustry.net/)
-+ [Related Pages Plugin](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) by [Bastian Allgeier](http://bastianallgeier.com/)
+To add a bit of spit and shine to our Kirby experience, we’re also using the following handy dandy plugins.
+
++ [Alphabetise](https://github.com/shoesforindustry/kirbycms-extensions/tree/master/plugins/alphabetise) by [Russ Baldwin](http://shoesforindustry.net/)
++ [Related Pages](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) by [Bastian Allgeier](http://bastianallgeier.com/)
+
+Finally, thank goodness for [BBEdit](http://www.barebones.com/products/bbedit/).
