@@ -18,7 +18,6 @@ Related:
 - /terms/event
 - /terms/meeting
 - /terms/names
-- /terms/names
 - /terms/names-file
 - /terms/personal-information-manager
 - /terms/pim

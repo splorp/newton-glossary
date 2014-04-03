@@ -11,11 +11,11 @@ A standard [user interface](/terms/user-interface) control that displays a setti
 Related:
 
 - /terms/button
+- /terms/graphical-user-interface
+- /terms/gui
 - /terms/radio-button
 - /terms/ui
-- /terms/gui
 - /terms/user-interface
-- /terms/graphical-user-interface
 
 ----
 

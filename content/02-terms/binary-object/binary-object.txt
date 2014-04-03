@@ -13,8 +13,8 @@ Related:
 - /terms/class
 - /terms/object
 - /terms/reference
-- /terms/virtual-binary-object
 - /terms/vbo
+- /terms/virtual-binary-object
 
 ----
 

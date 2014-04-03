@@ -10,10 +10,10 @@ Describes words, objects, or other elements of the [user interface](/terms/user-
 
 Related:
 
-- /terms/user-interface
-- /terms/ui
-- /terms/gui
 - /terms/graphical-user-interface
+- /terms/gui
+- /terms/ui
+- /terms/user-interface
 
 ----
 

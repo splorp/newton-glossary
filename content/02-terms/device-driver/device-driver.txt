@@ -11,5 +11,6 @@ A software program that facilitates the connection of a peripheral device to an 
 Related:
 
 - /terms/data-link-layer
+- /terms/driver
 - /terms/lantern-driver
 - /terms/newton-devices

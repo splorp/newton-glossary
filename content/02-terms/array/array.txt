@@ -11,8 +11,8 @@ A sequence of numerically indexed [slots](/terms/slot) that contain [objects](/t
 Related:
 
 - /terms/array-elements
-- /terms/slot
 - /terms/object
+- /terms/slot
 
 ----
 

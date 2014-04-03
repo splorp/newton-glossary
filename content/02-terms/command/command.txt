@@ -10,8 +10,8 @@ An instruction that causes the Newton or a device connected to it to perform som
 
 Related:
 
-- /terms/keyboard-equivalent
 - /terms/book-maker-commands
+- /terms/keyboard-equivalent
 
 ----
 
