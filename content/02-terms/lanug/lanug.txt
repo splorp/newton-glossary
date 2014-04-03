@@ -1,17 +1,17 @@
-Title: ANUG
+Title: LANUG
 
 ----
 
 Text:
 
-Arizona Newton Users Group
+Los Angeles Newton Users Group
 
 ----
 
 Related:
 
+- /terms/anug
 - /terms/dnug
-- /terms/lanug
 - /terms/newton-user-group
 - /terms/nug
 - /terms/snug

@@ -1,16 +1,16 @@
-Title: ANUG
+Title: DNUG
 
 ----
 
 Text:
 
-Arizona Newton Users Group
+Danish Newton Users Group
 
 ----
 
 Related:
 
-- /terms/dnug
+- /terms/anug
 - /terms/lanug
 - /terms/newton-user-group
 - /terms/nug

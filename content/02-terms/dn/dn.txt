@@ -1,0 +1,20 @@
+Title: DN
+
+----
+
+Text:
+
+During Newton. The period of time between the introduction of the Newton and its cancellation. Generally agreed to be between August 2nd, 1993 and February 27th, 1998.
+
+----
+
+Related:
+
+- /terms/an
+- /terms/bn
+
+----
+
+Source:
+
+- /sources/ntlk

@@ -1,0 +1,13 @@
+Title: Divider Bar
+
+----
+
+Text:
+
+See [Separator Bar](/terms/separator-bar)
+
+----
+
+Source:
+
+- /sources/nuig

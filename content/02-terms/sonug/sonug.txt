@@ -1,18 +1,20 @@
-Title: ANUG
+Title: SONUG
 
 ----
 
 Text:
 
-Arizona Newton Users Group
+Southern Ontario Newton Users Group
+
+cf. http://nug.newtontalk.net/sonug/
 
 ----
 
 Related:
 
+- /terms/anug
 - /terms/dnug
 - /terms/lanug
 - /terms/newton-user-group
 - /terms/nug
 - /terms/snug
-- /terms/sonug
