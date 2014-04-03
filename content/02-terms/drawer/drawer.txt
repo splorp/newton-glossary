@@ -1,0 +1,23 @@
+Title: Drawer
+
+----
+
+Text:
+
+A [container view](/terms/container-view) that slides open and closed at the bottom of another container view.
+
+----
+
+Related:
+
+- /terms/container-view
+- /terms/graphical-user-interface
+- /terms/gui
+- /terms/ui
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/nuig

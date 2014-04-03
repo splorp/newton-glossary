@@ -1,0 +1,7 @@
+Title: MP120
+
+----
+
+Text:
+
+See [MessagePad 120](/terms/messagepad-120)
