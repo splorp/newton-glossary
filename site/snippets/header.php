@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  
   <title><?php echo html($site->title()) ?> - <?php echo html($page->title()) ?></title>
   <meta charset="utf-8" />
   <meta name="description" content="<?php if(isset($page_description)) { echo html($page_description); } else { echo html($site->description()); } ?>" />
   <meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
   <meta name="robots" content="index, follow" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="shortcut icon" href="/favicon.ico" />
-
   <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/images/apple-touch-icon-57x57-precomposed.png" />
   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/images/apple-touch-icon-72x72-precomposed.png" />
   <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/images/apple-touch-icon-76x76-precomposed.png" />
@@ -19,7 +18,6 @@
   <meta name="msapplication-TileImage" content="/assets/images/msapplication-tileimage-144x144.png" />
   <meta name="msapplication-TileColor" content="#009900" />
   <?php echo css('assets/styles/styles.css') ?>
-
 </head>
 
 <body>
