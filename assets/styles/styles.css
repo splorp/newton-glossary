@@ -1,120 +1,147 @@
 * {
-  margin: 0;
-  padding: 0;
-}
+	margin: 0;
+	padding: 0;
+	}
+
 html {
-  height: 101%;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-}
+	height: 101%;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	}
+
 body {
-  background: #fff;
-  color: #777;
-  font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-  font-size: 16px;
-  line-height: 26px;
-  margin: 50px auto;
-  width: 45%;
-}
+	background: #fff;
+	color: #777;
+	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-size: 16px;
+	line-height: 26px;
+	margin: 50px auto;
+	width: 45%;
+	}
+
 a {
-  color: #222;
-  text-decoration: none;
-}
+	color: #222;
+	text-decoration: none;
+	}
+
 a,
 a:hover,
 a:active,
 a:visited {
-  outline: 0px;
-}
+	outline: 0px;
+	}
+
 a:hover {
-  color: #090;
-}
+	color: #090;
+	}
+
 img {
-  border: 0;
-  outline: 0;
-}
+	border: 0;
+	outline: 0;
+	}
+
 h1 {
-  color: #222;
-  font-size: 28px;
-  line-height: 40px;
-  margin-bottom: 20px;
-}
+	color: #222;
+	font-size: 28px;
+	line-height: 40px;
+	margin-bottom: 20px;
+	}
+
 h2 {
-  color: 222;
-  font-size: 20px;
-  margin-bottom: 20px;
-}
+	color: 222;
+	font-size: 20px;
+	margin-bottom: 20px;
+	}
+
 h3 {
-  color: #222;
-  font-size: 16px;
-  font-weight: normal;
-  margin-bottom: 20px;
-}
+	color: #222;
+	font-size: 16px;
+	font-weight: normal;
+	margin-bottom: 20px;
+	}
+
 em {
-  font-family: Palatino, "Palatino Linotype", Georgia, serif;
-}
+	font-family: Palatino, "Palatino Linotype", Georgia, serif;
+	}
+
 h4 {
-  color: #090;
-  font-weight: normal;
-}
+	color: #090;
+	font-weight: normal;
+	}
+
 p {
-  margin-bottom: 20px;
-  max-width: 500px;
-}
+	margin-bottom: 20px;
+	max-width: 500px;
+	}
+
 ul, ol {
-  margin-bottom: 20px;
-}
+	margin-bottom: 20px;
+	}
+
 header h1 {
-  font-size: 32px;
-  margin-bottom: 10px;
-}
+	font-size: 32px;
+	margin-bottom: 10px;
+	}
+
 nav {
-  border-bottom: 1px solid grey;
-  border-top: 1px solid grey;
-  overflow: hidden;
-  padding: 10px 0;
-}
+	border-bottom: 1px solid grey;
+	border-top: 1px solid grey;
+	overflow: hidden;
+	padding: 10px 0;
+	}
+
 nav li {
-  list-style: none;
-  margin-right: 20px;
-  font-weight: bold;
-  float: left;
-}
+	list-style: none;
+	margin-right: 20px;
+	font-weight: bold;
+	float: left;
+	}
+
 nav li a.active {
-  color: #090;
-  font-weight: bold;
-}
+	color: #090;
+	font-weight: bold;
+	}
+
 nav.submenu {
-  border-top: none;
-  margin-bottom: 20px;
-}
+	border-top: none;
+	margin-bottom: 20px;
+	}
+
 nav.submenu a {
-  font-weight: normal;
-}
+	font-weight: normal;
+	}
+
 nav.submenu.alphabetical {
-  border-bottom: none;
-  border-top: 1px solid grey;
-  margin-top: 40px;
-  padding-top: 40px;
-}
+	border-bottom: none;
+	border-top: 1px solid grey;
+	margin-top: 40px;
+	padding-top: 40px;
+	}
+
 nav.submenu.alphabetical li {
-  float: none;
-}
+	float: none;
+	}
+
 section.content {
-  margin-top: 40px;
-}
+	margin-top: 40px;
+	}
+
 footer {
-  border-top: 1px solid grey;
-  font-size: 13px;
-  margin-top: 40px;
-  padding-top: 20px;
-}
+	border-top: 1px solid grey;
+	font-size: 13px;
+	margin-top: 40px;
+	padding-top: 20px;
+	}
+
 footer a {
-  color: #090;
-}
+	color: #090;
+	}
+
 footer a:hover {
-  color: #222;
-}
+	color: #222;
+	}
+
+
 
 /*
 	Tablet Screen Styles
