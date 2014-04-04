@@ -115,3 +115,27 @@ footer a {
 footer a:hover {
   color: #222;
 }
+
+/*
+	Tablet Screen Styles
+*/
+
+@media screen and (max-device-width: 1024px), screen and (max-width: 1024px) {
+	body {
+		-webkit-text-size-adjust: 100%;
+		padding: 1em;
+		}
+}
+	
+	
+/*
+	Small Screen Styles
+*/
+
+@media handheld and (max-width: 480px), screen and (max-device-width: 480px), screen and (max-width: 800px) {
+
+	body {
+		-webkit-text-size-adjust: 100%;
+		padding: 1em;
+		}
+}
