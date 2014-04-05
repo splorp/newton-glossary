@@ -4,4 +4,4 @@ Title: Error
 
 Text:
 
-Tapping this does nothing.
+![Tapping this does nothing.](/assets/images/tapping-this-does-nothing.gif)
