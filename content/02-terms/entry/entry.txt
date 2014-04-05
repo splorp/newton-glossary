@@ -1,0 +1,25 @@
+Title: Entry
+
+----
+
+Text:
+
+A [frame](/terms/frame) stored in a [soup](/terms/soup) and accessed through a [cursor](/terms/cursor-object). An entry frame contains special [slots](/terms/slot) that identify it as belonging to a soup.
+
+----
+
+Related:
+
+- /terms/alias
+- /terms/entry-alias
+- /terms/frame
+- /terms/reference
+- /terms/name-reference
+- /terms/slot
+- /terms/soup
+
+----
+
+Source:
+
+- /sources/npg

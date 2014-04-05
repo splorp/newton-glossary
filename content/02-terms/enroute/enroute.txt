@@ -1,0 +1,21 @@
+Title: EnRoute
+
+----
+
+Text:
+
+An integrated internet email package developed by [Netstrategy Software](https://web.archive.org/web/19971016194456/http://www.netstrat.com/) and bundled with most Newton devices running [Newton OS](/terms/newton-os) 2.0 and 2.1. Along with its main [EnRoute i-net](/terms/enroute-inet) package, Netstrategy also developed Newton clients for specific third party email systems such as EnRoute QM for CE Software’s [QuickMail](https://web.archive.org/web/19980415072252/http://www.cesoft.com/products.html) and EnRoute cc:Mail for Lotus Development’s [cc:Mail](https://en.wikipedia.org/wiki/Cc:Mail).
+
+----
+
+Related:
+
+- /terms/enroute-inet
+- /terms/newtonmail
+- /terms/simplemail
+
+----
+
+Source:
+
+- /sources/er

@@ -1,0 +1,19 @@
+Title: eMate 300
+
+----
+
+Text:
+
+A translucent, clamshell-cased Newton device with a built-in keyboard. Primarily aimed at the educational market. Also known by various code names such as [K](/terms/k), [Schoolbook](/terms/schoolbook), and [Shay](/terms/shay).
+
+----
+
+Related:
+
+- /terms/broink
+- /terms/classroom-exchange
+- /terms/emate
+- /terms/floppy-lid
+- /terms/k
+- /terms/schoolbook
+- /terms/shay

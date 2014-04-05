@@ -1,0 +1,25 @@
+Title: Electronic Ink
+
+----
+
+Text:
+
+The marks that are displayed directly on the Newton screen as the user writes or draws. Electronic ink can be converted into typeset words or regularized, geometric shapes after the system recognizes and processes the user’s writing or drawing.
+
+----
+
+Related:
+
+- /terms/deferred-recognition
+- /terms/handwriting-recognition
+- /terms/hwr
+- /terms/ink
+- /terms/ink-text
+- /terms/ink-word
+- /terms/recognized-text
+
+----
+
+Source:
+
+- /sources/nuig
