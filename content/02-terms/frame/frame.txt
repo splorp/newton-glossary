@@ -12,6 +12,7 @@ Related:
 
 - /terms/child
 - /terms/class
+- /terms/entry
 - /terms/message
 - /terms/object
 - /terms/parent

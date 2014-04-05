@@ -4,7 +4,7 @@ Title: Document Flag
 
 Text:
 
-A [Newton Book Maker](/terms/newton-book-maker) setting value that affects an entire [book source file](/terms/book-source-file), such as the noReLayout [flag](/terms/flag).
+A [Newton Book Maker](/terms/newton-book-maker) setting value that affects an entire [book source file](/terms/book-source-file), such as the `noReLayout` [flag](/terms/flag).
 
 ----
 
