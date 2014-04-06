@@ -13,8 +13,8 @@ Related:
 - /terms/alias
 - /terms/entry-alias
 - /terms/frame
-- /terms/reference
 - /terms/name-reference
+- /terms/reference
 - /terms/slot
 - /terms/soup
 

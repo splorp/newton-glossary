@@ -10,12 +10,11 @@ An [object](/terms/object) that provides a standard way to save a [reference](/t
 
 Related:
 
-- /terms/object
-
 - /terms/alias
 - /terms/entry
-- /terms/reference
 - /terms/name-reference
+- /terms/object
+- /terms/reference
 - /terms/soup
 
 ----
