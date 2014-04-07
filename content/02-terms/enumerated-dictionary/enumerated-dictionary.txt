@@ -1,0 +1,20 @@
+Title: Enumerated Dictionary
+
+----
+
+Text:
+
+A list of words that can be recognized when the dictionary is enabled.
+
+----
+
+Related:
+
+- /terms/grammar
+- /terms/lexical-dictionary
+
+----
+
+Source:
+
+- /sources/npg

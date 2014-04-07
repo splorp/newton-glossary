@@ -1,0 +1,20 @@
+Title: Grammar
+
+----
+
+Text:
+
+A set of rules defining the format of an entity to be recognized, such as dates, times, phone numbers, or currency values. [Lexical dictionaries](/terms/lexical-dictionary) are composed of sets of grammars.
+
+----
+
+Related:
+
+- /terms/enumerated-dictionary
+- /terms/lexical-dictionary
+
+----
+
+Source:
+
+- /sources/npg

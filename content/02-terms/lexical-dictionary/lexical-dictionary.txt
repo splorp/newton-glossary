@@ -1,0 +1,20 @@
+Title: Lexical Dictionary
+
+----
+
+Text:
+
+A list of valid [grammars](/terms/grammar), each specifying the format of an entity to be recognized, such as dates, times, phone numbers, or currency values.
+
+----
+
+Related:
+
+- /terms/enumerated-dictionary
+- /terms/grammar
+
+----
+
+Source:
+
+- /sources/npg

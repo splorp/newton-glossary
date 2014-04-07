@@ -1,0 +1,20 @@
+Title: Expando
+
+----
+
+Text:
+
+An [input area](/terms/input-area) that expands when [tapped](/terms/tap) to become large enough for writing or printing.
+
+----
+
+Related:
+
+- /terms/field
+- /terms/input-area
+
+----
+
+Source:
+
+- /sources/nuig
