@@ -10,9 +10,11 @@ A framed [object](/terms/object) that displays information (text, graphics, or b
 
 Related:
 
+- /terms/floating-container-view
 - /terms/frame
 - /terms/object
-- /terms/tapping
+- /terms/parent-view
+- /terms/sibling-view
 
 ----
 

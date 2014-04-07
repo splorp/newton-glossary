@@ -10,8 +10,9 @@ A small, removable peripheral card primarily used for memory expansion and appli
 
 Related:
 
+- /terms/external-store
+- /terms/ez-presenter
 - /terms/flash-card
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/storage-card
-- /terms/ez-presenter

@@ -11,7 +11,10 @@ A visual [object](/terms/object) on the screen, including but not limited to a [
 Related:
 
 - /terms/container-view
+- /terms/floating-container-view
 - /terms/object
+- /terms/parent-view
+- /terms/sibling-view
 - /terms/template
 - /terms/view-class
 - /terms/view-definition

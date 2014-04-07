@@ -11,7 +11,11 @@ An [input area](/terms/input-area) that expands when [tapped](/terms/tap) to bec
 Related:
 
 - /terms/field
+- /terms/graphical-user-interface
+- /terms/gui
 - /terms/input-area
+- /terms/ui
+- /terms/user-interface
 
 ----
 
