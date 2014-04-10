@@ -1,0 +1,21 @@
+Title: Floating Container View
+
+----
+
+Text:
+
+A [container view](/terms/container-view) that initially appears in front of all open [sibling views](/terms/sibling-view).
+
+----
+
+Related:
+
+- /terms/container-view
+- /terms/parent-view
+- /terms/sibling-view
+
+----
+
+Source:
+
+- /sources/nuig

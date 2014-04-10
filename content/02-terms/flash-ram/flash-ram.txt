@@ -1,0 +1,23 @@
+Title: Flash RAM
+
+----
+
+Text:
+
+A memory chip that can be rewritten and hold its content without power.
+
+
+----
+
+Related:
+
+- /terms/dram
+- /terms/flash-card
+- /terms/ram
+- /terms/sram
+
+----
+
+Source:
+
+- /sources/te

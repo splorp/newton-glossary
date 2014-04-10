@@ -1,0 +1,19 @@
+Title: External Store
+
+----
+
+Text:
+
+An memory [card](/terms/card-pc) that stores packages and user data. Called an external [store](/terms/store) because it is a physical accessory that must be plugged into the [PCMCIA](/terms/pcmcia) slot of a Newton device, as opposed to an [internal store](/terms/internal-store).
+
+----
+
+Related:
+
+- /terms/card-pc
+- /terms/flash-card
+- /terms/internal-store
+- /terms/pc-card
+- /terms/pcmcia
+- /terms/storage-card
+- /terms/store

@@ -1,0 +1,21 @@
+Title: Finder
+
+----
+
+Text:
+
+A [frame](/terms/frame) containing [methods](/terms/method) or [objects](/terms/method) that enumerate data items found to match criteria specified via the [find slip](/terms/find-slip).
+
+Not to be confused with the Finder, the default file manager in Mac OS or Mac OS X.
+
+----
+
+Related:
+
+- /terms/find-slip
+
+----
+
+Source:
+
+- /sources/npg

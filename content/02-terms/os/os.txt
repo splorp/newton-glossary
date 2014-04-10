@@ -1,0 +1,7 @@
+Title: OS
+
+----
+
+Text:
+
+See [Operating System](/terms/operating-system)

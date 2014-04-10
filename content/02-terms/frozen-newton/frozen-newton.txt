@@ -1,0 +1,19 @@
+Title: Frozen Newton
+
+----
+
+Text:
+
+A custom, clear case Newton [MessagePad 2100](/terms/messagepad-2100) project originating in Japan. There is also a blue accented variation of the project known as [Blueberry Frozen](/terms/blueberry-frozen).
+
+http://ohshima.net/newton/frozen.html
+https://www.flickr.com/photos/sonnyhung/sets/72057594059698258/
+
+----
+
+Related:
+
+- /terms/blueberry-frozen
+- /terms/frozen-ghost
+- /terms/messagepad-2100
+- /terms/mp2100

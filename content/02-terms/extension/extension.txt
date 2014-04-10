@@ -1,0 +1,13 @@
+Title: Extension
+
+----
+
+Text:
+
+A [package](/terms/package) that adds some sort of functionality to the operating system or other packages.
+
+----
+
+Related:
+
+- /terms/package

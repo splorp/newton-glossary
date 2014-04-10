@@ -1,0 +1,23 @@
+Title: Freeze
+
+----
+
+Text:
+
+To suspend the activity of an [application](/terms/application) or [extension](/terms/extension) package. Freezing a [package](/terms/package) is similar to removing an [external store](/terms/external-store) that a package is stored on. In most cases, a [frozen package](/terms/frozen-package) should free up memory on the Newton device.
+
+To reactivate a package, you [thaw](/terms/thaw) it.
+
+----
+
+Related:
+
+- /terms/freezing
+- /terms/frozen
+- /terms/frozen-package
+- /terms/package
+- /terms/snowflake
+- /terms/thaw
+- /terms/thawed
+- /terms/thawed-package
+- /terms/thawing

@@ -1,0 +1,24 @@
+Title: Flag
+
+----
+
+Text:
+
+A value that is set either on or off to enable a feature. Typically, flag values are single bits, although they can be comprised of groups of bits or an entire byte.
+
+A flag is also a keyword added to a [Newton Book Maker](/terms/newton-book-maker) command to enable a feature.
+
+----
+
+Related:
+
+- /terms/book-maker-commands
+- /terms/content-flag
+- /terms/document-flag
+- /terms/layout-flag
+
+----
+
+Source:
+
+- /sources/npg

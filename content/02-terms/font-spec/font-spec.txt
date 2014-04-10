@@ -1,0 +1,22 @@
+Title: Font Spec
+
+----
+
+Text:
+
+A structure used to store information about a [font](/terms/font), including the font family, style, and point size.
+
+----
+
+Related:
+
+- /terms/font
+- /terms/font-size
+- /terms/font-style
+- /terms/styles
+
+----
+
+Source:
+
+- /sources/npg

@@ -1,0 +1,27 @@
+Title: Font
+
+----
+
+Text:
+
+A complete set of characters or glyphs from a given typeface design. For example, [System](/terms/system-font) is one of the typefaces included with the [Newton OS](/terms/newton-os), but 12pt System Bold is one of the fonts.
+
+----
+
+Related:
+
+- /terms/casual
+- /terms/espy
+- /terms/eworld
+- /terms/fancy
+- /terms/font-size
+- /terms/font-spec
+- /terms/font-style
+- /terms/simple
+- /terms/styles
+
+----
+
+Source:
+
+- /sources/nuig

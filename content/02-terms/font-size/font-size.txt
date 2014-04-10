@@ -1,0 +1,22 @@
+Title: Font Size
+
+----
+
+Text:
+
+The size of a font measured in points, also known as point size.
+
+----
+
+Related:
+
+- /terms/font
+- /terms/font-spec
+- /terms/font-style
+- /terms/styles
+
+----
+
+Source:
+
+- /sources/nuig

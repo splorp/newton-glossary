@@ -1,0 +1,23 @@
+Title: Flash Card
+
+----
+
+Text:
+
+A memory card using [flash RAM](/terms/flash-ram) chips that can be rewritten and hold its content without power. Commonly referred to as simply a [storage card](/terms/storage-card).
+
+----
+
+Related:
+
+- /terms/external-store
+- /terms/flash-ram
+- /terms/pc-card
+- /terms/pcmcia
+- /terms/storage-card
+
+----
+
+Source:
+
+- /sources/te

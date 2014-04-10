@@ -1,0 +1,19 @@
+Title: ExpertPad
+
+----
+
+Text:
+
+A Newton [clone](/terms/clone) developed by Sharp Electronics. Two versions of the ExpertPad were produced, the ExpertPad 7000 was equivalent to the [Original MessagePad](/terms/original-messagepad) (OMP) and the ExpertPad 7100 was equivalent to a [MessagePad 100](/terms/messagepad-100).
+
+----
+
+Related:
+
+- /terms/clone
+
+----
+
+Source:
+
+- /sources/tnc

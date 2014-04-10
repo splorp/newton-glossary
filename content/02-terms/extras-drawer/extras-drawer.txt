@@ -1,0 +1,26 @@
+Title: Extras Drawer
+
+----
+
+Text:
+
+A built-in [container view](/terms/container-view) that displays named [picture buttons](/terms/picture-button) or [icons](/terms/icon) a user can [tap](/terms/tap) to open [applications](/terms/application).
+
+----
+
+Related:
+
+- /terms/backdrop
+- /terms/container-view
+- /terms/drawer
+- /terms/extras
+- /terms/graphical-user-interface
+- /terms/gui
+- /terms/ui
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/nuig

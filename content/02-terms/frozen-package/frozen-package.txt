@@ -1,0 +1,27 @@
+Title: Frozen Package
+
+----
+
+Text:
+
+A [package](/terms/package) that has been suspended by [freezing](/terms/freezing) and is not active.
+
+----
+
+Related:
+
+- /terms/freeze
+- /terms/freezing
+- /terms/frozen
+- /terms/package
+- /terms/snowflake
+- /terms/thaw
+- /terms/thawed
+- /terms/thawed-package
+- /terms/thawing
+
+----
+
+Source:
+
+- /sources/hfaq

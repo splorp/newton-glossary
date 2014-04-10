@@ -1,0 +1,27 @@
+Title: Free Form Entry Field
+
+----
+
+Text:
+
+A [field](/terms/field) that accepts any characters as user input.
+
+----
+
+Related:
+
+- /terms/expando
+- /terms/field
+- /terms/graphical-user-interface
+- /terms/gui
+- /terms/input-area
+- /terms/input-line
+- /terms/restricted-entry-field
+- /terms/ui
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/npg

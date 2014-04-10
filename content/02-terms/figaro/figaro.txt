@@ -1,0 +1,22 @@
+Title: Figaro
+
+----
+
+Text:
+
+A speculative pen-based tablet computer concept that predated the original Newton project. Figaro would eventually evolve into the [Newton Plus](/terms/newton-plus) device, which was code named [Senior](/terms/senior).
+
+----
+
+Related:
+
+- /terms/cadillac
+- /terms/mont-blanc
+- /terms/newton-plus
+- /terms/senior
+
+----
+
+Source:
+
+- /sources/ad

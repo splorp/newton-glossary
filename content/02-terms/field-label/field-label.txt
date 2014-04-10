@@ -1,0 +1,29 @@
+Title: Field Label
+
+----
+
+Text:
+
+A static piece of text which describes the type of content contained within an associated data [field](/terms/field). An example of a field label would be the text “Address:” beside an [input area](/terms/input-area) where the user could enter a street number.
+
+----
+
+Related:
+
+- /terms/expando
+- /terms/field
+- /terms/free-form-entry-field
+- /terms/graphical-user-interface
+- /terms/gui
+- /terms/input-area
+- /terms/input-line
+- /terms/restricted-entry-field
+- /terms/slip
+- /terms/ui
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/gh
