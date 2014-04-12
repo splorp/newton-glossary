@@ -1,0 +1,23 @@
+Title: Function Object
+
+----
+
+Text:
+
+A [frame](/terms/frame) containing executable code. Function objects are created by the [function](/terms/function) constructor `func(args) funcBody`.
+
+An executable function object includes values for its lexical and message environment, as well as code. This information is captured when the function constructor is evaluated at run time.
+
+----
+
+Related:
+
+- /terms/frame
+- /terms/function
+- /terms/function-stack-call
+
+----
+
+Source:
+
+- /sources/npg

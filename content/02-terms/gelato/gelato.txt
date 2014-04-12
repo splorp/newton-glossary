@@ -1,0 +1,21 @@
+Title: Gelato
+
+----
+
+Text:
+
+Code name of the [MessagePad 120](/terms/messagepad-120) device.
+
+
+----
+
+Related:
+
+- /terms/messagepad-120
+- /terms/mp120
+
+----
+
+Source:
+
+- /sources/bt

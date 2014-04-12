@@ -1,0 +1,21 @@
+Title: Function Call Stack
+
+----
+
+Text:
+
+A virtual [stack](/terms/stack) that contains an [activation record](/terms/stack-activation-record) for each active [function](/terms/function).
+
+----
+
+Related:
+
+- /terms/function
+- /terms/stack
+- /terms/stack-activation-record
+
+----
+
+Source:
+
+- /sources/ntk

@@ -4,7 +4,7 @@ Title: Sibling
 
 Text:
 
-[Child](/terms/child) frames that have the same [parent](/terms/parent) frame.
+A [child](/terms/child) frame that has the same [parent](/terms/parent) frame.
 
 ----
 
