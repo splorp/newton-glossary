@@ -8,6 +8,8 @@ To suspend the activity of an [application](/terms/application) or [extension](/
 
 To reactivate a package, you [thaw](/terms/thaw) it.
 
+Freeze also refers to a situation where the operating system becomes unresponsive, usually due to a lack of [heap space](/terms/heap-space).
+
 ----
 
 Related:
@@ -15,6 +17,9 @@ Related:
 - /terms/freezing
 - /terms/frozen
 - /terms/frozen-package
+- /terms/grip-of-death
+- /terms/heap
+- /terms/heap-space
 - /terms/package
 - /terms/snowflake
 - /terms/thaw
