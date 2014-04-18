@@ -10,6 +10,13 @@ There is also a [searchable version](http://tools.unna.org/glossary/) of the glo
 
 As with any specialized compendium, the contents are never perfect or completely finished. All suggestions, corrections, complaints, and [pull requests](https://github.com/splorp/newton-glossary/pulls) will be happily accepted. If possible, please use the project’s [issue tracker](https://github.com/splorp/newton-glossary/issues) for any input you might have.
 
+## We &hearts; Words
+
+Here are a few more references we love.
+
++ [Neoglossary](http://neoglossary.tumblr.com/) by [Riccardo Mori](http://morrick.me/)
++ [The Free On-line Dictionary of Computing](http://foldoc.org/) by [Denis Howe](https://plus.google.com/+DenisHowe/posts)
+
 ## Colophon
 
 This iteration of the glossary is formatted in [Markdown](http://daringfireball.net/projects/markdown/) using plain text files and published using [Kirby](http://getkirby.com/) — an extensible content management system build on PHP.

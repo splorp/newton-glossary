@@ -3,16 +3,37 @@
 
 #### An almost definitive guide to Newton-related terms and definitions.
 
-The majority of the terms found in this glossary were compiled by [Grant Hutchinson](http://splorp.com/) between 2001 and 2004, with gobs of help from [Paul Guyot](http://www.kallisys.com/), [Victor Rehorst](http://www.chuma.org/), and members of the [NewtonTalk](http://newtontalk.net/) community.
+[glossary.splorp.me](http://glossary.splorp.me/)
 
-As with any specialized compendium, the contents are never perfect or completely finished. All suggestions, corrections, complaints, and pull requests will be happily accepted.
+
+## About
+
+The bulk of the terms found in this glossary were compiled from numerous [sources](http://glossary.splorp.me/sources) by [Grant Hutchinson](http://splorp.com/) between 2001 and 2004, with help from [Paul Guyot](http://www.kallisys.com/), [Victor Rehorst](http://www.chuma.org/), and countless members of the [NewtonTalk](http://newtontalk.net/) community.
 
 There is also a [searchable version](http://tools.unna.org/glossary/) of the glossary created by Victor Rehorst and currently maintained by [Morgan Aldridge](https://github.com/morgant) as part of the [United Network of Newton Archives](http://www.unna.org/).
 
+As with any specialized compendium, the contents are never perfect or completely finished. All suggestions, corrections, complaints, and [pull requests](https://github.com/splorp/newton-glossary/pulls) will be happily accepted. If possible, please use the project’s [issue tracker](https://github.com/splorp/newton-glossary/issues) for any input you might have.
 
-## Why GitHub?
 
-GitHub is a simple way to host, share, and apply the “peace of mind” of version control to all sorts of code. This iteration of the Newton Glossary is written in [Markdown](http://daringfireball.net/projects/markdown/) and published using [Kirby](http://getkirby.com/), a file-based CMS platform built on PHP. Since the content will undoubtedly go through countless changes by multiple contributors over time — GitHub seemed like a perfect place to maintain it.
+## We &hearts; Words
+
+Here are a few more references we love.
+
++ [Neoglossary](http://neoglossary.tumblr.com/) by [Riccardo Mori](http://morrick.me/)
++ [The Free On-line Dictionary of Computing](http://foldoc.org/) by [Denis Howe](https://plus.google.com/+DenisHowe/posts)
+
+## Colophon
+
+This iteration of the glossary is formatted in [Markdown](http://daringfireball.net/projects/markdown/) using plain text files and published using [Kirby](http://getkirby.com/) — an extensible content management system build on PHP.
+
+For peace of mind and ease of maintenance, the project resides in a public [GitHub](https://github.com/splorp/newton-glossary/) repository.
+
+To add a bit of spit and shine to our Kirby experience, we’re also using the following handy dandy plugins.
+
++ [Alphabetise](https://github.com/shoesforindustry/kirbycms-extensions/tree/master/plugins/alphabetise) by [Russ Baldwin](http://shoesforindustry.net/)
++ [Related Pages](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) by [Bastian Allgeier](http://bastianallgeier.com/)
+
+Finally, thank goodness for [BBEdit](http://www.barebones.com/products/bbedit/).
 
 
 ## Contact
