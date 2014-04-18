@@ -1,0 +1,27 @@
+Title: Hard Reset
+
+----
+
+Text:
+
+A technique to completely erase all user data, including [applications](/terms/application) and [packages](/terms/package), from a Newton device. Also referred to as a [Brain Wipe](/terms/brain-wipe) or [Cold Boot](/terms/cold-boot).
+
+----
+
+Related:
+
+- /terms/brain-wipe
+- /terms/cold-boot
+- /terms/deep-reset
+- /terms/hardware-reset
+- /terms/power-reset
+- /terms/reset
+- /terms/reset-button
+- /terms/soft-reset
+- /terms/system-reset
+
+----
+
+Source:
+
+- /sources/hfaq

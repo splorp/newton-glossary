@@ -1,0 +1,24 @@
+Title: Global
+
+----
+
+Text:
+
+A [variable](/terms/variable) or [function](/terms/function) that is accessible from any [NewtonScript](/terms/newtonscript) code.
+
+----
+
+Related:
+
+- /terms/constant
+- /terms/function
+- /terms/global
+- /terms/local
+- /terms/newtonscript
+- /terms/variable
+
+----
+
+Source:
+
+- /sources/npg

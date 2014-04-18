@@ -1,0 +1,18 @@
+Title: Hammer
+
+----
+
+Text:
+
+A low level debugger for [Newton OS](/terms/newton-os) development that runs on a Macintosh. Used to debug C, C++, or [ARM](/terms/arm) assembler code that will eventually run on a Newton device.
+
+----
+
+Related:
+
+- /terms/macintosh-programmers-workshop
+- /terms/mpw
+- /terms/nct
+- /terms/newton-c-toolbox
+- /terms/newtsbug
+- /terms/viewframe

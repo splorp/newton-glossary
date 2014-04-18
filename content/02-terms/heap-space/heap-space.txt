@@ -1,0 +1,7 @@
+Title: Heap Space
+
+----
+
+Text:
+
+See [Heap](/terms/heap)

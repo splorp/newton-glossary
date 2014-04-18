@@ -1,0 +1,20 @@
+Title: H1000
+
+----
+
+Text:
+
+The model number of the original MessagePad (or [OMP](/terms/omp)) and the subsequent [MessagePad 100](/terms/messagepad-100).
+
+----
+
+Related:
+
+- /terms/batman
+- /terms/batmobile
+- /terms/junior
+- /terms/messagepad
+- /terms/messagepad-100
+- /terms/mp100
+- /terms/omp
+- /terms/wedge

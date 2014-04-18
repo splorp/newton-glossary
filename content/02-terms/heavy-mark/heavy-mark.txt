@@ -1,0 +1,21 @@
+Title: Heavy Mark
+
+----
+
+Text:
+
+A large dot that appears when you hold the [pen](/terms/pen) down in one place on the Newton screen. Used to start the action of selecting a block of text or a [shape](/terms/shape). The Newton device will audibly [squeak](/terms/squeak) when the dot appears.
+
+----
+
+Related:
+
+- /terms/highlight
+- /terms/pen
+- /terms/squeak
+
+----
+
+Source:
+
+- /sources/mph

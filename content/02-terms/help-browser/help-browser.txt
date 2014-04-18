@@ -1,0 +1,27 @@
+Title: Help Browser
+
+----
+
+Text:
+
+An outline-based help screen interface that uses [help book](help-book) data created by the [Newton Book Maker](/terms/newton-book-maker). Generally used to provide information about a specific applications. The help browser provides only a subset of the capabilities of the [Newton Book Reader](/terms/newton-book-reader).
+
+----
+
+Related:
+
+- /terms/book
+- /terms/book-maker
+- /terms/book-reader
+- /terms/help-book
+- /terms/newton-book
+- /terms/newton-book-maker
+- /terms/newton-book-reader
+- /terms/newton-digital-book
+- /terms/newton-press
+
+----
+
+Source:
+
+- /sources/nbm

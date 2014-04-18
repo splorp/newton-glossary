@@ -1,0 +1,19 @@
+Title: HideE
+
+----
+
+Text:
+
+An [application](/terms/application) installed with later versions of the [Newton OS](/terms/newton-os) which disabled the [stationery](/terms/stationery) used to access Apple’s [eWorld](/terms/eworld) online service.
+
+----
+
+Related:
+
+- /terms/eworld
+
+----
+
+Source:
+
+- /sources/nh
