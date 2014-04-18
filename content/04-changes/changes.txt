@@ -2,11 +2,24 @@ Title: Change Log
 
 ----
 
-Description: A chronological list of major changes and updates to the Newton Glossary.
+Description: A chronological list of major changes and updates.
 
 ----
 
 Text:
+
+## TBD
+
+Version: 2.0.0
+Terms:
+
+### Summary of changes:
+
++ Migrated project to [GitHub](https://github.com/)
++ Migrated project contents to use the [Kirby](http://getkirby.com/) publishing platform
++ Integrated backlog of addenda and updates since version 1.0.5
++ Expanded metadata and background information for [sources](/sources)
++ Added an [About](/about) section
 
 ## 21 November 2004
 
