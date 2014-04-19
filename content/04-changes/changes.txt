@@ -1,4 +1,4 @@
-Title: Change Log
+Title: Changes
 
 ----
 
@@ -7,6 +7,8 @@ Description: A chronological list of major changes and updates made to the gloss
 ----
 
 Text:
+
+A chronological list of major changes and updates.
 
 ## TBD
 
