@@ -1,0 +1,23 @@
+Title: Immediate
+
+----
+
+Text:
+
+A value that is stored directly rather than through an indirect [reference](/terms/reference) to a [heap](/terms/heap) [object](/terms/object). Immediates are [characters](/terms/character), integers, or [Booleans](/terms/booleans).
+
+----
+
+Related:
+
+- /terms/array
+- /terms/booleans
+- /terms/object
+- /terms/reference
+- /terms/slot
+
+----
+
+Source:
+
+- /sources/npg

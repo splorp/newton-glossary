@@ -1,0 +1,26 @@
+Title: Implementor
+
+----
+
+Text:
+
+The [frame](/terms/frame) in which a [method](/terms/method) is defined.
+
+----
+
+Related:
+
+- /terms/frame
+- /terms/message
+- /terms/method
+- /terms/object
+- /terms/option-frame
+- /terms/receiver
+- /terms/self
+- /terms/stack-activation-record
+
+----
+
+Source:
+
+- /sources/npg

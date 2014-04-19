@@ -1,0 +1,23 @@
+Title: Highlight
+
+----
+
+Text:
+
+To make something visually distinct, typically when it’s selected. Usually done by reversing black and white areas.
+
+----
+
+Related:
+
+- /terms/graphical-user-interface
+- /terms/gui
+- /terms/heavy-mark
+- /terms/ui
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/nuig
