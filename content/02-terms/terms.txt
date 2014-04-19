@@ -2,6 +2,10 @@ Title: Terms
 
 ----
 
+Description: A alphabetical list of terms contained in the glossary.
+
+----
+
 Text:
 
 This will likely say something about the terms.

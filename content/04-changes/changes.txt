@@ -2,7 +2,7 @@ Title: Change Log
 
 ----
 
-Description: A chronological list of major changes and updates.
+Description: A chronological list of major changes and updates made to the glossary.
 
 ----
 

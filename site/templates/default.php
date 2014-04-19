@@ -1,4 +1,6 @@
-<?php snippet('header', array('title' => $page->title(), 'page_description' => excerpt(kirbytext($page->text()), 300))); ?>
+<?php if($page->description() != '') { $page_description = $page->description(); } else { $page_description = excerpt(kirbytext($page->text()), 300); } ?>
+
+<?php snippet('header', array('title' => $page->title(), 'page_description' => $page_description)); ?>
 <?php snippet('menu') ?>
 <?php $page->isChildOf($pages->find('terms')) || $page->isChildOf($pages->find('sources')) ? snippet('prevnext') : '' ; ?>
 
