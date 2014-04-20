@@ -5,3 +5,4 @@ Title: TechEncyclopedia
 Text:
 
 http://www.techweb.com/encyclopedia/
+New: http://www.computerlanguage.com/
