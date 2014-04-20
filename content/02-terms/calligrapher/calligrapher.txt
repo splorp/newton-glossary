@@ -14,6 +14,7 @@ Related:
 - /terms/egg-freckles
 - /terms/handwriting-recognition
 - /terms/hwr
+- /terms/ink
 - /terms/print-recognizer
 - /terms/recognized-text
 - /terms/recognizer

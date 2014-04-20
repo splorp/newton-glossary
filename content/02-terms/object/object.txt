@@ -10,12 +10,22 @@ A typed piece of data that can be an [immediate](/terms/immediate) value, [array
 
 Related:
 
+- /terms/alias
 - /terms/array
+- /terms/array-elements
 - /terms/binary-object
 - /terms/frame
 - /terms/immediate
+- /terms/inheritance
+- /terms/instantiate
+- /terms/magic-pointer
+- /terms/magic-pointers-table
 - /terms/message
 - /terms/method
+- /terms/path-expression
+- /terms/reference
+- /terms/vbo
+- /terms/virtual-binary-object
 
 ----
 
