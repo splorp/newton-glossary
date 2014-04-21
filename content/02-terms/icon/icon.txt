@@ -16,6 +16,8 @@ Related:
 - /terms/graphical-user-interface
 - /terms/gui
 - /terms/hard-button
+- /terms/newton-user-interface
+- /terms/nui
 - /terms/picture-button
 - /terms/picture-radio-button
 - /terms/script-icon

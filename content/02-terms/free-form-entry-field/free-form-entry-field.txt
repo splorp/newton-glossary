@@ -16,6 +16,8 @@ Related:
 - /terms/gui
 - /terms/input-area
 - /terms/input-line
+- /terms/newton-user-interface
+- /terms/nui
 - /terms/restricted-entry-field
 - /terms/ui
 - /terms/user-interface

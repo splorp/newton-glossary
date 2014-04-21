@@ -20,6 +20,8 @@ Related:
 - /terms/hard-button
 - /terms/keyboard-equivalent
 - /terms/large-close-box
+- /terms/newton-user-interface
+- /terms/nui
 - /terms/picture-button
 - /terms/picture-radio-button
 - /terms/radio-button
