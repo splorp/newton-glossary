@@ -18,6 +18,7 @@ Related:
 - /terms/graphical-user-interface
 - /terms/gui
 - /terms/hard-button
+- /terms/interface
 - /terms/keyboard-equivalent
 - /terms/large-close-box
 - /terms/newton-user-interface

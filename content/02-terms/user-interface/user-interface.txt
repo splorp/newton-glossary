@@ -12,6 +12,7 @@ Related:
 
 - /terms/graphical-user-interface
 - /terms/gui
+- /terms/interface
 - /terms/newton-user-interface
 - /terms/nui
 - /terms/ui

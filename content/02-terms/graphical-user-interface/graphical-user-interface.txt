@@ -11,6 +11,7 @@ The use of pictures and icons rather than text to represent the input and output
 Related:
 
 - /terms/gui
+- /terms/interface
 - /terms/newton-user-interface
 - /terms/nui
 - /terms/ui

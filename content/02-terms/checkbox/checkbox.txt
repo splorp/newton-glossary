@@ -13,6 +13,7 @@ Related:
 - /terms/button
 - /terms/graphical-user-interface
 - /terms/gui
+- /terms/interface
 - /terms/newton-user-interface
 - /terms/nui
 - /terms/radio-button
