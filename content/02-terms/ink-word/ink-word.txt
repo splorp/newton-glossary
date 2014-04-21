@@ -1,0 +1,23 @@
+Title: Ink Text
+
+----
+
+Text:
+
+Words written in [electronic ink](/terms/electronic-ink).
+
+----
+
+Related:
+
+- /terms/electronic-ink
+- /terms/ink
+- /terms/ink-word
+- /terms/raw-ink
+- /terms/sketch-ink
+
+----
+
+Source:
+
+- /sources/nuig

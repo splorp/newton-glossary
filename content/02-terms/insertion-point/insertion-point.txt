@@ -1,0 +1,13 @@
+Title: Insertion Point
+
+----
+
+Text:
+
+See [Caret]{/terms/caret)
+
+----
+
+Source:
+
+- /sources/nuig

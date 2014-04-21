@@ -4,7 +4,7 @@ Title: Gelato
 
 Text:
 
-Code name of the [MessagePad 120](/terms/messagepad-120) device.
+Code name of the [MessagePad 120](/terms/messagepad-120) device. The name Gelato was chosen because the device came in two “flavors” — 1MB and 2MB memory configurations.
 
 
 ----
@@ -19,3 +19,4 @@ Related:
 Source:
 
 - /sources/bt
+- /sources/mkd

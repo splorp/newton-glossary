@@ -1,0 +1,25 @@
+Title: In/Out Box
+
+----
+
+Text:
+
+The [application](/terms/application) that serves as a central repository for all incoming and outgoing data handled by the [routing](/terms/routing) and [transport](/terms/transport) interfaces. The In/Out Box application is specifically part of [Newton OS](/terms/newton-os) 2.x, whereas Newton OS 1.x utilizes separate applications for the [In Box](/terms/in-box) and [Out Box](/terms/out-box).
+
+----
+
+Related:
+
+- /terms/in-box
+- /terms/item-frame
+- /terms/newtdump
+- /terms/out-box
+- /terms/routing
+- /terms/simplemail
+- /terms/transport
+
+----
+
+Source:
+
+- /sources/npg

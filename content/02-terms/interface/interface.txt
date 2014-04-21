@@ -1,0 +1,7 @@
+Title: Interface
+
+----
+
+Text:
+
+See [Newton User Interface](/terms/newton-user-interface) and [User Interface](/terms/user-interface)

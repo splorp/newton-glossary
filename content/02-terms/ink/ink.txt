@@ -1,0 +1,37 @@
+Title: Ink
+
+----
+
+Text:
+
+The raw data for input drawn by the user with the stylus. Also known as [raw ink](/terms/raw-ink) or [sketch ink](/terms/sketch-ink).
+
+Also the name of the preference pane used to control the Mac OS X version of the Newton [handwriting recognition](/terms/handwriting-recognition) system, originally dubbed [InkWell](/terms/inkwell).
+
+(cf. screenshots)
+
+----
+
+Related:
+
+- /terms/deferred-recognition
+- /terms/electronic-ink
+- /terms/handwriting-recognition
+- /terms/hwr
+- /terms/ink-text
+- /terms/ink-word
+- /terms/inkbar
+- /terms/inker
+- /terms/inkpad
+- /terms/inkwell
+- /terms/raw-ink
+- /terms/recognized-text
+- /terms/rich-string
+- /terms/rich-string-format
+- /terms/sketch-ink
+
+----
+
+Source:
+
+- /sources/npg
