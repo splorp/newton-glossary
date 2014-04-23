@@ -16,6 +16,7 @@ Related:
 - /terms/ink
 - /terms/ink-text
 - /terms/ink-word
+- /terms/inker
 - /terms/recognized-text
 
 ----

@@ -10,12 +10,14 @@ A type of communications connection such as a serial connection, modem, [infrare
 
 Related:
 
-- /terms/option-frame
-- /terms/output-spec
-- /terms/transport
-- /terms/input-spec
 - /terms/callback-spec
 - /terms/endpoint-option
+- /terms/input
+- /terms/input-spec
+- /terms/option-frame
+- /terms/output
+- /terms/output-spec
+- /terms/transport
 
 ----
 
