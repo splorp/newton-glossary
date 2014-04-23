@@ -5,6 +5,7 @@ Title: Ink Text
 Text:
 
 Words written in [electronic ink](/terms/electronic-ink).
+_cf. screenshot_
 
 ----
 
