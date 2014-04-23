@@ -1,0 +1,27 @@
+Title: InkPad
+
+----
+
+Text:
+
+A simple notepad interface where handwritten input is converted into editable text when using the [InkWell](/terms/inkwell) handwriting recognition system.
+
+_cf. screenshot_
+
+----
+
+Related:
+
+- /terms/handwriting-recognition
+- /terms/hwr
+- /terms/ink
+- /terms/inkbar
+- /terms/inkwell
+- /terms/rosetta
+- /terms/rosetta-stone
+
+----
+
+Source:
+
+- /sources/zd

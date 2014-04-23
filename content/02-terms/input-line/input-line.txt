@@ -1,0 +1,29 @@
+Title: Input Line
+
+----
+
+Text:
+
+An [input area](/terms/input-area) in a [container view](/terms/container-view) where a user can write one line of text.
+
+----
+
+Related:
+
+- /terms/field
+- /terms/free-form-entry-field
+- /terms/graphical-user-interface
+- /terms/gui
+- /terms/input-area
+- /terms/interface
+- /terms/newton-user-interface
+- /terms/nui
+- /terms/restricted-entry-field
+- /terms/ui
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/nuig

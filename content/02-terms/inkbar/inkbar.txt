@@ -1,0 +1,27 @@
+Title: InkBar
+
+----
+
+Text:
+
+A collapsible toolbar interface for the [InkWell](/terms/inkwell) handwriting recognition system that allowed for customization of various preferences.
+
+_cf. screenshot_
+
+----
+
+Related:
+
+- /terms/handwriting-recognition
+- /terms/hwr
+- /terms/ink
+- /terms/inkpad
+- /terms/inkwell
+- /terms/rosetta
+- /terms/rosetta-stone
+
+----
+
+Source:
+
+- /sources/zd

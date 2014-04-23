@@ -1,0 +1,17 @@
+Title: Internal Store
+
+----
+
+Text:
+
+A portion of the built-in [system memory](/terms/system-memory) that stores packages and user data.
+
+----
+
+Related:
+
+- /terms/external-store
+- /terms/store
+- /terms/system-memory
+- /terms/system-ram
+- /terms/usage-storage

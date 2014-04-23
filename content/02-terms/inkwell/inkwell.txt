@@ -1,0 +1,27 @@
+Title: InkWell
+
+----
+
+Text:
+
+The purported name of the Mac OS version of the Newton [handwriting recognition](/terms/handwriting-recognition) system, eventually known simply as the [Ink](/terms/ink) preference pane in early releases of Mac OS X. The InkWell interface consisted of the [InkBar](/terms/inkbar) toolbar and the [InkPad](/terms/inkpad) notepad.
+
+_cf. screenshots_
+
+----
+
+Related:
+
+- /terms/handwriting-recognition
+- /terms/hwr
+- /terms/ink
+- /terms/inkbar
+- /terms/inkpad
+- /terms/rosetta
+- /terms/rosetta-stone
+
+----
+
+Source:
+
+- /sources/zd
