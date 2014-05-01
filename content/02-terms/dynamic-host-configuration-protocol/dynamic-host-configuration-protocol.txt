@@ -13,3 +13,5 @@ Related:
 - /terms/dhcp
 - /terms/ip
 - /terms/protocol
+- /terms/tcp
+- /terms/tcp-ip

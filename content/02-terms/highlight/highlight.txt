@@ -4,7 +4,7 @@ Title: Highlight
 
 Text:
 
-To make something visually distinct, typically when it’s selected. Usually done by reversing black and white areas.
+To make something visually distinct, typically when it’s selected. Usually done by reversing or [inverting](/terms/invert) black and white areas.
 
 ----
 
@@ -14,6 +14,7 @@ Related:
 - /terms/gui
 - /terms/heavy-mark
 - /terms/interface
+- /terms/invert
 - /terms/newton-user-interface
 - /terms/nui
 - /terms/ui
