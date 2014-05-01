@@ -1,0 +1,29 @@
+Title: Item Info Slip
+
+----
+
+Text:
+
+A [container view](/terms/container-view) that displays statistics and related information for an item. This information includes the title, type, creation date, size, and [store](/terms/store) location of the item. A user can [edit](/terms/edit) an item’s title in the [slip](/terms/slip).
+
+_cf. screenshot_
+
+----
+
+Related:
+
+- /terms/call-slip
+- /terms/confirmation-slip
+- /terms/container-view
+- /terms/find-slip
+- /terms/memory-info-slip
+- /terms/notification-slip
+- /terms/routing-slip
+- /terms/slip
+- /terms/status-slip
+
+----
+
+Source:
+
+- /sources/nuig

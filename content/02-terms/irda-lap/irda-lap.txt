@@ -1,0 +1,26 @@
+Title: IrDA-LAP
+
+----
+
+Text:
+
+The link access component of the [IrDA](/terms/irda) communications [protocol](/terms/protocol).
+
+----
+
+Related:
+
+- /terms/ask
+- /terms/beaming
+- /terms/infrared-data-association
+- /terms/irda
+- /terms/irda-lmp
+- /terms/irda-sir
+- /terms/protocol
+- /terms/squirting
+
+----
+
+Source:
+
+- /sources/irfaq
