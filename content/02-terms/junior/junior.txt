@@ -1,0 +1,25 @@
+Title: Junior
+
+----
+
+Text:
+
+Code name for the final design of original [MessagePad](/terms/messagepad). Also referred to as [Pocket Newton](/terms/pocket-newton).
+
+----
+
+Related:
+
+- /terms/batman
+- /terms/batmobile
+- /terms/h1000
+- /terms/messagepad
+- /terms/omp
+- /terms/pocket-newton
+- /terms/wedge
+
+----
+
+Source:
+
+- /sources/dg
