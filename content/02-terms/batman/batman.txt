@@ -15,6 +15,7 @@ Related:
 - /terms/junior
 - /terms/messagepad
 - /terms/omp
+- /terms/pocket-newton
 - /terms/wedge
 
 ----
