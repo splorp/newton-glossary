@@ -12,15 +12,19 @@ Sometimes referred to as [dot commands](/terms/dot-commands) because the command
 
 Related:
 
+- /terms/book
 - /terms/book-commands
 - /terms/book-maker-commands
 - /terms/book-source-file
 - /terms/content-command
 - /terms/document-command
 - /terms/dot-commands
+- /terms/help-book
 - /terms/layout-command
 - /terms/newton-book
 - /terms/newton-book-maker
+- /terms/newton-digital-book
+
 
 ----
 

@@ -17,8 +17,10 @@ Related:
 - /terms/book-source-file
 - /terms/help-book
 - /terms/help-browser
+- /terms/newton-book
 - /terms/newton-book-maker
 - /terms/newton-book-reader
+- /terms/newton-digital-book
 - /terms/newton-toolkit
 
 ----

@@ -14,6 +14,9 @@ Related:
 - /terms/book-maker
 - /terms/book-reader
 - /terms/claris-xtnd
+- /terms/help-book
+- /terms/help-browser
 - /terms/newton-book
 - /terms/newton-book-maker
 - /terms/newton-book-reader
+- /terms/newton-digital-book

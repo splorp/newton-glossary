@@ -11,7 +11,11 @@ An instruction that causes the Newton or a device connected to it to perform som
 Related:
 
 - /terms/book-maker-commands
+- /terms/content-command
+- /terms/document-command
+- /terms/dot-commands
 - /terms/keyboard-equivalent
+- /terms/layout-command
 
 ----
 
