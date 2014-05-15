@@ -4,7 +4,9 @@ Title: Command
 
 Text:
 
-An instruction that causes the Newton or a device connected to it to perform some action. The user issues a command by [tapping](/terms/tapping) a [button](/terms/button), choosing an item from a [picker](/terms/picker), or typing a specific keystroke. Commands are also text-based instructions used to tag specific content items when creating a [Newton Book](/terms/newton-book) source file.
+An instruction that causes the Newton or a device connected to it to perform some action. The user issues a command by [tapping](/terms/tapping) a [button](/terms/button), choosing an item from a [picker](/terms/picker), or typing a specific keystroke.
+
+Commands or [dot commands](/terms/dot-commands) are also text-based instructions used to tag specific content items when creating a [Newton Book](/terms/newton-book) source file.
 
 ----
 
