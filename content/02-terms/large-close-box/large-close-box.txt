@@ -1,0 +1,31 @@
+Title: Large Close Box
+
+----
+
+Text:
+
+A [button](/terms/button) that behaves the same as a [close box](/terms/close-box) but is slightly larger to match the standard height of a [text button](/terms/text-button).
+
+----
+
+Related:
+
+- /terms/button
+- /terms/close
+- /terms/close-box
+- /terms/container-view
+- /terms/graphical-user-interface
+- /terms/gui
+- /terms/interface
+- /terms/newton-user-interface
+- /terms/nui
+- /terms/text-button
+- /terms/ui
+- /terms/user-interface
+- /terms/x
+
+----
+
+Source:
+
+- /sources/nuig

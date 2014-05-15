@@ -1,0 +1,22 @@
+Title: Kernel
+
+----
+
+Text:
+
+The essential part of an operating system, responsible for operation such as resource allocation and low-level hardware communication.
+
+----
+
+Related:
+
+- /terms/newton-os
+- /terms/nos
+- /terms/operating-system
+- /terms/os
+
+----
+
+Source:
+
+- /sources/foldoc

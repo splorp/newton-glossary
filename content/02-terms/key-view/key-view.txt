@@ -1,0 +1,28 @@
+Title: Key View
+
+----
+
+Text:
+
+The [container view](/terms/container-view) that receives keyboard input and contains the either the text insertion [caret](/terms/caret) or the text selection, if present.
+
+----
+
+Related:
+
+- /terms/auto-repeat
+- /terms/caret
+- /terms/container-view
+- /terms/default-action
+- /terms/floating-container-view
+- /terms/keyboard-equivalent
+- /terms/parent-view
+- /terms/sibling-view
+- /terms/type-ahead
+- /terms/view
+
+----
+
+Source:
+
+- /sources/nuiga

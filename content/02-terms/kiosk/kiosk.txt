@@ -1,0 +1,25 @@
+Title: Kiosk
+
+----
+
+Text:
+
+A navigational page in a [Newton Book](/terms/newton-book). [Tapping](/terms/tapping) an item on the kiosk page — such as a picture — takes the user directly to the subject matter it represents.
+
+----
+
+Related:
+
+- /terms/book
+- /terms/book-reader
+- /terms/help-book
+- /terms/help-browser
+- /terms/newton-book
+- /terms/newton-book-reader
+- /terms/newton-digital-book
+
+----
+
+Source:
+
+- /sources/nbm

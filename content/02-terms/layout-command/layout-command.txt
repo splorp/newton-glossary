@@ -1,0 +1,30 @@
+Title: Layout Command
+
+----
+
+Text:
+
+A [Newton Book Maker](/terms/newton-book-maker) command that defines the [layout](/terms/layout) of content in a [Newton book](/terms/newton-book).
+
+----
+
+Related:
+
+- /terms/book
+- /terms/book-maker
+- /terms/book-maker-commands
+- /terms/book-source-file
+- /terms/content-command
+- /terms/document-command
+- /terms/dot-commands
+- /terms/help-book
+- /terms/layout
+- /terms/newton-book
+- /terms/newton-book-maker
+- /terms/newton-digital-book
+
+----
+
+Source:
+
+- /sources/nbm
