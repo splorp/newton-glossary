@@ -10,13 +10,18 @@ The [container view](/terms/container-view) that receives keyboard input and con
 
 Related:
 
+- /terms/application-base-view
 - /terms/auto-repeat
 - /terms/caret
+- /terms/child-view
 - /terms/container-view
 - /terms/default-action
 - /terms/floating-container-view
 - /terms/keyboard-equivalent
+- /terms/layout-view
+- /terms/main-view
 - /terms/parent-view
+- /terms/root-view
 - /terms/sibling-view
 - /terms/type-ahead
 - /terms/view

@@ -4,14 +4,16 @@ Title: Child
 
 Text:
 
-A [frame](/terms/frame) that references another its [parent](/terms/parent) frame. With regard to [views](/terms/view), a child view is enclosed by its parent view.
+A [frame](/terms/frame) that references another its [parent](/terms/parent) frame. With regard to [views](/terms/view), a [child view](/terms/child-view) is enclosed by its [parent view](/terms/parent-view).
 
 ----
 
 Related:
 
+- /terms/child-view
 - /terms/frame
 - /terms/parent
+- /terms/parent-view
 - /terms/sibling
 - /terms/view
 
