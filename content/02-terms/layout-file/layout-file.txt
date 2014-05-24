@@ -1,0 +1,21 @@
+Title: Layout File
+
+----
+
+Text:
+
+A file that contains [templates](/terms/template) for the [views](/terms/view) that are laid out by [Newton Toolkit](/terms/newton-toolkit).
+
+----
+
+Related:
+
+- /terms/layout-view
+- /terms/template
+- /terms/view
+
+----
+
+Source:
+
+- /sources/ntk

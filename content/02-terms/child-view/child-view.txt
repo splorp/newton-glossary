@@ -1,0 +1,23 @@
+Title: Child View
+
+----
+
+Text:
+
+A [child view](/terms/child-view) is a visual object represented on the screen, enclosed by a [parent view](/terms/parent-view).
+
+----
+
+Related:
+
+- /terms/child
+- /terms/parent
+- /terms/parent-view
+- /terms/sibling
+- /terms/view
+
+----
+
+Source:
+
+- /sources/npg

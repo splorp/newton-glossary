@@ -1,0 +1,30 @@
+Title: Layout
+
+----
+
+Text:
+
+The specific placement of text and graphics on the page of a [Newton book](/terms/newton-book), as defined by various [layout commands](/terms/layout-command).
+
+----
+
+Related:
+
+- /terms/book
+- /terms/book-maker
+- /terms/book-maker-commands
+- /terms/book-source-file
+- /terms/content-command
+- /terms/document-command
+- /terms/dot-commands
+- /terms/help-book
+- /terms/layout-command
+- /terms/newton-book
+- /terms/newton-book-maker
+- /terms/newton-digital-book
+
+----
+
+Source:
+
+- /sources/nbm
