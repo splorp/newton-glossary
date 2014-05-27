@@ -1,0 +1,20 @@
+Title: Liquid Crystal Display
+
+----
+
+Text:
+
+An thin, electro-optical component used as the primary display technology on the Newton and other electronic devices.
+
+----
+
+Related:
+
+- /terms/backlight
+- /terms/lcd
+
+----
+
+Source:
+
+- /sources/foldoc

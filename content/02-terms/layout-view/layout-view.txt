@@ -1,0 +1,21 @@
+Title: Layout View
+
+----
+
+Text:
+
+The topmost [parent](/terms/view) of all other [views](/terms/view) in a single [layout file](/terms/layout-file).
+
+----
+
+Related:
+
+- /terms/layout-file
+- /terms/parent
+- /terms/view
+
+----
+
+Source:
+
+- /sources/ntk

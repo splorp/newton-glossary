@@ -1,0 +1,26 @@
+Title: Squirting
+
+----
+
+Text:
+
+A term used by early Newton developers to denote [beaming](/terms/beaming) of information between Newton devices using the [infrared](/terms/infrared) communications port.
+
+----
+
+Related:
+
+- /terms/beam
+- /terms/beaming
+- /terms/endpoint
+- /terms/infrared
+- /terms/irda
+- /terms/newtir
+- /terms/routing
+- /terms/squirt
+
+----
+
+Source:
+
+- /sources/dg

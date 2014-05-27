@@ -1,0 +1,25 @@
+Title: Line
+
+----
+
+Text:
+
+A [shape](/terms/shape) defined by two points — the current x and y location of the [pen](/terms/pen) and the x and y location of the pen’s destination.
+
+----
+
+Related:
+
+- /terms/arc
+- /terms/oval
+- /terms/polygon
+- /terms/rectangle
+- /terms/rounded-rectangle
+- /terms/shape
+- /terms/wedge
+
+----
+
+Source:
+
+- /sources/npg

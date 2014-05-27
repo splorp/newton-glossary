@@ -1,0 +1,31 @@
+Title: Local Scroll Arrows
+
+----
+
+Text:
+
+A pair of [buttons](/terms/button) modeled after standard [scroll arrows](/terms/scroll-arrows) that are used to control a [scrolling list](/terms/scrolling-list) of text items within a specific [application](/terms/application).
+
+----
+
+Related:
+
+- /terms/button
+- /terms/clank
+- /terms/graphical-user-interface
+- /terms/gui
+- /terms/interface
+- /terms/newton-user-interface
+- /terms/nui
+- /terms/scroll
+- /terms/scroll-arrows
+- /terms/scrolling-list
+- /terms/ui
+- /terms/universal-scroll-arrows
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/gh

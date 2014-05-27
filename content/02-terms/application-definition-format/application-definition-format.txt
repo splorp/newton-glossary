@@ -1,0 +1,19 @@
+Title: Application Definition Format
+
+----
+
+Text:
+
+A text file format defined by [Revelar](/terms/revelar) that contains a description on how to display, edit, import, and export the data from an application [soup](/terms/soup) so that the [Revelar Connection Utility](/terms/revelar-connection-utility) can handle it.
+
+_cf. (link:http://user.xmission.com/~revelar/adf.html)_
+
+----
+
+Related:
+
+- /terms/adf
+- /terms/rcu
+- /terms/revelar
+- /terms/revelar-connection-utility
+- /terms/soup
