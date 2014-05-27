@@ -4,7 +4,7 @@ Title: Bobby
 
 Text:
 
-An application used by a developer to test various portions of a [device driver](/terms/device-driver) in isolation on a Newton device.
+An [application](/terms/application) used by a developer to test various portions of a [device driver](/terms/device-driver) in isolation on a Newton device.
 
 ----
 

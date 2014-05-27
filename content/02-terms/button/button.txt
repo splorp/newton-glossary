@@ -21,6 +21,7 @@ Related:
 - /terms/interface
 - /terms/keyboard-equivalent
 - /terms/large-close-box
+- /terms/local-scroll-arrows
 - /terms/newton-user-interface
 - /terms/nui
 - /terms/picture-button

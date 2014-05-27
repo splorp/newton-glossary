@@ -4,7 +4,7 @@ Title: ARMistice
 
 Text:
 
-A later version of the NuBus-based Newton development card which followed the [ARMageddon](/terms/armageddon) card.
+A later version of the NuBus-based Newton development card which followed the [ARMageddon](/terms/armageddon) card. So named because of the [ARM](/terms/arm) processor used in the Newton hardware.
 
 ----
 
@@ -12,7 +12,6 @@ Related:
 
 - /terms/arm
 - /terms/armageddon
-- /terms/messagepad
 
 ----
 

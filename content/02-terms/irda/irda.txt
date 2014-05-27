@@ -12,7 +12,9 @@ Related:
 
 - /terms/ask
 - /terms/beaming
+- /terms/infrared
 - /terms/infrared-data-association
+- /terms/ir
 - /terms/irda-lap
 - /terms/irda-lmp
 - /terms/irda-sir

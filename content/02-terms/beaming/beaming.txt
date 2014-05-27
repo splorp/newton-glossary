@@ -4,7 +4,7 @@ Title: Beaming
 
 Text:
 
-Transmitting data to or receiving data from another device via an [infrared](/terms/infrared) connection.
+Transmitting data to or receiving data from another device via an [infrared](/terms/infrared) connection. Colloquially (and somewhat disturbingly) referred to as [squirting](/terms/squirting) by early Newton developers.
 
 ----
 
@@ -16,4 +16,5 @@ Related:
 - /terms/irda
 - /terms/newtir
 - /terms/routing
+- /terms/squirt
 - /terms/squirting

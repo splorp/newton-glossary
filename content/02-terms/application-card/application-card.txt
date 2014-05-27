@@ -4,13 +4,14 @@ Title: Application Card
 
 Text:
 
-A PCMCIA card that contains an application geared towards a specific use. Application cards are usually ROM-based, and therefore the user cannot modify or delete the data contained on them.
+A [PCMCIA](/terms/pcmcia) card that contains an [application](/terms/application) geared towards a specific use. Application cards are usually ROM-based, and therefore the user cannot modify or delete the data contained on them.
 
 ----
 
 Related:
 
 - /terms/application
+- /terms/pc-card
 - /terms/pcmcia
 
 ----
