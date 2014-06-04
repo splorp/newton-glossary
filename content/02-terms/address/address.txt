@@ -8,6 +8,20 @@ A binary value specifying where in the memory a chunk of data or code exists.
 
 ----
 
+Related:
+
+- /terms/pointer
+- /terms/magic-pointer
+- /terms/mapping
+- /terms/memory-management-unit
+- /terms/memory-page
+- /terms/mmu
+- /terms/mmu-tables
+- /terms/physical-address
+- /terms/virtual-address
+
+----
+
 Source:
 
 - /sources/pg

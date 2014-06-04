@@ -14,6 +14,7 @@ Related:
 - /terms/confirmation-slip
 - /terms/container-view
 - /terms/find-slip
+- /terms/info-slip
 - /terms/item-info-slip
 - /terms/memory-info-slip
 - /terms/notification-slip

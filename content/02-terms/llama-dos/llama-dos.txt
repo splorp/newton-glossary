@@ -14,7 +14,7 @@ Related:
 
 - /terms/developer-technical-services
 - /terms/dts
-- /terms/llama-dos
+- /terms/llama
 - /terms/newton-systems-group
 
 ----

@@ -4,7 +4,7 @@ Title: Function Object
 
 Text:
 
-A [frame](/terms/frame) containing executable code. Function objects are created by the [function](/terms/function) constructor `func(args) funcBody`.
+A [frame](/terms/frame) containing executable code. Function [objects](/terms/object) are created by the [function](/terms/function) constructor `func(args) funcBody`.
 
 An executable function object includes values for its lexical and message environment, as well as code. This information is captured when the function constructor is evaluated at run time.
 
@@ -12,9 +12,14 @@ An executable function object includes values for its lexical and message enviro
 
 Related:
 
+- /terms/binary-object
 - /terms/frame
 - /terms/function
 - /terms/function-stack-call
+- /terms/object
+- /terms/receiver
+- /terms/vbo
+- /terms/virtual-binary-object
 
 ----
 

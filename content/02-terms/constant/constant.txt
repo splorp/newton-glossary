@@ -14,6 +14,7 @@ Related:
 - /terms/local
 - /terms/magic-pointer
 - /terms/newtonscript
+- /terms/pointer
 - /terms/variable
 
 ----

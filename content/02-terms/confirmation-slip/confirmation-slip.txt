@@ -14,6 +14,7 @@ Related:
 - /terms/graphical-user-interface
 - /terms/gui
 - /terms/interface
+- /terms/info-slip
 - /terms/item-info-slip
 - /terms/memory-info-slip
 - /terms/newton-user-interface

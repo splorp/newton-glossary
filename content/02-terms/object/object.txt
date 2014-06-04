@@ -14,7 +14,10 @@ Related:
 - /terms/array
 - /terms/array-elements
 - /terms/binary-object
+- /terms/class
+- /terms/entry-alias
 - /terms/frame
+- /terms/function-object
 - /terms/immediate
 - /terms/inheritance
 - /terms/instantiate
@@ -23,6 +26,7 @@ Related:
 - /terms/message
 - /terms/method
 - /terms/path-expression
+- /terms/pointer
 - /terms/reference
 - /terms/vbo
 - /terms/virtual-binary-object

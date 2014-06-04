@@ -11,6 +11,7 @@ A sequence of bytes that can represent any kind of data, can be adjusted dynamic
 Related:
 
 - /terms/class
+- /terms/function-object
 - /terms/object
 - /terms/reference
 - /terms/vbo
