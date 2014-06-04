@@ -1,0 +1,7 @@
+Title: Info Slip
+
+----
+
+Text:
+
+See [Item Info Slip](/terms/item-info-slip)

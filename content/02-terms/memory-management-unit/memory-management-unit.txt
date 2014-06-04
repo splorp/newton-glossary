@@ -1,0 +1,27 @@
+Title: Memory Management Unit
+
+----
+
+Text:
+
+A computer component responsible for the translation of the [virtual addresses](/terms/virtual-address) assigned to chunks of data into the [physical addresses](/terms/physical-address) (or actual addresses) of that data.
+
+----
+
+Related:
+
+- /terms/address
+- /terms/magic-pointer
+- /terms/mapping
+- /terms/memory-page
+- /terms/mmu
+- /terms/mmu-tables
+- /terms/physical-address
+- /terms/pointer
+- /terms/virtual-address
+
+----
+
+Source:
+
+- /sources/pg

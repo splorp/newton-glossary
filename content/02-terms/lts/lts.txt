@@ -1,0 +1,13 @@
+Title: LTS
+
+----
+
+Text:
+
+See [Long Term Storage](/terms/long-term-storage)
+
+----
+
+Source:
+
+- /sources/ntlk

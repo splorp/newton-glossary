@@ -1,0 +1,22 @@
+Title: Message
+
+----
+
+Text:
+
+An instruction to execute a [method](/terms/method), as in a programmed function. Also referred to as a [symbol](/terms/symbol) with a set of arguments. A message is sent using the message send syntax `frame:messageName()`, where the message `messageName` is sent to the [receiver](/terms/receiver) `frame`.
+
+----
+
+Related:
+
+- /terms/frame
+- /terms/method
+- /terms/receiver
+- /terms/symbol
+
+----
+
+Source:
+
+- /sources/npg

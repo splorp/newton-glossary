@@ -1,0 +1,7 @@
+Title: NCT
+
+----
+
+Text:
+
+See [Newton C++ Toolbox](/terms/newton-c-toolbox)

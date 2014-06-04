@@ -1,0 +1,24 @@
+Title: Meeting
+
+----
+
+Text:
+
+An entry in the [Dates](/terms/dates) application for a specific time during the day. People can be invited and the meeting can be scheduled for a particular location.
+
+----
+
+Related:
+
+- /terms/application
+- /terms/date-book
+- /terms/dateman
+- /terms/dates
+- /terms/dm
+- /terms/event
+
+----
+
+Source:
+
+- /sources/npg

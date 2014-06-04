@@ -1,0 +1,25 @@
+Title: Matte Border
+
+----
+
+Text:
+
+A visually distinct [Newton user interface](/terms/newton-user-interface) element consisting of a thick gray border framed with black.
+
+----
+
+Related:
+
+- /terms/graphical-user-interface
+- /terms/gui
+- /terms/interface
+- /terms/newton-user-interface
+- /terms/nui
+- /terms/ui
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/nuig

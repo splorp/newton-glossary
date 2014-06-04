@@ -1,0 +1,24 @@
+Title: Memory Effect
+
+----
+
+Text:
+
+A condition affecting a rechargeable battery where it will hold less and less of a charge over time.
+
+----
+
+Related:
+
+- /terms/mah
+- /terms/nicad
+- /terms/nicd
+- /terms/nickel-cadmium
+- /terms/nickel-metal-hydride
+- /terms/nimh
+
+----
+
+Source:
+
+- /sources/te

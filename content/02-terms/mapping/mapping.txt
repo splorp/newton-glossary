@@ -1,0 +1,27 @@
+Title: Mapping
+
+----
+
+Text:
+
+The relationship of [virtual addresses](/terms/virtual-address) to [physical addresses](/terms/physical-address) using the address translation tables in the [memory management unit](/terms/memory-management-unit) (MMU).
+
+----
+
+Related:
+
+- /terms/address
+- /terms/magic-pointer
+- /terms/memory-management-unit
+- /terms/memory-page
+- /terms/mmu
+- /terms/mmu-tables
+- /terms/physical-address
+- /terms/pointer
+- /terms/virtual-address
+
+----
+
+Source:
+
+- /sources/pg
