@@ -1,0 +1,24 @@
+Title: MessageSlate
+
+----
+
+Text:
+
+A prototype [Newton OS](/terms/newton-os) device featuring a larger, tablet style screen.
+
+----
+
+Related:
+
+- /terms/bic
+- /terms/cadillac
+- /terms/figaro
+- /terms/mont-blanc
+- /terms/newton-plus
+- /terms/senior
+
+----
+
+Source:
+
+- /sources/ad

@@ -1,0 +1,31 @@
+Title: MessagePad
+
+----
+
+Text:
+
+The base model name for all Apple manufactured [Newton OS](/terms/newton-os) devices except the [eMate 300](/terms/emate-300).
+
+----
+
+Related:
+
+- /terms/h1000
+- /terms/messagepad-100
+- /terms/messagepad-110
+- /terms/messagepad-120
+- /terms/messagepad-130
+- /terms/messagepad-2000
+- /terms/messagepad-2100
+- /terms/mp
+- /terms/mp100
+- /terms/mp110
+- /terms/mp120
+- /terms/mp130
+- /terms/mp2000
+- /terms/mp2100
+- /terms/mp2k
+- /terms/omp
+- /terms/ump
+
+

@@ -1,0 +1,23 @@
+Title: Newton Developer Conference
+
+----
+
+Text:
+
+A periodic event scheduled by Apple in support of the Newton development community. At one time, these events allowed developers to meet each other in person and learn about future directions of Newton business, marketing, and technologies.
+
+----
+
+Related:
+
+- /terms/developer-technical-services
+- /terms/newton-associates-program
+- /terms/newton-developer-support
+- /terms/newton-partners-program
+- /terms/newton-technology-journal
+
+----
+
+Source:
+
+- /sources/adh

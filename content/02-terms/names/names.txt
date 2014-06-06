@@ -1,0 +1,26 @@
+Title: Names
+
+----
+
+Text:
+
+The built-in [application](/terms/application) for storing names, addresses, phone numbers, and other information related to a list of contacts.
+
+----
+
+Related:
+
+- /terms/action-names
+- /terms/application
+- /terms/dateman
+- /terms/moreinfo
+- /terms/names-file
+- /terms/personal-information-manager
+- /terms/pim
+- /terms/vcard
+
+----
+
+Source:
+
+- /sources/nuig

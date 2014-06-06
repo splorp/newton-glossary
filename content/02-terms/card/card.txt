@@ -1,0 +1,7 @@
+Title: Card
+
+----
+
+Text:
+
+See [PC Card](/terms/pc-card)

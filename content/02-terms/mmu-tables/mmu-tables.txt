@@ -1,0 +1,24 @@
+Title: MMU Tables
+
+----
+
+Text:
+
+A structured set of data used by the [memory management unit](/terms/memory-management-unit) (MMU) which instructs it on how to handle the translation of [virtual addresses](/terms/virtual-address) to [physical addresses](/terms/physical-address).
+
+----
+
+Related:
+
+- /terms/address
+- /terms/mapping
+- /terms/mmu
+- /terms/memory-management-unit
+- /terms/physical-address
+- /terms/virtual-address
+
+----
+
+Source:
+
+- /sources/pg

@@ -1,0 +1,14 @@
+Title: NCQ
+
+----
+
+Text:
+
+An instant messaging [application](/terms/application) for [Newton OS](/terms/newton-os). NCQ is compatible with the standard [ICQ protocol](http://www.ihse.net/icq/), but only implements a subset of its features.
+
+----
+
+Source:
+
+- /sources/ibt
+

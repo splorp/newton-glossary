@@ -1,0 +1,7 @@
+Title: MI
+
+----
+
+Text:
+
+See [MoreInfo](/terms/moreinfo)

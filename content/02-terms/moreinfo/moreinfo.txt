@@ -1,0 +1,30 @@
+Title: MoreInfo
+
+----
+
+Text:
+
+An information management [application](/terms/application) created by [Silverware Software](http://www.silverwaresoftware.com/) which seamlessly extends the built-in [Dates](/terms/dates) and [Names](/terms/names) applications. Also referred to as [MI](/terms/mi).
+
+----
+
+Related:
+
+- /terms/action-names
+- /terms/application
+- /terms/date-book
+- /terms/dateman
+- /terms/dates
+- /terms/event
+- /terms/meeting
+- /terms/mi
+- /terms/names
+- /terms/names-file
+- /terms/personal-information-manager
+- /terms/pim
+
+----
+
+Source:
+
+- /sources/mi

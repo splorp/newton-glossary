@@ -1,0 +1,7 @@
+Title: NDB
+
+----
+
+Text:
+
+See [Newton Data Browser](/terms/newton-Newton-data-browser)

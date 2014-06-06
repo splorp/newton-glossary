@@ -1,0 +1,7 @@
+Title: NCK
+
+----
+
+Text:
+
+See [Newton Connection Kit](/terms/newton-connection-kit)
