@@ -4,7 +4,7 @@ Title: DateMan
 
 Text:
 
-A Newton [application](/terms/application) created by Standalone Software which works in conjunction with the built-in [Names](/terms/names) and [Dates](/terms/dates) to give an overall view of your entire agenda. Also referred to as DM.
+A Newton [application](/terms/application) created by [Standalone Software](http://standalone.com/) which works in conjunction with the built-in [Names](/terms/names) and [Dates](/terms/dates) to give an overall view of your entire agenda. Also referred to as [DM](/terms/dm).
 
 ----
 
@@ -17,6 +17,7 @@ Related:
 - /terms/dm
 - /terms/event
 - /terms/meeting
+- /terms/moreinfo
 - /terms/names
 - /terms/names-file
 - /terms/personal-information-manager

@@ -12,7 +12,6 @@ Related:
 
 - /terms/assist
 - /terms/container-view
-- /terms/function
 
 ----
 

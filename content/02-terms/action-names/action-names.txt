@@ -4,15 +4,24 @@ Title: Action Names
 
 Text:
 
-A contact management application created by [Iambic Software](http://www.iambic.com/) which enhances the capabilities of the built-in [Names](/terms/names) and [Dates](/terms/dates) applications. Also referred to as [AN](/terms/an).
+A contact management [application](/terms/application) created by [Iambic Software](http://www.iambic.com/) that enhances the capabilities of the built-in [Names](/terms/names) and [Dates](/terms/dates) applications. Also referred to as [AN](/terms/an).
 
 ----
 
 Related:
 
 - /terms/an
-- /terms/names
+- /terms/application
+- /terms/date-book
+- /terms/dateman
 - /terms/dates
+- /terms/event
+- /terms/meeting
+- /terms/moreinfo
+- /terms/names
+- /terms/names-file
+- /terms/personal-information-manager
+- /terms/pim
 
 ----
 

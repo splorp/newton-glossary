@@ -11,6 +11,7 @@ An [object](/terms/object) that consists of a [reference](/terms/reference) to a
 Related:
 
 - /terms/entry-alias
+- /terms/name-reference
 - /terms/object
 - /terms/reference
 

@@ -10,7 +10,9 @@ A speculative pen-based tablet computer concept that predated the original Newto
 
 Related:
 
+- /terms/bic
 - /terms/cadillac
+- /terms/messageslate
 - /terms/mont-blanc
 - /terms/newton-plus
 - /terms/senior
