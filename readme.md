@@ -17,10 +17,12 @@ As with any specialized compendium, the contents are never perfect or completely
 
 ## We &hearts; Words
 
-Here are a few more references we love.
+Other glossarial references we love.
 
-+ [Neoglossary](http://neoglossary.tumblr.com/) by [Riccardo Mori](http://morrick.me/)
-+ [The Free On-line Dictionary of Computing](http://foldoc.org/) by [Denis Howe](https://plus.google.com/+DenisHowe/posts)
++ [Neoglossary](http://neoglossary.tumblr.com/) _by [Riccardo Mori](http://morrick.me/)_
++ [The Free Online Dictionary of Computing](http://foldoc.org/) _by [Denis Howe](https://plus.google.com/+DenisHowe/posts)_
++ [Typographer’s Glossary](http://fontshop.com/glossary/) _by [FontShop](http://fontshop.com/)_
+
 
 ## Colophon
 
@@ -30,8 +32,8 @@ For peace of mind and ease of maintenance, the project resides in a public [GitH
 
 To add a bit of spit and shine to our Kirby experience, we’re also using the following handy dandy plugins.
 
-+ [Alphabetise](https://github.com/shoesforindustry/kirbycms-extensions/tree/master/plugins/alphabetise) by [Russ Baldwin](http://shoesforindustry.net/)
-+ [Related Pages](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) by [Bastian Allgeier](http://bastianallgeier.com/)
++ [Alphabetise](https://github.com/shoesforindustry/kirbycms-extensions/tree/master/plugins/alphabetise) _by [Russ Baldwin](http://shoesforindustry.net/)_
++ [Related Pages](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) _by [Bastian Allgeier](http://bastianallgeier.com/)_
 
 Finally, thank goodness for [BBEdit](http://www.barebones.com/products/bbedit/).
 
