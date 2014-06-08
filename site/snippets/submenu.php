@@ -4,7 +4,7 @@
 $open  = $pages->findOpen();
 $items = ($open) ? $open->children() : false; 
 // Set up alphabetise plugin
-$alphabetise = alphabetise($page->children()->sortby('title'), array('key' => 'title'));
+$alphabetise = alphabetise($page->children()->sortby('sort'), array('key' => 'sort'));
 
 ?>
 <?php if($items && $items->count()): ?>
