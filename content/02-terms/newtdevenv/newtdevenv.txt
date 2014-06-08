@@ -1,0 +1,21 @@
+Title: NewtDevEnv
+
+----
+
+Text:
+
+A development environment created by [Steve Weyer](http://communicrossings.com/) for creating [applications](/terms/application) using [NewtonScript](/terms/newtonscript) directly on a Newton device. Also referred to as [NDE](/terms/nde) and [Newt](/terms/newt).
+
+----
+
+Related:
+
+- /terms/nde
+- /terms/newt
+- /terms/newtonscript
+
+----
+
+Source:
+
+- /sources/sw
