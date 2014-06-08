@@ -10,6 +10,7 @@ A condition affecting a rechargeable battery where it will hold less and less of
 
 Related:
 
+- /terms/long-term-storage
 - /terms/mah
 - /terms/nicad
 - /terms/nicd

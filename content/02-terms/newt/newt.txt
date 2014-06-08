@@ -5,3 +5,11 @@ Title: Newt
 Text:
 
 An affectionate nickname for a Newton device.
+
+Also, an alternate name for Steve Weyer’s [NewtDevEnv](/terms/newtdevenv) application development framework.
+
+----
+
+Related:
+
+- /terms/newtdevenv
