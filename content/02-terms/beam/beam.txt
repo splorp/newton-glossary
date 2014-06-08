@@ -2,6 +2,10 @@ Title: Beam
 
 ----
 
+Sort: Beam
+
+----
+
 Text:
 
 See [Beaming](/terms/beaming)

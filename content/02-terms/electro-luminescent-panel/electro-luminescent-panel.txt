@@ -2,6 +2,10 @@ Title: Electro-Luminescent Panel
 
 ----
 
+Sort: Electro-Luminescent Panel
+
+----
+
 Text:
 
 An illumination technology consisting of a thin film phosphor layer sandwiched between a substrate. When charged, the phosphor in that emits visible light. The electro-luminescent [backlight](/terms/backlight) found in later Newton devices has a distinguishing bright green color. Also referred to as an [ELP](/terms/elp).

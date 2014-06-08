@@ -2,6 +2,10 @@ Title: NCT
 
 ----
 
+Sort: NCT
+
+----
+
 Text:
 
 See [Newton C++ Toolbox](/terms/newton-c-toolbox)

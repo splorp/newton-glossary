@@ -2,6 +2,10 @@ Title: Memory Management Unit
 
 ----
 
+Sort: Memory Management Unit
+
+----
+
 Text:
 
 A computer component responsible for the translation of the [virtual addresses](/terms/virtual-address) assigned to chunks of data into the [physical addresses](/terms/physical-address) (or actual addresses) of that data.

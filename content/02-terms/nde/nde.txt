@@ -2,6 +2,10 @@ Title: NDE
 
 ----
 
+Sort: NDE
+
+----
+
 Text:
 
 See [NewtDevEnv](/terms/newtdevenv)

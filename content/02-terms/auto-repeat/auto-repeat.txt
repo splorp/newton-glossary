@@ -2,6 +2,10 @@ Title: Auto Repeat
 
 ----
 
+Sort: Auto Repeat
+
+----
+
 Text:
 
 The repeated, automatic generation of characters that happens when a user holds down a key or presses the pen on an onscreen keyboard.

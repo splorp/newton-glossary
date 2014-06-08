@@ -2,6 +2,10 @@ Title: Grip Of Death
 
 ----
 
+Sort: Grip Of Death
+
+----
+
 Text:
 
 A system freeze common in early [MessagePad](/terms/messagepad) devices caused by a lack of adequate [heap space](/terms/heap-space). In later versions of the [Newton OS](/terms/newton-os) this condition notified the user of a problem instead of causing the operating system to become unresponsive.

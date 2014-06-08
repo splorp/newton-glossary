@@ -2,6 +2,10 @@ Title: Dates
 
 ----
 
+Sort: Dates
+
+----
+
 Text:
 
 The built-in [application](/terms/application) for recording and viewing appointments and calendar notes, setting alarms, entering repeating [events](/terms/event), and keeping a to-do list.

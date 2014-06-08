@@ -2,6 +2,10 @@ Title: NewtonScript Heap
 
 ----
 
+Sort: NewtonScript Heap
+
+----
+
 Text:
 
 An area of memory used by the system for dynamically allocated [objects](/terms/object), including [NewtonScript](/terms/newtonscript) objects.

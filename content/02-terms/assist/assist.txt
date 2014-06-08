@@ -2,6 +2,10 @@ Title: Assist
 
 ----
 
+Sort: Assist
+
+----
+
 Text:
 
 A function built into Newton device that can automatically perform certain tasks for you.

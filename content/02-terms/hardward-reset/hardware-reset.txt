@@ -2,6 +2,10 @@ Title: Hardware Reset
 
 ----
 
+Sort: Hardware Reset
+
+----
+
 Text:
 
 See [Deep Reset](/terms/deep-reset)

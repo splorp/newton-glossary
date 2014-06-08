@@ -2,6 +2,10 @@ Title: Parent
 
 ----
 
+Sort: Parent
+
+----
+
 Text:
 
 A [frame](/terms/frame) referenced through the parent [slot](/terms/slot) of another frame. With regard to [views](/terms/view), a parent view encloses its child views.

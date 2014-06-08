@@ -2,6 +2,10 @@ Title: LlamaDOS
 
 ----
 
+Sort: LlamaDOS
+
+----
+
 Text:
 
 A software package of dubious utility which provides an alternate input interface for system management on a Newton device, somewhat mimicking the command line environment of MS-DOS. The name references [Llama](/terms/llama), the unofficial mascot of the Apple’s [Developer Technical Services](/terms/developer-technical-services) team within the [Newton Systems Group](/terms/newton-systems-group).

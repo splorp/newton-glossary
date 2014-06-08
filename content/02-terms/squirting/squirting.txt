@@ -2,6 +2,10 @@ Title: Squirting
 
 ----
 
+Sort: Squirting
+
+----
+
 Text:
 
 A term used by early Newton developers to denote [beaming](/terms/beaming) of information between Newton devices using the [infrared](/terms/infrared) communications port.

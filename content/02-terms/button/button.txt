@@ -2,6 +2,10 @@ Title: Button
 
 ----
 
+Sort: Button
+
+----
+
 Text:
 
 A small [graphical user interface](/terms/graphical-user-interface) object that performs an action when [tapped](/terms/tap). Also, a physical button that performs a hardware action on the device. For example, pressing the the [reset button](/terms/reset-button) on a Newton device performs a [soft reset](/terms/soft-reset).

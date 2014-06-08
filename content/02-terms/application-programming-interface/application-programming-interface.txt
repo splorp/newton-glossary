@@ -2,6 +2,10 @@ Title: Application Programming Interface
 
 ----
 
+Sort: Application Programming Interface
+
+----
+
 Text:
 
 A language and message format used by an application to communicate with the operating system or some other program. Usually referred to as an [API](/terms/api).

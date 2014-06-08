@@ -2,6 +2,10 @@ Title: EEPROM
 
 ----
 
+Sort: EEPROM
+
+----
+
 Text:
 
 Electrically Erasable Programmable Read Only Memory. A memory chip that is programmable, reusable, and able to hold its content until erased using electric current.

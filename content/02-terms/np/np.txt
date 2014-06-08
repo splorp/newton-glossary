@@ -2,6 +2,10 @@ Title: NP
 
 ----
 
+Sort: NP
+
+----
+
 Text:
 
 See [Newton Press](/terms/newton-press)

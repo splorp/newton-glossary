@@ -2,6 +2,10 @@ Title: DTS
 
 ----
 
+Sort: DTS
+
+----
+
 Text:
 
 See [Developer Technical Services](/terms/developer-technical-services)

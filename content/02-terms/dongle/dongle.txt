@@ -2,6 +2,10 @@ Title: Dongle
 
 ----
 
+Sort: Dongle
+
+----
+
 Text:
 
 An adapter that plugs into the proprietary [Newton Interconnect](/terms/newton-interconnect) port found on the [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate](/terms/emate-300) devices, converting it to a standard [Mini-Din](/terms/mini-din) serial connector.

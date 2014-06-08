@@ -2,6 +2,10 @@ Title: MMU
 
 ----
 
+Sort: MMU
+
+----
+
 Text:
 
 See [Central Processing Unit](/terms/memory-management-unit)

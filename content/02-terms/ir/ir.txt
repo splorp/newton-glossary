@@ -2,6 +2,10 @@ Title: IR
 
 ----
 
+Sort: IR
+
+----
+
 Text:
 
 See [Infrared](/terms/infrared)

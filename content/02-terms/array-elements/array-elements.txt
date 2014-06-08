@@ -2,6 +2,10 @@ Title: Array Elements
 
 ----
 
+Sort: Array Elements
+
+----
+
 Text:
 
 See [Array](/terms/array)

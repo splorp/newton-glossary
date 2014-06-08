@@ -2,6 +2,10 @@ Title: Brain Wipe
 
 ----
 
+Sort: Brain Wipe
+
+----
+
 Text:
 
 The colloquial term for performing a [hard reset](/terms/hard-reset) on a Newton device, effectively erasing all user data. Sometimes called a [Cold Boot](/terms/cold-boot).

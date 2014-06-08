@@ -2,6 +2,10 @@ Title: MessagePad
 
 ----
 
+Sort: MessagePad
+
+----
+
 Text:
 
 The base model name for all Apple manufactured [Newton OS](/terms/newton-os) devices except the [eMate 300](/terms/emate-300).

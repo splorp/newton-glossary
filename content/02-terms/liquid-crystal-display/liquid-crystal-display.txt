@@ -2,6 +2,10 @@ Title: Liquid Crystal Display
 
 ----
 
+Sort: Liquid Crystal Display
+
+----
+
 Text:
 
 An thin, electro-optical component used as the primary display technology on the Newton and other electronic devices.

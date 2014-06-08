@@ -2,6 +2,10 @@ Title: Entry Alias
 
 ----
 
+Sort: Entry Alias
+
+----
+
 Text:
 
 An [object](/terms/object) that provides a standard way to save a [reference](/terms/reference) to a soup [entry](/terms/entry). Entry aliases themselves may be stored in [soups](/terms/soup).

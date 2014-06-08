@@ -2,6 +2,10 @@ Title: Floating Container View
 
 ----
 
+Sort: Floating Container View
+
+----
+
 Text:
 
 A [container view](/terms/container-view) that initially appears in front of all open [sibling views](/terms/sibling-view).

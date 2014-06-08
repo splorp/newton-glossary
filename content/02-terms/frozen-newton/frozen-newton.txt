@@ -2,6 +2,10 @@ Title: Frozen Newton
 
 ----
 
+Sort: Frozen Newton
+
+----
+
 Text:
 
 A custom, clear case Newton [MessagePad 2100](/terms/messagepad-2100) project originating in Japan. There is also a blue accented variation of the project known as [Blueberry Frozen](/terms/blueberry-frozen).

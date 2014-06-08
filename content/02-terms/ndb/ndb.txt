@@ -2,6 +2,10 @@ Title: NDB
 
 ----
 
+Sort: NDB
+
+----
+
 Text:
 
 See [Newton Data Browser](/terms/newton-Newton-data-browser)

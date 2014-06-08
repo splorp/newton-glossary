@@ -2,6 +2,10 @@ Title: Data Form
 
 ----
 
+Sort: Data Form
+
+----
+
 Text:
 
 A symbol that describes the transformations that must occur when data is exchanged with other environments. When you send data or set [endpoint](/terms/endpoint) options, the data form defines how to convert the data from its [NewtonScript](/terms/newtonscript) format. When you receive data or get endpoint options, the data form defines the type of data expected.

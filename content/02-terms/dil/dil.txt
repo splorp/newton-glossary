@@ -2,6 +2,10 @@ Title: DIL
 
 ----
 
+Sort: DIL
+
+----
+
 Text:
 
 See [Desktop Integration Library](/terms/desktop-integration-library)

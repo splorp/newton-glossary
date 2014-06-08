@@ -2,6 +2,10 @@ Title: Declaring A Template
 
 ----
 
+Sort: Declaring A Template
+
+----
+
 Text:
 
 Registering a [template](/terms/template) in another [view](/terms/view) (usually its [parent](/terms/parent)) so that the template’s view is preallocated when the other view is opened. This allows access to [methods](/terms/method) and [slots](/terms/slot) in the declared view.

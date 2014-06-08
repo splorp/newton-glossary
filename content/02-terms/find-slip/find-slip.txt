@@ -2,6 +2,10 @@ Title: Find Slip
 
 ----
 
+Sort: Find Slip
+
+----
+
 Text:
 
 An input [container view](/terms/container-view) that allows the user to enter a term or phrase to be located within the data stored on the Newton device.

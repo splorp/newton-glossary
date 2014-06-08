@@ -2,6 +2,10 @@ Title: Input Spec
 
 ----
 
+Sort: Input Spec
+
+----
+
 Text:
 
 A [frame](/terms/frame) used in receiving [endpoint](/terms/endpoint) data that defines several things: how incoming data should be formatted; termination conditions that control when the [input](/terms/input) should be stopped; data filtering options; and callback [methods](/terms/method).

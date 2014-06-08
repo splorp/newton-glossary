@@ -2,6 +2,10 @@ Title: Card
 
 ----
 
+Sort: Card
+
+----
+
 Text:
 
 See [PC Card](/terms/pc-card)

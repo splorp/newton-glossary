@@ -2,6 +2,10 @@ Title: MLB
 
 ----
 
+Sort: MLB
+
+----
+
 Text:
 
 See [Main Logic Board](/terms/main-logic-board)

@@ -2,6 +2,10 @@ Title: LCD
 
 ----
 
+Sort: LCD
+
+----
+
 Text:
 
 See [Liquid Crystal Display](/terms/liquid-crystal-display)

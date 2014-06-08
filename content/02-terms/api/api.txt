@@ -2,6 +2,10 @@ Title: API
 
 ----
 
+Sort: API
+
+----
+
 Text:
 
 See [Application Programming Interface](/terms/application-programming-interface)

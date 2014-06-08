@@ -2,6 +2,10 @@ Title: Internal Store
 
 ----
 
+Sort: Internal Store
+
+----
+
 Text:
 
 A portion of the built-in [system memory](/terms/system-memory) that stores packages and user data.

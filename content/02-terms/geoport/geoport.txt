@@ -2,6 +2,10 @@ Title: GeoPort
 
 ----
 
+Sort: GeoPort
+
+----
+
 Text:
 
 A serial data standard developed by Apple and designed primarily for voice and telephony applications, additionally supporting both [RS-232](/terms/rs232) and [RS-422](/terms/rs422) modes. The physical port itself is basically a standard 9-pin serial connector with the addition of a 5V DC pin that could facilitate the powering of an external device.

@@ -2,6 +2,10 @@ Title: Font Style
 
 ----
 
+Sort: Font Style
+
+----
+
 Text:
 
 A set of stylistic variations pertaining to a [font](/terms/font), other than its typeface family or point size. Examples of font styles include bold, italic, and underline.

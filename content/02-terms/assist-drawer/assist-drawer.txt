@@ -2,6 +2,10 @@ Title: Assist Drawer
 
 ----
 
+Sort: Assist Drawer
+
+----
+
 Text:
 
 The [container view](/terms/container-view) or that appears when the [assist](/terms/assist) function is called.

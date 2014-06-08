@@ -2,6 +2,10 @@ Title: Folder Tab
 
 ----
 
+Sort: Folder Tab
+
+----
+
 Text:
 
 A [control](/terms/control) that allows users to select which folder’s contents are currently displayed in a [container view](container-view). The folder tab goes at the top of the container view and displays the name of the currently selected folder.

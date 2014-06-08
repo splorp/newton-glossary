@@ -2,6 +2,10 @@ Title: Bazooka
 
 ----
 
+Sort: Bazooka
+
+----
+
 Text:
 
 Code name of the Newton keyboard.

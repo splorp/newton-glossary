@@ -2,6 +2,10 @@ Title: MP2100
 
 ----
 
+Sort: MP2100
+
+----
+
 Text:
 
 See [MessagePad 2100](/terms/messagepad-2100)

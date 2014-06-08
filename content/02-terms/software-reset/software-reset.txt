@@ -2,6 +2,10 @@ Title: Software Reset
 
 ----
 
+Sort: Software Reset
+
+----
+
 Text:
 
 See [Soft Reset](/terms/soft-reset)

@@ -2,6 +2,10 @@ Title: Newties
 
 ----
 
+Sort: Newties
+
+----
+
 Text:
 
 An affectionate nickname for Newton users.

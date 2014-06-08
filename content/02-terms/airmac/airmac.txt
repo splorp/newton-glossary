@@ -2,6 +2,10 @@ Title: AirMac
 
 ----
 
+Sort: AirMac
+
+----
+
 Text:
 
 A brand name used by Apple in Japan for their version of the [802.11](/terms/802-11) wireless communication card, the [AirPort](/terms/airport).

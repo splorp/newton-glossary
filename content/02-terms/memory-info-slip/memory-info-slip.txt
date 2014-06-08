@@ -2,6 +2,10 @@ Title: Memory Info Slip
 
 ----
 
+Sort: Memory Info Slip
+
+----
+
 Text:
 
 An [info slip](/terms/info-slip) that reports statistics on the amount of memory installed and available to a Newton device.

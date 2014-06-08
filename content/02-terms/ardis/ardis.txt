@@ -2,6 +2,10 @@ Title: Ardis
 
 ----
 
+Sort: Ardis
+
+----
+
 Text:
 
 A defunct wireless data carrier based in the United States. The Ardis network provided two-way data transmission based on radio packet technology. Ardis compatible wireless modems were used in the [Newton OS](/terms/newton-os) based [Motorola Marco](/terms/marco) device.

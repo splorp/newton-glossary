@@ -2,6 +2,10 @@ Title: LAN
 
 ----
 
+Sort: LAN
+
+----
+
 Text:
 
 See [Local Area Network](/terms/local-area-network)

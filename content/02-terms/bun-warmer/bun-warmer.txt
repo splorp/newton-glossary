@@ -2,6 +2,10 @@ Title: Bun Warmer
 
 ----
 
+Sort: Bun Warmer
+
+----
+
 Text:
 
 See [Bunn Warmer](/terms/bunn-warmer)

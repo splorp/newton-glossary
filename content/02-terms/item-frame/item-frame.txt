@@ -2,6 +2,10 @@ Title: Item Frame
 
 ----
 
+Sort: Item Frame
+
+----
+
 Text:
 
 The [frame](/terms/frame) that encapsulates a routed (sent or received) [object](/terms/object) and that is stored in the [In/Out Box](/terms/in-out-box) soup.

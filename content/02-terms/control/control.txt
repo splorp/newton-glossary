@@ -2,6 +2,10 @@ Title: Control
 
 ----
 
+Sort: Control
+
+----
+
 Text:
 
 A [user interface](/terms/user-interface) element or [object](/terms/object) in a [container view](/terms/container-view) that a user can manipulate with a [pen](/terms/pen) to cause instant action with visible results or to change settings that modify a future action.

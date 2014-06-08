@@ -2,6 +2,10 @@ Title: ARM
 
 ----
 
+Sort: ARM
+
+----
+
 Text:
 
 Advanced RISC Machines. The company that produced the processors used in [Newton OS](/terms/newton-os) devices.

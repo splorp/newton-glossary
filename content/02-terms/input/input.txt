@@ -2,6 +2,10 @@ Title: Input
 
 ----
 
+Sort: Input
+
+----
+
 Text:
 
 Information transferred into a Newton device from an external source. Examples of input sources include pen, modem, serial cable, and infrared [beaming](/terms/beaming).

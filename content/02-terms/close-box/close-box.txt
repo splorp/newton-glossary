@@ -2,6 +2,10 @@ Title: Close Box
 
 ----
 
+Sort: Close Box
+
+----
+
 Text:
 
 A [button](/terms/button) in the shape of a small square box with an [X](/terms/x) inside, located in the lower right corner of a [container view](/terms/container-view). [Tapping](/terms/tapping) the button dismisses or closes the container view. Compare with the [large close box](/terms/large-close-box).

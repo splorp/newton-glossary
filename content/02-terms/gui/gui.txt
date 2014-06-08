@@ -2,6 +2,10 @@ Title: GUI
 
 ----
 
+Sort: GUI
+
+----
+
 Text:
 
 See [Graphical User Interface](/terms/graphical-user-interface)

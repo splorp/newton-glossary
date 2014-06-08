@@ -2,6 +2,10 @@ Title: OS
 
 ----
 
+Sort: OS
+
+----
+
 Text:
 
 See [Operating System](/terms/operating-system)

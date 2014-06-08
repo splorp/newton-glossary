@@ -2,6 +2,10 @@ Title: Heap Space
 
 ----
 
+Sort: Heap Space
+
+----
+
 Text:
 
 See [Heap](/terms/heap)

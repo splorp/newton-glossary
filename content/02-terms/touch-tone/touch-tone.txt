@@ -2,6 +2,10 @@ Title: Touch Tone
 
 ----
 
+Sort: Touch Tone
+
+----
+
 Text:
 
 The common term describing [Dual Tone Multi Frequency](/terms/dual-tone-multi-frequency) or [DTMF](/terms/dtmf) method of telephone tone dialing. Basically, the combining of two tones, one low frequency and one high frequency. The Newton can create Touch Tone signals using the telephone keyboard.

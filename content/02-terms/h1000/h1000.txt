@@ -2,6 +2,10 @@ Title: H1000
 
 ----
 
+Sort: H1000
+
+----
+
 Text:
 
 The model number of the original MessagePad (or [OMP](/terms/omp)) and the subsequent [MessagePad 100](/terms/messagepad-100).

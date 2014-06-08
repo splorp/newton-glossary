@@ -2,6 +2,10 @@ Title: Layout
 
 ----
 
+Sort: Layout
+
+----
+
 Text:
 
 The specific placement of text and graphics on the page of a [Newton book](/terms/newton-book), as defined by various [layout commands](/terms/layout-command).

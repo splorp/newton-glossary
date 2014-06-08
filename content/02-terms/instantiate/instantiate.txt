@@ -2,6 +2,10 @@ Title: Instantiate
 
 ----
 
+Sort: Instantiate
+
+----
+
 Text:
 
 To make a runtime [object](/terms/object) in the [NewtonScript heap](/terms/newtonscript-heap) from a [template](/terms/template). Usually this term refers to the process of creating a [view](/terms/view) from a template.

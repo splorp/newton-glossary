@@ -2,6 +2,10 @@ Title: Book Commands
 
 ----
 
+Sort: Book Commands
+
+----
+
 Text:
 
 See [Book Maker Commands](/terms/book-maker-commands)

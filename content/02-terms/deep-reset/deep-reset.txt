@@ -2,6 +2,10 @@ Title: Deep Reset
 
 ----
 
+Sort: Deep Reset
+
+----
+
 Text:
 
 A method of resetting a Newton device by pressing and holding the [Reset button](/terms/reset-button). A deep reset resets at a slightly lower level than a [soft reset](/terms/soft-reset) and does not cause any data loss. Also referred to as a [hardware reset](/terms/hardware-reset).

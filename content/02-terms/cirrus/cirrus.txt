@@ -2,6 +2,10 @@ Title: Cirrus
 
 ----
 
+Sort: Cirrus
+
+----
+
 Text:
 
 See [Voyager](/terms/voyager)

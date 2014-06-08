@@ -2,6 +2,10 @@ Title: Lindy Crib
 
 ----
 
+Sort: Lindy Crib
+
+----
+
 Text:
 
 See [Crib](/terms/crib)

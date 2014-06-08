@@ -2,6 +2,10 @@ Title: Lizzy
 
 ----
 
+Sort: Lizzy
+
+----
+
 Text:
 
 See [Lindy](/terms/lindy)

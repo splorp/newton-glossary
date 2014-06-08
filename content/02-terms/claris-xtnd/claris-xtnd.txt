@@ -2,6 +2,10 @@ Title: Claris XTND
 
 ----
 
+Sort: Claris XTND
+
+----
+
 Text:
 
 See [XTND](/terms/xtnd)

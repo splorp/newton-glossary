@@ -2,6 +2,10 @@ Title: Frozen Package
 
 ----
 
+Sort: Frozen Package
+
+----
+
 Text:
 
 A [package](/terms/package) that has been suspended by [freezing](/terms/freezing) and is not active.

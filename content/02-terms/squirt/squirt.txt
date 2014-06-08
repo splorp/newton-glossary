@@ -2,6 +2,10 @@ Title: Squirt
 
 ----
 
+Sort: Squirt
+
+----
+
 Text:
 
 See [Squirting](/terms/squirting)

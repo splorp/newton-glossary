@@ -2,6 +2,10 @@ Title: AT
 
 ----
 
+Sort: AT
+
+----
+
 Text:
 
 See [AppleTalk](/terms/appletalk)

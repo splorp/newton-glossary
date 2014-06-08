@@ -2,6 +2,10 @@ Title: Copperfield
 
 ----
 
+Sort: Copperfield
+
+----
+
 Text:
 
 The internal system code name for the [book reader](/terms/book-reader) application built into the [Newton OS](/terms/newton-os).

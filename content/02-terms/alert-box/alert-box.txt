@@ -2,6 +2,10 @@ Title: Alert Box
 
 ----
 
+Sort: Alert Box
+
+----
+
 Text:
 
 A [view](/terms/view) that appears on the screen to warn the user or report an error.

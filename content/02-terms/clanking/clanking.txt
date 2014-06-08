@@ -2,6 +2,10 @@ Title: Clanking
 
 ----
 
+Sort: Clanking
+
+----
+
 Text:
 
 See [Clank](/terms/clank)

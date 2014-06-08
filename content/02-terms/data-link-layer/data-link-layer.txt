@@ -2,6 +2,10 @@ Title: Data Link Layer
 
 ----
 
+Sort: Data Link Layer
+
+----
+
 Text:
 
 The layer in device communications that translates data into a format that can be used with a specific hardware device. Devices using the data link layer on the Newton are typically [PC cards](/terms/pc-card). For example, the [Lantern Driver](/terms/lantern-driver) can interface an [ethernet](/terms/ethernet) card to the [Newton OS](/terms/newton-os).

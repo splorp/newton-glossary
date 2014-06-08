@@ -2,6 +2,10 @@ Title: Event
 
 ----
 
+Sort: Event
+
+----
+
 Text:
 
 An entry in the [Dates](/terms/dates) application corresponding to a day, but not a particular time during that day.

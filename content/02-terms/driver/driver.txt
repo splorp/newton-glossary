@@ -2,6 +2,10 @@ Title: Driver
 
 ----
 
+Sort: Driver
+
+----
+
 Text:
 
 See [Device Driver](/terms/device-driver)

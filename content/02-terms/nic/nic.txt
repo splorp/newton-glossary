@@ -2,6 +2,10 @@ Title: NIC
 
 ----
 
+Sort: NIC
+
+----
+
 Text:
 
 See [Newton Interconnect](/terms/newton-interconnect)

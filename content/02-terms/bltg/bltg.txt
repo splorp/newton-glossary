@@ -2,6 +2,10 @@ Title: BLTG
 
 ----
 
+Sort: BLTG
+
+----
+
 Text:
 
 A value found in [RAM](/terms/ram) on a Newton device which is used to indicate whether [global](/terms/global) values that live across restarts are valid or not. The BLTG acronym is defined in the Newton development environment header files and can also be found in the [Newton OS](/terms/newton-os) source code. Often referred to using the playful mnemonic [Bacon Lettuce Tomato & Garlic](/terms/bacon-lettuce-tomato-garlic). Yum.

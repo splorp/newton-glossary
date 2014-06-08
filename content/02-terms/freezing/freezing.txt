@@ -2,6 +2,10 @@ Title: Freezing
 
 ----
 
+Sort: Freezing
+
+----
+
 Text:
 
 See [Freeze](/terms/freeze)

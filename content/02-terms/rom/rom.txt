@@ -2,6 +2,10 @@ Title: ROM
 
 ----
 
+Sort: ROM
+
+----
+
 Text:
 
 Read Only Memory. A type of non-volatile data storage which is manufactured with fixed contents. The Newton operating system resides in ROM and cannot be changed or deleted directly.

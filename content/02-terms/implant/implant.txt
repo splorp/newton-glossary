@@ -2,6 +2,10 @@ Title: Implant
 
 ----
 
+Sort: Implant
+
+----
+
 Text:
 
 The [frame](/terms/frame) in which a [method](/terms/method) is defined.

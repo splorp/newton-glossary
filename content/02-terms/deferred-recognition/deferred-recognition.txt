@@ -2,6 +2,10 @@ Title: Deferred Recognition
 
 ----
 
+Sort: Deferred Recognition
+
+----
+
 Text:
 
 The process of recognizing an [ink word](/terms/ink-word) that was drawn by the user at an earlier time. Usually initiated when the user [double taps](/terms/double-tap) on an ink word. Deferred recognition was introduced with [Newton OS](/terms/newton-os) 1.3.

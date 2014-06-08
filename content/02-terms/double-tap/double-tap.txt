@@ -2,6 +2,10 @@ Title: Double Tap
 
 ----
 
+Sort: Double Tap
+
+----
+
 Text:
 
 To touch or [tap](/terms/tap) the same spot on the screen, or nearly the same spot, twice in rapid succession with the pen. Essentially the same type of action as double clicking a mouse button on a [desktop computer](/terms/desktop-computer) or equivalent device.

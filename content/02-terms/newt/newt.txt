@@ -2,6 +2,10 @@ Title: Newt
 
 ----
 
+Sort: Newt
+
+----
+
 Text:
 
 An affectionate nickname for a Newton device.

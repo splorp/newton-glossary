@@ -2,6 +2,10 @@ Title: Book Reader
 
 ----
 
+Sort: Book Reader
+
+----
+
 Text:
 
 See [Newton Book Reader](/terms/newton-book-reader)

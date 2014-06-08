@@ -2,6 +2,10 @@ Title: Quark
 
 ----
 
+Sort: Quark
+
+----
+
 Text:
 
 See [Dante](/terms/dante)

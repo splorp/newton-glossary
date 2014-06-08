@@ -2,6 +2,10 @@ Title: viewDef
 
 ----
 
+Sort: viewDef
+
+----
+
 Text:
 
 See [View Definition](/terms/view-definition)

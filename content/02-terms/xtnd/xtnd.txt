@@ -2,6 +2,10 @@ Title: XTND
 
 ----
 
+Sort: XTND
+
+----
+
 Text:
 
 A system of file format translators developed by [Claris Corporation](https://en.wikipedia.org/wiki/Claris) used in a variety of Mac OS software applications including [Newton Press](/terms/newton-press).

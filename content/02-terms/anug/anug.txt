@@ -2,6 +2,10 @@ Title: ANUG
 
 ----
 
+Sort: ANUG
+
+----
+
 Text:
 
 Arizona Newton Users Group

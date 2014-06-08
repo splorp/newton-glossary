@@ -2,6 +2,10 @@ Title: MP
 
 ----
 
+Sort: MP
+
+----
+
 Text:
 
 See [MessagePad](/terms/messagepad)

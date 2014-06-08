@@ -2,6 +2,10 @@ Title: MessageSlate
 
 ----
 
+Sort: MessageSlate
+
+----
+
 Text:
 
 A prototype [Newton OS](/terms/newton-os) device featuring a larger, tablet style screen.

@@ -2,6 +2,10 @@ Title: Key View
 
 ----
 
+Sort: Key View
+
+----
+
 Text:
 
 The [container view](/terms/container-view) that receives keyboard input and contains the either the text insertion [caret](/terms/caret) or the text selection, if present.

@@ -2,6 +2,10 @@ Title: HLFDIL
 
 ----
 
+Sort: HLFDIL
+
+----
+
 Text:
 
 High Level Frame Desktop Integration Layer. A code layer responsible for the management of [NewtonScript](/terms/newtonscript) compatible objects, superceded by the Frame Desktop Integration Layer or [FDIL](/terms/fdil).

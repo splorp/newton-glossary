@@ -2,6 +2,10 @@ Title: Main Logic Board
 
 ----
 
+Sort: Main Logic Board
+
+----
+
 Text:
 
 The primary circuit board containing the processor chip and the system [ROM](/terms/rom) inside a Newton device. Commonly referred to as the [motherboard](/terms/motherboard), a secondary circuit board or [daughterboard](/terms/daughterboard) may also be attached to the main logic board.

@@ -2,6 +2,10 @@ Title: Infrared
 
 ----
 
+Sort: Infrared
+
+----
+
 Text:
 
 Electromagnetic waves in the frequency range just below visible light. Infrared-based sources and receivers are used in Newton devices for communication with other devices.

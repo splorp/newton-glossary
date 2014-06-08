@@ -2,6 +2,10 @@ Title: K
 
 ----
 
+Sort: K
+
+----
+
 Text:
 
 Code name of the [eMate 300](/terms/emate-300) device. Also referred to as [Schoolbook](/terms/schoolbook) and [Shay](/terms/shay).

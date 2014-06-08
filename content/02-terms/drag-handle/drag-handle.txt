@@ -2,6 +2,10 @@ Title: Drag Handle
 
 ----
 
+Sort: Drag Handle
+
+----
+
 Text:
 
 A small control that a user can [drag](/terms/drag) to move a [container view](/terms/container-view). The drag handle is indicated by a small black tab with a central hole, centered on the top border of the container view.

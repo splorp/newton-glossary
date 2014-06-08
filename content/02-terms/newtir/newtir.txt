@@ -2,6 +2,10 @@ Title: NewtIR
 
 ----
 
+Sort: NewtIR
+
+----
+
 Text:
 
 An [infrared](/terms/infrared) communications [protocol](/terms/protocol) based on the [Amplitude Shift Keying](/terms/amplitude-shift-keying) (ASK) standard and used in older Newton devices. This protocol includes extensions developed by Apple which make it substantially faster.

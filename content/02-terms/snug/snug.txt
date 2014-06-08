@@ -2,6 +2,10 @@ Title: SNUG
 
 ----
 
+Sort: SNUG
+
+----
+
 Text:
 
 Standford Newton Users Group

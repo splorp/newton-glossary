@@ -2,6 +2,10 @@ Title: Messaging Card
 
 ----
 
+Sort: Messaging Card
+
+----
+
 Text:
 
 See [Newton Messaging Card](/terms/newton-messaging-card)

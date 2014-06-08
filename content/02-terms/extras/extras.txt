@@ -2,6 +2,10 @@ Title: Extras
 
 ----
 
+Sort: Extras
+
+----
+
 Text:
 
 See [Extras](/terms/extras-drawer)

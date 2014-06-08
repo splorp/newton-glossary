@@ -2,6 +2,10 @@ Title: NUI
 
 ----
 
+Sort: NUI
+
+----
+
 Text:
 
 See [Newton User Interface](/terms/newton-user-interface)

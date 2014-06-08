@@ -2,6 +2,10 @@ Title: Central Processing Unit
 
 ----
 
+Sort: Central Processing Unit
+
+----
+
 Text:
 
 The primary computing component of a digital device. When configured in conjunction with a timing circuit and memory, it essentially constitutes a computer.

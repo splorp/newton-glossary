@@ -2,6 +2,10 @@ Title: NBR
 
 ----
 
+Sort: NBR
+
+----
+
 Text:
 
 See [Newton Book Reader](/terms/newton-book-reader)

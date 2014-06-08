@@ -2,6 +2,10 @@ Title: C++ Heap
 
 ----
 
+Sort: C++ Heap
+
+----
+
 Text:
 
 One part of reserved memory used specifically by native program [functions](/terms/function). Sometimes this part of the [heap](/terms/heap) is confused with all areas of reserved memory which are not part of the [NewtonScript heap](/terms/newtonscript-heap).

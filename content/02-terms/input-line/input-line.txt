@@ -2,6 +2,10 @@ Title: Input Line
 
 ----
 
+Sort: Input Line
+
+----
+
 Text:
 
 An [input area](/terms/input-area) in a [container view](/terms/container-view) where a user can write one line of text.

@@ -2,6 +2,10 @@ Title: Classroom Exchange
 
 ----
 
+Sort: Classroom Exchange
+
+----
+
 Text:
 
 Software that facilitates the connection of one or several [eMate 300](/terms/emate-300) devices to a Mac OS computer and the transferring information between the those devices and the computer simultaneously.

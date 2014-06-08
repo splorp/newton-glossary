@@ -2,6 +2,10 @@ Title: Engineering Verification Test
 
 ----
 
+Sort: Engineering Verification Test
+
+----
+
 Text:
 
 An early engineering prototype of a piece of hardware.
