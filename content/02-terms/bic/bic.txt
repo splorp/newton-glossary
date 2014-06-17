@@ -8,7 +8,7 @@ Sort: Bic
 
 Text:
 
-Code name of the larger, second generation Newton prototype.
+The code name for the larger, second generation Newton prototype.
 
 _cf. (link: http://www.flickr.com/photos/abeles/sets/72157623108174157/)_
 

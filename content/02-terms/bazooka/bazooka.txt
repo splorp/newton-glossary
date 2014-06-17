@@ -8,7 +8,7 @@ Sort: Bazooka
 
 Text:
 
-Code name of the Newton keyboard.
+The code name for the Newton keyboard.
 
 ----
 

@@ -8,7 +8,7 @@ Sort: Junior
 
 Text:
 
-Code name for the final design of original [MessagePad](/terms/messagepad). Also referred to as [Pocket Newton](/terms/pocket-newton).
+The code name for the final design of original [MessagePad](/terms/messagepad). Also referred to as [Pocket Newton](/terms/pocket-newton).
 
 ----
 
