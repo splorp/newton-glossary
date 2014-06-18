@@ -2,10 +2,6 @@ Title: Development Verification Test
 
 ----
 
-Sort: Development Verification Test
-
-----
-
 Text:
 
 An late stage engineering prototype of a piece of hardware very close in specifications to a final product device.

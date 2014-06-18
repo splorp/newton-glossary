@@ -1,12 +1,16 @@
 <?php 
 
 // Find the open or active page on the first level
+
 $open  = $pages->findOpen();
 $items = ($open) ? $open->children() : false; 
+
 // Set up alphabetise plugin
-$alphabetise = alphabetise($page->children()->sortby('sort'), array('key' => 'sort'));
+
+$alphabetise = alphabetise($page->children()->sortby('title'), array('key' => 'title'));
 
 ?>
+
 <?php if($items && $items->count()): ?>
 <nav class="submenu alphabetical">
 <?php foreach($alphabetise as $letter => $items): ?>

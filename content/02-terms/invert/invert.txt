@@ -2,10 +2,6 @@ Title: Invert
 
 ----
 
-Sort: Invert
-
-----
-
 Text:
 
 To [highlight](/terms/highlight) by changing white pixels to black and vice versa.

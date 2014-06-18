@@ -2,10 +2,6 @@ Title: IrDA
 
 ----
 
-Sort: IrDA
-
-----
-
 Text:
 
 An infrared communications [protocol](/terms/protocol) standard developed by the [Infrared Data Association](/terms/infrared-data-association) and used in [Newton OS](/terms/newton-os) 2.1 devices.

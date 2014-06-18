@@ -2,10 +2,6 @@ Title: Newton C++ Toolbox
 
 ----
 
-Sort: Newton C++ Toolbox
-
-----
-
 Text:
 
 A complete [Macintosh Programmers Workshop](/terms/macintosh-programmers-workshop) development environment that facilitates creating C++ code for the Newton. Also referred to as [NCT](/terms/nct).

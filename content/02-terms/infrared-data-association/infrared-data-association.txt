@@ -2,10 +2,6 @@ Title: Infrared Data Association
 
 ----
 
-Sort: Infrared Data Association
-
-----
-
 Text:
 
 An industry body developing standards for [infrared](/terms/infrared) data transfer.

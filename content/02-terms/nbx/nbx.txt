@@ -2,10 +2,6 @@ Title: NBX
 
 ----
 
-Sort: NBX
-
-----
-
 Text:
 
 See [Newton Backup Express](/terms/newton-backup-express)

@@ -2,10 +2,6 @@ Title: Terms
 
 ----
 
-Sort: Terms
-
-----
-
 Description: A alphabetical list of terms contained in the glossary.
 
 ----

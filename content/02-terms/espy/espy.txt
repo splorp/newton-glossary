@@ -2,10 +2,6 @@ Title: Espy
 
 ----
 
-Sort: Espy
-
-----
-
 Text:
 
 See [System (Font)](/terms/system-font)

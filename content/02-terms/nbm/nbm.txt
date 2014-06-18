@@ -2,10 +2,6 @@ Title: NBM
 
 ----
 
-Sort: NBM
-
-----
-
 Text:
 
 See [Newton Book Maker](/terms/newton-book-maker)

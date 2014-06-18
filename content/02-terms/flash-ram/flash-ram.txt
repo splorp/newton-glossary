@@ -2,10 +2,6 @@ Title: Flash RAM
 
 ----
 
-Sort: Flash RAM
-
-----
-
 Text:
 
 A memory chip that can be rewritten and hold its content without power.

@@ -2,10 +2,6 @@ Title: Ink Text
 
 ----
 
-Sort: Ink Text
-
-----
-
 Text:
 
 Words written in [electronic ink](/terms/electronic-ink).

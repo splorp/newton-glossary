@@ -2,10 +2,6 @@ Title: Highlight
 
 ----
 
-Sort: Highlight
-
-----
-
 Text:
 
 To make something visually distinct, typically when it’s selected. Usually done by reversing or [inverting](/terms/invert) black and white areas.

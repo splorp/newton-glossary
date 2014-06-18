@@ -2,10 +2,6 @@ Title: Button Bar
 
 ----
 
-Sort: Button Bar
-
-----
-
 Text:
 
 A thick black line with graphical [buttons](/terms/button) arranged on it. Can also refer to the set of icons found at the bottom of the Newton screen which are used to launch applications.

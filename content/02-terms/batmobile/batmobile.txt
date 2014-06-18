@@ -2,10 +2,6 @@ Title: Batmobile
 
 ----
 
-Sort: Batmobile
-
-----
-
 Text:
 
 See [Batman](/terms/batman)

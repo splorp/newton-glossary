@@ -2,10 +2,6 @@ Title: MP130
 
 ----
 
-Sort: MP130
-
-----
-
 Text:
 
 See [MessagePad 130](/terms/messagepad-130)

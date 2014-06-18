@@ -2,10 +2,6 @@ Title: Desktop Integration Library
 
 ----
 
-Sort: Desktop Integration Library
-
-----
-
 Text:
 
 A collection of code which allows developers of applications for desktop operating systems to directly synchronize data between their applications and a Newton device.

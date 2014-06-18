@@ -2,10 +2,6 @@ Title: Newton Press
 
 ----
 
-Sort: Newton Press
-
-----
-
 Text:
 
 Software developed by Apple for creating and distributing electronic documents as [Newton Books](/terms/newton-book).

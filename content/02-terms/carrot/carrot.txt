@@ -2,10 +2,6 @@ Title: Carrot
 
 ----
 
-Sort: Carrot
-
-----
-
 Text:
 
 What the [caret](/terms/caret) symbol is mistakenly called in the [NetHopper](/terms/nethopper) User Guide. Perhaps the fault of a renegade spell checker.

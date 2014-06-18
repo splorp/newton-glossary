@@ -2,10 +2,6 @@ Title: Egg Freckles
 
 ----
 
-Sort: Egg Freckles
-
-----
-
 Text:
 
 An easter egg found in [Newton OS](/terms/newton-os) 2.0 which when activated displays an image from a Doonesbury cartoon lampooning the accuracy of the early Newton [handwriting recognition](/terms/handwriting-recognition).

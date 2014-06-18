@@ -2,10 +2,6 @@ Title: DIN-8
 
 ----
 
-Sort: DIN-8
-
-----
-
 Text:
 
 See [Mini-DIN](/terms/mini-din)

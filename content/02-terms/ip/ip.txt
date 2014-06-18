@@ -2,10 +2,6 @@ Title: IP
 
 ----
 
-Sort: IP
-
-----
-
 Text:
 
 Internet Protocol. Part of the [TCP/IP](/terms/tcp-ip) communications protocol. IP implements the network layer containing a network address, and is used to route messages to different networks.

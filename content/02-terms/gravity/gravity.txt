@@ -2,10 +2,6 @@ Title: Gravity
 
 ----
 
-Sort: Gravity
-
-----
-
 Text:
 
 A drawing feature in [Newton OS](/terms/newton-os) that causes the ends of a newly drawn [line](/terms/line) to snap to nearby corners or midpoints of existing graphic [shapes](/terms/shape).

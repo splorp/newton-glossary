@@ -2,10 +2,6 @@ Title: Names
 
 ----
 
-Sort: Names
-
-----
-
 Text:
 
 The built-in [application](/terms/application) for storing names, addresses, phone numbers, and other information related to a list of contacts.

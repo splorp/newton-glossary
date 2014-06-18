@@ -2,10 +2,6 @@ Title: Sibling
 
 ----
 
-Sort: Sibling
-
-----
-
 Text:
 
 A [child](/terms/child) frame that has the same [parent](/terms/parent) frame.

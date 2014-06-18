@@ -2,10 +2,6 @@ Title: ELP
 
 ----
 
-Sort: ELP
-
-----
-
 Text:
 
 See [Electro-Luminescent Panel](/terms/electro-luminescent-panel)

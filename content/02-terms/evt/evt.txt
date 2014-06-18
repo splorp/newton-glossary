@@ -2,10 +2,6 @@ Title: EVT
 
 ----
 
-Sort: EVT
-
-----
-
 Text:
 
 See [Engineering Verification Test](/terms/engineering-verification-test)

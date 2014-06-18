@@ -2,10 +2,6 @@ Title: Calls
 
 ----
 
-Sort: Calls
-
-----
-
 Text:
 
 The built-in [application](/terms/application) for making and storing information about telephone calls.

@@ -2,10 +2,6 @@ Title: ASIC
 
 ----
 
-Sort: ASIC
-
-----
-
 Text:
 
 Application Specific Integrated Circuit. A [VLSI](/terms/vlsi) computer chip, custom-designed to perform one or more particular functions. Advantages include fewer discrete components, lower power consumption, and increased reliability.

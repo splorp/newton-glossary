@@ -2,10 +2,6 @@ Title: Cadillac
 
 ----
 
-Sort: Cadillac
-
-----
-
 Text:
 
 The code name of the first fully designed, tablet-style Newton prototype.

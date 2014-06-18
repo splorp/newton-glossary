@@ -2,10 +2,6 @@ Title: Display Area
 
 ----
 
-Sort: Display Area
-
-----
-
 Text:
 
 The portion of a Newton device screen on which information is displayed. As opposed to the [non-display area](/terms/non-display-area) of a screen.

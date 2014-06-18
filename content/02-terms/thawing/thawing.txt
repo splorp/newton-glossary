@@ -2,10 +2,6 @@ Title: Thawing
 
 ----
 
-Sort: Thawing
-
-----
-
 Text:
 
 See [Thaw](/terms/thaw)

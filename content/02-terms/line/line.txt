@@ -2,10 +2,6 @@ Title: Line
 
 ----
 
-Sort: Line
-
-----
-
 Text:
 
 A [shape](/terms/shape) defined by two points — the current x and y location of the [pen](/terms/pen) and the x and y location of the pen’s destination.

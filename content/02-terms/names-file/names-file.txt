@@ -2,10 +2,6 @@ Title: Names File
 
 ----
 
-Sort: Names File
-
-----
-
 Text:
 
 See [Names](/terms/names)

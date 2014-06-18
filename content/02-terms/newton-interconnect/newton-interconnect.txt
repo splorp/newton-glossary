@@ -2,10 +2,6 @@ Title: Newton Interconnect
 
 ----
 
-Sort: Newton Interconnect
-
-----
-
 Text:
 
 The unique 26-pin port manufactured by [JAE](/terms/jae) and found on the [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate](/terms/emate-300) devices. The port provides access to serial and AppleTalk communication, audio input and output, power, as well as automatic sensing of docking.

@@ -2,10 +2,6 @@ Title: NCU
 
 ----
 
-Sort: NCU
-
-----
-
 Text:
 
 See [Newton Connection Utilities](/terms/newton-connection-utilities)

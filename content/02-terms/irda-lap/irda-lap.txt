@@ -2,10 +2,6 @@ Title: IrDA-LAP
 
 ----
 
-Sort: IrDA-LAP
-
-----
-
 Text:
 
 The link access component of the [IrDA](/terms/irda) communications [protocol](/terms/protocol).

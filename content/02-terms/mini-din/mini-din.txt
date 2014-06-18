@@ -2,10 +2,6 @@ Title: Mini-DIN
 
 ----
 
-Sort: Mini-DIN
-
-----
-
 Text:
 
 A standard [DIN](/terms/din) type of connector, generally used to connect peripherals such as mice, modems, and keyboards to computing devices. The serial port connector found on the [MessagePad 100](/terms/messagepad-100), [MessagePad 110](/terms/messagepad-110), [MessagePad 120](/terms/messagepad-120), [MessagePad 130](/terms/messagepad-130), and [eMate 300](/terms/emate-300) uses a Mini-DIN or [DIN-8](/terms/din-8) connector, so called because it has eight pins.

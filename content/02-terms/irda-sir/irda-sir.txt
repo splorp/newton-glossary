@@ -2,10 +2,6 @@ Title: IrDA-SIR
 
 ----
 
-Sort: IrDA-SIR
-
-----
-
 Text:
 
 The serial infrared component of the [IrDA](/terms/irda) communications [protocol](/terms/protocol).

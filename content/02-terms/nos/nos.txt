@@ -2,10 +2,6 @@ Title: NOS
 
 ----
 
-Sort: NOS
-
-----
-
 Text:
 
 See [Newton OS](/terms/newton-os)

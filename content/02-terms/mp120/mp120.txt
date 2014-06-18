@@ -2,10 +2,6 @@ Title: MP120
 
 ----
 
-Sort: MP120
-
-----
-
 Text:
 
 See [MessagePad 120](/terms/messagepad-120)

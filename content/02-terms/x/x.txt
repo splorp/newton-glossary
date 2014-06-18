@@ -2,10 +2,6 @@ Title: X
 
 ----
 
-Sort: Xa
-
-----
-
 Text:
 
 See [Close Box](/terms/close-box)

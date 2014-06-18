@@ -2,10 +2,6 @@ Title: Cigarette Pack
 
 ----
 
-Sort: Cigarette Pack
-
-----
-
 Text:
 
 A nickname for the original Newton fax modem. So called because its dimensions were similar to that of a package of cigarettes. Also known as the Cigarette Case or Cigarette Box modem.

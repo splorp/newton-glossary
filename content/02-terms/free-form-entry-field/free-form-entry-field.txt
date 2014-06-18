@@ -2,10 +2,6 @@ Title: Free Form Entry Field
 
 ----
 
-Sort: Free Form Entry Field
-
-----
-
 Text:
 
 A [field](/terms/field) that accepts any characters as user input.

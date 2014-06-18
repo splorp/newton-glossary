@@ -2,10 +2,6 @@ Title: View
 
 ----
 
-Sort: View
-
-----
-
 Text:
 
 A visual [object](/terms/object) on the screen, including but not limited to a [container view](/terms/container-view). For example, [text buttons](/terms/text-button), [pickers](/terms/picker), and [input areas](/terms/input-area) are also views. Each view is internally represented by a [template](/terms/template).

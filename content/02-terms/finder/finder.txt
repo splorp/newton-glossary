@@ -2,10 +2,6 @@ Title: Finder
 
 ----
 
-Sort: Finder
-
-----
-
 Text:
 
 A [frame](/terms/frame) containing [methods](/terms/method) or [objects](/terms/method) that enumerate data items found to match criteria specified via the [find slip](/terms/find-slip).

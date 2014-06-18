@@ -2,10 +2,6 @@ Title: Ink
 
 ----
 
-Sort: Ink
-
-----
-
 Text:
 
 The raw data for input drawn by the user with the stylus. Also known as [raw ink](/terms/raw-ink) or [sketch ink](/terms/sketch-ink).

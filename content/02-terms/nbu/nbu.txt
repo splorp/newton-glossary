@@ -2,10 +2,6 @@ Title: NBU
 
 ----
 
-Sort: NBU
-
-----
-
 Text:
 
 See [Newton Backup Utility](/terms/newton-backup-utility)

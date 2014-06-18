@@ -2,10 +2,6 @@ Title: Font Size
 
 ----
 
-Sort: Font Size
-
-----
-
 Text:
 
 The size of a font measured in points, also known as point size.

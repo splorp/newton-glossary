@@ -2,10 +2,6 @@ Title: CPU
 
 ----
 
-Sort: CPU
-
-----
-
 Text:
 
 See [Central Processing Unit](/terms/central-processing-unit)

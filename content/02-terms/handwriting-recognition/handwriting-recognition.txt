@@ -2,10 +2,6 @@ Title: Handwriting Recognition
 
 ----
 
-Sort: Handwriting Recognition
-
-----
-
 Text:
 
 The algorithmic conversion of handwritten or handprinted text into digital text.

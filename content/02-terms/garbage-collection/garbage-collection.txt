@@ -2,10 +2,6 @@ Title: Garbage Collection
 
 ----
 
-Sort: Garbage Collection
-
-----
-
 Text:
 
 The removal of [objects](/terms/object) and other data from memory created by [packages](/terms/packages) that the system no longer uses.

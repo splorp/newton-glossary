@@ -2,10 +2,6 @@ Title: CDIL
 
 ----
 
-Sort: CDIL
-
-----
-
 Text:
 
 Communication Desktop Integration Layer. A code layer that provides a stream based interface for exchanging data with Newton devices over a variety of communications services.

@@ -2,10 +2,6 @@ Title: Dot Commands
 
 ----
 
-Sort: Dot Commands
-
-----
-
 Text:
 
 See [Book Maker Commands](/terms/book-maker-commands)

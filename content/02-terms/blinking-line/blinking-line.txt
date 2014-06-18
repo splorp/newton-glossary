@@ -2,10 +2,6 @@ Title: Blinking Line
 
 ----
 
-Sort: Blinking Line
-
-----
-
 Text:
 
 A flashing line indicating where new text will be inserted. More commonly known as a [cursor](/terms/cursor).

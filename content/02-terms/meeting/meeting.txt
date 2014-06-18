@@ -2,10 +2,6 @@ Title: Meeting
 
 ----
 
-Sort: Meeting
-
-----
-
 Text:
 
 An entry in the [Dates](/terms/dates) application for a specific time during the day. People can be invited and the meeting can be scheduled for a particular location.

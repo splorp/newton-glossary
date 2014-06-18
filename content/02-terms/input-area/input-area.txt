@@ -2,10 +2,6 @@ Title: Input Area
 
 ----
 
-Sort: Input Area
-
-----
-
 Text:
 
 A place in a [container view](/terms/container-view) where a user can write or draw.

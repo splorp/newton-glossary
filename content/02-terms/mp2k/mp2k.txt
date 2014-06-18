@@ -2,10 +2,6 @@ Title: MP2K
 
 ----
 
-Sort: MP2K
-
-----
-
 Text:
 
 See [MessagePad 2000](/terms/messagepad-2000)

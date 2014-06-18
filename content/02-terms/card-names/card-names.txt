@@ -2,10 +2,6 @@ Title: Card (Names Application)
 
 ----
 
-Sort: Card (Names Application)
-
-----
-
 Text:
 
 A view of information pertaining to an entry in the [Names](/terms/names) application [soup](/terms/soup), graphically formatted as a business card.

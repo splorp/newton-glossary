@@ -2,10 +2,6 @@ Title: Content Command
 
 ----
 
-Sort: Content Command
-
-----
-
 Text:
 
 A [Newton Book Maker](/terms/newton-book-maker) command that defines a content item, such as text or graphics, to be displayed on a Newton device.

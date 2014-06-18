@@ -2,10 +2,6 @@ Title: Bic
 
 ----
 
-Sort: Bic
-
-----
-
 Text:
 
 The code name for the larger, second generation Newton prototype.

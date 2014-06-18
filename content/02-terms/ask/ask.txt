@@ -2,10 +2,6 @@ Title: ASK
 
 ----
 
-Sort: ASK
-
-----
-
 Text:
 
 See [Amplitude Shift Keying](/terms/amplitude-shift-keying)

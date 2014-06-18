@@ -2,10 +2,6 @@ Title: MI
 
 ----
 
-Sort: MI
-
-----
-
 Text:
 
 See [MoreInfo](/terms/moreinfo)

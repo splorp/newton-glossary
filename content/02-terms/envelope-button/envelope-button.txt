@@ -2,10 +2,6 @@ Title: Envelope Button
 
 ----
 
-Sort: Envelope Button
-
-----
-
 Text:
 
 See [Action Picker](/terms/action-picker)

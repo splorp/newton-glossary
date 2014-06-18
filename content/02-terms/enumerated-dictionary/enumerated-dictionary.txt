@@ -2,10 +2,6 @@ Title: Enumerated Dictionary
 
 ----
 
-Sort: Enumerated Dictionary
-
-----
-
 Text:
 
 A list of words that can be recognized when the dictionary is enabled.

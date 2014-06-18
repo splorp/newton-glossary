@@ -2,10 +2,6 @@ Title: Thawed
 
 ----
 
-Sort: Thawed
-
-----
-
 Text:
 
 See [Thawed Package](/terms/thawed-package)

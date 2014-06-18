@@ -2,10 +2,6 @@ Title: Driver Development Kit
 
 ----
 
-Sort: Driver Development Kit
-
-----
-
 Text:
 
 A set of software routines, tools, and libraries help programmers create [device drivers](/terms/device-driver).

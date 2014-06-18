@@ -2,10 +2,6 @@ Title: Extras Drawer
 
 ----
 
-Sort: Extras Drawer
-
-----
-
 Text:
 
 A built-in [container view](/terms/container-view) that displays named [picture buttons](/terms/picture-button) or [icons](/terms/icon) a user can [tap](/terms/tap) to open [applications](/terms/application).

@@ -2,10 +2,6 @@ Title: DTMF
 
 ----
 
-Sort: DTMF
-
-----
-
 Text:
 
 See [Touch Tone](/terms/touch-tone)

@@ -2,10 +2,6 @@ Title: Newton Digital Book
 
 ----
 
-Sort: Newton Digital Book
-
-----
-
 Text:
 
 See [Newton Book](/terms/newton-book)

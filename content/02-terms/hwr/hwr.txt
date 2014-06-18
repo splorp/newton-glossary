@@ -2,10 +2,6 @@ Title: HWR
 
 ----
 
-Sort: HWR
-
-----
-
 Text:
 
 See [Handwriting Recognition](/terms/handwriting-recognition)

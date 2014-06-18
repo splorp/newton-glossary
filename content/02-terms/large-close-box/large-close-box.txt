@@ -2,10 +2,6 @@ Title: Large Close Box
 
 ----
 
-Sort: Large Close Box
-
-----
-
 Text:
 
 A [button](/terms/button) that behaves the same as a [close box](/terms/close-box) but is slightly larger to match the standard height of a [text button](/terms/text-button).

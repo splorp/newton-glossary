@@ -2,10 +2,6 @@ Title: DB
 
 ----
 
-Sort: DB
-
-----
-
 Text:
 
 See [Database](/terms/database)

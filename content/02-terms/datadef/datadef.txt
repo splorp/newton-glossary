@@ -2,10 +2,6 @@ Title: dataDef
 
 ----
 
-Sort: dataDef
-
-----
-
 Text:
 
 See [Data Definition](/terms/data-definition)

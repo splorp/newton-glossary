@@ -2,10 +2,6 @@ Title: AirPort
 
 ----
 
-Sort: AirPort
-
-----
-
 Text:
 
 A brand name used by Apple on their version of the [802.11](/terms/802-11) wireless communication card.

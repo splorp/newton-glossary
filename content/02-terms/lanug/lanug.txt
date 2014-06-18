@@ -2,10 +2,6 @@ Title: LANUG
 
 ----
 
-Sort: LANUG
-
-----
-
 Text:
 
 Los Angeles Newton Users Group

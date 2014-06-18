@@ -2,10 +2,6 @@ Title: Layout Flag
 
 ----
 
-Sort: Layout Flag
-
-----
-
 Text:
 
 A [Newton Book Maker](/terms/newton-book-maker) setting value used to modify a [layout command](/terms/layout-command). Setting this [flag](/terms/flag) affects all pages using a particular [layout](/terms/layout).

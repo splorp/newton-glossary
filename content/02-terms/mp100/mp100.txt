@@ -2,10 +2,6 @@ Title: MP100
 
 ----
 
-Sort: MP100
-
-----
-
 Text:
 
 See [MessagePad 100](/terms/messagepad-100)

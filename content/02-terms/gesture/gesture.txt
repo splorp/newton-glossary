@@ -2,10 +2,6 @@ Title: Gesture
 
 ----
 
-Sort: Gesture
-
-----
-
 Text:
 
 A handwritten mark that is recognized as having a special meaning by the [Newton OS](/terms/newton-os). Standard gestures recognized on the Newton include [tapping](/terms/tapping), [scrubbing](/terms/scrubbing), and the [caret](/terms/caret).

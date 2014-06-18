@@ -2,10 +2,6 @@ Title: Break Loop
 
 ----
 
-Sort: Break Loop
-
-----
-
 Text:
 
 A state of the Newton processor in which program execution is suspended and the Newton accepts input only from an [Inspector](/terms/inspector) connection.

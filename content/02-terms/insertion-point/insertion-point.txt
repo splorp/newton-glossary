@@ -2,10 +2,6 @@ Title: Insertion Point
 
 ----
 
-Sort: Insertion Point
-
-----
-
 Text:
 
 See [Caret]{/terms/caret)

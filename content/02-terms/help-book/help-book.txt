@@ -2,10 +2,6 @@ Title: Help Book
 
 ----
 
-Sort: Help Book
-
-----
-
 Text:
 
 The electronic document produced by [Newton Book Maker](/terms/newton-book-maker) when it processes a [book source file](/terms/book-source-file) with the “Help Size” option checked. Help books are displayed using the [Help Browser](/terms/help-browser) built into all Newton devices.

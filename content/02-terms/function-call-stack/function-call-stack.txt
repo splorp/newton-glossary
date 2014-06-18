@@ -2,10 +2,6 @@ Title: Function Call Stack
 
 ----
 
-Sort: Function Call Stack
-
-----
-
 Text:
 
 A virtual [stack](/terms/stack) that contains an [activation record](/terms/stack-activation-record) for each active [function](/terms/function).

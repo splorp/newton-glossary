@@ -2,10 +2,6 @@ Title: Content Flag
 
 ----
 
-Sort: Content Flag
-
-----
-
 Text:
 
 A setting value that modifies an individual content item when creating a [Newton book](/terms/newton-book). Most [flags](/terms/flag) in the [Newton Book Maker](/terms/newton-book-maker) language are content flags.

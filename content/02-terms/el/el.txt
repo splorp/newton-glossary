@@ -2,10 +2,6 @@ Title: EL
 
 ----
 
-Sort: EL
-
-----
-
 Text:
 
 See [Electro-Luminescent Panel](/terms/electro-luminescent-panel)

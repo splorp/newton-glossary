@@ -2,10 +2,6 @@ Title: Bacon Lettuce Tomato & Garlic
 
 ----
 
-Sort: Bacon Lettuce Tomato & Garlic
-
-----
-
 Text:
 
 See [BLTG](/terms/bltg)

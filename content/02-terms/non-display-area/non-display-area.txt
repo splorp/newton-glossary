@@ -2,10 +2,6 @@ Title: Non-display Area
 
 ----
 
-Sort: Non-display Area
-
-----
-
 Text:
 
 The portion of a Newton device screen between the area where information can be displayed (the [display area](/terms/display-area)) and the edge of the hardware case surrounding the screen.

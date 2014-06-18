@@ -2,10 +2,6 @@ Title: Dynamic Language
 
 ----
 
-Sort: Dynamic Language
-
-----
-
 Text:
 
 See [Dylan](/terms/dylan)

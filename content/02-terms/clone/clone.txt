@@ -2,10 +2,6 @@ Title: Clone
 
 ----
 
-Sort: Clone
-
-----
-
 Text:
 
 A device manufactured by a third party company using Newton technology licensed from Apple. Newton clones included devices such as the Sharp [ExpertPad](/terms/expertpad), Motorola [Marco](/terms/marco), Digital Ocean [Tarpon](/terms/tarpon), Harris [Access Device](/terms/access-device), Schlumberger [Watson](/terms/watson), and Siemens [NotePhone](/terms/notephone).

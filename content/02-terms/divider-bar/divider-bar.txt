@@ -2,10 +2,6 @@ Title: Divider Bar
 
 ----
 
-Sort: Divider Bar
-
-----
-
 Text:
 
 See [Separator Bar](/terms/separator-bar)

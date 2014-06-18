@@ -2,10 +2,6 @@ Title: Date Book
 
 ----
 
-Sort: Date Book
-
-----
-
 Text:
 
 See [Dates](/terms/dates)

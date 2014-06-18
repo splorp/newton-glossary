@@ -2,10 +2,6 @@ Title: Icon
 
 ----
 
-Sort: Icon
-
-----
-
 Text:
 
 A symbol that graphically represents an object or a concept. For example, icons in the [Extras Drawer](/terms/extras-drawer) represent [applications](/terms/application).

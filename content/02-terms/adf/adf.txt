@@ -2,10 +2,6 @@ Title: ADF
 
 ----
 
-Sort: ADF
-
-----
-
 Text:
 
 See [Application Definition Format](/terms/application-definition-format)

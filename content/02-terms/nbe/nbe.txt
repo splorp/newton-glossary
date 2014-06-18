@@ -2,10 +2,6 @@ Title: NBE
 
 ----
 
-Sort: NBE
-
-----
-
 Text:
 
 See [Newton Backup Express](/terms/newton-backup-express)

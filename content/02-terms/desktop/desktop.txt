@@ -2,10 +2,6 @@ Title: Desktop
 
 ----
 
-Sort: Desktop
-
-----
-
 Text:
 
 See [Desktop Computer](/terms/desktop-computer)

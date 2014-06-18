@@ -2,10 +2,6 @@ Title: InkPad
 
 ----
 
-Sort: InkPad
-
-----
-
 Text:
 
 A simple notepad interface where handwritten input is converted into editable text when using the [InkWell](/terms/inkwell) handwriting recognition system.

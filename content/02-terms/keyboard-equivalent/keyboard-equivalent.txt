@@ -2,10 +2,6 @@ Title: Keyboard Equivalent
 
 ----
 
-Sort: Keyboard Equivalent
-
-----
-
 Text:
 
 A keyboard command that is the equivalent of [tapping](/terms/tapping) a specific [button](/terms/button) or choosing from a [picker](/terms/picker).

@@ -2,10 +2,6 @@ Title: Memory Effect
 
 ----
 
-Sort: Memory Effect
-
-----
-
 Text:
 
 A condition affecting a rechargeable battery where it will hold less and less of a charge over time.

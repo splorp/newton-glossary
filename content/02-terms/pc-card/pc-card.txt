@@ -2,10 +2,6 @@ Title: PC Card
 
 ----
 
-Sort: PC Card
-
-----
-
 Text:
 
 A small, removable peripheral card based on the [PCMCIA](/terms/pcmcia) standard, primarily used for memory expansion and application storage. Other peripherals based on the PC card form factor are networking cards, modems, hard disk drives, and [video adapters](/terms/ez-presenter).

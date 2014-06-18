@@ -2,10 +2,6 @@ Title: MPW
 
 ----
 
-Sort: MPW
-
-----
-
 Text:
 
 See [Macintosh Programmers Workshop](/terms/macintosh-programmers-workshop)

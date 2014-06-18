@@ -2,10 +2,6 @@ Title: Info Slip
 
 ----
 
-Sort: Info Slip
-
-----
-
 Text:
 
 See [Item Info Slip](/terms/item-info-slip)

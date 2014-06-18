@@ -2,10 +2,6 @@ Title: Flag
 
 ----
 
-Sort: Flag
-
-----
-
 Text:
 
 A value that is set either on or off to enable a feature. Typically, flag values are single bits, although they can be comprised of groups of bits or an entire byte.

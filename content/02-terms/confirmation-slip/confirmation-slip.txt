@@ -2,10 +2,6 @@ Title: Confirmation Slip
 
 ----
 
-Sort: Confirmation Slip
-
-----
-
 Text:
 
 A [view](/terms/view) that appears onscreen as part of the [user interface](/terms/user-interface), requiring the user confirm or cancel an action that may have “far reaching” consequences.

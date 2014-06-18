@@ -2,10 +2,6 @@ Title: Endpoint Option
 
 ----
 
-Sort: Endpoint Option
-
-----
-
 Text:
 
 An [endpoint](/terms/endpoint) option is specified in a [option frame](/terms/option-frame) passed in an [array](/terms/array) as an argument to one of the endpoint [methods](/terms/method). Endpoint options select the communication tool to use, control its configuration and operation, and return result code information from each method call.

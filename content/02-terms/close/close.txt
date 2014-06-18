@@ -2,10 +2,6 @@ Title: Close
 
 ----
 
-Sort: Close
-
-----
-
 Text:
 
 To make a [container view](/terms/container-view) go away by [tapping](/terms/tapping) the [close box](/terms/close-box).

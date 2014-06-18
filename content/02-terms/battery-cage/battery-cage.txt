@@ -2,10 +2,6 @@ Title: Battery Cage
 
 ----
 
-Sort: Battery Cage
-
-----
-
 Text:
 
 A removable component of a [MessagePad](/terms/messagepad) which contains the batteries.

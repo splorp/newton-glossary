@@ -2,10 +2,6 @@ Title: LTS
 
 ----
 
-Sort: LTS
-
-----
-
 Text:
 
 See [Long Term Storage](/terms/long-term-storage)

@@ -2,10 +2,6 @@ Title: EOP
 
 ----
 
-Sort: EOP
-
-----
-
 Text:
 
 End of packet. A specific string of characters that indicates the end of a packet of data.

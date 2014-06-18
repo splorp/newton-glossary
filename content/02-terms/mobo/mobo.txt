@@ -2,10 +2,6 @@ Title: Mobo
 
 ----
 
-Sort: Mobo
-
-----
-
 Text:
 
 See [Motherboard](/terms/motherboard)
