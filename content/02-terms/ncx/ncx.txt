@@ -1,0 +1,7 @@
+Title: NCX
+
+----
+
+Text:
+
+See [Newton Connection](/terms/newton-connection)

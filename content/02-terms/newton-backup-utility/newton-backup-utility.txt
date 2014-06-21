@@ -1,0 +1,29 @@
+Title: Newton Backup Utility
+
+----
+
+Text:
+
+Software developed by Apple that allows you to backup and restore data from a Newton device to a desktop computer. Also known as [NBU](/terms/nbu).
+
+----
+
+Related:
+
+- /terms/nbe
+- /terms/nbu
+- /terms/nbx
+- /terms/nck
+- /terms/ncu
+- /terms/ncx
+- /terms/newtbx
+- /terms/newton-backup-express
+- /terms/newton-connection
+- /terms/newton-connection-kit
+- /terms/newton-connection-utilities
+
+----
+
+Source:
+
+- /sources/gh

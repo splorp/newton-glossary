@@ -1,0 +1,25 @@
+Title: Newton Associates Program
+
+----
+
+Text:
+
+A defunct Apple development support program which provided low-cost, self-help resources to Newton developers. Also known as [NAP](/terms/nap).
+
+----
+
+Related:
+
+- /terms/developer-technical-services
+- /terms/dts
+- /terms/nap
+- /terms/newton-developer-conference
+- /terms/newton-developer-support
+- /terms/newton-partners-program
+- /terms/newton-technology-journal
+
+----
+
+Source:
+
+- /sources/ntj
