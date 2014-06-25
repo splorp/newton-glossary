@@ -4,7 +4,7 @@ Title: Button Provider
 
 Text:
 
-An application that can add a [button](/terms/button) to another application or [button host](/terms/button-host).
+An [application](/terms/application) that can add a [button](/terms/button) to another application or [button host](/terms/button-host).
 
 ----
 
