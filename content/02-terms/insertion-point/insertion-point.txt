@@ -4,7 +4,7 @@ Title: Insertion Point
 
 Text:
 
-See [Caret]{/terms/caret)
+See [Caret](/terms/caret)
 
 ----
 
