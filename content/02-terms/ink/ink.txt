@@ -4,7 +4,7 @@ Title: Ink
 
 Text:
 
-The raw data for input drawn by the user with the stylus. Also known as [raw ink](/terms/raw-ink) or [sketch ink](/terms/sketch-ink).
+The raw data for input drawn by the user with the stylus. Also referred to as [raw ink](/terms/raw-ink) or [sketch ink](/terms/sketch-ink).
 
 Also the name of the preference pane used to control the Mac OS X version of the Newton [handwriting recognition](/terms/handwriting-recognition) system, originally dubbed [InkWell](/terms/inkwell).
 
