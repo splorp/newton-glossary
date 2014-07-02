@@ -1,0 +1,24 @@
+Title: Newton Programmer’s Guide
+
+----
+
+Text:
+
+The definitive guide to Newton programming, providing conceptual information and instructions for using Newton OS [application programming interfaces](/terms/application-programming-interface). Also referred to as [NPG](/terms/npg).
+
+_cf. (link:http://manuals.info.apple.com/MANUALS/1000/MA1510/en_US/NewtonProgrammerGuide20.PDF)_
+
+----
+
+Related:
+
+- /terms/api
+- /terms/application-programming-interface
+- /terms/newton-programmers-reference
+- /terms/npg
+
+----
+
+Source:
+
+- /sources/npg

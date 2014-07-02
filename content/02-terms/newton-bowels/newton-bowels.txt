@@ -1,0 +1,24 @@
+Title: Newton Bowels
+
+----
+
+Text:
+
+A project instigated by [Paul Guyot](/sources/pg) to document [application programming interfaces](/terms/application-programming-interface) (APIs), inner workings, and other programmatic mechanisms found in the [Newton OS](/terms/newton-os) and to provide related sample code and development tools.
+
+_cf. (link: http://www.kallisys.com/files/newton/Bowels/)_
+
+----
+
+Related:
+
+- /terms/api
+- /terms/application-programming-interface
+- /terms/lantern-ddk
+- /terms/newton-devices
+
+----
+
+Source:
+
+- /sources/pg

@@ -1,0 +1,26 @@
+Title: Newton Technology Journal
+
+----
+
+Text:
+
+A publication produced by Apple which supplied developers with information on Newton platform technology, development tools, and marketing news.
+
+_cf. (link:http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal)_
+
+----
+
+Related:
+
+- /terms/developer-technical-services
+- /terms/dts
+- /terms/newton-associates-program
+- /terms/newton-developer-support
+- /terms/newton-partners-program
+- /terms/ntj
+
+----
+
+Source:
+
+- /sources/ntj

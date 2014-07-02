@@ -1,0 +1,7 @@
+Title: Object Stream File
+
+----
+
+Text:
+
+See [Stream File](/terms/stream-file)

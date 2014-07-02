@@ -1,0 +1,25 @@
+Title: Newton Developer Support
+
+----
+
+Text:
+
+A defunct group within Apple which supplied technical information and support for companies and individuals developing product for the Newton platform.
+
+----
+
+Related:
+
+- /terms/developer-technical-services
+- /terms/dts
+- /terms/llama
+- /terms/newton-associates-program
+- /terms/newton-developer-conference
+- /terms/newton-partners-program
+- /terms/newton-technology-journal
+
+----
+
+Source:
+
+- /sources/gh

@@ -1,0 +1,24 @@
+Title: Newton User Group
+
+----
+
+Text:
+
+An organized group of Newton enthusiasts. Sometimes abbreviated as simply [NUG](/terms/nug).
+
+----
+
+Related:
+
+- /terms/anug
+- /terms/dnug
+- /terms/lanug
+- /terms/nug
+- /terms/snug
+- /terms/sonug
+
+----
+
+Source:
+
+- /sources/gh

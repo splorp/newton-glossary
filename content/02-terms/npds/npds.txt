@@ -1,0 +1,7 @@
+Title: NPDS
+
+----
+
+Text:
+
+See [Newton Personal Data Sharing](/terms/newton-personal-data-sharing)

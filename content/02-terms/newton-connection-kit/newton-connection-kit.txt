@@ -1,0 +1,29 @@
+Title: Newton Connection Kit
+
+----
+
+Text:
+
+Software developed by Apple that allows users to exchange and synchronize information between a Newton device and common desktop applications. The Newton Connection Kit is for use with [Newton OS](/terms/newton-os) 1.x only. The equivalent software package for Newton OS 2.x is [Newton Connection Utilities](/terms/newton-connection-utilities). Also referred to as [NCK](/terms/nck).
+
+----
+
+Related:
+
+- /terms/nbe
+- /terms/nbu
+- /terms/nbx
+- /terms/nck
+- /terms/ncu
+- /terms/ncx
+- /terms/newtbx
+- /terms/newton-backup-express
+- /terms/newton-backup-utility
+- /terms/newton-connection
+- /terms/newton-connection-utilities
+
+----
+
+Source:
+
+- /sources/gh

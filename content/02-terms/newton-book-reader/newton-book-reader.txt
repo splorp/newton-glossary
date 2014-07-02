@@ -1,0 +1,27 @@
+Title: Newton Book Reader
+
+----
+
+Text:
+
+An [application](/terms/application) built into the [Newton OS](/terms/newton-os) as a system-wide service, facilitating the display and navigation of interactive, digital [books](/term/newton-book).
+
+----
+
+Related:
+
+- /terms/book
+- /terms/book-maker
+- /terms/book-reader
+- /terms/help-book
+- /terms/newton-book
+- /terms/newton-book-maker
+- /terms/newton-book-reader
+- /terms/newton-digital-book
+- /terms/newton-press
+
+----
+
+Source:
+
+- /sources/nbm

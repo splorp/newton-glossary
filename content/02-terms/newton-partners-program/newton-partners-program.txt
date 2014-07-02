@@ -1,0 +1,25 @@
+Title: Newton Partners Program
+
+----
+
+Text:
+
+A defunct Apple development support program which provided expanded, expert-level resources to Newton developers. Also referred to as [NPP](/terms/npp).
+
+----
+
+Related:
+
+- /terms/developer-technical-services
+- /terms/dts
+- /terms/newton-associates-program
+- /terms/newton-developer-conference
+- /terms/newton-developer-support
+- /terms/newton-technology-journal
+- /terms/npp
+
+----
+
+Source:
+
+- /sources/ntj

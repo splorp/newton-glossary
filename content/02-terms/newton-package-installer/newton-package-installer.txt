@@ -1,0 +1,25 @@
+Title: Newton Package Installer
+
+----
+
+Text:
+
+Software developed by Apple that allows users to install [packages](/terms/package) on a Newton device from a desktop computer. Also referred to as [NPI](/terms/npi).
+
+----
+
+Related:
+
+- /terms/nbe
+- /terms/nbx
+- /terms/ncu
+- /terms/newtbx
+- /terms/newton-backup-express
+- /terms/newton-connection-utilities
+- /terms/npi
+
+----
+
+Source:
+
+- /sources/gh

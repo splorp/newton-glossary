@@ -1,0 +1,24 @@
+Title: Newton User Interface
+
+----
+
+Text:
+
+The standard rules and conventions for interacting with Newton devices, as set out in the [Newton User Interface Guidelines](/source/nuig) documentation. The [user interface](/terms/user-interface) provides a consistent means of interacting with all [Newton OS](/terms/newton-os) devices and any [applications](/terms/applications) designed to run on those devices.
+
+----
+
+Related:
+
+- /terms/graphical-user-interface
+- /terms/gui
+- /terms/interface
+- /terms/user-interface
+- /terms/nui
+- /terms/ui
+
+----
+
+Source:
+
+- /sources/nuig

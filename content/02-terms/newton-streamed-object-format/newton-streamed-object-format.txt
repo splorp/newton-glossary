@@ -1,0 +1,18 @@
+Title: Newton Streamed Object Format
+
+----
+
+Text:
+
+A specific type of data which describes a NewtonScript [frame](/terms/frame) along with everything that it contains. [Stream files](/terms/stream-file) are encoding using the Newton Streamed Object Format ([NSOF](/terms/nsof)).
+
+----
+
+Related:
+
+- /terms/frame
+- /terms/newtonscript
+- /terms/nsof
+- /terms/object
+- /terms/object-stream-file
+- /terms/stream-file

@@ -1,0 +1,30 @@
+Title: Newton Toolkit
+
+----
+
+Text:
+
+A development environment created by Apple for writing [NewtonScript](/terms/newtonscript) programs for [Newton OS](/terms/newton-os). Often referred to as [NTK](/terms/ntk).
+
+----
+
+Related:
+
+- /terms/book-definition-file
+- /terms/build
+- /terms/global-data-file
+- /terms/layout-file
+- /terms/newtonscript
+- /terms/ntk
+- /terms/project
+- /terms/project-build
+- /terms/project-file
+- /terms/resource-file
+- /terms/stream-file
+- /terms/text-file
+
+----
+
+Source:
+
+- /sources/npg

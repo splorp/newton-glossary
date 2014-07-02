@@ -1,0 +1,16 @@
+Title: Newton OS
+
+----
+
+Text:
+
+The [operating system](/terms/operating-system) that controls a Newton device. Also referred to as simply [NOS](/terms/nos).
+
+----
+
+Related:
+
+- /terms/kernel
+- /terms/nos
+- /terms/operating-system
+- /terms/os

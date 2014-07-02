@@ -1,0 +1,24 @@
+Title: Stream File
+
+----
+
+Text:
+
+A file encoded in [Newton Streamed Object Format](/terms/newton-streamed-object-format). You can use [Newton Toolkit](/terms/newton-toolkit) to build stream files, which can be incorporated into [projects](/terms/project).
+
+----
+
+Related:
+
+- /terms/newton-streamed-object-format
+- /terms/newton-toolkit
+- /terms/newtonscript
+- /terms/nsof
+- /terms/object
+- /terms/object-stream-file
+
+----
+
+Source:
+
+- /sources/ntk

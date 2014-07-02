@@ -1,0 +1,19 @@
+Title: Newton Internet Enabler
+
+----
+
+Text:
+
+Software that runs in the background of the [Newton OS](/terms/newton-os), enabling access to the internet and other information services using standard communication protocols such as [TCP/IP](/terms/tcp-ip).
+
+----
+
+Related:
+
+- /terms/dhcp
+- /terms/internet-protocol
+- /terms/ip
+- /terms/nie
+- /terms/protocol
+- /terms/tcp
+- /terms/tcp-ip

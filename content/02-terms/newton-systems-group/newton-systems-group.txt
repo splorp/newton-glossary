@@ -1,0 +1,17 @@
+Title: Newton Systems Group
+
+----
+
+Text:
+
+The Newton platform development group within Apple.
+
+----
+
+Related:
+
+- /terms/developer-technical-services
+- /terms/dts
+- /terms/llama
+- /terms/newton-inc
+- /terms/nsg
