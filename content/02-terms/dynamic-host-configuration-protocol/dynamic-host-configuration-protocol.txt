@@ -12,6 +12,7 @@ Related:
 
 - /terms/dhcp
 - /terms/ip
+- /terms/newton-internet-enabler
 - /terms/protocol
 - /terms/tcp
 - /terms/tcp-ip

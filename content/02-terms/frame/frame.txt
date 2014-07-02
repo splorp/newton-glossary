@@ -22,6 +22,7 @@ Related:
 - /terms/item-frame
 - /terms/message
 - /terms/name-reference
+- /terms/newton-streamed-object-format
 - /terms/object
 - /terms/option-frame
 - /terms/parent

@@ -21,6 +21,8 @@ Related:
 - /terms/newton-connection
 - /terms/newton-connection-kit
 - /terms/newton-connection-utilities
+- /terms/newton-package-installer
+- /terms/npi
 
 ----
 
