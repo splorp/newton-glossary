@@ -1,0 +1,25 @@
+Title: Nickel Metal Hydride
+
+----
+
+Text:
+
+A rechargeable battery technology that is not susceptible to [memory effect](/terms/memory-effect), unlike batteries based on [Nickel Cadmium](/terms/nickel-cadmium) technology. Also referred to as a [NiHM](/terms/nihm) battery.
+
+----
+
+Related:
+
+- /terms/battery-cage
+- /terms/long-term-storage
+- /terms/memory-effect
+- /terms/nicad
+- /terms/nicd
+- /terms/nickel-cadmium
+- /terms/nimh
+
+----
+
+Source:
+
+- /sources/te

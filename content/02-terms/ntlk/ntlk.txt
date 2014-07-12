@@ -1,0 +1,6 @@
+Title: NTLK
+----
+
+Text:
+
+See [NewtonTalk](/terms/newtontalk)

@@ -1,0 +1,20 @@
+Title: Newtourage
+
+----
+
+Text:
+
+A desktop [application](/terms/application) created by [John Del Pizzo](http://johndelpizzo.wordpress.com/) that allows a Newton device to synchronize contact information between the [Names](/terms/names) application and [Microsoft Entourage](http://en.wikipedia.org/wiki/Microsoft_Entourage).
+
+_cf.(link:https://web.archive.org/web/20040331135313/http://delcannsoftware.com/)_
+
+----
+
+Related:
+
+- /terms/application
+- /terms/names
+- /terms/names-file
+- /terms/now-up-to-date
+- /terms/personal-information-manager
+- /terms/pim

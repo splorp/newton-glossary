@@ -1,0 +1,25 @@
+Title: Now Up To Date
+
+----
+
+Text:
+
+A desktop calendaring and scheduling [application](/terms/application) developed by [Now Software](https://sites.google.com/site/nowsoftwarecom/), some versions of which can synchronize information with a Newton device. Also referred to as [NUD](/terms/nud).
+
+----
+
+Related:
+
+- /terms/application
+- /terms/dates
+- /terms/names
+- /terms/names-file
+- /terms/newtourage
+- /terms/personal-information-manager
+- /terms/pim
+
+----
+
+Source:
+
+- /sources/gh

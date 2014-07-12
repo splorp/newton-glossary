@@ -1,0 +1,23 @@
+Title: Notepad
+
+----
+
+Text:
+
+The built-in [application](/terms/application) for recording and organizing notes and outlines, which may contain text, [ink text](/terms/ink-text), [shapes](/terms/shape), and [pictures](/terms/picture).
+
+----
+
+Related:
+
+- /terms/application
+- /terms/backdrop
+- /terms/notable
+- /terms/notes
+- /terms/stationery
+
+----
+
+Source:
+
+- /sources/nuig

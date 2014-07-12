@@ -1,0 +1,29 @@
+Title: NewtonScript
+
+----
+
+Text:
+
+A dynamic, object-oriented programming language developed for the Newton platform. Lovingly nicknamed [WallyScript](/terms/wallyscript) after its designer Walter R. Smith.
+
+----
+
+Related:
+
+- /terms/build
+- /terms/byte-code
+- /terms/newton-toolkit
+- /terms/newtonscript-heap
+- /terms/ns
+- /terms/ntk
+- /terms/object
+- /terms/page-script
+- /terms/project
+- /terms/viewframe
+- /terms/wallyscript
+
+----
+
+Source:
+
+- /sources/gh

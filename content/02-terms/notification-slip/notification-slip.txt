@@ -1,0 +1,29 @@
+Title: Notification Slip
+
+----
+
+Text:
+
+A [view](/terms/view) that appears onscreen as part of the [user interface](/terms/user-interface), warning the user or reporting an error. A notification slip may or may not be accompanied by an [alert sound](/terms/alert-sound).
+
+----
+
+Related:
+
+- /terms/alert-box
+- /terms/alert-sound
+- /terms/call-slip
+- /terms/info-slip
+- /terms/item-info-slip
+- /terms/memory-info-slip
+- /terms/confirmation-slip
+- /terms/routing-slip
+- /terms/slip
+- /terms/status-slip
+- /terms/view
+
+----
+
+Source:
+
+- /sources/nuig

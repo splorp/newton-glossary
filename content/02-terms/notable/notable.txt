@@ -1,0 +1,15 @@
+Title: Notable
+
+----
+
+Text:
+
+An [application](/terms/application) developed by [Revelar](/terms/revelar) which allows users to manipulate [Notepad](/terms/notepad) data on a Newton device using a desktop computer.
+
+----
+
+Related:
+
+- /terms/revelar
+- /terms/revelar-connection-utility
+- /terms/notepad
