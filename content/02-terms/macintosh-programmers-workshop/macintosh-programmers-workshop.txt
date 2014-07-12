@@ -12,5 +12,9 @@ Macintosh Programmers Workshop is required by the [Newton C++ Toolbox](/terms/ne
 
 Related:
 
+- /terms/bugtrap
 - /terms/mpw
+- /terms/nct
 - /terms/newton-c-toolbox
+- /terms/newtsbug
+- /terms/viewframe

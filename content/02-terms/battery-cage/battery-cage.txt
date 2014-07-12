@@ -5,3 +5,14 @@ Title: Battery Cage
 Text:
 
 A removable component of a [MessagePad](/terms/messagepad) which contains the batteries.
+
+----
+
+Related:
+
+- /terms/long-term-storage
+- /terms/nicad
+- /terms/nicd
+- /terms/nickel-cadmium
+- /terms/nickel-metal-hydride
+- /terms/nimh

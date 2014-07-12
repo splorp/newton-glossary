@@ -10,8 +10,14 @@ An extended period of disuse of a Newton device or other piece of equipment. Par
 
 Related:
 
+- /terms/battery-cage
 - /terms/lts
 - /terms/memory-effect
+- /terms/nicad
+- /terms/nicd
+- /terms/nickel-cadmium
+- /terms/nickel-metal-hydride
+- /terms/nimh
 
 ----
 

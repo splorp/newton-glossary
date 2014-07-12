@@ -13,7 +13,6 @@ Related:
 
 - /terms/function
 - /terms/newtonscript
-- /terms/ns
 
 ----
 

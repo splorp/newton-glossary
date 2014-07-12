@@ -12,7 +12,10 @@ Related:
 
 - /terms/clanking
 - /terms/local-scroll-arrows
+- /terms/scroll
+- /terms/scroll-arrows
 - /terms/scrolling-list
+- /terms/universal-scroll-arrows
 
 ----
 

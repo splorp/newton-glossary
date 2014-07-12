@@ -15,6 +15,7 @@ Related:
 - /terms/dateman
 - /terms/moreinfo
 - /terms/names-file
+- /terms/newtourage
 - /terms/personal-information-manager
 - /terms/pim
 - /terms/vcard

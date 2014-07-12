@@ -10,6 +10,7 @@ Milliamp Hours. A unit measuring the amount of electric current used by a circui
 
 Related:
 
+- /terms/long-term-storage
 - /terms/memory-effect
 - /terms/nicad
 - /terms/nicd

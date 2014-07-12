@@ -10,6 +10,9 @@ A complete [Macintosh Programmers Workshop](/terms/macintosh-programmers-worksho
 
 Related:
 
+- /terms/bugtrap
 - /terms/macintosh-programmers-workshop
 - /terms/mpw
 - /terms/nct
+- /terms/newtsbug
+- /terms/viewframe

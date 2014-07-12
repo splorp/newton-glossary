@@ -13,9 +13,12 @@ Related:
 - /terms/application
 - /terms/date-book
 - /terms/dateman
-- /terms/dm
+- /terms/dates
 - /terms/event
 - /terms/meeting
+- /terms/moreinfo
+- /terms/personal-information-manager
+- /terms/pim
 
 ----
 

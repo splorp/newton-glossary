@@ -10,6 +10,7 @@ A low level debugger for [Newton OS](/terms/newton-os) development that runs on 
 
 Related:
 
+- /terms/bugtrap
 - /terms/macintosh-programmers-workshop
 - /terms/mpw
 - /terms/nct

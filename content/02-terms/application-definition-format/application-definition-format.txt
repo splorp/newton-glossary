@@ -13,7 +13,6 @@ _cf. (link:http://user.xmission.com/~revelar/adf.html)_
 Related:
 
 - /terms/adf
-- /terms/rcu
 - /terms/revelar
 - /terms/revelar-connection-utility
 - /terms/soup
