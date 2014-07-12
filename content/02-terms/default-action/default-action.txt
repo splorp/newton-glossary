@@ -10,13 +10,7 @@ The completion action that users are most likely to take among the safe alternat
 
 Related:
 
-- /terms/graphical-user-interface
-- /terms/gui
-- /terms/interface
 - /terms/key-view
-- /terms/newton-user-interface
-- /terms/nui
-- /terms/ui
 - /terms/user-interface
 
 ----

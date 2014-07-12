@@ -11,12 +11,6 @@ A [container view](/terms/container-view) that slides open and closed at the bot
 Related:
 
 - /terms/container-view
-- /terms/graphical-user-interface
-- /terms/gui
-- /terms/interface
-- /terms/newton-user-interface
-- /terms/nui
-- /terms/ui
 - /terms/user-interface
 
 ----

@@ -10,14 +10,8 @@ To [highlight](/terms/highlight) by changing white pixels to black and vice vers
 
 Related:
 
-- /terms/graphical-user-interface
-- /terms/gui
 - /terms/heavy-mark
 - /terms/highlight
-- /terms/interface
-- /terms/newton-user-interface
-- /terms/nui
-- /terms/ui
 - /terms/user-interface
 
 ----

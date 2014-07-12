@@ -10,12 +10,6 @@ An [object](/terms/object) with a marker that indicates an amount, degree, or va
 
 Related:
 
-- /terms/graphical-user-interface
-- /terms/gui
-- /terms/interface
-- /terms/newton-user-interface
-- /terms/nui
-- /terms/ui
 - /terms/user-interface
 
 ----

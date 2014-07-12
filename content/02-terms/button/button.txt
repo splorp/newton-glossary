@@ -15,15 +15,10 @@ Related:
 - /terms/button-host
 - /terms/button-provider
 - /terms/envelope-button
-- /terms/graphical-user-interface
-- /terms/gui
 - /terms/hard-button
-- /terms/interface
 - /terms/keyboard-equivalent
 - /terms/large-close-box
 - /terms/local-scroll-arrows
-- /terms/newton-user-interface
-- /terms/nui
 - /terms/picture-button
 - /terms/picture-radio-button
 - /terms/radio-button
@@ -36,7 +31,6 @@ Related:
 - /terms/soft-button
 - /terms/tag-button
 - /terms/text-button
-- /terms/ui
 - /terms/universal-scroll-arrows
 - /terms/user-interface
 

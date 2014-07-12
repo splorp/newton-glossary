@@ -11,13 +11,8 @@ An [application](/terms/application) that can add a [button](/terms/button) to a
 Related:
 
 - /terms/button
+- /terms/button-bar
 - /terms/button-host
-- /terms/graphical-user-interface
-- /terms/gui
-- /terms/interface
-- /terms/newton-user-interface
-- /terms/nui
-- /terms/ui
 - /terms/user-interface
 
 ----

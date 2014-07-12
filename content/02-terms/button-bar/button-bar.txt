@@ -13,15 +13,9 @@ Related:
 - /terms/button-bar
 - /terms/button-host
 - /terms/button-provider
-- /terms/graphical-user-interface
-- /terms/gui
-- /terms/interface
-- /terms/newton-user-interface
-- /terms/nui
 - /terms/ryo
 - /terms/silk-button
 - /terms/silk-screen-button
-- /terms/ui
 - /terms/universal-scroll-arrows
 - /terms/user-interface
 

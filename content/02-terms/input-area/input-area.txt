@@ -12,14 +12,8 @@ Related:
 
 - /terms/field
 - /terms/free-form-entry-field
-- /terms/graphical-user-interface
-- /terms/gui
 - /terms/input-line
-- /terms/interface
-- /terms/newton-user-interface
-- /terms/nui
 - /terms/restricted-entry-field
-- /terms/ui
 - /terms/user-interface
 
 ----

@@ -13,17 +13,11 @@ Related:
 - /terms/icon
 - /terms/button
 - /terms/button-bar
-- /terms/graphical-user-interface
-- /terms/gui
-- /terms/interface
-- /terms/newton-user-interface
-- /terms/nui
 - /terms/ryo
 - /terms/scroll-arrows
 - /terms/silk-button
 - /terms/silk-screen-button
 - /terms/soft-button
-- /terms/ui
 - /terms/universal-scroll-arrows
 - /terms/user-interface
 

@@ -12,15 +12,9 @@ Related:
 
 - /terms/button
 - /terms/clank
-- /terms/graphical-user-interface
-- /terms/gui
-- /terms/interface
-- /terms/newton-user-interface
-- /terms/nui
 - /terms/scroll
 - /terms/scroll-arrows
 - /terms/scrolling-list
-- /terms/ui
 - /terms/universal-scroll-arrows
 - /terms/user-interface
 

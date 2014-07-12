@@ -10,14 +10,8 @@ To make something visually distinct, typically when it’s selected. Usually don
 
 Related:
 
-- /terms/graphical-user-interface
-- /terms/gui
 - /terms/heavy-mark
-- /terms/interface
 - /terms/invert
-- /terms/newton-user-interface
-- /terms/nui
-- /terms/ui
 - /terms/user-interface
 
 ----

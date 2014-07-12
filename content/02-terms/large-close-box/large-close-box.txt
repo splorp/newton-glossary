@@ -14,13 +14,7 @@ Related:
 - /terms/close
 - /terms/close-box
 - /terms/container-view
-- /terms/graphical-user-interface
-- /terms/gui
-- /terms/interface
-- /terms/newton-user-interface
-- /terms/nui
 - /terms/text-button
-- /terms/ui
 - /terms/user-interface
 - /terms/x
 
