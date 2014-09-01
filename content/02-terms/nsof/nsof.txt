@@ -4,4 +4,18 @@ Title: NSOF
 
 Text:
 
-See [Newton Streamed Object Format](/terms/newton-streamed-object-format)
+Newton Streamed Object Format. A specific type of data which describes a NewtonScript [frame](/terms/frame) along with everything that it contains. [Stream files](/terms/stream-file) are encoded using [NSOF](/terms/nsof).
+
+`nsof` is also a command line [application](/terms/application) created by [Eckhart Köppen](/sources/ek) that encodes and decodes NSOF data as part of the [Ruby Desktop Connection Library](/terms/rdcl) (RDCL) framework.
+
+----
+
+Related:
+
+- /terms/frame
+- /terms/newtonscript
+- /terms/nsof
+- /terms/object
+- /terms/object-stream-file
+- /terms/rdcl
+- /terms/stream-file
