@@ -4,4 +4,4 @@ Title: Interface
 
 Text:
 
-See [Newton User Interface](/terms/newton-user-interface) and [User Interface](/terms/user-interface)
+See [User Interface](/terms/user-interface), [Graphical User Interface](/terms/graphical-user-interface), and [Newton User Interface](/terms/newton-user-interface)

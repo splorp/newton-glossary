@@ -18,6 +18,7 @@ Related:
 - /terms/layout-view
 - /terms/main-view
 - /terms/object
+- /terms/origin
 - /terms/parent-view
 - /terms/root-view
 - /terms/sibling-view

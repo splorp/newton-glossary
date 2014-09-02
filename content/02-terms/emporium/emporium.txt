@@ -4,7 +4,7 @@ Title: Emporium
 
 Text:
 
-The permanent internal descriptions of the places where a user interacts with their Newton device, commonly referred to as a [locale](/terms/locale) or [worksite](/terms/worksite). Examples of named locales would be “Home” and “Office”. Choosing an emporium sets up location-specific information such as the area code, dialing prefixes, time zone, and so forth.
+The permanent internal description of a place where a user interacts with their Newton device, commonly referred to as a [locale](/terms/locale) or [worksite](/terms/worksite). Examples of named locales would be “Home” and “Office”. Choosing an emporium sets up location-specific information such as the area code, dialing prefixes, time zone, and so forth.
 
 The plural of emporium is emporia. Now you know.
 
@@ -15,6 +15,7 @@ Related:
 - /terms/away-city
 - /terms/home-city
 - /terms/locale
+- /terms/owner-info
 - /terms/worksite
 
 ----
