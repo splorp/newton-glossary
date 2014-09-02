@@ -1,0 +1,20 @@
+Title: Owner
+
+----
+
+Text:
+
+A person who uses a Newton device.
+
+----
+
+Related:
+
+- /terms/owner-info
+- /terms/persona
+
+----
+
+Source:
+
+- /sources/npum

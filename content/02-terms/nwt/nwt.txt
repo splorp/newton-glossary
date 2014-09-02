@@ -1,0 +1,19 @@
+Title: nwt
+
+----
+
+Text:
+
+The file extension used to identify a [Newton Connection Kit](/terms/newton-connection-kit) data synchronization [workfile](/terms/workfile).
+
+`nwt` is also a command line [application](/terms/application) created by [Eckhart Köppen](/sources/ek) that provides package management, data synchronization, and data export for a Newton device. This utility is part of the [Ruby Desktop Connection Library](/terms/rdcl) (RDCL) framework.
+
+----
+
+Related:
+
+- /terms/nck
+- /terms/newton-connection-kit
+- /terms/nwt
+- /terms/rdcl
+- /terms/workfile

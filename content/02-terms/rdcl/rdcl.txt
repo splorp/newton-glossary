@@ -1,0 +1,17 @@
+Title: RDCL
+
+----
+
+Text:
+
+Ruby Desktop Connection Library. A Ruby-based communication framework written by [Eckhart Köppen](/sources/ek) for connecting Newton devices (Newton OS 2.0 and later) via the built-in [dock](/terms/dock) protocol. Connections are usually performed via serial cable, but higher level protocol layers can also run over other connection methods such as [TCP/IP](/terms/tcp-ip).
+
+_cf. (link:https://github.com/ekoeppen/RDCL)_
+
+----
+
+Related:
+
+- /terms/dock
+- /terms/nsof
+- /terms/nwt

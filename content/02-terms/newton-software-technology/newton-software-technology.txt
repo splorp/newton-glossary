@@ -1,0 +1,21 @@
+Title: Newton Software Technology
+----
+
+Text:
+
+A generic phrase used to encapsulate all of the technologies, development tools, and training pertaining to the creation of software for the Newton platform.
+
+----
+
+Related:
+
+- /terms/newton-intelligence
+- /terms/newton-os
+- /terms/nsg
+
+
+----
+
+Source:
+
+- /sources/adh

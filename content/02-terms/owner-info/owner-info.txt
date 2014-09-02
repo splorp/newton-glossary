@@ -1,0 +1,22 @@
+Title: Owner Info
+
+----
+
+Text:
+
+A [slip](/terms/slip) containing information regarding the [owner](/terms/owner) and [worksites](/terms/worksite) that a user has set up.
+
+
+----
+
+Related:
+
+- /terms/owner
+- /terms/persona
+- /terms/worksite
+
+----
+
+Source:
+
+- /sources/npum

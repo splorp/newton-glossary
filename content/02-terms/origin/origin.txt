@@ -1,0 +1,20 @@
+Title: Origin
+
+----
+
+Text:
+
+The coordinates of the top-left corner of a [view](/terms/view). The origin can be shifted — for example — to scroll the contents of a view.
+
+----
+
+Related:
+
+- /terms/region
+- /terms/view
+
+----
+
+Source:
+
+- /sources/npg

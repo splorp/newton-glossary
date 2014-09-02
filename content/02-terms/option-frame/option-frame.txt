@@ -1,0 +1,24 @@
+Title: Option Frame
+
+----
+
+Text:
+
+A [frame](/terms/frame) passed as a parameter to an [endpoint](/terms/endpoint) method that selects the communication tool to use; controls its configuration and operation; and returns result code information from the endpoint [method](/terms/method).
+
+----
+
+Related:
+
+- /terms/endpoint
+- /terms/frame
+- /terms/item-frame
+- /terms/object
+- /terms/part-frame
+- /terms/viewframe
+
+----
+
+Source:
+
+- /sources/npg

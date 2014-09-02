@@ -1,0 +1,25 @@
+Title: Output Spec
+
+----
+
+Text:
+
+A special type of [callback spec](/terms/callback-spec) used with an [endpoint](/terms/endpoint) method. An output spec contains additional [slots](/terms/slot) that allow you to pass special protocol flags and define how the data being sent is translated.
+
+----
+
+Related:
+
+- /terms/callback-spec
+- /terms/endpoint
+- /terms/font-spec
+- /terms/frame
+- /terms/input-spec
+- /terms/method
+- /terms/slot
+
+----
+
+Source:
+
+- /sources/npg

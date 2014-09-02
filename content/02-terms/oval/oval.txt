@@ -1,0 +1,25 @@
+Title: Oval
+
+----
+
+Text:
+
+A circular or elliptical [shape](/terms/shape) defined by the bounding [rectangle](/terms/rectangle) that encloses it.
+
+----
+
+Related:
+
+- /terms/arc
+- /terms/line
+- /terms/polygon
+- /terms/rectangle
+- /terms/rounded-rectangle
+- /terms/shape
+- /terms/wedge
+
+----
+
+Source:
+
+- /sources/npg
