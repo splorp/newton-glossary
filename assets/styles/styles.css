@@ -15,8 +15,8 @@ body {
 	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
 	font-size: 16px;
 	line-height: 26px;
-	margin: 50px auto;
-	width: 45%;
+	margin: 3em auto;
+	width: 600px;
 	}
 
 a {
@@ -48,9 +48,11 @@ h1 {
 	}
 
 h2 {
-	color: 222;
+	border-bottom: 10px solid #EEE;
+	color: #222;
 	font-size: 20px;
-	margin-bottom: 20px;
+	margin: 40px 0 20px 0;
+	padding-bottom: 10px;
 	}
 
 h3 {
@@ -71,11 +73,11 @@ h4 {
 
 p {
 	margin-bottom: 20px;
-	max-width: 500px;
 	}
 
-ul, ol {
+article ul, article ol {
 	margin-bottom: 20px;
+	margin-left: 40px;
 	}
 
 header h1 {
@@ -113,13 +115,14 @@ nav.submenu a {
 
 nav.submenu.alphabetical {
 	border-bottom: none;
-	border-top: 1px solid grey;
-	margin-top: 40px;
-	padding-top: 40px;
 	}
 
 nav.submenu.alphabetical li {
 	float: none;
+	}
+
+nav.submenu.alphabetical h2 {
+	margin-top: 0;
 	}
 
 section.content {
@@ -151,8 +154,26 @@ footer a:hover {
 	body {
 		-webkit-text-size-adjust: 100%;
 		padding: 1em;
+		margin: 0 auto;
+		width: 800px;
 		}
-}
+
+	p {
+		margin-bottom: 20px;
+		}
+
+	section.content {
+		margin-top: 20px;
+		}
+
+	article ul, article ol {
+		margin-left: 20px;
+		}
+
+	footer {
+		margin-top: 20px;
+		}
+	}
 	
 	
 /*
@@ -164,5 +185,23 @@ footer a:hover {
 	body {
 		-webkit-text-size-adjust: 100%;
 		padding: 1em;
+		margin: 0 auto;
+		width: 90%;
 		}
-}
+	p {
+		margin-bottom: 20px;
+		max-width: 100%;
+		}
+
+	section.content {
+		margin-top: 20px;
+		}
+
+	article ul, article ol {
+		margin-left: 20px;
+		}
+
+	footer {
+		margin-top: 20px;
+		}
+	}
