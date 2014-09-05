@@ -1,0 +1,18 @@
+Title: Package Installer
+
+----
+
+Text:
+
+A software program that facilitates the installation of [packages](/terms/package) on a Newton device from a desktop computer. Examples of package installers include [Newton Backup Express](/terms/newton-backup-express) and [Newton Connection Utilities](/terms/newton-connection-utilities).
+
+----
+
+Related:
+
+- /terms/newton-backup-express
+- /terms/newton-connection-utilities
+- /terms/newton-package-installer
+- /terms/package
+- /terms/package-file
+- /terms/pkg

@@ -1,0 +1,13 @@
+Title: Package Store
+
+----
+
+Text:
+
+See [Store Part](/terms/store-part)
+
+----
+
+Source:
+
+- /sources/npg

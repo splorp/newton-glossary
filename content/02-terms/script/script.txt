@@ -1,0 +1,22 @@
+Title: Script
+
+----
+
+Text:
+
+A program written in a programming language (such as [NewtonScript](/terms/newtonscript)) that generally uses untyped [variables](/terms/variable) — that is, variables that can hold values of any data type — and seldom supports complex data structures.
+
+----
+
+Related:
+
+- /terms/book-script
+- /terms/content-script
+- /terms/newtonscript
+- /terms/page-script
+
+----
+
+Source:
+
+- /sources/foldoc

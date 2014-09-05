@@ -1,0 +1,24 @@
+Title: Palette
+
+----
+
+Text:
+
+A small [floating container view](/terms/floating-container-view) that provides [controls](/terms/control) for modifying the contents of other [views](/terms/view). The palette appears on top of other views of the same application and remains open for use in all visible views. The user can move the palette using a [drag handle](/terms/drag-handle).
+
+----
+
+Related:
+
+- /terms/container-view
+- /terms/drag
+- /terms/drag-handle
+- /terms/floating-container-view
+- /terms/user-interface
+- /terms/view
+
+----
+
+Source:
+
+- /sources/nuig

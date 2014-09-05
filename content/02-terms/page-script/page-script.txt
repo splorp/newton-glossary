@@ -1,0 +1,26 @@
+Title: Page Script
+
+----
+
+Text:
+
+A piece of [NewtonScript](/terms/newtonscript) code attached to a [layout](/terms/layout) in a [Newton book](/terms/newton-book) source file. As an example, [scripts](/terms/script) can be used to draw a different background or handle special [pen](/terms/pen) events pertaining to a content item or page. The actions defined in [content scripts](/terms/content-script) override those in page scripts, just as page scripts take precedence over [book scripts](/terms/book-script).
+
+----
+
+Related:
+
+- /terms/book-script
+- /terms/content-script
+- /terms/layout
+- /terms/newton-book
+- /terms/newton-book-maker
+- /terms/newton-press
+- /terms/newtonscript
+- /terms/script
+
+----
+
+Source:
+
+- /sources/nbm

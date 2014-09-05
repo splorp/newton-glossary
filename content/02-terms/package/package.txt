@@ -1,0 +1,28 @@
+Title: Package
+
+----
+
+Text:
+
+The unit in which a software application or extension can be installed on and removed from a Newton device. A package consists of a header containing the package name and other information, and one or more parts containing the software. The extension denoting a Newton [package file](/terms/package-file) is [.pkg](/terms/pkg).
+
+----
+
+Related:
+
+- /terms/application
+- /terms/extension
+- /terms/freeze
+- /terms/frozen-package
+- /terms/package-file
+- /terms/package-installer
+- /terms/package-store
+- /terms/pkg
+- /terms/thaw
+- /terms/thawed-package
+
+----
+
+Source:
+
+- /sources/npg

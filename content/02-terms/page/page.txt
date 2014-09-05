@@ -1,0 +1,7 @@
+Title: Page
+
+----
+
+Text:
+
+See [Memory Page](/terms/memory-page)

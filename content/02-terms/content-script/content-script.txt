@@ -1,0 +1,26 @@
+Title: Content Script
+
+----
+
+Text:
+
+A piece of [NewtonScript](/terms/newtonscript) code attached to a content item in a [Newton book](/terms/newton-book) source file, before any [Book Maker commands](/terms/book-maker-commands). The actions defined in content scripts override those in [page scripts](/terms/page-script), just as page scripts take precedence over [book scripts](/terms/book-script).
+
+----
+
+Related:
+
+- /terms/book-script
+- /terms/layout
+- /terms/newton-book
+- /terms/newton-book-maker
+- /terms/newton-press
+- /terms/newtonscript
+- /terms/page-script
+- /terms/script
+
+----
+
+Source:
+
+- /sources/nbm
