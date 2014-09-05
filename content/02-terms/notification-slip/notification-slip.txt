@@ -21,6 +21,7 @@ Related:
 - /terms/slip
 - /terms/status-slip
 - /terms/view
+- /terms/user-interface
 
 ----
 

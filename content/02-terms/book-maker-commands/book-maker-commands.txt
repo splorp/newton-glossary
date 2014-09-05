@@ -14,7 +14,6 @@ Related:
 
 - /terms/book
 - /terms/book-commands
-- /terms/book-maker-commands
 - /terms/book-source-file
 - /terms/content-command
 - /terms/document-command
@@ -24,7 +23,6 @@ Related:
 - /terms/newton-book
 - /terms/newton-book-maker
 - /terms/newton-digital-book
-
 
 ----
 

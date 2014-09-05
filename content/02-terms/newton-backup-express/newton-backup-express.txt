@@ -23,6 +23,7 @@ Related:
 - /terms/newton-connection-utilities
 - /terms/newton-package-installer
 - /terms/npi
+- /terms/package-installer
 
 ----
 

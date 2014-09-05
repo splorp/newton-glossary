@@ -23,6 +23,7 @@ Related:
 - /terms/newton-connection-utilities
 - /terms/nwt
 - /terms/workfile
+- /terms/package-installer
 
 ----
 

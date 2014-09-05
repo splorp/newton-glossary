@@ -10,8 +10,10 @@ A dynamic, object-oriented programming language developed for the Newton platfor
 
 Related:
 
+- /terms/book-script
 - /terms/build
 - /terms/byte-code
+- /terms/content-script
 - /terms/newton-toolkit
 - /terms/newtonscript-heap
 - /terms/ns
@@ -19,6 +21,7 @@ Related:
 - /terms/object
 - /terms/page-script
 - /terms/project
+- /terms/script
 - /terms/viewframe
 - /terms/wallyscript
 

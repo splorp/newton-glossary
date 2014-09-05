@@ -13,7 +13,6 @@ Related:
 - /terms/button
 - /terms/button-bar
 - /terms/button-provider
-- /terms/user-interface
 
 ----
 

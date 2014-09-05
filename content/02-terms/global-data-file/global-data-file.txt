@@ -17,6 +17,7 @@ Related:
 - /terms/project
 - /terms/project-build
 - /terms/project-file
+- /terms/script
 
 ----
 

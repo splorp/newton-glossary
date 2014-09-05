@@ -17,6 +17,7 @@ Related:
 - /terms/newton-backup-express
 - /terms/newton-connection-utilities
 - /terms/npi
+- /terms/package-installer
 
 ----
 

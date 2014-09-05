@@ -15,6 +15,7 @@ Related:
 - /terms/global
 - /terms/local
 - /terms/newtonscript
+- /terms/script
 - /terms/variable
 
 ----
