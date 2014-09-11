@@ -1,0 +1,22 @@
+Title: Part Frame
+
+----
+
+Text:
+
+The top-level [frame](/terms/frame) that holds an [application](/terms/application), [book](/terms/newton-book), [store part](/terms/store-part), or [auto part](/terms/auto-part).
+
+----
+
+Related:
+
+- /terms/auto-part
+- /terms/frame
+- /terms/part
+- /terms/store-part
+
+----
+
+Source:
+
+- /sources/npg

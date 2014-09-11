@@ -1,0 +1,7 @@
+Title: System Patch
+
+----
+
+Text:
+
+See [System Update](/terms/system-update)

@@ -1,0 +1,13 @@
+Title: Palmrest
+
+----
+
+Text:
+
+The bottom portion of the case on a [MessagePad](/terms/messagepad) device where the user’s wrist is normally situated while entering data.
+
+----
+
+Source:
+
+- /sources/ad

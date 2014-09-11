@@ -1,0 +1,21 @@
+Title: Patch
+
+----
+
+Text:
+
+A small piece of code intended to fix or modify a larger software program.
+ 
+----
+
+Related:
+
+- /terms/cold-boot
+- /terms/system-patch
+- /terms/system-update
+
+----
+
+Source:
+
+- /sources/gh

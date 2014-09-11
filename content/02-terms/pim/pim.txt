@@ -1,0 +1,7 @@
+Title: PIM
+
+----
+
+Text:
+
+See [Personal Information Manager](/terms/personal-information-manager)

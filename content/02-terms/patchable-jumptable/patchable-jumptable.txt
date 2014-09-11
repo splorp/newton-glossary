@@ -1,0 +1,21 @@
+Title: Patchable Jumptable
+
+----
+
+Text:
+
+A series of branching instructions directly pointing to native [Newton OS](/terms/newton-os) functions. These instructions are ordered differently depending on the version of the [ROM](/terms/rom). This [jumptable](/terms/jumptable) can be partially replaced by [system patch pages](/terms/system-patch-pages), allowing [system patches](/terms/system-patch) to replace specific [operating system](/terms/operating-system) functions.
+
+----
+
+Related:
+
+- /terms/jumptable
+- /terms/public-jumptable
+- /terms/system-patch-pages
+
+----
+
+Source:
+
+- /sources/pg

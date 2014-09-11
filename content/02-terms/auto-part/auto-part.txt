@@ -1,0 +1,24 @@
+Title: Auto Part
+
+----
+
+Text:
+
+A software [part](/terms/part) that contains a background [application](/terms/application) or [extension](/terms/extension) which is not accessed through an [icon](/terms/icon) in the [Extras drawer](/terms/extras/drawer). Auto parts can include application [stationery](/terms/stationery), formula or preference panels, [routing](/terms/routing) formats, and communication [transports](/terms/transports). Auto parts also have the option of being automatically removed after they are installed.
+
+----
+
+Related:
+
+- /terms/application
+- /terms/extension
+- /terms/part
+- /terms/part-frame
+- /terms/stationery
+- /terms/store-part
+
+----
+
+Source:
+
+- /sources/npg
