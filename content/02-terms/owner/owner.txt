@@ -4,7 +4,7 @@ Title: Owner
 
 Text:
 
-A person who uses a Newton device.
+The primary user of a Newton device.
 
 ----
 
