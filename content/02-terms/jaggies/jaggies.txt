@@ -4,7 +4,7 @@ Title: Jaggies
 
 Text:
 
-A condition affecting the [display area](/terms/display-area) of a Newton, where objects and text on the screen are excessively jaggy or irregular. This is related to the position of the stylus being misinterpreted. One theory suggests that jaggies may be caused by either an electro-mechanical problem between the display and the connector or dirt between the display surface and the surrounding bezel.
+A condition affecting the [display area](/terms/display-area) of a Newton, where objects and text on the screen are excessively jaggy or irregular. This is related to the position of the [pen](/terms/pen) being misinterpreted. One theory suggests that jaggies may be caused by either an electro-mechanical problem between the display and the connector or dirt between the display surface and the surrounding bezel.
 
 _cf. (link: http://myapplenewton.blogspot.ca/2009/06/jaggies-101.html)_
 
@@ -15,6 +15,7 @@ Related:
 - /terms/display-area
 - /terms/lcd
 - /terms/liquid-crystal-display
+- /terms/pen
 - /terms/pixel
 
 ----
