@@ -4,7 +4,7 @@ Title: NewtonTalk
 
 Text:
 
-A mailing list dedicated to the discussion of Apple’s [Newton OS](/terms/newton-os) platform and other related products. Originally conceived and maintained by Sean O’Shaughnessy, the list was taken over by [Planet Newton](/terms/planet-newton) in 1999 until a catastrophic server failure in 2001. That same year, [Victor Rehorst](/sources/vr) took over the list administration duties, subsequently [handing over the reigns](http://marc.info/?l=newtontalk&m=117493043507410&w=2) to [Grant Hutchinson](/sources/gh) in 2003. Commonly referred to as [NTLK](/terms/ntlk).
+A mailing list dedicated to the discussion of Apple’s [Newton OS](/terms/newton-os) platform and other related products. Originally conceived and maintained by Sean O’Shaughnessy, the list was taken over by [Planet Newton](/terms/planet-newton) in 1999 until a catastrophic server failure in 2001. That same year, [Victor Rehorst](/sources/vr) took over the list administration duties, subsequently [handing over the reigns](http://marc.info/?l=newtontalk&m=117493043507410&w=2) to [Grant Hutchinson](/sources/gh) in 2003. The list is commonly referred to as [NTLK](/terms/ntlk).
 
 ----
 
