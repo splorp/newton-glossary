@@ -13,7 +13,6 @@ Related:
 - /terms/display-area
 - /terms/lcd
 - /terms/liquid-crystal-display
-- /terms/pixel
 
 ----
 

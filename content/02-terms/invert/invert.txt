@@ -4,7 +4,7 @@ Title: Invert
 
 Text:
 
-To [highlight](/terms/highlight) by changing white pixels to black and vice versa.
+To [highlight](/terms/highlight) by changing white [pixels](/terms/pixel) to black and vice versa.
 
 ----
 
@@ -12,6 +12,7 @@ Related:
 
 - /terms/heavy-mark
 - /terms/highlight
+- /terms/pixel
 - /terms/user-interface
 
 ----

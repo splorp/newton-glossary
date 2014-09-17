@@ -18,8 +18,10 @@ Related:
 
 - /terms/caret
 - /terms/graffiti
+- /terms/scrub
 - /terms/scrubbing
 - /terms/tapping
+- /terms/zig-zag
 
 ----
 

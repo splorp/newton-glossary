@@ -19,6 +19,7 @@ Related:
 - /terms/keyboard-equivalent
 - /terms/large-close-box
 - /terms/local-scroll-arrows
+- /terms/picker
 - /terms/picture-button
 - /terms/picture-radio-button
 - /terms/radio-button

@@ -18,6 +18,7 @@ Related:
 - /terms/font-size
 - /terms/font-spec
 - /terms/font-style
+- /terms/point
 - /terms/simple
 - /terms/styles
 
