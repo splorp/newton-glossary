@@ -1,0 +1,7 @@
+Title: PKG
+
+----
+
+Text:
+
+See [Package](/terms/package) & [Package File](/terms/package-file)

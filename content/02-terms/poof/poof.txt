@@ -1,0 +1,22 @@
+Title: Poof
+
+----
+
+Text:
+
+The sound associated with the “puff of smoke” animation after deleting text or ink drawings by [scrubbing](/terms/scrubbing) with the [pen](/terms/pen) on the screen of a Newton device.
+
+----
+
+Related:
+
+- /terms/poof-it
+- /terms/scrub
+- /terms/scrubbing
+- /terms/zig-zag
+
+----
+
+Source:
+
+- /sources/gh

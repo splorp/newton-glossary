@@ -1,0 +1,26 @@
+Title: Polygon
+
+----
+
+Text:
+
+A [shape](/terms/shape) defined by a sequence of points representing the polygon’s vertices, connected by straight [lines](/terms/line) from one point to the next.
+
+----
+
+Related:
+
+- /terms/arc
+- /terms/line
+- /terms/picture
+- /terms/oval
+- /terms/rectangle
+- /terms/rounded-rectangle
+- /terms/shape
+- /terms/wedge
+
+----
+
+Source:
+
+- /sources/npg

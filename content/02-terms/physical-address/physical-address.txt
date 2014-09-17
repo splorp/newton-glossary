@@ -1,0 +1,27 @@
+Title: Physical Address
+
+----
+
+Text:
+
+A value representing the actual location of a piece of data.
+
+----
+
+Related:
+
+- /terms/address
+- /terms/magic-pointer
+- /terms/mapping
+- /terms/memory-management-unit
+- /terms/memory-page
+- /terms/mmu
+- /terms/mmu-tables
+- /terms/pointer
+- /terms/virtual-address
+
+----
+
+Source:
+
+- /sources/pg

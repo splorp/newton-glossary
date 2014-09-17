@@ -1,0 +1,13 @@
+Title: Personal Interactive Electronics
+
+----
+
+Text:
+
+A short lived division of Apple which handled the development and marketing of the Newton platform.
+
+----
+
+Related:
+
+- /terms/starcore

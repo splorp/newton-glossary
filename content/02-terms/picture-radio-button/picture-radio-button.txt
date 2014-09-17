@@ -1,0 +1,23 @@
+Title: Picture Radio Button
+
+----
+
+Text:
+
+A Newton-specific [radio button](/terms/radio-button) control that displays its state — either on or off — and is part of a group in which the user can turn on only one [button](/terms/button) at a time. A [picture](/terms/picture) indicates the current state of the control’s setting. Compare this to a [checkbox](/terms/checkbox) group, where more than one button may be selected at a time.
+
+----
+
+Related:
+
+- /terms/button
+- /terms/picture
+- /terms/picture-button
+- /terms/radio-button
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/nuig

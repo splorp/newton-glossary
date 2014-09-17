@@ -1,0 +1,26 @@
+Title: Picker
+
+----
+
+Text:
+
+A menu or list of choices that appears when the user [taps](/terms/tap) an adjacent text label marked by a solid diamond. A picker may also appear when a user taps a [button](/terms/button) such as a [routing button](/terms/routing-button). The user selects one of the items in the picker list by [tapping](/terms/tapping) it.
+
+----
+
+Related:
+
+- /terms/action-button
+- /terms/action-picker
+- /terms/envelope-button
+- /terms/routing-button
+- /terms/soft-button
+- /terms/tag-button
+- /terms/text-button
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/nuig

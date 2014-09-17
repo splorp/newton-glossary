@@ -1,0 +1,26 @@
+Title: Picture
+
+----
+
+Text:
+
+A saved sequence of drawing operations — such as [lines](/terms/line), [polygons](/terms/polygon), or other [shapes](/terms/shape) — that can be played back or displayed at a later time.
+
+----
+
+Related:
+
+- /terms/arc
+- /terms/line
+- /terms/oval
+- /terms/polygon
+- /terms/rectangle
+- /terms/rounded-rectangle
+- /terms/shape
+- /terms/wedge
+
+----
+
+Source:
+
+- /sources/npg

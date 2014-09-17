@@ -1,0 +1,22 @@
+Title: Picture Button
+
+----
+
+Text:
+
+A control that when [tapped](/terms/tap) by the user, performs or confirms the action implied by the [icon](/terms/icon) displayed on the [button](/terms/button).
+
+----
+
+Related:
+
+- /terms/button
+- /terms/icon
+- /terms/picture-radio-button
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/nuig

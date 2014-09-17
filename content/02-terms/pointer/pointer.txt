@@ -1,0 +1,27 @@
+Title: Pointer
+
+----
+
+Text:
+
+An [address](/terms/address) from the point of view of a programming language. A pointer may be “typed” — its type indicating the type of data to which it points.
+
+----
+
+Related:
+
+- /terms/address
+- /terms/magic-pointer
+- /terms/mapping
+- /terms/memory-management-unit
+- /terms/memory-page
+- /terms/mmu
+- /terms/mmu-tables
+- /terms/physical-address
+- /terms/virtual-address
+
+----
+
+Source:
+
+- /sources/foldoc
