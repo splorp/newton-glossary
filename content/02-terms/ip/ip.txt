@@ -4,4 +4,20 @@ Title: IP
 
 Text:
 
-See [Internet Protocol](/terms/internet-protocol)
+Internet Protocol. Part of the [TCP/IP](/terms/tcp-ip) communications protocol. Internet Protocol implements the network layer containing a network address, and is used to route messages to different networks.
+
+----
+
+Related:
+
+- /terms/dhcp
+- /terms/newton-internet-enabler
+- /terms/protocol
+- /terms/tcp
+- /terms/tcp-ip
+
+----
+
+Source:
+
+- /sources/te

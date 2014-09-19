@@ -11,7 +11,6 @@ Software that runs in the background of the [Newton OS](/terms/newton-os), enabl
 Related:
 
 - /terms/dhcp
-- /terms/internet-protocol
 - /terms/ip
 - /terms/nie
 - /terms/protocol

@@ -4,4 +4,14 @@ Title: DHCP
 
 Text:
 
-See [Dynamic Host Configuration Protocol](/terms/dynamic-host-configuration-protocol)
+Dynamic Host Configuration Protocol. A [protocol](/terms/protocol) that dynamically allocates [IP](/terms/ip) addresses to computers on a network.
+
+----
+
+Related:
+
+- /terms/ip
+- /terms/newton-internet-enabler
+- /terms/protocol
+- /terms/tcp
+- /terms/tcp-ip
