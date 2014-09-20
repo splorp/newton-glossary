@@ -11,6 +11,7 @@ A Newton-specific [radio button](/terms/radio-button) control that displays its 
 Related:
 
 - /terms/button
+- /terms/checkbox
 - /terms/picture
 - /terms/picture-button
 - /terms/radio-button

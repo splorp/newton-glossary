@@ -4,7 +4,7 @@ Title: DRAM
 
 Text:
 
-Dynamic Random Access Memory. A memory chip that requires power to hold its content. Typically uses one transistor and a capacitor to represent a bit. The capacitors must be energized hundreds of times per second in order to maintain the charges.
+Dynamic Random Access Memory. A [RAM](/terms/ram) chip that requires power to hold its content. Typically uses one transistor and a capacitor to represent a bit. The capacitors must be energized hundreds of times per second in order to maintain the charges.
 
 ----
 

@@ -10,13 +10,11 @@ The process of recognizing an [ink word](/terms/ink-word) that was drawn by the 
 
 Related:
 
-- /terms/electronic-ink
 - /terms/handwriting-recognition
 - /terms/hwr
 - /terms/ink
 - /terms/ink-text
 - /terms/ink-word
-- /terms/inker
 - /terms/recognized-text
 
 ----

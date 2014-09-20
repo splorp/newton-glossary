@@ -16,7 +16,5 @@ Related:
 - /terms/local
 - /terms/message
 - /terms/method
-- /terms/patchable-jumptable
-- /terms/public-jumptable
 - /terms/receiver
 - /terms/stack-activation-record

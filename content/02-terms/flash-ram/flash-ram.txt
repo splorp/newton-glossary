@@ -4,7 +4,7 @@ Title: Flash RAM
 
 Text:
 
-A memory chip that can be rewritten and hold its content without power.
+A [random access memory](/terms/ram) (RAM) chip that can be rewritten and hold its content without power.
 
 
 ----
