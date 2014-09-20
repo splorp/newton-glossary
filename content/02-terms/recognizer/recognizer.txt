@@ -1,0 +1,7 @@
+Title: Recognizer
+
+----
+
+Text:
+
+See [Cursive Recognizer](/terms/cursive-recognizer) and [Print Recognizer](/terms/print-recognizer)

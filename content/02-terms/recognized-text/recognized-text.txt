@@ -1,0 +1,26 @@
+Title: Recognized Text
+
+----
+
+Text:
+
+[Ink words](/terms/ink-word) processed by the [handwriting recognition](/terms/handwriting-recognition) system. [Ink](/terms/ink) drawn by the user is converted into recognized text when the user has selected “Text” in the “Recognition Preferences” [slip](/terms/slip) or after [deferred recognition](/terms/deferred-recognition) takes place.
+
+_cf. screenshots_
+
+----
+
+Related:
+
+- /terms/deferred-recognition
+- /terms/handwriting-recognition
+- /terms/hwr
+- /terms/ink
+- /terms/ink-text
+- /terms/ink-word
+
+----
+
+Source:
+
+- /sources/npg

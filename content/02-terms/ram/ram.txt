@@ -1,0 +1,21 @@
+Title: RAM
+
+----
+
+Text:
+
+Random Access Memory. A type of data storage where the order of access to the contents does not affect the speed of access.
+
+----
+
+Related:
+
+- /terms/dram
+- /terms/flash-ram
+- /terms/sram
+
+----
+
+Source:
+
+- /sources/foldoc

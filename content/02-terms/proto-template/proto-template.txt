@@ -1,0 +1,20 @@
+Title: Proto Template
+
+----
+
+Text:
+
+A predefined [template](/terms/template) that defines the appearance and behavior of standard [user interface](/terms/user-interfaces) elements, such as a [close box](/terms/close-box) or [status slip](/status-slip). A proto template is often referred to as a [proto](/terms/proto) for short.
+
+----
+
+Related:
+
+- /terms/proto
+- /terms/template
+
+----
+
+Source:
+
+- /sources/nuig

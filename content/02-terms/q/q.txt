@@ -1,0 +1,13 @@
+Title: Q
+
+----
+
+Text:
+
+Code name of the [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices.
+
+----
+
+Source:
+
+- /sources/bt

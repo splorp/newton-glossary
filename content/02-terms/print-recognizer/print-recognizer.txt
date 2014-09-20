@@ -1,0 +1,21 @@
+Title: Print Recognizer
+
+----
+
+Text:
+
+The algorithmic component of the [handwriting recognition](/terms/handwriting-recognition) system that identifies printed characters, as opposed to cursive or handwritten text.
+
+----
+
+Related:
+
+- /terms/calligrapher
+- /terms/cursive-recognizer
+- /terms/egg-freckles
+- /terms/handwriting-recognition
+- /terms/hwr
+- /terms/ink
+- /terms/recognized-text
+- /terms/recognizer
+- /terms/rosetta

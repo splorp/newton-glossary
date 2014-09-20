@@ -1,0 +1,30 @@
+Title: Reference
+
+----
+
+Text:
+
+A value that indirectly refers to an [array](/terms/array), [frame](/terms/frame), or [binary object](/terms/binary-object).
+
+----
+
+Related:
+
+- /terms/alias
+- /terms/array
+- /terms/binary-object
+- /terms/child
+- /terms/frame
+- /terms/immediate
+- /terms/magic-pointer
+- /terms/name-reference
+- /terms/object
+- /terms/parent
+- /terms/proto
+- /terms/slot
+
+----
+
+Source:
+
+- /sources/npg

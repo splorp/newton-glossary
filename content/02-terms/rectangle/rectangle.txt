@@ -1,0 +1,26 @@
+Title: Rectangle
+
+----
+
+Text:
+
+A [shape](/terms/shape) defined by two points — its top-left and its bottom-right corners — or by four boundaries - its upper, left, bottom, and right sides.
+
+----
+
+Related:
+
+- /terms/arc
+- /terms/line
+- /terms/oval
+- /terms/picture
+- /terms/polygon
+- /terms/rounded-rectangle
+- /terms/shape
+- /terms/wedge
+
+----
+
+Source:
+
+- /sources/npg

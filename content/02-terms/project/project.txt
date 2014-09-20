@@ -1,0 +1,24 @@
+Title: Project
+
+----
+
+Text:
+
+The collected files and specifications used by [Newton Toolkit](/terms/newton-toolkit) to [build](/terms/build) a [package](/terms/package) that can be installed and executed on a Newton device.
+
+----
+
+Related:
+
+- /terms/build
+- /terms/newton-toolkit
+- /terms/ntk
+- /terms/package
+- /terms/project-build
+- /terms/project-file
+
+----
+
+Source:
+
+- /sources/npg

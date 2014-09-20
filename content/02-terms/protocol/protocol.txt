@@ -1,0 +1,29 @@
+Title: Protocol
+
+----
+
+Text:
+
+A predetermined set of conventions for communications between two computers, such as the protocol used to communicate between a desktop computer and a Newton device.
+
+----
+
+Related:
+
+- /terms/adsp
+- /terms/appletalk
+- /terms/ask
+- /terms/dhcp
+- /terms/ip
+- /terms/irda
+- /terms/localtalk
+- /terms/newtir
+- /terms/tcp
+- /terms/tcp-ip
+- /terms/wep
+
+----
+
+Source:
+
+- /sources/npg

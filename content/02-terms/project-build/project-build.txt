@@ -1,0 +1,18 @@
+Title: Project Build
+
+----
+
+Text:
+
+To compile all of the various files, resources, and other data components for a given [project](/terms/project) into an executable program.
+
+----
+
+Related:
+
+- /terms/build
+- /terms/newton-toolkit
+- /terms/ntk
+- /terms/package
+- /terms/project
+- /terms/project-file
