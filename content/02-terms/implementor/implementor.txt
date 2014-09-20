@@ -4,20 +4,16 @@ Title: Implementor
 
 Text:
 
-An unordered collection of [slots](/terms/slot), each of which consists of a name and value pair. The value of a slot can be any type of [object](/terms/object), and slots can be added or removed from frames dynamically. A frame can have a user-specified [class](/terms/class). Frames can be used like records in Pascal and structs in C, and also as objects that respond to [messages](/terms/message).
+The [frame](/terms/frame) in which a [method](/terms/method) is defined.
 
 ----
 
 Related:
 
-- /terms/child
-- /terms/class
-- /terms/entry
-- /terms/message
+- /terms/frame
+- /terms/method
 - /terms/object
-- /terms/parent
-- /terms/sibling
-- /terms/slot
+- /terms/receiver
 
 ----
 
