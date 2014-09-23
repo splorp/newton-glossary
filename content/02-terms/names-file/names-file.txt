@@ -1,7 +1,0 @@
-Title: Names File
-
-----
-
-Text:
-
-See [Names](/terms/names)

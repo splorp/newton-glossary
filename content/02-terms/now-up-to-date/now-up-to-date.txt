@@ -11,9 +11,10 @@ A desktop calendaring and scheduling [application](/terms/application) developed
 Related:
 
 - /terms/application
+- /terms/date-book
 - /terms/dates
+- /terms/name-file
 - /terms/names
-- /terms/names-file
 - /terms/newtourage
 - /terms/nud
 - /terms/personal-information-manager

@@ -4,12 +4,13 @@ Title: Event
 
 Text:
 
-An entry in the [Dates](/terms/dates) application corresponding to a day, but not a particular time during that day.
+An entry in the [Date Book](/terms/date-book) application corresponding to a day, but not a particular time during that day.
 
 ----
 
 Related:
 
+- /terms/date-book
 - /terms/dates
 - /terms/meeting
 

@@ -4,7 +4,7 @@ Title: MoreInfo
 
 Text:
 
-An information management [application](/terms/application) created by [Silverware Software](http://www.silverwaresoftware.com/) which seamlessly extends the built-in [Dates](/terms/dates) and [Names](/terms/names) applications. Also referred to as [MI](/terms/mi).
+An information management [application](/terms/application) created by [Silverware Software](http://www.silverwaresoftware.com/) which seamlessly extends the built-in [Date Book](/terms/date-book) and [Name File](/terms/name-file) applications. Also referred to as [MI](/terms/mi).
 
 ----
 
@@ -18,8 +18,8 @@ Related:
 - /terms/event
 - /terms/meeting
 - /terms/mi
+- /terms/name-file
 - /terms/names
-- /terms/names-file
 - /terms/personal-information-manager
 - /terms/pim
 

@@ -4,7 +4,7 @@ Title: Meeting
 
 Text:
 
-An entry in the [Dates](/terms/dates) application for a specific time during the day. People can be invited and the meeting can be scheduled for a particular location.
+An entry in the [Date Book](/terms/date-book) application for a specific time during the day. People can be invited and the meeting can be scheduled for a particular location.
 
 ----
 

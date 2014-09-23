@@ -4,7 +4,7 @@ Title: Name Reference
 
 Text:
 
-A [frame](/terms/frame) that contains a [soup](/terms/soup) entry or an [alias](/terms/alias) to a soup [entry](/terms/entry) which is often — though not necessarily — from the [Names](/terms/names) soup. The frame may also contain some of the individual [slots](/terms/slot) from the soup entry.
+A [frame](/terms/frame) that contains a [soup](/terms/soup) entry or an [alias](/terms/alias) to a soup [entry](/terms/entry) which is often — though not necessarily — from the [Name File](/terms/name-file) soup. The frame may also contain some of the individual [slots](/terms/slot) from the soup entry.
 
 ----
 

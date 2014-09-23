@@ -1,15 +1,16 @@
-Title: Card (Names Application)
+Title: Card (Name File Application)
 
 ----
 
 Text:
 
-A view of information pertaining to an entry in the [Names](/terms/names) application [soup](/terms/soup), graphically formatted as a business card.
+A view of information pertaining to an entry in the [Name File](/terms/name-file) application [soup](/terms/soup), graphically formatted as a business card.
 
 ----
 
 Related:
 
+- /terms/name-file
 - /terms/names
 - /terms/soup
 - /terms/view

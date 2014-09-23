@@ -1,0 +1,7 @@
+Title: Names
+
+----
+
+Text:
+
+See [Name File](/terms/name-file)

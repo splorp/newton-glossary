@@ -4,4 +4,23 @@ Title: Date Book
 
 Text:
 
-See [Dates](/terms/dates)
+The built-in [application](/terms/application) for recording and viewing appointments and calendar notes, setting alarms, entering repeating [events](/terms/event), and keeping a to-do list. Also referred to as [Dates](/terms/dates).
+
+----
+
+Related:
+
+- /terms/application
+- /terms/dateman
+- /terms/dates
+- /terms/event
+- /terms/meeting
+- /terms/moreinfo
+- /terms/personal-information-manager
+- /terms/pim
+
+----
+
+Source:
+
+- /sources/nuig

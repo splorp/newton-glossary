@@ -1,10 +1,10 @@
-Title: Names
+Title: Name File
 
 ----
 
 Text:
 
-The built-in [application](/terms/application) for storing names, addresses, phone numbers, and other information related to a list of contacts.
+The built-in [application](/terms/application) for storing names, addresses, phone numbers, and other information related to a list of contacts. Also referred to as [Names](/terms/names).
 
 ----
 
@@ -14,7 +14,7 @@ Related:
 - /terms/application
 - /terms/dateman
 - /terms/moreinfo
-- /terms/names-file
+- /terms/names
 - /terms/newtourage
 - /terms/personal-information-manager
 - /terms/pim
