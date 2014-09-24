@@ -4,7 +4,7 @@ Title: Power Reset
 
 Text:
 
-A method of resetting a Newton device by pressing the [reset button](/terms/reset-button) and holding down the power switch. A power reset does not cause any data loss but will reset the power manager.
+A method of resetting a Newton device by pressing the [reset button](/terms/reset-button) and holding down the power switch. A power reset does not cause any data loss but will reset the power manager. Also known as a [software reset](/terms/software-reset) or [soft reset](/terms/soft-reset).
 
 ----
 

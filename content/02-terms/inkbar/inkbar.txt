@@ -13,7 +13,6 @@ _cf. screenshot_
 Related:
 
 - /terms/handwriting-recognition
-- /terms/hwr
 - /terms/ink
 - /terms/inkpad
 - /terms/inkwell

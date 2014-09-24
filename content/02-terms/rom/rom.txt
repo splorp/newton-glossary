@@ -12,6 +12,7 @@ Related:
 
 - /terms/eeprom
 - /terms/eprom
+- /terms/ram
 
 ----
 

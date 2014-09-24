@@ -1,0 +1,13 @@
+Title: Tick
+
+----
+
+Text:
+
+A sixtieth of a second.
+
+----
+
+Source:
+
+- /sources/npg

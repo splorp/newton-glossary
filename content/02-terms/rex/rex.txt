@@ -1,0 +1,7 @@
+Title: REX
+
+----
+
+Text:
+
+See [ROM Extension](/terms/rom-extension)

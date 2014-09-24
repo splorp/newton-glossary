@@ -1,0 +1,27 @@
+Title: Rich String Format
+
+----
+
+Text:
+
+The internal representation used for [rich strings](/terms/rich-string). Each [ink words](/terms/ink-word) is represented by a special placeholder character in the string. The data for each ink word is stored after the string terminator character. The final 32 bits in a rich string encode information about the rich string.
+
+----
+
+Related:
+
+- /terms/deferred-recognition
+- /terms/electronic-ink
+- /terms/handwriting-recognition
+- /terms/ink
+- /terms/ink-text
+- /terms/ink-word
+- /terms/inker
+- /terms/recognized-text
+- /terms/rich-string
+
+----
+
+Source:
+
+- /sources/npg

@@ -12,7 +12,6 @@ Related:
 
 - /terms/deferred-recognition
 - /terms/handwriting-recognition
-- /terms/hwr
 - /terms/ink
 - /terms/ink-text
 - /terms/ink-word

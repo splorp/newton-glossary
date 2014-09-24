@@ -4,7 +4,7 @@ Title: Newton Backup Express
 
 Text:
 
-Software developed by an elusive fellow named Bob Anderson as an alternative to Apple’s own [Newton Connection Utilities](/terms/newton-connection-utilities) (NCU). It allowed users to backup, restore, browse data, and install packages on their Newton devices. The software was never officially released and the author has subsequently disappeared. Also known variously as [NBE](/terms/nbe), [NBX](/terms/nbx), and [NewtBX](/terms/newtbx).
+Software developed by an elusive fellow named Bob Anderson as an alternative to Apple’s own [Newton Connection Utilities](/terms/newton-connection-utilities) (NCU). It allowed users to backup, [restore](/terms/restore), browse data, and install packages on their Newton devices. The software was never officially released and the author has subsequently disappeared. Also known variously as [NBE](/terms/nbe), [NBX](/terms/nbx), and [NewtBX](/terms/newtbx).
 
 ----
 
@@ -24,6 +24,7 @@ Related:
 - /terms/newton-package-installer
 - /terms/npi
 - /terms/package-installer
+- /terms/restore
 
 ----
 

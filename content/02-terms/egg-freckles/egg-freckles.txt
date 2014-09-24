@@ -19,4 +19,3 @@ Related:
 - /terms/area-51
 - /terms/easter-egg
 - /terms/handwriting-recognition
-- /terms/hwr

@@ -12,6 +12,7 @@ Related:
 
 - /terms/dram
 - /terms/flash-ram
+- /terms/rom
 - /terms/sram
 
 ----

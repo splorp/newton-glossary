@@ -15,11 +15,12 @@ Related:
 - /terms/deferred-recognition
 - /terms/electronic-ink
 - /terms/handwriting-recognition
-- /terms/hwr
 - /terms/ink
 - /terms/ink-text
 - /terms/inker
 - /terms/recognized-text
+- /terms/rich-string
+- /terms/rich-string-format
 
 ----
 

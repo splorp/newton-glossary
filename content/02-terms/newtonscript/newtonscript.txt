@@ -17,7 +17,6 @@ Related:
 - /terms/newton-toolkit
 - /terms/newtonscript-heap
 - /terms/ns
-- /terms/ntk
 - /terms/object
 - /terms/page-script
 - /terms/project

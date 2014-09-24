@@ -4,4 +4,4 @@ Title: Extras
 
 Text:
 
-See [Extras](/terms/extras-drawer)
+See [Extras Drawer](/terms/extras-drawer)

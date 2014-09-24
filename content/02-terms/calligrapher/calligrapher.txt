@@ -13,7 +13,6 @@ Related:
 - /terms/cursive-recognizer
 - /terms/egg-freckles
 - /terms/handwriting-recognition
-- /terms/hwr
 - /terms/ink
 - /terms/print-recognizer
 - /terms/recognized-text
