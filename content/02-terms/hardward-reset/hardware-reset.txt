@@ -4,4 +4,4 @@ Title: Hardware Reset
 
 Text:
 
-See [Deep Reset](/terms/deep-reset)
+See [Power Reset](/terms/power-reset)

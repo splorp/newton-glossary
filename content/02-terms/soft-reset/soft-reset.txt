@@ -1,0 +1,28 @@
+Title: Soft Reset
+
+----
+
+Text:
+
+A method of resetting the [Newton OS](/terms/newton-os) by pressing the [reset button](/terms/reset-button). A soft reset does not erase any user data, applications, packages, [handwriting recognition](/terms/handwriting-recognition) training, or preferences. Also known as a [software reset](/terms/software-reset).
+
+----
+
+Related:
+
+- /terms/brain-wipe
+- /terms/cold-boot
+- /terms/deep-reset
+- /terms/hard-reset
+- /terms/hardware-reset
+- /terms/power-reset
+- /terms/reset
+- /terms/reset-button
+- /terms/software-reset
+- /terms/system-reset
+
+----
+
+Source:
+
+- /sources/til

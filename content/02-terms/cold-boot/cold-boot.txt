@@ -4,7 +4,9 @@ Title: Cold Boot
 
 Text:
 
-A method of resetting a Newton device that erases all data, removes any [System Update](/terms/system-update) previously installed, and sets the [Newton OS](/terms/newton-os) back to factory defaults. Requires the removal of all power sources to the Newton device. Commonly referred to as a [Brain Wipe](/terms/brain-wipe) or [Hard Reset](/terms/hard-reset).
+A method of resetting the [Newton OS](/terms/newton-os) to its factory defaults. A cold boot erases all data in the internal memory including [applications](/terms/application) and [packages](/terms/package) installed by the user, removes all [system updates](/terms/system-update), and resets [pen](/terms/pen) alignment, date, time, time zone, and other preferences.
+
+Not to be confused with [hard reset](/terms/hard-reset) or [brain wipe](/terms/brain-wipe), which do not remove any [system updates](/terms/system-update).
 
 ----
 
@@ -18,10 +20,11 @@ Related:
 - /terms/reset
 - /terms/reset-button
 - /terms/soft-reset
+- /terms/software-reset
 - /terms/system-reset
 
 ----
 
 Source:
 
-- /sources/nfaq
+- /sources/til

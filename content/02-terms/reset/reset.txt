@@ -4,4 +4,4 @@ Title: Reset
 
 Text:
 
-See [Soft Reset](/terms/soft-reset)
+See [Hard Reset](/terms/hard-reset), [Soft Reset](/terms/soft-reset), [Power Reset](/terms/power-reset), and [Cold Boot](/terms/cold-boot)
