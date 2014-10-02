@@ -13,6 +13,7 @@ Related:
 - /terms/child
 - /terms/child-view
 - /terms/parent
+- /terms/root-view
 - /terms/sibling
 - /terms/view
 

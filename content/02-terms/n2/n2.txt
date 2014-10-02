@@ -11,6 +11,7 @@ The code name of the hardware platform built on the [Voyager](/terms/voyager) ch
 Related:
 
 - /terms/clone
+- /terms/rom-extension
 - /terms/voyager
 
 ----

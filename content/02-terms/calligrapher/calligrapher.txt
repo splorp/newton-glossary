@@ -18,3 +18,4 @@ Related:
 - /terms/recognized-text
 - /terms/recognizer
 - /terms/rosetta
+- /terms/rosetta-stone

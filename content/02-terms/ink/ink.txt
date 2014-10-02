@@ -28,6 +28,7 @@ Related:
 - /terms/recognized-text
 - /terms/rich-string
 - /terms/rich-string-format
+- /terms/rosetta
 - /terms/rosetta-stone
 - /terms/sketch-ink
 

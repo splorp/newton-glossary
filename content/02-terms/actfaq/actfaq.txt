@@ -12,6 +12,7 @@ Related:
 
 - /terms/faq
 - /terms/newtontalk
+- /terms/rtfm
 
 ----
 
