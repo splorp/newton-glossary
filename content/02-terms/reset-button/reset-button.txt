@@ -1,0 +1,23 @@
+Title: Reset Button
+
+----
+
+Text:
+
+A [button](/terms/button) found on the back of a Newton device which performs a [power reset](/terms/power-reset) or [soft reset](/terms/soft-reset). Pressing the reset button will often resolve problems that may occur during the operation of the device.
+
+----
+
+Related:
+
+- /terms/button
+- /terms/power-reset
+- /terms/reset
+- /terms/soft-reset
+- /terms/software-reset
+
+----
+
+Source:
+
+- /sources/mph

@@ -1,0 +1,25 @@
+Title: Resource
+
+----
+
+Text:
+
+Raw data — usually consisting of [bitmaps](/terms/bitmap) or sounds - stored on the development system and incorporated into a Newton [application](/terms/application) during the [project build](/terms/project-build).
+
+----
+
+Related:
+
+- /terms/bitmap
+- /terms/build
+- /terms/newton-toolkit
+- /terms/project
+- /terms/project-build
+- /terms/project-file
+- /terms/resource-file
+
+----
+
+Source:
+
+- /sources/npg

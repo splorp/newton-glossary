@@ -1,0 +1,13 @@
+Title: Routing Button
+
+----
+
+Text:
+
+See [Action Picker](/terms/action-picker)
+
+----
+
+Source:
+
+- /sources/gh

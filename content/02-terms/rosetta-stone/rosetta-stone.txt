@@ -1,0 +1,31 @@
+Title: Rosetta Stone
+
+----
+
+Text:
+
+Code name for the Mac OS version of [Rosetta](/terms/rosetta), the Newton [handwriting recognition](/terms/handwriting-recognition) system.
+
+----
+
+Related:
+
+- /terms/calligrapher
+- /terms/cursive-recognizer
+- /terms/egg-freckles
+- /terms/handwriting-recognition
+- /terms/ink
+- /terms/inkbar
+- /terms/inker
+- /terms/inkpad
+- /terms/inkwell
+- /terms/print-recognizer
+- /terms/recognized-text
+- /terms/recognizer
+- /terms/rosetta
+
+----
+
+Source:
+
+- /sources/zd

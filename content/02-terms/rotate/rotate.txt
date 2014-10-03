@@ -1,0 +1,14 @@
+Title: Rotate
+
+----
+
+Text:
+
+To change the [orientation](/terms/orientation) of the displayed content on a Newton device.
+
+----
+
+Related:
+
+- /terms/display-area
+- /terms/orientation

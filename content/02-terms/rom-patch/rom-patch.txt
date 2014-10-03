@@ -1,0 +1,7 @@
+Title: ROM Patch
+
+----
+
+Text:
+
+See [Patch](/terms/patch)

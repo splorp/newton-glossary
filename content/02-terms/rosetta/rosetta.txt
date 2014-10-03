@@ -1,0 +1,21 @@
+Title: Rosetta
+
+----
+
+Text:
+
+Code name for the software-based [print recognizer](print-recognizer) system developed by Apple.
+
+----
+
+Related:
+
+- /terms/calligrapher
+- /terms/cursive-recognizer
+- /terms/egg-freckles
+- /terms/handwriting-recognition
+- /terms/ink
+- /terms/print-recognizer
+- /terms/recognized-text
+- /terms/recognizer
+- /terms/rosetta-stone

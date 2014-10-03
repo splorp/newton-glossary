@@ -1,0 +1,20 @@
+Title: Origin
+
+----
+
+Text:
+
+An arbitrary area or set of areas on the coordinate plane. The outline of a region should be one or more closed loops.
+
+----
+
+Related:
+
+- /terms/origin
+- /terms/view
+
+----
+
+Source:
+
+- /sources/npg

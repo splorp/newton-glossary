@@ -1,0 +1,22 @@
+Title: Inker
+
+----
+
+Text:
+
+A low-level task in [Newton OS](/terms/newton-os) which takes user input and draws the appropriate data on the screen. In effect, converting physical [pen](/terms/pen) strokes into [electronic ink](/terms/electronic-ink).
+
+----
+
+Related:
+
+- /terms/electronic-ink
+- /terms/ink
+- /terms/ink-text
+- /terms/ink-word
+
+----
+
+Source:
+
+- /sources/dg

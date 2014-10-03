@@ -1,0 +1,20 @@
+Title: Restore
+
+----
+
+Text:
+
+To replace all of the information on a Newton device with information from a backup file found on a desktop computer.
+
+----
+
+Related:
+
+- /terms/newton-backup-express
+- /terms/newton-backup-utility
+
+----
+
+Source:
+
+- /sources/npg

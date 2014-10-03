@@ -1,0 +1,21 @@
+Title: Root View
+
+----
+
+Text:
+
+The topmost [parent view](/terms/parent-view) in the [view](/terms/view) hierarchy. All other views descend from the root view.
+
+----
+
+Related:
+
+- /terms/parent
+- /terms/parent-view
+- /terms/view
+
+----
+
+Source:
+
+- /sources/npg
