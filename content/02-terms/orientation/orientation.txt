@@ -4,7 +4,7 @@ Title: Orientation
 
 Text:
 
-The position of the information within the [display area](/terms/display-area) of a Newton device relative to the device itself. Information can be displayed in either horizontal or vertical orientation.
+The position of the information within the [display area](/terms/display-area) of a Newton device relative to the device itself. Information can be displayed in either horizontal (landscape) or vertical (portrait) orientation.
 
 ----
 

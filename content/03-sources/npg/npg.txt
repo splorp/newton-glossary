@@ -1,4 +1,4 @@
-Title: Newton Programmers Guide
+Title: Newton Programmer’s Guide
 
 ----
 
