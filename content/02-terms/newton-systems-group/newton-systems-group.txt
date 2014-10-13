@@ -4,7 +4,7 @@ Title: Newton Systems Group
 
 Text:
 
-The Newton platform development group within Apple.
+The Newton platform development group within [Apple](http://apple.com/).
 
 ----
 

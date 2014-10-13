@@ -4,7 +4,7 @@ Title: Newton Works
 
 Text:
 
-An integrated software [application](/terms/application) developed by Apple for devices running [Newton OS](/terms/newton-os) 2.1 only. Functionality includes a word processor, drawing tools, and a graphing calculator. On an [eMate](/terms/emate-300), Newton Works is the default [backdrop](/terms/backdrop) application.
+An integrated software [application](/terms/application) developed by [Apple](http://apple.com/) for devices running [Newton OS](/terms/newton-os) 2.1 only. Functionality includes a word processor, drawing tools, and a graphing calculator. On an [eMate](/terms/emate-300), Newton Works is the default [backdrop](/terms/backdrop) application.
 
 ----
 

@@ -4,7 +4,7 @@ Title: Newton Developer Support
 
 Text:
 
-A defunct group within Apple which supplied technical information and support for companies and individuals developing product for the Newton platform.
+A defunct group within [Apple](http://apple.com/) which supplied technical information and support for companies and individuals developing product for the Newton platform.
 
 ----
 
