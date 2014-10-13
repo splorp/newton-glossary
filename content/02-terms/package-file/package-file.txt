@@ -4,7 +4,7 @@ Title: Package File
 
 Text:
 
-A file that contains software, such as an application program or extension, which can be transferred to a Newton device using a [package installer](/terms/package-installer). Generally denoted by a [.pkg](/terms/pkg) file extension.
+A file that contains software, such as an application program or extension, which can be transferred to a Newton device using a [package installer](/terms/package-installer). Denoted by the [.pkg](/terms/pkg) file extension.
 
 ----
 

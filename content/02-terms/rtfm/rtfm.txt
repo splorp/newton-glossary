@@ -4,16 +4,10 @@ Title: RTFM
 
 Text:
 
-Read The Fucking Manual.
+Read The Fucking Manual
 
 ----
 
 Related:
 
 - /terms/actfaq
-
-----
-
-Source:
-
-- /sources/ntlk
