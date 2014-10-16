@@ -1,0 +1,25 @@
+Title: Zig Zag
+
+----
+
+Text:
+
+A back and forth [gesture](/terms/gesture) made with the [pen](/terms/pen).
+
+----
+
+Related:
+
+- /terms/pen
+- /terms/gesture
+- /terms/poof
+- /terms/poof-it
+- /terms/scrub
+- /terms/scrubbing
+- /terms/zig-zag
+
+----
+
+Source:
+
+- /sources/gh

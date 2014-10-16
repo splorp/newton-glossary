@@ -1,0 +1,27 @@
+Title: Routing
+
+----
+
+Text:
+
+The process of sending or receiving data through the [In/Out Box](/terms/in-out-box) application using a communications [transport](/terms/transport) such as printing, faxing, [beaming](/terms/beaming), or emailing. Routing is generally initiated by using one of the options found in the [action picker](/terms/action-picker).
+
+----
+
+Related:
+
+- /terms/action-button
+- /terms/action-picker
+- /terms/envelope-button
+- /terms/in-box
+- /terms/in-out-box
+- /terms/out-box
+- /terms/routing-button
+- /terms/routing-slip
+- /terms/transport
+
+----
+
+Source:
+
+- /sources/nuig

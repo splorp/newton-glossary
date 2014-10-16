@@ -1,0 +1,23 @@
+Title: Script Icon
+
+----
+
+Text:
+
+A [picture button](/terms/picture-button) that executes a [function object](/terms/function-object) when [tapped](/terms/tap).
+
+----
+
+Related:
+
+- /terms/button
+- /terms/function-object
+- /terms/icon
+- /terms/picture-button
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/npg

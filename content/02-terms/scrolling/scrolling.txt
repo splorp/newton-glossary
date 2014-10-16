@@ -1,0 +1,7 @@
+Title: Scrolling
+
+----
+
+Text:
+
+See [Scroll](/terms/scroll)

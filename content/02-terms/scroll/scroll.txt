@@ -1,0 +1,25 @@
+Title: Scroll
+
+----
+
+Text:
+
+To cause the currently displayed data to move off the screen and be replaced by data that was not visible.
+
+----
+
+Related:
+
+- /terms/clank
+- /terms/clanking
+- /terms/local-scroll-arrows
+- /terms/scroll-arrows
+- /terms/scrolling
+- /terms/scrolling-list
+- /terms/universal-scroll-arrows
+
+----
+
+Source:
+
+- /sources/nuig

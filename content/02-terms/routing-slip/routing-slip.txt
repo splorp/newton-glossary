@@ -1,0 +1,20 @@
+Title: Routing Slip
+
+----
+
+Text:
+
+A [view](/terms/view) in which a user specifies the sender, recipient, format, and other information needed to send data by the method chosen in the [action picker](/terms/action-picker).
+
+----
+
+Related:
+
+- /terms/action-picker
+- /terms/routing
+
+----
+
+Source:
+
+- /sources/nuig

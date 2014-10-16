@@ -1,0 +1,13 @@
+Title: RS232
+
+----
+
+Text:
+
+A standard for serial communication between computers and peripheral devices such as modems and terminals.
+
+----
+
+Source:
+
+- /sources/te

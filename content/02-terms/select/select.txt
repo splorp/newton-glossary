@@ -1,0 +1,25 @@
+Title: Select
+
+----
+
+Text:
+
+To designate a [user interface](/terms/user-interface) object by [tapping](/terms/tapping), [double-tapping](/terms/double-tap), or [dragging](/terms/drag) across it. The next action that happens is applied to the selected object.
+
+----
+
+Related:
+
+- /terms/double-tap
+- /terms/drag
+- /terms/selection
+- /terms/tap
+- /terms/tap-and-a-half
+- /terms/tapping
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/nuig

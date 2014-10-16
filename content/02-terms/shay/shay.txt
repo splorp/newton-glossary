@@ -1,0 +1,23 @@
+Title: Shay
+
+----
+
+Text:
+
+One of the code names for the [eMate 300](/terms/emate-300) device. Also referred to as [Project K](/terms/project-k) and [Schoolbook](/terms/schoolbook).
+
+----
+
+Related:
+
+- /terms/batnewt
+- /terms/emate
+- /terms/emate-300
+- /terms/project-k
+- /terms/schoolbook
+
+----
+
+Source:
+
+- /sources/bt

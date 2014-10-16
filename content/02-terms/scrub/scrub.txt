@@ -1,0 +1,24 @@
+Title: Scrub
+
+----
+
+Text:
+
+To erase or delete words or images using a [zig zag](/terms/zig-zag) gesture with the [pen](/terms/pen).
+
+----
+
+Related:
+
+- /terms/gesture
+- /terms/pen
+- /terms/poof
+- /terms/poof-it
+- /terms/scrubbing
+- /terms/zig-zag
+
+----
+
+Source:
+
+- /sources/gh

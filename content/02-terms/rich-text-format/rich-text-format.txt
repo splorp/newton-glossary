@@ -1,0 +1,19 @@
+Title: Rich Text Format
+
+----
+
+Text:
+
+A document format originally developed by [Microsoft](http://microsoft.com/) for encoding formatted text and graphics. Denoted by the [.rtf](/terms/rtf) file extension.
+
+----
+
+Related:
+
+- /terms/rtf
+
+----
+
+Source:
+
+- /sources/te

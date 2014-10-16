@@ -1,0 +1,29 @@
+Title: Scroll Arrows
+
+----
+
+Text:
+
+A pair of icon-based [buttons](/terms/button) used to [scroll](/terms/scroll) displayed data.
+
+----
+
+Related:
+
+- /terms/button
+- /terms/clank
+- /terms/clanking
+- /terms/icon
+- /terms/local-scroll-arrows
+- /terms/picture-button
+- /terms/scroll
+- /terms/scrolling-list
+- /terms/universal-scroll-arrows
+- /terms/user-interface
+
+
+----
+
+Source:
+
+- /sources/gh

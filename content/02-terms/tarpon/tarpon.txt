@@ -1,0 +1,21 @@
+Title: Tarpon
+
+----
+
+Text:
+
+A ruggedized [Newton OS](/terms/newton-os) clone device developed by Digital Ocean. Similar to the Digital Ocean [Seahorse](/terms/seahorse), the Tarpon featured technologies such as built-in wireless networking, peer-to-peer voice communication, and optional GPS. The Tarpon is a modified and improved version of the Harris Dracon [SuperTech 2000](/terms/supertech-2000).
+
+----
+
+Related:
+
+- /terms/clone
+- /terms/seahorse
+- /terms/supertech-2000
+
+----
+
+Source:
+
+- /sources/tnc

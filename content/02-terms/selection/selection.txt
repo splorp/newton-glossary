@@ -1,0 +1,20 @@
+Title: Selection
+
+----
+
+Text:
+
+The [user interface](/terms/user-interface) object or group of user interface objects most recently [selected](/terms/select) or designated to be affected by the next action.
+
+----
+
+Related:
+
+- /terms/select
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/nuig
