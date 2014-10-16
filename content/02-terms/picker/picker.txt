@@ -4,7 +4,7 @@ Title: Picker
 
 Text:
 
-A menu or list of choices that appears when the user [taps](/terms/tap) an adjacent text label marked by a solid diamond. A picker may also appear when a user taps a [button](/terms/button) such as a [routing button](/terms/routing-button). The user selects one of the items in the picker list by [tapping](/terms/tapping) it.
+A menu or list of choices that appears when the user [taps](/terms/tap) an adjacent text label marked by a solid diamond. A picker may also appear when a user taps a [button](/terms/button) such as a [routing button](/terms/routing-button). The user [selects](/terms/select) one of the items in the picker list by [tapping](/terms/tapping) it.
 
 ----
 

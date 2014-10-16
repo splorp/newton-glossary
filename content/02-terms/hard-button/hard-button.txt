@@ -10,10 +10,9 @@ A permanent hardware [button](/terms/button) displaying an [icon](/terms/icon) f
 
 Related:
 
-- /terms/icon
 - /terms/button
 - /terms/button-bar
-- /terms/ryo
+- /terms/icon
 - /terms/scroll-arrows
 - /terms/silk-button
 - /terms/silk-screen-button

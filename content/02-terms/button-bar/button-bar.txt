@@ -10,12 +10,14 @@ A thick black line with graphical [buttons](/terms/button) arranged on it. Can a
 
 Related:
 
-- /terms/button-bar
+- /terms/button
 - /terms/button-host
 - /terms/button-provider
+- /terms/icon
 - /terms/ryo
 - /terms/silk-button
 - /terms/silk-screen-button
+- /terms/soft-button
 - /terms/universal-scroll-arrows
 - /terms/user-interface
 

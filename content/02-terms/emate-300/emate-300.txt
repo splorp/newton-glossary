@@ -10,10 +10,11 @@ A translucent, clamshell-cased Newton device with a built-in keyboard. Primarily
 
 Related:
 
+- /terms/batnewt
 - /terms/broink
 - /terms/classroom-exchange
 - /terms/emate
 - /terms/floppy-lid
-- /terms/k
+- /terms/project-k
 - /terms/schoolbook
 - /terms/shay

@@ -13,7 +13,6 @@ Related:
 - /terms/button
 - /terms/clank
 - /terms/clanking
-- /terms/local-scroll-arrows
 - /terms/scroll
 - /terms/scroll-arrows
 - /terms/scrolling-list

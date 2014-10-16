@@ -4,18 +4,4 @@ Title: OMP
 
 Text:
 
-Original MessagePad. The very first commercially released Newton model. Not to be confused with the [MessagePad 100](/terms/messagepad-100) which shares the same model number.
-
-----
-
-Related:
-
-- /terms/batman
-- /terms/batmobile
-- /terms/h1000
-- /terms/junior
-- /terms/messagepad
-- /terms/messagepad-100
-- /terms/mp100
-- /terms/pocket-newton
-- /terms/wedge
+See [Original MessagePad](/terms/original-messagepad)

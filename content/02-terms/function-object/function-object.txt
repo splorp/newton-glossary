@@ -18,6 +18,7 @@ Related:
 - /terms/function-stack-call
 - /terms/object
 - /terms/receiver
+- /terms/script-icon
 - /terms/vbo
 - /terms/virtual-binary-object
 

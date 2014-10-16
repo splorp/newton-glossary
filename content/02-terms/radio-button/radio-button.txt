@@ -4,7 +4,7 @@ Title: Radio Button
 
 Text:
 
-A standard [user interface](/terms/user-interface) control that displays its state — either on or off — and is part of a group in which the user can turn on only one [button](/terms/button) at a time. A text label next to each button in the group indicates the control’s current setting. Compare this to a [checkbox](/terms/checkbox) group, where more than one button may be selected at a time.
+A standard [user interface](/terms/user-interface) control that displays its state — either on or off — and is part of a group in which the user can turn on only one [button](/terms/button) at a time. A text label next to each button in the group indicates the control’s current setting. Compare this to a [checkbox](/terms/checkbox) group, where more than one button may be [selected](/terms/select) at a time.
 
 ----
 
