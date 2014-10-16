@@ -5,9 +5,3 @@ Title: Clanking
 Text:
 
 See [Clank](/terms/clank)
-
-----
-
-Source:
-
-- /sources/nh
