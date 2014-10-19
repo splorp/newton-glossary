@@ -4,23 +4,4 @@ Title: Implant
 
 Text:
 
-The [frame](/terms/frame) in which a [method](/terms/method) is defined.
-
-----
-
-Related:
-
-- /terms/frame
-- /terms/message
-- /terms/method
-- /terms/object
-- /terms/option-frame
-- /terms/receiver
-- /terms/self
-- /terms/stack-activation-record
-
-----
-
-Source:
-
-- /sources/npg
+See [Implant-130](/terms/implant-130) and [Implant-2000](/terms/implant-2000)
