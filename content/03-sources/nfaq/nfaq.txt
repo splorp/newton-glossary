@@ -4,4 +4,4 @@ Title: Newton FAQ
 
 Text:
 
-http://www.splorp.com/newton/faq/
+_cf. (link:http://www.splorp.com/newton/faq/)_

@@ -4,4 +4,4 @@ Title: Sean Luke
 
 Text:
 
-http://www.cs.umd.edu/users/seanl/newton/
+_cf. (link:http://www.cs.umd.edu/users/seanl/newton/)_

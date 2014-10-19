@@ -4,5 +4,5 @@ Title: Apple Knowledge Archive
 
 Text:
 
-http://karchive.info.apple.com/
+_cf. (link:http://karchive.info.apple.com/)_
 New: ?

@@ -5,4 +5,5 @@ Title: Oliver’s List of Newton Easter Eggs
 Text:
 
 Oliver O. Fross
-http://wayback.archive.org/web/20091023125926/http://geocities.com/SiliconValley/Bay/4931/index.html
+
+_cf. (link:http://wayback.archive.org/web/20091023125926/http://geocities.com/SiliconValley/Bay/4931/index.html)_

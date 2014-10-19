@@ -4,5 +4,5 @@ Title: Apple Tech Info Library
 
 Text:
 
-http://til.info.apple.com/
-http://support.apple.com/kb/TA33869
+_cf. (link:http://til.info.apple.com/)_
+_cf. (link:http://support.apple.com/kb/TA33869)_

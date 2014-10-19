@@ -4,4 +4,4 @@ Title: Carsten Lemmen
 
 Text:
 
-http://www.mac-ev.de/sig/newton/
+_cf. (link:http://www.mac-ev.de/sig/newton/)_

@@ -4,5 +4,5 @@ Title: Thomas Tempelmann
 
 Text:
 
-http://www.tempel.org/
-http://www.tempel.org/newton/
+_cf. (link:http://www.tempel.org/)_
+_cf. (link:http://www.tempel.org/newton/)_

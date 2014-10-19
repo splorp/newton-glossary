@@ -4,4 +4,4 @@ Title: The Newton Collector
 
 Text:
 
-http://www.normalkid.com/collector/
+_cf. (link:http://www.normalkid.com/collector/)_

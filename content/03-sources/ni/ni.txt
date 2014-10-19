@@ -4,4 +4,4 @@ Title: Newton Inc.
 
 Text:
 
-http://web.archive.org/web/*/http://www.newton-inc.com/
+_cf. (link:http://web.archive.org/web/*/http://www.newton-inc.com/)_

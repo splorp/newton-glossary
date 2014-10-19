@@ -4,9 +4,9 @@ Title: Newton Technology Journal
 
 Text:
 
-http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal
+_cf. (link:http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal)_
 
 The Newton Technology Journal is published by Apple’s Newton Developer Relations Group. NTJ’s content is 70% technical and 30% marketing, with articles on programming issues and topics for the Newton platform, and the latest marketing news from Apple.
 
 Description from Newton Reference
-http://www.panix.com/~clay/newton/query.cgi?programming+index
+_cf. (link:http://www.panix.com/~clay/newton/query.cgi?programming+index)_

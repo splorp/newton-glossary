@@ -4,4 +4,4 @@ Title: Iceberg Technologies
 
 Text:
 
-http://icebergtech.hypermart.net/
+_cf. (link:http://icebergtech.hypermart.net/)_

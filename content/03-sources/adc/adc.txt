@@ -4,4 +4,4 @@ Title: Apple Developer Connection
 
 Text:
 
-http://developer.apple.com/
+_cf. (link:http://developer.apple.com/)_

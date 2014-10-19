@@ -4,4 +4,4 @@ Title: Newtsbug User’s Guide
 
 Text:
 
-http://mirrors.unna.org/download.planetnewton.com/download/programming/applec++tools.htm
+_cf. (link:http://mirrors.unna.org/download.planetnewton.com/download/programming/applec++tools.htm)_

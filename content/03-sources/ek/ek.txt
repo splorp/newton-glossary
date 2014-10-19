@@ -4,5 +4,5 @@ Title: Eckhart Köppen
 
 Text:
 
-http://40hz.org/
-https://github.com/ekoeppen
+_cf. (link:http://40hz.org/)_
+_cf. (link:https://github.com/ekoeppen)_

@@ -4,4 +4,4 @@ Title: Smartdog Software
 
 Text:
 
-http://www.smartdogsw.com/backtalk/
+_cf. (link:http://www.smartdogsw.com/backtalk/)_

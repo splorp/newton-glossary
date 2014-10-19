@@ -10,7 +10,7 @@ The [Graffiti](/terms/graffiti) input system is also based on gestures.
 
 A good overview of handwriting recognition tips and gestures:
 
-http://www.catamount.com/HWRTips/HWRTips.html
+_cf. (link:http://www.catamount.com/HWRTips/HWRTips.html)_
 
 ----
 

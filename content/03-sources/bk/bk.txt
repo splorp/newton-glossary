@@ -4,4 +4,4 @@ Title: Bill Kearney
 
 Text:
 
-http://www.ideaspace.net/users/wkearney/
+_cf. (link:http://www.ideaspace.net/users/wkearney/)_

@@ -4,5 +4,5 @@ Title: TechEncyclopedia
 
 Text:
 
-http://www.techweb.com/encyclopedia/
-New: http://www.computerlanguage.com/
+_cf. (link:http://www.techweb.com/encyclopedia/)_
+New: _cf. (link:http://www.computerlanguage.com/)_

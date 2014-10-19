@@ -4,4 +4,4 @@ Title: Newton Info Library
 
 Text:
 
-http://newted.dyndns.org/users/alien/
+_cf. (link:http://newted.dyndns.org/users/alien/)_
