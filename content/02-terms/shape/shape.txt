@@ -1,0 +1,28 @@
+Title: Shape
+
+----
+
+Text:
+
+A [picture](/terms/picture) composed of geometric constructs such as [lines](/terms/line), [arcs](/terms/arc), circles, [ovals](/terms/oval), [rectangles](/terms/rectangle), and other [polygons](/terms/polygon).
+
+A shape is also a structured piece of data used by the [Newton OS](/newton-os) drawing system to render an image on the screen.
+
+----
+
+Related:
+
+- /terms/arc
+- /terms/line
+- /terms/oval
+- /terms/polygon
+- /terms/rectangle
+- /terms/rounded-rectangle
+- /terms/picture
+- /terms/wedge
+
+----
+
+Source:
+
+- /sources/nuig

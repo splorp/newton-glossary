@@ -1,0 +1,20 @@
+Title: SimpleMail
+
+----
+
+Text:
+
+An email [transport](/terms transport) created by [Simon Bell}(http://newtonresearch.org/) that allows the user send and receive messages over the internet.
+
+_cf. (link:http://newtonresearch.org/simplemail/)_
+
+----
+
+Related:
+
+- /terms/enroute
+- /terms/eworld
+- /terms/in-out-box
+- /terms/newtonmail
+- /terms/routing
+- /terms/transport

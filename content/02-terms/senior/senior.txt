@@ -1,0 +1,28 @@
+Title: Senior
+
+----
+
+Text:
+
+Code name for the larger, unreleased [MessagePad](/terms/messagepad) device known as the [Newton Plus](/terms/newton-plus). The debugger [ROM](/terms/rom) for the [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices was referred to as the “Senior Cirrus Debug”, perpetuating the theory that the Newton Plus actually existed and ended up being developed as the MessagePad 2000.
+
+----
+
+Related:
+
+- /terms/cadillac
+- /terms/cirrus
+- /terms/debug
+- /terms/debugger
+- /terms/figaro
+- /terms/junior
+- /terms/messagepad
+- /terms/messageslate
+- /terms/mont-blanc
+- /terms/newton-plus
+
+----
+
+Source:
+
+- /sources/dg

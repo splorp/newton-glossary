@@ -1,0 +1,24 @@
+Title: Sibling View
+
+----
+
+Text:
+
+A [child view](/terms/child-view) accompanied by one or more additional [views](/terms/view) contained by a single [parent view](/terms/parent-view).
+
+----
+
+Related:
+
+- /terms/child
+- /terms/child-view
+- /terms/parent
+- /terms/parent-view
+- /terms/sibling
+- /terms/view
+
+----
+
+Source:
+
+- /sources/nuig

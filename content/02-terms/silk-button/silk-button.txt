@@ -1,0 +1,13 @@
+Title: Silk Button
+
+----
+
+Text:
+
+See [Silkscreen Button](/terms/silkscreen-button)
+
+----
+
+Source:
+
+- /sources/ntlk

@@ -1,0 +1,22 @@
+Title: Serious Bandwidth
+
+----
+
+Text:
+
+A legendary anecdote where a Newton user named [Robert McNally](/sources/rm) entered Lewis Carroll’s _Jabberwocky_ into an original Newton device and had the [handwriting recognition](/terms/handwriting-recognition) generate what was basically a new lyric poem — known variously as [Tablespoons](/terms/tablespoons) or [Newtonwocky](/terms/newtonwocky). The phrase _“Serious Bandwidth”_ was the translation of _“Frumious Bandersnatch”_ from the original poem.
+
+----
+
+Related:
+
+- /terms/egg-freckles
+- /terms/handwriting-recognition
+- /terms/newtonwocky
+- /terms/tablespoons
+
+----
+
+Source:
+
+- /sources/gh

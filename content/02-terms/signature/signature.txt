@@ -1,0 +1,7 @@
+Title: Signature
+
+----
+
+Text:
+
+See [Application Signature](/terms/application-signature)

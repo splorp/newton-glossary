@@ -1,0 +1,14 @@
+Title: RJ-45
+
+----
+
+Text:
+
+A standard modular connector, used for [ethernet](/terms/ethernet) connections. Similar to the [RJ-11](/terms/rj-45) modular connector used for telephone and [AppleTalk](/terms/appletalk) connections.
+
+----
+
+Related:
+
+- /terms/ethernet
+- /terms/rj-11

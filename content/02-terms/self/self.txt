@@ -1,0 +1,21 @@
+Title: Self
+
+----
+
+Text:
+
+A pseudo-[variable](/terms/variable) that is set to the current [receiver](/terms/receiver).
+
+----
+
+Related:
+
+- /terms/frame
+- /terms/receiver
+- /terms/variable
+
+----
+
+Source:
+
+- /sources/npg
