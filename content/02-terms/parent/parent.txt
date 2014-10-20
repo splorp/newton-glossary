@@ -12,6 +12,8 @@ Related:
 
 - /terms/child
 - /terms/frame
+- /terms/inheritance
+- /terms/parent-view
 - /terms/sibling
 - /terms/slot
 - /terms/view

@@ -10,6 +10,8 @@ A small, secondary circuit board that generally is attached to the [main logic b
 
 Related:
 
+- /terms/implant-130
+- /terms/implant-2000
 - /terms/main-logic-board
 - /terms/mlb
 - /terms/mobo

@@ -6,6 +6,8 @@ Text:
 
 A permanent hardware [button](/terms/button) displaying an [icon](/terms/icon) found in the [button bar](/terms/button-bar) below the screen of early Newton devices, including the [OMP](/terms/omp), [MessagePad 100](/terms/messagepad-100), [MessagePad 110](/terms/messagepad-110), [MessagePad 120](/terms/messagepad-120), and [MessagePad 130](/terms/messagepad-130). A hard button is used either to open a built-in [application](/terms/application) such as [Date Book](/terms/date-book) or to perform a system-wide operation such as undo.
 
+Colloquially known as a [silkscreen button](/terms/silkscreen-button) or [silk button](/terms/silk/button).
+
 ----
 
 Related:
@@ -13,9 +15,10 @@ Related:
 - /terms/button
 - /terms/button-bar
 - /terms/icon
+- /terms/ryo
 - /terms/scroll-arrows
 - /terms/silk-button
-- /terms/silk-screen-button
+- /terms/silkscreen-button
 - /terms/soft-button
 - /terms/universal-scroll-arrows
 - /terms/user-interface

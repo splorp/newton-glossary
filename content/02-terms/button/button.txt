@@ -28,7 +28,7 @@ Related:
 - /terms/ryo
 - /terms/scroll-arrows
 - /terms/silk-button
-- /terms/silk-screen-button
+- /terms/silkscreen-button
 - /terms/soft-button
 - /terms/tag-button
 - /terms/text-button

@@ -19,7 +19,7 @@ Related:
 - /terms/hard-button
 - /terms/icon
 - /terms/silk-button
-- /terms/silk-screen-button
+- /terms/silkscreen-button
 - /terms/soft-button
 - /terms/user-interface
 

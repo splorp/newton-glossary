@@ -19,3 +19,6 @@ Related:
 - /terms/area-51
 - /terms/easter-egg
 - /terms/handwriting-recognition
+- /terms/newtonwocky
+- /terms/serious-bandwidth
+- /terms/tablespoons

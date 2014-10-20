@@ -16,7 +16,7 @@ Related:
 - /terms/icon
 - /terms/ryo
 - /terms/silk-button
-- /terms/silk-screen-button
+- /terms/silkscreen-button
 - /terms/soft-button
 - /terms/universal-scroll-arrows
 - /terms/user-interface

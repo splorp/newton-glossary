@@ -12,6 +12,7 @@ Related:
 
 - /terms/application
 - /terms/package
+- /terms/signature
 
 ----
 

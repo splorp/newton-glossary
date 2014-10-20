@@ -19,6 +19,7 @@ Related:
 - /terms/irda-lmp
 - /terms/irda-sir
 - /terms/newtir
+- /terms/sharpir
 - /terms/squirting
 
 -----
