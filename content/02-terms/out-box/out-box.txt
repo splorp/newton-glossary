@@ -4,7 +4,7 @@ Title: Out Box
 
 Text:
 
-A list in the [In/Out Box](/terms/in-out-box) application where sent or queued items can be can be viewed, filed, [routed](/terms/routing), and otherwise managed. The [In Box](/terms/in-box) and Out Box are separate applications in [Newton OS](/terms/newton-os) 1.x.
+A list in the [In/Out Box](/terms/in-out-box) application where sent or queued items can be can be viewed, filed, [routed](/terms/routing), and otherwise managed. The [In Box](/terms/in-box) and Out Box are separate [applications](/terms/application) in [Newton OS](/terms/newton-os) 1.x.
 
 ----
 

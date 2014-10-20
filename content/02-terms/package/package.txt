@@ -4,7 +4,7 @@ Title: Package
 
 Text:
 
-The unit in which a software application or extension can be installed on and removed from a Newton device. A package consists of a header containing the package name and other information, and one or more parts containing the software. The extension denoting a Newton [package file](/terms/package-file) is [.pkg](/terms/pkg).
+The unit in which a software [application](/terms/application) or extension can be installed on and removed from a Newton device. A package consists of a header containing the package name and other information, and one or more parts containing the software. The extension denoting a Newton [package file](/terms/package-file) is [.pkg](/terms/pkg).
 
 ----
 

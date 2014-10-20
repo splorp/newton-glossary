@@ -4,7 +4,7 @@ Title: Graphical User Interface
 
 Text:
 
-The use of pictures and icons rather than text to represent the input and output of a software program or operating system. A graphic [user interface](/terms/user-interface) generally includes the use of a windowing system, icons, buttons, and dialog boxes to facilitate communication and user interaction. Also referred to as [GUI](/terms/gui).
+The use of [pictures](/terms/picture) and [icons](/terms/icon) rather than text to represent the input and output of a software program or [operating system](/terms/operating-system). A graphical [user interface](/terms/user-interface) generally includes the use of a windowing system, icons, [buttons](/terms/button), and dialog boxes to facilitate communication and user interaction. Also referred to as [GUI](/terms/gui).
 
 ----
 

@@ -4,7 +4,7 @@ Title: Action Button
 
 Text:
 
-The small [envelope button](/terms/envelope-button) used in applications to invoke [routing](/terms/routing) functions. When [tapped](/terms/tap), it displays a [picker](/terms/picker) listing routing actions available for the current item.
+The small [envelope button](/terms/envelope-button) used in [applications](/terms/application) to invoke [routing](/terms/routing) functions. When [tapped](/terms/tap), it displays a [picker](/terms/picker) listing routing actions available for the current item.
 
 ----
 

@@ -4,7 +4,7 @@ Title: Part Code
 
 Text:
 
-A four character designation that identifies the type of the data contained in a [part](/terms/part). These type identifiers include: `form` for [applications](/terms/application); `book` for [Newton books](/terms/newton-book) created by [Newton Book Maker](/terms/newton-book-maker) or [Newton Press](/terms/newton-press); `auto` for [auto part](/terms/auto-part) background applications and [extensions](/terms/extension); `soup` for read-only [store parts](/terms/store-part); `dict` for custom recognition dictionaries; and `font` for typefaces.
+A four character designation that identifies the type of the data contained in a [part](/terms/part). These type identifiers include: `form` for [applications](/terms/application); `book` for [Newton books](/terms/newton-book) created by [Newton Book Maker](/terms/newton-book-maker) or [Newton Press](/terms/newton-press); `auto` for [auto part](/terms/auto-part) background [applications](/terms/application) and [extensions](/terms/extension); `soup` for read-only [store parts](/terms/store-part); `dict` for custom recognition dictionaries; and `font` for typefaces.
 
 ----
 

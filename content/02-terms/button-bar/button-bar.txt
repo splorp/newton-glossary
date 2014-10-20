@@ -13,6 +13,7 @@ Related:
 - /terms/button
 - /terms/button-host
 - /terms/button-provider
+- /terms/hard-button
 - /terms/icon
 - /terms/ryo
 - /terms/silk-button
