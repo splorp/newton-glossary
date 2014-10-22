@@ -4,7 +4,7 @@ Title: Button Bar
 
 Text:
 
-A thick black line with graphical [buttons](/terms/button) arranged on it. Can also refer to the set of icons found at the bottom of the Newton screen which are used to launch applications.
+A thick black line with graphical [buttons](/terms/button) that perform functions related to the current [application](/terms/application). Button bar also refers to the set of [icons](/terms/icon) located at the bottom of the Newton screen which are used to launch applications. On [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices, the button bar contains user modifiable [soft buttons](/terms/soft-buttons), all other [Newton OS](/terms/newton-os) devices utilize a permanent set of [hard buttons](/terms/hard-button).
 
 ----
 
