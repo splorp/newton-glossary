@@ -1,0 +1,21 @@
+Title: Smirkers
+
+----
+
+Text:
+
+The group of skeptical [Apple](http://apple.com/) employees working on the Newton project who doubted the feasibility and operability of both the larger [Newton Plus](/terms/newton-plus) and the [Dylan](/terms/dylan) programming language running on the device.
+ 
+----
+
+Related:
+
+- /terms/newton-plus
+- /terms/senior
+- /terms/dylan
+
+----
+
+Source:
+
+- /sources/dg

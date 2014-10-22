@@ -1,0 +1,16 @@
+Title: Special Interest Group
+
+----
+
+Text:
+
+A like-minded collection of individuals who concentrate their knowledge, skills, and abilities on a special theme, technology, or goal. A [Newton User Group](/terms/newton-user-group) could be considered to be a special interest group dedicated to Newton hardware, software, support, and community. Also referred to as simply [SIG](/terms/sig).
+
+----
+
+Related:
+
+- /terms/newton-user-group
+- /terms/nug
+- /terms/sig
+- /terms/special-interest-group

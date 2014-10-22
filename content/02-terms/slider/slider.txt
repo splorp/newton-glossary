@@ -1,0 +1,20 @@
+Title: Slider
+
+----
+
+Text:
+
+A [control](/terms/control) with a marker that indicates an amount, degree, or value in relation to a range of possible values. The user can adjust the setting by dragging the marker on a slider.
+
+----
+
+Related:
+
+- /terms/gauge
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/nuig

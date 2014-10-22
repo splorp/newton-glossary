@@ -1,0 +1,23 @@
+Title: Soup Icon
+
+----
+
+Text:
+
+An [icon](/terms/icon) that represents one or more [soups](/terms/soup), usually located in the “Storage” folder of the [Extras Drawer](/terms/extras-drawer).
+
+----
+
+Related:
+
+- /terms/extras-drawer
+- /terms/icon
+- /terms/soup
+- /terms/store
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/npg

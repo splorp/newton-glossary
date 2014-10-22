@@ -1,0 +1,23 @@
+Title: Soupervisor Mechanism
+
+----
+
+Text:
+
+The system service that presents the user with information about a [soup](/terms/soup) when the user [taps](/terms/tap) a [soup icon](/terms/soup-icon) in the [Extras Drawer](/terms/extras-drawer). This facilitates the filing or moving of soup [entries](/terms/entry).
+
+----
+
+Related:
+
+- /terms/entry
+- /terms/extras-drawer
+- /terms/icon
+- /terms/soup
+- /terms/soup-icon
+
+----
+
+Source:
+
+- /sources/npg

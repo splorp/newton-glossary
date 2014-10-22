@@ -1,0 +1,36 @@
+Title: Soup
+
+----
+
+Text:
+
+A persistently stored [object](/terms/object) that contains a series of [frames](/terms/frame) called [entries](/terms/entry). Like a [database](/terms/database), a soup has indexes that are used to access entries in a sorted order.
+
+----
+
+Related:
+
+- /terms/application-definition-format
+- /terms/cursor-object
+- /terms/data-definition
+- /terms/entry
+- /terms/entry-aliases
+- /terms/frame
+- /terms/item-frame
+- /terms/name-reference
+- /terms/object
+- /terms/reference
+- /terms/revelar-connection-utility
+- /terms/slot
+- /terms/soup-icon
+- /terms/soupervisor-mechanism
+- /terms/store
+- /terms/store-part
+- /terms/union-soup
+- /terms/viewframe
+
+----
+
+Source:
+
+- /sources/npg

@@ -1,0 +1,24 @@
+Title: Snowflake
+
+----
+
+Text:
+
+The type of [icon](/terms/icon) used to indicate a [frozen package](/terms/frozen-package). Specifically, a [package](/terms/package) that has been suspended by [freezing](/terms/freezing) and is not active.
+
+----
+
+Related:
+
+- /terms/icon
+- /terms/freeze
+- /terms/freezing
+- /terms/frozen
+- /terms/frozen-package
+- /terms/package
+
+----
+
+Source:
+
+- /sources/ntj

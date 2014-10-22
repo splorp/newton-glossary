@@ -1,0 +1,7 @@
+Title: Storage
+
+----
+
+Text:
+
+See [Store](/terms/store)

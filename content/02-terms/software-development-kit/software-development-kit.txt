@@ -1,0 +1,17 @@
+Title: Software Development Kit
+
+----
+
+Text:
+
+A cohesive set of code samples, templates, tools, libraries, and other utilities provided by software vendors to facilitate the creation of [applications](/terms/application) based on their software. Commonly known as an [SDK](/terms/sdk)
+
+----
+
+Related:
+
+- /terms/application
+- /terms/ddk
+- /terms/driver-development-kit
+- /terms/sdk
+- /terms/software-developers-kit

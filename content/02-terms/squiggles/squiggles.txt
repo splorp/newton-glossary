@@ -1,0 +1,7 @@
+Title: Squiggles
+
+----
+
+Text:
+
+See [Jaggies](/terms/jaggies)

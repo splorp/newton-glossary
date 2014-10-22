@@ -1,0 +1,13 @@
+Title: Wake
+
+----
+
+Text:
+
+To activate a [Newton OS](/newton-os) device from an inactive or [sleep](/terms/sleep) state using an external signal.
+
+----
+
+Related:
+
+- /terms/sleep

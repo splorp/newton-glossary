@@ -1,0 +1,7 @@
+Title: Frozen
+
+----
+
+Text:
+
+See [Frozen Package](/terms/frozen-package)
