@@ -4,7 +4,7 @@ Title: Flash Card
 
 Text:
 
-A memory card using [flash RAM](/terms/flash-ram) chips that can be rewritten and hold its content without power. Commonly referred to as simply a [storage card](/terms/storage-card).
+A memory card using [flash RAM](/terms/flash-ram) chips that can be rewritten and hold its content without power. Commonly referred to as a [storage card](/terms/storage-card).
 
 ----
 
