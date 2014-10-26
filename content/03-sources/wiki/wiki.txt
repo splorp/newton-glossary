@@ -1,0 +1,7 @@
+Title: Wikipedia
+
+----
+
+Text:
+
+_cf. (link:http://www.wikipedia.org/)_
