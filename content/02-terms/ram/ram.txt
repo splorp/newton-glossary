@@ -14,6 +14,8 @@ Related:
 - /terms/flash-ram
 - /terms/rom
 - /terms/sram
+- /terms/system-memory
+- /terms/system-ram
 
 ----
 

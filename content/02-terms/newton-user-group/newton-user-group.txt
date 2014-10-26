@@ -14,8 +14,10 @@ Related:
 - /terms/dnug
 - /terms/lanug
 - /terms/nug
+- /terms/sig
 - /terms/snug
 - /terms/sonug
+- /terms/special-interest-group
 
 ----
 

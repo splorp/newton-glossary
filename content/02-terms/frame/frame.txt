@@ -32,6 +32,7 @@ Related:
 - /terms/routing-format
 - /terms/sibling
 - /terms/slot
+- /terms/soup
 - /terms/stack-activation-record
 - /terms/viewframe
 

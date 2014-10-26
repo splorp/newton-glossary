@@ -10,9 +10,12 @@ A small piece of code intended to fix or modify a larger software program.
 
 Related:
 
-- /terms/cold-boot
+- /terms/jumptable
+- /terms/patchable-jumptable
+- /terms/public-jumptable
 - /terms/rom-patch
 - /terms/system-patch
+- /terms/system-patch-pages
 - /terms/system-update
 
 ----

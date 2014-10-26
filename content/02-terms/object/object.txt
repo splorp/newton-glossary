@@ -30,6 +30,7 @@ Related:
 - /terms/path-expression
 - /terms/pointer
 - /terms/reference
+- /terms/soup
 - /terms/stream-file
 - /terms/vbo
 - /terms/virtual-binary-object

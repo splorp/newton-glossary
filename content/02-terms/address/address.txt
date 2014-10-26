@@ -18,6 +18,7 @@ Related:
 - /terms/mmu-tables
 - /terms/physical-address
 - /terms/pointer
+- /terms/system-memory
 - /terms/virtual-address
 
 ----

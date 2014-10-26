@@ -11,8 +11,6 @@ Related:
 
 - /terms/newton-intelligence
 - /terms/newton-os
-- /terms/nsg
-
 
 ----
 

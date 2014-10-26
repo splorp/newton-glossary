@@ -15,4 +15,5 @@ Related:
 - /terms/nck
 - /terms/newton-connection-kit
 - /terms/rdcl
+- /terms/synchronize
 - /terms/workfile

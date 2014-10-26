@@ -12,7 +12,10 @@ Related:
 
 - /terms/highlight
 - /terms/pen
+- /terms/select
+- /terms/selection
 - /terms/squeak
+- /terms/user-interface
 
 ----
 

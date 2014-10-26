@@ -11,4 +11,5 @@ A standard modular telephone connector, used mainly in North America. Similar to
 Related:
 
 - /terms/rj-45
+- /terms/tae
 - /terms/xjack

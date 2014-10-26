@@ -12,6 +12,7 @@ Related:
 
 - /terms/arm
 - /terms/cpu
+- /terms/hobbit
 - /terms/implant
 - /terms/main-logic-board
 - /terms/memory-management-unit
