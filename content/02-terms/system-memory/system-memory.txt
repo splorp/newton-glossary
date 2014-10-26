@@ -1,0 +1,23 @@
+Title: System Memory
+
+----
+
+Text:
+
+The random access storage used by a computer to store information, programs, and other data. System memory is often confused with [System RAM](/terms/system-ram), which is the amount of physical [RAM](/terms/ram) installed in a device.
+
+----
+
+Related:
+
+- /terms/dram
+- /terms/flash-ram
+- /terms/ram
+- /terms/sram
+- /terms/system-ram
+
+----
+
+Source:
+
+- /sources/pg

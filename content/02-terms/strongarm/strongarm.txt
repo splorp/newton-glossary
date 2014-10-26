@@ -1,0 +1,22 @@
+Title: StrongARM
+
+----
+
+Text:
+
+The low-power [RISC](/terms/risc) processor used in [Newton OS](/terms/newton-os) devices, developed by [ARM](/terms/arm) in conjunction with [Digital Equipment Corporation](http://en.wikipedia.org/wiki/Digital_Equipment_Corporation).
+
+----
+
+Related:
+
+- /terms/arm
+- /terms/central-processing-unit
+- /terms/cpu
+- /terms/risc
+
+----
+
+Source:
+
+- /sources/te

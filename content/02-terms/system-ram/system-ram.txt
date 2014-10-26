@@ -1,0 +1,24 @@
+Title: System RAM
+
+----
+
+Text:
+
+The total amount of [DRAM](/terms/dram) installed in a [Newton OS](/terms/newton-os) device. The amount of available RAM is displayed in the [Memory Info Slip](/terms/memory-info-slip).
+
+----
+
+Related:
+
+- /terms/dram
+- /terms/flash-ram
+- /terms/ram
+- /terms/sram
+- /terms/system-memory
+- /terms/memory-info-slip
+
+----
+
+Source:
+
+- /sources/pg

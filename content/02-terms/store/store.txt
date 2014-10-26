@@ -1,0 +1,28 @@
+Title: Store
+
+----
+
+Text:
+
+A physical repository that can contain [soups](/terms/soup) and [packages](/terms/package). A store is like a disk volume on a desktop or laptop computer.
+
+----
+
+Related:
+
+- /terms/external-store
+- /terms/internal-store
+- /terms/package-store
+- /terms/soup
+- /terms/storage
+- /terms/storage-card
+- /terms/store-part
+- /terms/union-soup
+- /terms/usage-storage
+- /terms/virtual-memory
+
+----
+
+Source:
+
+- /sources/npg

@@ -1,0 +1,21 @@
+Title: Synchronize
+
+----
+
+Text:
+
+A process where the data stored in two different locations is compared and updated so that both copies end up the same. For example, [Newton Connection Utilities](/terms/newton-connection-utilities) can synchronize data between a [Newton OS](/terms/newton-os) device and a desktop computer.
+
+----
+
+Related:
+
+- /terms/desktop-integration-library
+- /terms/newton-connection
+- /terms/newton-connection-kit
+- /terms/newton-connection-utilities
+- /terms/newtourage
+- /terms/now-up-to-date
+- /terms/sync
+- /terms/synchronization
+- /terms/workfile

@@ -1,0 +1,28 @@
+Title: System Reset
+
+----
+
+Text:
+
+A method of resetting a Newton device by removing the batteries and any external power sources. A system reset may result in some loss of data and preference settings, depending on the device.
+
+----
+
+Related:
+
+- /terms/brain-wipe
+- /terms/cold-boot
+- /terms/deep-reset
+- /terms/hard-reset
+- /terms/hardware-reset
+- /terms/power-reset
+- /terms/reset
+- /terms/reset-button
+- /terms/soft-reset
+- /terms/software-reset
+
+----
+
+Source:
+
+- /sources/mp2kug

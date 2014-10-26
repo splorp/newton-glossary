@@ -1,0 +1,7 @@
+Title: Synchronization
+
+----
+
+Text:
+
+See [Synchronize](/terms/synchronize)

@@ -1,0 +1,23 @@
+Title: RISC
+
+----
+
+Text:
+
+Reduced Instruction Set Computer. A processor designed to execute a rapid sequence of simple instructions rather than a large variety of complex instructions.
+
+----
+
+Related:
+
+- /terms/arm
+- /terms/central-processing-unit
+- /terms/cpu
+- /terms/risc
+- /terms/strongarm
+
+----
+
+Source:
+
+- /sources/te
