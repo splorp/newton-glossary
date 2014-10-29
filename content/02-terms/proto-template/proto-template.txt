@@ -10,6 +10,7 @@ A predefined [template](/terms/template) that defines the appearance and behavio
 
 Related:
 
+- /terms/declaring-a-template
 - /terms/proto
 - /terms/template
 

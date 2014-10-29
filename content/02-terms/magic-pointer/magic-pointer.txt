@@ -4,7 +4,7 @@ Title: Magic Pointer
 
 Text:
 
-A [constant](/terms/constant) that represents a special kind of [reference](/terms/reference) to an object in the Newton [ROM](/terms/rom). Magic pointer references are resolved at run time by the operating system, which substitutes the actual [address](/terms/address) of the object in ROM for the magic pointer reference.
+A [constant](/terms/constant) that represents a special kind of [reference](/terms/reference) to an object in the Newton [ROM](/terms/rom). Magic pointer references are resolved at run time by the [operating system](terms/operating-system), which substitutes the actual [address](/terms/address) of the object in ROM for the magic pointer reference.
 
 ----
 

@@ -4,7 +4,7 @@ Title: Store
 
 Text:
 
-A physical repository that can contain [soups](/terms/soup) and [packages](/terms/package). A store is like a disk volume on a desktop or laptop computer.
+A physical repository that can contain [soups](/terms/soup) and [packages](/terms/package). A store is like a disk volume on a [desktop computer](/terms/desktop-computer) or laptop.
 
 ----
 

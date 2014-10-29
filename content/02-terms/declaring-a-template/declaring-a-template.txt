@@ -12,6 +12,7 @@ Related:
 
 - /terms/method
 - /terms/parent
+- /terms/proto-template
 - /terms/slot
 - /terms/template
 - /terms/view

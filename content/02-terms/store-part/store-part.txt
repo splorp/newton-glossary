@@ -4,7 +4,7 @@ Title: Store Part
 
 Text:
 
-A [part](/terms/part) that encapsulates a read only [store](/terms/store). This store may contain one or more [soup](/terms/soup) objects. Store parts permit soup-like access to read only data residing in a [package](/terms/package). Store parts are sometimes referred to as [package stores](/terms/package-store).
+A [part](/terms/part) that encapsulates a read-only [store](/terms/store). This store may contain one or more [soup](/terms/soup) objects. Store parts permit soup-like access to read-only data residing in a [package](/terms/package). Store parts are sometimes referred to as [package stores](/terms/package-store).
 
 ----
 

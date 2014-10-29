@@ -4,7 +4,7 @@ Title: Protocol
 
 Text:
 
-A predetermined set of conventions for communications between two computers, such as the protocol used to communicate between a desktop computer and a Newton device.
+A predetermined set of conventions for communications between two computers, such as the protocol used to communicate between a [desktop computer](/terms/desktop-computer) and a Newton device.
 
 ----
 

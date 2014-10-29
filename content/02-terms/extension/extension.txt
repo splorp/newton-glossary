@@ -4,7 +4,7 @@ Title: Extension
 
 Text:
 
-A [package](/terms/package) that adds some sort of functionality to the operating system or other packages.
+A [package](/terms/package) that adds some sort of functionality to the [operating system](terms/operating-system) or other packages.
 
 ----
 

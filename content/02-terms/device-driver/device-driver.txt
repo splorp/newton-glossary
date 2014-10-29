@@ -4,7 +4,7 @@ Title: Device Driver
 
 Text:
 
-A software program that facilitates the connection of a peripheral device to an operating system.
+A software program that facilitates the connection of a peripheral device to an [operating system](terms/operating-system).
 
 ----
 

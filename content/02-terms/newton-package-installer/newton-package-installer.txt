@@ -4,7 +4,7 @@ Title: Newton Package Installer
 
 Text:
 
-Software developed by [Apple](http://apple.com/) that allows users to install [packages](/terms/package) on a Newton device from a desktop computer. Also referred to as [NPI](/terms/npi).
+Software developed by [Apple](http://apple.com/) that allows users to install [packages](/terms/package) on a Newton device from a [desktop computer](/terms/desktop-computer). Also referred to as [NPI](/terms/npi).
 
 ----
 
