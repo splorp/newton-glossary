@@ -188,11 +188,20 @@ footer a:hover {
 		margin: 0 auto;
 		width: 90%;
 		}
+	h1,
+	header h1 {
+		font-size: 20px;
+		line-height: 40px;
+		margin-bottom: 10px;
+		}
 	p {
 		margin-bottom: 20px;
 		max-width: 100%;
 		}
 
+	header p {
+		display: none;
+		}
 	section.content {
 		margin-top: 20px;
 		}
