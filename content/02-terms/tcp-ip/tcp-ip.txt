@@ -1,0 +1,23 @@
+Title: TCP/IP
+
+----
+
+Text:
+
+Transmission Control Protocol over Internet Protocol. The standard routable data transmission [protocol](/terms/protocol) for networking based on transport layer ([TCP](/terms/tcp)) and network layer ([IP](/terms/ip)) protocols.
+
+----
+
+Related:
+
+- /terms/dhcp
+- /terms/ip
+- /terms/newton-internet-enabler
+- /terms/protocol
+- /terms/tcp
+
+----
+
+Source:
+
+- /sources/foldoc

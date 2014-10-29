@@ -1,0 +1,23 @@
+Title: TCP
+
+----
+
+Text:
+
+Transmission Control Protocol. Part of the [TCP/IP](/terms/tcp-ip) communications [protocol](/terms/protocol). TCP provides transport functions that ensure the total amount of bytes sent is received correctly at the other end.
+
+----
+
+Related:
+
+- /terms/dhcp
+- /terms/ip
+- /terms/newton-internet-enabler
+- /terms/protocol
+- /terms/tcp-ip
+
+----
+
+Source:
+
+- /sources/te

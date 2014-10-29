@@ -1,0 +1,24 @@
+Title: Template
+
+----
+
+Text:
+
+A read-only data structure that precisely specifies a [view](/terms/view), encapsulating all the view’s attributes and behaviors.
+
+----
+
+Related:
+
+- /terms/declaring-a-template
+- /terms/method
+- /terms/parent
+- /terms/proto-template
+- /terms/slot
+- /terms/view
+
+----
+
+Source:
+
+- /sources/nuig

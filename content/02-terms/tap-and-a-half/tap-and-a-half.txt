@@ -1,0 +1,21 @@
+Title: Tap And A Half
+
+----
+
+Text:
+
+To [tap](/terms/tap), then quickly lift, touch, and hold the [pen](/terms/pen) in the same spot on the screen/ Essentially, the pen performs a down, up, down action.
+
+----
+
+Related:
+
+- /terms/double-tap
+- /terms/tap
+- /terms/tapping
+
+----
+
+Source:
+
+- /sources/nuig

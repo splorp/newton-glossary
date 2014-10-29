@@ -1,0 +1,15 @@
+Title: Tap
+
+----
+
+Text:
+
+The repeated action of briefly touching the screen with the [pen](/terms/pen). Essentially the same action as clicking a mouse or trackpad button repeatedly on a [desktop computer](/terms/desktop-computer), laptop, or equivalent device.
+
+----
+
+Related:
+
+- /terms/double-tap
+- /terms/tap
+- /terms/tap-and-a-half

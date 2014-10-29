@@ -1,0 +1,27 @@
+Title: Text Button
+
+----
+
+Text:
+
+A [control](/terms/control) bordered by a [rounded rectangle](/terms/rounded-rectangle) that the user [taps](/terms/tap) to designate, confirm, or cancel an action described by a text label inside the border.
+
+----
+
+Related:
+
+- /terms/action-button
+- /terms/button
+- /terms/envelope-button
+- /terms/large-close-box
+- /terms/picture-button
+- /terms/picture-radio-button
+- /terms/routing-button
+- /terms/tag-button
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/nuig
