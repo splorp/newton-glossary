@@ -13,6 +13,7 @@ Related:
 - /terms/flash-ram
 - /terms/ram
 - /terms/sram
+- /terms/tsop
 
 ----
 

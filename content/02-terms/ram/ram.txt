@@ -16,6 +16,7 @@ Related:
 - /terms/sram
 - /terms/system-memory
 - /terms/system-ram
+- /terms/tsop
 
 ----
 

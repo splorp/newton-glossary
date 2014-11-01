@@ -15,6 +15,7 @@ Related:
 - /terms/flash-card
 - /terms/ram
 - /terms/sram
+- /terms/tsop
 
 ----
 

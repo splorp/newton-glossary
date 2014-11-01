@@ -17,6 +17,7 @@ Related:
 - /terms/project-build
 - /terms/project-file
 - /terms/resource-file
+- /terms/text-file
 
 ----
 

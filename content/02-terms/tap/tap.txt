@@ -11,6 +11,7 @@ To touch the screen briefly with the [pen](/terms/pen). Essentially the same act
 Related:
 
 - /terms/double-tap
+- /terms/pen
 - /terms/tap-and-a-half
 - /terms/tapping
 

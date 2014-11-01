@@ -10,4 +10,8 @@ The handheld instrument used to enter data into a Newton device via the screen. 
 
 Related:
 
+- /terms/double-tap
 - /terms/stylus
+- /terms/tap
+- /terms/tap-and-a-half
+- /terms/tapping

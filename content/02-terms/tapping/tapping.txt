@@ -11,5 +11,6 @@ The repeated action of briefly touching the screen with the [pen](/terms/pen). E
 Related:
 
 - /terms/double-tap
+- /terms/pen
 - /terms/tap
 - /terms/tap-and-a-half
