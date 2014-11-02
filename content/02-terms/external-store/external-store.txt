@@ -17,4 +17,4 @@ Related:
 - /terms/pcmcia
 - /terms/storage-card
 - /terms/store
-- /terms/usage-storage
+- /terms/user-storage

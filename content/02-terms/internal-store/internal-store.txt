@@ -14,4 +14,4 @@ Related:
 - /terms/store
 - /terms/system-memory
 - /terms/system-ram
-- /terms/usage-storage
+- /terms/user-storage
