@@ -8,6 +8,14 @@ A standard for serial communication between computers and peripheral devices suc
 
 ----
 
+Related:
+
+- /terms/geoport
+- /terms/rs422
+- /terms/usb
+
+----
+
 Source:
 
 - /sources/te

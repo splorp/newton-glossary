@@ -14,6 +14,7 @@ Related:
 - /terms/dongle-destroyer
 - /terms/mini-din
 - /terms/newton-interconnect
+- /terms/usb
 
 ----
 

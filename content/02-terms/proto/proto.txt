@@ -10,13 +10,16 @@ A [frame](/terms/frame) referenced through another frame’s `_proto` [slot](/te
 
 Related:
 
+- /terms/endpoint
 - /terms/frame
 - /terms/instantiate
 - /terms/message
 - /terms/proto-template
 - /terms/reference
 - /terms/slot
+- /terms/system-proto
 - /terms/template
+- /terms/user-proto
 - /terms/view
 
 ----

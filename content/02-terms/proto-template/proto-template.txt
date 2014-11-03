@@ -12,7 +12,9 @@ Related:
 
 - /terms/declaring-a-template
 - /terms/proto
+- /terms/system-proto
 - /terms/template
+- /terms/user-proto
 
 ----
 

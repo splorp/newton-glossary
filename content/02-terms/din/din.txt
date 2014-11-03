@@ -12,6 +12,7 @@ Related:
 
 - /terms/din-8
 - /terms/mini-din
+- /terms/usb
 
 ----
 

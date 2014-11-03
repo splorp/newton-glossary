@@ -17,6 +17,7 @@ Related:
 - /terms/dongle-destroyer
 - /terms/jae
 - /terms/nic
+- /terms/usb
 
 ----
 

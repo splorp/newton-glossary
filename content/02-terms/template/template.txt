@@ -16,6 +16,7 @@ Related:
 - /terms/proto-template
 - /terms/slot
 - /terms/view
+- /terms/user-proto
 
 ----
 
