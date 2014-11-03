@@ -6,7 +6,7 @@ Text:
 
 The majority of terms found in this glossary were compiled between 2001 and 2004 by [Grant Hutchinson](http://splorp.com/). Numerous [sources](/sources) were used, along with plenty of help from [Paul Guyot](http://www.kallisys.com/), [Victor Rehorst](http://www.chuma.org/), and countless members of the [NewtonTalk](http://newtontalk.net/) community.
 
-Although it’s a bit out of date, there is also a [searchable version](http://tools.unna.org/glossary/) of the glossary currently maintained by [Morgan Aldridge](https://github.com/morgant) as part of the [United Network of Newton Archives](http://www.unna.org/).
+Although it’s a bit out of date, there is also a [searchable version](http://tools.unna.org/glossary/) of the glossary currently maintained by [Morgan Aldridge](http://www.makkintosshu.com/) as part of the [United Network of Newton Archives](http://www.unna.org/).
 
 ## Join The Fun!
 

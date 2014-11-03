@@ -10,7 +10,7 @@
 
 The bulk of the terms found in this glossary were compiled from numerous [sources](http://glossary.splorp.me/sources) by [Grant Hutchinson](http://splorp.com/) between 2001 and 2004, with help from [Paul Guyot](http://www.kallisys.com/), [Victor Rehorst](http://www.chuma.org/), and countless members of the [NewtonTalk](http://newtontalk.net/) community.
 
-There is also a [searchable version](http://tools.unna.org/glossary/) of the glossary created by Victor Rehorst and currently maintained by [Morgan Aldridge](https://github.com/morgant) as part of the [United Network of Newton Archives](http://www.unna.org/).
+There is also a [searchable version](http://tools.unna.org/glossary/) of the glossary created by Victor Rehorst and currently maintained by [Morgan Aldridge](http://www.makkintosshu.com/) as part of the [United Network of Newton Archives](http://www.unna.org/).
 
 As with any specialized compendium, the contents are never perfect or completely finished. All suggestions, corrections, complaints, and [pull requests](https://github.com/splorp/newton-glossary/pulls) will be happily accepted. If possible, please use the project’s [issue tracker](https://github.com/splorp/newton-glossary/issues) for any input you might have.
 
