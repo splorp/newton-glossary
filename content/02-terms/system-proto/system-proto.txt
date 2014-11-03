@@ -1,0 +1,7 @@
+Title: System Proto
+
+----
+
+Text:
+
+See [Proto Template](/terms/proto-template)

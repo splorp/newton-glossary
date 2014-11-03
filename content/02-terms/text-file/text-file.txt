@@ -1,0 +1,26 @@
+Title: Text File
+
+----
+
+Text:
+
+A file containing text-based data that is compiled by [Newton Toolkit](/terms/newton-toolkit) during a [project build](/terms/project-build).
+
+----
+
+Related:
+
+- /terms/bitmap
+- /terms/build
+- /terms/newton-toolkit
+- /terms/project
+- /terms/project-build
+- /terms/project-file
+- /terms/resource
+- /terms/resource-file
+
+----
+
+Source:
+
+- /sources/ntk

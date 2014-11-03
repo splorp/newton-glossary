@@ -1,0 +1,20 @@
+Title: Type Ahead
+
+----
+
+Text:
+
+The process by which the [Newton OS](/terms/newton-os) stores keystrokes — typed faster than the system can immediately process — for later processing.
+
+----
+
+Related:
+
+- /terms/auto-repeat
+- /terms/keyboard-equivalent
+
+----
+
+Source:
+
+- /sources/nuig

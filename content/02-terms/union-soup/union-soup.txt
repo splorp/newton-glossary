@@ -1,0 +1,26 @@
+Title: Union Soup
+
+----
+
+Text:
+
+A [soup](/terms/soup) that exists on multiple [stores](/terms/store).
+
+----
+
+Related:
+
+- /terms/external-store
+- /terms/internal-store
+- /terms/package
+- /terms/package-store
+- /terms/soup
+- /terms/store
+- /terms/store-part
+- /terms/part
+
+----
+
+Source:
+
+- /sources/vr

@@ -1,0 +1,26 @@
+Title: USB
+
+----
+
+Text:
+
+Universal Serial Bus. A hardware interface standard for low speed, serial peripherals such as keyboards, mice, and other input devices. USB devices can be hot swapped.
+
+----
+
+Related:
+
+- /terms/din
+- /terms/dongle
+- /terms/dongle-destroyer
+- /terms/geoport
+- /terms/mini-din
+- /terms/newton-interconnect
+- /terms/rs232
+- /terms/rs422
+
+----
+
+Source:
+
+- /sources/te

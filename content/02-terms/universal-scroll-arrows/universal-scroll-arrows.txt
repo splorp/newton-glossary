@@ -1,0 +1,29 @@
+Title: Universal Scroll Arrows
+
+----
+
+Text:
+
+A pair of icon-based [buttons](/terms/button) used to [scroll](/terms/scroll) displayed data, located in the standard [button bar](/terms/button-bar) on all [Newton OS](/terms/newton-os) devices.
+
+----
+
+Related:
+
+- /terms/button
+- /terms/button-bar
+- /terms/clank
+- /terms/clanking
+- /terms/icon
+- /terms/local-scroll-arrows
+- /terms/picture-button
+- /terms/scroll
+- /terms/scroll-arrows
+- /terms/scrolling-list
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/gh

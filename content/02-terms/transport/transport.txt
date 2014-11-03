@@ -1,0 +1,24 @@
+Title: Transport
+
+----
+
+Text:
+
+An [object](/terms/object) in [NewtonScript](/terms/newtonscript) that provides a communication service to the [In/Out Box](/terms/in-out-box) application, interfacing with an [endpoint](/terms/endpoint). Examples include the print, fax, [beam](/terms/beam), and mail transports.
+
+----
+
+Related:
+
+- /terms/endpoint
+- /terms/in-box
+- /terms/in-out-box
+- /terms/out-box
+- /terms/routing
+- /terms/simplemail
+
+----
+
+Source:
+
+- /sources/npg

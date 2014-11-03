@@ -1,0 +1,26 @@
+Title: Thaw
+
+----
+
+Text:
+
+To restore the activity of an [application](/terms/application) or [extension](/terms/extension) package. Thawing a [package](/terms/package) is similar to activating an [external store](/terms/external-store) — such as a [PC Card](/terms/pc-card) — that a package is stored on.
+
+To suspend a package, you [freeze](/terms/freeze) it.
+
+----
+
+Related:
+
+- /terms/freeze
+- /terms/freezing
+- /terms/frozen
+- /terms/frozen-package
+- /terms/grip-of-death
+- /terms/heap
+- /terms/heap-space
+- /terms/package
+- /terms/snowflake
+- /terms/thawed
+- /terms/thawed-package
+- /terms/thawing

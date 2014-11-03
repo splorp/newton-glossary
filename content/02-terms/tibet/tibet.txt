@@ -1,0 +1,9 @@
+Title: Tibet
+
+----
+
+Text:
+
+Software developed by Russell Tait of [Compass Information Systems](http://web.archive.org/web/20010721235601/http://compassinfo.com/) which allowed users to capture, store, and share images using a Newton device and a digital camera.
+
+_cf. (link:http://web.archive.org/web/20010805072031/http://www.compassinfo.com/tibet/)_
