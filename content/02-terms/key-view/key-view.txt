@@ -26,6 +26,8 @@ Related:
 - /terms/sibling-view
 - /terms/type-ahead
 - /terms/view
+- /terms/view-class
+- /terms/view-definition
 
 ----
 

@@ -16,6 +16,8 @@ Related:
 - /terms/root-view
 - /terms/sibling
 - /terms/view
+- /terms/view-class
+- /terms/view-definition
 
 ----
 

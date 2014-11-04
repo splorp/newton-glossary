@@ -10,9 +10,10 @@ A view [template](/terms/template) that defines how to display data from a parti
 
 Related:
 
-- /terms/datadef
 - /terms/data-definition
+- /terms/datadef
 - /terms/template
+- /terms/view-class
 - /terms/viewdef
 
 ----

@@ -13,6 +13,8 @@ Related:
 - /terms/layout-file
 - /terms/parent
 - /terms/view
+- /terms/view-class
+- /terms/view-definition
 
 ----
 

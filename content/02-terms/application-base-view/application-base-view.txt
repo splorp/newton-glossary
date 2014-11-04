@@ -21,6 +21,8 @@ Related:
 - /terms/root-view
 - /terms/sibling-view
 - /terms/view
+- /terms/view-class
+- /terms/view-definition
 
 ----
 
