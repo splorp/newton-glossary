@@ -12,9 +12,11 @@ Related:
 
 - /terms/dram
 - /terms/flash-ram
+- /terms/heap-space
 - /terms/ram
 - /terms/sram
 - /terms/system-ram
+- /terms/user-storage
 
 ----
 

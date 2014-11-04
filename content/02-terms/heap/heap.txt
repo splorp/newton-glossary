@@ -11,10 +11,12 @@ An area of memory reserved for use by programs. On a Newton device, heap often r
 Related:
 
 - /terms/c-heap
+- /terms/frames-heap
 - /terms/freeze
 - /terms/grip-of-death
 - /terms/heap-space
 - /terms/newtonscript-heap
+- /terms/system-heap
 - /terms/system-memory
 
 ----

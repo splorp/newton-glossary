@@ -10,9 +10,12 @@ One part of reserved memory used specifically by native program [functions](/ter
 
 Related:
 
+- /terms/frames-heap
 - /terms/function
 - /terms/heap
+- /terms/heap-space
 - /terms/newtonscript-heap
+- /terms/system-heap
 - /terms/system-memory
 
 ----

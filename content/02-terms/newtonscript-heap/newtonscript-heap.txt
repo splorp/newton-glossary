@@ -11,10 +11,12 @@ An area of memory used by the system for dynamically allocated [objects](/terms/
 Related:
 
 - /terms/c-heap
+- /terms/frames-heap
 - /terms/heap
 - /terms/newtonscript
 - /terms/object
 - /terms/script
+- /terms/system-heap
 - /terms/system-memory
 
 ----

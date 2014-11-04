@@ -4,10 +4,11 @@ Title: Personal Interactive Electronics
 
 Text:
 
-A short lived division of [Apple](http://apple.com/) which handled the development and marketing of the Newton platform.
+A short lived division of [Apple](http://apple.com/) which handled the development and marketing of the Newton platform. Commonly referred to as [PIE](/terms/pie).
 
 ----
 
 Related:
 
+- /terms/pie
 - /terms/starcore

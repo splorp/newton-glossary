@@ -4,14 +4,17 @@ Title: Alert Box
 
 Text:
 
-A [view](/terms/view) that appears on the screen to warn the user or report an error.
+A [container view](/terms/container-view) that appears on the screen to warn the user or report an error.
 
 ----
 
 Related:
 
 - /terms/alert-sound
+- /terms/container-view
 - /terms/notification-slip
+- /terms/status-box
+- /terms/status-slip
 - /terms/view
 
 ----
