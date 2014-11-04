@@ -4,7 +4,7 @@ Title: Heap
 
 Text:
 
-An area of memory reserved for use by programs. On a Newton device, heap often refers specifically to the [NewtonScript heap](/terms/newtonscript-heap).
+The area of [system memory](/terms/system-memory) reserved for use by program functions and executable code. On a Newton device, heap often refers specifically to the [NewtonScript heap](/terms/newtonscript-heap) and [C++ heap](/terms/c-heap). Heap is also referred to as [frames heap](/terms/frames-heap).
 
 ----
 
@@ -24,3 +24,4 @@ Related:
 Source:
 
 - /sources/pg
+- /sources/hfaq

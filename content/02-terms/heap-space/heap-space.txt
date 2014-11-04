@@ -4,4 +4,10 @@ Title: Heap Space
 
 Text:
 
-See [Heap](/terms/heap)
+See [System Memory](/terms/system-memory)
+
+----
+
+Source:
+
+- /sources/hfaq
