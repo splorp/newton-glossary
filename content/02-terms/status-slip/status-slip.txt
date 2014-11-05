@@ -1,0 +1,31 @@
+Title: Status Slip
+
+----
+
+Text:
+
+A [view](/terms/view) displayed by an [application](/terms/application) when it begins an operation that takes more than a few seconds to complete. A status slip contains a message describing the application’s busy status.
+
+----
+
+Related:
+
+- /terms/call-slip
+- /terms/confirmation-slip
+- /terms/container-view
+- /terms/find-slip
+- /terms/info-slip
+- /terms/item-info-slip
+- /terms/notification-slip
+- /terms/routing-slip
+- /terms/slip
+- /terms/status-box
+- /terms/status-slip
+- /terms/system-ram
+- /terms/view
+
+----
+
+Source:
+
+- /sources/nuig

@@ -1,0 +1,13 @@
+Title: Frames Heap
+
+----
+
+Text:
+
+See [Heap](/terms/heap)
+
+----
+
+Source:
+
+- /sources/hfaq

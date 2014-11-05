@@ -1,0 +1,23 @@
+Title: Status Box
+
+----
+
+Text:
+
+A black-framed [container view](/terms/container-view) displaying a static message indicating that the Newton device is busy completing a lengthy process.
+
+----
+
+Related:
+
+- /terms/alert-box
+- /terms/container-view
+- /terms/notification-slip
+- /terms/status-slip
+- /terms/view
+
+----
+
+Source:
+
+- /sources/nuig

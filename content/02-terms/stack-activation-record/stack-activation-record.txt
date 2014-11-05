@@ -1,0 +1,25 @@
+Title: Stack Activation Record
+
+----
+
+Text:
+
+A [frame](/terms/frame) on the [function call stack](/terms/function-call-stack) that describes a [function](/terms/function) that has not yet completed execution. A stack activation record contains a [pointer](/terms/pointer) to the next instruction to be executed. Specifically, the function’s [receiver](/terms/receiver) and [implementor](/terms/implementor) — if they exist — and the function’s associated parameters, temporary variables, and named variables.
+
+----
+
+Related:
+
+- /terms/frame
+- /terms/function
+- /terms/function-call-stack
+- /terms/implementor
+- /terms/pointer
+- /terms/receiver
+- /terms/stack
+
+----
+
+Source:
+
+- /sources/ntk

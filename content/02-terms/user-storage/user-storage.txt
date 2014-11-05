@@ -1,0 +1,24 @@
+Title: User Storage
+
+----
+
+Text:
+
+The portion of memory used for permanent user data and installed [packages](/terms/package). User storage is analogous to disk storage on a [desktop computer](/terms/desktop-computer) or laptop.
+
+----
+
+Related:
+
+- /terms/external-store
+- /terms/internal-store
+- /terms/ram
+- /terms/store
+- /terms/system-memory
+- /terms/system-ram
+
+----
+
+Source:
+
+- /sources/hfaq

@@ -1,0 +1,14 @@
+Title: StarCore
+
+----
+
+Text:
+
+The software publishing group within Apple’s [Personal Interactive Electronics](/terms/personal-interactive-electronics) (PIE) division. StarCore working directly with information providers and developers, distributing [Newton OS](/terms/newton-os) software titles on both [PC card](/terms/pc-card) and floppy disk.
+
+----
+
+Related:
+
+- /terms/pie
+- /terms/starcore
