@@ -4,7 +4,7 @@ Title: Extras Drawer
 
 Text:
 
-A built-in [container view](/terms/container-view) that displays named [picture buttons](/terms/picture-button) or [icons](/terms/icon) a user can [tap](/terms/tap) to open [applications](/terms/application).
+A built-in [container view](/terms/container-view) that displays named [picture buttons](/terms/picture-button) or [icons](/terms/icon) a user can [tap](/terms/tap) to open [applications](/terms/application). The Extras Drawer is also used to set the default [backdrop](/terms/backdrop) application.
 
 ----
 

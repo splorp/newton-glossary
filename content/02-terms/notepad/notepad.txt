@@ -4,7 +4,7 @@ Title: Notepad
 
 Text:
 
-The built-in [application](/terms/application) for recording and organizing notes and outlines, which may contain text, [ink text](/terms/ink-text), [shapes](/terms/shape), and [pictures](/terms/picture). Also referred to as [Notes](/terms/notes).
+The built-in [application](/terms/application) for recording and organizing notes and outlines, which may contain text, [ink text](/terms/ink-text), [shapes](/terms/shape), and [pictures](/terms/picture). On a [MessagePad](/terms/messagepad) device, Notepad is the default [backdrop](/terms/backdrop) application. Also referred to as [Notes](/terms/notes).
 
 ----
 
