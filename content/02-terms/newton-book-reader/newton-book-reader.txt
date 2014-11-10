@@ -10,14 +10,10 @@ An [application](/terms/application) built into the [Newton OS](/terms/newton-os
 
 Related:
 
-- /terms/book
-- /terms/book-maker
 - /terms/book-reader
 - /terms/help-book
 - /terms/newton-book
 - /terms/newton-book-maker
-- /terms/newton-book-reader
-- /terms/newton-digital-book
 - /terms/newton-press
 
 ----

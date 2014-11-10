@@ -10,8 +10,6 @@ A [Newton Book Maker](/terms/newton-book-maker) command that defines the [layout
 
 Related:
 
-- /terms/book
-- /terms/book-maker
 - /terms/book-maker-commands
 - /terms/book-source-file
 - /terms/content-command
@@ -21,7 +19,6 @@ Related:
 - /terms/layout
 - /terms/newton-book
 - /terms/newton-book-maker
-- /terms/newton-digital-book
 
 ----
 

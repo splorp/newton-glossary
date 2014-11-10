@@ -10,8 +10,6 @@ The specific placement of text and graphics on the page of a [Newton book](/term
 
 Related:
 
-- /terms/book
-- /terms/book-maker
 - /terms/book-maker-commands
 - /terms/book-source-file
 - /terms/content-command
@@ -21,7 +19,6 @@ Related:
 - /terms/layout-command
 - /terms/newton-book
 - /terms/newton-book-maker
-- /terms/newton-digital-book
 - /terms/page-script
 
 ----

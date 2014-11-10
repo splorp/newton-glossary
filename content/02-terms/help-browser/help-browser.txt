@@ -10,14 +10,10 @@ An outline-based help screen interface that uses [help book](help-book) data cre
 
 Related:
 
-- /terms/book
-- /terms/book-maker
-- /terms/book-reader
 - /terms/help-book
 - /terms/newton-book
 - /terms/newton-book-maker
 - /terms/newton-book-reader
-- /terms/newton-digital-book
 - /terms/newton-press
 
 ----

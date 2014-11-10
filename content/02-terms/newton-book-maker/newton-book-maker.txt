@@ -10,17 +10,14 @@ An [application](/terms/application) that processes a [book source file](/terms/
 
 Related:
 
-- /terms/book
 - /terms/book-definition-file
 - /terms/book-source-file
 - /terms/book-maker
 - /terms/book-maker-commands
-- /terms/book-reader
 - /terms/help-book
 - /terms/help-browser
 - /terms/newton-book
 - /terms/newton-book-reader
-- /terms/newton-digital-book
 - /terms/newton-press
 
 ----

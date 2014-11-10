@@ -12,7 +12,6 @@ Sometimes referred to as [dot commands](/terms/dot-commands) because the command
 
 Related:
 
-- /terms/book
 - /terms/book-commands
 - /terms/book-source-file
 - /terms/content-command
@@ -22,7 +21,6 @@ Related:
 - /terms/layout-command
 - /terms/newton-book
 - /terms/newton-book-maker
-- /terms/newton-digital-book
 
 ----
 

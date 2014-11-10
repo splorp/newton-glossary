@@ -10,14 +10,10 @@ The electronic document produced by [Newton Book Maker](/terms/newton-book-maker
 
 Related:
 
-- /terms/book
-- /terms/book-maker
-- /terms/book-reader
 - /terms/help-browser
 - /terms/newton-book
 - /terms/newton-book-maker
 - /terms/newton-book-reader
-- /terms/newton-digital-book
 - /terms/newton-press
 
 ----

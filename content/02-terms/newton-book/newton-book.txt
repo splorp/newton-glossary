@@ -11,8 +11,6 @@ An electronic document for viewing on a Newton device, created using software su
 Related:
 
 - /terms/book
-- /terms/book-maker
-- /terms/book-reader
 - /terms/help-book
 - /terms/help-browser
 - /terms/newton-book-maker

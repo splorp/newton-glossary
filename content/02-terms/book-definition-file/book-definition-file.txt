@@ -10,9 +10,6 @@ An output file produced by [Newton Book Maker](/terms/newton-book-maker). It is 
 
 Related:
 
-- /terms/book
-- /terms/book-maker
-- /terms/book-reader
 - /terms/book-maker-commands
 - /terms/book-source-file
 - /terms/help-book
@@ -20,7 +17,6 @@ Related:
 - /terms/newton-book
 - /terms/newton-book-maker
 - /terms/newton-book-reader
-- /terms/newton-digital-book
 - /terms/newton-toolkit
 
 ----
