@@ -13,6 +13,7 @@ Related:
 - /terms/application-base-view
 - /terms/child-view
 - /terms/container-view
+- /terms/glance
 - /terms/key-view
 - /terms/layout-view
 - /terms/main-view

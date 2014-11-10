@@ -19,7 +19,7 @@ Related:
 - /terms/store-part
 - /terms/union-soup
 - /terms/user-storage
-- /terms/virtual-memory
+- /terms/virtual-binary-object
 
 ----
 

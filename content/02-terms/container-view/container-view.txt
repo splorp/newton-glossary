@@ -13,6 +13,7 @@ Related:
 - /terms/child-view
 - /terms/frame
 - /terms/floating-container-view
+- /terms/glance
 - /terms/key-view
 - /terms/layout-view
 - /terms/main-view

@@ -8,6 +8,12 @@ Software that performs a specific task, such as the [Notepad](/terms/notepad), [
 
 ----
 
+Related:
+
+- /terms/backdrop
+
+----
+
 Source:
 
 - /sources/nuig

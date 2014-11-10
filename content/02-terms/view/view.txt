@@ -14,12 +14,14 @@ Related:
 - /terms/child-view
 - /terms/container-view
 - /terms/floating-container-view
+- /terms/glance
 - /terms/key-view
 - /terms/layout-view
 - /terms/main-view
 - /terms/object
 - /terms/origin
 - /terms/parent-view
+- /terms/region
 - /terms/root-view
 - /terms/sibling-view
 - /terms/template

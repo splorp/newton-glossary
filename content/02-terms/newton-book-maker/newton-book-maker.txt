@@ -16,6 +16,7 @@ Related:
 - /terms/book-maker-commands
 - /terms/help-book
 - /terms/help-browser
+- /terms/nbm
 - /terms/newton-book
 - /terms/newton-book-reader
 - /terms/newton-press
