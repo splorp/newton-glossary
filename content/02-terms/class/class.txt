@@ -1,0 +1,24 @@
+Title: Class
+
+----
+
+Text:
+
+A symbol that describes the data referenced by an [object](/terms/object). [Arrays](/terms/array), [frames](/terms/frame), and [binary objects](/terms/binary-object) can have user-defined classes.
+
+----
+
+Related:
+
+- /terms/array
+- /terms/binary-object
+- /terms/frame
+- /terms/object
+- /terms/view-class
+
+
+----
+
+Source:
+
+- /sources/npg

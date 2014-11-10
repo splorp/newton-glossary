@@ -1,0 +1,22 @@
+Title: Backdrop
+
+----
+
+Text:
+
+An [application](/terms/application) that is displayed when all other applications are closed and cannot be closed itself. [Notepad](/terms/notepad) is the default backdrop application on a [MessagePad](/terms/messagepad) device. [Newton Works](/terms/newton-works) is the default backdrop application on an [eMate](/terms/emate-300). Another application can set as the backdrop by using the [action picker](/terms/action-picker) located in the [Extras Drawer](/terms/extras-drawer).
+
+----
+
+Related:
+
+- /terms/application
+- /terms/extras-drawer
+- /terms/newton-works
+- /terms/notepad
+
+----
+
+Source:
+
+- /sources/nuig

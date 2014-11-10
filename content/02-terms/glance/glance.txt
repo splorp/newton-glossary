@@ -1,0 +1,21 @@
+Title: Glance
+
+----
+
+Text:
+
+A small [container view](/terms/container-view) that automatically closes after it has been displayed for a brief period. Also, if a user [taps](/terms/tap) the [view](/terms/view), it closes immediately.
+
+----
+
+Related:
+
+- /terms/container-view
+- /terms/floating-container-view
+- /terms/view
+
+----
+
+Source:
+
+- /sources/nuig
