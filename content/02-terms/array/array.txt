@@ -11,10 +11,10 @@ A sequence of numerically indexed [slots](/terms/slot) that contain [objects](/t
 Related:
 
 - /terms/array-elements
+- /terms/class
 - /terms/object
 - /terms/reference
 - /terms/slot
-= /terms/class
 
 ----
 
