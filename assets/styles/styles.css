@@ -75,6 +75,17 @@ p {
 	margin-bottom: 20px;
 	}
 
+code {
+	background-color: #F8F8F8;
+	border-radius: 3px;
+	border: 1px solid #DDD;
+	color: #333;
+	font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+	font-size: 15px;
+	padding: 3px 5px 1px 5px;
+	white-space: pre;
+	}
+
 article ul, article ol {
 	margin-bottom: 20px;
 	margin-left: 40px;
