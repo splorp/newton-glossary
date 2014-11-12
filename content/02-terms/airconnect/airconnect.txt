@@ -1,0 +1,7 @@
+Title: AirConnect
+
+----
+
+Text:
+
+See [WaveLan](/terms/wavelan)
