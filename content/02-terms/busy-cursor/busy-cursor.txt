@@ -10,7 +10,7 @@ A graphical indicator automatically displayed by the system while it is temporar
 
 Related:
 
-- /terms/cursor-user-interface
+- /terms/cursor
 - /terms/icon
 
 ----

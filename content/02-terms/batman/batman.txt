@@ -16,7 +16,7 @@ Related:
 - /terms/messagepad
 - /terms/omp
 - /terms/pocket-newton
-- /terms/wedge
+- /terms/wedge-code-name
 
 ----
 

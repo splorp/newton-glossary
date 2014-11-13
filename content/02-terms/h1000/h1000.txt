@@ -18,4 +18,4 @@ Related:
 - /terms/mp100
 - /terms/omp
 - /terms/pocket-newton
-- /terms/wedge
+- /terms/wedge-code-name
