@@ -10,8 +10,10 @@ A [part](/terms/part) that encapsulates a read-only [store](/terms/store). This 
 
 Related:
 
+- /terms/default-store
 - /terms/external-store
 - /terms/internal-store
+- /terms/member-soup
 - /terms/package
 - /terms/package-store
 - /terms/soup

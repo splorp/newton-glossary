@@ -17,6 +17,7 @@ Related:
 - /terms/entry-aliases
 - /terms/frame
 - /terms/item-frame
+- /terms/member-soup
 - /terms/name-reference
 - /terms/object
 - /terms/reference

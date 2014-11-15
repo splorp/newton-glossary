@@ -20,6 +20,7 @@ Related:
 - /terms/implementor
 - /terms/input-spec
 - /terms/item-frame
+- /terms/member-soup
 - /terms/message
 - /terms/name-reference
 - /terms/newton-streamed-object-format
@@ -35,6 +36,7 @@ Related:
 - /terms/soup
 - /terms/stack-activation-record
 - /terms/viewframe
+- /terms/union-soup
 
 ----
 

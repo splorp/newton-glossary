@@ -10,14 +10,18 @@ A [soup](/terms/soup) that exists on multiple [stores](/terms/store).
 
 Related:
 
+- /terms/default-store
+- /terms/entry
 - /terms/external-store
 - /terms/internal-store
+- /terms/member-soup
 - /terms/package
 - /terms/package-store
+- /terms/part
 - /terms/soup
+- /terms/soup-icon
 - /terms/store
 - /terms/store-part
-- /terms/part
 
 ----
 

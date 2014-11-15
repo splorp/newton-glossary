@@ -13,9 +13,11 @@ Related:
 - /terms/alias
 - /terms/entry
 - /terms/frame
+- /terms/member-soup
 - /terms/reference
 - /terms/slot
 - /terms/soup
+- /terms/union-soup
 
 ----
 

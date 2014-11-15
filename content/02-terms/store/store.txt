@@ -10,8 +10,10 @@ A physical repository that can contain [soups](/terms/soup) and [packages](/term
 
 Related:
 
+- /terms/default-store
 - /terms/external-store
 - /terms/internal-store
+- /terms/member-soup
 - /terms/package-store
 - /terms/soup
 - /terms/storage

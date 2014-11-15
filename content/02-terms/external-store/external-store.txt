@@ -11,6 +11,7 @@ A memory [card](/terms/pc-card) that stores installed [packages](/terms/package)
 Related:
 
 - /terms/card
+- /terms/default-store
 - /terms/flash-card
 - /terms/internal-store
 - /terms/pc-card
