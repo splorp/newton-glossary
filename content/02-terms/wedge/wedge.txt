@@ -1,0 +1,26 @@
+Title: Wedge (Shape)
+
+----
+
+Text:
+
+A pie-shaped segment of an [oval](/terms/oval), bounded by a pair of radii joining at the oval’s center.
+
+----
+
+Related:
+
+- /terms/arc
+- /terms/line
+- /terms/oval
+- /terms/picture
+- /terms/polygon
+- /terms/rectangle
+- /terms/rounded-rectangle
+- /terms/shape
+
+----
+
+Source:
+
+- /sources/npg

@@ -1,0 +1,27 @@
+Title: Member Soup
+
+----
+
+Text:
+
+One of the constituent [soups](/terms/soup) which comprise a [union soup](/terms/union-soup). Each member soup resides on a different [store](/terms/store).
+
+----
+
+Related:
+
+- /terms/default-store
+- /terms/external-store
+- /terms/internal-store
+- /terms/package-store
+- /terms/part
+- /terms/soup
+- /terms/store
+- /terms/store-part
+- /terms/union-soup
+
+----
+
+Source:
+
+- /sources/ir

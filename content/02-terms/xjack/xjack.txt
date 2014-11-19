@@ -1,0 +1,15 @@
+Title: Xjack
+
+----
+
+Text:
+
+An extendable [RJ-11](/terms/rj-11) connector found on [PC card](/terms/pc-card) modems.
+
+----
+
+Related:
+
+- /terms/pc-card
+- /terms/pcmcia
+- /terms/rj-11

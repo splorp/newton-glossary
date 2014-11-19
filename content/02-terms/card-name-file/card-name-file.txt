@@ -1,0 +1,22 @@
+Title: Card (Name File)
+
+----
+
+Text:
+
+A view of information pertaining to an entry in the [Name File](/terms/name-file) application [soup](/terms/soup), graphically formatted as a business card.
+
+----
+
+Related:
+
+- /terms/name-file
+- /terms/names
+- /terms/soup
+- /terms/view
+
+----
+
+Source:
+
+- /sources/npg

@@ -1,0 +1,24 @@
+Title: Wedge (Code Name)
+
+----
+
+Text:
+
+One of the code names for the [MessagePad 100](/terms/messagepad-100) device. Also referred to as [Junior](/terms/junior).
+
+----
+
+Related:
+
+- /terms/batman
+- /terms/batmobile
+- /terms/h1000
+- /terms/junior
+- /terms/messagepad-100
+- /terms/pocket-newton
+
+----
+
+Source:
+
+- /sources/ad

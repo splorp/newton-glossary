@@ -1,0 +1,25 @@
+Title: Default Store
+
+----
+
+Text:
+
+The [store](/terms/store) on which new data is saved. Unless specified by the user, the [internal store](/terms/internal-store) is used as the default.
+
+----
+
+Related:
+
+- /terms/card-application
+- /terms/external-store
+- /terms/internal-store
+- /terms/store
+- /terms/system-memory
+- /terms/system-ram
+- /terms/user-storage
+
+----
+
+Source:
+
+- /sources/ir

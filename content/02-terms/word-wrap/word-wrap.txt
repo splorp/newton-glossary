@@ -1,0 +1,22 @@
+Title: Word Wrap
+
+----
+
+Text:
+
+The automatic continuation of text from the end of one line to the beginning of the next without breaking in the middle of a word.
+
+----
+
+Related:
+
+- /terms/field
+- /terms/newton-works
+- /terms/notepad
+- /terms/text-run
+
+----
+
+Source:
+
+- /sources/nuig

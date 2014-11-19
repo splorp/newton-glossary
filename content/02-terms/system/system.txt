@@ -1,0 +1,7 @@
+Title: System (Operating)
+
+----
+
+Text:
+
+See [Operating System](/terms/operating-system)
