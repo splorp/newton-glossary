@@ -15,4 +15,5 @@ Related:
 - /terms/drawing
 - /terms/newtworks
 - /terms/paper
+- /terms/word-wrap
 - /terms/works

@@ -4,7 +4,7 @@ Title: Soft Reset
 
 Text:
 
-A method of resetting the [Newton OS](/terms/newton-os) by pressing the [reset button](/terms/reset-button). A soft reset does not erase any user data, [applications](/terms/application), packages, [handwriting recognition](/terms/handwriting-recognition) training, or preferences. Also known as a [software reset](/terms/software-reset).
+A method of [resetting](/terms/reset) the [Newton OS](/terms/newton-os) by pressing the [reset button](/terms/reset-button). A soft reset does not erase any user data, [applications](/terms/application), packages, [handwriting recognition](/terms/handwriting-recognition) training, or preferences. Also known as a [software reset](/terms/software-reset).
 
 ----
 

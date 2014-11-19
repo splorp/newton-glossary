@@ -12,6 +12,8 @@ Related:
 
 - /terms/enumerated-dictionary
 - /terms/grammar
+- /terms/handwriting-recognition
+- /terms/user-dictionary
 
 ----
 

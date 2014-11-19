@@ -4,7 +4,7 @@ Title: System Reset
 
 Text:
 
-A method of resetting a Newton device by removing the batteries and any external power sources. A system reset may result in some loss of data and preference settings, depending on the device.
+A method of [resetting](/terms/reset) a Newton device by removing the batteries and any external power sources. A system reset may result in some loss of data and preference settings, depending on the device.
 
 ----
 
