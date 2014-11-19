@@ -4,14 +4,17 @@ Title: Enumerated Dictionary
 
 Text:
 
-A list of words that can be recognized when the dictionary is enabled.
+A list of strings that can be matched when [handwriting recognition](/terms/handwriting-recognition) is enabled.
 
 ----
 
 Related:
 
 - /terms/grammar
+- /terms/handwriting-recognition
 - /terms/lexical-dictionary
+- /terms/personal-word-list
+- /terms/user-dictionary
 
 ----
 

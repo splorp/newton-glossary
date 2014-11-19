@@ -4,7 +4,7 @@ Title: Internal Store
 
 Text:
 
-The portion of the built-in [system RAM](/terms/system-ram) used for [user storage](/terms/user-storage).
+The portion of the built-in [system RAM](/terms/system-ram) used for [user storage](/terms/user-storage), including installed [packages](/terms/package) and permanent user data.
 
 ----
 

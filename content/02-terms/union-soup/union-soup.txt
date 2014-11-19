@@ -4,7 +4,7 @@ Title: Union Soup
 
 Text:
 
-A [soup](/terms/soup) that exists on multiple [stores](/terms/store).
+A virtual [soup](/terms/soup) maintained by the [operating system](/terms/operating-system) that exists on multiple [stores](/terms/store), each containing a [member soup](/terms/member-soup). A union soup contains all [entries](/terms/entry) of a specifically named soup, no matter where those entries are stored. New entries to the union soup are added to the member soup residing on the [default store](/terms/default-store).
 
 ----
 
