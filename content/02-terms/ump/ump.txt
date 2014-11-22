@@ -4,7 +4,7 @@ Title: UMP
 
 Text:
 
-Upgraded MessagePad. Generally referring to a [MessagePad 2000](/terms/messagepad-2000) device that has had the system memory upgraded to the equivalent of a [MessagePad 2100](/terms/messagepad-2100). Also referred to as [UMP2K[(/terms/ump2k).
+Upgraded MessagePad. Generally referring to a [MessagePad 2000](/terms/messagepad-2000) device that has had the system memory upgraded to the equivalent of a [MessagePad 2100](/terms/messagepad-2100). Also known variously as [MP2000+](/terms/mp2000-plus), [MP2000U](/terms/mp2000u), [MP2KU](/terms/mp2ku), and [UMP2K](/terms/ump2k).
 
 ----
 
@@ -13,9 +13,12 @@ Related:
 - /terms/messagepad
 - /terms/messagepad-2000
 - /terms/messagepad-2100
-- /terms/mp2000
-- /terms/mp2100
 - /terms/mp2k
+- /terms/mp2ku
+- /terms/mp2000
+- /terms/mp2000-plus
+- /terms/mp2000u
+- /terms/mp2100
 - /terms/ump2k
 
 ----

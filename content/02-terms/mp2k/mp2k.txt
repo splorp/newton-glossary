@@ -5,3 +5,9 @@ Title: MP2K
 Text:
 
 See [MessagePad 2000](/terms/messagepad-2000)
+
+----
+
+Source:
+
+- /sources/ntlk
