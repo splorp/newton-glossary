@@ -4,7 +4,7 @@ Title: Walt
 
 Text:
 
-Code name for the experimental telecommunication device developed by [Apple](http://apple.com/) and [BellSouth](http://en.wikipedia.org/wiki/BellSouth) around the same time as the [Original MessagePad](/terms/original-messagepad). It featured a touchscreen display and stylus, similar to the Newton, but with a HyperCard-based [user interface](/terms/user-interface) running on top of the Macintosh System 6.0.8 [operating system](terms/operating-system). The name is an acronym for “Wizzy Active Lifestyle Telephone”.
+Code name for the experimental telecommunication device developed by [Apple](http://apple.com/) and [BellSouth](http://en.wikipedia.org/wiki/BellSouth) around the same time as the [Original MessagePad](/terms/original-messagepad). It featured a touchscreen [display](/terms/display) and [stylus](/terms/stylus), similar to the Newton, but with a HyperCard-based [user interface](/terms/user-interface) running on top of the Macintosh System 6.0.8 [operating system](terms/operating-system). The name is an acronym for “Wizzy Active Lifestyle Telephone”.
 
 The Walt has been referred to as “… a Mac in Newton’s clothing.”
 

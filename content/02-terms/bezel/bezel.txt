@@ -4,4 +4,10 @@ Title: Bezel
 
 Text:
 
-A covering or panel on an electronic device. Generally used in conjunction with protecting a visual display or connection port.
+A covering or panel on an electronic device. Generally used in conjunction with protecting a visual [display](/terms/display) or connection port.
+
+----
+
+Related:
+
+- /terms/display
