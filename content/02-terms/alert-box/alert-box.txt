@@ -4,7 +4,7 @@ Title: Alert Box
 
 Text:
 
-A [container view](/terms/container-view) that appears on the screen to warn the user or report an error.
+A [view](/terms/view) with a heavy black wavy border that appears on the screen to warn the user or report an error.
 
 ----
 
