@@ -4,4 +4,18 @@ Title: PKG
 
 Text:
 
-See [Package](/terms/package) and [Package File](/terms/package-file)
+An extension used to identify Newton [package files](/terms/package-file). Confusingly, a number of other [operating systems](/terms/operating-system) including Solaris, BeOS, Mac OS X, and iOS also use the `.pkg` extension to denote installable software packages.
+
+----
+
+Related:
+
+- /terms/package
+- /terms/package-file
+- /terms/package-installer
+
+----
+
+Source:
+
+- /sources/wiki
