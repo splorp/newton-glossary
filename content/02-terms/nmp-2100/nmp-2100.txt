@@ -1,0 +1,13 @@
+Title: NMP 2100
+
+----
+
+Text:
+
+See [MessagePad 2100](/terms/messagepad-2100)
+
+----
+
+Source:
+
+- /sources/apple-history

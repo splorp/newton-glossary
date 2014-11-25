@@ -1,0 +1,21 @@
+Title: PDAP
+
+----
+
+Text:
+
+Shorthand for [PDA Panache](https://www.pdapanache.com/), a supplier of [styli](/terms/styli) for [Newton MessagePad](/terms/newton-messagepad) and other handheld devices.
+
+----
+
+Related:
+
+- /terms/pen
+- /terms/styli
+- /terms/stylus
+
+----
+
+Source:
+
+- /sources/woo-lee

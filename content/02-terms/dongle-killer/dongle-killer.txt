@@ -1,0 +1,13 @@
+Title: Dongle Killer
+
+----
+
+Text:
+
+See [Dongle Destroyer](/terms/dongle-destroyer)
+
+----
+
+Source:
+
+- /sources/ntlk

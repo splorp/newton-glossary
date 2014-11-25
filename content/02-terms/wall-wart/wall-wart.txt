@@ -1,0 +1,19 @@
+Title: Wall Wart
+
+----
+
+Text:
+
+Derogatory term describing an AC power adapter hanging from an electrical outlet.
+
+----
+
+Related:
+
+- /terms/power-port
+
+----
+
+Source:
+
+- /sources/ntlk

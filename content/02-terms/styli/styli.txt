@@ -1,0 +1,15 @@
+Title: Styli
+
+----
+
+Text:
+
+The less common plural of [stylus](/terms/stylus).
+
+----
+
+Related:
+
+- /terms/pdap
+- /terms/pen
+- /terms/stylus
