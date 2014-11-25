@@ -18,14 +18,25 @@ Related:
 - /terms/messagepad-2000
 - /terms/messagepad-2100
 - /terms/mp
+- /terms/mp2k
+- /terms/mp2ku
 - /terms/mp100
 - /terms/mp110
 - /terms/mp120
 - /terms/mp130
 - /terms/mp2000
+- /terms/mp2000-plus
+- /terms/mp2000u
 - /terms/mp2100
-- /terms/mp2k
+- /terms/nmp
+- /terms/nmp-100
+- /terms/nmp-110
+- /terms/nmp-120
+- /terms/nmp-130
+- /terms/nmp-2000
+- /terms/nmp-2100
 - /terms/omp
+- /terms/omp2k
+- /terms/original-messagepad
 - /terms/ump
-
-
+- /terms/ump2k

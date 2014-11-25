@@ -17,6 +17,7 @@ Related:
 - /terms/messagepad
 - /terms/messagepad-100
 - /terms/mp100
+- /terms/nmp
 - /terms/omp
 - /terms/pocket-newton
 - /terms/wedge-code-name

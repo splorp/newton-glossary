@@ -15,6 +15,7 @@ Related:
 - /terms/ieee
 - /terms/wavelan
 - /terms/wep
+- /terms/wireless-access-point
 
 ----
 

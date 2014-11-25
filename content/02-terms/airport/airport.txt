@@ -13,3 +13,5 @@ Related:
 - /terms/802-11
 - /terms/airmac
 - /terms/wavelan
+- /terms/wep
+- /terms/wireless-access-point

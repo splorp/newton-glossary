@@ -19,6 +19,7 @@ Related:
 - /terms/mp2000-plus
 - /terms/mp2000u
 - /terms/mp2100
+- /terms/omp2k
 - /terms/ump2k
 
 ----
