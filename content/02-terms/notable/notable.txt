@@ -4,7 +4,7 @@ Title: Notable
 
 Text:
 
-An [application](/terms/application) developed by [Revelar](/terms/revelar) which allows users to manipulate [Notepad](/terms/notepad) data on a Newton device using a [desktop computer](/terms/desktop-computer).
+An [application](/terms/application) developed by [Revelar](/terms/revelar) that allows the user to manipulate [Notepad](/terms/notepad) data on a Newton device using a [desktop computer](/terms/desktop-computer).
 
 ----
 
