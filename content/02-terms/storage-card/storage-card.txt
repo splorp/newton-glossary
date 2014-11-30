@@ -4,4 +4,16 @@ Title: Storage Card
 
 Text:
 
-See [Flash Card](/terms/flash-card)
+Any type of removable [PC card](/terms/pc-card) used for storing data.
+
+----
+
+Related:
+
+- /terms/cf-card
+- /terms/compact-flash
+- /terms/external-store
+- /terms/flash-card
+- /terms/flash-ram
+- /terms/pc-card
+- /terms/pcmcia

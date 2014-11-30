@@ -4,6 +4,12 @@ Title: Tibet
 
 Text:
 
-Software developed by Russell Tait of [Compass Information Systems](http://web.archive.org/web/20010721235601/http://compassinfo.com/) which allowed users to capture, store, and share images using a Newton device and a digital camera.
+Software developed by Russell Tait of [Compass Information Systems](http://web.archive.org/web/20010721235601/http://compassinfo.com/) that allows users to capture, store, and share images using a Newton device and a digital camera. Tibet is compatible with any digital camera with a serial port and firmware implementing the [Sierra Imaging](https://web.archive.org/web/20000706203351/http://www.sierraimaging.com/) chipset.
 
 _cf. (link:http://web.archive.org/web/20010805072031/http://www.compassinfo.com/tibet/)_
+
+----
+
+Source:
+
+- /sources/grant-hutchinson

@@ -4,7 +4,9 @@ Title: NMP
 
 Text:
 
-See [Original MessagePad](/terms/original-messagepad)
+Newton MessagePad.
+
+See [MessagePad](/terms/messagepad)
 
 ----
 
