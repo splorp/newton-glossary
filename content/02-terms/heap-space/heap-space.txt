@@ -10,4 +10,4 @@ See [System Memory](/terms/system-memory)
 
 Source:
 
-- /sources/hfaq
+- /sources/newton-heap-mini-faq

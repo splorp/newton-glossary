@@ -1,7 +1,0 @@
-Title: Newton Formats
-
-----
-
-Text:
-
-_cf. (link:http://www.splorp.com/pdf/newtonformats.pdf)_

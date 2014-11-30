@@ -23,5 +23,5 @@ Related:
 
 Source:
 
-- /sources/pg
-- /sources/hfaq
+- /sources/paul-guyot
+- /sources/newton-heap-mini-faq

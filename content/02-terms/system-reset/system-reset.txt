@@ -25,4 +25,4 @@ Related:
 
 Source:
 
-- /sources/mp2kum
+- /sources/newton-messagepad-2000-user-manual

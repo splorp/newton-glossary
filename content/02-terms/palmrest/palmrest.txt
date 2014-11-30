@@ -10,4 +10,4 @@ The bottom portion of the case on a [MessagePad](/terms/messagepad) device where
 
 Source:
 
-- /sources/ad
+- /sources/appledesign

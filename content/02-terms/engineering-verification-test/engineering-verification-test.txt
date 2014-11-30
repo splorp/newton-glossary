@@ -20,4 +20,4 @@ Related:
 
 Source:
 
-- /sources/nfaq
+- /sources/newton-faq

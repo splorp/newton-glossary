@@ -1,6 +1,0 @@
-Title: Newton Programmer’s Guide
-
-----
-
-Text:
-

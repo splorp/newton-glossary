@@ -1,0 +1,8 @@
+Title: Newton 2.0 User Interface Guidelines
+
+----
+
+Text:
+
+_cf. (link:http://www.amazon.com/Newton-Interface-Guidelines-Apple-Computer/dp/0201488388)_
+_cf. (link:http://www.unna.org/unna/apple/documentation/developer/UserInterfaceGuidelinesOS2.0.pdf)_

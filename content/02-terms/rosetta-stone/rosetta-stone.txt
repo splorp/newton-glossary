@@ -28,4 +28,4 @@ Related:
 
 Source:
 
-- /sources/zd
+- /sources/zdnet

@@ -23,4 +23,4 @@ Related:
 
 Source:
 
-- /sources/mtr
+- /sources/newton-meet-the-relatives

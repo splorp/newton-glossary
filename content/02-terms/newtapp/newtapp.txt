@@ -10,4 +10,4 @@ A programming framework designed to help build complete, full-featured Newton [a
 
 Source:
 
-- /sources/npg
+- /sources/newton-programmers-guide

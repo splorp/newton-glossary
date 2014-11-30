@@ -10,4 +10,4 @@ See [UMP](/terms/ump)
 
 Source:
 
-- /sources/ntlk
+- /sources/newtontalk-mailing-list

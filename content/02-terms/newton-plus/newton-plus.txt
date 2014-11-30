@@ -10,4 +10,4 @@ See [Senior](/terms/senior)
 
 Source:
 
-- /sources/ad
+- /sources/appledesign

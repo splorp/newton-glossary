@@ -10,4 +10,4 @@ See [Project K](/terms/project-k)
 
 Source:
 
-- /sources/ad
+- /sources/appledesign

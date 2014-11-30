@@ -10,4 +10,4 @@ Any symbol or glyph that has a widely understood meaning and can convey informat
 
 Source:
 
-- /sources/nuig
+- /sources/newton-user-interface-guidelines

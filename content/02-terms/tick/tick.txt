@@ -10,4 +10,4 @@ A sixtieth of a second.
 
 Source:
 
-- /sources/npg
+- /sources/newton-programmers-guide

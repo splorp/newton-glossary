@@ -33,4 +33,4 @@ Related:
 
 Source:
 
-- /sources/nuiga
+- /sources/newton-user-interface-guidelinesa

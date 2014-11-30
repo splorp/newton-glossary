@@ -23,4 +23,4 @@ Related:
 
 Source:
 
-- /sources/ad
+- /sources/appledesign

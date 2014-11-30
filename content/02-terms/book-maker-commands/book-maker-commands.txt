@@ -26,4 +26,4 @@ Related:
 
  Source:
 
-- /sources/nbm
+- /sources/newton-book-maker-users-guide

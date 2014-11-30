@@ -30,4 +30,4 @@ Related:
 
 Source:
 
-- /sources/nuig
+- /sources/newton-user-interface-guidelines

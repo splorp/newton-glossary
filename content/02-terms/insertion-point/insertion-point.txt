@@ -10,4 +10,4 @@ See [Caret](/terms/caret)
 
 Source:
 
-- /sources/nuig
+- /sources/newton-user-interface-guidelines

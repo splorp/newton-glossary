@@ -1,7 +1,0 @@
-Title: Newtsbug User’s Guide
-
-----
-
-Text:
-
-_cf. (link:http://mirrors.unna.org/download.planetnewton.com/download/programming/applec++tools.htm)_

@@ -10,4 +10,4 @@ See [Mini-DIN](/terms/mini-din)
 
 Source:
 
-- /sources/te
+- /sources/techencyclopedia

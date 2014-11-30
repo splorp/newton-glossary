@@ -20,4 +20,4 @@ Related:
 
 Source:
 
-- /sources/ntlk
+- /sources/newtontalk-mailing-list

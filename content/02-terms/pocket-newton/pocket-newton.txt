@@ -10,4 +10,4 @@ See [Junior](/terms/junior)
 
 Source:
 
-- /sources/ad
+- /sources/appledesign

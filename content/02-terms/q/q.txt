@@ -10,4 +10,4 @@ Code name of the [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100]
 
 Source:
 
-- /sources/bt
+- /sources/ben-truesdale

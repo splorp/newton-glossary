@@ -12,4 +12,4 @@ _cf. (link: http://www.flickr.com/photos/abeles/sets/72157629005100169/)_
 
 Source:
 
-- /sources/ja
+- /sources/jim-abeles

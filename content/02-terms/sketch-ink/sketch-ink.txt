@@ -10,4 +10,4 @@ See [Ink](/terms/ink)
 
 Source:
 
-- /sources/npg
+- /sources/newton-programmers-guide

@@ -10,4 +10,4 @@ See [Separator Bar](/terms/separator-bar)
 
 Source:
 
-- /sources/nuig
+- /sources/newton-user-interface-guidelines

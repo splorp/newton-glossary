@@ -18,4 +18,4 @@ Related:
 
 Source:
 
-- /sources/ntk
+- /sources/newton-toolkit-user-guide

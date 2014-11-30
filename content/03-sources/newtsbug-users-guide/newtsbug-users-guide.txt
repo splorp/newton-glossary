@@ -1,0 +1,9 @@
+Title: Newtsbug User’s Guide
+
+----
+
+Text:
+
+Newtsbug is a Mac OS-based, low-level debugger for developing C, C++, and ARM Assembler code that will run on a Newton device.
+
+_cf. (link:http://mirrors.unna.org/download.planetnewton.com/download/programming/applec++tools.htm)_

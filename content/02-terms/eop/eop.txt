@@ -10,4 +10,4 @@ End of packet. A specific string of characters that indicates the end of a packe
 
 Source:
 
-- /sources/npg
+- /sources/newton-programmers-guide

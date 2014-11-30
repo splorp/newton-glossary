@@ -34,4 +34,4 @@ Related:
 
 Source:
 
-- /sources/npg
+- /sources/newton-programmers-guide

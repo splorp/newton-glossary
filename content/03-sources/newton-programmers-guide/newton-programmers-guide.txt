@@ -1,0 +1,8 @@
+Title: Newton Programmer’s Guide
+
+----
+
+Text:
+
+_cf. (link:http://manuals.info.apple.com/en_US/NewtonProgrammerGuide20.PDF)_
+_cf. (link:http://www.unna.org/unna/apple/documentation/developer/ProgrammersGuideOS2.0.pdf)_

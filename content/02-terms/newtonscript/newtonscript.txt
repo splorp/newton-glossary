@@ -4,7 +4,7 @@ Title: NewtonScript
 
 Text:
 
-A dynamic, object-oriented programming language developed for the Newton platform. Lovingly nicknamed [WallyScript](/terms/wallyscript) after its designer [Walter R. Smith](/sources/ws).
+A dynamic, object-oriented programming language developed for the Newton platform. Lovingly nicknamed [WallyScript](/terms/wallyscript) after its designer [Walter R. Smith](/sources/walter-smith).
 
 ----
 
@@ -28,4 +28,4 @@ Related:
 
 Source:
 
-- /sources/gh
+- /sources/grant-hutchinson

@@ -10,4 +10,4 @@ See [Store Part](/terms/store-part)
 
 Source:
 
-- /sources/npg
+- /sources/newton-programmers-guide

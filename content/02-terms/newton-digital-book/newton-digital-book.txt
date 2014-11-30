@@ -10,4 +10,4 @@ See [Newton Book](/terms/newton-book)
 
 Source:
 
-- /sources/nbm
+- /sources/newton-book-maker-users-guide

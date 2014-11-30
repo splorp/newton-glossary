@@ -10,4 +10,4 @@ Original Equipment Manufacturer. A company that manufacturers and sells products
 
 Source:
 
-- /sources/te
+- /sources/techencyclopedia

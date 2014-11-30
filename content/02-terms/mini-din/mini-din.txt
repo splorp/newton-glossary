@@ -21,4 +21,4 @@ Related:
 
 Source:
 
-- /sources/te
+- /sources/techencyclopedia

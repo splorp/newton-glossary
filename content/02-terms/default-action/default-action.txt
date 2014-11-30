@@ -17,4 +17,4 @@ Related:
 
 Source:
 
-- /sources/nuigke
+- /sources/user-interface-guidelines-for-newton-os-keyboard-enhancements

@@ -24,4 +24,4 @@ Related:
 
 Source:
 
-- /sources/hfaq
+- /sources/newton-heap-mini-faq

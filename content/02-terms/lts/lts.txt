@@ -10,4 +10,4 @@ See [Long Term Storage](/terms/long-term-storage)
 
 Source:
 
-- /sources/ntlk
+- /sources/newtontalk-mailing-list

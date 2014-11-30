@@ -15,4 +15,4 @@ Related:
 
 ----
 
-- /sources/ntlk
+- /sources/newtontalk-mailing-list
