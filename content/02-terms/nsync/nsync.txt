@@ -1,0 +1,28 @@
+Title: nSync
+
+----
+
+Text:
+
+An alternate name for [NewtSync](/terms/newtsync), the data synchronization software developed by John Anderson.
+
+Not to be confused with the [overproduced boy band](http://en.wikipedia.org/wiki/NSYNC) with the similar name.
+
+----
+
+Related:
+
+- /terms/newton-connection
+- /terms/newton-connection-kit
+- /terms/newton-connection-utilities
+- /terms/newtourage
+- /terms/newtsync
+- /terms/now-up-to-date
+- /terms/sync
+- /terms/synchronization
+
+----
+
+Source:
+
+- /sources/grant-hutchinson

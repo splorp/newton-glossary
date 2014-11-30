@@ -1,0 +1,21 @@
+Title: Newton Package Uploader
+
+----
+
+Text:
+
+Software developed by [Greg Simon](https://www.google.com/+GregSimon) that allows the user to upload [packages](/terms/package) from a [Newton OS](/terms/newton-os) device to certain Mac OS and Windows computers. Also referred to as [NPU](/terms/npu).
+
+----
+
+Related:
+
+- /terms/newton-package-installer
+- /terms/npu
+- /terms/package
+
+----
+
+Source:
+
+- /sources/steve-weyer
