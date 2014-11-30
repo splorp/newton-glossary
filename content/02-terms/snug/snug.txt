@@ -15,6 +15,7 @@ Related:
 - /terms/anug
 - /terms/dnug
 - /terms/lanug
+- /terms/nanug
 - /terms/newton-user-group
 - /terms/nug
 - /terms/sonug

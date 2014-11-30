@@ -15,7 +15,9 @@ Related:
 - /terms/newton-connection-kit
 - /terms/newton-connection-utilities
 - /terms/newtourage
+- /terms/newtsync
 - /terms/now-up-to-date
+- /terms/nsync
 - /terms/sync
 - /terms/synchronization
 - /terms/workfile
