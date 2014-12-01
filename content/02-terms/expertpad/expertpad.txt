@@ -11,8 +11,8 @@ A Newton [clone](/terms/clone) developed by Sharp Electronics. Two versions of t
 Related:
 
 - /terms/clone
-- /terms/pi-7000)
-- /terms/pi-7100)
+- /terms/pi-7000
+- /terms/pi-7100
 
 ----
 
