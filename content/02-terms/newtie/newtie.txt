@@ -1,10 +1,10 @@
-Title: Newties
+Title: Newtie
 
 ----
 
 Text:
 
-An affectionate nickname for Newton users.
+An affectionate nickname for a Newton user.
 
 [The Newties](https://web.archive.org/web/20050205024243/http://www.thisoldnewt.net/html/newties.html) were also an annual award presented to various members of the Newton community by Rich Lindsay of [This Old Newt](/terms/this-old-newt) fame.
 
@@ -13,4 +13,5 @@ An affectionate nickname for Newton users.
 Source:
 
 - /sources/green-bleeder
+- /sources/newtbie
 - /sources/this-old-newt
