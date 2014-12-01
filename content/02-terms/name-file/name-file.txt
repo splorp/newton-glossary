@@ -11,6 +11,7 @@ The built-in [application](/terms/application) for storing names, addresses, pho
 Related:
 
 - /terms/action-names
+- /terms/an2nck
 - /terms/application
 - /terms/dateman
 - /terms/moreinfo

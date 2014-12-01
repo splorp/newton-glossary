@@ -11,6 +11,7 @@ The result of the failure of the tension spring found in the hinge of an [eMate]
 Related:
 
 - /terms/broink
+- /terms/dhp
 - /terms/display
 - /terms/emate-300
 

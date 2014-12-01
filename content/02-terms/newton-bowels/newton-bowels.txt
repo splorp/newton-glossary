@@ -14,8 +14,10 @@ Related:
 
 - /terms/api
 - /terms/application-programming-interface
+- /terms/better-disarm
 - /terms/lantern-ddk
 - /terms/newton-devices
+- /terms/rough-disarm
 
 ----
 

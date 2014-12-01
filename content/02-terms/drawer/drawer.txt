@@ -10,7 +10,9 @@ A [container view](/terms/container-view) that slides open and closed at the bot
 
 Related:
 
+- /terms/assist-drawer
 - /terms/container-view
+- /terms/extras-drawer
 - /terms/user-interface
 
 ----

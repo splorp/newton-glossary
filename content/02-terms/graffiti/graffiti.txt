@@ -12,6 +12,7 @@ _cf. (link:https://en.wikipedia.org/wiki/Graffiti_(Palm_OS))_
 
 Related:
 
+- /terms/crapfiti
 - /terms/gesture
 - /terms/pen
 - /terms/print-recognizer

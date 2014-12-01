@@ -10,7 +10,9 @@ A memory card using [flash RAM](/terms/flash-ram) chips that can be rewritten an
 
 Related:
 
+- /terms/compactflash
 - /terms/external-store
+- /terms/flash-memory
 - /terms/flash-ram
 - /terms/pc-card
 - /terms/pcmcia

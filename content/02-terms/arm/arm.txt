@@ -14,6 +14,8 @@ _cf. (link: http://en.wikipedia.org/wiki/ARM_architecture)_
 
 Related:
 
+- /terms/better-disarm
 - /terms/hobbit
 - /terms/risc
+- /terms/rough-disarm
 - /terms/strongarm

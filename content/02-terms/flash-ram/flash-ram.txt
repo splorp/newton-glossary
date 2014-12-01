@@ -13,6 +13,7 @@ Related:
 
 - /terms/dram
 - /terms/flash-card
+- /terms/flash-memory
 - /terms/ram
 - /terms/sram
 - /terms/tsop

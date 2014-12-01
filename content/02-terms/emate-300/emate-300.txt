@@ -13,6 +13,7 @@ Related:
 - /terms/batnewt
 - /terms/broink
 - /terms/classroom-exchange
+- /terms/dhp
 - /terms/emate
 - /terms/floppy-lid
 - /terms/project-k
