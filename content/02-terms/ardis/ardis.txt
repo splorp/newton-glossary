@@ -1,10 +1,13 @@
-Title: Ardis
+Title: ARDIS
 
 ----
 
 Text:
 
-A defunct wireless data carrier based in the United States. The Ardis network provided two-way data transmission based on radio packet technology. Ardis compatible wireless modems were used in the [Newton OS](/terms/newton-os) based [Motorola Marco](/terms/marco) device.
+Advanced Radio Data Information Service. A defunct wireless data network based in the United States developed by [Motorola](http://www.motorola.com/) and [IBM](http://www.ibm.com/). The ARDIS network provided two-way data transmission based on radio packet technology. ARDIS compatible wireless modems were used in the [Newton OS](/terms/newton-os) based [Motorola Marco](/terms/marco) device.
+
+_cf. (link:http://www.signalharbor.com/ardis.html)_
+_cf. (link:https://web.archive.org/web/19990429042153/http://www.ardis.com/)_
 
 ----
 
