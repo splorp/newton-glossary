@@ -1,0 +1,32 @@
+Title: Battery Tray
+
+----
+
+Text:
+
+A removable component of a [MessagePad](/terms/messagepad) device which holds a set of individual batteries. Batteries held in the battery tray can be easily replaced by the user. Also known as a [battery cage](/terms/battery-cage) or [battery sled](/terms/battery-sled).
+
+----
+
+Related:
+
+- /terms/battery-cage
+- /terms/battery-pack
+- /terms/battery-sled
+- /terms/cell
+- /terms/long-term-storage
+- /terms/nicad
+- /terms/nicd
+- /terms/nickel-cadmium
+- /terms/nickel-metal-hydride
+- /terms/nimh
+- /terms/recell
+- /terms/recelled
+- /terms/sled
+- /terms/tray
+
+----
+
+Source:
+
+- /sources/newtontalk
