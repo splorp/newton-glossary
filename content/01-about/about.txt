@@ -12,7 +12,7 @@ Although it’s a bit out of date, there is also a [searchable version](http://t
 
 As with any specialized compendium, the contents are never completely finished. All suggestions, corrections, complaints, and [pull requests](https://github.com/splorp/newton-glossary/pulls) will be happily accepted. If possible, please use the project’s [issue tracker](https://github.com/splorp/newton-glossary/issues) for any input you might have.
 
-Before submitting new terms or suggestion corrections to existing entries, please take a moment to familiarize yourself with the official [style guide](/style). 
+Before submitting new terms or suggestion corrections to existing entries, please take a moment to familiarize yourself with the official [style guide](/style) (which itself is a work in progress).
 
 ## We &hearts; Words
 
@@ -33,4 +33,4 @@ To add a bit of spit and shine to our Kirby experience, we’re also using the f
 + [Alphabetise](https://github.com/shoesforindustry/kirbycms-extensions/tree/master/plugins/alphabetise) _by [Russ Baldwin](http://shoesforindustry.net/)_
 + [Related Pages](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) _by [Bastian Allgeier](http://bastianallgeier.com/)_
 
-Thank goodness for [BBEdit](http://www.barebones.com/products/bbedit/).
+Finally, thank goodness for [BBEdit](http://www.barebones.com/products/bbedit/).
