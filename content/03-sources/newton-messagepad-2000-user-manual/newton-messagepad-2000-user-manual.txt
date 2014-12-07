@@ -4,4 +4,4 @@ Title: Newton MessagePad 2000 User Manual
 
 Text:
 
-_cf. (link:http://www.newted.org/download/manuals/0306251AMP2000UM.PDF)
+_cf. (link:http://www.newted.org/download/manuals/0306251AMP2000UM.PDF)_

@@ -11,7 +11,7 @@ Any type of removable [PC card](/terms/pc-card) used for storing data.
 Related:
 
 - /terms/cf-card
-- /terms/compact-flash
+- /terms/compactflash
 - /terms/external-store
 - /terms/flash-card
 - /terms/flash-ram
