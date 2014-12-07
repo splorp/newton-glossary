@@ -12,6 +12,7 @@ Related:
 
 - /terms/application-card
 - /terms/card
+- /terms/combo-card
 - /terms/external-store
 - /terms/flash-card
 - /terms/pc-card

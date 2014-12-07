@@ -17,3 +17,4 @@ Related:
 - /terms/nug
 - /terms/snug
 - /terms/sonug
+- /terms/tvnug

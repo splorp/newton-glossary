@@ -10,10 +10,10 @@ A term used by early Newton developers to denote [beaming](/terms/beaming) of in
 
 Related:
 
-- /terms/beam
 - /terms/beaming
 - /terms/endpoint
 - /terms/infrared
+- /terms/infrared-window
 - /terms/irda
 - /terms/newtir
 - /terms/routing

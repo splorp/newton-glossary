@@ -11,8 +11,10 @@ Transmitting data to or receiving data from another device via an [infrared](/te
 Related:
 
 - /terms/beam
+- /terms/beam-window
 - /terms/endpoint
 - /terms/infrared
+- /terms/infrared-window
 - /terms/irda
 - /terms/newtir
 - /terms/routing
