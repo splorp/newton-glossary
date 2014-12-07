@@ -1,0 +1,28 @@
+Title: Recelled
+
+----
+
+Text:
+
+A [battery pack](/terms/battery-pack) that has had the old, nonfunctioning [cells](/terms/cell) replaced with new cells.
+
+----
+
+Related:
+
+- /terms/battery-cage
+- /terms/battery-pack
+- /terms/cell
+- /terms/long-term-storage
+- /terms/nicad
+- /terms/nicd
+- /terms/nickel-cadmium
+- /terms/nickel-metal-hydride
+- /terms/nimh
+- /terms/recell
+
+----
+
+Source:
+
+- /sources/newtontalk

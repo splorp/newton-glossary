@@ -1,0 +1,22 @@
+Title: Cell
+
+----
+
+Text:
+
+A device that generates electrical energy from chemical energy. A battery consists of two or more interconnected cells.
+
+----
+
+Related:
+
+- /terms/battery-cage
+- /terms/battery-pack
+- /terms/long-term-storage
+- /terms/nicad
+- /terms/nicd
+- /terms/nickel-cadmium
+- /terms/nickel-metal-hydride
+- /terms/nimh
+- /terms/recell
+- /terms/recelled

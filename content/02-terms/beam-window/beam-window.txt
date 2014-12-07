@@ -1,0 +1,13 @@
+Title: Beam Window
+
+----
+
+Text:
+
+See [Infrared Window](/terms/infrared-window)
+
+----
+
+Source:
+
+- /sources/newton-messagepad-handbook

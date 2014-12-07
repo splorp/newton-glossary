@@ -1,0 +1,28 @@
+Title: Recell
+
+----
+
+Text:
+
+To replace old, nonfunctioning [cells](/terms/cell) in a rechargeable [battery pack](/terms/battery-pack) with new cells.
+
+----
+
+Related:
+
+- /terms/battery-cage
+- /terms/battery-pack
+- /terms/cell
+- /terms/long-term-storage
+- /terms/nicad
+- /terms/nicd
+- /terms/nickel-cadmium
+- /terms/nickel-metal-hydride
+- /terms/nimh
+- /terms/recelled
+
+----
+
+Source:
+
+- /sources/newtontalk
