@@ -17,4 +17,4 @@ Related:
 
 Source:
 
-- /sources/newtontalk-mailing-list
+- /sources/newtontalk

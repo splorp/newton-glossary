@@ -10,4 +10,4 @@ See [MessagePad 2100](/terms/messagepad-2100)
 
 Source:
 
-- /sources/newtontalk-mailing-list
+- /sources/newtontalk

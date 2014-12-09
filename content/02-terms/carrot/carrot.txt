@@ -17,4 +17,4 @@ Related:
 
 Source:
 
-- /sources/nethopper-user-manual
+- /sources/nethopper

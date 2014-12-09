@@ -10,5 +10,5 @@ An instant messaging [application](/terms/application) for [Newton OS](/terms/ne
 
 Source:
 
-- /sources/iceberg-technologies
+- /sources/iceberg
 

@@ -10,4 +10,4 @@ See [Silkscreen Button](/terms/silkscreen-button)
 
 Source:
 
-- /sources/newtontalk-mailing-list
+- /sources/newtontalk

@@ -24,4 +24,4 @@ Related:
 
 Source:
 
-- /sources/newtsbug-users-guide
+- /sources/newtsbug

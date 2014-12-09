@@ -10,4 +10,4 @@ See [Action Picker](/terms/action-picker)
 
 Source:
 
-- /sources/newtontalk-mailing-list
+- /sources/newtontalk

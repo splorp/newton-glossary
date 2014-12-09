@@ -10,4 +10,4 @@ See [Dongle Destroyer](/terms/dongle-destroyer)
 
 Source:
 
-- /sources/newtontalk-mailing-list
+- /sources/newtontalk
