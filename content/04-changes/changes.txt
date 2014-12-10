@@ -19,11 +19,11 @@ Sources:
 ### Summary of changes:
 
 + Migrated project to [GitHub](https://github.com/)
-+ Migrated project contents to use the [Kirby](http://getkirby.com/) publishing platform
++ Content now published using the [Kirby](http://getkirby.com/) CMS
 + Integrated backlog of addenda and updates since version 1.0.5
 + Expanded metadata and background information for [sources](/sources)
-+ Added an [About](/about) section
-+ Added navigation link that produces a random term
++ Added a long overdue [About](/about) section and colophon
++ Added a link that produces a random term
 
 ## 21 November 2004
 
