@@ -11,7 +11,6 @@ The code name of the [MessagePad 130](/terms/messagepad-130) device. According t
 Related:
 
 - /terms/messagepad-130
-- /terms/mp130
 - /terms/quark
 
 ----

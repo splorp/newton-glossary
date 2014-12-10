@@ -12,6 +12,7 @@ Related:
 
 - /terms/compactflash
 - /terms/external-card
+- /terms/memory-card
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/storage-card

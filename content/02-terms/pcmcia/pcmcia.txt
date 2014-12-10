@@ -15,6 +15,7 @@ Related:
 - /terms/combo-card
 - /terms/external-store
 - /terms/flash-card
+- /terms/memory-card
 - /terms/pc-card
 - /terms/storage-card
 

@@ -12,6 +12,12 @@ Not to be confused with a [Newtie Award](/terms/newtie-award).
 
 Related:
 
+- /terms/bleeding-green
 - /terms/green-bleeder
+- /terms/green-bug
+- /terms/green-window
 - /terms/newtbie
 - /terms/newtie-award
+- /terms/newtoneer
+- /terms/newtonite
+- /terms/newtophyte

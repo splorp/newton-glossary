@@ -10,5 +10,8 @@ The software publishing group within Apple’s [Personal Interactive Electronics
 
 Related:
 
+- /terms/jig
+- /terms/jigsaw-strategy-game
+- /terms/personal-interactive-electronics
 - /terms/pie
 - /terms/starcore
