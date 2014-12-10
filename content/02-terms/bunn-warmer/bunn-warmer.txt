@@ -10,5 +10,5 @@ Affectionate nickname for some of the first Newton development prototypes. So ca
 
 Source:
 
-- /sources/newton-secrets-secret-newtons
+- /sources/newton-secrets
  
