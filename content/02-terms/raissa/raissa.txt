@@ -1,0 +1,22 @@
+Title: Raissa
+
+----
+
+Text:
+
+An [RSS](/terms/rss) reader for [Newton OS](/terms/newton-os) 2.x devices developed by [Eckhart Köppen](/sources/eckhart-koppen).
+
+_cf. (link:http://40hz.org/Pages/Raissa)_
+
+----
+
+Related:
+
+- /terms/courier
+- /terms/rss
+
+----
+
+Source:
+
+- /sources/eckhart-koppen

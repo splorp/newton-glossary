@@ -1,0 +1,7 @@
+Title: Memory Card
+
+----
+
+Text:
+
+See [Storage Card](/terms/storage-card)
