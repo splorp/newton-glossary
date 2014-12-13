@@ -21,3 +21,9 @@ Related:
 - /terms/newtoneer
 - /terms/newtonite
 - /terms/newtophyte
+
+----
+
+Source:
+
+- /sources/newtontalk
