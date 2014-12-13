@@ -21,5 +21,7 @@ Related:
 - /terms/mp100
 - /terms/nmp
 - /terms/omp
+- /terms/omp2k
+- /terms/original-messagepad-2000
 - /terms/pocket-newton
 - /terms/wedge-code-name
