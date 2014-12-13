@@ -1,0 +1,26 @@
+Title: Newtoneer
+
+----
+
+Text:
+
+An affectionate nickname for a Newton user. Attributable to a friendly greeting occasionally expressed on the [NewtonTalk](/terms/newtontalk) mailing list.
+
+----
+
+Related:
+
+- /terms/bleeding-green
+- /terms/green-bleeder
+- /terms/green-bug
+- /terms/green-window
+- /terms/newtbie
+- /terms/newtie
+- /terms/newtonite
+- /terms/newtophyte
+
+----
+
+Source:
+
+- /sources/newtontalk

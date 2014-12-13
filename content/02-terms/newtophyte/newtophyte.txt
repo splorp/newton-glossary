@@ -1,0 +1,27 @@
+Title: Newtophyte
+
+----
+
+Text:
+
+A recent convert to the Newton platform. Newtophyte is a play on “neophyte”.
+
+----
+
+Related:
+
+- /terms/bleeding-green
+- /terms/green-bleeder
+- /terms/green-bug
+- /terms/green-window
+- /terms/newtbie
+- /terms/newtie
+- /terms/newtoneer
+- /terms/newtonite
+
+----
+
+Source:
+
+- /sources/newtontalk
+

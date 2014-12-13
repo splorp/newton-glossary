@@ -1,0 +1,41 @@
+Title: MessagePad 2000
+
+----
+
+Text:
+
+The MessagePad 2000 is based on the StrongARM 110 processor, making it nearly ten times as fast as its predecessor, the [MessagePad 130](/terms/messagepad-130). It also featured significantly more [RAM](/terms/ram), a slightly larger greyscale [display](/terms/display), support for two [PCMCIA](/terms/pcmcia) cards, and the proprietary multifunction [Newton Interconnect](/terms/newton-interconnect) port.
+
+When an MessagePad 2000 has been upgraded to the equivalent specifications of a MessagePad 2100, it becomes an [UMP](/terms/ump) or “Upgraded MessagePad”. A non-upgraded MessagePad 2000 is often referred to as an [Original MessagePad 2000](/terms/original-messagepad-2000) or [OMP2K](/terms/omp2k).
+
+----
+
+Related:
+
+- /terms/01-2k
+- /terms/backlight
+- /terms/dongle
+- /terms/dongle-destroyer
+- /terms/implant-2000
+- /terms/messagepad
+- /terms/messagepad-2100
+- /terms/mp2k
+- /terms/mp2ku
+- /terms/mp2x00
+- /terms/mp2000
+- /terms/mp2000-plus
+- /terms/mp2000u
+- /terms/newton-interconnect
+- /terms/nmp-2000
+- /terms/omp2k
+- /terms/original-messagepad-2000
+- /terms/q
+- /terms/ump
+- /terms/ump2k
+- /terms/voyager
+
+----
+
+Source:
+
+- /sources/apple-history

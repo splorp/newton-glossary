@@ -1,0 +1,38 @@
+Title: MessagePad 2100
+
+----
+
+Text:
+
+The last [Newton OS](/terms/newton-os) device released by [Apple](http://apple.com/). The MessagePad 2100 shares the same specifications as its predecessor, the [MessagePad 2000](/terms/messagepad-130), with the exception of the amount of [RAM](/terms/ram). A MessagePad 2000 can been upgraded to the equivalent of a MessagePad 2100 by increasing the RAM from 5MB to 8MB.
+
+----
+
+Related:
+
+- /terms/01-2k1
+- /terms/01-21k
+- /terms/andante
+- /terms/backlight
+- /terms/dongle
+- /terms/dongle-destroyer
+- /terms/frozen-ghost
+- /terms/frozen-newton
+- /terms/implant-2000
+- /terms/messagepad
+- /terms/messagepad-2000
+- /terms/mp2k1
+- /terms/mp2x00
+- /terms/mp21k
+- /terms/newton-aluminum-shell-project
+- /terms/newton-interconnect
+- /terms/nmp-2100
+- /terms/q
+- /terms/ump
+- /terms/voyager
+
+----
+
+Source:
+
+- /sources/apple-history
