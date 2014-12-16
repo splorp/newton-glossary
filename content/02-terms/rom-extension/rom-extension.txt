@@ -4,7 +4,7 @@ Title: ROM Extension
 
 Text:
 
-Additional data pertaining to the [operating system](/terms/operating-system) that is external to the data in the [ROM](/terms/rom) containing the base [Newton OS](/terms/newton-os). Newton devices produced by [Apple](http://apple.com/) include the Apple ROM Extension ([REX](/terms/rex)) as the initial extension. The Apple REX contains most of the Newton OS [applications](/terms/application). [Cloned](/terms/clone) or licensed Newton OS devices usually include the Apple REX along with a vendor-specific, custom ROM extension. There can be up to four ROM extensions on the [N2](/terms/n2) platform.
+Additional data pertaining to the [operating system](/terms/operating-system) that is external to the data in the [ROM](/terms/rom) containing the base [Newton OS](/terms/newton-os). Newton devices produced by [Apple](http://www.apple.com/) include the Apple ROM Extension ([REX](/terms/rex)) as the initial extension. The Apple REX contains most of the Newton OS [applications](/terms/application). [Cloned](/terms/clone) or licensed Newton OS devices usually include the Apple REX along with a vendor-specific, custom ROM extension. There can be up to four ROM extensions on the [N2](/terms/n2) platform.
 
 ----
 

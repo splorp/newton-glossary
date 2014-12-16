@@ -4,7 +4,7 @@ Title: Newton Associates Program
 
 Text:
 
-A defunct [Apple](http://apple.com/) development support program which provided low-cost, self-help resources to Newton developers. Also referred to as [NAP](/terms/nap).
+A defunct [Apple](http://www.apple.com/) development support program which provided low-cost, self-help resources to Newton developers. Also referred to as [NAP](/terms/nap).
 
 ----
 

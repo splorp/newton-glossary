@@ -4,7 +4,7 @@ Title: Newton Partners Program
 
 Text:
 
-A defunct [Apple](http://apple.com/) development support program which provided expanded, expert-level resources to Newton developers. Also referred to as [NPP](/terms/npp).
+A defunct [Apple](http://www.apple.com/) development support program which provided expanded, expert-level resources to Newton developers. Also referred to as [NPP](/terms/npp).
 
 ----
 

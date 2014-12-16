@@ -4,7 +4,7 @@ Title: MessagePad
 
 Text:
 
-The base model name for all [Apple](http://apple.com/) manufactured [Newton OS](/terms/newton-os) devices except the [eMate 300](/terms/emate-300).
+The base model name for all [Apple](http://www.apple.com/) manufactured [Newton OS](/terms/newton-os) devices except the [eMate 300](/terms/emate-300).
 
 ----
 

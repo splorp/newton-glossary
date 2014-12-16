@@ -4,7 +4,7 @@ Title: Rosetta
 
 Text:
 
-Code name for the software-based [print recognizer](print-recognizer) system developed by [Apple](http://apple.com/).
+Code name for the software-based [print recognizer](print-recognizer) system developed by [Apple](http://www.apple.com/).
 
 ----
 

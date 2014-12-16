@@ -4,7 +4,7 @@ Title: Newton Developer Conference
 
 Text:
 
-A periodic event scheduled by [Apple](http://apple.com/) in support of the Newton development community. At one time, these events allowed developers to meet each other in person and learn about future directions of Newton business, marketing, and technologies.
+A periodic event scheduled by [Apple](http://www.apple.com/) in support of the Newton development community. At one time, these events allowed developers to meet each other in person and learn about future directions of Newton business, marketing, and technologies.
 
 ----
 
