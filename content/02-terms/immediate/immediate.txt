@@ -4,14 +4,14 @@ Title: Immediate
 
 Text:
 
-A value that is stored directly rather than through an indirect [reference](/terms/reference) to a [heap](/terms/heap) [object](/terms/object). Immediates are [characters](/terms/character), integers, or [Booleans](/terms/booleans).
+A value that is stored directly rather than through an indirect [reference](/terms/reference) to a [heap](/terms/heap) [object](/terms/object). Immediates are [characters](/terms/character), integers, or [Booleans](/terms/boolean).
 
 ----
 
 Related:
 
 - /terms/array
-- /terms/booleans
+- /terms/boolean
 - /terms/object
 - /terms/reference
 - /terms/slot

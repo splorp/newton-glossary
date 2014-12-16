@@ -4,4 +4,4 @@ Title: NDB
 
 Text:
 
-See [Newton Data Browser](/terms/newton-Newton-data-browser)
+See [Newton Data Browser](/terms/newton-data-browser)

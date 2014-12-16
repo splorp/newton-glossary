@@ -4,7 +4,7 @@ Title: Target
 
 Text:
 
-The object or item being acted upon. Sometimes the target consists of multiple items. For example, when more than one item is [selected](/terms/select) in the [In/Out Box](terms/in-out-box) for [beaming](/terms/beaming).
+The object or item being acted upon. Sometimes the target consists of multiple items. For example, when more than one item is [selected](/terms/select) in the [In/Out Box](/terms/in-out-box) for [beaming](/terms/beaming).
 
 ----
 

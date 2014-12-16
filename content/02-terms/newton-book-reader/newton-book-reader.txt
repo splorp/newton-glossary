@@ -4,7 +4,7 @@ Title: Newton Book Reader
 
 Text:
 
-An [application](/terms/application) built into the [Newton OS](/terms/newton-os) as a system-wide service, facilitating the display and navigation of interactive, digital [books](/term/newton-book).
+An [application](/terms/application) built into the [Newton OS](/terms/newton-os) as a system-wide service, facilitating the display and navigation of interactive, digital [books](/terms/newton-book).
 
 ----
 

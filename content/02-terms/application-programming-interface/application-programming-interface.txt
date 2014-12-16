@@ -4,7 +4,7 @@ Title: Application Programming Interface
 
 Text:
 
-A language and message format used by an [application](/terms/application) to communicate with the [operating system](terms/operating-system) or another program. Commonly referred to as an [API](/terms/api).
+A language and message format used by an [application](/terms/application) to communicate with the [operating system](/terms/operating-system) or another program. Commonly referred to as an [API](/terms/api).
 
 ----
 

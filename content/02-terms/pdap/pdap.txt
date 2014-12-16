@@ -4,7 +4,7 @@ Title: PDAP
 
 Text:
 
-Shorthand for [PDA Panache](https://www.pdapanache.com/), a supplier of [styli](/terms/styli) for [Newton MessagePad](/terms/newton-messagepad) and other handheld devices.
+Shorthand for [PDA Panache](https://www.pdapanache.com/), a supplier of [styli](/terms/styli) for Newton [MessagePad](/terms/messagepad) and other handheld devices.
 
 ----
 

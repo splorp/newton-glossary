@@ -5,7 +5,7 @@ Title: Book Script
 Text:
 
 A piece of [NewtonScript](/terms/newtonscript) code defined at the beginning of a [Newton book](/terms/newton-book) source file, before any content or 
-[Book Maker commands](/terms/book-maker-command). These [scripts](/terms/script) are made available throughout the entire Newton book via parent [inheritance](/terms/inheritance). The actions defined in [content scripts](/terms/content-script) override those in [page scripts](/terms/page-script), just as page scripts take precedence over book scripts.
+[Book Maker commands](/terms/book-maker-commands). These [scripts](/terms/script) are made available throughout the entire Newton book via parent [inheritance](/terms/inheritance). The actions defined in [content scripts](/terms/content-script) override those in [page scripts](/terms/page-script), just as page scripts take precedence over book scripts.
 
 ----
 
