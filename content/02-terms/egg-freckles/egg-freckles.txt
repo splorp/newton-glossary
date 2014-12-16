@@ -4,13 +4,14 @@ Title: Egg Freckles
 
 Text:
 
-An easter egg found in [Newton OS](/terms/newton-os) 2.0 which when activated displays an image from a Doonesbury cartoon lampooning the accuracy of the early Newton [handwriting recognition](/terms/handwriting-recognition).
+An easter egg found in [Newton OS](/terms/newton-os) 2.0 which when activated displays an image from a [Doonesbury comic strip](http://doonesbury.washingtonpost.com/strip/set/24) lampooning the accuracy of the early Newton [handwriting recognition](/terms/handwriting-recognition).
 
-_cf. screenshot_
+![Doonesbury — August 27th, 1993](/assets/images/egg-freckles.gif)
+
+_cf. (link: http://doonesbury.washingtonpost.com/strip/set/24)_
+_cf. (link: http://myapplenewton.blogspot.ca/2011/08/dilbert-compares-smartphones.html)_
 
 Egg Freckles is also the name of Newton-themed weblog written by [Thomas Brand](http://eggfreckles.net/).
-
-_cf. (link: http://myapplenewton.blogspot.ca/2011/08/dilbert-compares-smartphones.html)_
 
 ----
 
