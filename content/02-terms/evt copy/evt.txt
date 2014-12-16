@@ -1,7 +1,0 @@
-Title: EVT
-
-----
-
-Text:
-
-See [Engineering Verification Test](/terms/engineering-verification-test)
