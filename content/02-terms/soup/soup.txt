@@ -21,7 +21,6 @@ Related:
 - /terms/name-reference
 - /terms/object
 - /terms/reference
-- /terms/revelar-connection-utility
 - /terms/slot
 - /terms/soup-icon
 - /terms/soupervisor-mechanism
