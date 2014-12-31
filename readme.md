@@ -5,10 +5,9 @@
 
 [glossary.splorp.me](http://glossary.splorp.me/)
 
+See the [about](http://glossary.splorp.me/about) page for more information.
 
-## Contact
-
-If you have a suggestion or correction for the glossary, please contact the proprietors.
+Suggestions or corrections?
 
 [glossary@splorp.com](mailto:glossary@splorp.com)
 
