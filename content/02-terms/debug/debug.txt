@@ -1,0 +1,24 @@
+Title: Debug
+
+----
+
+Text:
+
+To use a [debugger](/terms/debugger) to locate and fix unintended behaviour in a piece of software or code.
+
+----
+
+Related:
+
+- /terms/bugtrap
+- /terms/debugger
+- /terms/hammer
+- /terms/newtsbug
+- /terms/senior
+- /terms/viewframe
+
+----
+
+Source:
+
+- /sources/grant-hutchinson

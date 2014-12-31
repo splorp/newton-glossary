@@ -1,0 +1,18 @@
+Title: Blueberry Frozen
+
+----
+
+Text:
+
+A variation on the [Frozen Newton](/terms/frozen-newton) project which features a custom, clear case [MessagePad 2100](/terms/messagepad-2100) with blue accents.
+
+_cf. (link:http://ohshima.net/newton/frozen.html)_
+
+----
+
+Related:
+
+- /terms/frozen-ghost
+- /terms/frozen-newton
+- /terms/messagepad-2100
+- /terms/newton-aluminum-shell-project
