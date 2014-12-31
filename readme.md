@@ -15,4 +15,4 @@ Follow us on Twitter.
 
 [@newtonglossary](http://twitter.com/newtonglossary)
 
-Copyright © 2001–2014 Grant Hutchinson
+Copyright © 2001–2015 Grant Hutchinson
