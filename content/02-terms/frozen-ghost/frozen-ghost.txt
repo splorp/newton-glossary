@@ -17,7 +17,6 @@ Related:
 - /terms/blueberry-frozen
 - /terms/frozen-newton
 - /terms/messagepad-2100
-- /terms/nasp
 - /terms/newton-aluminum-shell-project
 
 ----

@@ -10,6 +10,7 @@ Software developed by [Revelar](/sources/revelar) that allows the user to export
 
 Related:
 
+- /terms/accordian
 - /terms/application-definition-format
 - /terms/notable
 - /terms/rcu

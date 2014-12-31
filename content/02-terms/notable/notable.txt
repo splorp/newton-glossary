@@ -10,7 +10,7 @@ An [application](/terms/application) developed by [Revelar](/sources/revelar) th
 
 Related:
 
-- /terms/revelar
+- /terms/accordian
 - /terms/revelar-connection-utility
 - /terms/notepad
 

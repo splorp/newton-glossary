@@ -4,7 +4,7 @@ Title: Hammer
 
 Text:
 
-A low level [debugger](/terms/debugger) for [Newton OS](/terms/newton-os) development that runs on a Macintosh. Used to debug C, C++, or [ARM](/terms/arm) assembler code that will eventually run on a Newton device.
+A low level [debugger](/terms/debugger) for [Newton OS](/terms/newton-os) development that runs on a Macintosh. Used to [debug](/terms/debug) C, C++, or [ARM](/terms/arm) assembler code that will eventually run on a Newton device.
 
 ----
 

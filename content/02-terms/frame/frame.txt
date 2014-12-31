@@ -23,7 +23,7 @@ Related:
 - /terms/member-soup
 - /terms/message
 - /terms/name-reference
-- /terms/newton-streamed-object-format
+- /terms/nsof
 - /terms/object
 - /terms/option-frame
 - /terms/parent

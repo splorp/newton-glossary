@@ -25,7 +25,7 @@ Related:
 - /terms/magic-pointers-table
 - /terms/message
 - /terms/method
-- /terms/newton-streamed-object-format
+- /terms/nsof
 - /terms/object-stream-file
 - /terms/path-expression
 - /terms/pointer
