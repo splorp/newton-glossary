@@ -4,7 +4,9 @@ Title: Seahorse
 
 Text:
 
-A ruggedized [Newton OS](/terms/newton-os) clone device developed by Digital Ocean. Similar to the Digital Ocean [Tarpon](/terms/seahorse), the Seahorse featured technologies such as the first [CDPD](/terms/cdpd) modem found in a [PDA](/terms/pda), built-in wireless networking, peer-to-peer voice communication, plus optional GPS and diffused [infrared](/terms/infrared) capabilities.
+A ruggedized [Newton OS](/terms/newton-os) clone device developed by [Digital Ocean](https://web.archive.org/web/19970124001013/http://digitalocean.com/). Similar to the Digital Ocean [Tarpon](/terms/seahorse), the Seahorse featured technologies such as the first [CDPD](/terms/cdpd) modem found in a [PDA](/terms/pda), built-in wireless networking, peer-to-peer voice communication, plus optional GPS and diffused [infrared](/terms/infrared) capabilities.
+
+_cf. (link:https://web.archive.org/web/19970124001314/http://digitalocean.com/seahorse.html)_
 
 ----
 
