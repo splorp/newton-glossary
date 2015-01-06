@@ -6,7 +6,7 @@ Text:
 
 Compiled by Daniel Domberger.
 
-_cf. (link:http://wayback.archive.org/web/20091027003553/http://geocities.com/Paris/8382/)_
-_cf. (link:http://wayback.archive.org/web/20091023231241/http://geocities.com/Paris/8382/FAQ.html)_
-_cf. (link:http://wayback.archive.org/web/20090830071220/http://geocities.com/Paris/8382/garbage.html)_
-_cf. (link:http://wayback.archive.org/web/20091023143745/http://geocities.com/Paris/8382/HeapFAQ.txt)_
+_cf. (link:http://web.archive.org/web/20091027003553/http://geocities.com/Paris/8382/)_
+_cf. (link:http://web.archive.org/web/20091023231241/http://geocities.com/Paris/8382/FAQ.html)_
+_cf. (link:http://web.archive.org/web/20090830071220/http://geocities.com/Paris/8382/garbage.html)_
+_cf. (link:http://web.archive.org/web/20091023143745/http://geocities.com/Paris/8382/HeapFAQ.txt)_
