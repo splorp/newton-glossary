@@ -1,4 +1,4 @@
-Title: LCD
+Title: Display
 
 ----
 
