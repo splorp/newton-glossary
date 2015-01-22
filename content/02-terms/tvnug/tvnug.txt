@@ -13,10 +13,16 @@ _cf. (link: https://web.archive.org/web/20000619170507/http://newton.uah.edu/)_
 Related:
 
 - /terms/anug
+- /terms/dang
 - /terms/dnug
+- /terms/inug
 - /terms/lanug
 - /terms/nanug
 - /terms/newton-user-group
+- /terms/ngn
+- /terms/nose
 - /terms/nug
+- /terms/snag
 - /terms/snug
 - /terms/sonug
+- /terms/tuna

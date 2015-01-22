@@ -12,11 +12,17 @@ _cf (link:https://web.archive.org/web/19981207065148/http://www.zti.com/anug/)_
 
 Related:
 
+- /terms/dang
 - /terms/dnug
+- /terms/inug
 - /terms/lanug
 - /terms/nanug
 - /terms/newton-user-group
+- /terms/ngn
+- /terms/nose
 - /terms/nug
+- /terms/snag
 - /terms/snug
 - /terms/sonug
+- /terms/tuna
 - /terms/tvnug

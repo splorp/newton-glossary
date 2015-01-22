@@ -13,10 +13,16 @@ _cf. (link: http://www.rahul.net/flash/snug/)_
 Related:
 
 - /terms/anug
+- /terms/dang
 - /terms/dnug
+- /terms/inug
 - /terms/lanug
 - /terms/nanug
 - /terms/newton-user-group
+- /terms/ngn
+- /terms/nose
 - /terms/nug
+- /terms/snag
 - /terms/sonug
+- /terms/tuna
 - /terms/tvnug
