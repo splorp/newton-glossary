@@ -1,0 +1,21 @@
+Title: PCBman
+
+----
+
+Text:
+
+The nom de plume of David Humphreys — creator of the popular [SER-001](/terms/ser-001) serial port “[dongle destroyer](/terms/dongle-destroyer)” for the [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100). David was also responsible for the [EM300](/terms/em300) memory upgrade board and several other projects that enhanced Newton hardware.
+
+----
+
+Related:
+
+- /terms/dongle-destroyer
+- /terms/em300
+- /terms/ser-001
+
+----
+
+Source:
+
+- /sources/grant-hutchinson

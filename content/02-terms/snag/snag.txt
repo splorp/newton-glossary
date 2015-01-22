@@ -1,0 +1,30 @@
+Title: DNUG
+
+----
+
+Text:
+
+Stockholm Newton Användar Grupp
+
+A Swedish user group founded in 1999 by Alexander Ruas.
+
+_cf. (link:https://web.archive.org/web/20010303175941/http://www.users.wineasy.se/zanderc/snag/)_
+
+----
+
+Related:
+
+- /terms/anug
+- /terms/dang
+- /terms/inug
+- /terms/lanug
+- /terms/nanug
+- /terms/newton-user-group
+- /terms/ngn
+- /terms/nose
+- /terms/nug
+- /terms/snag
+- /terms/snug
+- /terms/sonug
+- /terms/tuna
+- /terms/tvnug
