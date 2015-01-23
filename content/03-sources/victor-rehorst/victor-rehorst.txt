@@ -4,5 +4,5 @@ Title: Victor Rehorst
 
 Text:
 
-_cf. (link:http://www.chuma.org/newton/)_
-New: _cf. (link:http://old.chuma.org/newton/)_
+_cf. (link:http://chuma.org/)_
+_cf. (link:http://old.chuma.org/newton/)_
