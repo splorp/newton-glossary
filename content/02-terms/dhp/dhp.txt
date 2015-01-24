@@ -4,7 +4,9 @@ Title: DHP
 
 Text:
 
-Dreaded Hinge Problem. Refers to the issue where the tension spring found in the hinge of an [eMate](/terms/emate-300) fails. Also known as [floppy lid](/terms/floppy-lid).
+Dreaded Hinge Problem
+
+Refers to the issue where the tension spring found in the hinge of an [eMate](/terms/emate-300) fails. Also known as [floppy lid](/terms/floppy-lid).
 
 ----
 

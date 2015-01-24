@@ -4,7 +4,9 @@ Title: FAQ
 
 Text:
 
-Frequently Asked Questions. A moderated and frequently updated document containing answers to common questions, as well as historical, technical, or esoteric information pertaining to a particular subject. The [Newton FAQ](http://www.splorp.com/newton/faq/) is one such document.
+Frequently Asked Questions
+
+A moderated and frequently updated document containing answers to common questions, as well as historical, technical, or esoteric information pertaining to a particular subject. The [Newton FAQ](http://www.splorp.com/newton/faq/) is one such document.
 
 ----
 

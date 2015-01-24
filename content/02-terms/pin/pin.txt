@@ -4,4 +4,6 @@ Title: PIN
 
 Text:
 
-Personal Identification Number. A unique series of numerals that allows secure access to a system or device. Similar to a password.
+Personal Identification Number
+
+A unique series of numerals that allows secure access to a system or device. Similar to a password.

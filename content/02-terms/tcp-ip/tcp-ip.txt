@@ -4,7 +4,9 @@ Title: TCP/IP
 
 Text:
 
-Transmission Control Protocol over Internet Protocol. The standard routable data transmission [protocol](/terms/protocol) for networking based on transport layer ([TCP](/terms/tcp)) and network layer ([IP](/terms/ip)) protocols.
+Transmission Control Protocol over Internet Protocol
+
+The standard routable data transmission [protocol](/terms/protocol) for networking based on transport layer ([TCP](/terms/tcp)) and network layer ([IP](/terms/ip)) protocols.
 
 ----
 

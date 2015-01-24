@@ -4,7 +4,9 @@ Title: PCMCIA
 
 Text:
 
-Personal Computer Memory Card International Association. An acronym used to describe the type of removable memory and peripheral [cards](/terms/pc-card) used by Newton devices and the standards pertaining to those cards.
+Personal Computer Memory Card International Association
+
+An acronym used to describe the type of removable memory and peripheral [cards](/terms/pc-card) used by Newton devices and the standards pertaining to those cards.
 
 ----
 

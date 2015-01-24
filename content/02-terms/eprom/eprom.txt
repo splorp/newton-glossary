@@ -4,7 +4,9 @@ Title: EPROM
 
 Text:
 
-Erasable Programmable Read Only Memory. A memory chip that is programmable, reusable, and able to hold its content until erased under ultraviolet light.
+Erasable Programmable Read Only Memory
+
+A memory chip that is programmable, reusable, and able to hold its content until erased under ultraviolet light.
 
 ----
 

@@ -4,7 +4,9 @@ Title: VLSI
 
 Text:
 
-Very Large Scale Integration. Semiconductor integrated circuits composed of hundreds of thousands of logic elements or memory cells.
+Very Large Scale Integration
+
+Semiconductor integrated circuits composed of hundreds of thousands of logic elements or memory cells.
 
 ----
 

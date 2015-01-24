@@ -4,7 +4,9 @@ Title: RAM
 
 Text:
 
-Random Access Memory. A type of data storage where the order of access to the contents does not affect the speed of access.
+Random Access Memory
+
+A type of data storage where the order of access to the contents does not affect the speed of access.
 
 ----
 

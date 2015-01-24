@@ -4,7 +4,9 @@ Title: ROM
 
 Text:
 
-Read Only Memory. A type of non-volatile data storage which is manufactured with fixed contents. The [Newton OS](/terms/newton-os) resides in ROM and cannot be changed or deleted directly.
+Read Only Memory
+
+A type of non-volatile data storage which is manufactured with fixed contents. The [Newton OS](/terms/newton-os) resides in ROM and cannot be changed or deleted directly.
 
 ----
 

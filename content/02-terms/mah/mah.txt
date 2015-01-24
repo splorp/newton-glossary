@@ -4,7 +4,9 @@ Title: mAh
 
 Text:
 
-Milliamp Hours. A unit measuring the amount of electric current used by a circuit in thousandths of amps, multiplied by the hours of use. The mAh value is used to describe the capacity of rechargeable batteries. For example, a battery rated at 1500 mAh should be able to power a device drawing 100 milliamps for fifteen hours.
+Milliamp Hours
+
+A unit measuring the amount of electric current used by a circuit in thousandths of amps, multiplied by the hours of use. The mAh value is used to describe the capacity of rechargeable batteries. For example, a battery rated at 1500 mAh should be able to power a device drawing 100 milliamps for fifteen hours.
 
 ----
 

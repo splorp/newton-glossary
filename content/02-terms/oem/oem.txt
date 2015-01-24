@@ -4,7 +4,9 @@ Title: OEM
 
 Text:
 
-Original Equipment Manufacturer. A company that manufacturers and sells products or parts to a reseller or third party company. This often involves rebranding or repackaging the original products or parts.
+Original Equipment Manufacturer
+
+A company that manufacturers and sells products or parts to a reseller or third party company. This often involves rebranding or repackaging the original products or parts.
 
 ----
 

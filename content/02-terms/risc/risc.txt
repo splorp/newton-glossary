@@ -4,7 +4,9 @@ Title: RISC
 
 Text:
 
-Reduced Instruction Set Computer. A processor designed to execute a rapid sequence of simple instructions rather than a large variety of complex instructions.
+Reduced Instruction Set Computer
+
+A processor designed to execute a rapid sequence of simple instructions rather than a large variety of complex instructions.
 
 ----
 
