@@ -1,0 +1,25 @@
+Title: EZXfer
+
+----
+
+Text:
+
+A software utility by [EZShow Systems](/sources/ezshow-systems) which facilitates the transfer of [Microsoft PowerPoint 97](http://en.wikipedia.org/wiki/Microsoft_PowerPoint) slides from a Windows computer to a [Newton OS](/terms/newton-os) device. PowerPoint slides are converted to a [package file](/terms/package-file) which can be transferred to the Newton device for use with the [EZPresenter](/terms/ezpresenter) presentation software.
+
+----
+
+Related:
+
+- /terms/ez2tv
+- /terms/ez2vga
+- /terms/ezpresenter
+- /terms/ezshow
+- /terms/ezshowcard
+- /terms/pc-card
+- /terms/pcmcia
+
+----
+
+Source:
+
+- /sources/ezshow-systems

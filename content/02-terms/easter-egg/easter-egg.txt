@@ -1,0 +1,22 @@
+Title: Easter Egg
+
+----
+
+Text:
+
+A message, image, inside joke, or feature that has been intentional hidden in an [application](/terms/application), [operating system](/terms/operating-system), or other media. Easter eggs are generally activated by a series of undocumented commands or actions.
+
+Examples of [Newton OS](/terms/newton-os) easter eggs include [Area 51](/terms/area-51) and [Egg Freckles](/terms/egg-freckles).
+
+----
+
+Related:
+
+- /terms/area-51
+- /terms/egg-freckles
+
+----
+
+Source:
+
+- /sources/wikipedia

@@ -1,0 +1,13 @@
+Title: Kbase
+
+----
+
+Text:
+
+A nickname for the AppleCare Knowledge Base Archive, a technical support database maintained by Apple and consisting of thousands of documents related to the company’s products and services. Each document in the library could be referenced by a unique identification number. The Kbase was preceded by the Apple Technical Information Library ([TIL](/terms/til)) and superseded by the current [Apple Support](http://www.apple.com/support/) site.
+
+----
+
+Related:
+
+- /terms/til
