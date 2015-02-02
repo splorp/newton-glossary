@@ -15,8 +15,6 @@ Related:
 - /terms/ezpresenter
 - /terms/ezshow
 - /terms/ezshowcard
-- /terms/pc-card
-- /terms/pcmcia
 
 ----
 

@@ -21,11 +21,17 @@ Related:
 - /terms/lanug
 - /terms/nanug
 - /terms/newton-user-group
-- /terms/ngn
 - /terms/nose
 - /terms/nug
+- /terms/nugom
 - /terms/snag
 - /terms/snug
 - /terms/sonug
 - /terms/tuna
 - /terms/tvnug
+
+----
+
+Source:
+
+- /sources/newton-faq

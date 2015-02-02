@@ -19,6 +19,7 @@ Related:
 - /terms/ngn
 - /terms/nose
 - /terms/nug
+- /terms/nugom
 - /terms/sig
 - /terms/snag
 - /terms/snug

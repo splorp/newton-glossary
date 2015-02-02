@@ -18,13 +18,20 @@ Related:
 - /terms/dang
 - /terms/dnug
 - /terms/inug
-- /terms/nanug
+- /terms/lanug
 - /terms/newton-user-group
 - /terms/ngn
 - /terms/nose
 - /terms/nug
+- /terms/nugom
 - /terms/snag
 - /terms/snug
 - /terms/sonug
 - /terms/tuna
 - /terms/tvnug
+
+----
+
+Source:
+
+- /sources/newton-faq

@@ -22,7 +22,14 @@ Related:
 - /terms/ngn
 - /terms/nose
 - /terms/nug
+- /terms/nugom
 - /terms/snag
 - /terms/sonug
 - /terms/tuna
 - /terms/tvnug
+
+----
+
+Source:
+
+- /sources/newton-faq
