@@ -20,6 +20,7 @@ Related:
 - /terms/reset-button
 - /terms/software-reset
 - /terms/system-reset
+- /terms/warm-boot
 
 ----
 

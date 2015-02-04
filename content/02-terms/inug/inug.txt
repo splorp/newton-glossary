@@ -13,6 +13,7 @@ Related:
 - /terms/anug
 - /terms/dang
 - /terms/dnug
+- /terms/hknug
 - /terms/lanug
 - /terms/nanug
 - /terms/newton-user-group
