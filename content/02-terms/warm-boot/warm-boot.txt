@@ -1,0 +1,13 @@
+Title: Warm Boot
+
+----
+
+Text:
+
+See [Soft Reset](/terms/soft-reset)
+
+----
+
+Source:
+
+- /sources/newtontalk

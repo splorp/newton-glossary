@@ -1,0 +1,38 @@
+Title: HKNUG
+
+----
+
+Text:
+
+Hong Kong Newton User Group
+
+A Chinese user group founded on July 1st, 1997 — the same day Hong Kong’s sovereignty was transferred from the United Kingdom to the People’s Republic of China.
+
+_cf. (link:https://web.archive.org/web/19990225162239/http://home.hkstar.com/~hknug/)_
+
+----
+
+Related:
+
+- /terms/anug
+- /terms/dang
+- /terms/dnug
+- /terms/inug
+- /terms/lanug
+- /terms/nanug
+- /terms/newton-user-group
+- /terms/ngn
+- /terms/nose
+- /terms/nug
+- /terms/nugom
+- /terms/snag
+- /terms/snug
+- /terms/sonug
+- /terms/tuna
+- /terms/tvnug
+
+----
+
+Source:
+
+- /sources/newton-faq
