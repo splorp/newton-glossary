@@ -4,7 +4,7 @@ Title: SimpleMail
 
 Text:
 
-An email [transport](/terms transport) created by [Simon Bell}(http://newtonresearch.org/) that allows the user send and receive messages over the internet.
+An email [transport](/terms/transport) created by [Simon Bell](/sources/simon-bell) that allows the user to send and receive messages over the internet.
 
 _cf. (link:http://newtonresearch.org/simplemail/)_
 
