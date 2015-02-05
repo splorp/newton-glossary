@@ -12,8 +12,6 @@ Related:
 
 - /terms/newton-backup-utility
 - /terms/newton-connection-utilities
-- /terms/nbu
-- /terms/ncu
 
 ----
 

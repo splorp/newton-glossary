@@ -10,18 +10,12 @@ Software developed by [Apple](http://www.apple.com/) that allows the user to exc
 
 Related:
 
-- /terms/nbe
-- /terms/nbu
-- /terms/nbx
 - /terms/nck
-- /terms/ncu
-- /terms/ncx
-- /terms/newtbx
 - /terms/newton-backup-express
 - /terms/newton-backup-utility
 - /terms/newton-connection
 - /terms/newton-connection-utilities
-- /terms/nwt
+- /terms/newton-package-installer
 - /terms/package-installer
 - /terms/synchronize
 - /terms/workfile

@@ -11,18 +11,13 @@ Software developed by an elusive fellow named Bob Anderson as an alternative to 
 Related:
 
 - /terms/nbe
-- /terms/nbu
 - /terms/nbx
-- /terms/nck
-- /terms/ncu
-- /terms/ncx
 - /terms/newtbx
 - /terms/newton-backup-utility
 - /terms/newton-connection
 - /terms/newton-connection-kit
 - /terms/newton-connection-utilities
 - /terms/newton-package-installer
-- /terms/npi
 - /terms/package-installer
 - /terms/restore
 

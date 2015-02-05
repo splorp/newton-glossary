@@ -10,14 +10,7 @@ Software developed by [Apple](http://www.apple.com/) that allows you to backup a
 
 Related:
 
-- /terms/nbe
-- /terms/nbk
 - /terms/nbu
-- /terms/nbx
-- /terms/nck
-- /terms/ncu
-- /terms/ncx
-- /terms/newtbx
 - /terms/newton-backup-express
 - /terms/newton-connection
 - /terms/newton-connection-kit

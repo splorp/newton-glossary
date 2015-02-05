@@ -12,7 +12,6 @@ The file extension used to identify a [Newton Connection Kit](/terms/newton-conn
 
 Related:
 
-- /terms/nck
 - /terms/newton-connection-kit
 - /terms/rdcl
 - /terms/synchronize
