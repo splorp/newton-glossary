@@ -4,7 +4,7 @@ Title: Card (Application)
 
 Text:
 
-An [application](/terms/application) that allows the user to get information about a [PC card](/terms/pc-card) inserted into a Newton device. If the PC card is an [external store](/terms/external-store), the Card application can be used to rename, back up, restore, and erase information stored on the card.
+An [application](/terms/application) that allows the user to get information about a [PC card](/terms/pc-card) inserted into a Newton device. If the PC card is an [external store](/terms/external-store), the Card application can be used to rename, backup, restore, and erase information stored on the card.
 
 ----
 
