@@ -1,0 +1,28 @@
+Title: Newton Connection
+
+----
+
+Text:
+
+An [application](/terms/application) for Mac OS X created by [Simon Bell](/sources/simon-bell) that essentially replaces the functionality found in Apple’s [Newton Connection Utilities](/terms/newton-connection-utilities) (NCU). Newton Connection allows the user to backup information, install packages, and transfer data to and from a [Newton OS](/terms/newton-os) device. Also known as [NCX](/terms/ncx).
+
+_cf. (link:http://newtonresearch.org/connection/)_
+
+----
+
+Related:
+
+- /terms/ncx
+- /terms/newton-backup-express
+- /terms/newton-backup-utility
+- /terms/newton-connection-kit
+- /terms/newton-connection-utilities
+- /terms/newton-package-installer
+- /terms/package-installer
+- /terms/synchronize
+
+----
+
+Source:
+
+- /sources/simon-bell
