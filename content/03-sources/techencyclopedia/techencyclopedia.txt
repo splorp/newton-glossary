@@ -4,5 +4,4 @@ Title: TechEncyclopedia
 
 Text:
 
-_cf. (link:http://www.techweb.com/encyclopedia/)_
-New: _cf. (link:http://www.computerlanguage.com/)_
+The [TechEncyclopedia](http://www.techweb.com/encyclopedia/) was originally part of CMP Media’s [TechWeb](http://web.archive.org/web/19961119045519/http://techweb.com/) site, using information provided by [The Computer Language Company](http://www.computerlanguage.com/).
