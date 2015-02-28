@@ -1,0 +1,22 @@
+Title: RS-422
+
+----
+
+Text:
+
+A standard for serial communication between computers and peripheral devices that features increased data transfer rates and cabling distance than [RS-232](/terms/rs-232). Devices supporting the RS-422 standard are outfitted with DB-25 or DC-37 connectors. An RS-232 compatible version of RS-422 using a [Mini-DIN}(/terms/mini-din) connector was included on Mac OS computers and peripherals, eventually being replaced by [USB](/terms/usb).
+
+----
+
+Related:
+
+- /terms/geoport
+- /terms/mini-din
+- /terms/rs-232
+- /terms/usb
+
+----
+
+Source:
+
+- /sources/wikipedia

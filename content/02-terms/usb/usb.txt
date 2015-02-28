@@ -18,8 +18,8 @@ Related:
 - /terms/geoport
 - /terms/mini-din
 - /terms/newton-interconnect
-- /terms/rs232
-- /terms/rs422
+- /terms/rs-232
+- /terms/rs-422
 
 ----
 
