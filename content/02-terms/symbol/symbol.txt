@@ -1,0 +1,24 @@
+Title: Symbol
+
+----
+
+Text:
+
+An [object](/terms/object) used as an identifier. [NewtonScript](/terms/newtonscript) uses symbols to name [variables](/terms/variable), [classes](/terms/class), [messages](/terms/message), and frame [slots](/terms/slot). You can also use symbols as simple identifying values, as you would use enumerated types in other languages.
+
+----
+
+Related:
+
+- /terms/object
+- /terms/variable
+- /terms/class
+- /terms/message
+- /terms/frame
+- /terms/slot
+
+----
+
+Source:
+
+- /sources/newtonscript-programming-language

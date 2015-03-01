@@ -1,0 +1,22 @@
+Title: Stack
+
+----
+
+Text:
+
+A section of memory reserved for calculations, storage of local [variables](/terms/variable), or keeping track of internal operations and [functions](/terms/function).
+
+----
+
+Related:
+
+- /terms/function
+- /terms/function-call-stack
+- /terms/stack-activation-record
+- /terms/variable
+
+----
+
+Source:
+
+- /sources/techencyclopedia

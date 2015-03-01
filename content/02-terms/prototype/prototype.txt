@@ -1,0 +1,13 @@
+Title: Prototype
+
+----
+
+Text:
+
+See [proto](/terms/proto)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
