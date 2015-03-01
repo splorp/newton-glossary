@@ -23,6 +23,6 @@ Related:
 
 ----
 
-Sources:
+Source:
 
-- /source/npg
+- /sources/npg

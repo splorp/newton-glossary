@@ -8,7 +8,7 @@ A Windows-based [application](/terms/application) created by [Victor Rehorst](/s
 
 ----
 
-Source:
+Related:
 
-- /sources/in-out-box
-- /sources/notepad
+- /terms/in-out-box
+- /terms/notepad
