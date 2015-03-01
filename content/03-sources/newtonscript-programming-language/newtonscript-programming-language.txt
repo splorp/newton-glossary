@@ -4,7 +4,7 @@ Title: The NewtonScript Programming Language
 
 Text:
 
-_cf. (link:http://manuals.info.apple.com/MANUALS/1000/MA1508/en_US/NewtonScriptProgramLanguage.PDF)_
+_cf. (link:http://manuals.info.apple.com/en_US/NewtonScriptProgramLanguage.PDF)_
 _cf. (link:http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf)_
 
 Unofficial Japanese translation by Masahiro Saito.
