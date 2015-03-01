@@ -6,7 +6,7 @@ Text:
 
 After Newton
 
-The period of time that has elapsed since the cancellation of the Newton. Generally agreed to be any point after February 27th, 1998.
+The period of time that has elapsed since the cancellation of the Newton project. Generally agreed to be any point after [February 27th, 1998](https://web.archive.org/web/20040528183253/http://www.apple.com/pr/library/1998/feb/27newton.html).
 
 AN is also an abbreviation for the [Action Names](/terms/action-names) software package.
 
