@@ -12,6 +12,7 @@ Related:
 
 - /terms/proto
 - /terms/proto-template
+- /terms/prototype
 - /terms/system-proto
 
 ----
