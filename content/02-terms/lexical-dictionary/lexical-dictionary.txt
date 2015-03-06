@@ -4,7 +4,7 @@ Title: Lexical Dictionary
 
 Text:
 
-A dictionary that specifies [grammar](/terms/grammar) or syntax used to classify user input — such as dates, times, phone numbers, and currency values.
+A [dictionary](/terms/dictionary) that specifies [grammar](/terms/grammar) or syntax used to classify specifically formatted user [input](/terms/input) such as dates, times, telephone numbers, and currency values.
 
 ----
 

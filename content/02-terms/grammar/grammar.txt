@@ -4,7 +4,7 @@ Title: Grammar
 
 Text:
 
-A set of rules defining the format of an entity to be recognized, such as dates, times, phone numbers, or currency values. [Lexical dictionaries](/terms/lexical-dictionary) are composed of sets of grammars.
+A set of rules defining the format of an entity to be recognized, such as dates, times, telephone numbers, or currency values. [Lexical dictionaries](/terms/lexical-dictionary) are composed of sets of grammars.
 
 ----
 
