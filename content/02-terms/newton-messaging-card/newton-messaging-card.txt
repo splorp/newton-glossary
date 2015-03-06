@@ -4,7 +4,7 @@ Title: Newton Messaging Card
 
 Text:
 
-A [PC card](/terms/pc-card) developed by Motorola that allowed a Newton device to receive and store wireless network messages over a variety of paging systems and news services. The Newton Messaging Card appears to have been based on the Motorola [NewsCard](/terms/newscard), which shares similar specifications.
+A [PC card](/terms/pc-card) developed by [Motorola](http://www.motorola.com/) that allowed a Newton device to receive and store wireless network messages over a variety of paging systems and news services. The Newton Messaging Card appears to have been based on the Motorola [NewsCard](/terms/newscard), which shares similar specifications.
 
 _cf. (link:http://www.forcedperfect.net/hardware/newton/newtonmessagingcard/)_
 
