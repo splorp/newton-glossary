@@ -10,7 +10,7 @@ A device manufactured by a third party company using Newton technology licensed 
 
 Related:
 
-- /terms/access-device
+- /terms/access-device-2000
 - /terms/expertpad
 - /terms/marco
 - /terms/notephone

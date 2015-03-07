@@ -4,7 +4,7 @@ Title: AD2000
 
 Text:
 
-See [Access Device](/terms/access-device)
+See [Access Device 2000](/terms/access-device-2000)
 
 ----
 
