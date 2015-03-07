@@ -4,7 +4,7 @@ Title: Input
 
 Text:
 
-Information transferred into a Newton device from an external source. Examples of input sources include pen, modem, serial cable, and infrared [beaming](/terms/beaming).
+Information transferred into a Newton device from an external source or entered directly by the user. Examples of input sources include [pen](/terms/pen), voice, modem, serial cable, and infrared [beaming](/terms/beaming).
 
 ----
 

@@ -4,7 +4,9 @@ Title: Classroom Exchange
 
 Text:
 
-Software that facilitates the connection of one or several [eMate 300](/terms/emate-300) devices to a Mac OS computer and the transferring information between the those devices and the computer simultaneously.
+Software developed by [Apple](http://www.apple.com/) that facilitates the connection of one or more [eMate 300](/terms/emate-300) devices to a Mac OS computer and the simultaneous transferring of information between those devices.
+
+_cf. screenshot_
 
 ----
 
