@@ -1,0 +1,23 @@
+Title: EZShow
+
+----
+
+Text:
+
+A range of hardware and software products by [EZShow Systems](/sources/ezshow-systems) that allow certain [Newton OS](/terms/newton-os) devices to display content on external video screens. Products include the [EZ2TV](/terms/ez2tv) and [EZ2VGA](/terms/ez2vga) PC cards, as well as the [EZPresenter](/terms/ezpresenter) presentation software.
+
+----
+
+Related:
+
+- /terms/ez2tv
+- /terms/ez2vga
+- /terms/ezpresenter
+- /terms/ezshowcard
+- /terms/ezxfer
+
+----
+
+Source:
+
+- /sources/ezshow-systems

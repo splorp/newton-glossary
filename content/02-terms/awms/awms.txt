@@ -1,0 +1,7 @@
+Title: AWMS
+
+----
+
+Text:
+
+See [Apple Wireless Messaging Service](/terms/apple-wireless-messaging-service)

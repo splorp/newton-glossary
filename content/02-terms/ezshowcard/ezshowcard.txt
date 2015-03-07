@@ -1,0 +1,23 @@
+Title: EZShowCard
+
+----
+
+Text:
+
+A [Newton OS](/terms/newton-os) driver [package](/terms/package) that works in conjunction with the [EZPresenter](/terms/ezpresenter) presentation software.
+
+----
+
+Related:
+
+- /terms/ez2tv
+- /terms/ez2vga
+- /terms/ezpresenter
+- /terms/ezshow
+- /terms/ezxfer
+
+----
+
+Source:
+
+- /sources/ezshow-systems

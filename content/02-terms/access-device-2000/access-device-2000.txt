@@ -1,0 +1,17 @@
+Title: Access Device 2000
+
+----
+
+Text:
+
+A ruggedized [Newton OS](/terms/newton-os) device developed by [Harris Corporation](http://harris.com/) based on the [MessagePad 2000](/terms/messagepad-2000). Also known as the [AD2000](/terms/ad2000), it was primary used by utility companies for data collection, equipment testing, and communicating over telephone lines. The Newton OS version of the Access Device was eventually [replaced by a similar model](http://www.pencomputing.com/features/harris.html) that used the Windows CE operating system.
+
+Third party devices that utilize a licensed version of the Newton OS are often referred to as [clones](/terms/clone).
+
+----
+
+Related:
+
+- /terms/clone
+- /terms/messagepad-2000
+- /terms/supertech-2000

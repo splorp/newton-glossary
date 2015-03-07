@@ -1,0 +1,26 @@
+Title: Dictionary
+
+----
+
+Text:
+
+A system construct against which [input](/terms/input) strings are matched, as a means of ensuring valid output from the [cursive](/terms/cursive-recognizer) and [print](/terms/print-recognizer) text recognizers. The [Newton OS](/terms/newton-os) supplies [system dictionaries](/terms/system-dictionary) that define names, places, dates, times, telephone numbers, and commonly used words to the text recognizers. The user can expand the default vocabulary by adding new words to a [user dictionary](/terms/user-dictionary).
+
+----
+
+Related:
+
+- /terms/custom-dictionary
+- /terms/grammar
+- /terms/handwriting-recognition
+- /terms/enumerated-dictionary
+- /terms/lexical-dictionary
+- /terms/personal-word-list
+- /terms/system-dictionary
+- /terms/user-dictionary
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

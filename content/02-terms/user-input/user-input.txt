@@ -1,0 +1,7 @@
+Title: User Input
+
+----
+
+Text:
+
+See [Input](/terms/input)
