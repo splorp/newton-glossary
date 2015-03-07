@@ -10,7 +10,7 @@ A set of rules defining the format of an entity to be recognized, such as dates,
 
 Related:
 
-- /terms/enumerated-dictionary
+- /terms/dictionary
 - /terms/lexical-dictionary
 
 ----

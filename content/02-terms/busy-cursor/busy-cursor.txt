@@ -4,7 +4,7 @@ Title: Busy Cursor
 
 Text:
 
-A graphical indicator automatically displayed by the system while it is temporarily unable to process user input. Often represented by an [icon](/terms/icon) of a watch or clock.
+A graphical indicator automatically displayed by the system while it is temporarily unable to process user [input](/terms/input). Often represented by an [icon](/terms/icon) of a watch or clock.
 
 ----
 

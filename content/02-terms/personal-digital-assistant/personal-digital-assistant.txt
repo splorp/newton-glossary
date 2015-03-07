@@ -4,12 +4,13 @@ Title: Personal Digital Assistant
 
 Text:
 
-A small handheld computer — such as a Newton device — that typically provides calendar, contact management, and note-taking [applications](/terms/application). Small keyboards and pen-based input systems are commonly used for user input. The original term was coined by former [Apple](http://www.apple.com/) CEO [John Sculley](http://en.wikipedia.org/wiki/John_Sculley). Commonly referred to as a [PDA](/terms/pda).
+A small handheld computer — such as a Newton device — that typically provides calendar, contact management, and note-taking [applications](/terms/application). Small keyboards and pen-based [input](/terms/input) systems are commonly used for user input. The original term was coined by former [Apple](http://www.apple.com/) CEO [John Sculley](http://en.wikipedia.org/wiki/John_Sculley). Commonly referred to as a [PDA](/terms/pda).
 
 ----
 
 Related:
 
+- /terms/craft-digital-assistant
 - /terms/pda
 
 ----

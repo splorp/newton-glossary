@@ -4,7 +4,7 @@ Title: Context Sensitive
 
 Text:
 
-Describes an [application](/terms/application) that can adjust its actions according to the current situation or context. For example, an application with context sensitive user input will adjust the [handwriting recognition](/terms/handwriting-recognition) according to the type of input [field](/terms/field) being used — such as name, date, time, telephone number, etc.
+Describes an [application](/terms/application) that can adjust its actions according to the current situation or context. For example, an application with context sensitive user [input](/terms/input) will adjust the [handwriting recognition](/terms/handwriting-recognition) according to the type of input [field](/terms/field) being used — such as name, date, time, telephone number, etc.
 
 ----
 

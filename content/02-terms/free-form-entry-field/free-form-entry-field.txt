@@ -4,7 +4,7 @@ Title: Free Form Entry Field
 
 Text:
 
-A [field](/terms/field) that accepts any characters as user input.
+A [field](/terms/field) that accepts any characters as user [input](/terms/input).
 
 ----
 
@@ -12,6 +12,7 @@ Related:
 
 - /terms/expando
 - /terms/field
+- /terms/input
 - /terms/input-area
 - /terms/input-line
 - /terms/restricted-entry-field

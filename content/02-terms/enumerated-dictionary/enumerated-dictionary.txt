@@ -10,10 +10,13 @@ A list of strings that can be matched when [handwriting recognition](/terms/hand
 
 Related:
 
+- /terms/custom-dictionary
+- /terms/dictionary
 - /terms/grammar
 - /terms/handwriting-recognition
 - /terms/lexical-dictionary
 - /terms/personal-word-list
+- /terms/system-dictionary
 - /terms/user-dictionary
 
 ----

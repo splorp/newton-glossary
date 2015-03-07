@@ -4,7 +4,7 @@ Title: Slip
 
 Text:
 
-A [container view](/terms/container-view) designated with a [matte border](/terms/matte-border) that an [application](/terms/application) displays to obtain detailed user input, or to present alternatives which a user may choose to determine the outcome of a task that has been started.
+A [container view](/terms/container-view) designated with a [matte border](/terms/matte-border) that an [application](/terms/application) displays to obtain detailed user [input](/terms/input), or to present alternatives which a user may choose to determine the outcome of a task that has been started.
 
 _cf. screenshot_
 
@@ -17,6 +17,7 @@ Related:
 - /terms/container-view
 - /terms/find-slip
 - /terms/info-slip
+- /terms/input
 - /terms/item-info-slip
 - /terms/memory-info-slip
 - /terms/notification-slip

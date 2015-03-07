@@ -10,6 +10,7 @@ A editable list of words and names that the Newton device uses in addition to th
 
 Related:
 
+- /terms/dictionary
 - /terms/grammar
 - /terms/handwriting-recognition
 - /terms/enumerated-dictionary

@@ -17,8 +17,6 @@ Related:
 - /terms/ezshow
 - /terms/ezshowcard
 - /terms/ezxfer
-- /terms/pc-card
-- /terms/pcmcia
 
 ----
 
