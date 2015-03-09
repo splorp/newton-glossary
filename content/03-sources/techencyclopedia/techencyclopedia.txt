@@ -4,4 +4,4 @@ Title: TechEncyclopedia
 
 Text:
 
-The [TechEncyclopedia](http://www.techweb.com/encyclopedia/) was originally part of CMP Media’s [TechWeb](http://web.archive.org/web/19961119045519/http://techweb.com/) site, using information provided by [The Computer Language Company](http://www.computerlanguage.com/).
+The [TechEncyclopedia](http://www.techweb.com/encyclopedia/) was originally part of CMP Media’s [TechWeb](https://web.archive.org/web/19961119045519/http://techweb.com/) site, using information provided by [The Computer Language Company](http://www.computerlanguage.com/).
