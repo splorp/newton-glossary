@@ -4,4 +4,19 @@ Title: EVT
 
 Text:
 
-See [Engineering Verification Test](/terms/engineering-verification-test)
+Engineering Verification Test
+
+An early engineering prototype of a piece of hardware. Essentially an alpha release.
+
+----
+
+Related:
+
+- /terms/dvt
+- /terms/pvt
+
+----
+
+Source:
+
+- /sources/newton-faq

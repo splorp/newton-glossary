@@ -4,7 +4,16 @@ Title: PVT
 
 Text:
 
-See [Product Verification Test](/terms/product-verification-test)
+Product Verification Test
+
+A pre-release edition of a piece of hardware for final production evaluation testing. Essentially a golden master.
+
+----
+
+Related:
+
+- /terms/dvt
+- /terms/evt
 
 ----
 

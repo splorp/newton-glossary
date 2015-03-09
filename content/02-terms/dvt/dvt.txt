@@ -4,4 +4,20 @@ Title: DVT
 
 Text:
 
-See [Development Verification Test](/terms/development-verification-test)
+Development Verification Test
+
+A later stage engineering prototype of a piece of hardware. Very close in specifications to a final product device, it is essentially a beta release.
+
+----
+
+Related:
+
+- /terms/evt
+- /terms/pvt
+
+----
+
+Source:
+
+- /sources/newton-faq
+- /sources/maurice-sharp
