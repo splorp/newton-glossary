@@ -5,28 +5,31 @@
 <?php $page->isChildOf($pages->find('terms')) || $page->isChildOf($pages->find('sources')) ? snippet('prevnext') : '' ; ?>
 
 <section class="content">
-  <article>
-    <h1><?php echo html($page->title()) ?></h1>
-    <?php echo kirbytext($page->text()) ?>
+	<article>
+		<h1><?php echo html($page->title()) ?></h1>
+		<?php echo kirbytext($page->text()) ?>
 
-	<?php $page->isChildOf($pages->find('terms')) || $page->isChildOf($pages->find('sources')) ? '' : snippet('submenu'); ?>
+		<?php $page->isChildOf($pages->find('terms')) || $page->isChildOf($pages->find('sources')) ? '' : snippet('submenu'); ?>
 	
-    <?php if($page->source()): ?>
-        <?php foreach(related($page->source()) as $source): ?>
-          <p><em>Source: <a href="<?php echo $source->url() ?>"><?php echo html($source->title()) ?></a></em></p>
-        <?php endforeach ?>
-    <?php endif ?>
+		<?php if($page->source()): ?>
+		<ul class="src">
+			<li><em>Source:</em></li>
+			<?php foreach(related($page->source()) as $source): ?>
+			<li><em><a href="<?php echo $source->url() ?>"><?php echo html($source->title()) ?></a></em></li>
+			<?php endforeach ?>
+		</ul>
+		<?php endif ?>
 
-    <?php if($page->related()): ?>
-      <h2>Related Terms</h2>
-      <ul>
-        <?php foreach(related($page->related()) as $related): ?>
-          <li><a href="<?php echo $related->url() ?>"><?php echo html($related->title()) ?></a></li>
-        <?php endforeach ?>
-      </ul>
-    <?php endif ?>
+		<?php if($page->related()): ?>
+		<h2>Related Terms</h2>
+		<ul>
+			<?php foreach(related($page->related()) as $related): ?>
+			<li><a href="<?php echo $related->url() ?>"><?php echo html($related->title()) ?></a></li>
+			<?php endforeach ?>
+		</ul>
+		<?php endif ?>
 
-  </article>
+	</article>
 </section>
 
 <?php snippet('footer') ?>

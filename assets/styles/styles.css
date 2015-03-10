@@ -91,6 +91,18 @@ article ul, article ol {
 	margin-left: 40px;
 	}
 
+article ul.src {
+	margin-left: 0;
+	}
+
+article ul.src li {
+	list-style: none;
+	}
+
+article h2 {
+	float: none;
+	}
+
 header h1 {
 	font-size: 32px;
 	margin-bottom: 10px;
