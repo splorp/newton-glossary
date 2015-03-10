@@ -4,4 +4,29 @@ Title: System
 
 Text:
 
-See [Operating System](/terms/operating-system) or [System (Font)](/terms/system-font)
+One of the default bitmap [fonts](/terms/font) used on the Newton. Derived from the [Espy](/terms/espy) family of sans serif typefaces originally designed for use in Apple’s less than spectacular [eWorld](/terms/eworld) online service.
+
+System can also refer to the [operating system](/terms/operating-system) of a computer.
+
+----
+
+Related:
+
+- /terms/casual
+- /terms/espy
+- /terms/eworld
+- /terms/fancy
+- /terms/font
+- /terms/font-size
+- /terms/font-spec
+- /terms/font-style
+- /terms/operating-system
+- /terms/point
+- /terms/simple
+- /terms/styles
+
+----
+
+Source:
+
+- /sources/grant-hutchinson

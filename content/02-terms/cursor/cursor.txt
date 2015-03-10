@@ -1,4 +1,4 @@
-Title: Cursor (User Interface)
+Title: Cursor
 
 ----
 
@@ -6,20 +6,26 @@ Text:
 
 A visually distinct mark indicating where newly typed text will be inserted. The cursor moves as text is typed and can also be moved by the user to change the insertion point within a document or [field](/terms/field). Using different graphic representations, the cursor can also indicate system status, such as a [busy cursor](/terms/busy-cursor).
 
+In [NewtonScript](/terms/newtonscript), a cursor is an [object](/terms/object) returned by the query [method](/terms/method). The cursor contains methods that iterate over a set of [soup](/terms/soup) entries meeting the criteria specified in the query. The addition or deletion of entries matching the query specification is automatically reflected in the set of entries referenced by the cursor, even if the changes occur after the original query was made.
+
 ----
 
 Related:
 
+- /terms/blinking-line
 - /terms/busy-cursor
 - /terms/caret
-- /terms/cursor-object
-- /terms/blinking-line
 - /terms/edit
+- /terms/entry
 - /terms/field
 - /terms/input-line
+- /terms/method
+- /terms/object
+- /terms/soup
 
 ----
 
 Source:
 
 - /sources/foldoc
+- /sources/newton-programmers-guide

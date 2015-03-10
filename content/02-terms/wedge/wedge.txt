@@ -1,4 +1,4 @@
-Title: Wedge (Shape)
+Title: Wedge
 
 ----
 
@@ -6,14 +6,22 @@ Text:
 
 A pie-shaped segment of an [oval](/terms/oval), bounded by a pair of radii joining at the oval’s center.
 
+Wedge is also one of the code names for the [MessagePad 100](/terms/messagepad-100) device.
+
 ----
 
 Related:
 
 - /terms/arc
+- /terms/batman
+- /terms/batmobile
+- /terms/h1000
+- /terms/junior
 - /terms/line
+- /terms/messagepad-100
 - /terms/oval
 - /terms/picture
+- /terms/pocket-newton
 - /terms/polygon
 - /terms/rectangle
 - /terms/rounded-rectangle
@@ -23,4 +31,5 @@ Related:
 
 Source:
 
+- /sources/appledesign
 - /sources/newton-programmers-guide
