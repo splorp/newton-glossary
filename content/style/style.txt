@@ -10,7 +10,7 @@ Only include the abbreviated term in the related terms of the expanded term. Do 
 
 _For example:_
 
-[Newton Toolkit](/terms/newton-toolkit) should list [NTK](/terms/ntk) as a related term.
+[Newton Toolkit](/terms/newton-toolkit) should list [NTK](/terms/ntk) as a related term because it is the actual abbreviation for [Newton Toolkit](/terms/newton-toolkit).
 
 However, [project build](/terms/project-build) should list [Newton Toolkit](/terms/newton-toolkit), not [NTK](/terms/ntk).
 
@@ -19,6 +19,17 @@ However, [project build](/terms/project-build) should list [Newton Toolkit](/ter
 _For example:_
 
 [PCMCIA](/terms/pcmcia) is an acronym that is more commonly used than its expanded variation — _Personal Computer Memory Card International Association_. In this case, the expanded term would be included as the first part of the abbreviation’s entry.
+
+## Shortened terms
+
+Whenever possible, use the longer version of a term for clarity.
+
+_For example:_
+
+Use “telephone” not “phone”
+Use “operating system” not “system”
+Use “Newton device” not “Newton”
+Use “Newton OS” not “NOS”
 
 ## More commonly known as …
 
