@@ -1,0 +1,22 @@
+Title: Gateway
+
+----
+
+Text:
+
+A software program or hardware device that acts as a bridge between networks that use the same data transmission [protocols](/terms/protocol). For example, an gateway can operate as an entry and exit point to the internet using [TCP/IP](/terms/tcp-ip).
+
+----
+
+Related:
+
+- /terms/nethopper
+- /terms/newtonmail
+- /terms/protocol
+- /terms/tcp-ip
+
+----
+
+Source:
+
+- /sources/techencyclopedia

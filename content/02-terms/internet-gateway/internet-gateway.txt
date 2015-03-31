@@ -1,0 +1,7 @@
+Title: Internet Gateway
+
+----
+
+Text:
+
+See [Gateway](/terms/gateway)

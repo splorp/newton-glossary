@@ -1,0 +1,25 @@
+Title: Aloha
+
+----
+
+Text:
+
+An email package for [Newton OS](/terms/newton-os) developed by [Catamount Software](http://www.catamount.com/) that worked specifically with the [America Online](http://www.aol.com/) service.
+
+_cf. (link:http://web.archive.org/web/20000420120058/http://www.catamount.com/Aloha2.html)_
+
+----
+
+Related:
+
+- /terms/enroute
+- /terms/eworld
+- /terms/newtonmail
+- /terms/routing
+- /terms/simplemail
+
+----
+
+Source:
+
+- /sources/catamount
