@@ -13,7 +13,6 @@ Related:
 - /terms/bacon-lettuce-tomato-garlic
 - /terms/global
 - /terms/newton-os
-- /terms/newton-operating-system
 
 ----
 

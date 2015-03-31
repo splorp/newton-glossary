@@ -10,6 +10,7 @@ An integrated internet email package developed by [Netstrategy Software](https:/
 
 Related:
 
+- /terms/aloha
 - /terms/enroute-inet
 - /terms/eworld
 - /terms/newtonmail

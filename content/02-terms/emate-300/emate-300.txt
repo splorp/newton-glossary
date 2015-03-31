@@ -15,6 +15,7 @@ Related:
 - /terms/broink
 - /terms/classroom-exchange
 - /terms/dhp
+- /terms/em300
 - /terms/emate
 - /terms/floppy-lid
 - /terms/newton-interconnect

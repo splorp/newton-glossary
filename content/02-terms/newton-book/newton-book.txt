@@ -17,6 +17,7 @@ Related:
 - /terms/newton-book-reader
 - /terms/newton-digital-book
 - /terms/newton-press
+- /terms/newts-cape
 
 ----
 

@@ -12,7 +12,9 @@ Related:
 
 - /terms/dhcp
 - /terms/ip
+- /terms/nethopper
 - /terms/nie
+- /terms/pocketweb
 - /terms/protocol
 - /terms/tcp
 - /terms/tcp-ip
