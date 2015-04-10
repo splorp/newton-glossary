@@ -15,7 +15,7 @@
 		<ul class="src">
 			<li><em>Source:</em></li>
 			<?php foreach(related($page->source()) as $source): ?>
-			<li><em><a href="<?php echo $source->url() ?>"><?php echo html($source->title()) ?></a></em></li>
+			<li><a href="<?php echo $source->url() ?>"><?php echo html($source->title()) ?></a></li>
 			<?php endforeach ?>
 		</ul>
 		<?php endif ?>
