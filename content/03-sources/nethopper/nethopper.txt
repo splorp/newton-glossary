@@ -4,4 +4,6 @@ Title: NetHopper User Manual
 
 Text:
 
-1996 Edition
+The <em>NetHopper Version 3.0 User Manual</em> can be found on the [eMate 300 Connectivity CD](https://support.apple.com/kb/TA39900).
+
+[NetHopper Version 3.2 User Manual](http://www.unna.org/unna/internet/web-browsers/NetHopper3.2/NetHopper_3.2_User's_Guide.pdf)
