@@ -6,7 +6,8 @@ Text:
 
 A brand name used by [Apple](http://www.apple.com/) in Japan for their version of the [802.11](/terms/802-11) wireless communication card, the [AirPort](/terms/airport).
 
-_cf. (link:http://www.apple.com/jp/compare-wifi-models/)_
+_Further reading:_
+[AirMacファミリーを比較する](http://www.apple.com/jp/compare-wifi-models/)
 
 ----
 

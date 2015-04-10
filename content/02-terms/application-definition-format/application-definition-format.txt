@@ -6,7 +6,8 @@ Text:
 
 A text file format defined by [Revelar](/sources/revelar) that contains a description on how to display, edit, import, and export the data from an application [soup](/terms/soup) so that the [Revelar Connection Utility](/terms/revelar-connection-utility) can handle it.
 
-_cf. (link:http://user.xmission.com/~revelar/adf.html)_
+_Further reading:_
+[ADF File Resources](http://user.xmission.com/~revelar/adf.html)
 
 ----
 
