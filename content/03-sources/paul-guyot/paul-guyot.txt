@@ -4,4 +4,5 @@ Title: Paul Guyot
 
 Text:
 
-_cf. (link:http://www.kallisys.com/)_
+_Further reading:_
+[Kallisys Website](http://www.kallisys.com/)

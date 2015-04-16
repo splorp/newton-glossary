@@ -8,7 +8,8 @@ United Network of Newton Archives
 
 A web site dedicated to the preservation of Newton related software, documentation, and extant websites. Originally launched by [Victor Rehorst](/sources/victor-rehorst) in 2001, the site is current maintained by [Morgan Aldridge](/sources/morgan-aldridge).
 
-_cf. (link:http://www.unna.org/)_
+_Further reading:_
+[UNNA Website](http://www.unna.org/)
 
 ----
 

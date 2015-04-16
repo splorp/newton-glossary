@@ -6,7 +6,8 @@ Text:
 
 Software developed by Russell Tait of [Compass Information Systems](https://web.archive.org/web/20010721235601/http://compassinfo.com/) that allows users to capture, store, and share images using a Newton device and a digital camera. Tibet is compatible with any digital camera with a serial port and firmware implementing the [Sierra Imaging](https://web.archive.org/web/20000706203351/http://www.sierraimaging.com/) chipset.
 
-_cf. (link:https://web.archive.org/web/20010805072031/http://www.compassinfo.com/tibet/)_
+_Further reading:_
+[Tibet Product Information](https://web.archive.org/web/20010805072031/http://www.compassinfo.com/tibet/)
 
 ----
 

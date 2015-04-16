@@ -4,4 +4,5 @@ Title: NewtonTalk Mailing List
 
 Text:
 
-_cf. (link:http://www.newtontalk.net/)_
+_Further reading:_
+[NewtonTalk Website](http://www.newtontalk.net/)

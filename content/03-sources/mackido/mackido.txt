@@ -4,8 +4,6 @@ Title: MacKiDo
 
 Text:
 
-Code Names
-_cf. (link:http://www.mackido.com/CodeNames/)_
-
-Easter Eggs
-_cf. (link:http://www.mackido.com/EasterEggs/)_
+_Further reading:_
+[Code Names](http://www.mackido.com/CodeNames/)
+[Easter Eggs](http://www.mackido.com/EasterEggs/)

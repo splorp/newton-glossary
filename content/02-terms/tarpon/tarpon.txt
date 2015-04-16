@@ -8,7 +8,8 @@ A ruggedized [Newton OS](/terms/newton-os) device developed by [Digital Ocean](h
 
 Third party devices that utilize a licensed version of the Newton OS are often referred to as [clones](/terms/clone).
 
-_cf. (link:https://web.archive.org/web/19970124001357/http://digitalocean.com/Tarpon.html)_
+_Further reading:_
+[Tarpon Product Information](https://web.archive.org/web/19970124001357/http://digitalocean.com/Tarpon.html)
 
 ----
 

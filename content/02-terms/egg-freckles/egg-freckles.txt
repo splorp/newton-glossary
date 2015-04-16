@@ -8,8 +8,9 @@ An [easter egg](/terms/easter-egg) found in [Newton OS](/terms/newton-os) 2.0 wh
 
 ![Doonesbury — August 27th, 1993](/assets/images/egg-freckles.gif)
 
-_cf. (link: http://doonesbury.washingtonpost.com/strip/set/24)_
-_cf. (link: http://myapplenewton.blogspot.ca/2011/08/dilbert-compares-smartphones.html)_
+_Further reading:_
+[Doonesbury: The Newton](http://doonesbury.washingtonpost.com/strip/set/24)
+[My Apple Newton: Dilbert Compares Smartphones](http://myapplenewton.blogspot.ca/2011/08/dilbert-compares-smartphones.html)
 
 Egg Freckles is also the name of Newton-themed weblog written by [Thomas Brand](http://eggfreckles.net/).
 

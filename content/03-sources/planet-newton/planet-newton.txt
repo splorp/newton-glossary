@@ -4,4 +4,5 @@ Title: Planet Newton
 
 Text:
 
-_cf. (link:https://web.archive.org/web/20050310015435/http://www.planetnewton.com/home.htm)_
+_Further reading:_
+[Planet Newton Website](https://web.archive.org/web/20050310015435/http://www.planetnewton.com/home.htm)
