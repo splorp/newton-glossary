@@ -4,6 +4,5 @@ Title: ZDNet
 
 Text:
 
-ZDNet Article: Writing’s on wall for Mac OS X
-
-_cf. (link:http://www.zdnet.com/2021058215/)_
+_Further reading:_
+[ZDNet Article: Writing’s on wall for Mac OS X](http://www.zdnet.com/2021058215/)

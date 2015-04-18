@@ -6,7 +6,8 @@ Text:
 
 An internal memory upgrade for the [eMate 300](/terms/emate-300) developed by [David Humphreys](/sources/david-humphreys). When installed, the [system RAM](/terms/system-ram) is increased from 1MB to 4MB and the default data path is widened, improving the responsiveness of the device.
 
-_cf (link:https://web.archive.org/web/20040408153141/http://www.members.tripod.com/mrpcbman/EM300.htm)_
+_Further reading:_
+[EM300 Product Information](https://web.archive.org/web/20040408153141/http://www.members.tripod.com/mrpcbman/EM300.htm)
 
 ----
 

@@ -8,9 +8,8 @@ A handwritten mark that is recognized as having a special meaning by the [Newton
 
 The [Graffiti](/terms/graffiti) input system is also based on gestures.
 
-A good overview of handwriting recognition tips and gestures:
-
-_cf. (link:http://www.catamount.com/HWRTips/HWRTips.html)_
+_Further reading:_
+[Handwriting Tips for Newton Power Users](http://www.catamount.com/HWRTips/HWRTips.html)
 
 ----
 

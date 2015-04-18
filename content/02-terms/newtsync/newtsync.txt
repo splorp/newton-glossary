@@ -6,7 +6,8 @@ Text:
 
 Software developed by John Anderson of [Everchanging Software](https://web.archive.org/web/20040611090738/http://www.everchanging.com/newton/) which facilitated the [synchronization](/terms/synchronization) of data between a [Newton OS](/terms/newton-os) device and a [desktop computer](/terms/desktop-computer) running Mac OS X. NewtSync was originally known as [nSync](/terms/nsync).
 
-_cf. (link:http://newtsync.sourceforge.net/)_
+_Further reading:_
+[NewtSync Project Information & Source Code](http://newtsync.sourceforge.net/)
 
 ----
 

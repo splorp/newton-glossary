@@ -4,4 +4,5 @@ Title: Wikipedia
 
 Text:
 
-_cf. (link:http://www.wikipedia.org/)_
+_Further reading:_
+[Wikipedia Website](http://www.wikipedia.org/)

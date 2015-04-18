@@ -6,7 +6,8 @@ Text:
 
 A variation on the [Frozen Newton](/terms/frozen-newton) project which features a custom, clear case [MessagePad 2100](/terms/messagepad-2100) with blue accents.
 
-_cf. (link:http://ohshima.net/newton/frozen.html)_
+_Further reading:_
+[“Frozen Newton”になりました](http://ohshima.net/newton/frozen.html)
 
 ----
 
