@@ -1,0 +1,9 @@
+Title: Newton Connection Kit User’s Guide
+
+----
+
+Text:
+
+_Further reading:_
+[Newton Connection Kit for Windows User’s Guide](http://www.newted.org/download/manuals/0305277ANCNCTKITWINUG.PDF)
+[Newton Connection 2.0 Update Information](http://www.newted.org/download/manuals/0305272ANCNCT2UD.PDF)

@@ -1,7 +1,0 @@
-Title: Newton Book Maker User’s Guide
-
-----
-
-Text:
-
-_cf. (link:http://www.unna.org/unna/apple/development/Bookmaker/BookmakerUsersGuide.pdf)_

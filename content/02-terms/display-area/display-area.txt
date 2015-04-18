@@ -19,4 +19,4 @@ Related:
 
 Source:
 
-- /sources/newton-book-maker-users-guide
+- /sources/newton-book-maker
