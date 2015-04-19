@@ -10,6 +10,6 @@ A specialized [personal digital assistant](/terms/personal-digital-assistant) (P
 
 Related:
 
-- /terms/access-device-2000
 - /terms/cda
 - /terms/personal-digital-assistant
+- /terms/supertech-2000
