@@ -11,7 +11,7 @@ A persistently stored [object](/terms/object) that contains a series of [frames]
 Related:
 
 - /terms/application-definition-format
-- /terms/cursor-object
+- /terms/cursor
 - /terms/data-definition
 - /terms/entry
 - /terms/entry-aliases

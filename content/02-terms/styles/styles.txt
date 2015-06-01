@@ -15,5 +15,5 @@ Related:
 - /terms/font-spec
 - /terms/font-style
 - /terms/point
-- /terms/system-font
+- /terms/system
 - /terms/text-run

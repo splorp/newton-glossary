@@ -24,4 +24,4 @@ Related:
 - /terms/omp2k
 - /terms/original-messagepad-2000
 - /terms/pocket-newton
-- /terms/wedge-code-name
+- /terms/wedge

@@ -19,4 +19,4 @@ Related:
 - /terms/omp
 - /terms/original-messagepad
 - /terms/pocket-newton
-- /terms/wedge-code-name
+- /terms/wedge

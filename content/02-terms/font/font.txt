@@ -4,7 +4,7 @@ Title: Font
 
 Text:
 
-A complete set of characters or glyphs from a given typeface design. For example, [System](/terms/system-font) is one of the typefaces included with the [Newton OS](/terms/newton-os), but 12 [point](/terms/point) System Bold is one of the fonts.
+A complete set of characters or glyphs from a given typeface design. For example, [System](/terms/system) is one of the typefaces included with the [Newton OS](/terms/newton-os), but 12 [point](/terms/point) System Bold is one of the fonts.
 
 ----
 
@@ -20,7 +20,7 @@ Related:
 - /terms/point
 - /terms/simple
 - /terms/styles
-- /terms/system-font
+- /terms/system
 - /terms/text-run
 
 ----
