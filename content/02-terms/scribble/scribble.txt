@@ -1,0 +1,13 @@
+Title: Scribble
+
+----
+
+Text:
+
+See [Scrub](/terms/scrub)
+
+----
+
+Source:
+
+- /sources/newton-notepad
