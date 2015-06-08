@@ -17,6 +17,7 @@ Related:
 
 - /terms/caret
 - /terms/graffiti
+- /terms/scribble
 - /terms/scrub
 - /terms/scrubbing
 - /terms/tapping

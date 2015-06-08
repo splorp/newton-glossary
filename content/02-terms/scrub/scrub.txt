@@ -4,7 +4,7 @@ Title: Scrub
 
 Text:
 
-To erase or delete words or images using a [zig zag](/terms/zig-zag) gesture with the [pen](/terms/pen).
+To erase or delete words or images using a [zig zag](/terms/zig-zag) gesture with the [pen](/terms/pen). Also referred to as a [scribble](/terms/scribble) gesture in the beta version of the [Newton OS](/terms/newton-os) included on the [Newton Notepad](/terms/notepad) device.
 
 ----
 
@@ -14,6 +14,7 @@ Related:
 - /terms/pen
 - /terms/poof
 - /terms/poof-it
+- /terms/scribble
 - /terms/scrubbing
 - /terms/zig-zag
 

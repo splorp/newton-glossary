@@ -11,6 +11,7 @@ The sound associated with the “puff of smoke” animation after deleting text 
 Related:
 
 - /terms/poof-it
+- /terms/scribble
 - /terms/scrub
 - /terms/scrubbing
 - /terms/zig-zag
