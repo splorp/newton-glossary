@@ -10,7 +10,7 @@ A like-minded collection of individuals who concentrate their knowledge, skills,
 
 Related:
 
+- /terms/msnug
 - /terms/newton-user-group
 - /terms/nug
 - /terms/sig
-- /terms/special-interest-group

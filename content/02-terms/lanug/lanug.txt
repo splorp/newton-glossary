@@ -18,6 +18,7 @@ Related:
 - /terms/dnug
 - /terms/hknug
 - /terms/inug
+- /terms/msnug
 - /terms/nanug
 - /terms/newton-user-group
 - /terms/ngn

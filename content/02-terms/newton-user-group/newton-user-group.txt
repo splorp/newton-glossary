@@ -16,6 +16,7 @@ Related:
 - /terms/hknug
 - /terms/inug
 - /terms/lanug
+- /terms/msnug
 - /terms/nanug
 - /terms/ngn
 - /terms/nose

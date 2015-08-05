@@ -20,6 +20,7 @@ Related:
 - /terms/dnug
 - /terms/inug
 - /terms/lanug
+- /terms/msnug
 - /terms/nanug
 - /terms/newton-user-group
 - /terms/ngn

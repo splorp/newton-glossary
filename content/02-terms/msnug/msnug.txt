@@ -1,0 +1,42 @@
+Title: MSNUG
+
+----
+
+Text:
+
+Michigan State Newton Users Group
+
+After the Newton was discontinued, this user group became a [special interest group](/terms/special-interest-group) (Newton SIG) within the Michigan State Palmtop Users Group (MSPUG).
+
+_Further reading:_
+[MSNUG Website](https://www.msu.edu/~luckie/msnug.htm)
+
+----
+
+Related:
+
+- /terms/anug
+- /terms/dang
+- /terms/dnug
+- /terms/hknug
+- /terms/inug
+- /terms/lanug
+- /terms/nanug
+- /terms/newton-user-group
+- /terms/ngn
+- /terms/nose
+- /terms/nug
+- /terms/nugom
+- /terms/snag
+- /terms/snug
+- /terms/sonug
+- /terms/special-interest-group
+- /terms/tuna
+- /terms/tvnug
+
+----
+
+Source:
+
+- /sources/newton-faq
+- /sources/newton-gallery
