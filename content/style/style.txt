@@ -31,7 +31,11 @@ Use “operating system” not “system”
 Use “Newton device” not “Newton”
 Use “Newton OS” not “NOS”
 
-## More commonly known as …
+## Referring to other terms
+
+Use “Also referred to as …” if the referenced term is as common or less common than the source term.
+Use “Commonly referred to as …” if the referenced term is more common than the source term.
+Use “Mistakenly referred to as …” if the referenced term is an commonly misspelled or mangled version of the source term.
 
 ## Capitalization of terms
 
