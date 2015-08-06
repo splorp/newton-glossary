@@ -4,7 +4,9 @@ Title: Marco
 
 Text:
 
-A [Newton OS](/terms/newton-os) device developed by [Motorola](http://www.motorola.com/). The Marco featured a wireless modem that used the [Ardis](/terms/ardis) wireless networking service. The Macro is often referred to as a Newton [clone](/terms/clone).
+A [Newton OS](/terms/newton-os) device developed by [Motorola](http://www.motorola.com/). The Marco featured a wireless modem that used the [Ardis](/terms/ardis) wireless networking service.
+
+Third party devices that utilize a licensed version of the Newton OS are also referred to as [clones](/terms/clone).
 
 ----
 

@@ -4,7 +4,7 @@ Title: MessagePad 130
 
 Text:
 
-The first Newton device to incorporate backlighting. The MessagePad 130 shares the same case styling as the [MessagePad 110](/terms/messagepad-110) and [MessagePad 120](/terms/messagepad-120). It is often referred to as an [MP130](/terms/mp130).
+The first Newton device to incorporate backlighting. The MessagePad 130 shares the same case styling as the [MessagePad 110](/terms/messagepad-110) and [MessagePad 120](/terms/messagepad-120). Commonly referred to as an [MP130](/terms/mp130).
 
 ----
 
