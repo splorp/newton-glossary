@@ -7,6 +7,5 @@ Text:
 _cf. (link:http://manuals.info.apple.com/en_US/NewtonScriptProgramLanguage.PDF)_
 _cf. (link:http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf)_
 
-Unofficial Japanese translation by Masahiro Saito.
-
-_cf. (link:https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html)_
+_Further reading:_
+[Unofficial Japanese translation by Masahiro Saito](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html)

@@ -8,7 +8,8 @@ Advanced RISC Machines
 
 The company that produced the processors used in [Newton OS](/terms/newton-os) devices.
 
-_cf. (link: http://en.wikipedia.org/wiki/ARM_architecture)_
+_Further reading:_
+[Wikipedia: ARM Architecture](http://en.wikipedia.org/wiki/ARM_architecture)
 
 _This entry require updates regarding iOS processors and history._
 

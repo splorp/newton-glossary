@@ -8,6 +8,9 @@ A method of [resetting](/terms/reset) the [Newton OS](/terms/newton-os) which co
 
 Not to be confused with a [cold boot](/terms/cold-boot), which also removes any [system updates](/terms/system-update) that have been installed.
 
+_Further reading:_
+[Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
+
 ----
 
 Related:

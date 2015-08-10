@@ -7,4 +7,5 @@ Text:
 _cf. Old: (link:http://karchive.info.apple.com/)_
 _cf. New: ?_
 
-_cf. List of articles: (link:http://www.mac3.de/sig/newton/til.html)_
+_Further reading:_
+[List of Articles](http://www.mac3.de/sig/newton/til.html)

@@ -8,6 +8,9 @@ A method of [resetting](/terms/reset) the [Newton OS](/terms/newton-os) to its f
 
 Not to be confused with [hard reset](/terms/hard-reset) or [brain wipe](/terms/brain-wipe), which do not remove any [system updates](/terms/system-update).
 
+_Further reading:_
+[Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
+
 ----
 
 Related:
