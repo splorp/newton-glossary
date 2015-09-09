@@ -4,5 +4,10 @@ Title: Anton Balaban
 
 Text:
 
-_cf. (link:http://www.newt.nm.ru/)_
-New: _cf. (link:https://web.archive.org/web/20020807203309/http://www.worklogic.com/russian-newton/)_
+In late 2001, Moscow-based sound engineer [Anton Balaban](http://www.balaban.ru/) compiled a substantial amount of information related to using the Russian language on the [Newton OS](/terms/newton-os) platform, specifically its [Russification](/terms/russification).
+
+
+_Further reading:_
+[Антон Балабан](http://www.balaban.ru/) (Home Page)
+[Ньютон в России](https://web.archive.org/web/20020807203309/http://www.worklogic.com/russian-newton/) (Newton in Russia)
+[Русификация](https://web.archive.org/web/20020807203309/http://www.worklogic.com/russian-newton/) (Russification)
