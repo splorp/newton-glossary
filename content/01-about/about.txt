@@ -18,9 +18,11 @@ Before submitting new terms or suggestion corrections to existing entries, pleas
 
 Other glossarial references we love.
 
-+ [The Neoglossary](http://neoglossary.tumblr.com/) _by [Riccardo Mori](http://morrick.me/)_
-+ [The Free Online Dictionary of Computing](http://foldoc.org/) _by [Denis Howe](https://plus.google.com/+DenisHowe/posts)_
-+ [The Typographer’s Glossary](https://www.fontshop.com/glossary/) _by [FontShop](https://www.fontshop.com/)_
++ [Free Online Dictionary of Computing](http://foldoc.org/) _by [Denis Howe](https://plus.google.com/+DenisHowe/posts)_
++ [Glossary of Archival & Records Terminology](http://archivists.org/glossary) by [Richard Pearce-Moses](http://home.comcast.net/~pearcemoses/)
++ [Glossary of Common Type Terminology](https://www.fontshop.com/glossary/) _by [FontShop](https://www.fontshop.com/)_
++ [Neoglossary](http://neoglossary.tumblr.com/) _by [Riccardo Mori](http://morrick.me/)_
+* [Typograph.Glossary](http://www.typographher.com/glossary/) _by [Nicole Arnett Phillips](http://www.nicoleap.com.au/)_
 
 ## Colophon
 
@@ -33,4 +35,4 @@ To add a bit of spit and shine to our Kirby experience, we’re also using the f
 + [Alphabetise](https://github.com/shoesforindustry/kirbycms-extensions/tree/master/plugins/alphabetise) _by [Russ Baldwin](http://shoesforindustry.net/)_
 + [Related Pages](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) _by [Bastian Allgeier](http://bastianallgeier.com/)_
 
-Finally, thank goodness for [BBEdit](http://www.barebones.com/products/bbedit/).
+God bless [BBEdit](http://www.barebones.com/products/bbedit/).
