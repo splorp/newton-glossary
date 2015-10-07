@@ -10,7 +10,7 @@ Text:
 
 A chronological list of major changes and updates.
 
-## TBD
+## In Progress
 
 Version: 2.0.0
 Terms:
@@ -19,11 +19,12 @@ Sources:
 ### Summary of changes:
 
 + Migrated project to [GitHub](https://github.com/)
-+ Content now published using the [Kirby](http://getkirby.com/) CMS
++ Content now published using [Kirby](http://getkirby.com/)
 + Integrated backlog of addenda and updates since version 1.0.5
-+ Expanded metadata and background information for [sources](/sources)
-+ Added a long overdue [About](/about) section and colophon
-+ Added a link that produces a random term
++ Began expanding metadata and background information for all [sources](/sources)
++ Added a long overdue [About](/about) section, colophon, and style guide
++ Added random term feature
++ Updated hundreds of existing entries and related terms for consistency
 
 ## 21 November 2004
 
