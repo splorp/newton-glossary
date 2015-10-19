@@ -4,7 +4,7 @@ Title: Newton Data Browser
 
 Text:
 
-A desktop [application](/terms/application) created by Thomas Tempelmann that allows the user to retrieve and edit data located on a Newton device. Also known variously as [DIL Tester](/terms/newton-dil-tester), [Newton DIL Tester](/terms/newton-dil-tester), [Newton Desktop Utility](/terms/newton-desktop-utility), [NDB](/terms/ndb), and [NDU](/terms/ndu).
+A desktop [application](/terms/application) created by Thomas Tempelmann that allows the user to retrieve and edit data located on a Newton device. Also known variously as [DIL Tester](/terms/dil-tester), [Newton DIL Tester](/terms/newton-dil-tester), [Newton Desktop Utility](/terms/newton-desktop-utility), [NDB](/terms/ndb), and [NDU](/terms/ndu).
 
 _Further reading:_
 [Newton Data Browser Product Information](http://www.tempel.org/newton/#DILplugin)
