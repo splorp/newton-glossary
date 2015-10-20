@@ -46,3 +46,19 @@ Other than using their proper capitalized names, should these items be wrapped i
 _For example:_
 
 Ink words are created when the user has selected [Ink Text](/terms/ink-text) in the “Recognition Preferences” slip.
+
+## Further reading
+
+When linking to the main page of a website, include both the site name and “Website” as part of the link text.
+
+_For example:_
+
+[Catamount Software Website](http://www.catamount.com/)
+
+When linking to a specific article or resource on a site, use the full name or title of the article or resource as the link text. Include the website name as the source of the article or resource after the link text. If the article or resource is available from multiple locations, the source text should specific this.
+
+_For example:_
+
+[The NewtonScript Programming Language](http://manuals.info.apple.com/en_US/NewtonScriptProgramLanguage.PDF) _Apple_
+[The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf) _UNNA_
+[Unofficial Japanese translation by Masahiro Saito](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) _Internet Archive_
