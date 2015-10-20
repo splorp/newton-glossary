@@ -6,4 +6,5 @@ Text:
 
 A software development company formed by Hardy Macia in 1994. Catamount specializes in [Newton OS](/terms/newton-os), Palm OS, and iOS [applications](/terms/application), including [Aloha](/terms/aloha), [Silk](/terms/silk), and PocketMoney.
 
-_cf. (link:http://www.catamount.com/)_
+_Further reading:_
+[Catamount Software Website](http://www.catamount.com/)

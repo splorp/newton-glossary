@@ -7,7 +7,9 @@ Text:
 The definitive guide to Newton programming, providing conceptual information and instructions for using Newton OS [application programming interfaces](/terms/application-programming-interface). Also referred to as [NPG](/terms/npg).
 
 _Further reading:_
-[Newton Programmer’s Guide For Newton 2.0](http://manuals.info.apple.com/MANUALS/1000/MA1510/en_US/NewtonProgrammerGuide20.PDF)
+[Newton Programmer’s Guide For Newton 2.0](http://manuals.info.apple.com/en_US/NewtonProgrammerGuide20.PDF) _Apple_
+[Newton Programmer’s Guide for Newton 2.0](http://www.unna.org/unna/apple/documentation/developer/ProgrammersGuideOS2.0.pdf) _UNNA_
+[Newton Programmer’s Guide: OS 2.1 Addendum](http://www.unna.org/unna/apple/documentation/developer/ProgrammersGuideOS2.1Addenum.pdf) _UNNA_
 
 ----
 

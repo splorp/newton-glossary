@@ -4,5 +4,8 @@ Title: Newton 2.0 User Interface Guidelines
 
 Text:
 
-_cf. (link:http://www.amazon.com/Newton-Interface-Guidelines-Apple-Computer/dp/0201488388)_
-_cf. (link:http://www.unna.org/unna/apple/documentation/developer/UserInterfaceGuidelinesOS2.0.pdf)_
+Published by [Apple](http://www.apple.com/) in 1996, this reference describes how to create interfaces that optimize the interaction between people and devices using Newton 2.0 software.
+
+_Further reading:_
+[Newton 2.0 User Interface Guidelines](http://www.amazon.com/Newton-Interface-Guidelines-Apple-Computer/dp/0201488388) _Amazon_
+[Newton 2.0 User Interface Guidelines](http://www.unna.org/unna/apple/documentation/developer/UserInterfaceGuidelinesOS2.0.pdf) _UNNA_
