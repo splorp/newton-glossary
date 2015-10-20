@@ -1,0 +1,11 @@
+Title: Newton Programmer’s Reference
+
+----
+
+Text:
+
+Published by [Apple](http://www.apple.com/) in 1996 as a companion to the [Newton Programmer’s Guide](/sources/newton-programmers-guide) is the definitive guide to Newton programming.
+
+_Further reading:_
+[Newton Programmer’s Reference for Newton 2.0](http://manuals.info.apple.com/en_US/NewtonProgrammerRef20.PDF) _Apple_
+[Newton Programmer’s Reference for Newton 2.0](http://www.unna.org/unna/apple/documentation/developer/ProgrammersReferenceOS2.0.pdf) _UNNA_
