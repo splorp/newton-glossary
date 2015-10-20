@@ -11,6 +11,7 @@ An [application](/terms/application) built into the [Newton OS](/terms/newton-os
 Related:
 
 - /terms/book-reader
+- /terms/copperfield
 - /terms/help-book
 - /terms/newton-book
 - /terms/newton-book-maker
