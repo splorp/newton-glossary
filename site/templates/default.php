@@ -12,8 +12,8 @@
 		<?php $page->isChildOf($pages->find('terms')) || $page->isChildOf($pages->find('sources')) ? '' : snippet('submenu'); ?>
 	
 		<?php if($page->source()): ?>
+		<h2>Sources</h2>
 		<ul class="src">
-			<li><em>Source:</em></li>
 			<?php foreach(related($page->source()) as $source): ?>
 			<li><a href="<?php echo $source->url() ?>"><?php echo html($source->title()) ?></a></li>
 			<?php endforeach ?>
@@ -22,7 +22,7 @@
 
 		<?php if($page->related()): ?>
 		<h2>Related Terms</h2>
-		<ul>
+		<ul class="src">
 			<?php foreach(related($page->related()) as $related): ?>
 			<li><a href="<?php echo $related->url() ?>"><?php echo html($related->title()) ?></a></li>
 			<?php endforeach ?>
