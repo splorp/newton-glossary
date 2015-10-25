@@ -6,7 +6,8 @@ Text:
 
 A hardware accelerator upgrade for the [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) developed by [Oliver Harms](http://www.pixsolution.com/) and his Pixsolution Group in Germany. Both the Implant-2000 and the [MessagePad 130](/terms/messagepad-130) for [MessagePad 130](/terms/messagepad-130) devices consist of a small [daughterboard](/terms/daughterboard) connected to the [motherboard](/terms).
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [Pixsolution Product Overview](https://web.archive.org/web/19991008182531/http://www.pixsolution.com/products.html)
 
 ----

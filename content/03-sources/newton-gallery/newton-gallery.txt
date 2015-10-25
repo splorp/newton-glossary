@@ -6,6 +6,7 @@ Text:
 
 A site run by the Newton Special Interest Group (formerly [MSNUG](/terms/msnug)) of the Michigan State Palmtop User Group (MSPUG).
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [Newton Gallery](https://www.msu.edu/~luckie/newtgal.htm)
 [Newton Hall of Fame](http://www.msu.edu/~luckie/hallofame.htm)

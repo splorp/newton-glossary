@@ -8,7 +8,8 @@ The first commercial web browser for [Newton OS](/terms/newton-os) devices devel
 
 NetHopper began as an [application](/terms/application) that allowed [Newton OS](/terms/newton-os) devices to access the web through a Macintosh computer running as an internet [gateway](/terms/gateway). Subsequent versions of NetHopper used Apple’s [Newton Internet Enabler](/terms/newton-internet-enabler) (NIE) software to connect directly to the internet through a modem or other network connection.
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [NetHopper 1.0 Product Information](https://web.archive.org/web/19961022181719/http://www.allpen.com/nethopper10.html)
 [NetHopper 2.0 Product Information](https://web.archive.org/web/19961022181753/http://www.allpen.com/nethopper20.html)
 [NetHopper 3.0 Product Information](https://web.archive.org/web/19990202060908/http://www.allpen.com/products/nethopper3/datasheet.html)

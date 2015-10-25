@@ -4,5 +4,6 @@ Title: NewtonTalk Mailing List
 
 Text:
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [NewtonTalk Website](http://www.newtontalk.net/)

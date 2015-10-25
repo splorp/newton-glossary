@@ -6,7 +6,8 @@ Text:
 
 An email [transport](/terms/transport) created by [Simon Bell](/sources/simon-bell) that allows the user to send and receive messages over the internet.
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [SimpleMail Product Information](http://newtonresearch.org/simplemail/)
 
 ----

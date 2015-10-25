@@ -4,5 +4,6 @@ Title: Planet Newton
 
 Text:
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [Planet Newton Website](https://web.archive.org/web/20050310015435/http://www.planetnewton.com/home.htm)

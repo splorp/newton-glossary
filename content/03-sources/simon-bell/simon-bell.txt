@@ -4,5 +4,6 @@ Title: Simon Bell
 
 Text:
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [Newton Research Website](http://newtonresearch.org/)

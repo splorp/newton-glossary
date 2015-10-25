@@ -8,7 +8,8 @@ A method of [resetting](/terms/reset) the [Newton OS](/terms/newton-os) by press
 
 Also known as a [deep reset](/terms/deep-reset) or [hardware reset](/terms/hardware-reset).
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
 
 ----

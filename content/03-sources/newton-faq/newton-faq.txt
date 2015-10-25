@@ -4,5 +4,6 @@ Title: Newton FAQ
 
 Text:
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [Newton FAQ](http://www.splorp.com/newton/faq/)

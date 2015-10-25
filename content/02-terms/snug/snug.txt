@@ -6,7 +6,8 @@ Text:
 
 Stanford Newton Users Group
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [SNUG Website](http://www.rahul.net/flash/snug/)
 
 ----

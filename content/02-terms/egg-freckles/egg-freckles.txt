@@ -8,7 +8,8 @@ An [easter egg](/terms/easter-egg) found in [Newton OS](/terms/newton-os) 2.0 wh
 
 ![Doonesbury — August 27th, 1993](/assets/images/egg-freckles.gif)
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [Doonesbury: The Newton](http://doonesbury.washingtonpost.com/strip/set/24)
 [My Apple Newton: Dilbert Compares Smartphones](http://myapplenewton.blogspot.ca/2011/08/dilbert-compares-smartphones.html)
 

@@ -8,7 +8,8 @@ A ruggedized [Newton OS](/terms/newton-os) device developed by [Harris Corporati
 
 Third party devices that utilize a licensed version of the Newton OS are also referred to as [clones](/terms/clone).
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [SuperTech 2000 Product Information](https://web.archive.org/web/19980205141405/http://www.dracon.harris.com/products/supertech_2000.html)
 [Press Release: Harris Corporation Licenses Newton Technology](https://web.archive.org/web/19981205001630/http://product.info.apple.com/pr/press.releases/1995/q4/950801.pr.rel.newton.html)
 

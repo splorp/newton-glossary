@@ -47,7 +47,7 @@ _For example:_
 
 Ink words are created when the user has selected [Ink Text](/terms/ink-text) in the “Recognition Preferences” slip.
 
-## Further reading
+## Additional information
 
 When linking to the main page of a website, include both the site name and “Website” as part of the link text.
 

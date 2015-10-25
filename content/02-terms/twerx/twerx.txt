@@ -6,7 +6,8 @@ Text:
 
 A utility by [Innovative Computer Solutions](/sources/innovative-computer-solutions) which allows the user to import documents from [Notepad](/terms/notepad) and other [applications](/terms/application) into [Newton Works](/terms/newton-works) using the [action picker](/terms/action-picker). Also referred to as [Twerks](/terms/twerks) on the [NewtonTalk](/terms/newtontalk) mailing list.
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [Twerx Product Information](https://web.archive.org/web/20041222192631/http://www.newts.com/newton/twerx.html)
 
 ----

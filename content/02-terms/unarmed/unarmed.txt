@@ -6,7 +6,8 @@ Text:
 
 An plain vanilla adaptation of the disassembly tool found in the [Einstein](/terms/einstein) emulation project. [Steven Frank](/sources/steven-frank) converted and modified the original C++ source created by [Paul Guyot](/sources/paul-guyot).
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [Unarmed Repository on GitHub](https://github.com/panicsteve/unarmed)
 
 ----

@@ -8,7 +8,8 @@ A web browser for [Newton OS](/terms/newton-os) devices developed by [Steve Weye
 
 ![Newt’s Cape](/assets/images/newts-cape.png)
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [Newt’s Cape Product Information](http://communicrossings.com/html/newton/newtscape.htm)
 
 ----

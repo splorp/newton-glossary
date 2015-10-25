@@ -6,7 +6,8 @@ Text:
 
 The code name for the larger, second generation Newton prototype.
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [Jim Abeles: Newton “Bic” Prototype Photos](http://www.flickr.com/photos/abeles/sets/72157623108174157/)
 
 ----

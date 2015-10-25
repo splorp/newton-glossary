@@ -4,5 +4,6 @@ Title: Paul Guyot
 
 Text:
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [Kallisys Website](http://www.kallisys.com/)

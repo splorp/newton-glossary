@@ -8,7 +8,8 @@ A ruggedized [Newton OS](/terms/newton-os) device developed by [Digital Ocean](h
 
 Third party devices that utilize a licensed version of the Newton OS are also referred to as [clones](/terms/clone).
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [Seahorse Product Information](https://web.archive.org/web/19970124001314/http://digitalocean.com/seahorse.html)
 
 ----

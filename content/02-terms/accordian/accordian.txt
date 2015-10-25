@@ -8,7 +8,8 @@ Software developed by [Revelar](/sources/revelar) that connects a [Newton OS](/t
 
 Accordian was eventually bundled free with [Revelar Connection Utility](/terms/revelar-connection-utility).
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [Accordian Product Information](https://web.archive.org/web/19990221140012/http://www.revelar.com/accordian.html)
 
 ----

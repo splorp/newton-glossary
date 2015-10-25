@@ -6,7 +6,8 @@ Text:
 
 A suite of software [packages](/terms/package) that will allow certain Newton devices to act as a web server. Originally created by [Matt Vaughn](http://chromatin.cshl.edu/vaughn/) and subsequently developed by [Paul Guyot](/sources/paul-guyot), [Adam Tow](http://tow.com/), and [Victor Rehorst](/sources/victor-rehorst).
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [Newton Personal Data Sharing Website](http://npds.free.fr/)
 
 ----
