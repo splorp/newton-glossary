@@ -6,5 +6,6 @@ Text:
 
 A Canadian company that developed digital presentation hardware and software for [Newton OS](/terms/newton-os), Palm OS, and Windows platforms. Their products included the [EZ2VGA](/terms/ez2vga) and [EZ2TV](/terms/ez2tv) video adapter [PC cards](/terms/pc-card), along with the [EZPresenter](/terms/ezpresenter) presentation software.
 
-_Further reading:_
+<h2>Additional Information</h2>
+
 [EZShow Systems Website](https://web.archive.org/web/19991012163650/http://ezshow.com/)

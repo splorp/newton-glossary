@@ -6,4 +6,6 @@ Text:
 
 Glen Sanford’s comprehensive resource covering Apple-related history, computer specifications, and other related information.
 
-(link:http://apple-history.com/)
+<h2>Additional Information</h2>
+
+[Apple History Website](http://apple-history.com/)

@@ -6,7 +6,7 @@ Text:
 
 Published by [Apple](http://www.apple.com/) in 1996, this is the definitive reference for the [NewtonScript](/terms/newtonscript) programming language.
 
-<h2>Further Reading</h2>
+<h2>Additional Information</h2>
 
 [The NewtonScript Programming Language](http://manuals.info.apple.com/en_US/NewtonScriptProgramLanguage.PDF) _Apple_
 [The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf) _UNNA_
