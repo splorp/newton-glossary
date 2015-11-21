@@ -13,8 +13,8 @@ A chronological list of major changes and updates.
 ## In Progress
 
 Version: 2.0.0
-Terms:
-Sources:
+Terms: In Progress
+Sources: In Progress
 
 ### Summary of changes:
 
