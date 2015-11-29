@@ -4,14 +4,17 @@ Title: NBK
 
 Text:
 
-The file extension used to identify backup files created by the Windows versions of the [Newton Backup Utility](/terms/newton-backup-utility) and [Newton Connection Utilities](/terms/newton-connection-utilities) applications.
+The file extension used to identify [backup files](/terms/backup-file) created by the Windows versions of the [Newton Backup Utility](/terms/newton-backup-utility) and [Newton Connection Utilities](/terms/newton-connection-utilities) applications.
 
 ----
 
 Related:
 
+- /terms/backup
+- /terms/backup-file
 - /terms/newton-backup-utility
 - /terms/newton-connection-utilities
+- /terms/restore
 
 ----
 

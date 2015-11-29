@@ -4,12 +4,14 @@ Title: Restore
 
 Text:
 
-To replace all of the information on a Newton device with information from a backup file found on a [desktop computer](/terms/desktop-computer).
+To replace all of the information on a Newton device with information from a [backup file](/terms/backup-file) found on a [desktop computer](/terms/desktop-computer).
 
 ----
 
 Related:
 
+- /terms/backup
+- /terms/backup-file
 - /terms/newton-backup-express
 - /terms/newton-backup-utility
 
