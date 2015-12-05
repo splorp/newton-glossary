@@ -14,5 +14,8 @@ Related:
 - /terms/macintosh-programmers-workshop
 - /terms/mpw
 - /terms/nct
+- /terms/newtapp
+- /terms/newtdevenv
+- /terms/newton-toolkit
 - /terms/newtsbug
 - /terms/viewframe

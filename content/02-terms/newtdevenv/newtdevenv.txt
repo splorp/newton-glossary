@@ -12,6 +12,9 @@ Related:
 
 - /terms/nde
 - /terms/newt
+- /terms/newtapp
+- /terms/newton-c-toolbox
+- /terms/newton-toolkit
 - /terms/newtonscript
 - /terms/script
 

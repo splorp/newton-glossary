@@ -8,6 +8,14 @@ A programming framework designed to help build complete, full-featured Newton [a
 
 ----
 
+Related:
+
+- /terms/newtdevenv
+- /terms/newton-c-toolbox
+- /terms/newton-toolkit
+
+----
+
 Source:
 
 - /sources/newton-programmers-guide
