@@ -20,5 +20,5 @@ Related:
 
 Source:
 
-- /sources/newton-apple-messagepad-handbook
+- /sources/apple-messagepad-handbook
 
