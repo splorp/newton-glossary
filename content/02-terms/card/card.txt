@@ -26,5 +26,5 @@ Related:
 
 Source:
 
-- /sources/newton-messagepad-2000-user-manual
+- /sources/messagepad-2000-user-manual
 - /sources/newton-programmers-guide

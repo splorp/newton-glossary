@@ -1,0 +1,12 @@
+Title: MessagePad 2000 User’s Manual
+
+----
+
+Text:
+
+Published by [Apple](http://www.apple.com/) in 1997, this is the definitive reference for the [MessagePad 2000](/terms/messagepad-2000) device.
+
+<h2>Additional Information</h2>
+
+[MessagePad 2000 User’s Manual](http://www.newted.org/download/manuals/0306251AMP2000UM.PDF) _The Newted Community_
+[MessagePad 2000 User’s Manual](http://www.unna.org/unna/apple/documentation/2x00/2000UsersManual.PDF) _UNNA_
