@@ -4,4 +4,11 @@ Title: Sean Luke
 
 Text:
 
-_cf. (link:http://www.cs.umd.edu/users/seanl/newton/)_
+Currently associate professor in the department of computer science at [George Mason University](https://www.gmu.edu/), Sean Luke is a longtime Newton developer responsible for projects such as the [Hemlock](/terms/hemlock) search plugin for the [Newt’s Cape](/terms/newts-cape) browser and the [Newton OS](/terms/newton-os) port of the [Waba](/terms/waba) virtual machine.
+
+<h2>Additional Information</h2>
+
+[Website](https://cs.gmu.edu/~sean/)
+[Newton Projects](https://cs.gmu.edu/~sean/stuff/)
+[Hemlock: An Internet Search Tool for the Newton](https://cs.gmu.edu/~sean/projects/newton/Hemlock/)
+[Waba for the Newton](https://cs.gmu.edu/~sean/projects/newton/waba/)
