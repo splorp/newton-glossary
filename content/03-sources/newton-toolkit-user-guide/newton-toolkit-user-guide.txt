@@ -4,4 +4,6 @@ Title: Newton Toolkit User Guide
 
 Text:
 
-_cf. (link:http://www.unna.org/view.php?/apple/development/NTK)_
+<h2>Additional Information</h2>
+
+[Newton Toolkit](http://www.unna.org/view.php?/apple/development/NTK)
