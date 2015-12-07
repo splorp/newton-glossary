@@ -49,16 +49,23 @@ Ink words are created when the user has selected [Ink Text](/terms/ink-text) in 
 
 ## Additional information
 
-When linking to the main page of a website, include both the site name and “Website” as part of the link text.
+When linking to the main page of a website, include both the website name and “Website” as part of the link text.
 
 _For example:_
 
 [Catamount Software Website](http://www.catamount.com/)
 
-When linking to a specific article or resource on a site, use the full name or title of the article or resource as the link text. Include the website name as the source of the article or resource after the link text. If the article or resource is available from multiple locations, the source text should specific this.
+When linking to a specific article or resource on a website, use the full name or title of the article or resource, prefixed with the source website, as the link text.
 
 _For example:_
 
-[The NewtonScript Programming Language](http://manuals.info.apple.com/en_US/NewtonScriptProgramLanguage.PDF) _Apple_
-[The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf) _UNNA_
-[プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation) _Internet Archive_
+[Apple: The NewtonScript Programming Language](http://manuals.info.apple.com/en_US/NewtonScriptProgramLanguage.PDF) (PDF)
+[Catamount Software: Handwriting Tips for Newton Power Users](http://www.catamount.com/HWRTips/HWRTips.html)
+[UNNA: The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf) (PDF)
+[Wikipedia: GeoPort](https://en.wikipedia.org/wiki/GeoPort)
+
+If the link points to an Internet Archive mirror of the original website, article, or resource, prefix the link text as such.
+
+_For example:_
+
+[Internet Archive: プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation)
