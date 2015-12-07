@@ -8,7 +8,7 @@ Currently associate professor in the department of computer science at [George M
 
 <h2>Additional Information</h2>
 
-[Website](https://cs.gmu.edu/~sean/)
-[Newton Projects](https://cs.gmu.edu/~sean/stuff/)
-[Hemlock: An Internet Search Tool for the Newton](https://cs.gmu.edu/~sean/projects/newton/Hemlock/)
-[Waba for the Newton](https://cs.gmu.edu/~sean/projects/newton/waba/)
+[Sean Luke Website](https://cs.gmu.edu/~sean/)
+[Sean Luke: Newton Projects](https://cs.gmu.edu/~sean/stuff/)
+[Sean Luke: Hemlock: An Internet Search Tool for the Newton](https://cs.gmu.edu/~sean/projects/newton/Hemlock/)
+[Sean Luke: Waba for the Newton](https://cs.gmu.edu/~sean/projects/newton/waba/)

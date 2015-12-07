@@ -6,5 +6,5 @@ Text:
 
 <h2>Additional Information</h2>
 
-[Code Names](http://www.mackido.com/CodeNames/)
-[Easter Eggs](http://www.mackido.com/EasterEggs/)
+[MacKiDo: Code Names](http://www.mackido.com/CodeNames/)
+[MacKiDo: Easter Eggs](http://www.mackido.com/EasterEggs/)

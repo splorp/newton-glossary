@@ -8,7 +8,7 @@ An email [transport](/terms/transport) created by [Simon Bell](/sources/simon-be
 
 <h2>Additional Information</h2>
 
-[SimpleMail Product Information](http://newtonresearch.org/simplemail/)
+[Newton Research: SimpleMail Product Information](http://newtonresearch.org/simplemail/)
 
 ----
 

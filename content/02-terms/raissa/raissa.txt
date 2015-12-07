@@ -8,7 +8,7 @@ An [RSS](/terms/rss) reader for [Newton OS](/terms/newton-os) 2.x devices develo
 
 <h2>Additional Information</h2>
 
-[Raissa Product Information](http://40hz.org/Pages/Raissa)
+[40hz: Raissa Product Information](http://40hz.org/Pages/Raissa)
 
 ----
 

@@ -4,4 +4,6 @@ Title: Iceberg Technologies
 
 Text:
 
-_cf. (link:https://web.archive.org/web/20001022023935/http://icebergtech.hypermart.net/)_
+<h2>Additional Information</h2>
+
+[Internet Archive: Iceberg Technologies Website](https://web.archive.org/web/20001022023935/http://icebergtech.hypermart.net/)

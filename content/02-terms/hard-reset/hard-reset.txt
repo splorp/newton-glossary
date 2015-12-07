@@ -10,7 +10,7 @@ Not to be confused with a [cold boot](/terms/cold-boot), which also removes any 
 
 <h2>Additional Information</h2>
 
-[Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
+[Apple Support: Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
 
 ----
 

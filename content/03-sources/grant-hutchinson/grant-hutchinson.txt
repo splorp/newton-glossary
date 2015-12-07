@@ -4,5 +4,7 @@ Title: Grant Hutchinson
 
 Text:
 
-_cf. (link:http://splorp.me/)_
-_cf. (link:http://www.splorp.com/newton/)_
+<h2>Additional Information</h2>
+
+[Splorp Website](http://splorp.me/)
+[Splorp: Newton](http://www.splorp.com/newton/)

@@ -4,4 +4,6 @@ Title: Jim Abeles
 
 Text:
 
-_cf. (link:http://www.flickr.com/photos/abeles/sets/72157629005100169/)_
+<h2>Additional Information</h2>
+
+[Flickr: Jim Abeles](http://www.flickr.com/photos/abeles/)

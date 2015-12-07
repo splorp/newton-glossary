@@ -10,7 +10,7 @@ A technical support database maintained by Apple and consisting of thousands of 
 
 <h2>Additional Information</h2>
 
-[Tech Info Library: Basic Search Techniques](http://support.apple.com/kb/TA36884)
+[Apple Support: Tech Info Library: Basic Search Techniques](http://support.apple.com/kb/TA36884)
 
 ----
 

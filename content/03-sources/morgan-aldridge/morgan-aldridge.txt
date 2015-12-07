@@ -4,4 +4,6 @@ Title: Morgan Aldridge
 
 Text:
 
-_cf. (link:http://makkintosshu.com/)_
+<h2>Additional Information</h2>
+
+[Makkintosshu Website](http://makkintosshu.com/)

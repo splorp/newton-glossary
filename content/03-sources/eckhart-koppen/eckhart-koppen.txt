@@ -4,5 +4,7 @@ Title: Eckhart Köppen
 
 Text:
 
-_cf. (link:http://40hz.org/)_
-_cf. (link:https://github.com/ekoeppen)_
+<h2>Additional Information</h2>
+
+[40hz Website](http://40hz.org/)
+[GitHub: Eckhart Köppen](https://github.com/ekoeppen)

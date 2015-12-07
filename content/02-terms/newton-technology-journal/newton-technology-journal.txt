@@ -8,7 +8,7 @@ A publication produced by [Apple](http://www.apple.com/) which supplied develope
 
 <h2>Additional Information</h2>
 
-[Newton Technology Journal Archives](http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal)
+[UNNA: Newton Technology Journal Archives](http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal)
 
 ----
 

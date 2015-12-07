@@ -8,5 +8,5 @@ Published by [Apple](http://www.apple.com/) in 1997, this is the definitive refe
 
 <h2>Additional Information</h2>
 
-[Newton C++ Tools](http://mirrors.unna.org/download.planetnewton.com/download/programming/applec++tools.htm) (Newtsbug Download)
-[Newtsbug User’s Guide](http://www.newted.org/download/manuals/NewtsbugUsersGuide.pdf)
+[UNNA: Planet Newton Mirror: Newton C++ Tools](http://mirrors.unna.org/download.planetnewton.com/download/programming/applec++tools.htm)
+[The Newted Community: Newtsbug User’s Guide](http://www.newted.org/download/manuals/NewtsbugUsersGuide.pdf) (PDF)

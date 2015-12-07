@@ -8,8 +8,8 @@ A development environment created by [Apple](http://www.apple.com/) for writing 
 
 <h2>Additional Information</h2>
 
-[Newton Toolkit](http://www.unna.org/view.php?/apple/development/NTK)
-[Newton Toolkit Enhancements](http://www.newted.org/download/manuals/NewtonToolkitEnhancements164.pdf)
+[UNNA: Newton Toolkit](http://www.unna.org/view.php?/apple/development/NTK)
+[The Newted Community: Newton Toolkit Enhancements](http://www.newted.org/download/manuals/NewtonToolkitEnhancements164.pdf) (PDF)
 
 ----
 

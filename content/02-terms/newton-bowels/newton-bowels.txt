@@ -8,7 +8,7 @@ A project instigated by [Paul Guyot](/sources/paul-guyot) to document [applicati
 
 <h2>Additional Information</h2>
 
-[Newton Bowels Documentaton & Sample Code](http://www.kallisys.com/files/newton/Bowels/)
+[Kallisys: Newton Bowels Documentaton & Sample Code](http://www.kallisys.com/files/newton/Bowels/)
 
 ----
 

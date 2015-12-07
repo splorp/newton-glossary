@@ -8,6 +8,6 @@ Published by [Apple](http://www.apple.com/) in 1995 and 1996, this is the defini
 
 <h2>Additional Information</h2>
 
-[Apple MessagePad Handbook](http://www.newted.org/download/manuals/0307258ANEWTONMP.PDF) (1995) _The Newted Community_
-[Apple MessagePad Handbook](http://www.unna.org/unna/apple/documentation/OMP-130/NewtonHandbook&#40;OS2.0&#41;2UP.pdf) (1995) _UNNA_
-[Apple MessagePad Handbook](http://www.unna.org/unna/apple/documentation/OMP-130/NewtonHandbook&#40;OS2.0&#41;.pdf) (1996) _UNNA_
+[The Newted Community: Apple MessagePad Handbook](http://www.newted.org/download/manuals/0307258ANEWTONMP.PDF) (1995)
+[UNNA: Apple MessagePad Handbook](http://www.unna.org/unna/apple/documentation/OMP-130/NewtonHandbook&#40;OS2.0&#41;2UP.pdf) (1995)
+[UNNA: Apple MessagePad Handbook](http://www.unna.org/unna/apple/documentation/OMP-130/NewtonHandbook&#40;OS2.0&#41;.pdf) (1996)

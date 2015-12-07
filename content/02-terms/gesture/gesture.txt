@@ -10,7 +10,7 @@ The [Graffiti](/terms/graffiti) input system is also based on gestures.
 
 <h2>Additional Information</h2>
 
-[Handwriting Tips for Newton Power Users](http://www.catamount.com/HWRTips/HWRTips.html)
+[Catamount Software: Handwriting Tips for Newton Power Users](http://www.catamount.com/HWRTips/HWRTips.html)
 
 ----
 

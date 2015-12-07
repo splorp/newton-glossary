@@ -6,5 +6,6 @@ Text:
 
 <h2>Additional Information</h2>
 
-[Walter Smith Newton Articles](http://waltersmith.us/newton)
-[Walter Smith Interview in HWM Magazine](http://books.google.ca/books?id=n-oDAAAAMBAJ&lpg=PA70&ots=TWYSoF5RKt&pg=PA70#v=onepage)
+[Walter Smith Website](http://waltersmith.us/)
+[Walter Smith: Newton Articles](http://waltersmith.us/newton)
+[Google Books: HWM Magazine: Walter Smith Interview](http://books.google.ca/books?id=n-oDAAAAMBAJ&lpg=PA70&ots=TWYSoF5RKt&pg=PA70#v=onepage)

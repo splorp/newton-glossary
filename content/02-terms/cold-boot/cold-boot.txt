@@ -10,7 +10,7 @@ Not to be confused with [hard reset](/terms/hard-reset) or [brain wipe](/terms/b
 
 <h2>Additional Information</h2>
 
-[Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
+[Apple Support: Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
 
 ----
 

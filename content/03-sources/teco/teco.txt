@@ -11,4 +11,4 @@ In 1994, TECO developed [PocketWeb](/terms/pocketweb), the first web browser for
 <h2>Additional Information</h2>
 
 [TECO Website](http://www.teco.edu/)
-[TECO Wikipedia Entry](https://de.wikipedia.org/wiki/TecO)
+[Wikipedia: TECO](https://de.wikipedia.org/wiki/TecO)

@@ -10,7 +10,7 @@ Also known as a [warm boot](/terms/warm-boot) or [software reset](/terms/softwar
 
 <h2>Additional Information</h2>
 
-[Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
+[Apple Support: Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
 
 ----
 

@@ -8,4 +8,4 @@ Produced the unofficial Japanese translation of [The NewtonScript Programming La
 
 <h2>Additional Information</h2>
 
-[プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation) _Internet Archive_
+[Internet Archive: プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation)

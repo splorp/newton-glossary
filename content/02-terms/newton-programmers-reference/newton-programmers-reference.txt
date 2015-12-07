@@ -8,7 +8,7 @@ A document which provides comprehensive documentation for the routines, system [
 
 <h2>Additional Information</h2>
 
-[Newton Programmer’s Reference For Newton 2.0](http://manuals.info.apple.com/en_US/NewtonProgrammerRef20.PDF)
+[Apple: Newton Programmer’s Reference For Newton 2.0](http://manuals.info.apple.com/en_US/NewtonProgrammerRef20.PDF) (PDF)
 
 ----
 

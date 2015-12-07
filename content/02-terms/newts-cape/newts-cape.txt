@@ -10,7 +10,7 @@ A web browser for [Newton OS](/terms/newton-os) devices developed by [Steve Weye
 
 <h2>Additional Information</h2>
 
-[Newt’s Cape Product Information](http://communicrossings.com/html/newton/newtscape.htm)
+[CommuniCrossings: Newt’s Cape Product Information](http://communicrossings.com/html/newton/newtscape.htm)
 
 ----
 

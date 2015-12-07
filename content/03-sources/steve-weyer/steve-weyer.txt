@@ -4,4 +4,6 @@ Title: Steve Weyer
 
 Text:
 
-_cf. (link:http://communicrossings.com/html/newton/)_
+<h2>Additional Information</h2>
+
+[CommuniCrossings Website](http://communicrossings.com/html/newton/)

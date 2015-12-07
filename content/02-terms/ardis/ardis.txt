@@ -10,8 +10,8 @@ A defunct wireless data network based in the United States developed by [Motorol
 
 <h2>Additional Information</h2>
 
-[Advanced Radio Data Information Service](http://www.signalharbor.com/ardis.html)
-[ARDIS Website](https://web.archive.org/web/19990429042153/http://www.ardis.com/)
+[Signal Harbor: Advanced Radio Data Information Service](http://www.signalharbor.com/ardis.html)
+[Internet Archive: ARDIS Website](https://web.archive.org/web/19990429042153/http://www.ardis.com/)
 
 ----
 

@@ -10,7 +10,7 @@ A Ruby-based communication framework written by [Eckhart Köppen](/sources/eckha
 
 <h2>Additional Information</h2>
 
-[RDCL Product Information](https://github.com/ekoeppen/RDCL)
+[GitHub: RDCL](https://github.com/ekoeppen/RDCL)
 
 ----
 

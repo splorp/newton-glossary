@@ -8,7 +8,7 @@ A method of [resetting](/terms/reset) a Newton device by removing the batteries 
 
 <h2>Additional Information</h2>
 
-[Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
+[Apple Support: Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
 
 ----
 

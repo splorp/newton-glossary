@@ -8,5 +8,5 @@ The _Apple Online Museum_ was founded in 1998 by Lukas Foljanty and original cre
 
 <h2>Additional Information</h2>
 
-[The Apple Museum Website](https://web.archive.org/web/20111213005851/http://www.theapplemuseum.com/) _Internet Archive_
-[The Apple Museum: Codenames: Newton PDAs](https://web.archive.org/web/20111213010745/http://www.theapplemuseum.com/index.php?id=25) _Internet Archive_
+[Internet Archive: The Apple Museum Website](https://web.archive.org/web/20111213005851/http://www.theapplemuseum.com/)
+[Internet Archive: The Apple Museum: Codenames: Newton PDAs](https://web.archive.org/web/20111213010745/http://www.theapplemuseum.com/index.php?id=25)

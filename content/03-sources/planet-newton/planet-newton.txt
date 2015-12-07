@@ -6,4 +6,4 @@ Text:
 
 <h2>Additional Information</h2>
 
-[Planet Newton Website](https://web.archive.org/web/20050310015435/http://www.planetnewton.com/home.htm)
+[Internet Archive: Planet Newton Website](https://web.archive.org/web/20050310015435/http://www.planetnewton.com/home.htm)

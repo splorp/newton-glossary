@@ -8,7 +8,7 @@ A simple, text-only web browser and [RSS](/terms/rss) reader for [Newton OS](/te
 
 <h2>Additional Information</h2>
 
-[Courier Product Information](http://40hz.org/Pages/Courier)
+[40hz: Courier Product Information](http://40hz.org/Pages/Courier)
 
 ----
 

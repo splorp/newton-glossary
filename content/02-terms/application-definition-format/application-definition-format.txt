@@ -8,7 +8,7 @@ A text file format defined by [Revelar](/sources/revelar) that contains a descri
 
 <h2>Additional Information</h2>
 
-[ADF File Resources](http://user.xmission.com/~revelar/adf.html)
+[Revelar: ADF File Resources](http://user.xmission.com/~revelar/adf.html)
 
 ----
 

@@ -4,4 +4,6 @@ Title: Newton Info Library
 
 Text:
 
-_cf. (link:https://web.archive.org/web/20020422041555/http://newted.dyndns.org/users/alien/)_
+<h2>Additional Information</h2>
+
+[Internet Archive: Newton Info Library](https://web.archive.org/web/20020422041555/http://newted.dyndns.org/users/alien/)

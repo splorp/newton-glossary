@@ -8,7 +8,7 @@ A software based input system that converts predefined [pen](/terms/pen) strokes
 
 <h2>Additional Information</h2>
 
-[Wikipedia: Graffiti (Palm_OS)](https://en.wikipedia.org/wiki/Graffiti_(Palm_OS))
+[Wikipedia: Graffiti (Palm OS)](https://en.wikipedia.org/wiki/Graffiti_&#40;Palm_OS&#40;)
 
 ----
 

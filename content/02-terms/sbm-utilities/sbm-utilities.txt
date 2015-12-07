@@ -8,7 +8,7 @@ A suite of [Newton OS](/terms/newton-os) diagnostic and repair tools created by 
 
 <h2>Additional Information</h2>
 
-[SBM Utilities Product Information](http://www.softwarebueromueller.de/englisch/newton/sbmutils/)
+[Softwarebüro Müller: SBM Utilities Product Information](http://www.softwarebueromueller.de/englisch/newton/sbmutils/)
 
 ----
 

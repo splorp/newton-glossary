@@ -8,7 +8,7 @@ An plain vanilla adaptation of the disassembly tool found in the [Einstein](/ter
 
 <h2>Additional Information</h2>
 
-[Unarmed Repository on GitHub](https://github.com/panicsteve/unarmed)
+[GitHub: Unarmed](https://github.com/panicsteve/unarmed)
 
 ----
 
