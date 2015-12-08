@@ -4,5 +4,10 @@ Title: Victor Rehorst
 
 Text:
 
-_cf. (link:http://chuma.org/)_
-_cf. (link:http://old.chuma.org/newton/)_
+Victor Rehorst was an administrator of the [NewtonTalk](/terms/newtontalk) mailing list from 2001 and 2007. He is also the founder of the United Network of Newton Archives, otherwise known as [UNNA](/terms/unna). A technology geek at heart, Victor currently spends his spare time enjoying hacking his home automation system, exploring the intricacies of messaging protocols, tinkering with retro computer platforms, and playing ultimate Frisbee.
+
+<h2>Additional Information</h2>
+
+[Chuma Website](http://chuma.org/)
+[Chuma: Newton](http://old.chuma.org/newton/)
+[UNNA Website](http://unna.org/)

@@ -6,7 +6,7 @@ Text:
 
 United Network of Newton Archives
 
-A web site dedicated to the preservation of Newton related software, documentation, and extant websites. Originally launched by [Victor Rehorst](/sources/victor-rehorst) in 2001, the site is current maintained by [Morgan Aldridge](/sources/morgan-aldridge).
+A web site dedicated to the preservation of Newton related software, documentation, and extant websites. Founded by [Victor Rehorst](/sources/victor-rehorst) in 2001, the site is currently maintained by [Morgan Aldridge](/sources/morgan-aldridge).
 
 <h2>Additional Information</h2>
 
