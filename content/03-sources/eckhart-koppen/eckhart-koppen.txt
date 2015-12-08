@@ -6,5 +6,6 @@ Text:
 
 <h2>Additional Information</h2>
 
-[40hz Website](http://40hz.org/)
+[40Hz Website](http://40hz.org/)
+[40Hz: Eckhart Koeppen Biography](http://40hz.org/Pages/EckhartKoeppen)
 [GitHub: Eckhart Köppen](https://github.com/ekoeppen)
