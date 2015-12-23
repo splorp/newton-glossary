@@ -1,0 +1,23 @@
+Title: Dr Llama
+
+----
+
+Text:
+
+The nom de plume of [Maurice Sharp](/sources/maurice-sharp), who worked as a developer technical support engineer in the [Newton Systems Group](/terms/newton-systems-group) at [Apple](http://www.apple.com/). The nickname stems from the unofficial mascot of Apple’s [Developer Technical Services](/terms/developer-technical-services) team … the [Llama](/terms/llama). For reasons yet to be determined, Sharp was also known as [Commander Clueless](/terms/commander-clueless) within the group.
+
+----
+
+Related:
+
+- /terms/commander-clueless
+- /terms/developer-technical-services
+- /terms/llama
+- /terms/llama-dos
+- /terms/newton-systems-group
+
+----
+
+Source:
+
+- /sources/apple-developer-connection
