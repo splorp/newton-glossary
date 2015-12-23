@@ -78,6 +78,13 @@ h4 {
 	font-weight: normal;
 	}
 
+blockquote {
+    margin-bottom: 20px;
+    background: #EEE;
+    padding: 20px 10px 20px 30px;
+    border-left: 20px solid #CCC;
+	}
+	
 p {
 	margin-bottom: 20px;
 	}
