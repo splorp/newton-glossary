@@ -12,7 +12,7 @@ A chronological list of major changes and updates.
 
 Incremental changes and updates can be found in the project’s [commit log](https://github.com/splorp/newton-glossary/commits/master).
 
-## In Progress
+## Current Release
 
 Version: 2.0.0
 Terms: In Progress
