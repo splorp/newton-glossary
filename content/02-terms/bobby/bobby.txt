@@ -4,13 +4,13 @@ Title: Bobby
 
 Text:
 
-An [application](/terms/application) used by a developer to test various portions of a [device driver](/terms/device-driver) in isolation on a Newton device.
+An [application](/terms/application) used by a developer to test various portions of a [device driver](/terms/device-driver) in isolation on a [Newton OS](/terms/newton-os) device.
 
 ----
 
 Related:
 
-- /terms/ddk
 - /terms/device-driver
 - /terms/driver-development-kit
 - /terms/lantern
+- /terms/lantern-driver

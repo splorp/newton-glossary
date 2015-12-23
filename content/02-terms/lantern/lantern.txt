@@ -12,7 +12,6 @@ Related:
 
 - /terms/api
 - /terms/bobby
-- /terms/ddk
 - /terms/device-driver
 - /terms/driver-development-kit
 - /terms/lantern-driver

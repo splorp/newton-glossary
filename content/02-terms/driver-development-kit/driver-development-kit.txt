@@ -4,7 +4,7 @@ Title: Driver Development Kit
 
 Text:
 
-A cohesive set of code samples, templates, tools, libraries, and other utilities to facilitate the creation of [device drivers](/terms/device-driver).
+A cohesive set of code samples, templates, tools, libraries, and other utilities to facilitate the creation of [device drivers](/terms/device-driver). Commonly known as a [DDK](/terms/ddk).
 
 ----
 
@@ -16,5 +16,4 @@ Related:
 - /terms/lantern-api
 - /terms/lantern-driver
 - /terms/lantern-library
-- /terms/sdk
 - /terms/software-development-kit
