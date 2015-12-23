@@ -11,7 +11,7 @@ The Newton platform development group within [Apple](http://www.apple.com/).
 Related:
 
 - /terms/developer-technical-services
-- /terms/dts
+- /terms/dr-llama
 - /terms/llama
 - /terms/newton-inc
 - /terms/nsg

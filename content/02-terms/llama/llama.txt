@@ -11,7 +11,7 @@ The unofficial mascot of the Apple’s [Developer Technical Services](/terms/dev
 Related:
 
 - /terms/developer-technical-services
-- /terms/dts
+- /terms/dr-llama
 - /terms/llama-dos
 - /terms/newton-programmers-guide
 - /terms/newton-systems-group

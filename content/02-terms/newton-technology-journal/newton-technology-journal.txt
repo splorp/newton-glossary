@@ -15,7 +15,6 @@ A publication produced by [Apple](http://www.apple.com/) which supplied develope
 Related:
 
 - /terms/developer-technical-services
-- /terms/dts
 - /terms/newton-associates-program
 - /terms/newton-developer-support
 - /terms/newton-partners-program

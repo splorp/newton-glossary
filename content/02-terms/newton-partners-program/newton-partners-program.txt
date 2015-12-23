@@ -11,7 +11,6 @@ A defunct [Apple](http://www.apple.com/) development support program which provi
 Related:
 
 - /terms/developer-technical-services
-- /terms/dts
 - /terms/newton-associates-program
 - /terms/newton-developer-conference
 - /terms/newton-developer-support

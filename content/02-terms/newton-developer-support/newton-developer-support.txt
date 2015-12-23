@@ -11,7 +11,7 @@ A defunct group within [Apple](http://www.apple.com/) which supplied technical i
 Related:
 
 - /terms/developer-technical-services
-- /terms/dts
+- /terms/dr-llama
 - /terms/llama
 - /terms/newton-associates-program
 - /terms/newton-developer-conference

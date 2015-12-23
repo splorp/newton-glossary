@@ -15,7 +15,7 @@ A software package of dubious utility which provides an alternate input interfac
 Related:
 
 - /terms/developer-technical-services
-- /terms/dts
+- /terms/dr-llama
 - /terms/llama
 - /terms/newton-systems-group
 
