@@ -12,7 +12,7 @@ Related:
 
 - /terms/data-link-layer
 - /terms/device-driver
-- /terms/lantern-driver
+- /terms/lantern
 - /terms/lantern-library
 - /terms/newton-devices
 

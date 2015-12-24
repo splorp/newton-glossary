@@ -16,7 +16,6 @@ The definitive guide to Newton programming, providing conceptual information and
 
 Related:
 
-- /terms/api
 - /terms/application-programming-interface
 - /terms/newton-programmers-reference
 - /terms/npg

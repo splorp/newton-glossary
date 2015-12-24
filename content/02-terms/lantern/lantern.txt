@@ -10,7 +10,6 @@ The driver development kit or [DDK](/terms/driver-development-kit) used to write
 
 Related:
 
-- /terms/api
 - /terms/bobby
 - /terms/device-driver
 - /terms/driver-development-kit

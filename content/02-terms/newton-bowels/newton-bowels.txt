@@ -14,7 +14,6 @@ A project instigated by [Paul Guyot](/sources/paul-guyot) to document [applicati
 
 Related:
 
-- /terms/api
 - /terms/application-programming-interface
 - /terms/better-disarm
 - /terms/lantern-ddk
