@@ -1,5 +1,5 @@
   <footer>
-    <?php echo kirbytext($site->copyright() . "<br>" . $site->colophon()) ?>
+    <?php echo kirbytext($site->copyright() . "<br />" . $site->colophon()) ?>
   </footer>
 
 </body>

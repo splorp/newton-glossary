@@ -18,5 +18,5 @@ Copyright: Copyright © 2001–(date: Year) (link: http://splorp.me/ text: Grant
 
 ----
 
-Colophon: Follow us (link: https://twitter.com/newtonglossary text: @newtonglossary)
+Colophon: Follow (link: https://twitter.com/newtonglossary text: @newtonglossary)
 Powered by (link: http://getkirby.com/ text: Kirby)
