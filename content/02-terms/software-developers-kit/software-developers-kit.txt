@@ -1,7 +1,0 @@
-Title: SDK
-
-----
-
-Text:
-
-See [Software Development Kit](/terms/software-development-kit)

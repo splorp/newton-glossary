@@ -14,7 +14,7 @@ A document which provides comprehensive documentation for the routines, system [
 
 Related:
 
-- /terms/application-programming-interface
+- /terms/api
 - /terms/newton-programmers-guide
 - /terms/npr
 

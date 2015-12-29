@@ -4,4 +4,12 @@ Title: SDK
 
 Text:
 
-See [Software Development Kit](/terms/software-development-kit)
+Software Development Kit
+
+A cohesive set of code samples, templates, tools, libraries, and other utilities provided by software vendors to facilitate the creation of [applications](/terms/application) based on their software.
+
+----
+
+Related:
+
+- /terms/ddk

@@ -1,0 +1,7 @@
+Title: Lantern DDK
+
+----
+
+Text:
+
+See [Lantern](/terms/lantern)

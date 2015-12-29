@@ -4,4 +4,20 @@ Title: API
 
 Text:
 
-See [Application Programming Interface](/terms/application-programming-interface)
+Application Programming Interface
+
+A language and message format used by an [application](/terms/application) to communicate with the [operating system](/terms/operating-system) or another program.
+
+----
+
+Related:
+
+- /terms/lantern
+- /terms/newton-bowels
+- /terms/newton-devices
+
+----
+
+Source:
+
+- /sources/techencyclopedia

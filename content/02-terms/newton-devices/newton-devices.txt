@@ -4,13 +4,13 @@ Title: Newton Devices
 
 Text:
 
-A [package](/terms/package) containing various driver functions allowing communication using [protocols](/terms/protocol) such as [AppleTalk](/terms/appletalk) and [TCP/IP](/terms/tcp-ip). The Newton Devices package incorporates the [Lantern Library](/terms/lantern-library) of driver functions, and other driver APIs ([application programming interfaces](/terms/application-programming-interface)).
+A [package](/terms/package) containing various driver functions allowing communication using [protocols](/terms/protocol) such as [AppleTalk](/terms/appletalk) and [TCP/IP](/terms/tcp-ip). The Newton Devices package incorporates the [Lantern Library](/terms/lantern-library) of driver functions, and other driver [APIs](/terms/api).
 
 ----
 
 Related:
 
-- /terms/application-programming-interface
+- /terms/api
 - /terms/device-driver
 - /terms/lantern-driver
 - /terms/lantern-library

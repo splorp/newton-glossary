@@ -4,7 +4,7 @@ Title: Newton Programmer’s Guide
 
 Text:
 
-The definitive guide to Newton programming, providing conceptual information and instructions for using Newton OS [application programming interfaces](/terms/application-programming-interface). Also referred to as [NPG](/terms/npg).
+The definitive guide to Newton programming, providing conceptual information and instructions for using Newton OS [APIs](/terms/api). Also referred to as [NPG](/terms/npg).
 
 <h2>Additional Information</h2>
 
@@ -16,7 +16,7 @@ The definitive guide to Newton programming, providing conceptual information and
 
 Related:
 
-- /terms/application-programming-interface
+- /terms/api
 - /terms/newton-programmers-reference
 - /terms/npg
 

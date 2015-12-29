@@ -4,4 +4,18 @@ Title: DDK
 
 Text:
 
-See [Driver Development Kit](/terms/driver-development-kit)
+Driver Development Kit
+
+A cohesive set of code samples, templates, tools, libraries, and other utilities to facilitate the creation of [device drivers](/terms/device-driver).
+
+----
+
+Related:
+
+- /terms/bobby
+- /terms/device-driver
+- /terms/lantern
+- /terms/lantern-ddk
+- /terms/lantern-driver
+- /terms/lantern-library
+- /terms/sdk

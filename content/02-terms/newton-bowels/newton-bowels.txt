@@ -4,7 +4,7 @@ Title: Newton Bowels
 
 Text:
 
-A project instigated by [Paul Guyot](/sources/paul-guyot) to document [application programming interfaces](/terms/application-programming-interface) (APIs), inner workings, and other programmatic mechanisms found in the [Newton OS](/terms/newton-os) and to provide related sample code and development tools.
+A project instigated by [Paul Guyot](/sources/paul-guyot) to document [APIs](/terms/api), inner workings, and other programmatic mechanisms found in the [Newton OS](/terms/newton-os) and to provide related sample code and development tools.
 
 <h2>Additional Information</h2>
 
@@ -14,9 +14,9 @@ A project instigated by [Paul Guyot](/sources/paul-guyot) to document [applicati
 
 Related:
 
-- /terms/application-programming-interface
+- /terms/api
 - /terms/better-disarm
-- /terms/lantern-ddk
+- /terms/lantern
 - /terms/newton-devices
 - /terms/rough-disarm
 
