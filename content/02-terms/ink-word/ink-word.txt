@@ -4,7 +4,7 @@ Title: Ink Word
 
 Text:
 
-The grouping of [ink](/terms/ink) data created by the recognition system, based on the timing and spacing of the user’s handwriting. Ink words are created when the user has selected [Ink Text](/terms/ink-text) in the Recognition Preferences slip. Ink words can subsequently be recognized with [deferred recognition](/terms/deferred-recognition).
+The grouping of [ink data](/terms/ink-data) created by the recognition system, based on the timing and spacing of the user’s handwriting. Ink words are created when the user has selected [Ink Text](/terms/ink-text) in the Recognition Preferences slip. Ink words can subsequently be recognized with [deferred recognition](/terms/deferred-recognition).
 
 _cf. screenshot_
 
@@ -16,6 +16,7 @@ Related:
 - /terms/electronic-ink
 - /terms/handwriting-recognition
 - /terms/ink
+- /terms/ink-data
 - /terms/ink-text
 - /terms/inker
 - /terms/recognized-text
