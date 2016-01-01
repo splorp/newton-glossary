@@ -4,7 +4,7 @@ Title: InkPad
 
 Text:
 
-A simple notepad interface where handwritten input is converted into editable text when using the [InkWell](/terms/inkwell) handwriting recognition system.
+A simple notepad interface where handwritten input is converted into editable text when using the [Inkwell](/terms/inkwell) handwriting recognition system.
 
 _cf. screenshot_
 

@@ -6,7 +6,7 @@ Text:
 
 The raw data for input drawn by the user with the [pen](/terms/pen). Also referred to as [raw ink](/terms/raw-ink) or [sketch ink](/terms/sketch-ink).
 
-Also the name of the preference pane used to control the Mac OS X version of the Newton [handwriting recognition](/terms/handwriting-recognition) system, originally dubbed [InkWell](/terms/inkwell).
+Ink is also the name of the Mac OS X preference pane used to control the transplanted Newton [handwriting recognition](/terms/handwriting-recognition) system, originally dubbed [Inkwell](/terms/inkwell).
 
 _cf. screenshots_
 
