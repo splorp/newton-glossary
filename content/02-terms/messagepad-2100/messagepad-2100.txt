@@ -4,7 +4,7 @@ Title: MessagePad 2100
 
 Text:
 
-The last [Newton OS](/terms/newton-os) device released by [Apple](http://www.apple.com/). The MessagePad 2100 shares the same specifications as its predecessor, the [MessagePad 2000](/terms/messagepad-130), with the exception of the amount of [RAM](/terms/ram). A MessagePad 2000 can been upgraded to the equivalent of a MessagePad 2100 by increasing the RAM from 5MB to 8MB.
+The last Newton device released by [Apple](http://www.apple.com/). The MessagePad 2100 shares the same specifications as its predecessor, the [MessagePad 2000](/terms/messagepad-130), with the exception of the amount of [RAM](/terms/ram). A MessagePad 2000 can been upgraded to the equivalent of a MessagePad 2100 by increasing the RAM from 5MB to 8MB.
 
 ----
 

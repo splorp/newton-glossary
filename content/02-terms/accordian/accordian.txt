@@ -4,7 +4,7 @@ Title: Accordian
 
 Text:
 
-Software developed by [Revelar](/sources/revelar) that connects a [Newton OS](/terms/newton-os) device to a [FileMaker Pro](http://en.wikipedia.org/wiki/FileMaker) relational database located on a Mac OS computer. Once connected, the user can transfer data between Newton [applications](/terms/application) such as [Name File](/terms/name-file) or [Notepad](/terms/notepad) and the hosted database.
+Software developed by [Revelar](/sources/revelar) that connects a Newton device to a [FileMaker Pro](http://en.wikipedia.org/wiki/FileMaker) relational database located on a Mac OS computer. Once connected, the user can transfer data between Newton [applications](/terms/application) such as [Name File](/terms/name-file) or [Notepad](/terms/notepad) and the hosted database.
 
 Accordian was eventually bundled free with [Revelar Connection Utility](/terms/revelar-connection-utility).
 

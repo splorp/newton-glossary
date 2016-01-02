@@ -4,7 +4,7 @@ Title: Andante
 
 Text:
 
-The code name for the [Newton OS](/terms/newton-os) device that was to be next in line after the [MessagePad 2100](/terms/messagepad-2100). According to [Walter R. Smith](/sources/walter-smith), the development priorities of this device were “placed on size and price”. Andante never shipped due to Newton development being [Steved](/terms/steved).
+The code name for the Newton device that was to be next in line after the [MessagePad 2100](/terms/messagepad-2100). According to [Walter R. Smith](/sources/walter-smith), the development priorities of this device were “placed on size and price”. Andante never shipped due to Newton development being [Steved](/terms/steved).
 
 ----
 

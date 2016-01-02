@@ -4,7 +4,7 @@ Title: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements
 
 Text:
 
-This supplement presents user interface guidelines for the enhanced keyboard features in Newton OS 2.1. 
+This supplement presents user interface guidelines for the enhanced keyboard features in [Newton OS](/terms/newton-os) 2.1. 
 
 <h2>Additional Information</h2>
 

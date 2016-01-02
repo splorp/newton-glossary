@@ -4,7 +4,7 @@ Title: Sleep
 
 Text:
 
-An inactive state of a [Newton OS](/terms/newton-os) device where system and peripheral functions are shut down, but the device can still respond or [wake](/terms/wake) to an external signal.
+An inactive state of a Newton device where system and peripheral functions are shut down, but the device can still respond or [wake](/terms/wake) to an external signal.
 
 ----
 

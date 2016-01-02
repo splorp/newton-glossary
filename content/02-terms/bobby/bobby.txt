@@ -4,7 +4,7 @@ Title: Bobby
 
 Text:
 
-An [application](/terms/application) created by [Jason Rukman](/sources/jason-rukman) used during [device driver](/terms/device-driver) development, specifically isolated testing of [Lantern](/terms/lantern) drivers on a [Newton OS](/terms/newton-os) device.
+An [application](/terms/application) created by [Jason Rukman](/sources/jason-rukman) used during [device driver](/terms/device-driver) development, specifically isolated testing of [Lantern](/terms/lantern) drivers on a Newton device.
 
 The name “Bobby” is a nod to London police officers who would use lanterns when patrolling or inspecting at night.
 

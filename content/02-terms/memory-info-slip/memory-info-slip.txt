@@ -4,7 +4,7 @@ Title: Memory Info Slip
 
 Text:
 
-An [info slip](/terms/info-slip) that reports statistics on the amount of memory installed and available to a [Newton OS](/terms/newton-os) device.
+An [info slip](/terms/info-slip) that reports statistics on the amount of memory installed and available to a Newton device.
 
 _cf. screenshot_
 

@@ -6,7 +6,7 @@ Text:
 
 Advanced RISC Machines
 
-The company that produced the processors used in [Newton OS](/terms/newton-os) devices.
+The company that produced the processors used in Newton devices.
 
 <h2>Additional Information</h2>
 

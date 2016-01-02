@@ -4,7 +4,7 @@ Title: Newt’s Cape
 
 Text:
 
-A web browser for [Newton OS](/terms/newton-os) devices developed by [Steve Weyer](/sources/steve-weyer). Newt’s Cape is able to create [Newton books](/terms/newton-book) containing text, images, links, and forms from existing HTML documents. With the ability to embed [NewtonScript](/terms/newtonscript) objects and methods into these documents, Newt’s Cape can also act as a simple [application](/terms/application) development environment.
+A web browser for Newton devices developed by [Steve Weyer](/sources/steve-weyer). Newt’s Cape is able to create [Newton books](/terms/newton-book) containing text, images, links, and forms from existing HTML documents. With the ability to embed [NewtonScript](/terms/newtonscript) objects and methods into these documents, Newt’s Cape can also act as a simple [application](/terms/application) development environment.
 
 ![Newt’s Cape](/assets/images/newts-cape.png)
 

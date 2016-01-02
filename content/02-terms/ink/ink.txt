@@ -4,7 +4,7 @@ Title: Ink
 
 Text:
 
-The raw data created from user input drawn with the [pen](/terms/pen) on a [Newton OS](/terms/newton-os) device. Also known variously as [ink data](/terms/ink-data), [raw ink](/terms/raw-ink), and [sketch ink](/terms/sketch-ink).
+The raw data created from user input drawn with the [pen](/terms/pen) on a Newton device. Also known variously as [ink data](/terms/ink-data), [raw ink](/terms/raw-ink), and [sketch ink](/terms/sketch-ink).
 
 Ink is also the name of the Mac OS X preference pane used to control the transplanted Newton [handwriting recognition](/terms/handwriting-recognition) system, originally dubbed [Inkwell](/terms/inkwell).
 
