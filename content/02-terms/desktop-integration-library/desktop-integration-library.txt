@@ -6,7 +6,6 @@ Text:
 
 A collection of code that allows developers of [applications](/terms/application) for desktop [operating systems](/terms/operating-system) to directly [synchronize](/terms/synchronize) data between their applications and a Newton device.
 
-
 A [DIL](/terms/dil) is a slightly modified version of the code that exists in desktop applications such as [Newton Connection Utilities](/terms/newton-connection-utilities), [Newton Package Installer](/terms/newton-package-installer), and [Newton Press](/terms/newton-press). DILs allow you to connect via communication protocols such as [TCP/IP](/terms/tcp-ip), [IrDA](/terms/irda), and [ADSP](/terms/adsp) to Mac OS and Windows computers. Specifically, DILs facilitate the encoding and decoding of data via the Newton Streamed Object Format ([NSOF](/terms/nsof)).
 
 [Newton Data Browser](/terms/newton-data-browser) is an example of a DIL-based program.

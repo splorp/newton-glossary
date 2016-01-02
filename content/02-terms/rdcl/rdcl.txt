@@ -6,7 +6,7 @@ Text:
 
 Ruby Desktop Connection Library
 
-A Ruby-based communication framework written by [Eckhart Köppen](/sources/eckhart-koppen) for connecting Newton devices (Newton OS 2.0 and later) via the built-in [dock](/terms/dock) protocol. Connections are usually performed via serial cable, but higher level [protocol](/terms/protocol) layers can also run over other connection methods such as [TCP/IP](/terms/tcp-ip).
+A Ruby-based communication framework written by [Eckhart Köppen](/sources/eckhart-koppen) for connecting Newton devices running Newton OS 2.x via the built-in [dock](/terms/dock) protocol. Connections are usually performed via serial cable, but higher level [protocol](/terms/protocol) layers can also run over other connection methods such as [TCP/IP](/terms/tcp-ip).
 
 <h2>Additional Information</h2>
 
