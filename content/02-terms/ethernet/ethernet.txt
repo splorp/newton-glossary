@@ -11,7 +11,8 @@ A family of packet-based networking technologies originally developed at [Xerox 
 Related:
 
 - /terms/appletalk
-- /terms/lan
+- /terms/enet
+- /terms/ethertalk
 - /terms/local-area-network
 - /terms/localtalk
 - /terms/protocol

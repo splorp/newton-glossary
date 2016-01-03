@@ -11,4 +11,6 @@ The act of connecting a Newton device to another computer, in most cases to tran
 Related:
 
 - /terms/auto-dock
+- /terms/classroom-dock
+- /terms/classroom-exchange
 - /terms/connection

@@ -12,6 +12,7 @@ _cf. screenshot_
 
 Related:
 
+- /terms/classroom-dock
 - /terms/dock
 - /terms/connection
 - /terms/emate-300

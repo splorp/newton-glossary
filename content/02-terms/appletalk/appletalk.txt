@@ -12,7 +12,7 @@ Related:
 
 - /terms/at
 - /terms/ethernet
-- /terms/lan
+- /terms/ethertalk
 - /terms/local-area-network
 - /terms/localtalk
 - /terms/protocol

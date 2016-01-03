@@ -12,6 +12,7 @@ Related:
 
 - /terms/appletalk
 - /terms/ethernet
+- /terms/ethertalk
 - /terms/lan
 - /terms/localtalk
 - /terms/protocol

@@ -11,4 +11,5 @@ The built-in [application](/terms/application) used to perform the action of con
 Related:
 
 - /terms/auto-dock
+- /terms/classroom-dock
 - /terms/dock
