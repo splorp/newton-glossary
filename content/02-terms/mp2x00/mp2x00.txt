@@ -10,6 +10,7 @@ A shorthand term used when referring to both the [MessagePad 2000](/terms/messag
 
 Related:
 
+- /terms/messagepad
 - /terms/messagepad-2000
 - /terms/messagepad-2100
 - /terms/mp2000

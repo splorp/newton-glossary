@@ -12,8 +12,8 @@ Related:
 
 - /terms/lindy-crib
 - /terms/lizzy
+- /terms/messagepad
 - /terms/messagepad-110
-- /terms/mp110
 
 ----
 

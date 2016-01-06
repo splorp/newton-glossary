@@ -11,8 +11,8 @@ The code name of the [MessagePad 120](/terms/messagepad-120) device. The name Ge
 
 Related:
 
+- /terms/messagepad
 - /terms/messagepad-120
-- /terms/mp120
 
 ----
 
