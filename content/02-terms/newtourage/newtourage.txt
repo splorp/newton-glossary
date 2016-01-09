@@ -20,5 +20,4 @@ Related:
 - /terms/names
 - /terms/now-up-to-date
 - /terms/personal-information-manager
-- /terms/pim
 - /terms/synchronize
