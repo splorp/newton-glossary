@@ -18,7 +18,6 @@ Related:
 - /terms/newtourage
 - /terms/nud
 - /terms/personal-information-manager
-- /terms/pim
 - /terms/synchronize
 
 ----

@@ -22,7 +22,6 @@ Related:
 - /terms/name-file
 - /terms/names
 - /terms/personal-information-manager
-- /terms/pim
 
 ----
 

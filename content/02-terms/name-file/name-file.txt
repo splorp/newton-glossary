@@ -18,7 +18,6 @@ Related:
 - /terms/names
 - /terms/newtourage
 - /terms/personal-information-manager
-- /terms/pim
 - /terms/vcard
 
 ----
