@@ -1,0 +1,13 @@
+Title: Assistant
+
+----
+
+Text:
+
+See [Assist](/terms/assist)
+
+----
+
+Source:
+
+- /sources/newton-messagepad-handbook

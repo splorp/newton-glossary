@@ -4,16 +4,22 @@ Title: Assist
 
 Text:
 
-A function built into Newton device that can automatically perform certain tasks for you.
+A function built into Newton device that can automatically perform certain tasks, such as dialing a phone number, searching for information, or scheduling an appointment. Assist is accessed by entering a [request word](/terms/request-word) and corresponding [action](/terms/action) into the [assist drawer](/terms/assist-drawer). Also referred to as [assistant](/terms/assistant) and [Newton assistant](/terms/newton-assistant) on early version of [Newton OS](/terms/newton-os).
 
 ----
 
 Related:
 
+- /terms/action
 - /terms/assist-drawer
+- /terms/assistant
+- /terms/newton-assistant
+- /terms/request-word
 
 ----
 
 Source:
 
 - /sources/grant-hutchinson
+- /sources/newton-messagepad-handbook
+
