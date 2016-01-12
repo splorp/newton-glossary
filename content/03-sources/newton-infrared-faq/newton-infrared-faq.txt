@@ -4,6 +4,8 @@ Title: Newton Infrared FAQ
 
 Text:
 
-_cf. (link:http://archive.dstc.edu.au/AU/staff/david-arnold/newton/ir-faq.html)_
+Frequently asked questions compiled by [David Arnold](http://www.0x1.org/d/) regarding the various infrared capabilities of Newton devices and related software.
 
+<h2>Additional Information</h2>
 
+[Newton Infrared FAQ](http://www.0x1.org/d/stuff/newton/ir-faq.html)
