@@ -1,9 +1,9 @@
-Title: Welcome
+Title: Welcome.
 
 ----
 
 Text:
 
-Since its inception in 2001, the Newton Glossary has grown to include [_$t](/terms) terms, definitions, acronyms, colloquialisms, and other bits of trivia, supported by [_$s](/sources) different sources.
+Since its inception in 2001, the Newton Glossary has grown to include [_$t](/terms) terms, definitions, acronyms, colloquialisms, and trivia. This project is supported by [_$s](/sources) different sources and the Newton community at large.
 
 This is a work in progress. Mind your head.

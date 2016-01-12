@@ -8,6 +8,8 @@ The majority of terms found in this glossary were compiled between 2001 and 2004
 
 Although it’s a bit out of date, there is also a [searchable version](http://tools.unna.org/glossary/) of the glossary currently maintained by [Morgan Aldridge](http://www.makkintosshu.com/) as part of the [United Network of Newton Archives](http://www.unna.org/).
 
+At one point there was also a version of the glossary compiled into [Newton Book](/terms/newton-book) format. We’ll have to see if we can make that happen again.
+
 ## Join The Fun!
 
 As with any specialized compendium, the contents are never completely finished. All suggestions, corrections, complaints, and [pull requests](https://github.com/splorp/newton-glossary/pulls) will be happily accepted. If possible, please use the project’s [issue tracker](https://github.com/splorp/newton-glossary/issues) for any input you might have.
