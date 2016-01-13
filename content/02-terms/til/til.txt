@@ -4,9 +4,9 @@ Title: TIL
 
 Text:
 
-Apple Technical Information Library
+Tech Info Library
 
-A technical support database maintained by Apple and consisting of thousands of documents related to the company’s products and services. Each document in the library could be referenced by a unique identification number. The TIL was superseded by the AppleCare Knowledge Base Archive ([Kbase](/terms/kbase)) and the current [Apple Support](http://www.apple.com/support/) site.
+A technical support database maintained by [Apple](http://www.apple.com/) and consisting of thousands of documents related to the company’s products and services. Each document in the library could be referenced by a unique identification number. The TIL was superseded by the [AppleCare Knowledge Archive](/sources/applecare-knowledge-archive) and the current [Apple Support](http://www.apple.com/support/) site.
 
 <h2>Additional Information</h2>
 

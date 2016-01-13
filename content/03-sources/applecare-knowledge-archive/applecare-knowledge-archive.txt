@@ -4,7 +4,7 @@ Title: AppleCare Knowledge Archive
 
 Text:
 
-A previous incarnation of Apple’s support information site.
+A previous incarnation of Apple’s support information site, often referred to as [Kbase](/terms/kbase).
 
 <h2>Additional Information</h2>
 
