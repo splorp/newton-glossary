@@ -4,5 +4,8 @@ Title: Apple Tech Info Library
 
 Text:
 
-_cf. (link:http://til.info.apple.com/)_
-_cf. (link:http://support.apple.com/kb/TA33869)_
+A previous incarnation of Apple’s support information site.
+
+<h2>Additional Information</h2>
+
+[Internet Archive: Tech Info Library](http://web.archive.org/web/20000417131310/http://til.info.apple.com/techinfo.nsf)

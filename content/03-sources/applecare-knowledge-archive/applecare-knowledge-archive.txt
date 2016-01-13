@@ -1,0 +1,12 @@
+Title: AppleCare Knowledge Archive
+
+----
+
+Text:
+
+A previous incarnation of Apple’s support information site.
+
+<h2>Additional Information</h2>
+
+[Internet Archive: AppleCare Knowledge Archive](http://web.archive.org/web/20030321182310/http://karchive.info.apple.com/)
+[Internet Archive: Apple Knowledge Base zum Thema “Newton”](http://web.archive.org/web/20151024230734/http://www.mac3.de/sig/newton/til.html)
