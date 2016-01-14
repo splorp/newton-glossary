@@ -4,9 +4,10 @@ Title: Newton Heap Mini-FAQ
 
 Text:
 
-Compiled by Daniel Domberger.
+Frequently asked questions compiled by Daniel Domberger relating to memory, heap, and storage in Newton devices.
 
-_cf. (link:https://web.archive.org/web/20091027003553/http://geocities.com/Paris/8382/)_
-_cf. (link:https://web.archive.org/web/20091023231241/http://geocities.com/Paris/8382/FAQ.html)_
-_cf. (link:https://web.archive.org/web/20090830071220/http://geocities.com/Paris/8382/garbage.html)_
-_cf. (link:https://web.archive.org/web/20091023143745/http://geocities.com/Paris/8382/HeapFAQ.txt)_
+<h2>Additional Information</h2>
+
+[The Newton Heap Mini-FAQ](https://web.archive.org/web/20091023231241/http://geocities.com/Paris/8382/FAQ.html)
+[The Newton Heap Mini-FAQ](https://web.archive.org/web/20091023143745/http://geocities.com/Paris/8382/HeapFAQ.txt) (Plain Text Version)
+[When a Garbage Collection is Necessary](https://web.archive.org/web/20090830071220/http://geocities.com/Paris/8382/garbage.html)
