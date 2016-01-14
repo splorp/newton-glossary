@@ -4,4 +4,9 @@ Title: Ian Robinson
 
 Text:
 
-_cf. (link:http://www.canicula.com/newton/prog/soups.htm)_
+Author of a fairly thorough tutorial on Newton data storage and programmatic interaction with data soups.
+
+<h2>Additional Information</h2>
+
+[Canicula: Ian Robinson’s Soapbox](http://www.canicula.com/wp/)
+[Canicula: Newton Data Storage](http://www.canicula.com/newton/prog/soups.htm)
