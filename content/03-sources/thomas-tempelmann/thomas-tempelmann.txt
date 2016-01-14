@@ -4,5 +4,10 @@ Title: Thomas Tempelmann
 
 Text:
 
-_cf. (link:http://www.tempel.org/)_
-_cf. (link:http://www.tempel.org/newton/)_
+Creator of the infamous [FCopy](http://www.pagetable.com/?p=647) utility for the Commodore C-64 in the early 1980s, Thomas is also responsible for the [Newton Desktop Utility](/terms/newton-desktop-utility) and [Newton Data Browser](/terms/newton-data-browser) applications.
+
+
+<h2>Additional Information</h2>
+
+[Thomas Tempelmann Website](http://www.tempel.org/)
+[Thomas Tempelmann: Newton Page](http://www.tempel.org/newton/)
