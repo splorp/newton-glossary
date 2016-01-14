@@ -1,0 +1,33 @@
+Title: Mail V
+
+----
+
+Text:
+
+An email [transport](/terms/transport) created by [Simon Bell](/sources/simon-bell) that allows the user to send and receive messages over the internet using the POP3, IMAP4, and SMTP. Mail V is also MIME compliant, enabling the user to send, receive, and forward attachments such as Newton [packages](/terms/package), [Notepad](/terms/notepad) sketches and recordings, as well as [vCards](/terms/vcard).
+
+<h2>Additional Information</h2>
+
+[Newton Research: Mail V Product Information](http://newtonresearch.org/mailv/)
+
+----
+
+Related:
+
+- /terms/aloha
+- /terms/enroute
+- /terms/eworld
+- /terms/in-box
+- /terms/in-out-box
+- /terms/newtonmail
+- /terms/out-box
+- /terms/routing
+- /terms/simplemail
+- /terms/transport
+- /terms/vcard
+
+----
+
+Source:
+
+- /sources/simon-bell

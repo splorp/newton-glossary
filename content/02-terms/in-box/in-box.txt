@@ -13,6 +13,7 @@ Related:
 - /terms/enroute
 - /terms/in-out-box
 - /terms/item-frame
+- /terms/mail-v
 - /terms/newtdump
 - /terms/newtonmail
 - /terms/out-box

@@ -10,5 +10,7 @@ A Windows-based [application](/terms/application) created by [Victor Rehorst](/s
 
 Related:
 
+- /terms/in-box
 - /terms/in-out-box
 - /terms/notepad
+- /terms/out-box

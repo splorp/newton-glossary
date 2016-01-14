@@ -27,4 +27,3 @@ Related:
 Source:
 
 - /sources/apple-messagepad-handbook
-
