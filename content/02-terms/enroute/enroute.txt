@@ -13,9 +13,14 @@ Related:
 - /terms/aloha
 - /terms/enroute-inet
 - /terms/eworld
+- /terms/in-box
+- /terms/in-out-box
+- /terms/mail-v
 - /terms/newtonmail
+- /terms/out-box
 - /terms/routing
 - /terms/simplemail
+- /terms/transport
 
 ----
 
