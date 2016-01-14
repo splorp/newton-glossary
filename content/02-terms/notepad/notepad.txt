@@ -6,14 +6,22 @@ Text:
 
 The built-in [application](/terms/application) for recording and organizing notes and outlines, which may contain text, [ink text](/terms/ink-text), [shapes](/terms/shape), and [pictures](/terms/picture). On a [MessagePad](/terms/messagepad) device, Notepad is the default [backdrop](/terms/backdrop) application. Also referred to as [Notes](/terms/notes).
 
+Notepad is also the original name of the first Newton device, later changed to [MessagePad](/terms/messagepad) to better reflect its communication capabilities.
+
+<h2>Additional Information</h2>
+
+[My Apple Newton: Newton NotePad Unearthed](http://myapplenewton.blogspot.ca/2013/12/newton-notepad-unearthed.html)
+
 ----
 
 Related:
 
 - /terms/application
 - /terms/backdrop
+- /terms/messagepad
 - /terms/notable
 - /terms/notes
+- /terms/original-messagepad
 - /terms/stationery
 - /terms/twerx
 - /terms/word-wrap
@@ -23,3 +31,4 @@ Related:
 Source:
 
 - /sources/newton-user-interface-guidelines
+- /sources/newton-collector

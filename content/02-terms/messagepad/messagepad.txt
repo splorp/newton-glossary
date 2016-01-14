@@ -35,6 +35,7 @@ Related:
 - /terms/nmp-130
 - /terms/nmp-2000
 - /terms/nmp-2100
+- /terms/notepad
 - /terms/omp
 - /terms/omp2k
 - /terms/original-messagepad
