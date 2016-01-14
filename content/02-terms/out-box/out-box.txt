@@ -14,7 +14,6 @@ Related:
 - /terms/in-box
 - /terms/in-out-box
 - /terms/item-frame
-- /terms/mail-v
 - /terms/newtdump
 - /terms/newtonmail
 - /terms/routing
