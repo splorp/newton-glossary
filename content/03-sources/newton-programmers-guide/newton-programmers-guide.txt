@@ -8,6 +8,7 @@ Published by [Apple](http://www.apple.com/) in 1996 as a companion to the [Newto
 
 <h2>Additional Information</h2>
 
+[Amazon: Newton Programmer’s Guide for Newton 2.0](http://amzn.to/1Q3txlQ)
 [Apple: Newton Programmer’s Guide for Newton 2.0](http://manuals.info.apple.com/en_US/NewtonProgrammerGuide20.PDF) (PDF)
 [UNNA: Newton Programmer’s Guide for Newton 2.0](http://www.unna.org/unna/apple/documentation/developer/ProgrammersGuideOS2.0.pdf) (PDF)
 [UNNA: Newton Programmer’s Guide: OS 2.1 Addendum](http://www.unna.org/unna/apple/documentation/developer/ProgrammersGuideOS2.1Addenum.pdf) (PDF)

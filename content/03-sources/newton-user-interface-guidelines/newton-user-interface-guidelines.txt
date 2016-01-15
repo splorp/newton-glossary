@@ -8,5 +8,5 @@ Published by [Apple](http://www.apple.com/) in 1996, this reference describes ho
 
 <h2>Additional Information</h2>
 
-[Amazon: Newton 2.0 User Interface Guidelines](http://www.amazon.com/Newton-Interface-Guidelines-Apple-Computer/dp/0201488388)
+[Amazon: Newton 2.0 User Interface Guidelines](http://amzn.to/1Q3t56X)
 [UNNA: Newton 2.0 User Interface Guidelines](http://www.unna.org/unna/apple/documentation/developer/UserInterfaceGuidelinesOS2.0.pdf) (PDF)
