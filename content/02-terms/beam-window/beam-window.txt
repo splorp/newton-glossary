@@ -10,4 +10,4 @@ See [Infrared Window](/terms/infrared-window)
 
 Source:
 
-- /sources/newton-messagepad-handbook
+- /sources/messagepad-handbook-1993

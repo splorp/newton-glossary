@@ -21,5 +21,4 @@ Related:
 Source:
 
 - /sources/grant-hutchinson
-- /sources/newton-messagepad-handbook
-
+- /sources/messagepad-handbook-1993

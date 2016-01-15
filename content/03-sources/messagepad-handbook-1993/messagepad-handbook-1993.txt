@@ -1,0 +1,8 @@
+Title: MessagePad Handbook (1993)
+
+----
+
+Text:
+
+Published by [Apple](http://www.apple.com/) in 1993, this is the definitive user manual for the [Original MessagePad](http://glossary.splorp.me/terms/original-messagepad).
+

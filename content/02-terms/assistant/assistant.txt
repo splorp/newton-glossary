@@ -10,4 +10,4 @@ See [Assist](/terms/assist)
 
 Source:
 
-- /sources/newton-messagepad-handbook
+- /sources/messagepad-handbook-1993

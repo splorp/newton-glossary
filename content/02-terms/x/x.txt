@@ -10,4 +10,4 @@ See [Close Box](/terms/close-box)
 
 Source:
 
-- /sources/apple-messagepad-handbook
+- /sources/messagepad-handbook-1995

@@ -1,0 +1,13 @@
+Title: MessagePad Handbook (1995)
+
+----
+
+Text:
+
+Published by [Apple](http://www.apple.com/) in 1995 and 1996, this is the definitive reference for the [MessagePad 120](/terms/messagepad-120) device and [Newton OS](/terms/newton-os) 2.0 software.
+
+<h2>Additional Information</h2>
+
+[The Newted Community: Apple MessagePad Handbook](http://www.newted.org/download/manuals/0307258ANEWTONMP.PDF) (1995)
+[UNNA: Apple MessagePad Handbook](http://www.unna.org/unna/apple/documentation/OMP-130/NewtonHandbook&#40;OS2.0&#41;2UP.pdf) (1995)
+[UNNA: Apple MessagePad Handbook](http://www.unna.org/unna/apple/documentation/OMP-130/NewtonHandbook&#40;OS2.0&#41;.pdf) (1996)
