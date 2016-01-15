@@ -8,4 +8,4 @@ A previous incarnation of Apple’s support information site, often referred to 
 
 <h2>Additional Information</h2>
 
-[Internet Archive: Tech Info Library](http://web.archive.org/web/20000417131310/http://til.info.apple.com/techinfo.nsf)
+[Internet Archive: Tech Info Library](https://web.archive.org/web/20000417131310/http://til.info.apple.com/techinfo.nsf)
