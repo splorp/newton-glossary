@@ -27,7 +27,9 @@ Related:
 - /terms/pocket-newton
 - /terms/wedge
 
-Sources:
+----
+
+Source:
 
 - /sources/my-apple-newton
 - /sources/newton-collector
