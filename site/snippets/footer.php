@@ -1,7 +1,6 @@
-  <footer>
-    <?php echo kirbytext($site->copyright() . "<br />" . $site->colophon()) ?>
-  </footer>
+		<footer>
+			<?php echo kirbytext($site->copyright() . "<br />" . $site->colophon()) ?>
+		</footer>
 
-</body>
-
+	</body>
 </html>
