@@ -4,7 +4,12 @@ Title: Rosetta
 
 Text:
 
-Code name for the software-based [print recognizer](print-recognizer) system developed by [Apple](http://www.apple.com/).
+Code name for the software-based [print recognizer](print-recognizer) system developed by [Apple](http://www.apple.com/). Rosetta first shipped in the second revision of the [MessagePad 120](/terms/messagepad-120) device. The name was eventually changed to [Mondello](/terms/mondello) for legal reasons. Although never used publicly, the official product name for the print recognizer was [Neuropen](/terms/neuropen).
+
+<h2>Additional Information</h2>
+
+[Larry Yaeger: Handwriting Recognition That Actually Works](http://wwnc.newtontalk.net/resources/WWNC2006_Yaeger_HWR.pdf) (PDF)
+[Ars Technica: In the Loop with Larry Yaeger](http://arstechnica.com/apple/2005/06/504/)
 
 ----
 
@@ -15,7 +20,16 @@ Related:
 - /terms/egg-freckles
 - /terms/handwriting-recognition
 - /terms/ink
+- /terms/inkwell
+- /terms/mondello
+- /terms/neuropen
 - /terms/print-recognizer
 - /terms/recognized-text
 - /terms/recognizer
 - /terms/rosetta-stone
+
+----
+
+Source:
+
+- /sources/larry-yaeger

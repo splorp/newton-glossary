@@ -20,6 +20,8 @@ Related:
 - /terms/ink
 - /terms/inkbar
 - /terms/inkpad
+- /terms/mondello
+- /terms/neuropen
 - /terms/rosetta
 - /terms/rosetta-stone
 

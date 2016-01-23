@@ -15,6 +15,9 @@ Related:
 - /terms/egg-freckles
 - /terms/hwr
 - /terms/ink
+- /terms/inkwell
+- /terms/mondello
+- /terms/neuropen
 - /terms/print-recognizer
 - /terms/recognized-text
 - /terms/recognizer

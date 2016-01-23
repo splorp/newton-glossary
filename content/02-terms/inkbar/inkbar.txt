@@ -16,6 +16,8 @@ Related:
 - /terms/ink
 - /terms/inkpad
 - /terms/inkwell
+- /terms/mondello
+- /terms/neuropen
 - /terms/rosetta
 - /terms/rosetta-stone
 

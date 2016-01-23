@@ -19,6 +19,8 @@ Related:
 - /terms/inker
 - /terms/inkpad
 - /terms/inkwell
+- /terms/mondello
+- /terms/neuropen
 - /terms/print-recognizer
 - /terms/recognized-text
 - /terms/recognizer

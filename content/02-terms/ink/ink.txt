@@ -24,6 +24,8 @@ Related:
 - /terms/inker
 - /terms/inkpad
 - /terms/inkwell
+- /terms/mondello
+- /terms/neuropen
 - /terms/pen
 - /terms/raw-ink
 - /terms/recognized-text

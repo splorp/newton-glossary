@@ -15,6 +15,9 @@ Related:
 - /terms/egg-freckles
 - /terms/handwriting-recognition
 - /terms/ink
+- /terms/inkwell
+- /terms/mondello
+- /terms/neuropen
 - /terms/recognized-text
 - /terms/recognizer
 - /terms/rosetta
