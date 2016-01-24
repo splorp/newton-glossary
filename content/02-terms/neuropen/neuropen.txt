@@ -1,0 +1,34 @@
+Title: Neuropen
+
+----
+
+Text:
+
+The official product name for the software-based [print recognizer](print-recognizer) system developed by [Apple](http://www.apple.com/). More commonly known as [Rosetta](/terms/rosetta) and [Mondello](/terms/mondello), the Neuropen moniker was never used publicly.
+
+<h2>Additional Information</h2>
+
+[Larry Yaeger: Handwriting Recognition That Actually Works](http://wwnc.newtontalk.net/resources/WWNC2006_Yaeger_HWR.pdf) (PDF)
+
+----
+
+Related:
+
+- /terms/calligrapher
+- /terms/cursive-recognizer
+- /terms/egg-freckles
+- /terms/handwriting-recognition
+- /terms/ink
+- /terms/inkwell
+- /terms/mondello
+- /terms/print-recognizer
+- /terms/recognized-text
+- /terms/recognizer
+- /terms/rosetta
+- /terms/rosetta-stone
+
+----
+
+Source:
+
+- /sources/larry-yaeger
