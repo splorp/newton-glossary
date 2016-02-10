@@ -1,16 +1,12 @@
-Title: NOSE
-	
+Title: TCNUG
+
 ----
 
 Text:
 
-Newton Owners Switzerland & Europe
+Twin Cities Newton Users Group
 
-A western European user group founded by Richard Schären.
-
-<h2>Additional Information</h2>
-
-Internet Archive: [NOSE Website](https://web.archive.org/web/19980529083010/http://www.newton.ch/nose/)
+A Minnesotan user group organized by Tim De Chant.
 
 ----
 
@@ -23,18 +19,16 @@ Related:
 - /terms/inug
 - /terms/knug
 - /terms/lanug
-- /terms/misnic
 - /terms/msnug
 - /terms/nanug
 - /terms/newton-user-group
 - /terms/ngn
+- /terms/nose
 - /terms/nug
-- /terms/nugom
 - /terms/sane
 - /terms/snag
 - /terms/snug
 - /terms/sonug
-- /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
 

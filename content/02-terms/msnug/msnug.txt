@@ -21,17 +21,21 @@ Related:
 - /terms/dnug
 - /terms/hknug
 - /terms/inug
+- /terms/knug
 - /terms/lanug
+- /terms/misnic
 - /terms/nanug
 - /terms/newton-user-group
 - /terms/ngn
 - /terms/nose
 - /terms/nug
 - /terms/nugom
+- /terms/sane
 - /terms/snag
 - /terms/snug
 - /terms/sonug
 - /terms/special-interest-group
+- /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
 

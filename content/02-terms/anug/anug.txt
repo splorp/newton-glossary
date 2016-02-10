@@ -18,7 +18,9 @@ Related:
 - /terms/dnug
 - /terms/hknug
 - /terms/inug
+- /terms/knug
 - /terms/lanug
+- /terms/misnic
 - /terms/msnug
 - /terms/nanug
 - /terms/newton-user-group
@@ -26,9 +28,11 @@ Related:
 - /terms/nose
 - /terms/nug
 - /terms/nugom
+- /terms/sane
 - /terms/snag
 - /terms/snug
 - /terms/sonug
+- /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
 

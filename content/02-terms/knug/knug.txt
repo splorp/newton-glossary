@@ -1,16 +1,14 @@
-Title: NOSE
-	
+Title: KNUG
+
 ----
 
 Text:
 
-Newton Owners Switzerland & Europe
-
-A western European user group founded by Richard Schären.
+Korean Newton Users Group
 
 <h2>Additional Information</h2>
 
-Internet Archive: [NOSE Website](https://web.archive.org/web/19980529083010/http://www.newton.ch/nose/)
+[Internet Archive: KNUG Website](http://web.archive.org/web/20041205033125/http://messagepad.org/)
 
 ----
 
@@ -21,16 +19,15 @@ Related:
 - /terms/dnug
 - /terms/hknug
 - /terms/inug
-- /terms/knug
 - /terms/lanug
 - /terms/misnic
 - /terms/msnug
 - /terms/nanug
 - /terms/newton-user-group
 - /terms/ngn
+- /terms/nose
 - /terms/nug
 - /terms/nugom
-- /terms/sane
 - /terms/snag
 - /terms/snug
 - /terms/sonug

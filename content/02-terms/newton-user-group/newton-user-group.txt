@@ -15,18 +15,22 @@ Related:
 - /terms/dnug
 - /terms/hknug
 - /terms/inug
+- /terms/knug
 - /terms/lanug
+- /terms/misnic
 - /terms/msnug
 - /terms/nanug
 - /terms/ngn
 - /terms/nose
 - /terms/nug
 - /terms/nugom
+- /terms/sane
 - /terms/sig
 - /terms/snag
 - /terms/snug
 - /terms/sonug
 - /terms/special-interest-group
+- /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
 
