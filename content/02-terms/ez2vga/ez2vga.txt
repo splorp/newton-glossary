@@ -4,7 +4,7 @@ Title: EZ2VGA
 
 Text:
 
-A [PC card](/terms/pc-card) peripheral by [EZShow Systems](/sources/ezshow) that provides VGA video output when used with a [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), or [eMate 300](/terms/emate-300) device. The EZ2VGA is the less capable cousin of the [EZ2TV](/terms/ez2vga) card, which can supply composite, S-Video, and VGA output.
+A [PC card](/terms/pc-card) peripheral by [EZShow Systems](/sources/ezshow) that provides VGA video output when used with a [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), or [eMate 300](/terms/emate-300) device. The EZ2VGA is the less capable cousin of the [EZ2TV](/terms/ez2tv) card, which can supply composite, S-Video, and VGA output.
 
 <h2>Additional Information</h2>
 
@@ -14,7 +14,7 @@ A [PC card](/terms/pc-card) peripheral by [EZShow Systems](/sources/ezshow) that
 
 Related:
 
-- /terms/ez2vga
+- /terms/ez2tv
 - /terms/ezpresenter
 - /terms/ezshow
 - /terms/ezshowcard
