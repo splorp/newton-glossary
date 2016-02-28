@@ -6,7 +6,7 @@ Text:
 
 A [container view](/terms/container-view) designated with a [matte border](/terms/matte-border) that an [application](/terms/application) displays to obtain detailed user [input](/terms/input), or to present alternatives which a user may choose to determine the outcome of a task that has been started.
 
-_cf. screenshot_
+_Screenshot required._
 
 ----
 

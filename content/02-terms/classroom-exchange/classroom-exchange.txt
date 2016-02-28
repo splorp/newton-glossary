@@ -6,7 +6,7 @@ Text:
 
 Software developed by [Apple](http://www.apple.com/) that facilitates the connection of one or more [eMate 300](/terms/emate-300) devices to a Mac OS computer and the simultaneous transferring of information between those devices.
 
-_cf. screenshot_
+_Screenshot required._
 
 ----
 
