@@ -4,7 +4,15 @@ Title: Database
 
 Text:
 
-A structured collection of data that has been created and controlled by a software-based management system.
+A structured collection of related files or data that is created and controlled by a software management system.
+
+----
+
+Related:
+
+- /terms/accordian
+- /terms/db
+- /terms/soup
 
 ----
 

@@ -13,6 +13,7 @@ Related:
 - /terms/application-definition-format
 - /terms/cursor
 - /terms/data-definition
+- /terms/database
 - /terms/entry
 - /terms/entry-aliases
 - /terms/frame
