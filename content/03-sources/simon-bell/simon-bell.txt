@@ -4,6 +4,9 @@ Title: Simon Bell
 
 Text:
 
+Simon Bell is the developer of several Newton packages and support applications, including [SimpleMail](/terms/simplemail), [Mail V](/terms/mail-v), and [Newton Connection](/terms/newton-connection). He also implemented a [NewtonScript](/terms/newtonscript) interpreter in C++ and created a development framework for debugging native Newton C++ modules in Xcode.
+
 <h2>Additional Information</h2>
 
 [Newton Research Website](http://newtonresearch.org/)
+[Worldwide Newton Conference 2004: Implementation of a NewtonScript Interpreter](http://wwnc.newtontalk.net/2004/program/simonbell/)
