@@ -4,13 +4,21 @@ Title: Dante
 
 Text:
 
-The code name of the [MessagePad 130](/terms/messagepad-130) device. According to some sources, Dante can also refer to version 2.0 of the [Newton OS](/terms/newton-os). The MessagePad 130 has also been referred to by the code name [Quark](/terms/messagepad-130).
+The code name of the [MessagePad 130](/terms/messagepad-130) device. The MessagePad 130 has also been referred to by the code name [Quark](/terms/messagepad-130).
+
+Dante also refers to version 2.0 of the [Newton OS](/terms/newton-os), as well as the connection [protocol](/terms/protocol) used to communicate between a Newton device and another computer.
+
+<h2>Additional Information</h2>
+
+[Newton Bowels: Dante Connection Protocol](http://www.kallisys.com/files/newton/Bowels/docking_protocol.txt) (Text)
+[The Newted Community: Dante Connection Protocol](http://www.newted.org/download/manuals/DanteConnectionProtocol.pdf) (PDF)
 
 ----
 
 Related:
 
 - /terms/messagepad-130
+- /terms/protocol
 - /terms/quark
 
 ----
@@ -18,3 +26,4 @@ Related:
 Source:
 
 - /sources/ben-truesdale
+- /sources/simon-bell
