@@ -13,4 +13,3 @@ A [protocol](/terms/protocol) originally designed to facilitate communications b
 Related:
 
 - /terms/protocol
-
