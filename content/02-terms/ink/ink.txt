@@ -8,7 +8,7 @@ The raw data created from user input drawn with the [pen](/terms/pen) on a Newto
 
 Ink is also the name of the Mac OS X preference pane used to control the transplanted Newton [handwriting recognition](/terms/handwriting-recognition) system, originally dubbed [Inkwell](/terms/inkwell).
 
-_Screenshot required._
+_This entry requires a screenshot._
 
 ----
 

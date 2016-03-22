@@ -6,6 +6,8 @@ Text:
 
 An [application](/terms/application) installed with later versions of the [Newton OS](/terms/newton-os) which disabled the [stationery](/terms/stationery) used to access Apple’s [eWorld](/terms/eworld) online service.
 
+_This entry requires an icon or screenshot._
+
 ----
 
 Related:

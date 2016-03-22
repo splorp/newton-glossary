@@ -6,7 +6,7 @@ Text:
 
 A heavy black [line](/terms/line) that heads up each item in a [view](/terms/view) that can display multiple items at once. The separator bar displays the title of the item appearing directly below it and includes controls (such as an [action button](/terms/action-button) that affect that specific item.
 
-_Screenshot required._
+_This entry requires a screenshot._
 
 ----
 
