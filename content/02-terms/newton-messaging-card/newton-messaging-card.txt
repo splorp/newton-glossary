@@ -25,4 +25,4 @@ Related:
 
 Source:
 
-- /sources/newton-meet-the-relatives
+- /sources/meet-the-relatives
