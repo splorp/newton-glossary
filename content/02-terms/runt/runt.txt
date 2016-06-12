@@ -4,7 +4,7 @@ Title: Runt
 
 Text:
 
-The code name for the [ASIC](/terms/asic) chip set used in older Newton devices, such as the [Original MessagePad](/terms/original-messagepad), [MessagePad 100](/terms/messagepad-100), and Sharp [ExpertPad](/terms/expertpad). Rumored to have been called “Runt” because of the small form factor of the original Newton.
+The code name of the [ASIC](/terms/asic) chip set used in older Newton devices, such as the [Original MessagePad](/terms/original-messagepad), [MessagePad 100](/terms/messagepad-100), and Sharp [ExpertPad](/terms/expertpad). Rumored to have been called “Runt” because of the small form factor of the original Newton.
 
 ----
 

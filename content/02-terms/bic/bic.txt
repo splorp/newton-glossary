@@ -4,7 +4,7 @@ Title: Bic
 
 Text:
 
-The code name for the larger, second generation Newton prototype.
+The code name of the larger, second generation Newton prototype.
 
 <h2>Additional Information</h2>
 

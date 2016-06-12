@@ -4,7 +4,7 @@ Title: Bazooka
 
 Text:
 
-The code name for the Newton keyboard.
+The code name of the Newton keyboard.
 
 ----
 
