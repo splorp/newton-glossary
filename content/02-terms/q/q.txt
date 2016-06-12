@@ -8,6 +8,16 @@ Code name of the [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100]
 
 ----
 
+Related:
+
+- /terms/messagepad-2000
+- /terms/messagepad-2100
+- /terms/n2
+- /terms/voyager
+
+----
+
 Source:
 
 - /sources/ben-truesdale
+- /sources/jim-abeles
