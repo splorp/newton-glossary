@@ -14,9 +14,19 @@ Incremental changes and updates can be found in the project’s [commit log](htt
 
 ## Current Release
 
-Version: 2.0.0
+Version: 2.0.1
 Terms: _$t
 Sources: _$s
+
+### Summary of changes:
+
++ Simplified previous and next page navigation
+
+## 24 August 2016
+
+Version: 2.0.0
+Terms: 903
+Sources: 81
 
 ### Summary of changes:
 
