@@ -32,7 +32,7 @@ Sources: 81
 
 + Migrated project to [GitHub](https://github.com/)
 + Content now published using [Kirby](http://getkirby.com/)
-+ Integrated backlog of addenda and updates since version 1.0.5
++ Integrated backlog of terms, sources, updates, and other addenda
 + Began expanding metadata and background information for all [sources](/sources)
 + Added a long overdue [About](/about) section, colophon, and style guide
 + Added random term feature
@@ -44,11 +44,19 @@ Version: 1.0.5 (Unreleased)
 Terms: 756
 Sources: 49
 
+### Summary of changes:
+
++ New terms, new sources, various updates
+
 ## 06 October 2002
  
 Version: 1.0.4
 Terms: 704
 Sources: 45
+
+### Summary of changes:
+
++ New terms, new sources, various updates
 
 ## 18 December 2001
  
@@ -56,11 +64,19 @@ Version: 1.0.3
 Terms: 673
 Sources: 40
 
+### Summary of changes:
+
++ New terms, new sources, various updates
+
 ## 30 October 2001
  
 Version: 1.0.2
 Terms: 649
 Sources: 38
+
+### Summary of changes:
+
++ New terms, new sources, various updates
 
 ## 25 September 2001
  
@@ -68,11 +84,19 @@ Version: 1.0.1
 Terms: 632
 Sources: 34
 
+### Summary of changes:
+
++ New terms, new sources, various updates
+
 ## 25 June 2001
  
 Version: 1.0.0
 Terms: 617
 Sources: 31
+
+### Summary of changes:
+
++ New terms, new sources, various updates
 
 ## 31 May 2001
  
