@@ -10,6 +10,7 @@ The code name of the charging cradle designed to work with the [MessagePad 110](
 
 Related:
 
+- /terms/jellyfish
 - /terms/lindy
 - /terms/lindy-crib
 - /terms/messagepad-110
