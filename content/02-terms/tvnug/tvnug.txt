@@ -6,6 +6,8 @@ Text:
 
 Tennessee Valley Newton Users Group
 
+Founded in August 1995, the group was a member of the northern Alabama computing community, operating an anonymous FTP server with Newton software and support documentation.
+
 <h2>Additional Information</h2>
 
 [Internet Archive: TVNUG Website](https://web.archive.org/web/20000619170507/http://newton.uah.edu/)
@@ -41,3 +43,4 @@ Related:
 Source:
 
 - /sources/newton-faq
+- /sources/tvnug
