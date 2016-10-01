@@ -31,7 +31,7 @@ Other glossarial references we love.
 
 This iteration of the glossary is formatted in [Markdown](http://daringfireball.net/projects/markdown/) using plain text files and published using [Kirby](http://getkirby.com/) — an extensible content management system build on PHP.
 
-For peace of mind and ease of maintenance, the project resides in a public [GitHub](https://github.com/splorp/newton-glossary/) repository.
+The entire project resides in a public [GitHub](https://github.com/splorp/newton-glossary/) repository. This provides easy access for contributors, almost painless maintenance, and peace of mind.
 
 To add a bit of spit and shine to our Kirby experience, we’re also using the following handy dandy plugins.
 
