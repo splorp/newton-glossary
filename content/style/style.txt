@@ -26,16 +26,16 @@ Whenever possible, use the longer version of a term for clarity.
 
 _For example:_
 
-Use “telephone” not “phone”
-Use “operating system” not “system”
-Use “Newton device” not “Newton”
-Use “Newton OS” not “NOS”
++ Use “telephone” not “phone”
++ Use “operating system” not “system”
++ Use “Newton device” not “Newton”
++ Use “Newton OS” not “NOS”
 
 ## Referring to other terms
 
-Use “Also referred to as …” if the referenced term is as common or less common than the source term.
-Use “Commonly referred to as …” if the referenced term is more common than the source term.
-Use “Mistakenly referred to as …” if the referenced term is an commonly misspelled or mangled version of the source term.
++ Use “Also referred to as …” if the referenced term is as common or less common than the source term.
++ Use “Commonly referred to as …” if the referenced term is more common than the source term.
++ Use “Mistakenly referred to as …” if the referenced term is an commonly misspelled or mangled version of the source term.
 
 ## Capitalization of terms
 
@@ -53,19 +53,20 @@ When linking to the main page of a website, include both the website name and �
 
 _For example:_
 
-[Catamount Software Website](http://www.catamount.com/)
++ [Catamount Software Website](http://www.catamount.com/)
 
-When linking to a specific article or resource on a website, use the full name or title of the article or resource, prefixed with the source website, as the link text.
+When linking to a specific article or resource on a website, use the full name or title of the article or resource — prefixed with the source website — as the link text.
 
 _For example:_
 
-[Apple: The NewtonScript Programming Language](http://manuals.info.apple.com/en_US/NewtonScriptProgramLanguage.PDF) (PDF)
-[Catamount Software: Handwriting Tips for Newton Power Users](http://www.catamount.com/HWRTips/HWRTips.html)
-[UNNA: The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf) (PDF)
-[Wikipedia: GeoPort](https://en.wikipedia.org/wiki/GeoPort)
++ [Apple: The NewtonScript Programming Language](http://manuals.info.apple.com/en_US/NewtonScriptProgramLanguage.PDF) (PDF)
++ [Catamount Software: Handwriting Tips for Newton Power Users](http://www.catamount.com/HWRTips/HWRTips.html)
++ [UNNA: The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf) (PDF)
++ [Wikipedia: GeoPort](https://en.wikipedia.org/wiki/GeoPort)
 
 If the link points to an Internet Archive mirror of the original website, article, or resource, prefix the link text as such.
 
 _For example:_
 
-[Internet Archive: プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation)
++ [Internet Archive: DNUG Website](https://web.archive.org/web/19990422085721/http://www.dnug.dk/)
++ [Internet Archive: プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation)
