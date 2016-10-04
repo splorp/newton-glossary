@@ -4,6 +4,11 @@ Title: NewtonTalk Mailing List
 
 Text:
 
+Founded by Sean O’Shaughnessy in 1997, the [NewtonTalk](http://www.newtontalk.net/) mailing list provides an open forum dedicated to the discussion, support, and enjoyment of Apple’s Newton platform and related technologies.
+
+NewtonTalk is currently maintained by [Grant Hutchinson](/sources/grant-hutchinson).
+
 <h2>Additional Information</h2>
 
 [NewtonTalk Website](http://www.newtontalk.net/)
+[NewtonTalk FAQ](https://github.com/splorp/newtontalk-faq/blob/master/newtontalk-faq.md)
