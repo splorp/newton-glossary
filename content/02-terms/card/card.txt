@@ -6,20 +6,29 @@ Text:
 
 A [view](/terms/view) of information pertaining to an entry in the [Name File](/terms/name-file) application [soup](/terms/soup), graphically formatted as a business card.
 
-Also, an [application](/terms/application) that allows the user to retrieve information about a PC card inserted into a Newton device. If the PC card is an [external store](/terms/external-store), the Card application can be used to rename, [backup](/terms/backup), [restore](/terms/restore), and erase information stored on the card.
+Card is also an [application](/terms/application) that allows the user to retrieve information about a PC card inserted into a Newton device. If the PC card is an [external store](/terms/external-store), the Card application can be used to rename, [backup](/terms/backup), [restore](/terms/restore), and erase information stored on the card.
 
-Card can also refer to the [PC Card](/terms/pc-card) itself.
+Card can also refer to a [PC Card](/terms/pc-card) or [CompactFlash](/terms/compactflash) card.
 
 ----
 
 Related:
 
 - /terms/application
+- /terms/application-card
+- /terms/combo-card
+- /terms/compactflash
 - /terms/external-store
+- /terms/flash-card
+- /terms/memory-card
 - /terms/name-file
 - /terms/names
 - /terms/pc-card
+- /terms/pcmcia
+- /terms/slot
+- /terms/slot-jam
 - /terms/soup
+- /terms/storage-card
 - /terms/view
 
 ----

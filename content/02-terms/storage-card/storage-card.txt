@@ -10,10 +10,16 @@ Any type of removable [PC card](/terms/pc-card) used for storing data.
 
 Related:
 
+- /terms/application-card
+- /terms/card
 - /terms/cf-card
+- /terms/combo-card
 - /terms/compactflash
 - /terms/external-store
 - /terms/flash-card
 - /terms/flash-ram
+- /terms/memory-card
 - /terms/pc-card
 - /terms/pcmcia
+- /terms/slot
+- /terms/slot-jam

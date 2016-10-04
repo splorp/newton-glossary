@@ -1,0 +1,25 @@
+Title: Slot Jam
+
+----
+
+Text:
+
+A mechanical condition where a [PC card](/terms/pc-card) cannot be ejected from a Newton device.
+
+Slot jam can also refer to the schmutz that collects in a PC card [slot](/terms/slot) over time.
+
+
+----
+
+Related:
+
+- /terms/card
+- /terms/pc-card
+- /terms/pcmcia
+- /terms/slot
+
+----
+
+Source:
+
+- /sources/newtontalk

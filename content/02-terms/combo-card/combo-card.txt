@@ -17,6 +17,8 @@ Related:
 - /terms/memory-card
 - /terms/pc-card
 - /terms/pcmcia
+- /terms/slot
+- /terms/slot-jam
 - /terms/storage-card
 
 ----
