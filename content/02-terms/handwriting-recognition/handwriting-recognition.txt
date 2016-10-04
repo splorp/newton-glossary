@@ -4,7 +4,7 @@ Title: Handwriting Recognition
 
 Text:
 
-The algorithmic conversion of handwritten or handprinted text into digital text.
+The algorithmic conversion of handwritten or handprinted text into digital text. Also referred to as [HWR](/terms/hwr).
 
 ----
 
