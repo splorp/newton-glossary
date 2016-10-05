@@ -1,0 +1,30 @@
+Title: MessagePad 120
+
+----
+
+Text:
+
+The MessagePad 120 shares the same case styling as the [MessagePad 110](/terms/messagepad-110) and [MessagePad 130](/terms/messagepad-130). Improvements over the [MessagePad 110](/terms/messagepad-110) included a choice of memory configurations, socketed (ungradable) [ROM](/terms/rom), a nonglare screen, an updated operating system, and bundled third-party software. The code name of the MessagePad 120 was [Gelato](/terms/gelato), due to the fact that it was available in two memory configuration “flavours”. The MessagePad 120 is commonly referred to as an [MP120](/terms/mp120).
+
+<h2>Additional Information</h2>
+
+[Apple: Newton MessagePad: MessagePad 110/120 Differences](https://support.apple.com/kb/TA33532)
+
+----
+
+Related:
+
+- /terms/gelato
+- /terms/crib
+- /terms/messagepad
+- /terms/messagepad-110
+- /terms/messagepad-130
+- /terms/mp120
+- /terms/nmp-120
+
+----
+
+Source:
+
+- /sources/apple-tech-info-library
+- /sources/mackido
