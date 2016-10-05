@@ -31,6 +31,7 @@ Related:
 - /terms/omp2k
 - /terms/original-messagepad-2000
 - /terms/q
+- /terms/strongarm
 - /terms/ump
 - /terms/ump2k
 - /terms/voyager

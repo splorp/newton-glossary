@@ -12,6 +12,7 @@ Not to be confused with the Finder, the default file manager in Mac OS or Mac OS
 
 Related:
 
+- /terms/frame
 - /terms/find-slip
 
 ----
