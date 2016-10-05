@@ -100,7 +100,8 @@ code {
 	white-space: pre;
 	}
 
-article ul, article ol {
+article ul,
+article ol {
 	margin-bottom: 20px;
 	margin-left: 40px;
 	}
@@ -197,6 +198,7 @@ footer a:hover {
 */
 
 @media screen and (max-device-width: 1024px), screen and (max-width: 1024px) {
+
 	body {
 		-webkit-text-size-adjust: 100%;
 		padding: 1em;
@@ -212,7 +214,8 @@ footer a:hover {
 		margin-top: 20px;
 		}
 
-	article ul, article ol {
+	article ul,
+	article ol {
 		margin-left: 20px;
 		}
 
@@ -234,12 +237,18 @@ footer a:hover {
 		margin: 0 auto;
 		width: 90%;
 		}
+
 	h1,
 	header h1 {
 		font-size: 20px;
 		line-height: 40px;
 		margin-bottom: 10px;
 		}
+
+	h2 {
+		margin: 20px 0 20px 0;
+		}
+    
 	p {
 		margin-bottom: 20px;
 		max-width: 100%;
@@ -248,15 +257,21 @@ footer a:hover {
 	header p {
 		display: none;
 		}
+
+	nav li {
+		margin-right: 15px;
+		}
+    
 	section.content {
 		margin-top: 20px;
 		}
 
-	article ul, article ol {
+	article ul,
+	article ol {
 		margin-left: 20px;
 		}
 
 	footer {
-		margin-top: 20px;
+		margin-top: 30px;
 		}
 	}
