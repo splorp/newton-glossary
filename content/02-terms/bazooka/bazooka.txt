@@ -8,6 +8,12 @@ The code name of the Newton keyboard.
 
 ----
 
+Related:
+
+- /terms/frankenbuckey
+
+----
+
 Source:
 
 - /sources/ben-truesdale
