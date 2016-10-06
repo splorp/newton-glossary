@@ -33,4 +33,4 @@ Related:
 
 Source:
 
-- /sources/newton-user-interface-guidelinesa
+- /sources/newton-user-interface-guidelines
