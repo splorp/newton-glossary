@@ -16,7 +16,6 @@ Related:
 - /terms/content-command
 - /terms/document-command
 - /terms/dot-commands
-- /terms/keyboard-equivalent
 - /terms/layout-command
 
 ----
