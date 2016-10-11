@@ -1,7 +1,7 @@
 
 # The Newton Glossary
 
-#### An almost definitive guide to Newton-related terms and definitions.
+### An almost definitive guide to Newton-related terms and definitions.
 
 [glossary.splorp.me](http://glossary.splorp.me/)
 
