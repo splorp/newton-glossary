@@ -1,0 +1,27 @@
+Title: C2C
+
+----
+
+Text:
+
+Card to Card
+
+An acronym describing the transfer of data from one [storage cards](/terms/storage-card) to another using a Newton device.
+
+----
+
+Related:
+
+- /terms/c2n
+- /terms/m2n
+- /terms/n2c
+- /terms/n2m
+- /terms/n2n
+- /terms/n2p
+- /terms/p2n
+
+----
+
+Source:
+
+- /sources/newtontalk

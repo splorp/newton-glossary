@@ -1,0 +1,27 @@
+Title: P2N
+
+----
+
+Text:
+
+PC to Newton
+
+An acronym describing the transfer of data from a Windows or DOS computer to a Newton device.
+
+----
+
+Related:
+
+- /terms/c2c
+- /terms/c2n
+- /terms/m2n
+- /terms/n2c
+- /terms/n2m
+- /terms/n2n
+- /terms/n2p
+
+----
+
+Source:
+
+- /sources/newtontalk

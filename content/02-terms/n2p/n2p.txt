@@ -1,0 +1,27 @@
+Title: N2P
+
+----
+
+Text:
+
+Newton to PC
+
+An acronym describing the transfer of data from a Newton device to a Windows or DOS computer.
+
+----
+
+Related:
+
+- /terms/c2c
+- /terms/c2n
+- /terms/m2n
+- /terms/n2c
+- /terms/n2m
+- /terms/n2n
+- /terms/p2n
+
+----
+
+Source:
+
+- /sources/newtontalk

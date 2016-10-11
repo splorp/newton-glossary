@@ -1,0 +1,32 @@
+Title: N2N
+
+----
+
+Text:
+
+Newton to Newton
+
+An acronym describing the transfer of data from one Newton device to another.
+
+N2N also refers to [Notes2Notes](/terms/notes2notes), an [application](/terms/application) developed by Brad Smith.
+
+----
+
+Related:
+
+- /terms/c2c
+- /terms/c2n
+- /terms/m2n
+- /terms/n2c
+- /terms/n2m
+- /terms/n2p
+- /terms/notepad
+- /terms/notes2notes
+- /terms/p2n
+- /terms/synchronize
+
+----
+
+Source:
+
+- /sources/newtontalk

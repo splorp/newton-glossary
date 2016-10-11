@@ -1,0 +1,27 @@
+Title: N2C
+
+----
+
+Text:
+
+Newton To Card
+
+An acronym describing the transfer of data from a Newton device to a [storage card](/terms/storage-card).
+
+----
+
+Related:
+
+- /terms/c2c
+- /terms/c2n
+- /terms/m2n
+- /terms/n2m
+- /terms/n2n
+- /terms/n2p
+- /terms/p2n
+
+----
+
+Source:
+
+- /sources/newtontalk

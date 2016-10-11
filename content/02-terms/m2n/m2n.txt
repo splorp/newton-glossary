@@ -1,0 +1,27 @@
+Title: M2N
+
+----
+
+Text:
+
+Mac to Newton
+
+An acronym describing the transfer of data from a Macintosh computer to a Newton device.
+
+----
+
+Related:
+
+- /terms/c2c
+- /terms/c2n
+- /terms/n2c
+- /terms/n2m
+- /terms/n2n
+- /terms/n2p
+- /terms/p2n
+
+----
+
+Source:
+
+- /sources/newtontalk

@@ -1,0 +1,27 @@
+Title: N2M
+
+----
+
+Text:
+
+Newton to Macintosh
+
+An acronym describing the transfer of data from a Newton device to a Macintosh computer.
+
+----
+
+Related:
+
+- /terms/c2c
+- /terms/c2n
+- /terms/m2n
+- /terms/n2c
+- /terms/n2n
+- /terms/n2p
+- /terms/p2n
+
+----
+
+Source:
+
+- /sources/newtontalk
