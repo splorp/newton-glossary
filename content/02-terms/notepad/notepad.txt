@@ -21,6 +21,7 @@ Related:
 - /terms/notable
 - /terms/note
 - /terms/notes
+- /terms/notes2notes
 - /terms/stationery
 - /terms/twerx
 

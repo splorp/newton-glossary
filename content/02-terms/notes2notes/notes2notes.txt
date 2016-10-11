@@ -1,0 +1,20 @@
+Title: Notes2Notes
+
+----
+
+Text:
+
+A Windows [application](/terms/application) developed by Brad Smith which [synchronizes](/terms/synchronize) Newton notes with Microsoft Outlook. Commonly referred to as [N2N](/terms/n2n). The [Newton OS](/terms/newton-os) component of Notes2Notes utilizes Steve Weyer’s [Sloup](/terms/sloup) communications package.
+
+<h2>Additional Information</h2>
+
+[Notes2Notes Product Information](http://sdhengsoft.tripod.com/notes2notes.html)
+
+----
+
+Related:
+
+- /terms/n2n
+- /terms/notepad
+- /terms/sloup
+- /terms/synchronize

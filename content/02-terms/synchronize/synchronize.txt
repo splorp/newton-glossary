@@ -16,6 +16,7 @@ Related:
 - /terms/newton-connection-utilities
 - /terms/newtourage
 - /terms/newtsync
+- /terms/notes2notes
 - /terms/now-up-to-date
 - /terms/nsync
 - /terms/sync
