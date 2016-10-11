@@ -18,5 +18,4 @@ Related:
 - /terms/newtworks
 - /terms/paper
 - /terms/twerx
-- /terms/word-wrap
 - /terms/works

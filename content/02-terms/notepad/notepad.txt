@@ -18,13 +18,10 @@ Related:
 
 - /terms/application
 - /terms/backdrop
-- /terms/messagepad
 - /terms/notable
 - /terms/notes
-- /terms/original-messagepad
 - /terms/stationery
 - /terms/twerx
-- /terms/word-wrap
 
 ----
 
