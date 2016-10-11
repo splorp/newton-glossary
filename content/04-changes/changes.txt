@@ -40,13 +40,14 @@ Sources: 81
 
 ## 21 November 2004
 
-Version: 1.0.5 (Unreleased)
+Version: 1.0.5
 Terms: 756
 Sources: 49
 
 ### Summary of changes:
 
 + New terms, new sources, various updates
++ Not released publicly
 
 ## 06 October 2002
  
@@ -100,6 +101,10 @@ Sources: 31
 
 ## 31 May 2001
  
-Version: 1.0.0b2 (First public release)
+Version: 1.0.0b2
 Terms: 571
 Sources: 25
+
+### Summary of changes:
+
++ First public release
