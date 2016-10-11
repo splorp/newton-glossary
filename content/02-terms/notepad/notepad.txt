@@ -4,7 +4,7 @@ Title: Notepad
 
 Text:
 
-The built-in [application](/terms/application) for recording and organizing notes and outlines, which may contain text, [ink text](/terms/ink-text), [shapes](/terms/shape), and [pictures](/terms/picture). On a [MessagePad](/terms/messagepad) device, Notepad is the default [backdrop](/terms/backdrop) application. Also referred to as [Notes](/terms/notes).
+The built-in [application](/terms/application) for creating and organizing items containing various types information. Items can be in the form of a [note](/terms/note), checklist, outline, or audio recording using different types of [stationery](/terms/stationery). On a [MessagePad](/terms/messagepad) device, Notepad is the default [backdrop](/terms/backdrop) application. Also referred to as [Notes](/terms/notes).
 
 Notepad is also the original name of the first Newton device, later changed to [MessagePad](/terms/messagepad) to better reflect its communication capabilities.
 
@@ -19,6 +19,7 @@ Related:
 - /terms/application
 - /terms/backdrop
 - /terms/notable
+- /terms/note
 - /terms/notes
 - /terms/stationery
 - /terms/twerx
