@@ -28,11 +28,11 @@ Related:
 - /terms/newton-user-group
 - /terms/ngn
 - /terms/nose
-- /terms/nug
 - /terms/nugom
 - /terms/snag
 - /terms/snug
 - /terms/sonug
+- /terms/special-interest-group
 - /terms/tcnug
 - /terms/tuna
 - /terms/tvnug

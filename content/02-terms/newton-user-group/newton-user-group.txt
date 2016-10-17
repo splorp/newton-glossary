@@ -26,7 +26,6 @@ Related:
 - /terms/nug
 - /terms/nugom
 - /terms/sane
-- /terms/sig
 - /terms/snag
 - /terms/snug
 - /terms/sonug

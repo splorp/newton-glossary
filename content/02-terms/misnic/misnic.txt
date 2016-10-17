@@ -27,11 +27,11 @@ Related:
 - /terms/newton-user-group
 - /terms/ngn
 - /terms/nose
-- /terms/nug
 - /terms/sane
 - /terms/snag
 - /terms/snug
 - /terms/sonug
+- /terms/special-interest-group
 - /terms/tcnug
 - /terms/tuna
 - /terms/tvnug

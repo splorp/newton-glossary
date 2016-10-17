@@ -29,12 +29,12 @@ Related:
 - /terms/nanug
 - /terms/newton-user-group
 - /terms/ngn
-- /terms/nug
 - /terms/nugom
 - /terms/sane
 - /terms/snag
 - /terms/snug
 - /terms/sonug
+- /terms/special-interest-group
 - /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
