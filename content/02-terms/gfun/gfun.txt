@@ -1,16 +1,16 @@
-Title: NOSE
-	
+Title: GFUN
+
 ----
 
 Text:
 
-Newton Owners Switzerland & Europe
+Groupe Francophone des Utilisateurs de Newton
 
-A western European user group founded by Richard Schären.
+A support community created by Dominique Benet specifically for Francophone Newton users.
 
 <h2>Additional Information</h2>
 
-Internet Archive: [NOSE Website](https://web.archive.org/web/19980529083010/http://www.newton.ch/nose/)
+[Internet Archive: GFUN Website](http://web.archive.org/web/19990428014251/http://welcome.to/gfun)
 
 ----
 
@@ -19,7 +19,6 @@ Related:
 - /terms/anug
 - /terms/dang
 - /terms/dnug
-- /terms/gfun
 - /terms/hknug
 - /terms/inug
 - /terms/knug
@@ -29,12 +28,13 @@ Related:
 - /terms/nanug
 - /terms/newton-user-group
 - /terms/ngn
-- /terms/nug
+- /terms/nose
 - /terms/nugom
 - /terms/sane
 - /terms/snag
 - /terms/snug
 - /terms/sonug
+- /terms/special-interest-group
 - /terms/tcnug
 - /terms/tuna
 - /terms/tvnug

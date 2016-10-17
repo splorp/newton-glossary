@@ -16,6 +16,7 @@ Related:
 
 - /terms/anug
 - /terms/dnug
+- /terms/gfun
 - /terms/hknug
 - /terms/inug
 - /terms/knug

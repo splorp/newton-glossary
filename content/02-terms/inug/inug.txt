@@ -13,6 +13,7 @@ Related:
 - /terms/anug
 - /terms/dang
 - /terms/dnug
+- /terms/gfun
 - /terms/hknug
 - /terms/knug
 - /terms/lanug
