@@ -20,6 +20,9 @@ Sources: _$s
 
 ### Summary of changes:
 
++ New terms
++ New sources
++ Updates to existing terms and sources
 + Simplified previous and next page navigation
 
 ## 24 August 2016
@@ -32,7 +35,7 @@ Sources: 81
 
 + New terms
 + New sources
-+ Updated and expanded hundreds of existing terms
++ Updated and expanded literally hundreds of existing terms
 + Migrated project to [GitHub](https://github.com/)
 + Content now published using [Kirby](http://getkirby.com/)
 + Integrated backlog of terms, sources, updates, and other addenda
