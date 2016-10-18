@@ -11,6 +11,7 @@ A visually distinct [Newton user interface](/terms/newton-user-interface) elemen
 Related:
 
 - /terms/user-interface
+- /terms/wavy-border
 
 ----
 

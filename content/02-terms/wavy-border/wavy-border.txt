@@ -1,0 +1,21 @@
+Title: Wavy Border
+
+----
+
+Text:
+
+A visually distinct [Newton user interface](/terms/newton-user-interface) element consisting of an animated, undulating line bordering an [alert box](/terms/alert-box).
+
+----
+
+Related:
+
+- /terms/alert-box
+- /terms/matte-border
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/grant-hutchinson
