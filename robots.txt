@@ -1,0 +1,7 @@
+# robots.txt
+# glossary.splorp.me
+# newtonglossary.com
+# updated 18 October 2016
+
+User-agent: *
+Disallow:
