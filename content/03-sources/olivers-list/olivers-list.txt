@@ -4,7 +4,9 @@ Title: Oliver’s List of Newton Easter Eggs
 
 Text:
 
-Oliver O. Fross
+A voluminous list of [Newton OS](/terms/newton-os) and application specific [easter eggs](/terms/easter-egg) compiled by [Oliver O. Fross](http://www.oliverfross.com/).
 
-_cf. (link:https://web.archive.org/web/20091023125926/http://geocities.com/SiliconValley/Bay/4931/)_
-_cf. (link:https://web.archive.org/web/20081022180849/http://oof.org/newton/)_
+<h2>Additional Information</h2>
+
+[Oliver O. Fross Website](http://www.oliverfross.com/)
+[Internet Archive: Oliver’s List of Newton Easter Eggs](https://web.archive.org/web/20090215012820/http://oof.org/newton/)
