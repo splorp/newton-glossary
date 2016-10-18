@@ -19,6 +19,7 @@ Related:
 - /terms/info-slip
 - /terms/input
 - /terms/item-info-slip
+- /terms/matte-border
 - /terms/memory-info-slip
 - /terms/notification-slip
 - /terms/routing-slip
