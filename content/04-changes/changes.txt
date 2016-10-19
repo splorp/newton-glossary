@@ -23,6 +23,7 @@ Sources: _$s
 + New terms
 + New sources
 + Updates to existing terms and sources
++ Fixed outdated links on [About](/about) page
 + Simplified previous and next page navigation
 
 ## 24 August 2016
