@@ -22,7 +22,7 @@ Sources: _$s
 
 + New terms
 + New sources
-+ Updates to existing terms and sources
++ Updated and expanded dozens of existing terms and sources
 + Fixed outdated links on [About](/about) page
 + Simplified previous and next page navigation
 
@@ -39,7 +39,6 @@ Sources: 81
 + Updated and expanded literally hundreds of existing terms
 + Migrated project to [GitHub](https://github.com/)
 + Content now published using [Kirby](http://getkirby.com/)
-+ Integrated backlog of terms, sources, updates, and other addenda
 + Began expanding metadata and background information for all [sources](/sources)
 + Added a long overdue [About](/about) section, colophon, and style guide
 + Added random term feature
@@ -54,7 +53,7 @@ Sources: 49
 
 + New terms
 + New sources
-+ Updates to existing terms and sources
++ Updated and expanded dozens of existing terms and sources
 + Not released publicly
 
 ## 06 October 2002
@@ -67,7 +66,7 @@ Sources: 45
 
 + New terms
 + New sources
-+ Updates to existing terms and sources
++ Updated and expanded dozens of existing terms and sources
 
 ## 18 December 2001
  
@@ -79,7 +78,7 @@ Sources: 40
 
 + New terms
 + New sources
-+ Updates to existing terms and sources
++ Updated and expanded dozens of existing terms and sources
 
 ## 30 October 2001
  
@@ -91,7 +90,7 @@ Sources: 38
 
 + New terms
 + New sources
-+ Updates to existing terms and sources
++ Updated and expanded dozens of existing terms and sources
 
 ## 25 September 2001
  
@@ -103,7 +102,7 @@ Sources: 34
 
 + New terms
 + New sources
-+ Updates to existing terms and sources
++ Updated and expanded dozens of existing terms and sources
 
 ## 25 June 2001
  
@@ -115,7 +114,7 @@ Sources: 31
 
 + New terms
 + New sources
-+ Updates to existing terms and sources
++ Updated and expanded dozens of existing terms and sources
 
 ## 31 May 2001
  
