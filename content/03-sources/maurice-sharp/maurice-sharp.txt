@@ -4,11 +4,22 @@ Title: Maurice Sharp
 
 Text:
 
-From a post to the [NewtonTalk](/sources/newtontalk) mailing list:
+## From a post to the [NewtonTalk](/sources/newtontalk) mailing list:
 
-Ex-Newton Developer Technical Support Engineer, Apple
-Ex-ne Dr. Llama
+* Ex-Newton Developer Technical Support Engineer, Apple
+* Ex-ne [Dr Llama](/terms/dr-llama)
+* Principal & Founder, [KLMApps](http://web.archive.org/web/20160111064125/http://klmapps.com/)
+* Author of _Learning iOS Development: A Hands-on Approach to the Fundamentals of iOS Programming_
 
-Principal & Founder, [KLMApps](http://www.klmapps.com/)
+## From LinkedIn:
 
-Author of _Learning iOS Development: A Hands-on Approach to the Fundamentals of iOS Programming_
+Senior Developer Technical Support Engineer & Tech Lead/Evangelist
+Apple Computer
+August 1992 – September 1997 (5 years 2 months)
+
+* Designed and implemented the prototype of the Newton ToolKit SDK development environment while an intern (used by alpha and beta third party developers)
+* Provided in-depth technical support for the Newton Platform to developers and licensees
+* Created and delivered presentations on programming for Newton to conferences around the world.
+* Designed and implemented more efficient processes for serving and satisfying our customers.
+• Spent time on loan to engineering to extend and maintain parts of the the Newton Toolbox API.
+* Promoted to manager of the group.
