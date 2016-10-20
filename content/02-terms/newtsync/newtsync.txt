@@ -8,7 +8,7 @@ Software developed by John Anderson of [Everchanging Software](https://web.archi
 
 <h2>Additional Information</h2>
 
-[SourceForge: NewtSync](http://newtsync.sourceforge.net/)
+[SourceForge: NewtSync](https://sourceforge.net/projects/newtsync/)
 
 ----
 

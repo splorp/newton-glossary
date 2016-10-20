@@ -19,4 +19,4 @@ Copyright: Copyright © 2001–(date: Year) (link: http://splorp.me/ text: Grant
 ----
 
 Colophon: Follow (link: https://twitter.com/newtonglossary text: @newtonglossary)
-Powered by (link: http://getkirby.com/ text: Kirby)
+Powered by (link: https://getkirby.com/ text: Kirby)

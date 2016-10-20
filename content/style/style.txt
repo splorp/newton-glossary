@@ -59,7 +59,7 @@ When linking to a specific article or resource on a website, use the full name o
 
 _For example:_
 
-+ [Apple: The NewtonScript Programming Language](http://manuals.info.apple.com/en_US/NewtonScriptProgramLanguage.PDF) (PDF)
++ [Apple: The NewtonScript Programming Language](https://manuals.info.apple.com/MANUALS/1000/MA1508/en_US/NewtonScriptProgramLanguage.PDF) (PDF)
 + [Catamount Software: Handwriting Tips for Newton Power Users](http://www.catamount.com/HWRTips/HWRTips.html)
 + [UNNA: The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf) (PDF)
 + [Wikipedia: GeoPort](https://en.wikipedia.org/wiki/GeoPort)

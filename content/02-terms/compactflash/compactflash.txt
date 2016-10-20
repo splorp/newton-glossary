@@ -4,7 +4,7 @@ Title: CompactFlash
 
 Text:
 
-A type of [flash card](/terms/flash-card) storage developed by [SanDisk](http://www.sandisk.com/). A [CF card](/terms/cf-card) is about one third the size of a [PC card](/terms/pc-card) and uses a 50-pin subset of the [PCMCIA](/terms/pcmcia) connector standard. CompactFlash also contains an [ATA](/terms/ata) controller and can appear to the host device as if it was an external disk.
+A type of [flash card](/terms/flash-card) storage developed by [SanDisk](https://www.sandisk.com/). A [CF card](/terms/cf-card) is about one third the size of a [PC card](/terms/pc-card) and uses a 50-pin subset of the [PCMCIA](/terms/pcmcia) connector standard. CompactFlash also contains an [ATA](/terms/ata) controller and can appear to the host device as if it was an external disk.
 
 ----
 
