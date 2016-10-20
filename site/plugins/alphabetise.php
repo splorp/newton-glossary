@@ -7,7 +7,7 @@
 // -----
 // Russ Baldwin 
 // shoesforindustry.net
-// v0.0.7
+// v0.0.8
 // -----
 function alphabetise($parent, $options=array()) {
   
@@ -19,7 +19,7 @@ function alphabetise($parent, $options=array()) {
 
   //Gets the input into a two dimensional array - uses '~' as separator;
   foreach ($parent as $item){
-    $temp = explode('~',$item->$options['key']() );
+    $temp = explode('~',$item->{$options['key']}() );
     $temp = $temp[0];
     $temp = strtolower($temp);
     $array[$temp][] = $item;
