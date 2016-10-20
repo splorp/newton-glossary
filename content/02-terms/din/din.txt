@@ -4,7 +4,7 @@ Title: DIN
 
 Text:
 
-A type of connector defined by the German standards institute, [Deutsches Institut für Normung](http://www.din.de/). Generally used to connect peripherals such as mice, modems, and keyboards to computing devices.
+A type of connector defined by the German standards institute, [Deutsches Institut für Normung](http://www.din.de/en). Generally used to connect peripherals such as mice, modems, and keyboards to computing devices.
 
 ----
 
