@@ -35,7 +35,7 @@ This iteration of the glossary is formatted in [Markdown](http://daringfireball.
 
 The entire project resides in a public [GitHub](https://github.com/splorp/newton-glossary/) repository. This provides easy access for contributors, almost painless maintenance, and peace of mind.
 
-To add a bit of spit and shine to our Kirby experience, we’re also using the following handy dandy plugins.
+To add a bit of spit and shine to our Kirby experience, we’ve also used the following handy dandy plugins from time to time.
 
 + [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) _by [Russ Baldwin](http://shoesforindustry.net/)_
 + [Related Pages](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) _by [Bastian Allgeier](https://bastianallgeier.com/)_
