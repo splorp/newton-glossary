@@ -1,0 +1,30 @@
+Title: RAIN
+
+----
+
+Text:
+
+Redundant Array of Inexpensive Newtons
+
+Coined by Ed Kummel.
+
+http://marc.info/?l=newtontalk&m=101293531830713&w=2
+
+The term is a play RAID, the acronym for “Redundant Array of Individual Disks”.
+
+https://groups.google.com/forum/?hl=en#!msg/comp.sys.newton.misc/szCYICTUOLE/xEbxdVo9vJkJ
+
+“Newton Farm” — Sean Luke
+
+Also, any collection of Newton devices where multiple instances of the same model exist.
+
+----
+
+Related:
+
+
+----
+
+Source:
+
+- /sources/newtontalk
