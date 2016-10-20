@@ -6,7 +6,7 @@ Text:
 
 To be unceremoniously terminated or discontinued. The term is in reference to [Steve Jobs](https://web.archive.org/web/20111005235534/http://www.apple.com/) and his predilection for eliminating features, projects, or entire departments based on emotion rather than on business logic or common sense. In particular, when the entire Newton platform was [discontinued](https://web.archive.org/web/20040528183253/http://www.apple.com/pr/library/1998/feb/27newton.html) in 1998.
 
-Thomas Brand maintains [a slightly different opinion](http://eggfreckles.net/notes/why-steve-jobs-killed-the-newton.html).
+Thomas Brand maintains [a slightly different opinion](http://eggfreckles.net/notes/killed-newton/).
 
 ----
 

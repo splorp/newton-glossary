@@ -4,7 +4,7 @@ Title: Don Porter
 
 Text:
 
-Don Porter was a mechanical engineer with the [Newton Systems Group](/term/newton-systems-group) and worked on the development of the [MessagePad 2000](/terms/messagepad-2000). He is also the person responsible for selecting the connector used for the infamous [Newton Interconnect](/terms/newton-interconnect) port.
+Don Porter was a mechanical engineer with the [Newton Systems Group](/terms/newton-systems-group) and worked on the development of the [MessagePad 2000](/terms/messagepad-2000). He is also the person responsible for selecting the connector used for the infamous [Newton Interconnect](/terms/newton-interconnect) port.
 
 <h2>Additional Information</h2>
 
