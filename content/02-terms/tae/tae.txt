@@ -8,7 +8,7 @@ The German standard for telephone plugs and sockets. TAE is an acronym for Telek
 
 <h2>Additional Information</h2>
 
-[Wikipedia: TAE Connector](http://en.wikipedia.org/wiki/TAE_connector)
+[Wikipedia: TAE Connector](https://en.wikipedia.org/wiki/TAE_connector)
 
 ----
 

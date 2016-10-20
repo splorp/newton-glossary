@@ -6,7 +6,7 @@ Text:
 
 An alternate name for the clear case [Frozen Newton](/terms/frozen-newton) project, which involved the creation of a clear case [MessagePad 2100](/terms/messagepad-2100).
 
-Definitely not a reference to the [Canadian rock band](http://en.wikipedia.org/wiki/Frozen_Ghost) from the 1980s.
+Definitely not a reference to the [Canadian rock band](https://en.wikipedia.org/wiki/Frozen_Ghost) from the 1980s.
 
 ![Frozen Ghost](/assets/images/frozen-ghost.png)
 

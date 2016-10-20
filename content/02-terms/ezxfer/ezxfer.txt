@@ -4,7 +4,7 @@ Title: EZXfer
 
 Text:
 
-A software utility by [EZShow Systems](/sources/ezshow) which facilitates the transfer of [Microsoft PowerPoint 97](http://en.wikipedia.org/wiki/Microsoft_PowerPoint) slides from a Windows computer to a Newton device. PowerPoint slides are converted to a [package file](/terms/package-file) which can be transferred to the Newton device for use with the [EZPresenter](/terms/ezpresenter) presentation software.
+A software utility by [EZShow Systems](/sources/ezshow) which facilitates the transfer of [Microsoft PowerPoint 97](https://en.wikipedia.org/wiki/Microsoft_PowerPoint) slides from a Windows computer to a Newton device. PowerPoint slides are converted to a [package file](/terms/package-file) which can be transferred to the Newton device for use with the [EZPresenter](/terms/ezpresenter) presentation software.
 
 ----
 

@@ -12,7 +12,7 @@ _This entry require updates regarding iOS processors and history._
 
 <h2>Additional Information</h2>
 
-[Wikipedia: ARM Architecture](http://en.wikipedia.org/wiki/ARM_architecture)
+[Wikipedia: ARM Architecture](https://en.wikipedia.org/wiki/ARM_architecture)
 
 ----
 
