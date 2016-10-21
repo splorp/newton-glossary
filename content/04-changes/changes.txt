@@ -14,7 +14,7 @@ Incremental changes and updates can be found in the project’s [commit log](htt
 
 ## Current Release
 
-Version: 2.0.1
+Version: 2.1.0
 Terms: _$t
 Sources: _$s
 
