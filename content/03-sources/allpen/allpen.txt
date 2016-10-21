@@ -10,6 +10,6 @@ AllPen Software, Inc. is a technology-based firm focused on the development and 
 
 AllPen, a privately held California corporation, was founded in July of 1993 by Ivan and Wayne Yurtin. Their extensive experience in the computer industry includes highly technical software engineering, systems integration, and software project management for complex systems. AllPen has since grown to a full-time staff of approximately fifteen and has been profitable since 1994. The AllPen engineering staff is lead by Tim Harrington, Director of Engineering; Todd Courtois, Chief Architect, and Ray Rischpater, Chief Technologist. AllPen has developed, and is currently engaged in, applications for both corporations wanting to take advantage of these types of devices, as well as for the manufacturers of these non-pc devices.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: AllPen Software Website](https://web.archive.org/web/19971010171711/http://www.allpen.com/)

@@ -6,7 +6,7 @@ Text:
 
 Mississippi Newton Interest Club
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: MISNIC Website](http://web.archive.org/web/19980122061559/http://www.misnic.com/)
 

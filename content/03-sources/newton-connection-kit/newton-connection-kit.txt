@@ -4,7 +4,7 @@ Title: Newton Connection Kit User’s Guide
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [The Newted Community: Newton Connection Kit for Windows User’s Guide](http://www.newted.org/download/manuals/0305277ANCNCTKITWINUG.PDF) (PDF)
 [The Newted Community: Newton Connection 2.0 Update Information](http://www.newted.org/download/manuals/0305272ANCNCT2UD.PDF) (PDF)

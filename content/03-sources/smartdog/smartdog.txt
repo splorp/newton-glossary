@@ -4,7 +4,7 @@ Title: Smart Dog Software
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Smart Dog Software Website](http://www.smartdogsw.com/)
 [Backtalk Product Information](http://www.smartdogsw.com/backtalk/)

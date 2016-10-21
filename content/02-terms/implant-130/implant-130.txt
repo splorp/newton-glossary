@@ -6,7 +6,7 @@ Text:
 
 A hardware accelerator upgrade for the [MessagePad 130](/terms/messagepad-130) developed by [Oliver Harms](http://www.pixsolution.com/) and his Pixsolution Group in Germany. Both the Implant-130 and the [Implant-2000](/terms/implant-2000) for [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices consist of a small [daughterboard](/terms/daughterboard) connected to the [motherboard](/terms). Also referred to as [Speedy](/terms/speedy).
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: Pixsolution Product Overview](https://web.archive.org/web/19991008182531/http://www.pixsolution.com/products.html)
 [Internet Archive: Implant-130 FAQ](https://web.archive.org/web/19990505234813/http://www.pixsolution.com/faq130e.html)

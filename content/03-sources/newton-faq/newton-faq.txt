@@ -4,7 +4,7 @@ Title: Newton FAQ
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Splorp: Newton FAQ: March 2003 Update](http://www.splorp.com/newton/faq/)
 [GitHub: Newton FAQ](http://www.splorp.com/newton/faq/)

@@ -6,7 +6,7 @@ Text:
 
 The code name of one of the original design concepts for the [MessagePad](/terms/messagepad) incorporating a automotive-inspired hood or cowl-shaped lid. Also referred to as the [Batmobile](/terms/batmobile) prototype.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Flickr: Jim Abeles’ Newton "Batmobile" Prototype](https://www.flickr.com/photos/abeles/albums/72157647163122306)
 [Flickr: Grant Hutchinson’s Newton "Batmobile" Prototype](https://www.flickr.com/photos/splorp/albums/72157623119595469)

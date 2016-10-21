@@ -4,6 +4,6 @@ Title: ZDNet
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [ZDNet: Writing’s on wall for Mac OS X](http://www.zdnet.com/article/mac-os-x-puts-writing-on-the-wall/)

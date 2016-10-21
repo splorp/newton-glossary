@@ -4,6 +4,6 @@ Title: Iceberg Technologies
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: Iceberg Technologies Website](https://web.archive.org/web/20001022023935/http://icebergtech.hypermart.net/)

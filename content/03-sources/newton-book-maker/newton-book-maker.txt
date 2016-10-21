@@ -4,6 +4,6 @@ Title: Newton Book Maker User’s Guide
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [UNNA: Newton Book Maker User’s Guide Version 1.1](http://www.unna.org/unna/apple/development/Bookmaker/BookmakerUsersGuide.pdf) (PDF)

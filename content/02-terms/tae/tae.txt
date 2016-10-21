@@ -6,7 +6,7 @@ Text:
 
 The German standard for telephone plugs and sockets. TAE is an acronym for Telekommunikations-Anschluss-Einheit — literally translated into English as “telecommunications connection unit”.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Wikipedia: TAE Connector](https://en.wikipedia.org/wiki/TAE_connector)
 

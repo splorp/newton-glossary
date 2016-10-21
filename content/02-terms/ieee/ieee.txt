@@ -8,7 +8,7 @@ Institute of Electrical and Electronics Engineers
 
 An organization of engineers, scientists, and students in electronics and associated fields that is involved with the setting of computer and communications standards.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [IEEE Website](http://www.ieee.org/)
 

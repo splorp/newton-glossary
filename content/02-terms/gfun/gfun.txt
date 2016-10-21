@@ -8,7 +8,7 @@ Groupe Francophone des Utilisateurs de Newton
 
 A support community created by Dominique Benet specifically for Francophone Newton users.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: GFUN Website](http://web.archive.org/web/19990428014251/http://welcome.to/gfun)
 

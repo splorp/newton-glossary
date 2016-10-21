@@ -10,7 +10,7 @@ The company that produced the processors used in Newton devices.
 
 _This entry require updates regarding iOS processors and history._
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Wikipedia: ARM Architecture](https://en.wikipedia.org/wiki/ARM_architecture)
 

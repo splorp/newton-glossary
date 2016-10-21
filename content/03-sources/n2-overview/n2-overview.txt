@@ -6,6 +6,6 @@ Text:
 
 A technical document outlining the components and architecture of the [N2](/terms/n2) hardware platform.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [UNNA: N2 Overview](http://www.unna.org/unna/apple/documentation/n2platform/n2-overview.pdf) (1996)

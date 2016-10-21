@@ -4,7 +4,7 @@ Title: MacKiDo
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [MacKiDo: Code Names](http://www.mackido.com/CodeNames/)
 [MacKiDo: Easter Eggs](http://www.mackido.com/EasterEggs/)

@@ -4,6 +4,6 @@ Title: Newton Toolkit User Guide
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [UNNA: Newton Toolkit](http://www.unna.org/view.php?/apple/development/NTK)

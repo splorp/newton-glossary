@@ -6,7 +6,7 @@ Text:
 
 A German software development company that produced numerous [applications](/terms/application) and utilities for the [Newton OS](/terms/newton-os) and Windows CE platforms. Their most notable product was the eponymous [SBM Utilities](/terms/sbm-utilities).
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Softwarebüro Müller Website](http://www.softwarebueromueller.de/)
 

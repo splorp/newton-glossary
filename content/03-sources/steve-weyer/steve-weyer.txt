@@ -4,6 +4,6 @@ Title: Steve Weyer
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [CommuniCrossings Website](http://communicrossings.com/html/newton/)

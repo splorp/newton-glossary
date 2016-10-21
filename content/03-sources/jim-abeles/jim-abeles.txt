@@ -6,7 +6,7 @@ Text:
 
 The owner of what is considered to be the world’s largest collection of Apple prototypes, including a plethora of rare Newton devices. Abeles resides in Portland, Oregon.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Flickr: Jim Abeles](https://www.flickr.com/photos/abeles/)
 [Portland Mercury: The Rarest Apple of All](http://www.portlandmercury.com/portland/the-rarest-apple-of-all/Content?oid=13694422)

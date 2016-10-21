@@ -6,7 +6,7 @@ Text:
 
 Author of a fairly thorough tutorial on Newton data storage and programmatic interaction with data soups.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Canicula: Ian Robinson’s Soapbox](http://www.canicula.com/wp/)
 [Internet Archive: Newton Data Storage](http://web.archive.org/web/20160206045037/http://www.canicula.com/newton/prog/soups.htm)

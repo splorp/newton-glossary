@@ -8,7 +8,7 @@ _From his bio:_
 
 Also at Apple, in the Advanced Technology Group, he was Technical Lead in the development of the neural network-based hand-print recognition system, the world’s first genuinely usable hadwriting recognition system, showcased in second generation Newton PDAs and Mac OS X’s Inkwell. After a number of years using Polyworld to study the evolution of neural complexity and teaching Artificial Life as an approach to Artificial Intelligence and introductory computer programming at Indiana University, he is now happily back to writing software and solving new challenging problems, this time for Google, in Mountain View, CA.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Larry Yaeger Website](http://shinyverse.org/larryy/)
 [Larry Yaeger: Apple Newton Handwriting Recognition](http://shinyverse.org/larryy/ANHR.html)

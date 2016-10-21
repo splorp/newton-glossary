@@ -6,7 +6,7 @@ Text:
 
 Korean Newton Users Group
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: KNUG Website](http://web.archive.org/web/20041205033125/http://messagepad.org/)
 

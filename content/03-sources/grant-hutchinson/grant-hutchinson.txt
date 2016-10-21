@@ -4,7 +4,7 @@ Title: Grant Hutchinson
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Splorp Website](http://splorp.me/)
 [Splorp: Newton](http://www.splorp.com/newton/)

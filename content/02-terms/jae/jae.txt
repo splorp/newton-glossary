@@ -8,7 +8,7 @@ Japan Aviation Electronics
 
 A company that produces connectors and other electronic components. Original manufacturer and supplier of the infamous [Newton Interconnect](/terms/newton-interconnect) port.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [JAE Website](http://www.jae.co.jp/)
 

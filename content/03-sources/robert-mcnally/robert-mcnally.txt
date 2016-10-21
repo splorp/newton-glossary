@@ -6,7 +6,7 @@ Text:
 
 The originator of “Tablespoons” — Lewis Carroll’s Jabberwocky as “recognized” by the Newton.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Robert McNally: Tablespoons](http://www.rahul.net/figmo/Archives/newton-wocky.html)
 [Center for Programs in Contemporary Writing: Jabberwocky](http://www.writing.upenn.edu/library/Jabberwocky.html)

@@ -6,7 +6,7 @@ Text:
 
 A simple, text-only web browser and [RSS](/terms/rss) reader for [Newton OS](/terms/newton-os) 2.1 devices developed by [Eckhart Köppen](/sources/eckhart-koppen).
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [40Hz: Courier Product Information](http://40hz.org/Pages/Courier)
 

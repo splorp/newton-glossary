@@ -8,7 +8,7 @@ A web browser for Newton devices developed by [Steve Weyer](/sources/steve-weyer
 
 ![Newt’s Cape](/assets/images/newts-cape.png)
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [CommuniCrossings: Newt’s Cape Product Information](http://communicrossings.com/html/newton/newtscape.htm)
 

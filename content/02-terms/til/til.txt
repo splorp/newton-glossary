@@ -8,7 +8,7 @@ Tech Info Library
 
 A technical support [database](/terms/database) maintained by [Apple](http://www.apple.com/) and consisting of thousands of documents related to the company’s products and services. Each document in the library could be referenced by a unique identification number. The TIL was superseded by the [AppleCare Knowledge Archive](/sources/applecare-knowledge-archive) and the current [Apple Support](http://www.apple.com/support/) site.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Apple Support: Tech Info Library: Basic Search Techniques](http://support.apple.com/kb/TA36884)
 

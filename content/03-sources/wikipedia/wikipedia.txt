@@ -4,6 +4,6 @@ Title: Wikipedia
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Wikipedia Website](https://www.wikipedia.org/)

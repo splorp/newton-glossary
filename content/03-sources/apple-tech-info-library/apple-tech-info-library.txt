@@ -6,6 +6,6 @@ Text:
 
 A previous incarnation of Apple’s support information site, often referred to as [TIL](/terms/til).
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: Tech Info Library](https://web.archive.org/web/20000417131310/http://til.info.apple.com/techinfo.nsf)

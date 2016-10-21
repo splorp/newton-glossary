@@ -7,7 +7,7 @@ Text:
 Developer of the [Deep Green](/terms/deep-green) chess program.
 
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Cocoa Stuff Website](http://cocoastuff.dk/)
 [LinkedIn Profile](https://www.linkedin.com/in/joachimbondo)

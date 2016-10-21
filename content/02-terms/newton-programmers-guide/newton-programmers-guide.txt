@@ -6,7 +6,7 @@ Text:
 
 The definitive guide to Newton programming, providing conceptual information and instructions for using Newton OS [APIs](/terms/api). Also referred to as [NPG](/terms/npg).
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Apple: Newton Programmer’s Guide For Newton 2.0](http://manuals.info.apple.com/en_US/NewtonProgrammerGuide20.PDF) (PDF)
 [UNNA: Newton Programmer’s Guide for Newton 2.0](http://www.unna.org/unna/apple/documentation/developer/ProgrammersGuideOS2.0.pdf) (PDF)

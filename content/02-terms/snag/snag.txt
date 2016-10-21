@@ -8,7 +8,7 @@ Stockholm Newton Användar Grupp
 
 A Swedish user group founded in 1999 by Alexander Ruas.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: SNAG Website](https://web.archive.org/web/20010303175941/http://www.users.wineasy.se/zanderc/snag/)
 

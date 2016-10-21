@@ -4,6 +4,6 @@ Title: Newton Inc.
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: Newton Inc. Website](https://web.archive.org/web/19980204041255/http://www.newton-inc.com/)

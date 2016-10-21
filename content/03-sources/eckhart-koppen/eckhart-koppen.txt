@@ -4,7 +4,7 @@ Title: Eckhart Köppen
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [40Hz Website](http://40hz.org/)
 [40Hz: Eckhart Koeppen Biography](http://40hz.org/Pages/EckhartKoeppen)

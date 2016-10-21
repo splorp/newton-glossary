@@ -4,7 +4,7 @@ Title: Newton Formats
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Splorp: Newton Developer Tools: Newton Formats 1.1](http://www.splorp.com/pdf/newtonformats.pdf) (PDF)
 [UNNA: Newton Developer Tools: Newton Formats 1.1](http://www.unna.org/unna/apple/documentation/developer/NewtonFormats1.1.pdf) (PDF)

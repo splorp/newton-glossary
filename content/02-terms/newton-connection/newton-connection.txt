@@ -6,7 +6,7 @@ Text:
 
 An [application](/terms/application) for Mac OS X created by [Simon Bell](/sources/simon-bell) that essentially replaces the functionality found in Apple’s [Newton Connection Utilities](/terms/newton-connection-utilities) (NCU). Newton Connection allows the user to [backup](/terms/backup) and [restore](/terms/restore) information, install [packages](/terms/package), and transfer data to and from a Newton device. Also known as [NCX](/terms/ncx).
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Newton Research: Newton Connection Product Information](http://newtonresearch.org/connection/)
 

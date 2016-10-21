@@ -6,7 +6,7 @@ Text:
 
 A publication produced by [Apple](http://www.apple.com/) which supplied developers with information on Newton platform technology, development tools, and marketing news.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [UNNA: Newton Technology Journal Archives](http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal)
 

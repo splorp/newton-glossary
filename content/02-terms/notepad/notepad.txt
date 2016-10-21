@@ -8,7 +8,7 @@ The built-in [application](/terms/application) for creating and organizing items
 
 Notepad is also the original name of the first Newton device, later changed to [MessagePad](/terms/messagepad) to better reflect its communication capabilities.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [My Apple Newton: Newton NotePad Unearthed](http://myapplenewton.blogspot.ca/2013/12/newton-notepad-unearthed.html)
 

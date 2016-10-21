@@ -6,7 +6,7 @@ Text:
 
 Denver Area Newton Group
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: DANG Website](https://web.archive.org/web/19971007102921/http://www.pdantic.com/Dang.htm)
 

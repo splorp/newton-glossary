@@ -6,7 +6,7 @@ Text:
 
 Co-founder of [Panic](http://panic.com/) and self-proclaimed technology enthusiast.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Steven Frank Website](http://stevenf.com/)
 [GitHub: Steven Frank](https://github.com/panicsteve)

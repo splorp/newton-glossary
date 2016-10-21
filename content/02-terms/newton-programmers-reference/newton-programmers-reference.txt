@@ -6,7 +6,7 @@ Text:
 
 A document which provides comprehensive documentation for the routines, system [prototypes](/terms/prototype), data structures, [constants](/terms/constant), and error codes defined by the [Newton OS](/terms/newton-os). Also referred to as [NPR](/terms/npr).
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Apple: Newton Programmer’s Reference For Newton 2.0](http://manuals.info.apple.com/en_US/NewtonProgrammerRef20.PDF) (PDF)
 

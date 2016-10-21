@@ -8,7 +8,7 @@ A mailing list dedicated to the discussion of Apple’s [Newton OS](/terms/newto
 
 The list is commonly referred to as simply [NTLK](/terms/ntlk).
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [NewtonTalk Website](http://newtontalk.net/)
 [NewtonTalk FAQ](https://github.com/splorp/newtontalk-faq/blob/master/newtontalk-faq.md)

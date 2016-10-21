@@ -6,7 +6,7 @@ Text:
 
 Published by [Apple](http://www.apple.com/) in 1996, this reference describes how to create interfaces that optimize the interaction between people and devices using Newton 2.0 software.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Amazon: Newton 2.0 User Interface Guidelines](http://amzn.to/1Q3t56X)
 [UNNA: Newton 2.0 User Interface Guidelines](http://www.unna.org/unna/apple/documentation/developer/UserInterfaceGuidelinesOS2.0.pdf) (PDF)

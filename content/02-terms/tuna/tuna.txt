@@ -8,7 +8,7 @@ Teachers Using Newtons Alliance
 
 A defunct online forum aimed at educators integrating the Newton platform into the practice of teaching.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: TUNA Website](https://web.archive.org/web/19991003023001/http://www.govmail.com/newton/teacher/)
 

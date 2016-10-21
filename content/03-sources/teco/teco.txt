@@ -8,7 +8,7 @@ Originally named _The Telecoöperation Office_, TECO was founded in 1993 at the 
 
 In 1994, TECO developed [PocketWeb](/terms/pocketweb), the first web browser for handheld devices.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [TECO Website](http://www.teco.edu/)
 [Wikipedia: TECO](https://de.wikipedia.org/wiki/TecO)

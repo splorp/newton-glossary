@@ -8,7 +8,7 @@ A handwritten mark that is recognized as having a special meaning by the [Newton
 
 The [Graffiti](/terms/graffiti) input system is also based on gestures.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Catamount Software: Handwriting Tips for Newton Power Users](http://www.catamount.com/HWRTips/HWRTips.html)
 

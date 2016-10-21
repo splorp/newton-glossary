@@ -6,7 +6,7 @@ Text:
 
 Southern Ontario Newton Users Group
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [SONUG Website](http://nug.newtontalk.net/sonug/)
 

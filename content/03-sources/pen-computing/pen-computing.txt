@@ -10,6 +10,6 @@ Pen Computing and Rugged PC Review cover all aspects of mobile and rugged comput
 
 At one time, Pen Computing Magazine was a bimonthly print journal focused on pen-based and mobile computing. If you are interested in alternatives to traditional keyboard input and related mobile technologies such as ruggedness and wireless, you've come to the right place. If you use or are considering using a pen-based notebook, pen slate, or handheld/PDA computer, we'll keep you up to date. We feature more in-depth coverage of individual pen platfoms than any other printed source.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Pen Computing Website](http://www.pencomputing.com/)

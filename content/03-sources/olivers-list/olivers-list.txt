@@ -6,7 +6,7 @@ Text:
 
 A voluminous list of [Newton OS](/terms/newton-os) and application specific [easter eggs](/terms/easter-egg) compiled by [Oliver O. Fross](http://www.oliverfross.com/).
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Oliver O. Fross Website](http://www.oliverfross.com/)
 [Internet Archive: Oliver’s List of Newton Easter Eggs](https://web.archive.org/web/20090215012820/http://oof.org/newton/)

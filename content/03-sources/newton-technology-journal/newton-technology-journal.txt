@@ -6,6 +6,6 @@ Text:
 
 Published by [Apple](http://www.apple.com/) between 1995 and 1997, the content of this Newton-specific technical journal was 70% development and 30% marketing.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [UNNA: Newton Technology Journal Archives](http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal)

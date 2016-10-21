@@ -4,6 +4,6 @@ Title: Bill Kearney
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: Bill Kearney Biography](https://web.archive.org/web/20090815041843/http://www.ideaspace.net/users/wkearney/archives/entries/000091.html)

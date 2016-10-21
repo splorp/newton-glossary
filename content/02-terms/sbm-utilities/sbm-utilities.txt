@@ -6,7 +6,7 @@ Text:
 
 A suite of [Newton OS](/terms/newton-os) diagnostic and repair tools created by [Softwarebüro Müller](/terms/softwareburo-muller).
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Softwarebüro Müller: SBM Utilities Product Information](http://www.softwarebueromueller.de/englisch/newton/sbmutils/)
 

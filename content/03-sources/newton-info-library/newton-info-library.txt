@@ -4,6 +4,6 @@ Title: Newton Info Library
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: Newton Info Library](https://web.archive.org/web/20020422041555/http://newted.dyndns.org/users/alien/)

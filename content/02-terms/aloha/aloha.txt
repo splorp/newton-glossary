@@ -6,7 +6,7 @@ Text:
 
 An email package for [Newton OS](/terms/newton-os) developed by [Catamount Software](http://www.catamount.com/) that worked specifically with the [America Online](http://www.aol.com/) service.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: Aloha Product Information](https://web.archive.org/web/20000420120058/http://www.catamount.com/Aloha2.html)
 

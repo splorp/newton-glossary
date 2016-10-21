@@ -6,7 +6,7 @@ Text:
 
 Seacoast Area Newton Enthusiasts
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: SANE Website](http://web.archive.org/web/*/http://www.bluefin.net/~gravity/sane.html)
 

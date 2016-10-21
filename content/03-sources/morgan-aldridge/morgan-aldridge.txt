@@ -4,6 +4,6 @@ Title: Morgan Aldridge
 
 Text:
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Makkintosshu Website](http://makkintosshu.com/)

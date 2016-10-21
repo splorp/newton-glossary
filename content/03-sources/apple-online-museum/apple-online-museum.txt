@@ -6,7 +6,7 @@ Text:
 
 The _Apple Online Museum_ was founded in 1998 by Lukas Foljanty and original created as a “result of reading Owen Linzmayer’s _The Mac Bathroom Reader_”. The concept of the site was to to combine the history of Apple products with specifications and other related background information. The site was also known as simply _The Apple Museum_ in later iterations.
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: The Apple Museum Website](https://web.archive.org/web/20111213005851/http://www.theapplemuseum.com/)
 [Internet Archive: The Apple Museum: Codenames: Newton PDAs](https://web.archive.org/web/20111213010745/http://www.theapplemuseum.com/index.php?id=25)

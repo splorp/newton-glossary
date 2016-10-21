@@ -6,7 +6,7 @@ Text:
 
 Austin Newton Users Group
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [Internet Archive: ANUG Website](https://web.archive.org/web/19981207065148/http://www.zti.com/anug/)
 

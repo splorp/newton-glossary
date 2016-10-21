@@ -6,7 +6,7 @@ Text:
 
 A development environment created by [Apple](http://www.apple.com/) for writing [NewtonScript](/terms/newtonscript) programs for [Newton OS](/terms/newton-os). Also referred to as [NTK](/terms/ntk).
 
-<h2>Additional Information</h2>
+## Additional Information
 
 [UNNA: Newton Toolkit](http://www.unna.org/view.php?/apple/development/NTK)
 [The Newted Community: Newton Toolkit Enhancements](http://www.newted.org/download/manuals/NewtonToolkitEnhancements164.pdf) (PDF)
