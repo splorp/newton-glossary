@@ -19,6 +19,40 @@ body {
 	width: 600px;
 	}
 
+form {
+	margin-bottom: 20px;
+	}
+	
+input[type="search"] {
+    border: 1px solid #ccc;
+	font-family: inherit;
+    font-size: 1em;
+    margin-bottom: 1em;
+    padding: 1em .5em;
+    width: 100%;
+    }
+    
+input[type="submit"] {
+background-color: #444;
+	font-family: inherit;
+	font-family: inherit;
+	padding: .5em 1em;
+    border-radius: 0.3em;
+    border: none;
+    color: #FFF;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    white-space: nowrap;
+    }
+  
+input[type="submit"]:hover {
+	background-color: #090;
+	}
+
 a {
 	color: #444;
 	text-decoration: none;

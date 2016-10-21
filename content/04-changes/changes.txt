@@ -27,6 +27,7 @@ Sources: _$s
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.0.8
 + Deprecated [Related Pages](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) plugin
 + Fixed outdated links on [About](/about) page
++ Added rudimentary [search](/search) functionality
 + Simplified previous and next page navigation
 
 ## 24 August 2016
