@@ -4,6 +4,8 @@ Title: NMP 2100
 
 Text:
 
+Newton MessagePad 2100.
+
 See [MessagePad 2100](/terms/messagepad-2100)
 
 ----

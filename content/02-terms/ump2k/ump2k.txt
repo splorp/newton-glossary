@@ -4,6 +4,8 @@ Title: UMP2K
 
 Text:
 
+Upgraded MessagePad 2000.
+
 See [UMP](/terms/ump)
 
 ----

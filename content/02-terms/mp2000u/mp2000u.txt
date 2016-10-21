@@ -4,6 +4,8 @@ Title: MP2000U
 
 Text:
 
+Upgraded MessagePad 2000.
+
 See [UMP](/terms/ump)
 
 ----

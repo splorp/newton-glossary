@@ -4,6 +4,8 @@ Title: NMP 100
 
 Text:
 
+Newton MessagePad 100.
+
 See [MessagePad 100](/terms/messagepad-100)
 
 ----

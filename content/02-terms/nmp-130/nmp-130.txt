@@ -4,6 +4,8 @@ Title: NMP 130
 
 Text:
 
+Newton MessagePad 130.
+
 See [MessagePad 130](/terms/messagepad-130)
 
 ----
