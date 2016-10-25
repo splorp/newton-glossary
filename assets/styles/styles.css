@@ -140,12 +140,26 @@ article ol {
 	margin-left: 40px;
 	}
 
-article ul.src {
+article ul.src,
+article ul.rslt {
 	margin-left: 0;
 	}
 
-article ul.src li {
+article ul.src li,
+article ul.rslt li {
 	list-style: none;
+	}
+
+article ul.rslt li {
+	border-bottom: 1px solid #CCC;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	}
+
+article ul.rslt li:last-child {
+	border-bottom: none;
+	padding-bottom: 0;
+	margin-bottom: 0;
 	}
 
 article h2 {
