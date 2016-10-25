@@ -38,6 +38,7 @@ The entire project resides in a public [GitHub](https://github.com/splorp/newton
 To add a bit of spit and shine to our Kirby experience, we’ve also used the following handy dandy plugins from time to time.
 
 + [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) _by [Russ Baldwin](http://shoesforindustry.net/)_
++ [Cachebuster](https://github.com/getkirby-plugins/cachebuster-plugin) _by [Bastian Allgeier](https://bastianallgeier.com/)_
 + [Related Pages](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) _by [Bastian Allgeier](https://bastianallgeier.com/)_
 
 God bless [BBEdit](http://www.barebones.com/products/bbedit/).

@@ -25,6 +25,7 @@ Sources: _$s
 + Updated and expanded dozens of existing terms and sources
 + Updated [Kirby](https://getkirby.com/) to version 2.3.2
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.0.8
++ Implemented [Cachebuster](https://github.com/getkirby-plugins/cachebuster-plugin) plugin to add timestamps to .css and .js files
 + Deprecated [Related Pages](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) plugin
 + Fixed outdated links on [About](/about) page
 + Added rudimentary [search](/search) functionality

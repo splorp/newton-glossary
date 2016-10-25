@@ -17,7 +17,7 @@
 		<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/images/apple-touch-icon-152x152-precomposed.png" />
 		<meta name="msapplication-TileImage" content="/assets/images/msapplication-tileimage-144x144.png" />
 		<meta name="msapplication-TileColor" content="#009900" />
-		<?php echo css('assets/styles/styles.css?2016102104') ?>
+		<?php echo css('assets/styles/styles.css') ?>
 	</head>
 
 	<body>
