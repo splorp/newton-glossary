@@ -14,7 +14,6 @@
 		</form>
 
 		<?php if($results->count() > 0) : ?>
-		<?php echo $results ?>
 		<?php if($results->count() == 1) : go($results); endif ?>
 		<h2><?php echo $pagination->items() . ' item'; echo ($pagination->items() > 1) ? 's' : ''; echo ' found'; ?></h2>
 		<ul class="rslt">
