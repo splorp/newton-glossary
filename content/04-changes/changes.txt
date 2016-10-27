@@ -14,9 +14,17 @@ Incremental changes and updates can be found in the project’s [commit log](htt
 
 ## Current Release
 
-Version: 2.1.0
+Version: 2.1.1
 Terms: _$t
 Sources: _$s
+
+### Summary of changes:
+
+## 27 October 2016
+
+Version: 2.1.0
+Terms: 919
+Sources: 83
 
 ### Summary of changes:
 
