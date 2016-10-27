@@ -8,7 +8,7 @@
 		<h1><?php echo html($page->title()) ?></h1>
 		<?php echo kirbytext($page->text()) ?>
 
-		<form>
+		<form<?php echo $pagination->hasPages() ? ' action ="' . url('search') . '"' : ''; ?>>
 			<input type="search" name="q" placeholder="What are you looking for?" value="<?php echo esc($query) ?>" />
 			<input type="submit" value="Go!" />
 		</form>
@@ -22,11 +22,16 @@
 			<?php echo $result->text()->excerpt(140) ?></li>
 			<?php endforeach ?>
 		</ul>
+
 		<?php elseif($query != '') : ?>
 			<h2>No items found</h2>
 		<?php endif ?>
 
 	</article>
 </section>
+
+<?php if($pagination->hasPages()) : ?>
+<?php snippet('pagination', array('pagination' => $results->pagination())) ?>
+<?php endif ?>
 
 <?php snippet('footer') ?>
