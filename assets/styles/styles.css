@@ -164,6 +164,7 @@ header h1 {
 nav {
 	border-bottom: 1px solid grey;
 	border-top: 1px solid grey;
+	color: #CCC;
 	overflow: hidden;
 	padding: 10px 0;
 	}
@@ -185,10 +186,6 @@ nav.submenu {
 	margin-bottom: 20px;
 	}
 
-nav.submenu a {
-	font-weight: normal;
-	}
-
 nav.submenu.alphabetical {
 	border-bottom: none;
 	}
@@ -197,6 +194,9 @@ nav.submenu.alphabetical li {
 	float: none;
 	}
 
+nav.submenu.alphabetical li a {
+	font-weight: normal;
+	}
 nav.submenu.alphabetical h2 {
 	margin-top: 0;
 	}
