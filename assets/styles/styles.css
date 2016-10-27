@@ -76,7 +76,7 @@ img {
 	}
 
 h1 {
-	color: #222;
+	color: #444;
 	font-size: 28px;
 	line-height: 40px;
 	margin-bottom: 20px;
@@ -84,24 +84,14 @@ h1 {
 
 h2 {
 	border-bottom: 1px #DDD solid;
-	color: #222;
+	color: #444;
 	font-size: 18px;
 	margin: 40px 0 20px 0;
 	padding-bottom: 10px;
-}
-
-h2.src {
-	background: #EEE;
-	border-radius: 3px;
-	border: 1px #CCC solid;
-	color: #666;
-	font-size: 15px;
-	padding: 2px 7px;
 	}
 
-
 h3 {
-	color: #222;
+	color: #444;
 	font-size: 16px;
 	font-weight: normal;
 	margin-bottom: 20px;
