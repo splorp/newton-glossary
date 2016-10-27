@@ -5,3 +5,5 @@ Title: Meet The Relatives
 Text:
 
 A Newton accessory product brochure published by Apple in 1993.
+
+_Requires image or possibly a PDF version of the brochure._
