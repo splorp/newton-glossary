@@ -11,4 +11,4 @@ NewtonTalk is currently maintained by [Grant Hutchinson](/sources/grant-hutchins
 ## Additional Information
 
 [NewtonTalk Website](http://www.newtontalk.net/)
-[NewtonTalk FAQ](https://github.com/splorp/newtontalk-faq/blob/master/newtontalk-faq.md)
+[GitHub: NewtonTalk FAQ](https://github.com/splorp/newtontalk-faq/blob/master/newtontalk-faq.md)

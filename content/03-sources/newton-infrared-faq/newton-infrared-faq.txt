@@ -8,4 +8,4 @@ Frequently asked questions compiled by [David Arnold](http://www.0x1.org/d/) reg
 
 ## Additional Information
 
-[Newton Infrared FAQ](http://www.0x1.org/d/stuff/newton/ir-faq.html)
+[David Arnold Website: Newton Infrared FAQ](http://www.0x1.org/d/stuff/newton/ir-faq.html)
