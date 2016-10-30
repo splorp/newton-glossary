@@ -24,7 +24,7 @@ Other glossarial references we love.
 
 + [A Devil’s Dictionary of Educational Technology](https://medium.com/@bryanalexander/a-devils-dictionary-of-educational-technology-1c3ea9a0b932) by _[Bryan Alexander](https://bryanalexander.org/)_
 + [Free Online Dictionary of Computing](http://foldoc.org/) _by [Denis Howe](https://plus.google.com/+DenisHowe/posts)_
-+ [Glossary of Archival & Records Terminology](http://archivists.org/glossary) by [Richard Pearce-Moses](http://www.clayton.edu/faculty/rpearcemoses)
++ [Glossary of Archival & Records Terminology](http://archivists.org/glossary) _by [Richard Pearce-Moses](http://www.clayton.edu/faculty/rpearcemoses)_
 + [Glossary of Common Type Terminology](https://www.fontshop.com/glossary/) _by [FontShop](https://www.fontshop.com/)_
 + [Neoglossary](http://neoglossary.tumblr.com/) _by [Riccardo Mori](http://morrick.me/)_
 + [Rands Management Glossary](http://randsinrepose.com/glossary/) _by [Michael Lopp](http://randsinrepose.com/)_
