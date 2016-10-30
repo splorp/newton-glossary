@@ -20,6 +20,12 @@ Sources: _$s
 
 ### Summary of changes:
 
++ New terms
++ New sources
++ Updated and expanded several existing entries
++ Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.0.9
++ Numerical entries now appear at the top of the [Terms](/terms) and [Sources](/sources) pages
+
 ## 27 October 2016
 
 Version: 2.1.0
@@ -30,7 +36,7 @@ Sources: 83
 
 + New terms
 + New sources
-+ Updated and expanded dozens of existing terms and sources
++ Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version 2.3.2
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.0.8
 + Implemented [Cachebuster](https://github.com/getkirby-plugins/cachebuster-plugin) plugin to add timestamps to .css and .js files
@@ -66,7 +72,7 @@ Sources: 49
 
 + New terms
 + New sources
-+ Updated and expanded dozens of existing terms and sources
++ Updated and expanded dozens of existing entries
 + Not released publicly
 
 ## 06 October 2002
@@ -79,7 +85,7 @@ Sources: 45
 
 + New terms
 + New sources
-+ Updated and expanded dozens of existing terms and sources
++ Updated and expanded dozens of existing entries
 
 ## 18 December 2001
  
@@ -91,7 +97,7 @@ Sources: 40
 
 + New terms
 + New sources
-+ Updated and expanded dozens of existing terms and sources
++ Updated and expanded dozens of existing entries
 
 ## 30 October 2001
  
@@ -103,7 +109,7 @@ Sources: 38
 
 + New terms
 + New sources
-+ Updated and expanded dozens of existing terms and sources
++ Updated and expanded dozens of existing entries
 
 ## 25 September 2001
  
@@ -115,7 +121,7 @@ Sources: 34
 
 + New terms
 + New sources
-+ Updated and expanded dozens of existing terms and sources
++ Updated and expanded dozens of existing entries
 
 ## 25 June 2001
  
@@ -127,7 +133,7 @@ Sources: 31
 
 + New terms
 + New sources
-+ Updated and expanded dozens of existing terms and sources
++ Updated and expanded dozens of existing entries
 
 ## 31 May 2001
  
