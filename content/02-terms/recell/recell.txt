@@ -4,7 +4,7 @@ Title: Recell
 
 Text:
 
-To replace old, nonfunctioning [cells](/terms/cell) in a rechargeable [battery pack](/terms/battery-pack) with new cells.
+The process of replacing the nonfunctioning [cells](/terms/cell) in a rechargeable [battery pack](/terms/battery-pack) with new cells.
 
 ----
 
@@ -20,9 +20,10 @@ Related:
 - /terms/nickel-metal-hydride
 - /terms/nimh
 - /terms/recelled
+- /terms/receller
 
 ----
 
 Source:
 
-- /sources/newtontalk
+- /sources/christian-burk

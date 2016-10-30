@@ -22,6 +22,7 @@ Related:
 - /terms/nimh
 - /terms/recell
 - /terms/recelled
+- /terms/receller
 - /terms/sled
 - /terms/tray
 

@@ -20,3 +20,4 @@ Related:
 - /terms/nimh
 - /terms/recell
 - /terms/recelled
+- /terms/receller
