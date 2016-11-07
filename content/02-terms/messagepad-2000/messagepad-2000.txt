@@ -7,6 +7,9 @@ Text:
 The MessagePad 2000 is based on the [StrongARM](/terms/strongarm) 110 processor, making it nearly ten times as fast as its predecessor, the [MessagePad 130](/terms/messagepad-130). It also featured significantly more [RAM](/terms/ram), a slightly larger greyscale [display](/terms/display), support for two [PCMCIA](/terms/pcmcia) cards, and the proprietary multifunction [Newton Interconnect](/terms/newton-interconnect) port.
 
 When an MessagePad 2000 has been upgraded to the equivalent specifications of a MessagePad 2100, it becomes an [UMP](/terms/ump) or “Upgraded MessagePad”. A non-upgraded MessagePad 2000 is also referred to as an [Original MessagePad 2000](/terms/original-messagepad-2000) or [OMP2K](/terms/omp2k).
+## Additional Information
+
+[Internet Archive: Press Release: Apple Ships MessagePad 2000](http://web.archive.org/web/19990117034343/http://product.info.apple.com/pr/press.releases/1997/q2/970324.pr.rel.msgpad.html)
 
 ----
 
