@@ -4,7 +4,10 @@ Title: MessagePad 2100
 
 Text:
 
-The last Newton device released by [Apple](http://www.apple.com/). The MessagePad 2100 shares the same specifications as its predecessor, the [MessagePad 2000](/terms/messagepad-130), with the exception of the amount of [RAM](/terms/ram). A MessagePad 2000 can been upgraded to the equivalent of a MessagePad 2100 by increasing the RAM from 5MB to 8MB.
+The last Newton device released by [Apple](http://www.apple.com/) through their [Newton Inc.](/terms/newton-inc) subsidiary. The MessagePad 2100 shares the same specifications as its predecessor, the [MessagePad 2000](/terms/messagepad-2000), with the exception of the amount of [RAM](/terms/ram). A MessagePad 2000 can been upgraded to the equivalent of a MessagePad 2100 by increasing the RAM from 5MB to 8MB.
+
+Like its predecessor, the MessagePad 2000, the MessagePad 2100 was code named [Q](/terms/q). It is commonly referred to as an [MP2100](/terms/mp2100).
+
 ## Additional Information
 
 [Internet Archive: Press Release: Apple’s New MessagePad 2100](http://web.archive.org/web/19980204041523/http://www.newton-inc.com/press_releases/19971020mp2100.html)
@@ -28,6 +31,7 @@ Related:
 - /terms/mp2x00
 - /terms/mp21k
 - /terms/newton-aluminum-shell-project
+- /terms/newton-inc
 - /terms/newton-interconnect
 - /terms/nmp-2100
 - /terms/q
