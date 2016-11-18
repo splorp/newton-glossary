@@ -10,13 +10,13 @@ A rechargeable battery technology that is susceptible to [memory effect](/terms/
 
 Related:
 
-- /terms/battery-cage
+- /terms/cell
 - /terms/long-term-storage
+- /terms/mah
 - /terms/memory-effect
 - /terms/nicad
 - /terms/nicd
 - /terms/nickel-metal-hydride
-- /terms/nimh
 
 ----
 

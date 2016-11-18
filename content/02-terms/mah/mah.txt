@@ -12,10 +12,8 @@ A unit measuring the amount of electric current used by a circuit in thousandths
 
 Related:
 
+- /terms/cell
 - /terms/long-term-storage
 - /terms/memory-effect
-- /terms/nicad
-- /terms/nicd
 - /terms/nickel-cadmium
 - /terms/nickel-metal-hydride
-- /terms/nimh

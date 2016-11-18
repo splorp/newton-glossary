@@ -15,11 +15,9 @@ Related:
 - /terms/battery-sled
 - /terms/cell
 - /terms/long-term-storage
-- /terms/nicad
-- /terms/nicd
+- /terms/memory-effect
 - /terms/nickel-cadmium
 - /terms/nickel-metal-hydride
-- /terms/nimh
 - /terms/recell
 - /terms/recelled
 - /terms/receller

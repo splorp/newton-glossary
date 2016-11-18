@@ -10,13 +10,11 @@ A condition affecting a rechargeable battery where it will hold less and less of
 
 Related:
 
+- /terms/cell
 - /terms/long-term-storage
 - /terms/mah
-- /terms/nicad
-- /terms/nicd
 - /terms/nickel-cadmium
 - /terms/nickel-metal-hydride
-- /terms/nimh
 
 ----
 

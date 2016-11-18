@@ -10,15 +10,13 @@ The process of replacing the nonfunctioning [cells](/terms/cell) in a rechargeab
 
 Related:
 
-- /terms/battery-cage
 - /terms/battery-pack
+- /terms/battery-tray
 - /terms/cell
 - /terms/long-term-storage
-- /terms/nicad
-- /terms/nicd
+- /terms/memory-effect
 - /terms/nickel-cadmium
 - /terms/nickel-metal-hydride
-- /terms/nimh
 - /terms/recelled
 - /terms/receller
 

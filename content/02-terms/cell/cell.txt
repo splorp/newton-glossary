@@ -10,14 +10,11 @@ A device that generates electrical energy from chemical energy. A battery consis
 
 Related:
 
-- /terms/battery-cage
-- /terms/battery-pack
 - /terms/long-term-storage
-- /terms/nicad
-- /terms/nicd
+- /terms/mah
+- /terms/memory-effect
 - /terms/nickel-cadmium
 - /terms/nickel-metal-hydride
-- /terms/nimh
 - /terms/recell
 - /terms/recelled
 - /terms/receller
