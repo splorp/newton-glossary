@@ -1,0 +1,32 @@
+Title: eMate 1000
+
+----
+
+Text:
+
+The speculative, business-focused successor to the [eMate 300](/terms/emate-300). The eMate 1000 was rumored to include the more powerful [StrongARM](/terms/strongarm) processor and larger memory capacity of the [MessagePad 2100](/terms/messagepad-2100), along with built-in [ethernet](/terms/ethernet), an internal modem, and a more “conservation” case design.
+
+Also referred to as the [eMate 3000](/terms/emate-3000), [Business eMate](/terms/business-emate), and [bMate](/terms/bmate).
+
+## Additional Information
+
+[Internet Archive: Apple Recon: eMate 1000](http://web.archive.org/web/20010405015435/http://www.geocities.com/WallStreet/7744/emate1k.html)
+[Internet Archive: MacCentral: Newton News](http://web.archive.org/web/19981203050535/http://www.maccentral.com/features/012098_nn.shtml)
+[Internet Archive: ThessaSource: The Fate of the Newton](http://web.archive.org/web/19981205214656/http://www.thessasource.com/features/newton.html)
+
+----
+
+Related:
+
+- /terms/bmate
+- /terms/business-emate
+- /terms/emate-300
+- /terms/emate-3000
+
+----
+
+Source:
+
+- /sources/apple-recon
+- /sources/maccentral
+- /sources/thessasource

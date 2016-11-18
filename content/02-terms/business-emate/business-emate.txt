@@ -1,0 +1,13 @@
+Title: Business eMate
+
+----
+
+Text:
+
+See [eMate 1000](/terms/emate-1000)
+
+----
+
+Source:
+
+- /sources/apple-recon
