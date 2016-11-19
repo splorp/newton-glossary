@@ -1,16 +1,16 @@
-Title: Cell
+Title: Battery
 
 ----
 
 Text:
 
-A device that converts chemical energy into electrical energy. A [battery](/terms/battery) consists of two or more interconnected cells.
+A device consisting of two or more interconnected [cells](/terms/cell) that converts chemical energy into electrical energy.
 
 ----
 
 Related:
 
-- /terms/battery
+- /terms/cell
 - /terms/long-term-storage
 - /terms/mah
 - /terms/memory-effect
