@@ -6,22 +6,17 @@ Text:
 
 Redundant Array of Inexpensive Newtons
 
-Coined by Ed Kummel.
+Originally coined by Ed Kummel, the acronym is a play on RAID or “Redundant Array of Inexpensive Disks”, a storage system which makes use of multiple disk drives. RAIN can also refer to any collection of Newton devices where multiple copies of the same model exist.
 
-http://marc.info/?l=newtontalk&m=101293531830713&w=2
+## Additional Information
 
-The term is a play RAID, the acronym for “Redundant Array of Individual Disks”.
-
-https://groups.google.com/forum/?hl=en#!msg/comp.sys.newton.misc/szCYICTUOLE/xEbxdVo9vJkJ
-
-“Newton Farm” — Sean Luke
-
-Also, any collection of Newton devices where multiple instances of the same model exist.
+[NewtonTalk Archive: SuperNewt?](http://marc.info/?l=newtontalk&m=101293531830713&w=2)
 
 ----
 
 Related:
 
+- /terms/newton-farm
 
 ----
 
