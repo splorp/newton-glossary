@@ -10,6 +10,7 @@ A connector on the Newton device which accepts a plug from an AC adapter or othe
 
 Related:
 
+- /terms/rhythm-method
 - /terms/wall-wart
 
 ----

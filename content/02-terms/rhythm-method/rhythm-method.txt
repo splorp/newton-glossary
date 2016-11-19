@@ -1,0 +1,28 @@
+Title: Rhythm Method
+
+----
+
+Text:
+
+The process of repeatedly removing and inserting a rechargeable [battery pack](/terms/battery-pack) from a Newton device to stimulate charging.
+
+Can also refer to repeatedly unplugging and reinserting an AC power adapter into the [power port](/term/power-port) of a Newton device.
+
+
+----
+
+Related:
+
+- /terms/battery-pack
+- /terms/battery-tray
+- /terms/cell
+- /terms/long-term-storage
+- /terms/memory-effect
+- /terms/power-port
+- /terms/wall-wart
+
+----
+
+Source:
+
+- /sources/newtontalk

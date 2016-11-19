@@ -4,13 +4,14 @@ Title: Wall Wart
 
 Text:
 
-Derogatory term describing an AC power adapter hanging from an electrical outlet.
+A derogatory term describing an AC power adapter plugged into an electrical outlet.
 
 ----
 
 Related:
 
 - /terms/power-port
+- /terms/rhythm-method
 
 ----
 
