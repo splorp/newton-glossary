@@ -9,7 +9,7 @@
 		<?php echo kirbytext($page->text()) ?>
 
 		<form<?php echo $pagination->hasPages() ? ' action ="' . url('search') . '"' : ''; ?>>
-			<input type="search" name="q" placeholder="What are you looking for?" value="<?php echo esc($query) ?>" />
+			<input type="search" name="q" placeholder="What are you looking for?" value="<?php echo esc($query) ?>" autofocus />
 			<input type="submit" value="Go!" />
 		</form>
 
