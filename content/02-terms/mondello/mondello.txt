@@ -9,7 +9,7 @@ The alternate code name of the software-based [print recognizer](print-recognize
 ## Additional Information
 
 [Larry Yaeger: Handwriting Recognition That Actually Works](http://wwnc.newtontalk.net/resources/WWNC2006_Yaeger_HWR.pdf) (PDF)
-[Rosetta Smalltalk: A Conversational, Extensible Microcomputer Language](http://esug.org/data/HistoricalDocuments/Misc/RosettaSmalltalk.pdf) PDF
+[Rosetta Smalltalk: A Conversational, Extensible Microcomputer Language](http://esug.org/data/HistoricalDocuments/Misc/RosettaSmalltalk.pdf) (PDF)
 
 ----
 

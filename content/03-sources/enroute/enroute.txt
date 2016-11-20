@@ -6,4 +6,4 @@ Text:
 
 ## Additional Information
 
-[Internet Archive: Network Strategies: EnRoute 1.4.2 User Manual](https://web.archive.org/web/19980526122648/http://www.netstrat.com/assets/images/EnRoute_i-net_1.4.2_Manual.pdf) (PDF)
+[Internet Archive: EnRoute 1.4.2 User Manual](https://web.archive.org/web/19980526122648/http://www.netstrat.com/assets/images/EnRoute_i-net_1.4.2_Manual.pdf) (PDF)
