@@ -7,3 +7,12 @@ Text:
 Personal Identification Number
 
 A unique series of numerals that allows secure access to a system or device. Similar to a password.
+
+----
+
+Related:
+
+- /terms/apple-wireless-messaging-service
+- /terms/beeper-number
+- /terms/newton-messaging-card
+- /terms/passcode

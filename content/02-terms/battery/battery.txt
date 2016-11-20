@@ -10,6 +10,8 @@ A device consisting of two or more interconnected [cells](/terms/cell) that conv
 
 Related:
 
+- /terms/battery-pack
+- /terms/battery-tray
 - /terms/cell
 - /terms/long-term-storage
 - /terms/mah

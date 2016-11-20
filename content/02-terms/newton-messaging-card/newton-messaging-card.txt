@@ -16,14 +16,16 @@ A [PC card](/terms/pc-card) developed by [Motorola](http://www.motorola.com/) th
 Related:
 
 - /terms/apple-wireless-messaging-service
-- /terms/awms
-- /terms/pc-card
+- /terms/beeper-number
 - /terms/messaging-card
 - /terms/newscard
 - /terms/passcode
+- /terms/pc-card
+- /terms/pin
 
 ----
 
 Source:
 
+- /sources/applecare-knowledge-archive
 - /sources/meet-the-relatives
