@@ -8,11 +8,11 @@ An internal project at [Apple](http://www.apple.com/) which combined a keyboard 
 
 There were reportedly two versions of the Frankenbuckey, also referred to as an “Integrated Accessories Investigation” by the third-party industrial design firm working with Apple. One was an enclosure with a built-in keyboard that held the Newton device and the other design replaced the standard screen cover with one that integrated a keyboard.
 
-![Newton Integrated Accessories Investigation](http://web.archive.org/web/20060205235806/http://www.bbid.com/elect/aplqdev.jpeg)
+![Newton Integrated Accessories Investigation](https://web.archive.org/web/20060205235806/http://www.bbid.com/elect/aplqdev.jpeg)
 
 ## Additional Information
 
-[Internet Archive: BBiD: Apple Newton PDA Product Developments](http://web.archive.org/web/20080606011331/http://www.bbid.com/aplqdev.html)
+[Internet Archive: Apple Newton PDA Product Developments](https://web.archive.org/web/20080606011331/http://www.bbid.com/aplqdev.html)
 
 ----
 
