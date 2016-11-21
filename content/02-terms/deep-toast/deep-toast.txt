@@ -1,0 +1,42 @@
+Title: Deep Toast
+
+----
+
+Text:
+
+The status or [charge state](/terms/charge-state) of a rechargeable [battery](/terms/battery) in a Newton device that can no longer effectively hold a charge. The status message appears as [deepToast](/terms/deeptoast) in the battery test section of the [NewtTest](/terms/newttest) utility.
+
+Deep Toast can also refer to a completely hopeless situation, like a fatal hard drive crash.
+
+_This entry requires a screenshot._
+
+## Additional Information
+
+[This is splorp: Deep Toast](http://splorp.me/2008/02/1878)
+
+----
+
+Related:
+
+- /terms/battery
+- /terms/battery-pack
+- /terms/battery-tray
+- /terms/cell
+- /terms/charge-state
+- /terms/deeptoast
+- /terms/long-term-storage
+- /terms/mah
+- /terms/memory-effect
+- /terms/newttest
+- /terms/nickel-cadmium
+- /terms/nickel-metal-hydride
+- /terms/recell
+- /terms/recelled
+- /terms/receller
+- /terms/rhythm-method
+
+----
+
+Source:
+
+- /sources/grant-hutchinson

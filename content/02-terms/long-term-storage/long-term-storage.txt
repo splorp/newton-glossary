@@ -14,10 +14,13 @@ Related:
 - /terms/battery-pack
 - /terms/battery-tray
 - /terms/cell
+- /terms/charge-state
+- /terms/deep-toast
 - /terms/lts
 - /terms/memory-effect
 - /terms/nickel-cadmium
 - /terms/nickel-metal-hydride
+- /terms/rhythm-method
 
 ----
 

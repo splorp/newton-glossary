@@ -11,6 +11,10 @@ A device that converts chemical energy into electrical energy. A [battery](/term
 Related:
 
 - /terms/battery
+- /terms/battery-pack
+- /terms/battery-tray
+- /terms/charge-state
+- /terms/deep-toast
 - /terms/long-term-storage
 - /terms/mah
 - /terms/memory-effect
@@ -19,6 +23,7 @@ Related:
 - /terms/recell
 - /terms/recelled
 - /terms/receller
+- /terms/rhythm-method
 
 ----
 

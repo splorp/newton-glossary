@@ -15,6 +15,8 @@ Related:
 - /terms/battery-pack
 - /terms/battery-sled
 - /terms/cell
+- /terms/charge-state
+- /terms/deep-toast
 - /terms/long-term-storage
 - /terms/memory-effect
 - /terms/nickel-cadmium
@@ -24,6 +26,7 @@ Related:
 - /terms/receller
 - /terms/sled
 - /terms/tray
+- /terms/rhythm-method
 
 ----
 

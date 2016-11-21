@@ -1,23 +1,26 @@
-Title: Battery
+Title: Charge State
 
 ----
 
 Text:
 
-A device consisting of two or more interconnected [cells](/terms/cell) that converts chemical energy into electrical energy.
+The current status of a rechargeable [battery](/terms/battery) in a Newton device.
+
+_Various states can include discharging, [deepToast](/terms/deep-toast), …_
 
 ----
 
 Related:
 
+- /terms/battery
 - /terms/battery-pack
 - /terms/battery-tray
 - /terms/cell
-- /terms/charge-state
 - /terms/deep-toast
 - /terms/long-term-storage
 - /terms/mah
 - /terms/memory-effect
+- /terms/newttest
 - /terms/nickel-cadmium
 - /terms/nickel-metal-hydride
 - /terms/recell
@@ -29,4 +32,4 @@ Related:
 
 Source:
 
-- /sources/techencyclopedia
+- /sources/grant-hutchinson

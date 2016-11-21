@@ -14,12 +14,15 @@ Related:
 - /terms/battery-pack
 - /terms/battery-tray
 - /terms/cell
+- /terms/charge-state
+- /terms/deep-toast
 - /terms/long-term-storage
 - /terms/memory-effect
 - /terms/nickel-cadmium
 - /terms/nickel-metal-hydride
 - /terms/recell
 - /terms/recelled
+- /terms/rhythm-method
 
 ----
 

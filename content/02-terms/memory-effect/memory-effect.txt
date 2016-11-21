@@ -11,11 +11,16 @@ A condition affecting a rechargeable [battery](/terms/battery) where it will hol
 Related:
 
 - /terms/battery
+- /terms/battery-pack
+- /terms/battery-tray
 - /terms/cell
+- /terms/charge-state
+- /terms/deep-toast
 - /terms/long-term-storage
 - /terms/mah
 - /terms/nickel-cadmium
 - /terms/nickel-metal-hydride
+- /terms/rhythm-method
 
 ----
 

@@ -11,12 +11,17 @@ A rechargeable [battery](/terms/battery) technology that is not susceptible to [
 Related:
 
 - /terms/battery
+- /terms/battery-pack
+- /terms/battery-tray
 - /terms/cell
+- /terms/charge-state
+- /terms/deep-toast
 - /terms/long-term-storage
 - /terms/mah
 - /terms/memory-effect
 - /terms/nickel-cadmium
 - /terms/nimh
+- /terms/rhythm-method
 
 ----
 

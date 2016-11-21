@@ -1,0 +1,13 @@
+Title: deepToast
+
+----
+
+Text:
+
+See [Deep Toast](/terms/deep-toast)
+
+----
+
+Source:
+
+- /sources/grant-hutchinson

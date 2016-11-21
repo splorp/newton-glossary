@@ -11,13 +11,18 @@ A rechargeable [battery](/terms/battery) technology that is susceptible to [memo
 Related:
 
 - /terms/battery
+- /terms/battery-pack
+- /terms/battery-tray
 - /terms/cell
+- /terms/charge-state
+- /terms/deep-toast
 - /terms/long-term-storage
 - /terms/mah
 - /terms/memory-effect
 - /terms/nicad
 - /terms/nicd
 - /terms/nickel-metal-hydride
+- /terms/rhythm-method
 
 ----
 
