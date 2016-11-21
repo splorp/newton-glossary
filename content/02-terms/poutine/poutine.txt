@@ -4,7 +4,11 @@ Title: Poutine
 
 Text:
 
-A culinary anomaly originating in Quebec. Consisting of cheese curds and gravy poured over French fried potatoes, poutine is also an oddly recurrent theme on the [NewtonTalk](/terms/newtontalk) mailing list.
+A culinary anomaly originating in Quebec, consisting of cheese curds and gravy poured over French fried potatoes. Poutine is also [an oddly recurrent theme](http://marc.info/?l=newtontalk&w=2&r=1&s=poutine&q=t) on the [NewtonTalk](/terms/newtontalk) mailing list.
+
+## Additional Information
+
+[NewtonTalk Archive: Poutine](http://marc.info/?l=newtontalk&w=2&r=1&s=poutine&q=t)
 
 ----
 
