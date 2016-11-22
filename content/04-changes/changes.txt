@@ -22,7 +22,7 @@ Sources: _$s
 
 + New terms
 + New sources
-+ Updated and expanded several existing entries
++ Updated and expanded dozens of existing entries
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.0.9
 + Numerical entries now appear at the top of the [Terms](/terms) and [Sources](/sources) pages
 

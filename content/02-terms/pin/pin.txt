@@ -14,5 +14,4 @@ Related:
 
 - /terms/apple-wireless-messaging-service
 - /terms/beeper-number
-- /terms/newton-messaging-card
 - /terms/passcode
