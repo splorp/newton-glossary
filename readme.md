@@ -3,7 +3,7 @@
 
 ### An almost definitive guide to Newton-related terms and definitions.
 
-[glossary.splorp.me](http://glossary.splorp.me/)
+[newtonglossary.com](http://newtonglossary.com/)
 
 See the [about](http://glossary.splorp.me/about) page for more information.
 
