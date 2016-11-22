@@ -1,0 +1,23 @@
+Title: Bad Newton Press
+
+----
+
+Text:
+
+The reporting and perpetuating of inaccurate or misleading information regarding the [Newton OS](/terms/newton-os) platform by the media. Also referred to as [BNP](/terms/bnp), the term was coined in 2003 by Doug Parker as part of [The Newton Manifesto](http://marc.info/?l=newtontalk&m=107124023123980&w=2).
+
+## Additional Information
+
+[NewtonTalk Archives: The Newton Manifesto](http://marc.info/?l=newtontalk&m=107124023123980&w=2)
+
+----
+
+Related:
+
+- /terms/bnp
+
+----
+
+Source:
+
+- /sources/newtontalk
