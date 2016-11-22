@@ -8,6 +8,6 @@ Published by [Apple](http://www.apple.com/) in 1995 and 1996, this is the defini
 
 ## Additional Information
 
-[The Newted Community: Apple MessagePad Handbook](http://www.newted.org/download/manuals/0307258ANEWTONMP.PDF) (1995)
-[UNNA: Apple MessagePad Handbook](http://www.unna.org/unna/apple/documentation/OMP-130/NewtonHandbook&#40;OS2.0&#41;2UP.pdf) (1995)
-[UNNA: Apple MessagePad Handbook](http://www.unna.org/unna/apple/documentation/OMP-130/NewtonHandbook&#40;OS2.0&#41;.pdf) (1996)
+[The Newted Community: Apple MessagePad Handbook (1995)](http://www.newted.org/download/manuals/0307258ANEWTONMP.PDF) (PDF)
+[UNNA: Apple MessagePad Handbook (1995)](http://www.unna.org/unna/apple/documentation/OMP-130/NewtonHandbook&#40;OS2.0&#41;2UP.pdf) (PDF)
+[UNNA: Apple MessagePad Handbook (1996)](http://www.unna.org/unna/apple/documentation/OMP-130/NewtonHandbook&#40;OS2.0&#41;.pdf) (PDF)

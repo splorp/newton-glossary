@@ -8,4 +8,4 @@ A technical document outlining the components and architecture of the [N2](/term
 
 ## Additional Information
 
-[UNNA: N2 Overview](http://www.unna.org/unna/apple/documentation/n2platform/n2-overview.pdf) (1996)
+[UNNA: N2 Overview](http://www.unna.org/unna/apple/documentation/n2platform/n2-overview.pdf) (PDF)
