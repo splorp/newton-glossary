@@ -1,0 +1,21 @@
+Title: Card Slot
+
+----
+
+Text:
+
+An opening where a [PC Card](/terms/pc-card) is inserted into a Newton device.
+
+----
+
+Related:
+
+- /terms/pc-card
+- /terms/slot
+- /terms/slot-jam
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1993
