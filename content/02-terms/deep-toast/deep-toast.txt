@@ -34,6 +34,7 @@ Related:
 - /terms/recelled
 - /terms/receller
 - /terms/rhythm-method
+- /terms/toast
 
 ----
 
