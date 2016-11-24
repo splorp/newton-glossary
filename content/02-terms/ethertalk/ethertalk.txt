@@ -1,0 +1,28 @@
+Title: Ethertalk
+
+----
+
+Text:
+
+The [AppleTalk](/terms/appletalk) networking [protocol](/terms/protocol) delivered over [Ethernet](/terms/ethernet).
+
+## Additional Information
+
+[Apple Support: Ethernet is not necessarily EtherTalk](https://support.apple.com/kb/TA33418)
+
+----
+
+Related:
+
+- /terms/appletalk
+- /terms/ethernet
+- /terms/local-area-network
+- /terms/localtalk
+- /terms/protocol
+- /terms/rj-45
+
+----
+
+Source:
+
+- /sources/applecare-knowledge-archive
