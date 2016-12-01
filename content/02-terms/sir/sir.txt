@@ -1,0 +1,13 @@
+Title: SIR
+
+----
+
+Text:
+
+See [Slow Infrared](/terms/slow-infrared)
+
+----
+
+Source:
+
+- /sources/smartdog

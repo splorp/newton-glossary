@@ -1,0 +1,13 @@
+Title: FIR
+
+----
+
+Text:
+
+See [Fast Infrared](/terms/fast-infrared)
+
+----
+
+Source:
+
+- /sources/smartdog

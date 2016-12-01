@@ -12,10 +12,12 @@ Related:
 
 - /terms/ask
 - /terms/beaming
+- /terms/fast-infrared
 - /terms/infrared
 - /terms/infrared-window
 - /terms/irda
 - /terms/protocol
+- /terms/slow-infrared
 - /terms/squirting
 
 ----

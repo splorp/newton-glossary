@@ -18,12 +18,14 @@ Related:
 
 - /terms/ask
 - /terms/beaming
+- /terms/fast-infrared
 - /terms/infrared
 - /terms/infrared-window
 - /terms/irlap
 - /terms/irlmp
 - /terms/ircomm
 - /terms/protocol
+- /terms/slow-infrared
 - /terms/squirting
 
 ----
