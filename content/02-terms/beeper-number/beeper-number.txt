@@ -4,7 +4,7 @@ Title: Beeper Number
 
 Text:
 
-Another name for the seven-digit personal identification number or [PIN](/terms/pin) associated with an [Apple Wireless Messaging Service](/terms/apple-wireless-messaging-service) account.
+An alternate name for the seven-digit personal identification number or [PIN](/terms/pin) associated with an [Apple Wireless Messaging Service](/terms/apple-wireless-messaging-service) account. The term “beeper” is derived from the sound made by old school wireless paging devices when receiving a message.
 
 ## Additional Information
 
