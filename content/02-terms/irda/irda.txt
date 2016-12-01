@@ -16,9 +16,9 @@ Related:
 - /terms/infrared-data-association
 - /terms/infrared-window
 - /terms/ir
-- /terms/irda-lap
-- /terms/irda-lmp
-- /terms/irda-sir
+- /terms/irlap
+- /terms/irlmp
+- /terms/ircomm
 - /terms/protocol
 - /terms/squirting
 

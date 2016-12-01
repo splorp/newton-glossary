@@ -14,10 +14,10 @@ Related:
 - /terms/beaming
 - /terms/infrared-data-association
 - /terms/ir
+- /terms/ircomm
 - /terms/irda
-- /terms/irda-lap
-- /terms/irda-lmp
-- /terms/irda-sir
+- /terms/irlap
+- /terms/irlmp
 - /terms/newtir
 - /terms/sharpir
 - /terms/squirting

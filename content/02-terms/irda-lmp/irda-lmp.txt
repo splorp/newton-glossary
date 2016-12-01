@@ -4,23 +4,4 @@ Title: IrDA-LMP
 
 Text:
 
-The link management component of the [IrDA](/terms/irda) communications [protocol](/terms/protocol).
-
-----
-
-Related:
-
-- /terms/ask
-- /terms/beaming
-- /terms/infrared-data-association
-- /terms/irda
-- /terms/irda-lap
-- /terms/irda-sir
-- /terms/protocol
-- /terms/squirting
-
-----
-
-Source:
-
-- /sources/newton-infrared-faq
+See [IrLMP](/terms/irlmp)

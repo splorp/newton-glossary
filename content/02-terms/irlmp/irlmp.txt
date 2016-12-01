@@ -1,0 +1,27 @@
+Title: IrLMP
+
+----
+
+Text:
+
+Infrared Link Management Protocol
+
+The mandatory link management layer of the [IrDA](/terms/irda) communications [protocol](/terms/protocol) specification.
+
+----
+
+Related:
+
+- /terms/beaming
+- /terms/ircomm
+- /terms/irda
+- /terms/irda-lmp
+- /terms/irlap
+- /terms/protocol
+- /terms/squirting
+
+----
+
+Source:
+
+- /sources/newton-infrared-faq

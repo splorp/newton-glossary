@@ -1,0 +1,27 @@
+Title: IrLAP
+
+----
+
+Text:
+
+Infrared Link Access Protocol
+
+The mandatory link access layer of the [IrDA](/terms/irda) communications [protocol](/terms/protocol) specification.
+
+----
+
+Related:
+
+- /terms/beaming
+- /terms/ircomm
+- /terms/irda
+- /terms/irda-lap
+- /terms/irlmp
+- /terms/protocol
+- /terms/squirting
+
+----
+
+Source:
+
+- /sources/newton-infrared-faq

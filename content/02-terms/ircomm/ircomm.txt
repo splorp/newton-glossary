@@ -1,0 +1,27 @@
+Title: IrCOMM
+
+----
+
+Text:
+
+Infrared Communications Protocol
+
+The optional communications protocol layer of the [IrDA](/terms/irda) communications [protocol](/terms/protocol) specification, which allows an [infrared](/terms/infrared) device to behave like a serial or parallel port. IrCOMM sits on top of the [IrLMP](/terms/irlmp) layer.
+
+----
+
+Related:
+
+- /terms/beaming
+- /terms/irda
+- /terms/irda-sir
+- /terms/irlap
+- /terms/irlmp
+- /terms/protocol
+- /terms/squirting
+
+----
+
+Source:
+
+- /sources/newton-infrared-faq
