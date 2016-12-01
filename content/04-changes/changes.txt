@@ -12,11 +12,11 @@ A chronological list of major changes and updates.
 
 Incremental changes and updates can be found in the project’s [commit log](https://github.com/splorp/newton-glossary/commits/master).
 
-## Current Release
+## 01 December 2016
 
 Version: 2.1.1
-Terms: _$t
-Sources: _$s
+Terms: 949
+Sources: 90
 
 ### Summary of changes:
 
@@ -25,6 +25,7 @@ Sources: _$s
 + Updated and expanded dozens of existing entries
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.0.9
 + Numerical entries now appear at the top of the [Terms](/terms) and [Sources](/sources) pages
++ Focus is now automatically set on the [search](/search) field
 
 ## 27 October 2016
 
