@@ -1,0 +1,23 @@
+Title: nbku
+
+----
+
+Text:
+
+The file extension used to identify [backup files](/terms/backup-file) created by the [Newton Connection](/terms/newton-connection) application.
+
+----
+
+Related:
+
+- /terms/backup
+- /terms/backup-file
+- /terms/nbk
+- /terms/newton-connection
+- /terms/restore
+
+----
+
+Source:
+
+- /sources/simon-bell

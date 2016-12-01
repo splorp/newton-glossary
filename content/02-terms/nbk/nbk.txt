@@ -1,4 +1,4 @@
-Title: NBK
+Title: nbk
 
 ----
 
@@ -12,6 +12,7 @@ Related:
 
 - /terms/backup
 - /terms/backup-file
+- /terms/nbku
 - /terms/newton-backup-utility
 - /terms/newton-connection-utilities
 - /terms/restore
