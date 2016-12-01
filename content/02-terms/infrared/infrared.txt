@@ -12,7 +12,6 @@ Related:
 
 - /terms/ask
 - /terms/beaming
-- /terms/infrared-data-association
 - /terms/ir
 - /terms/ircomm
 - /terms/irda

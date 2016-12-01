@@ -4,7 +4,13 @@ Title: IrDA
 
 Text:
 
-An infrared communications [protocol](/terms/protocol) standard developed by the [Infrared Data Association](/terms/infrared-data-association) and used in [Newton OS](/terms/newton-os) 2.1 devices.
+Infrared Data Association
+
+An industry body developing standards for [infrared](/terms/infrared) data transfer. Also the [infrared](/terms/infrared) communications [protocol](/terms/protocol) standard used in later [Newton OS](/terms/newton-os) devices.
+
+## Additional Information
+
+[Infrared Data Association Website](http://www.irda.org/)
 
 ----
 
@@ -13,9 +19,7 @@ Related:
 - /terms/ask
 - /terms/beaming
 - /terms/infrared
-- /terms/infrared-data-association
 - /terms/infrared-window
-- /terms/ir
 - /terms/irlap
 - /terms/irlmp
 - /terms/ircomm
