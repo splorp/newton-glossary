@@ -12,6 +12,16 @@ A chronological list of major changes and updates.
 
 Incremental changes and updates can be found in the project’s [commit log](https://github.com/splorp/newton-glossary/commits/master).
 
+## Current Release
+
+Version: 2.2.0
+Terms: _$t
+Sources: _$s
+
+### Summary of changes:
+
++ Updated [Kirby](https://getkirby.com/) to version 2.4.0
+
 ## 01 December 2016
 
 Version: 2.1.1
