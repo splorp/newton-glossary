@@ -4,7 +4,7 @@ Title: Infrared
 
 Text:
 
-Electromagnetic waves in the frequency range just below visible light. Infrared-based sources and receivers are used in Newton devices for communication with other devices.
+Electromagnetic waves in the frequency range just below visible light. Infrared-based transceivers are used in Newton devices for communication with other devices.
 
 ----
 
@@ -19,6 +19,7 @@ Related:
 - /terms/irlap
 - /terms/irlmp
 - /terms/newtir
+- /terms/sharp-ask
 - /terms/sharpir
 - /terms/slow-infrared
 - /terms/squirting

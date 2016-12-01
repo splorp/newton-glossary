@@ -10,6 +10,7 @@ The transparent plastic panel covering the [infrared](/terms/infrared) port on a
 
 Related:
 
+- /terms/ask
 - /terms/beam-window
 - /terms/beaming
 - /terms/infrared
