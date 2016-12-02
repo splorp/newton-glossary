@@ -119,7 +119,8 @@ code {
 	color: #333;
 	font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
 	font-size: 15px;
-	padding: 3px 5px 1px 5px;
+    line-height: initial;
+	padding: 2px 5px 1px 5px;
 	white-space: pre;
 	}
 
