@@ -4,7 +4,7 @@ Title: User Storage
 
 Text:
 
-The portion of memory used for permanent user data and installed [packages](/terms/package). User storage is analogous to disk storage on a [desktop computer](/terms/desktop-computer) or laptop.
+The portion of memory used for permanent user data and installed [packages](/terms/package). User storage is analogous to disk storage on a [desktop computer](/terms/desktop-computer) or [laptop](/terms/laptop-computer).
 
 ----
 
