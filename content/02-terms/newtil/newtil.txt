@@ -6,7 +6,7 @@ Text:
 
 Newton Tech Info Library
 
-An alternate index of [Apple](http://www.apple.com/) support documents compiled and maintained by C.W. Otto Sohn. NewTIL was based on the defunct [Tech Info Library](/terms/til) and focused specifically on Newton-related topics.
+An alternative index of [Apple](http://www.apple.com/) support documents compiled and maintained by C.W. Otto Sohn. NewTIL was based on the defunct [Tech Info Library](/terms/til) and focused specifically on Newton-related topics.
 
 ## Additional Information
 

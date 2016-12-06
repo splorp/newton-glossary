@@ -20,7 +20,10 @@ Sources: _$s
 
 ### Summary of changes:
 
++ New terms
++ Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version 2.4.0
++ Fixed linespacing for inline code snippets
 
 ## 01 December 2016
 

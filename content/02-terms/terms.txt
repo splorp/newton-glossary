@@ -2,4 +2,4 @@ Title: Terms
 
 ----
 
-Description: A alphabetical list of terms contained in the glossary.
+Description: An alphabetical list of terms contained in the glossary.

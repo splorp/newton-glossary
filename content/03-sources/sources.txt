@@ -2,4 +2,4 @@ Title: Sources
 
 ----
 
-Description: A list of sources and references used in the creation of the glossary.
+Description: An alphabetical list of sources and references used in the creation of the glossary.
