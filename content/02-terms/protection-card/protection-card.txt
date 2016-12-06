@@ -1,0 +1,29 @@
+Title: Protection Card
+
+----
+
+Text:
+
+A plastic card that is inserted into an empty [card slot](/terms/card-slot) to protect the slot from damage.
+
+----
+
+Related:
+
+- /terms/application-card
+- /terms/card
+- /terms/card-slot
+- /terms/combo-card
+- /terms/flash-card
+- /terms/memory-card
+- /terms/pc-card
+- /terms/pcmcia
+- /terms/slot
+- /terms/slot-jam
+- /terms/storage-card
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995

@@ -18,6 +18,8 @@ Related:
 - /terms/frame
 - /terms/immediate
 - /terms/pc-card
+- /terms/pcmcia
+- /terms/protection-card
 - /terms/reference
 - /terms/slot-jam
 

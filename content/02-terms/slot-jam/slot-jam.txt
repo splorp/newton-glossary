@@ -16,6 +16,7 @@ Related:
 - /terms/card
 - /terms/pc-card
 - /terms/pcmcia
+- /terms/protection-card
 - /terms/slot
 
 ----

@@ -10,7 +10,10 @@ An opening where a [PC Card](/terms/pc-card) is inserted into a Newton device.
 
 Related:
 
+- /terms/card
 - /terms/pc-card
+- /terms/pcmcia
+- /terms/protection-card
 - /terms/slot
 - /terms/slot-jam
 

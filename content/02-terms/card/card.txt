@@ -25,6 +25,7 @@ Related:
 - /terms/names
 - /terms/pc-card
 - /terms/pcmcia
+- /terms/protection-card
 - /terms/slot
 - /terms/slot-jam
 - /terms/soup

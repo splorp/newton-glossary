@@ -21,6 +21,7 @@ Related:
 - /terms/flash-card
 - /terms/memory-card
 - /terms/pc-card
+- /terms/protection-card
 - /terms/slot
 - /terms/slot-jam
 - /terms/storage-card
