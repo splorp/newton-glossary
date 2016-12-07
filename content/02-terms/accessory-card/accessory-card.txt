@@ -1,19 +1,18 @@
-Title: Combo Card
+Title: Accessory Card
 
 ----
 
 Text:
 
-A [PC card](/terms/pc-card) that combines the functionality of two separate cards. For example, a modem and an [ethernet](/terms/ethernet) networking card.
+A removable [PC card](/terms/pc-card) that provides additional functionality, such as a modem for serial communication or an [ethernet](/terms/ethernet) card for networking.
 
 ----
 
 Related:
 
-- /terms/accessory-card
 - /terms/application-card
 - /terms/card
-- /terms/external-store
+- /terms/combo-card
 - /terms/flash-card
 - /terms/memory-card
 - /terms/messaging-card
@@ -29,4 +28,4 @@ Related:
 
 Source:
 
-- /sources/grant-hutchinson
+- /sources/messagepad-handbook-1995

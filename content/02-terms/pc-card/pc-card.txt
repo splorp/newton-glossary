@@ -10,12 +10,15 @@ A small, removable peripheral [card](/terms/card) based on the [PCMCIA](/terms/p
 
 Related:
 
+- /terms/accessory-card
 - /terms/application-card
 - /terms/card
 - /terms/combo-card
 - /terms/external-store
 - /terms/flash-card
 - /terms/memory-card
+- /terms/messaging-card
+- /terms/newton-messaging-card
 - /terms/pcmcia
 - /terms/protection-card
 - /terms/slot

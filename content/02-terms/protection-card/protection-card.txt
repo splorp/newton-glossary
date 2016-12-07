@@ -10,12 +10,15 @@ A plastic card that is inserted into an empty [card slot](/terms/card-slot) to p
 
 Related:
 
+- /terms/accessory-card
 - /terms/application-card
 - /terms/card
 - /terms/card-slot
 - /terms/combo-card
 - /terms/flash-card
 - /terms/memory-card
+- /terms/messaging-card
+- /terms/newton-messaging-card
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/slot

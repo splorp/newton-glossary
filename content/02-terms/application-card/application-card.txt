@@ -10,12 +10,14 @@ A [PCMCIA](/terms/pcmcia) card that contains an [application](/terms/application
 
 Related:
 
+- /terms/accessory-card
 - /terms/application
 - /terms/card
 - /terms/combo-card
-- /terms/external-store
 - /terms/flash-card
 - /terms/memory-card
+- /terms/messaging-card
+- /terms/newton-messaging-card
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/protection-card

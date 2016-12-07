@@ -10,6 +10,7 @@ A memory card using [flash RAM](/terms/flash-ram) chips that can be rewritten an
 
 Related:
 
+- /terms/accessory-card
 - /terms/application-card
 - /terms/card
 - /terms/combo-card
@@ -18,6 +19,8 @@ Related:
 - /terms/flash-memory
 - /terms/flash-ram
 - /terms/memory-card
+- /terms/messaging-card
+- /terms/newton-messaging-card
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/protection-card
