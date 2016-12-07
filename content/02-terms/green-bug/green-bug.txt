@@ -18,6 +18,7 @@ Related:
 - /terms/newtoneer
 - /terms/newtonite
 - /terms/newtophyte
+- /terms/post-messagepad-syndrome
 
 ----
 

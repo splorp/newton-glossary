@@ -11,13 +11,14 @@ A somewhat negative name given to the partner, spouse, or significant other of a
 Related:
 
 - /terms/bleeding-green
-- /terms/green-bug
 - /terms/green-bleeder
+- /terms/green-bug
 - /terms/newtbie
 - /terms/newtie
 - /terms/newtoneer
 - /terms/newtonite
 - /terms/newtophyte
+- /terms/post-messagepad-syndrome
 
 ----
 

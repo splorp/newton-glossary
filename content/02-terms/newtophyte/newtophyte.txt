@@ -13,15 +13,15 @@ Related:
 - /terms/bleeding-green
 - /terms/green-bleeder
 - /terms/green-bug
-- /terms/green-window
+- /terms/green-widow
 - /terms/newtbie
 - /terms/newtie
 - /terms/newtoneer
 - /terms/newtonite
+- /terms/post-messagepad-syndrome
 
 ----
 
 Source:
 
 - /sources/newtontalk
-

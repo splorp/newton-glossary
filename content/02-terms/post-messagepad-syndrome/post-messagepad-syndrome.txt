@@ -1,0 +1,32 @@
+Title: Post MessagePad Syndrome
+
+----
+
+Text:
+
+Coined by Woo Lee, this condition commonly afflicts people who have given up their Newton device for another handheld platform. Also known as [PMS](/terms/pms).
+
+## Additional Information
+
+[NewtonTalk Archive: Carpman has left the Arena.](http://marc.info/?l=newtontalk&m=99875436316308&w=2)
+
+----
+
+Related:
+
+- /terms/bleeding-green
+- /terms/green-bleeder
+- /terms/green-bug
+- /terms/green-widow
+- /terms/newtbie
+- /terms/newtie
+- /terms/newtoneer
+- /terms/newtonite
+- /terms/newtophyte
+- /terms/pms
+
+----
+
+Source:
+
+- /sources/ntlk
