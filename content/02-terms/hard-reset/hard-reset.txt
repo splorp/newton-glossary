@@ -11,6 +11,7 @@ Not to be confused with a [cold boot](/terms/cold-boot), which also removes any 
 ## Additional Information
 
 [Apple Support: Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
+[Newton Poetry: How To Reset Your Newton](http://newtonpoetry.com/2008/03/31/howto-reset-your-newton/)
 
 ----
 

@@ -11,6 +11,7 @@ Also known as a [deep reset](/terms/deep-reset) or [hardware reset](/terms/hardw
 ## Additional Information
 
 [Apple Support: Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
+[Newton Poetry: How To Reset Your Newton](http://newtonpoetry.com/2008/03/31/howto-reset-your-newton/)
 
 ----
 
