@@ -4,7 +4,7 @@ Title: Tablet Computer
 
 Text:
 
-A portable computer system utilizing a touchscreen display. Earlier tablets required a [stylus](/terms/stylus) to interact with the touchscreen, whereas modern tablet devices utilize the user’s fingers to interact with the touchscreen. A Newton device can be considered a tablet computer.
+A portable computer system utilizing a [touch screen](/terms/touch-screen) display. Earlier tablets required a [pen](/terms/pen) to interact with the touch screen, whereas modern tablet devices utilize the user’s fingers to interact with the touch screen. A Newton device can be considered a tablet computer.
 
 ----
 
@@ -14,7 +14,9 @@ Related:
 - /terms/desktop-computer
 - /terms/laptop
 - /terms/laptop-computer
+- /terms/pen
 - /terms/tablet
+- /terms/touch-screen
 
 ----
 

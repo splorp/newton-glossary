@@ -4,4 +4,4 @@ Title: Display
 
 Text:
 
-See [Liquid Crystal Display](/terms/liquid-crystal-display)
+See [Screen](/terms/screen)

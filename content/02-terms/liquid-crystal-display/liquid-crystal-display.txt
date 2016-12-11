@@ -4,15 +4,19 @@ Title: Liquid Crystal Display
 
 Text:
 
-An thin, electro-optical component used as the primary [display](/terms/display) technology on the Newton and other electronic devices.
+A thin, electro-optical [screen](/terms/screen) used to display information on the Newton and other electronic devices.
 
 ----
 
 Related:
 
 - /terms/backlight
-- /terms/display
+- /terms/display-area
 - /terms/lcd
+- /terms/non-display-area
+- /terms/pixel
+- /terms/screen
+- /terms/touch-screen
 
 ----
 

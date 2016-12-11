@@ -1,0 +1,23 @@
+Title: Screen
+
+----
+
+Text:
+
+A hardware component that displays information on a generally flat, rectangular surface. The screen on a Newton device is a [liquid crystal display](/terms/liquid-crystal-display) with an integrated [touch screen](/terms/touch-screen).
+
+----
+
+Source:
+
+- /sources/foldoc
+
+----
+
+Related:
+
+- /terms/liquid-crystal-display
+- /terms/display-area
+- /terms/non-display-area
+- /terms/pixel
+- /terms/touch-screen

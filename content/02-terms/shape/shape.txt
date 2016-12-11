@@ -6,7 +6,7 @@ Text:
 
 A [picture](/terms/picture) composed of geometric constructs such as [lines](/terms/line), [arcs](/terms/arc), circles, [ovals](/terms/oval), [rectangles](/terms/rectangle), and other [polygons](/terms/polygon).
 
-A shape is also a structured piece of data used by the [Newton OS](/terms/newton-os) drawing system to render an image on the screen.
+A shape is also a structured piece of data used by the [Newton OS](/terms/newton-os) drawing system to render an image on the [screen](/terms/screen).
 
 ----
 

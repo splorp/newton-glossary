@@ -4,7 +4,7 @@ Title: Floppy Lid
 
 Text:
 
-The result of the failure of the tension spring found in the hinge of an [eMate](/terms/emate-300) lid. The tension spring will normally hold the lid and [display](/terms/display) at any given angle. When the tension spring fails, the lid flops down. Also known as the “dreaded hinge problem” or [DHP](/terms/dhp).
+The result of the failure of the tension spring found in the hinge of an [eMate](/terms/emate-300) lid. The tension spring will normally hold the lid and [screen](/terms/screen) at any given angle. When the tension spring fails, the lid flops down. Also known as the “dreaded hinge problem” or [DHP](/terms/dhp).
 
 ----
 
@@ -12,8 +12,8 @@ Related:
 
 - /terms/broink
 - /terms/dhp
-- /terms/display
 - /terms/emate-300
+- /terms/screen
 
 ----
 

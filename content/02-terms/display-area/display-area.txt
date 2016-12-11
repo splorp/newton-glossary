@@ -4,16 +4,17 @@ Title: Display Area
 
 Text:
 
-The portion of a Newton device screen on which information is displayed. As opposed to the [non-display area](/terms/non-display-area) of a screen, or the area between the display area and edge of the case surrounding the screen.
+The portion of a Newton device [screen](/terms/screen) on which information is displayed. As opposed to the [non-display area](/terms/non-display-area) of a screen, or the area between the display area and edge of the case surrounding the screen.
 
 ----
 
 Related:
 
-- /terms/lcd
 - /terms/liquid-crystal-display
 - /terms/non-display-area
 - /terms/pixel
+- /terms/screen
+- /terms/touch-screen
 
 ----
 

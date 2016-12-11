@@ -4,13 +4,16 @@ Title: Backlight
 
 Text:
 
-The [electro-luminescent panel](/terms/electro-luminescent-panel) which illuminates the [display](/terms/display) of certain Newton devices. The [eMate](/terms/emate-300), [MessagePad 130](/terms/messagepad-130), [MessagePad 2000](/terms/messagepad-2000), and [MessagePad 2100](/terms/messagepad-2100) are all outfitted with backlights.
+The [electro-luminescent panel](/terms/electro-luminescent-panel) which illuminates the [screen](/terms/screen) of certain Newton devices. The [eMate](/terms/emate-300), [MessagePad 130](/terms/messagepad-130), [MessagePad 2000](/terms/messagepad-2000), and [MessagePad 2100](/terms/messagepad-2100) are all outfitted with backlights.
 
 ----
 
 Related:
 
-- /terms/display
+- /terms/display-area
+- /terms/liquid-crystal-display
 - /terms/el
 - /terms/electro-luminescent-panel
 - /terms/elp
+- /terms/screen
+- /terms/touch-screen

@@ -1,0 +1,22 @@
+Title: Touch Screen
+
+----
+
+Text:
+
+The pressure sensitive component of the [screen](/terms/screen) in a Newton device which responds to contact made using a [pen](/terms/pen). The touch screen on early [MessagePad](/terms/messagepad) devices was referred to as a [touchpad](/terms/touchpad).
+
+## Additional Information
+
+[Apple Support: Newton MessagePad 100: How to Avoid Scratching the Touchpad](https://support.apple.com/kb/TA30566)
+
+----
+
+Related:
+
+- /terms/display-area
+- /terms/liquid-crystal-display
+- /terms/non-display-area
+- /terms/screen
+- /terms/pen
+- /terms/touchpad

@@ -4,16 +4,16 @@ Title: Ribbon Cable
 
 Text:
 
-A flat, multiconductor cable used to connect electronic components or circuit boards to each other. For example, a ribbon cable is used to connect the [display](/terms/display) in a Newton device to the [motherboard](/terms/motherboard).
+A flat, multiconductor cable used to connect electronic components or circuit boards to each other. For example, a ribbon cable is used to connect the [screen](/terms/screen) in a Newton device to the [motherboard](/terms/motherboard).
 
 ----
 
 Related:
 
 - /terms/daughterboard
-- /terms/display
 - /terms/main-logic-board
 - /terms/motherboard
+- /terms/screen
 
 ----
 

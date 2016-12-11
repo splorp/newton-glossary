@@ -4,7 +4,7 @@ Title: Pixel
 
 Text:
 
-Originally, a contraction of the words “picture” and “element”. The smallest dot a device can draw on the screen. On a Newton [MessagePad](/terms/messagepad), there are 80 pixels to an inch. Each pixel can be either black or white, so it can be represented by a single bit. Thus, the image displayed is said to be a [bitmap](/terms/bitmap).
+Originally, a contraction of the words “picture” and “element”. The smallest dot a device can draw on the [screen](/terms/screen). On a Newton [MessagePad](/terms/messagepad), there are 80 pixels to an inch. Each pixel can be either black or white, so it can be represented by a single bit. Thus, the image displayed is referred to as a [bitmap](/terms/bitmap).
 
 ----
 
@@ -12,6 +12,9 @@ Related:
 
 - /terms/bitmap
 - /terms/display-area
+- /terms/liquid-crystal-display
+- /terms/screen
+- /terms/touch-screen
 
 ----
 

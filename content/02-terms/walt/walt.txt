@@ -6,7 +6,7 @@ Text:
 
 Wizzy Active Lifestyle Telephone
 
-An experimental telecommunication device developed by [Apple](http://www.apple.com/) and [BellSouth](https://en.wikipedia.org/wiki/BellSouth) around the same time as the [Original MessagePad](/terms/original-messagepad). It featured a touchscreen [display](/terms/display) and [stylus](/terms/stylus), similar to the Newton, but with a HyperCard-based [user interface](/terms/user-interface) running on top of the Macintosh System 6.0.8 [operating system](/terms/operating-system).
+An experimental telecommunication device developed by [Apple](http://www.apple.com/) and [BellSouth](https://en.wikipedia.org/wiki/BellSouth) around the same time as the [Original MessagePad](/terms/original-messagepad). It featured a [touch screen](/terms/touch-screen) display and [pen](/terms/pen) similar to a Newton device, but with a HyperCard-based [user interface](/terms/user-interface) running on top of the Macintosh System 6.0.8 [operating system](/terms/operating-system).
 
 The WALT has been referred to as “… a Mac in Newton’s clothing.”
 
@@ -21,3 +21,11 @@ The WALT has been referred to as “… a Mac in Newton’s clothing.”
 Source:
 
 - /sources/defying-gravity
+
+----
+
+Related;
+
+- /terms/screen
+- /terms/touch-screen
+- /terms/pen

@@ -1,0 +1,13 @@
+Title: Touchpad
+
+----
+
+Text:
+
+See [Touch Screen](/terms/touch-screen)
+
+----
+
+Source:
+
+- /sources/applecare-knowledge-archive

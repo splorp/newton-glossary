@@ -4,7 +4,7 @@ Title: Squeak
 
 Text:
 
-The sound made by a Newton device after pressing and holding the [pen](/terms/pen) on the screen until a large dot known as a [heavy mark](/terms/heavy-mark) appears. Used to indicate the start of the action when [selecting](/terms/select) a block of text or a [shape](/terms/shape).
+The sound made by a Newton device after pressing and holding the [pen](/terms/pen) on the [screen](/terms/screen) until a large dot known as a [heavy mark](/terms/heavy-mark) appears. Used to indicate the start of the action when [selecting](/terms/select) a block of text or a [shape](/terms/shape).
 
 ----
 

@@ -4,7 +4,7 @@ Title: Child View
 
 Text:
 
-A [child view](/terms/child-view) is a visual object represented on the screen, enclosed by a [parent view](/terms/parent-view).
+A [child view](/terms/child-view) is a visual object represented on the [screen](/terms/screen), enclosed by a [parent view](/terms/parent-view).
 
 ----
 
