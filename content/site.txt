@@ -6,7 +6,7 @@ Author: Grant Hutchinson
 
 ----
 
-Description: An almost definitive guide to Newton-related terms and definitions.
+Description: An almost definitive guide to Newton-related terms and technologies.
 
 ----
 
