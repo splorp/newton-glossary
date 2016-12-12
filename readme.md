@@ -1,7 +1,7 @@
 
 # The Newton Glossary
 
-### An almost definitive guide to Newton-related terms and technologies.
+### An almost definitive guide to Newton-related terms and technology.
 
 [newtonglossary.com](http://newtonglossary.com/)
 
