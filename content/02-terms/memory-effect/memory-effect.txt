@@ -11,6 +11,7 @@ A condition affecting a rechargeable [battery](/terms/battery) where it will hol
 Related:
 
 - /terms/battery
+- /terms/battery-booster-pack
 - /terms/battery-pack
 - /terms/battery-tray
 - /terms/cell

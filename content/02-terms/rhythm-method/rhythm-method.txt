@@ -13,6 +13,8 @@ Can also refer to repeatedly unplugging and reinserting an AC power adapter into
 
 Related:
 
+- /terms/battery
+- /terms/battery-booster-pack
 - /terms/battery-pack
 - /terms/battery-tray
 - /terms/cell
@@ -20,10 +22,10 @@ Related:
 - /terms/deep-toast
 - /terms/long-term-storage
 - /terms/memory-effect
-- /terms/power-port
-- /terms/wall-wart
 - /terms/nickel-cadmium
 - /terms/nickel-metal-hydride
+- /terms/power-port
+- /terms/wall-wart
 
 ----
 

@@ -11,6 +11,7 @@ A rechargeable [battery](/terms/battery) technology that is susceptible to [memo
 Related:
 
 - /terms/battery
+- /terms/battery-booster-pack
 - /terms/battery-pack
 - /terms/battery-tray
 - /terms/cell

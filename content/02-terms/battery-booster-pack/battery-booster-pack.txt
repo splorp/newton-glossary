@@ -1,0 +1,38 @@
+Title: Battery Booster Pack
+
+----
+
+Text:
+
+A portable [battery pack](/terms/battery-pack) that plugs into the [power port](/terms/power-port) of a Newton device to provide extended running time.
+
+## Additional Information
+
+[Newton Battery Booster Pack: When To Change Batteries](https://support.apple.com/kb/TA30563)
+[Flickr: Newton Battery Booster Pack](https://www.flickr.com/photos/scottyhoffo/3023344222/)
+
+----
+
+Related:
+
+- /terms/battery
+- /terms/battery-pack
+- /terms/battery-tray
+- /terms/cell
+- /terms/charge-state
+- /terms/deep-toast
+- /terms/long-term-storage
+- /terms/memory-effect
+- /terms/nickel-cadmium
+- /terms/nickel-metal-hydride
+- /terms/power-port
+- /terms/recell
+- /terms/recelled
+- /terms/receller
+- /terms/rhythm-method
+
+----
+
+Source:
+
+- /sources/apple-knowledge-archive

@@ -19,6 +19,7 @@ _This entry requires a screenshot._
 Related:
 
 - /terms/battery
+- /terms/battery-booster-pack
 - /terms/battery-pack
 - /terms/battery-tray
 - /terms/cell

@@ -11,6 +11,7 @@ A device that converts chemical energy into electrical energy. A [battery](/term
 Related:
 
 - /terms/battery
+- /terms/battery-booster-pack
 - /terms/battery-pack
 - /terms/battery-tray
 - /terms/charge-state

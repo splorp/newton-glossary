@@ -4,12 +4,14 @@ Title: Power Port
 
 Text:
 
-A connector on the Newton device which accepts a plug from an AC adapter or other external power source.
+A connector on a Newton device which accepts a plug from an AC adapter or other external power source such as a [battery booster pack](/terms/battery-booster-pack). Also referred to as an [AC port](/terms/ac-port).
 
 ----
 
 Related:
 
+- /terms/ac-port
+- /terms/battery-booster-pack
 - /terms/rhythm-method
 - /terms/wall-wart
 

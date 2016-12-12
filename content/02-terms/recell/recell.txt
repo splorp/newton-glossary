@@ -11,6 +11,7 @@ The process of replacing the nonfunctioning [cells](/terms/cell) in a rechargeab
 Related:
 
 - /terms/battery
+- /terms/battery-booster-pack
 - /terms/battery-pack
 - /terms/battery-tray
 - /terms/cell

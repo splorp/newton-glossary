@@ -11,6 +11,7 @@ The status of a [battery pack](/terms/battery-pack) which has had nonfunctioning
 Related:
 
 - /terms/battery
+- /terms/battery-booster-pack
 - /terms/battery-pack
 - /terms/battery-tray
 - /terms/cell

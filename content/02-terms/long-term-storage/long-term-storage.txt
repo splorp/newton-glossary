@@ -11,6 +11,7 @@ An extended period of disuse of a Newton device or other piece of equipment. Par
 Related:
 
 - /terms/battery
+- /terms/battery-booster-pack
 - /terms/battery-pack
 - /terms/battery-tray
 - /terms/cell

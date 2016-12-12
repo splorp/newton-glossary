@@ -11,6 +11,7 @@ A removable component of a [MessagePad](/terms/messagepad) device which holds a 
 Related:
 
 - /terms/battery
+- /terms/battery-booster-pack
 - /terms/battery-cage
 - /terms/battery-pack
 - /terms/battery-sled
