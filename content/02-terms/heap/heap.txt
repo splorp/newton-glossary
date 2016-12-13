@@ -15,7 +15,9 @@ Related:
 - /terms/freeze
 - /terms/grip-of-death
 - /terms/heap-space
+- /terms/newtonscript
 - /terms/newtonscript-heap
+- /terms/script
 - /terms/system-heap
 - /terms/system-memory
 

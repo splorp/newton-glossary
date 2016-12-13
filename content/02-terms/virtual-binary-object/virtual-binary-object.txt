@@ -13,9 +13,11 @@ Related:
 - /terms/binary-object
 - /terms/function-object
 - /terms/heap
+- /terms/newtonscript
 - /terms/newtonscript-heap
 - /terms/object
 - /terms/reference
+- /terms/script
 - /terms/vbo
 
 ----

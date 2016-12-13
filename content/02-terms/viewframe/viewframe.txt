@@ -18,6 +18,7 @@ Related:
 - /terms/newtonscript
 - /terms/newtsbug
 - /terms/object
+- /terms/script
 - /terms/soup
 
 ----

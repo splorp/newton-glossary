@@ -20,4 +20,5 @@ Related:
 - /terms/object
 - /terms/object-stream-file
 - /terms/rdcl
+- /terms/script
 - /terms/stream-file

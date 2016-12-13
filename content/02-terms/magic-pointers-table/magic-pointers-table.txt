@@ -16,6 +16,7 @@ Related:
 - /terms/object
 - /terms/pointer
 - /terms/reference
+- /terms/script
 - /terms/system-patch-pages
 
 ----

@@ -15,6 +15,8 @@ Related:
 - /terms/nsof
 - /terms/object
 - /terms/object-stream-file
+- /terms/project
+- /terms/script
 
 ----
 

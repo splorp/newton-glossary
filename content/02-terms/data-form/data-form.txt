@@ -12,6 +12,7 @@ Related:
 
 - /terms/endpoint
 - /terms/newtonscript
+- /terms/script
 
 ----
 

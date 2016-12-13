@@ -18,9 +18,11 @@ Related:
 - /terms/memory-page
 - /terms/mmu
 - /terms/mmu-tables
+- /terms/newtonscript
 - /terms/newtonscript-heap
 - /terms/physical-address
 - /terms/pointer
+- /terms/script
 
 ----
 

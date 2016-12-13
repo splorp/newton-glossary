@@ -10,8 +10,10 @@ To make a runtime [object](/terms/object) in the [NewtonScript heap](/terms/newt
 Related:
 
 - /terms/heap
+- /terms/newtonscript
 - /terms/newtonscript-heap
 - /terms/object
+- /terms/script
 - /terms/template
 - /terms/vbo
 - /terms/view
