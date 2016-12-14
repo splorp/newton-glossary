@@ -3,7 +3,7 @@ Title: Newton Intelligence
 
 Text:
 
-A marketing-focused name for the core technologies behind the [Newton OS](/terms/newton-os). Newton Intelligence allowed the software to anticipate the behavior of the user, learning and acting on those assumptions.
+A marketing-focused name for the core technologies behind the [Newton OS](/terms/newton-os). Newton Intelligence allowed the software to anticipate the behaviour of the user, learning and acting on those assumptions.
 
 ----
 
