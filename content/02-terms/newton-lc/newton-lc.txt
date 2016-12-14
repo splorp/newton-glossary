@@ -1,0 +1,23 @@
+Title: Newton LC
+
+----
+
+Text:
+
+The low-cost, miniaturized [MessagePad](/terms/messagepad) rumoured to have been developed by [Apple](http://www.apple.com/) around 1995. The Newton LC featured a simplified, “one-chip” hardware architecture and a form factor similar to the [PalmPilot](https://en.wikipedia.org/wiki/PalmPilot).
+
+## Additional Information
+
+[Pen Computing: Why did Apple kill the Newton?](http://www.pencomputing.com/frames/newton_obituary.html)
+
+----
+
+Source:
+
+- /sources/pen-computing
+
+----
+
+Related:
+
+- /terms/messagepad
