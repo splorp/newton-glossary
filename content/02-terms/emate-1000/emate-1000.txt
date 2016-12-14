@@ -29,4 +29,5 @@ Source:
 
 - /sources/apple-recon
 - /sources/maccentral
+- /sources/pen-computing
 - /sources/thessasource
