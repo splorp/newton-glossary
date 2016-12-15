@@ -16,4 +16,4 @@ Related:
 - /terms/electro-luminescent-panel
 - /terms/elp
 - /terms/screen
-- /terms/touch-screen
+- /terms/touch-screen- /terms/silk

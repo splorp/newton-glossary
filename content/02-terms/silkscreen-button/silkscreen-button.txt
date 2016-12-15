@@ -18,6 +18,7 @@ Related:
 - /terms/icon
 - /terms/ryo
 - /terms/scroll-arrows
+- /terms/silk
 - /terms/silk-button
 - /terms/soft-button
 - /terms/universal-scroll-arrows

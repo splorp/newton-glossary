@@ -1,0 +1,25 @@
+Title: Silk
+
+----
+
+Text:
+
+A [package](/terms/package) developed by [Catamount Software](/sources/catamount) that enhances the activation of the [backlight](/terms/backlight). Silk also provides a floating [palette](/terms/palette) of standard controls on Newton devices equipped with [hard buttons](/terms/hard-button), otherwise known as [silkscreen buttons](/terms/silkscreen-button).
+
+## Additional Information
+
+[Internet Archive: Silk Product Information](https://web.archive.org/web/20031022150634/http://www.catamount.com/NewtonApps/Silk.html)
+
+----
+
+Related:
+
+- /terms/backlight
+- /terms/hard-button
+- /terms/silkscreen-button
+
+----
+
+Source:
+
+- /sources/catamount
