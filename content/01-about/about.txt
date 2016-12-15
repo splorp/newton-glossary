@@ -6,9 +6,9 @@ Text:
 
 The original idea behind the creation of the [Newton Glossary](/) was to provide a single, accessible resource for terminology related specifically to the Newton.
 
-The majority of terms found in the glossary were compiled between 2001 and 2004 by [Grant Hutchinson](http://splorp.com/). Numerous [sources](/sources) were used, along with plenty of help from [Paul Guyot](http://www.kallisys.com/), [Victor Rehorst](http://www.chuma.org/), and countless members of the [NewtonTalk](http://newtontalk.net/) community.
+A significant number of the terms found in the glossary were initially compiled between 2001 and 2004 by [Grant Hutchinson](http://splorp.com/). Numerous [sources](/sources) were used, along with help from knowledgable folks such as [Paul Guyot](http://www.kallisys.com/), [Victor Rehorst](http://www.chuma.org/), and countless members of the [NewtonTalk](http://newtontalk.net/) community.
 
-Although it’s a bit out of date, there is also a [searchable version](http://tools.unna.org/glossary/) of the glossary currently maintained by [Morgan Aldridge](http://www.makkintosshu.com/) as part of the [United Network of Newton Archives](http://www.unna.org/).
+Although it’s quite out of date, [Morgan Aldridge](http://www.makkintosshu.com/) has maintained a [searchable version](http://tools.unna.org/glossary/) of the glossary as part of the [United Network of Newton Archives](http://www.unna.org/).
 
 At one point there was also a [Newton Book](/terms/newton-book) version of the glossary. We’ll see if we can make that happen again.
 
@@ -32,14 +32,13 @@ Other glossarial references we love.
 
 ## Colophon
 
-This iteration of the glossary is formatted in [Markdown](http://daringfireball.net/projects/markdown/) using plain text files and published using [Kirby](https://getkirby.com/) — an extensible content management system build on PHP.
+This iteration of the glossary is formatted in [Markdown](http://daringfireball.net/projects/markdown/) using plain text files and published using [Kirby](https://getkirby.com/) — an extensible content management system built on PHP.
 
-The entire project resides in a public [GitHub](https://github.com/splorp/newton-glossary/) repository. This provides easy access for contributors, almost painless maintenance, and peace of mind.
+The entire project resides in a public [GitHub](https://github.com/splorp/newton-glossary/) repository, providing easy access for contributors, painless maintenance, and peace of mind.
 
-To add a bit of spit and shine to our Kirby experience, we’ve also used the following handy dandy plugins from time to time.
+To add a bit of spit and polish to our Kirby experience, we use the following handy dandy plugins.
 
 + [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) _by [Russ Baldwin](http://shoesforindustry.net/)_
 + [Cachebuster](https://github.com/getkirby-plugins/cachebuster-plugin) _by [Bastian Allgeier](https://bastianallgeier.com/)_
-+ [Related Pages](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) _by [Bastian Allgeier](https://bastianallgeier.com/)_
 
-God bless [BBEdit](http://www.barebones.com/products/bbedit/).
+And finally, god bless [BBEdit](http://www.barebones.com/products/bbedit/).
