@@ -18,6 +18,7 @@ Related:
 
 - /terms/application
 - /terms/backdrop
+- /terms/messagepad
 - /terms/notable
 - /terms/note
 - /terms/notes

@@ -18,4 +18,5 @@ Related:
 - /terms/messagepad-2100
 - /terms/mp
 - /terms/notepad
+- /terms/newton-lc
 - /terms/original-messagepad

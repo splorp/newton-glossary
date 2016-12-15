@@ -12,8 +12,8 @@ Related:
 
 - /terms/display-area
 - /terms/liquid-crystal-display
-- /terms/el
 - /terms/electro-luminescent-panel
 - /terms/elp
 - /terms/screen
-- /terms/touch-screen- /terms/silk
+- /terms/silk
+- /terms/touch-screen
