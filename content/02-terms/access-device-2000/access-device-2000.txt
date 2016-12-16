@@ -12,6 +12,7 @@ Third party devices that utilize a licensed version of the Newton OS are also re
 
 Related:
 
+- /terms/access-device
 - /terms/ad2000
 - /terms/clone
 - /terms/messagepad-2000
