@@ -4,4 +4,4 @@ Title: NSG
 
 Text:
 
-See [Newton Systems Group](/terms/newton-systems-group)
+See [Newton Systems Group](/terms/newton-systems-group) and [Newton Solutions Guide](/terms/newton-solutions-guide)
