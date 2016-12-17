@@ -53,7 +53,7 @@ When linking to the main page of a website, include both the website name and �
 
 _For example:_
 
-+ [Catamount Software Website](http://www.catamount.com/)
++ [Catamount Software Website](http://catamount.com/)
 
 When linking to a specific article or resource on a website, use the full name or title of the article or resource — prefixed with the source website — as the link text.
 
