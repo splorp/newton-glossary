@@ -20,7 +20,7 @@ Sources: _$s
 
 ### Summary of changes:
 
-+ New terms
++ Added new terms
 + Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version 2.4.0
 + Fixed linespacing for inline code snippets
@@ -33,8 +33,8 @@ Sources: 90
 
 ### Summary of changes:
 
-+ New terms
-+ New sources
++ Added 30 new terms
++ Added 7 new sources
 + Updated and expanded dozens of existing entries
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.0.9
 + Numerical entries now appear at the top of the [Terms](/terms) and [Sources](/sources) pages
@@ -48,8 +48,8 @@ Sources: 83
 
 ### Summary of changes:
 
-+ New terms
-+ New sources
++ Added 16 new terms
++ Added 2 new sources
 + Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version 2.3.2
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.0.8
@@ -67,8 +67,8 @@ Sources: 81
 
 ### Summary of changes:
 
-+ New terms
-+ New sources
++ Added 147 new terms
++ Added 32 new sources
 + Updated and expanded literally hundreds of existing terms
 + Migrated project to [GitHub](https://github.com/)
 + Content now published using [Kirby](http://getkirby.com/)
@@ -84,8 +84,8 @@ Sources: 49
 
 ### Summary of changes:
 
-+ New terms
-+ New sources
++ Added 52 new terms
++ Added 4 new sources
 + Updated and expanded dozens of existing entries
 + Not released publicly
 
@@ -97,8 +97,8 @@ Sources: 45
 
 ### Summary of changes:
 
-+ New terms
-+ New sources
++ Added 31 new terms
++ Added 5 new sources
 + Updated and expanded dozens of existing entries
 
 ## 18 December 2001
@@ -109,8 +109,8 @@ Sources: 40
 
 ### Summary of changes:
 
-+ New terms
-+ New sources
++ Added 24 new terms
++ Added 2 new sources
 + Updated and expanded dozens of existing entries
 
 ## 30 October 2001
@@ -121,8 +121,8 @@ Sources: 38
 
 ### Summary of changes:
 
-+ New terms
-+ New sources
++ Added 17 new terms
++ Added 4 new sources
 + Updated and expanded dozens of existing entries
 
 ## 25 September 2001
@@ -133,8 +133,8 @@ Sources: 34
 
 ### Summary of changes:
 
-+ New terms
-+ New sources
++ Added 15 new terms
++ Added 3 new sources
 + Updated and expanded dozens of existing entries
 
 ## 25 June 2001
@@ -145,8 +145,8 @@ Sources: 31
 
 ### Summary of changes:
 
-+ New terms
-+ New sources
++ Added 46 new terms
++ Added 6 new sources
 + Updated and expanded dozens of existing entries
 
 ## 31 May 2001
