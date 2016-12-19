@@ -20,6 +20,7 @@ Related:
 - /terms/database
 - /terms/notable
 - /terms/revelar-connection-utility
+- /terms/sloup
 - /terms/soup
 
 ----
