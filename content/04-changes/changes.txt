@@ -14,6 +14,16 @@ Incremental changes and updates can be found in the project’s [commit log](htt
 
 ## Current Release
 
+Version: 2.2.1
+Terms: _$t
+Sources: _$s
+
+### Summary of changes:
+
++ Updated [Kirby](https://getkirby.com/) to version 2.4.1
+
+## 19 December 2016
+
 Version: 2.2.0
 Terms: 971
 Sources: 90
