@@ -15,12 +15,12 @@ Incremental changes and updates can be found in the project’s [commit log](htt
 ## Current Release
 
 Version: 2.2.0
-Terms: _$t
-Sources: _$s
+Terms: 971
+Sources: 90
 
 ### Summary of changes:
 
-+ Added new terms
++ Added 22 new terms
 + Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version 2.4.0
 + Fixed linespacing for inline code snippets
