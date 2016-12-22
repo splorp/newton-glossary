@@ -23,6 +23,10 @@ form {
 	margin-bottom: 20px;
 	}
 	
+input {
+	-webkit-appearance: none;
+	}
+
 input[type="search"] {
     border: 1px solid #ccc;
 	font-family: inherit;
