@@ -1,0 +1,13 @@
+Title: SysPatch
+
+----
+
+Text:
+
+See [System Patch](/terms/system-patch)
+
+----
+
+Source:
+
+- /sources/richard-li

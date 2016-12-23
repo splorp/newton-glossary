@@ -4,7 +4,7 @@ Title: Richard C. L. Li
 
 Text:
 
-Richard Li was a member of [HKNUG](/terms/hknug) and developer of [Newton OS](/terms/newton-os) software, including [UnixNPI](/terms/unixnpi).
+Richard Li was a member of [HKNUG](/terms/hknug) and developer of [Newton OS](/terms/newton-os) software, including [UnixNPI](/terms/unixnpi) and [System Patch](/terms/system-patch).
 
 ## Additional Information
 

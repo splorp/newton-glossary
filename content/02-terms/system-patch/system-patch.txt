@@ -4,4 +4,25 @@ Title: System Patch
 
 Text:
 
-See [System Update](/terms/system-update)
+A software [extension](/terms/extension) for [Newton OS](/terms/newton-os) created by [Richard Li](/sources/richard-li) which addresses several bugs introduced in version 2.1 of the [operating system](/terms/operating-system). The [package](/terms/package) containing the System Patch software was actually named [SysPatch](/terms/syspatch).
+
+An system patch is also known as a [system update](/terms/system-update).
+
+Additional Information:
+
+[Internet Archive: System Patch Product Information](https://web.archive.org/web/20120311060701/http://www.ee.cityu.edu.hk/~clli/syspatch.html)
+
+----
+
+Related:
+
+- /terms/extension
+- /terms/patch
+- /terms/syspatch
+- /terms/system-update
+
+----
+
+Source:
+
+- /sources/richard-li

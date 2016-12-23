@@ -10,6 +10,7 @@ A small piece of code designed to modify or update certain aspects of an [operat
 
 Related:
 
+- /terms/extension
 - /terms/jumptable
 - /terms/patchable-jumptable
 - /terms/public-jumptable

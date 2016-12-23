@@ -10,6 +10,7 @@ A small software [patch](/terms/patch) that is installed on a Newton device to m
 
 Related:
 
+- /terms/extension
 - /terms/patch
 - /terms/system-patch
 

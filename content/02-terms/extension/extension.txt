@@ -11,3 +11,6 @@ A [package](/terms/package) that adds some sort of functionality to the [operati
 Related:
 
 - /terms/package
+- /terms/patch
+- /terms/system-patch
+- /terms/system-update
