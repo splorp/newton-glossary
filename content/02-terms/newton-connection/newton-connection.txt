@@ -21,6 +21,7 @@ Related:
 - /terms/nbk
 - /terms/nbku
 - /terms/ncx
+- /terms/newten
 - /terms/newton-backup-express
 - /terms/newton-backup-utility
 - /terms/newton-connection-kit
@@ -29,6 +30,7 @@ Related:
 - /terms/package-installer
 - /terms/restore
 - /terms/synchronize
+- /terms/unixnpi
 
 ----
 

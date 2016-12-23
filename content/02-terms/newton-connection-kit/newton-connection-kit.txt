@@ -11,6 +11,7 @@ Software developed by [Apple](http://www.apple.com/) that allows the user to exc
 Related:
 
 - /terms/nck
+- /terms/newten
 - /terms/newton-backup-express
 - /terms/newton-backup-utility
 - /terms/newton-connection
@@ -19,6 +20,7 @@ Related:
 - /terms/package-installer
 - /terms/synchronize
 - /terms/workfile
+- /terms/unixnpi
 
 ----
 

@@ -15,6 +15,7 @@ Related:
 - /terms/nbe
 - /terms/nbx
 - /terms/newtbx
+- /terms/newten
 - /terms/newton-backup-utility
 - /terms/newton-connection
 - /terms/newton-connection-kit
@@ -22,6 +23,7 @@ Related:
 - /terms/newton-package-installer
 - /terms/package-installer
 - /terms/restore
+- /terms/unixnpi
 
 ----
 

@@ -10,6 +10,7 @@ Software developed by [Apple](http://www.apple.com/) that allows the user to ins
 
 Related:
 
+- /terms/newten
 - /terms/newton-backup-express
 - /terms/newton-backup-utility
 - /terms/newton-connection
@@ -17,6 +18,7 @@ Related:
 - /terms/newton-connection-utilities
 - /terms/npi
 - /terms/package-installer
+- /terms/unixnpi
 
 ----
 
