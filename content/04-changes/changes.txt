@@ -20,6 +20,9 @@ Sources: _$s
 
 ### Summary of changes:
 
++ Added new terms
++ Added new source
++ Updated and expanded several existing entries
 + Updated [Kirby](https://getkirby.com/) to version 2.4.1
 
 ## 19 December 2016

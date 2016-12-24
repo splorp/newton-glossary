@@ -8,7 +8,7 @@ A software [extension](/terms/extension) for [Newton OS](/terms/newton-os) creat
 
 An system patch is also known as a [system update](/terms/system-update).
 
-Additional Information:
+## Additional Information:
 
 [Internet Archive: System Patch Product Information](https://web.archive.org/web/20120311060701/http://www.ee.cityu.edu.hk/~clli/syspatch.html)
 
