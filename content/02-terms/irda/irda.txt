@@ -6,7 +6,7 @@ Text:
 
 Infrared Data Association
 
-An industry body developing standards for [infrared](/terms/infrared) data transfer. Also the [infrared](/terms/infrared) communications [protocol](/terms/protocol) standard used in later [Newton OS](/terms/newton-os) devices.
+An industry body developing standards for [infrared](/terms/infrared) data transfer. Also the [infrared](/terms/infrared) communications [protocol](/terms/protocol) standard used in later Newton devices.
 
 ## Additional Information
 
