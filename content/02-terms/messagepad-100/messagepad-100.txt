@@ -18,6 +18,7 @@ The code names for the MessagePad 100 were [Wedge](/terms/wedge) and [Junior](/t
 Related:
 
 - /terms/batman
+- /terms/batman-concept
 - /terms/batmobile
 - /terms/junior
 - /terms/messagepad

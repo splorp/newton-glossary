@@ -11,6 +11,7 @@ The model number of the [Original MessagePad](/terms/original-messagepad) and th
 Related:
 
 - /terms/batman
+- /terms/batman-concept
 - /terms/batmobile
 - /terms/junior
 - /terms/messagepad

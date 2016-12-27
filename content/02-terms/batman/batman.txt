@@ -4,17 +4,19 @@ Title: Batman
 
 Text:
 
-The code name of one of the original design concepts for the [MessagePad](/terms/messagepad) incorporating a automotive-inspired hood or cowl-shaped lid. Also referred to as the [Batmobile](/terms/batmobile) prototype.
+The code name of the original design concepts for the [MessagePad](/terms/messagepad), featuring a “dark, sleek and sculpted aesthetic” and incorporating a automotive-inspired hood or cowl-shaped lid. Also referred to as the [Batman Concept](/terms/batman-concept) and [Batmobile](/terms/batmobile) prototype.
 
 ## Additional Information
 
 [Flickr: Jim Abeles’ Newton "Batmobile" Prototype](https://www.flickr.com/photos/abeles/albums/72157647163122306)
 [Flickr: Grant Hutchinson’s Newton "Batmobile" Prototype](https://www.flickr.com/photos/splorp/albums/72157623119595469)
+[Wired: Remembering the Apple Newton’s Prophetic Failure and Lasting Impact](https://www.wired.com/2013/08/remembering-the-apple-newtons-prophetic-failure-and-lasting-ideals/)
 
 ----
 
 Related:
 
+- /terms/batman-concept
 - /terms/batmobile
 - /terms/h1000
 - /terms/junior
@@ -29,3 +31,4 @@ Related:
 Source:
 
 - /sources/appledesign
+- /sources/wired

@@ -18,6 +18,7 @@ The term “Original MessagePad” can also refer to any non-upgraded MessagePad
 Related:
 
 - /terms/batman
+- /terms/batman-concept
 - /terms/batmobile
 - /terms/h1000
 - /terms/junior
