@@ -37,16 +37,15 @@ input[type="search"] {
 	}
 	
 input[type="submit"] {
-background-color: #444;
-	font-family: inherit;
-	font-family: inherit;
-	padding: .5em 1em;
+	background-color: #444;
 	border-radius: 0.3em;
 	border: none;
 	color: #FFF;
 	display: inline-block;
+	font-family: inherit;
 	font-size: 1em;
 	font-weight: bold;
+	padding: .5em 1em;
 	text-align: center;
 	text-decoration: none;
 	vertical-align: middle;
@@ -66,7 +65,7 @@ a,
 a:hover,
 a:active,
 a:visited {
-	outline: 0px;
+	outline: none;
 	}
 
 a:hover {
@@ -75,15 +74,18 @@ a:hover {
 	}
 
 img {
-	border: 0;
-	outline: 0;
+	border: 1px solid #DDD;
+    display: block;
+    margin: 2em auto;
+    outline: none;
+    padding: 1em;
 	}
 
 h1 {
 	color: #444;
-	font-size: 28px;
+	font-size: 30px;
 	line-height: 40px;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 	}
 
 h2 {
@@ -113,7 +115,7 @@ blockquote {
 	}
 	
 p {
-	margin-bottom: 20px;
+	margin-bottom: 15px;
 	}
 
 code {
@@ -154,15 +156,6 @@ article ul.rslt li:last-child {
 	border-bottom: none;
 	padding-bottom: 0;
 	margin-bottom: 0;
-	}
-
-article h2 {
-	float: none;
-	}
-
-header h1 {
-	font-size: 32px;
-	margin-bottom: 10px;
 	}
 
 nav {
@@ -280,8 +273,7 @@ footer a:hover {
 		width: 90%;
 		}
 
-	h1,
-	header h1 {
+	h1 {
 		font-size: 20px;
 		line-height: 40px;
 		margin-bottom: 10px;
