@@ -10,8 +10,7 @@ A code name of the processor chip developed by AT&amp;T, originally targeted to 
 
 Related:
 
-- /terms/arm
-- /terms/risc
+- /terms/central-processing-unit
 - /terms/strongarm
 
 ----

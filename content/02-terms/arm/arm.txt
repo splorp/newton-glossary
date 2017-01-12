@@ -19,7 +19,7 @@ _This entry require updates regarding iOS processors and history._
 Related:
 
 - /terms/better-disarm
-- /terms/hobbit
+- /terms/central-processing-unit
 - /terms/risc
 - /terms/rough-disarm
 - /terms/strongarm

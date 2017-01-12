@@ -8,14 +8,14 @@ Reduced Instruction Set Computer
 
 A processor designed to execute a rapid sequence of simple instructions rather than a large variety of complex instructions.
 
+The [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices use a [StrongARM](/terms/strongarm) RISC processor.
+
 ----
 
 Related:
 
 - /terms/arm
 - /terms/central-processing-unit
-- /terms/cpu
-- /terms/risc
 - /terms/strongarm
 
 ----

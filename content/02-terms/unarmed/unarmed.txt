@@ -20,6 +20,7 @@ Related:
 - /terms/newton-bowels
 - /terms/rom
 - /terms/rough-disarm
+- /terms/strongarm
 
 ----
 
