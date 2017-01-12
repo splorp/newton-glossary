@@ -15,6 +15,7 @@ Related:
 - /terms/ethertalk
 - /terms/local-area-network
 - /terms/localtalk
+- /terms/network-interface-card
 - /terms/protocol
 - /terms/rj-45
 

@@ -4,4 +4,4 @@ Title: NIC
 
 Text:
 
-See [Newton Interconnect](/terms/newton-interconnect)
+See [Network Interface Card](/terms/network-interface-card) and [Newton Interconnect](/terms/newton-interconnect)

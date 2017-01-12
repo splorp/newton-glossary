@@ -1,10 +1,10 @@
-Title: Storage Card
+Title: Network Interface Card
 
 ----
 
 Text:
 
-Any type of removable [PC card](/terms/pc-card) used for storing data.
+A removable [PC card](/terms/pc-card) that provides a physical connection to a network, generally via [ethernet](/terms/ethernet). Also referred to as a [NIC](/terms/nic).
 
 ----
 
@@ -13,18 +13,22 @@ Related:
 - /terms/accessory-card
 - /terms/application-card
 - /terms/card
-- /terms/cf-card
 - /terms/combo-card
-- /terms/compactflash
-- /terms/external-store
+- /terms/ethernet
 - /terms/flash-card
-- /terms/flash-ram
 - /terms/memory-card
 - /terms/messaging-card
-- /terms/network-interface-card
 - /terms/newton-messaging-card
+- /terms/nic
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/protection-card
 - /terms/slot
 - /terms/slot-jam
+- /terms/storage-card
+
+----
+
+Source:
+
+- /sources/foldoc

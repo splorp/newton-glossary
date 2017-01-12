@@ -24,6 +24,7 @@ Related:
 - /terms/flash-card
 - /terms/memory-card
 - /terms/messaging-card
+- /terms/network-interface-card
 - /terms/newscard
 - /terms/passcode
 - /terms/pc-card
