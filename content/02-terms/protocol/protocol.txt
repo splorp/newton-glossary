@@ -15,6 +15,7 @@ Related:
 - /terms/ask
 - /terms/dante
 - /terms/dhcp
+- /terms/ethertalk
 - /terms/ip
 - /terms/irda
 - /terms/localtalk
