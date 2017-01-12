@@ -6,9 +6,9 @@ Text:
 
 Advanced RISC Machines
 
-The company that produced the processors used in Newton devices.
+The company that produced the [RISC](/terms/risc) processors used in Newton devices.
 
-_This entry require updates regarding iOS processors and history._
+Early [MessagePad](/terms/messagepad) devices use a 20 MHz ARM 610 processor, whereas the [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices use a more powerful 160 MHz [StrongARM](/terms/strongarm) processor. The [eMate 300](/terms/emate-300) uses a 25 MHz ARM 710a processor.
 
 ## Additional Information
 
