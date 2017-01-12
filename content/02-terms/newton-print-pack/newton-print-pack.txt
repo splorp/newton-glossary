@@ -6,6 +6,10 @@ Text:
 
 Developed by [Apple](http://www.apple.com/), the Newton Print Pack was originally a serial to parallel adapter with built-in, ROM-based drivers that allowed a user to print from a Newton device to various desktop printers. A later version of the Newton Print Pack was entirely software based and could be used with third party adapters and cables. Also referred to as [Print Pack](/terms/print-pack) and [NPP](/terms/npp).
 
+## Additional Information
+
+[The Newted Community: Using the Newton Print Pack](http://www.newted.org/download/manuals/0330870ANWTNPRPK.PDF) (PDF)
+
 ----
 
 Related:
