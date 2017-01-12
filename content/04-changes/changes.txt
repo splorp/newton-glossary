@@ -21,9 +21,10 @@ Sources: _$s
 ### Summary of changes:
 
 + Added new terms
-+ Added new source
-+ Updated and expanded several existing entries
++ Added new sources
++ Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version 2.4.1
++ Tweaked image display on individual [Terms](/terms) and [Sources](/sources)
 
 ## 19 December 2016
 

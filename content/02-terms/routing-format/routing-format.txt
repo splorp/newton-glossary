@@ -4,7 +4,7 @@ Title: Routing Format
 
 Text:
 
-A [frame](/terms/frame) that describes how to format an [object](/terms/object) that is to be sent (or routed). Examples include print routing formats — which describe how to visually format data — and frame routing formats — which describe the internal structure of a frame.
+A [frame](/terms/frame) that describes how to format an [object](/terms/object) that is to be sent (or routed). Examples include print routing formats which describe how to visually format data and frame routing formats which describe the internal structure of a frame.
 
 ----
 
