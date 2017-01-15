@@ -7,4 +7,3 @@ Description: Search the glossary for terms, sources, and othe information.
 ----
 
 Text:
-

@@ -5,4 +5,3 @@ Title: Datebook
 Text:
 
 See [Date Book](/terms/date-book)
-

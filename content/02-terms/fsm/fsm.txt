@@ -4,7 +4,7 @@ Title: FSM
 
 Text:
 
-See [Finite-State Machine](/terms/finite-state-machine)
+See [Finite State Machine](/terms/finite-state-machine)
 
 ----
 
