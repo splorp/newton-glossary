@@ -12,6 +12,7 @@ Related:
 
 - /terms/callback-spec
 - /terms/endpoint-option
+- /terms/finite-state-machine
 - /terms/input
 - /terms/input-spec
 - /terms/option-frame

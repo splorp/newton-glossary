@@ -1,0 +1,13 @@
+Title: FSM
+
+----
+
+Text:
+
+See [Finite-State Machine](/terms/finite-state-machine)
+
+----
+
+Source:
+
+- /sources/newton-technology-journal

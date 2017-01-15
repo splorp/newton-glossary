@@ -10,6 +10,7 @@ A named section of a computer program that performs a specific task and may or m
 
 Related:
 
+- /terms/finite-state-machine
 - /terms/function-object
 - /terms/function-stack-call
 - /terms/global
