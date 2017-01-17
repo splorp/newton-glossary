@@ -1,0 +1,25 @@
+Title: Newton Serial Adapter
+
+----
+
+Text:
+
+An adapter that plugs into the proprietary [Newton Interconnect](/terms/newton-interconnect) port found on [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate](/terms/emate-300) devices, converting it to a standard [Mini-Din](/terms/mini-din) serial connector.
+
+Colloquially referred to as a [dongle](/terms/dongle).
+
+----
+
+Related:
+
+- /terms/dongle
+- /terms/dongle-destroyer
+- /terms/mini-din
+- /terms/newton-interconnect
+- /terms/ser-001
+
+----
+
+Source:
+
+- /sources/grant-hutchinson

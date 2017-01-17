@@ -1,0 +1,30 @@
+Title: SER-001
+
+----
+
+Text:
+
+An internal circuit board for [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices developed by [David Humphreys](/sources/david-humphreys). When installed, it provides a standard [Mini-DIN](/terms/mini-din) port, eliminating the need for a [Newton Serial Adapter](/terms/newton-serial-adapter) plugged into the proprietary [Newton Interconnect](/terms/newton-interconnect).
+
+Also referred to as a [dongle destroyer](/terms/dongle-destroyer).
+
+## Additional Information
+
+[Internet Archive: SER-001 Product Information](https://web.archive.org/web/20040611132321/http://mrpcbman.tripod.com/SER-001.htm)
+
+----
+
+Related:
+
+- /terms/dongle
+- /terms/dongle-destroyer
+- /terms/mini-din
+- /terms/newton-interconnect
+- /terms/newton-serial-adapter
+- /terms/pcbman
+
+----
+
+Source:
+
+- /sources/david-humphreys
