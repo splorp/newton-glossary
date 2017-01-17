@@ -13,8 +13,6 @@ A hardware interface standard for low speed, serial peripherals such as keyboard
 Related:
 
 - /terms/din
-- /terms/dongle
-- /terms/dongle-destroyer
 - /terms/geoport
 - /terms/mini-din
 - /terms/newton-interconnect
