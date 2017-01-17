@@ -5,7 +5,7 @@
 
 [newtonglossary.com](http://newtonglossary.com/)
 
-See the [about](http://glossary.splorp.me/about) page for more information.
+See the [about](http://newtonglossary.com/about) page for more information.
 
 Suggestions or corrections?
 
@@ -15,4 +15,4 @@ Follow us on Twitter.
 
 [@newtonglossary](http://twitter.com/newtonglossary)
 
-Copyright © 2001–2016 Grant Hutchinson
+Copyright © 2001–2017 Grant Hutchinson
