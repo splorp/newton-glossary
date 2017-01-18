@@ -14,12 +14,13 @@ The unique 26-pin port manufactured by [JAE](/terms/jae) and found on the [Messa
 
 Related:
 
+- /terms/appletalk
 - /terms/auto-dock
 - /terms/dongle
 - /terms/dongle-destroyer
 - /terms/jae
+- /terms/newton-serial-adapter
 - /terms/nic
-- /terms/usb
 
 ----
 

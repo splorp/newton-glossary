@@ -12,7 +12,6 @@ Related:
 
 - /terms/geoport
 - /terms/rs-422
-- /terms/usb
 
 ----
 

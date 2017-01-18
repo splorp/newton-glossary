@@ -17,7 +17,6 @@ Related:
 - /terms/mini-din
 - /terms/newton-interconnect
 - /terms/newton-serial-adapter
-- /terms/usb
 
 ----
 

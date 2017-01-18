@@ -10,7 +10,6 @@ A standard for serial communication between computers and peripheral devices tha
 
 Related:
 
-- /terms/appletalk
 - /terms/geoport
 - /terms/mini-din
 - /terms/rs-232

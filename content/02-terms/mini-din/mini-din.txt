@@ -16,7 +16,6 @@ Related:
 - /terms/dongle-destroyer
 - /terms/newton-interconnect
 - /terms/newton-serial-adapter
-- /terms/usb
 
 ----
 

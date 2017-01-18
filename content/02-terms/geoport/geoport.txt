@@ -16,7 +16,6 @@ Related:
 
 - /terms/rs-232
 - /terms/rs-422
-- /terms/usb
 
 ----
 
