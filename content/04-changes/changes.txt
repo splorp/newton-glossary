@@ -24,7 +24,7 @@ Sources: _$s
 + Added new sources
 + Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version 2.4.1
-+ Tweaked image display on individual [Terms](/terms) and [Sources](/sources)
++ Tweaked image display on individual [terms](/terms) and [sources](/sources)
 
 ## 19 December 2016
 
@@ -51,7 +51,7 @@ Sources: 90
 + Added 7 new sources
 + Updated and expanded dozens of existing entries
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.0.9
-+ Numerical entries now appear at the top of the [Terms](/terms) and [Sources](/sources) pages
++ Numerical entries now appear at the top of the [terms](/terms) and [sources](/sources) pages
 + Focus is now automatically set on the [search](/search) field
 
 ## 27 October 2016
@@ -69,7 +69,7 @@ Sources: 83
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.0.8
 + Implemented [Cachebuster](https://github.com/getkirby-plugins/cachebuster-plugin) plugin to add timestamps to .css and .js files
 + Deprecated [Related Pages](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) plugin
-+ Fixed outdated links on [About](/about) page
++ Fixed outdated links on the [about](/about) page
 + Added rudimentary [search](/search) functionality
 + Simplified previous and next page navigation
 
@@ -100,7 +100,7 @@ Sources: 49
 
 + Added 52 new terms
 + Added 4 new sources
-+ Updated and expanded dozens of existing entries
++ Updated and expanded numerous existing entries
 + Not released publicly
 
 ## 06 October 2002
@@ -113,7 +113,7 @@ Sources: 45
 
 + Added 31 new terms
 + Added 5 new sources
-+ Updated and expanded dozens of existing entries
++ Updated and expanded numerous existing entries
 
 ## 18 December 2001
  
@@ -125,7 +125,7 @@ Sources: 40
 
 + Added 24 new terms
 + Added 2 new sources
-+ Updated and expanded dozens of existing entries
++ Updated and expanded numerous existing entries
 
 ## 30 October 2001
  
@@ -137,7 +137,7 @@ Sources: 38
 
 + Added 17 new terms
 + Added 4 new sources
-+ Updated and expanded dozens of existing entries
++ Updated and expanded numerous existing entries
 
 ## 25 September 2001
  
@@ -149,7 +149,7 @@ Sources: 34
 
 + Added 15 new terms
 + Added 3 new sources
-+ Updated and expanded dozens of existing entries
++ Updated and expanded numerous existing entries
 
 ## 25 June 2001
  
@@ -161,7 +161,7 @@ Sources: 31
 
 + Added 46 new terms
 + Added 6 new sources
-+ Updated and expanded dozens of existing entries
++ Updated and expanded numerous existing entries
 
 ## 31 May 2001
  
