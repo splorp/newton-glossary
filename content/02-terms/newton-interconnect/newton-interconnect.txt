@@ -9,7 +9,7 @@ The unique 26-pin port manufactured by [JAE](/terms/jae) and found on the [Messa
 ## Additional Information
 
 [David Arnold: Newton Interconnect Resources](http://www.0x1.org/d/stuff/newton/interconnect/)
-
+[Internet Archive: PDAs: A Study in Contrasts](http://web.archive.org/web/20070207103847/http://pd.pennnet.com/Articles/Article_Display.cfm?Section=Archives&Subsection=Display&ARTICLE_ID=52439)
 ----
 
 Related:
@@ -27,3 +27,4 @@ Related:
 Source:
 
 - /sources/grant-hutchinson
+- /sources/portable-design
