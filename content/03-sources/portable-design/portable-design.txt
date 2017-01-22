@@ -4,7 +4,7 @@ Title: Portable Design
 
 Text:
 
-A trade magazine focused on providing engineering solutions and solving problems unique to the design of portable products, including the [Personal Digital Assistant](/terms/personal-digital-assistant). Originally published by [PennWell Corporation](http://www.pennwell.com/) between 1995 and 2007, _Portable Design_ was eventually acquired by [RTC Group](http://www.rtcgroup.com/), finally shuttering the publication in 2009.
+A trade magazine focused on providing engineering solutions and problem solving related to the design of portable products, including device such as the [personal digital assistant](/terms/personal-digital-assistant). Originally published by [PennWell Corporation](http://www.pennwell.com/) starting in 1995, _Portable Design_ was acquired by [RTC Group](http://www.rtcgroup.com/) in 2007. The publication was finally [shuttered in 2009](http://www.portabledesign.com/).
 
 ## Additional Information
 
