@@ -4,12 +4,19 @@ Title: Llama
 
 Text:
 
-The unofficial mascot of the Apple’s [Developer Technical Services](/terms/developer-technical-services) team within the [Newton Systems Group](/terms/newton-systems-group). Llama is also used as an example of a valid [application](/terms/application) name and [application signature](/terms/application-signature) in the [Newton Programmer’s Guide](/terms/newton-programmers-guide).
+The unofficial mascot of the Apple’s [Developer Technical Services](/terms/developer-technical-services) team within the [Newton Systems Group](/terms/newton-systems-group). [Maurice Sharp](/sources/maurice-sharp), otherwise known as [Dr Llama](/terms/dr-llama), wrote a Newton-related column entitled [Ask The Llama](/terms/ask-the-llama) for Apple’s developer publications.
+
+Llama is also used as an example of a valid [application](/terms/application) name and [application signature](/terms/application-signature) in the [Newton Programmer’s Guide](/terms/newton-programmers-guide).
+
+## Additional Information
+
+[MacTech: Newton Q & A: Ask The Llama](http://www.mactech.com/articles/develop/issue_26/newtonqa.html)
 
 ----
 
 Related:
 
+- /terms/ask-the-llama
 - /terms/developer-technical-services
 - /terms/dr-llama
 - /terms/llama-dos

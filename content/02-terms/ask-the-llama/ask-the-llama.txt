@@ -1,0 +1,27 @@
+Title: Ask The Llama
+
+----
+
+Text:
+
+A technical question and answer column written by [Maurice Sharp](/sources/maurice-sharp), otherwise known as [Dr Llama](/terms/dr-llama), for Apple’s developer publications.
+
+## Additional Information
+
+[MacTech: Newton Q & A: Ask The Llama](http://www.mactech.com/articles/develop/issue_26/newtonqa.html)
+
+----
+
+Related:
+
+- /terms/developer-technical-services
+- /terms/dr-llama
+- /terms/llama
+- /terms/llama-dos
+- /terms/newton-systems-group
+
+----
+
+Source:
+
+- /sources/apple-developer-connection
