@@ -4,7 +4,9 @@ Title: Newton Book Maker
 
 Text:
 
-An [application](/terms/application) that processes a [book source file](/terms/book-source-file) to produce a [book definition file](/terms/book-definition-file).
+Software developed by [Apple](http://www.apple.com/) for creating electronic documents in [Newton book](/terms/newton-book) format and online help for Newton [applications](/terms/application). Newton Book Maker uses text-based [book maker commands](/terms/book-maker-commands) contained in a [book source file](/terms/book-source-file) to produce a [book definition file](/terms/book-definition-file).
+
+Bookmaker commands allow the developer to provide additional functionality or control over the page layout of a book. Book Maker also provides a means to attach other data, [methods](/terms/method), and view [templates](/terms/template) to book content.
 
 ----
 
@@ -14,6 +16,7 @@ Related:
 - /terms/book-source-file
 - /terms/book-maker
 - /terms/book-maker-commands
+- /terms/command
 - /terms/help-book
 - /terms/help-browser
 - /terms/nbm
@@ -26,3 +29,4 @@ Related:
 Source:
 
 - /sources/newton-book-maker
+- /sources/newton-programmers-guide

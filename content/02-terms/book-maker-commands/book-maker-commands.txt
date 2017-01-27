@@ -14,6 +14,7 @@ Related:
 
 - /terms/book-commands
 - /terms/book-source-file
+- /terms/command
 - /terms/content-command
 - /terms/document-command
 - /terms/dot-commands

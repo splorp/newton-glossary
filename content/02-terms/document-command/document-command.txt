@@ -12,6 +12,7 @@ Related:
 
 - /terms/book-maker-commands
 - /terms/book-source-file
+- /terms/command
 - /terms/content-command
 - /terms/dot-commands
 - /terms/help-book
