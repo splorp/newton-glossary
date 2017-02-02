@@ -4,7 +4,7 @@ Title: Newton Associates Program
 
 Text:
 
-A defunct [Apple](http://www.apple.com/) development support program which provided low-cost, self-help resources to Newton developers. Also referred to as [NAP](/terms/nap).
+A defunct [Apple](http://www.apple.com/) support program which provided convenient and cost-effective technical and marketing resources to Newton developers. A more comprehensive [Newton Partners Program](/terms/newton-partners-program) was also available. The Newton Associates Program was preceded by the [PIE Partners Program](/terms/pie-partners-program). Also referred to as [NAP](/terms/nap).
 
 ----
 
@@ -16,9 +16,11 @@ Related:
 - /terms/newton-developer-support
 - /terms/newton-partners-program
 - /terms/newton-technology-journal
+- /terms/pie-partners-program
 
 ----
 
 Source:
 
+- /sources/apple-developer-handbook
 - /sources/newton-technology-journal

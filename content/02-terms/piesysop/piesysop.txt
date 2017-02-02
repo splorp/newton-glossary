@@ -1,0 +1,26 @@
+Title: PIESYSOP
+
+----
+
+Text:
+
+The [AppleLink](/terms/applelink) address for sending feedback to Newton developer resources, such as the [Newton Technology Journal](newton-technology-journal).
+
+----
+
+Related:
+
+- /terms/applelink
+- /terms/newton-associates-program
+- /terms/newton-developer-cd
+- /terms/newton-developer-support
+- /terms/newton-partners-program
+- /terms/newton-technology-journal
+- /terms/pie
+- /terms/pie-partners-program
+
+----
+
+Source:
+
+- /sources/apple-developer-handbook

@@ -4,4 +4,24 @@ Title: PIE
 
 Text:
 
-See [Personal Interactive Electronics](/terms/personal-interactive-electronics)
+Personal Interactive Electronics
+
+A short lived division of [Apple](http://www.apple.com/) which handled the development and marketing of the Newton platform. Apple’s support program for Newton developers was known as the [PIE Partners Program](/terms/pie-partners-program).
+
+----
+
+Related:
+
+- /terms/newton-associates-program
+- /terms/newton-developer-cd
+- /terms/newton-developer-support
+- /terms/newton-partners-program
+- /terms/pie-partners-program
+- /terms/piesysop
+- /terms/starcore
+
+----
+
+Source:
+
+- /sources/apple-developer-handbook

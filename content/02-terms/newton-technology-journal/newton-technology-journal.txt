@@ -19,6 +19,8 @@ Related:
 - /terms/newton-developer-support
 - /terms/newton-partners-program
 - /terms/ntj
+- /terms/pie
+- /terms/pie-partners-program
 
 ----
 

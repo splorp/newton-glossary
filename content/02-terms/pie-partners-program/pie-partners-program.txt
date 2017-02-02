@@ -1,0 +1,26 @@
+Title: PIE Partners Program
+
+----
+
+Text:
+
+A support program run by Apple’s short lived [PIE](/terms/pie) (Personal Interactive Electronics) division, providing technical, marketing, and distribution resources for Newton developers. The PIE Partners Program was superseded by the [Newton Associates Program](/terms/newton-associates-program) and the [Newton Partners Program](/terms/newton-partners-program) in 1995.
+
+----
+
+Related:
+
+- /terms/newton-associates-program
+- /terms/newton-developer-cd
+- /terms/newton-developer-support
+- /terms/newton-partners-program
+- /terms/newton-technology-journal
+- /terms/pie
+- /terms/piesysop
+- /terms/starcore
+
+----
+
+Source:
+
+- /sources/apple-developer-handbook
