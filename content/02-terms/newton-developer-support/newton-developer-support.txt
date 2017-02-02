@@ -15,6 +15,7 @@ Related:
 - /terms/llama
 - /terms/newton-associates-program
 - /terms/newton-developer-conference
+- /terms/newton-developer-cd
 - /terms/newton-partners-program
 - /terms/newton-technology-journal
 - /terms/pie-partners-program
