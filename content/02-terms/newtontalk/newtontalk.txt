@@ -20,6 +20,7 @@ The list is commonly referred to as simply [NTLK](/terms/ntlk).
 Related:
 
 - /terms/actfaq
+- /terms/newtontalking
 - /terms/ntlk
 - /terms/planet-newton
 - /terms/poutine

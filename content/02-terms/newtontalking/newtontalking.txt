@@ -1,0 +1,21 @@
+Title: NewtonTalking
+
+----
+
+Text:
+
+The act and process of discussion that occurs on the [NewtonTalk](/terms/newtontalk) mailing list.
+
+----
+
+Related:
+
+- /terms/actfaq
+- /terms/newtontalk
+- /terms/poutine
+
+----
+
+Source:
+
+- /sources/grant-hutchinson
