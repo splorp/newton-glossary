@@ -1,0 +1,22 @@
+Title: Chipset
+
+----
+
+Text:
+
+A collection of integrated circuits designed to be used together for some specific purpose or function. For example, early [MessagePad](/terms/messagepad) devices utilize the [Runt](terms/runt) chipset to control multiple hardware functions.
+
+----
+
+Related:
+
+- /terms/asic
+- /terms/runt
+- /terms/voyager
+- /terms/vlsi
+
+----
+
+Source:
+
+- /sources/foldoc

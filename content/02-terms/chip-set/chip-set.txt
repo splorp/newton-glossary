@@ -1,0 +1,7 @@
+Title: Chip Set
+
+----
+
+Text:
+
+See [Chipset](/terms/chipset)
