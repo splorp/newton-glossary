@@ -19,4 +19,7 @@ Related:
 
 ----
 
+Source:
+
 - /sources/newtontalk
+- /sources/paul-guyot
