@@ -25,6 +25,7 @@ Sources: _$s
 + Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version 2.4.1
 + Tweaked image display on individual [terms](/terms) and [sources](/sources)
++ Changed lists to use contextual singular and plural subheads
 + [Search](/search) now returns more useful results based on the title field
 
 ## 19 December 2016
