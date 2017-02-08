@@ -1,0 +1,26 @@
+Title: Jelly Bean Parts
+
+----
+
+Text:
+
+An assortment of individual electronic components which can be replaced by a single multifunction chip or [chipset](/terms/chipset). Mike Culbert, a member of the [Newton Systems Group](/terms/newton-systems-group), used the term to explain why Apple chose to use the [Voyager](/terms/voyager) chipset in later Newton devices.
+
+## Additional Information
+
+[Internet Archive: PDAs: A Study in Contrasts](http://web.archive.org/web/20070207103847/http://pd.pennnet.com/Articles/Article_Display.cfm?Section=Archives&Subsection=Display&ARTICLE_ID=52439)
+
+----
+
+Related:
+
+- /terms/asic
+- /terms/chipset
+- /terms/runt
+- /terms/voyager
+
+----
+
+Source:
+
+- /sources/portable-design

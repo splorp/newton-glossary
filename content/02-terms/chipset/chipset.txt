@@ -11,9 +11,10 @@ A collection of integrated circuits designed to be used together to provide spec
 Related:
 
 - /terms/asic
+- /terms/jelly-bean-parts
 - /terms/runt
-- /terms/voyager
 - /terms/vlsi
+- /terms/voyager
 
 ----
 

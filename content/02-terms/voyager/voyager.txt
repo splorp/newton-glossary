@@ -13,5 +13,6 @@ Related:
 - /terms/asic
 - /terms/chipset
 - /terms/cirrus
+- /terms/jelly-bean-parts
 - /terms/n2
 - /terms/runt
