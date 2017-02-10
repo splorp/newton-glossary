@@ -13,6 +13,7 @@ The standard routable data transmission [protocol](/terms/protocol) for networki
 Related:
 
 - /terms/dhcp
+- /terms/dns
 - /terms/ethernet
 - /terms/ip
 - /terms/newton-internet-enabler

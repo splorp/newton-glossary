@@ -13,6 +13,7 @@ Part of the [TCP/IP](/terms/tcp-ip) communications [protocol](/terms/protocol). 
 Related:
 
 - /terms/dhcp
+- /terms/dns
 - /terms/ip
 - /terms/newton-internet-enabler
 - /terms/protocol

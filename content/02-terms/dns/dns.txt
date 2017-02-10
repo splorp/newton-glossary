@@ -1,0 +1,27 @@
+Title: DNS
+
+----
+
+Text:
+
+Domain Name System
+
+A distributed service that translates the hostname or domain name of a network connected device into an [IP](/terms/ip) address.
+
+----
+
+Related:
+
+- /terms/dhcp
+- /terms/ethernet
+- /terms/ip
+- /terms/newton-internet-enabler
+- /terms/protocol
+- /terms/tcp
+- /terms/tcp-ip
+
+----
+
+Source:
+
+- /sources/foldoc

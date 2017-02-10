@@ -12,6 +12,7 @@ A [protocol](/terms/protocol) that dynamically allocates [IP](/terms/ip) address
 
 Related:
 
+- /terms/dns
 - /terms/ip
 - /terms/newton-internet-enabler
 - /terms/protocol
