@@ -13,7 +13,6 @@ _This entry requires a screenshot._
 Related:
 
 - /terms/casual
-- /terms/espy
 - /terms/font
 - /terms/font-size
 - /terms/font-spec

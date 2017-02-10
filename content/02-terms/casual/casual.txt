@@ -12,7 +12,6 @@ _This entry requires a screenshot._
 
 Related:
 
-- /terms/espy
 - /terms/fancy
 - /terms/font
 - /terms/font-size

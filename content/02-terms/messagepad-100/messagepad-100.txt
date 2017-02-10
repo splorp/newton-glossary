@@ -20,6 +20,7 @@ Related:
 - /terms/batman
 - /terms/batman-concept
 - /terms/batmobile
+- /terms/h1000
 - /terms/junior
 - /terms/messagepad
 - /terms/mp100
