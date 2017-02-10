@@ -4,9 +4,11 @@ Title: System
 
 Text:
 
-One of the default bitmap [fonts](/terms/font) used on the Newton. Derived from the [Espy](/terms/espy) family of sans serif typefaces originally designed for use in Apple’s less than spectacular [eWorld](/terms/eworld) online service.
+One of the default bitmap [fonts](/terms/font) on the Newton. System was derived from the [Espy](/terms/espy) family of proportionally spaced sans serif typefaces originally designed for use in Apple’s less than spectacular [eWorld](/terms/eworld) online service.
 
-System can also refer to the [operating system](/terms/operating-system) of a computer.
+_This entry requires a screenshot._
+
+System also refers to the [operating system](/terms/operating-system) of a computer.
 
 ----
 

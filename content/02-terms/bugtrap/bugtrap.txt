@@ -6,6 +6,8 @@ Text:
 
 A user friendly [debugging](/terms/debug) utility for [Newton OS](/terms/newton-os) developed by [Tactile Systems](/sources/tactile). BugTrap provides a simple way to determine which [application](/terms/application) on a Newton device is the source of a crash. The utility will generate a log of information which is automatically saved as a [notes](/terms/note) in the [Notepad](/terms/notepad) application.
 
+_This entry requires a screenshot._
+
 ## Additional Information
 
 [BugTrap Read Me](http://npds.free.fr/modules/utilities/BugTrap_Read_Me.txt)
