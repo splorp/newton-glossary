@@ -1,0 +1,31 @@
+Title: Casual
+
+----
+
+Text:
+
+One of the default bitmap [fonts](/terms/font) on the Newton. Casual is used when the [handwriting recognition](/terms/handwriting-recognition) engine converts printed text into [recognized text](/terms/recognized-text).
+
+_This entry requires a screenshot._
+
+----
+
+Related:
+
+- /terms/espy
+- /terms/fancy
+- /terms/font
+- /terms/font-size
+- /terms/font-spec
+- /terms/font-style
+- /terms/point
+- /terms/simple
+- /terms/styles
+- /terms/system
+- /terms/text-run
+
+----
+
+Source:
+
+- /sources/grant-hutchinson

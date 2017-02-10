@@ -11,6 +11,7 @@ The algorithmic conversion of handwritten or handprinted text into digital text.
 Related:
 
 - /terms/calligrapher
+- /terms/casual
 - /terms/cursive-recognizer
 - /terms/egg-freckles
 - /terms/hwr

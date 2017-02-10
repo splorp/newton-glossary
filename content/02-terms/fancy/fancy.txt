@@ -1,0 +1,31 @@
+Title: Fancy
+	
+----
+
+Text:
+
+One of the default bitmap [fonts](/terms/font) on the Newton. Fancy is a proportionally spaced serif typeface based on [Times Roman](https://en.wikipedia.org/wiki/Times_New_Roman).
+
+_This entry requires a screenshot._
+
+----
+
+Related:
+
+- /terms/casual
+- /terms/espy
+- /terms/font
+- /terms/font-size
+- /terms/font-spec
+- /terms/font-style
+- /terms/point
+- /terms/simple
+- /terms/styles
+- /terms/system
+- /terms/text-run
+
+----
+
+Source:
+
+- /sources/grant-hutchinson
