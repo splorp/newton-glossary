@@ -16,6 +16,7 @@ Related:
 - /terms/newton-connection-kit
 - /terms/newton-connection-utilities
 - /terms/newton-package-installer
+- /terms/newtonpkg
 - /terms/package
 - /terms/package-file
 - /terms/pkg
