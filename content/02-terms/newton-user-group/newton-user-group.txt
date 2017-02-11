@@ -21,6 +21,7 @@ Related:
 - /terms/misnic
 - /terms/msnug
 - /terms/nanug
+- /terms/nenug
 - /terms/ngn
 - /terms/nose
 - /terms/nug

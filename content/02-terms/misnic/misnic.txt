@@ -24,6 +24,7 @@ Related:
 - /terms/lanug
 - /terms/msnug
 - /terms/nanug
+- /terms/nenug
 - /terms/newton-user-group
 - /terms/ngn
 - /terms/nose
