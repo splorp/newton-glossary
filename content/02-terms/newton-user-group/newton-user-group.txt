@@ -22,10 +22,12 @@ Related:
 - /terms/msnug
 - /terms/nanug
 - /terms/nenug
+- /terms/ngfun
 - /terms/ngn
 - /terms/nose
 - /terms/nug
 - /terms/nugom
+- /terms/random
 - /terms/sane
 - /terms/snag
 - /terms/snug

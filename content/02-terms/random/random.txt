@@ -1,16 +1,16 @@
-Title: GFUN
+Title: RANDOM
 
 ----
 
 Text:
 
-Groupe Francophone des Utilisateurs de Newton
+Regroupement des Amis du Newton Dévoués Ostensiblement à leurs Machines
 
-A support community for French speaking Newton users operated by Dominique Benet. GFUN was superseded by the similarly named [NGFUN](/terms/NGFUN) (Nouveau Groupe des Utilisateurs Francophones de Newton).
+A support community for French speaking Newton users that superseded the [NGFUN](/terms/NGFUN) (Groupe Francophone des Utilisateurs de Newton) and [GFUN](/terms/GFUN) (Groupe Francophone des Utilisateurs de Newton) groups.
 
 ## Additional Information
 
-[Internet Archive: GFUN Website](https://web.archive.org/web/19991011023553/http://www.heliantis.fr/gfun/)
+[Internet Archive: RANDOM Website](https://web.archive.org/web/20031225203518/http://ngfun.free.fr/)
 
 ----
 
@@ -28,7 +28,6 @@ Related:
 - /terms/nanug
 - /terms/nenug
 - /terms/newton-user-group
-- /terms/ngfun
 - /terms/ngn
 - /terms/nose
 - /terms/nugom

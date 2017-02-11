@@ -28,10 +28,12 @@ Related:
 - /terms/msnug
 - /terms/nanug
 - /terms/newton-user-group
+- /terms/ngfun
 - /terms/ngn
 - /terms/nose
 - /terms/nugom
 - /terms/pondlife
+- /terms/random
 - /terms/sane
 - /terms/snag
 - /terms/snug

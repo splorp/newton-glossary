@@ -26,8 +26,10 @@ Related:
 - /terms/nanug
 - /terms/nenug
 - /terms/newton-user-group
+- /terms/ngfun
 - /terms/ngn
 - /terms/nose
+- /terms/random
 - /terms/sane
 - /terms/snag
 - /terms/snug
