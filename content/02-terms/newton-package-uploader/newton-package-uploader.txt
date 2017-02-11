@@ -13,6 +13,7 @@ Related:
 - /terms/newtonpkg
 - /terms/npu
 - /terms/package
+- /terms/package-file
 - /terms/pkg
 - /terms/toss
 
