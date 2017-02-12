@@ -2,8 +2,8 @@
 <?php snippet('menu') ?>
 
 <?php
-	$t = page('terms')->children()->count();
-	$s = page('sources')->children()->count();;
+	$t = number_format(page('terms')->children()->count());
+	$s = number_format(page('sources')->children()->count());
 	$p = str_replace('_$t', $t, $page->text());
 	$pp = str_replace('_$s', $s, $p);
 ?>
