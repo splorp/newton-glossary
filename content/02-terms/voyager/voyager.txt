@@ -4,7 +4,14 @@ Title: Voyager
 
 Text:
 
-The code name of the [ASIC](/terms/asic) chipset used in the [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate 300](/terms/emate-300) devices. The Voyager chip was developed by [Cirrus Logic](http://www.cirrus.com/), and the designation [Cirrus](/terms/cirrus) is sometimes used as a code name.
+The name of the [ASIC](/terms/asic) chipset developed by [Cirrus Logic](http://www.cirrus.com/) and used in the [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate 300](/terms/emate-300) devices. Officially known as the [CL-PS7000](/terms/cl-ps7000) chipset, Voyager consisted of four components including a [CPU](/terms/cpu) subsystem controller, an analogue controller, a [PCMCIA](/terms/pcmcia) controller, and an [infrared](/terms/infrared) transceiver.
+
+Voyager was sometimes referred to by the [Cirrus](/terms/cirrus) code name.
+
+## Additional Information
+
+[Internet Archive: Cirrus Logic Debuts Voyager Chipset](http://web.archive.org/web/19980111224604/http://www.cirrus.com/news/archive/fy1997/96.1028p.voyager.html)
+[Cirrus Logic Voyager CL-PS7000 Engineering Specification](http://www.warthman.com/projects-cirrus-logic-voyager-architectural-overview.htm)
 
 ----
 
@@ -13,6 +20,8 @@ Related:
 - /terms/asic
 - /terms/chipset
 - /terms/cirrus
+- /terms/cirrus-logic
+- /terms/cl-ps7000
 - /terms/jelly-bean-parts
 - /terms/n2
 - /terms/runt
