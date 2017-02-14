@@ -13,6 +13,7 @@ A custom [VLSI](/terms/vlsi) computer chip or [chipset](/terms/chipset) designed
 Related:
 
 - /terms/chipset
+- /terms/cl-ps7000
 - /terms/jelly-bean-parts
 - /terms/runt
 - /terms/vlsi
