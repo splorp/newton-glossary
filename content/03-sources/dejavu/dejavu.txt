@@ -1,0 +1,11 @@
+Title: DejaVu Software
+
+----
+
+Text:
+
+A software development company formed by Scott Harker and Jorj Bauer. Known for their inexpensive games and utilities such as [Ink Spot](/terms/ink-spot), Newt ‘Tris, and Deep Space Newt, DejaVu supported multiple handheld platforms including [Newton OS](/terms/newton-os), Palm OS, Windows CD, and iOS. The company finally shuttered operations in December 2015.
+
+## Additional Information
+
+[Internet Archive: DejaVu Software Website](https://web.archive.org/web/20061018021253/http://www.dejavusoftware.com/)
