@@ -30,6 +30,7 @@ Related:
 - /terms/ngfun
 - /terms/ngn
 - /terms/nose
+- /terms/nug-central
 - /terms/nugom
 - /terms/random
 - /terms/snag

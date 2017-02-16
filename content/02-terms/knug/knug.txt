@@ -29,6 +29,7 @@ Related:
 - /terms/ngfun
 - /terms/ngn
 - /terms/nose
+- /terms/nug-central
 - /terms/nugom
 - /terms/snag
 - /terms/snug

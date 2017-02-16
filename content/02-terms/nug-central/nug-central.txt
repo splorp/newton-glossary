@@ -1,16 +1,16 @@
-Title: HKNUG
+Title: NUG Central
 
 ----
 
 Text:
 
-Hong Kong Newton User Group
+Newton User Group Central
 
-A Chinese user group founded on July 1st, 1997 — the same day Hong Kong’s sovereignty was transferred from the United Kingdom to the People’s Republic of China.
+A joint effort between the [North Atlanta Newton Users Group](/terms/nanug) (NANUG) and the [Arizona Macintosh Users Group](http://www.amug.org/) (AMUG) that provided resources for Newton owners, developers, and other user groups.
 
 ## Additional Information
 
-[Internet Archive: HKNUG Website](https://web.archive.org/web/19990225162239/http://home.hkstar.com/~hknug/)
+[Internet Archive: NUG Central Website](https://web.archive.org/web/20021004004511/http://www.amug.org/nugcentral/)
 
 ----
 
@@ -20,6 +20,7 @@ Related:
 - /terms/dang
 - /terms/dnug
 - /terms/gfun
+- /terms/hknug
 - /terms/inug
 - /terms/knug
 - /terms/lanug
@@ -31,7 +32,7 @@ Related:
 - /terms/ngfun
 - /terms/ngn
 - /terms/nose
-- /terms/nug-central
+- /terms/nug
 - /terms/nugom
 - /terms/random
 - /terms/sane

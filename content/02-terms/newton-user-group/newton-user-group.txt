@@ -26,6 +26,8 @@ Related:
 - /terms/ngn
 - /terms/nose
 - /terms/nug
+- /terms/nug-central
+- /terms/nug-central
 - /terms/nugom
 - /terms/random
 - /terms/sane
