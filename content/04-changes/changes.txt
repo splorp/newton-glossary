@@ -18,6 +18,10 @@ Version: 2.2.2
 Terms: _$t
 Sources: _$s
 
+### Summary of changes:
+
++ Added new terms
+
 ## 16 January 2017
 
 Version: 2.2.1

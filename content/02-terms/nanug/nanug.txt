@@ -4,9 +4,9 @@ Title: NANUG
 
 Text:
 
-North Atlanta Newton Users Group.
+North Atlanta Newton Users Group
 
-This group also published the “_protoReality” newsletter.
+Founded in October 1993, NANUG was reportedly “the world’s largest Newton users group” at some point in time. The group also published the [protoReality](/terms/protoreality) newsletter between 1994 and 1996.
 
 ## Additional Information
 
@@ -33,6 +33,7 @@ Related:
 - /terms/nose
 - /terms/nug-central
 - /terms/nugom
+- /terms/protoreality
 - /terms/random
 - /terms/sane
 - /terms/snag
