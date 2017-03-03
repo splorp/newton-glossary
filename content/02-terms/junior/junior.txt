@@ -13,8 +13,6 @@ Junior was also one of the code names for the [MessagePad 100](/terms/messagepad
 Related:
 
 - /terms/batman
-- /terms/batman-concept
-- /terms/batmobile
 - /terms/h1000
 - /terms/messagepad
 - /terms/messagepad-100

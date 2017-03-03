@@ -10,6 +10,7 @@ A speculative, pen-based tablet computer concept that predated the original Newt
 
 Related:
 
+- /terms/batman
 - /terms/bunwarmer
 - /terms/bic
 - /terms/cadillac

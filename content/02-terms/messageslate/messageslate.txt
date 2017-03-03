@@ -10,6 +10,7 @@ A prototype Newton device featuring a larger, [tablet](/terms/tablet) style [scr
 
 Related:
 
+- /terms/batman
 - /terms/bunwarmer
 - /terms/bic
 - /terms/cadillac
