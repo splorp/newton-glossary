@@ -1,0 +1,34 @@
+Title: Bunwarmer
+
+----
+
+Text:
+
+Affectionate nickname for some of the first Newton development prototypes. So called because of their flat design and heat they generated, similar to the [coffee decanter warmers](https://web.archive.org/web/20140829081634/http://www.bunn.com/images/products/jpg/06310.0004_WX2.jpg) manufactured by the [Bunn-O-Matic Corporation](http://www.bunn.com/).
+
+Also referred to as a [Bunn Warmer](/terms/bunn-warmer).
+
+## Additional Information
+
+[Flickr: Grant Hutchinson’s Newton "Bunwarmer" Prototypes](https://www.flickr.com/photos/splorp/sets/72157680864389546)
+
+----
+
+Source:
+
+- /sources/newton-secrets
+ 
+----
+
+Related:
+
+- /terms/batman
+- /terms/bun-warmer
+- /terms/bunn-warmer
+- /terms/bic
+- /terms/cadillac
+- /terms/figaro
+- /terms/messageslate
+- /terms/mont-blanc
+- /terms/newton-plus
+- /terms/senior
