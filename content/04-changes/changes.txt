@@ -21,6 +21,8 @@ Sources: _$s
 ### Summary of changes:
 
 + Added new terms
++ Updated and expanded dozens of existing entries
++ Legacy domain links now redirect to [newtonglossary.com](http://newtonglossary.com/)
 
 ## 16 January 2017
 
