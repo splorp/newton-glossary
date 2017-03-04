@@ -88,6 +88,11 @@ h1 {
 	margin-bottom: 10px;
 	}
 
+header h1 {
+	font-size: 48px;
+	margin-bottom: 20px;
+	}
+
 h2 {
 	border-bottom: 1px #DDD solid;
 	color: #444;
@@ -245,6 +250,11 @@ footer a:hover {
 		margin-bottom: 20px;
 		}
 
+	header h1 {
+		font-size: 30px;
+		margin-bottom: 10px;
+		}
+
 	section.content {
 		margin-top: 20px;
 		}
@@ -273,9 +283,9 @@ footer a:hover {
 		width: 90%;
 		}
 
-	h1 {
+	h1,
+	header h1 {
 		font-size: 20px;
-		line-height: 40px;
 		margin-bottom: 10px;
 		}
 

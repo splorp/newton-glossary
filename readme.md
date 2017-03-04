@@ -1,5 +1,5 @@
 
-# The Newton Glossary
+# Newton Glossary
 
 ### An almost definitive guide to Newton-related terms and trivia.
 
