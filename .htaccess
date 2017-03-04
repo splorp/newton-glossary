@@ -1,52 +1,35 @@
 # Kirby .htaccess
 
-# rewrite rules
+# Rewrite rules
 <IfModule mod_rewrite.c>
 
-# enable awesome urls. i.e.:
-# http://yourdomain.com/about-us/team
 RewriteEngine on
 
-# make sure to set the RewriteBase correctly
-# if you are running the site in a subfolder.
-# Otherwise links or the entire site will break.
-#
-# If your homepage is http://yourdomain.com/mysite
-# Set the RewriteBase to:
-#
-# RewriteBase /mysite
 # Redirect legacy domain links
 RewriteCond %{HTTP_HOST} !.*newtonglossary\.com$ [NC]
 RewriteRule ^(.*)$ http://newtonglossary.com/$1 [R=301,L]
 
-# add modification timestamps to your css and js files via cachebuster.php plugin
+# Add modification timestamps to css and js files via Cachebuster plugin
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^(.+)\.(\d+)\.(js|css)$ $1.$3 [L]
 
-# block text files in the content folder from being accessed directly
+# Block text files in the content folder from being accessed directly
 RewriteRule ^content/(.*)\.(txt|md|mdown)$ index.php [L]
 
-# block all files in the site folder from being accessed directly
+# Block all files in the site folder from being accessed directly
 RewriteRule ^site/(.*) index.php [L]
 
-# block all files in the kirby folder from being accessed directly
+# Block all files in the kirby folder from being accessed directly
 RewriteRule ^kirby/(.*) index.php [L]
 
-# make panel links work
+# Make panel links work
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^panel/(.*) panel/index.php [L]
 
-# make site links work
+# Make site links work
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*) index.php [L]
 
 </IfModule>
-
-# Additional recommended values
-# Remove comments for those you want to use.
-#
-# AddDefaultCharset UTF-8
-#
-# php_flag short_open_tag on
