@@ -15,6 +15,9 @@ RewriteEngine on
 # Set the RewriteBase to:
 #
 # RewriteBase /mysite
+# Redirect legacy domain links
+RewriteCond %{HTTP_HOST} !.*newtonglossary\.com$ [NC]
+RewriteRule ^(.*)$ http://newtonglossary.com/$1 [R=301,L]
 
 # add modification timestamps to your css and js files via cachebuster.php plugin
 RewriteCond %{REQUEST_FILENAME} !-f
