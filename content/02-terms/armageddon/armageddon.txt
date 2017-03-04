@@ -4,7 +4,7 @@ Title: ARMageddon
 
 Text:
 
-One of two known NuBus-based cards that facilitated the running of a self-contained Newton development environment on a Macintosh [desktop computer](/terms/desktop-computer). [Apple](http://www.apple.com/) was to have produce these development cards in volume, but they proved to be expensive. It is thought that only about 50 were ever made. Shortly after they were introduced, prototype [MessagePad](/terms/messagepad) devices appeared which could be used for development. Special software on the Macintosh was also required to use these cards.
+One of two known NuBus-based cards that facilitated the running of a self-contained Newton development environment on a Macintosh [desktop computer](/terms/desktop-computer). [Apple](http://www.apple.com/) apparently planned to produce these cards in volume for developers, but they proved to be too expensive. It is believed that only 50 or so cards were ever made. Shortly after the cards were introduced, prototype [MessagePad](/terms/messagepad) devices appeared which could be used for development. [Debugger](/terms/debugger) software such as [Egger](/terms/egger) and [Hammer](/terms/hammer) was required in order to utilize these cards.
 
 The ARMageddon card preceded the [ARMistice](/terms/armistice) card. They were so named because of the [ARM](/terms/arm) processor used in the Newton hardware.
 
@@ -14,7 +14,8 @@ Related:
 
 - /terms/arm
 - /terms/armistice
-- /terms/messagepad
+- /terms/egger
+- /terms/hammer
 
 ----
 
