@@ -4,6 +4,6 @@ Title: Welcome.
 
 Text:
 
-Since its inception in 2001, the Newton Glossary has grown to include [_$t](/terms) terms, definitions, acronyms, colloquialisms, and bits of trivia. In its attempt to a provide singular resource, the Newton Glossary references [_$s](/sources) different online and print sources, including numerous individual members of the Newton community.
+Since its inception in 2001, the Newton Glossary has grown to include [_$t](/terms) terms, definitions, acronyms, colloquialisms, and bits of trivia, building on references from [_$s](/sources) different online and print sources, including members of the Newton community at large.
 
 This is a work in progress. Mind your head.
