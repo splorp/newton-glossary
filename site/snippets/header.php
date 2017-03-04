@@ -22,6 +22,6 @@
 
 	<body>
 		<header>
-			<h1><a href="<?php echo url() ?>"><?php echo html($site->title()) ?></a></h1>
+			<h1><a href="/"><?php echo html($site->title()) ?></a></h1>
 			<p><?php echo html($site->description()) ?></p>
 		</header>
