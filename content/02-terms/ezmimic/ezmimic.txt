@@ -1,0 +1,28 @@
+Title: EZMimic
+
+----
+
+Text:
+
+The term used by [EZShow Systems](/sources/ezshow-systems) to describe the screen mirroring functionality of their [EZ2TV](/terms/ez2tv) and [EZ2VGA](/terms/ez2vga) cards.
+
+## Additional Information
+
+[Internet Archive: EZ2TV Product Information](https://web.archive.org/web/19980201053229/http://ezshow.com/ez2tv.htm)
+
+----
+
+Related:
+
+- /terms/ez2tv
+- /terms/ez2vga
+- /terms/ezpresenter
+- /terms/ezshow
+- /terms/ezshowcard
+- /terms/ezxfer
+
+----
+
+Source:
+
+- /sources/ezshow-systems

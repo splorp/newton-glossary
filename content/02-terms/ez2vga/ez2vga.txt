@@ -15,6 +15,7 @@ A [PC card](/terms/pc-card) peripheral by [EZShow Systems](/sources/ezshow-syste
 Related:
 
 - /terms/ez2tv
+- /terms/ezmimic
 - /terms/ezpresenter
 - /terms/ezshow
 - /terms/ezshowcard

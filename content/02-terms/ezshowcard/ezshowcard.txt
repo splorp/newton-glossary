@@ -12,6 +12,7 @@ Related:
 
 - /terms/ez2tv
 - /terms/ez2vga
+- /terms/ezmimic
 - /terms/ezpresenter
 - /terms/ezshow
 - /terms/ezxfer
