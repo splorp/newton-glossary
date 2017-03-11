@@ -6,13 +6,14 @@ Text:
 
 Dreaded Hinge Problem
 
-Refers to the issue where the tension spring found in the hinge of an [eMate](/terms/emate-300) fails and causes a serious case of [floppy lid](/terms/floppy-lid).
+Refers to an issue where the hinge tension spring of an [eMate](/terms/emate-300) fails and causes a serious case of [floppy lid](/terms/floppy-lid).
 
 ----
 
 Related:
 
 - /terms/broink
+- /terms/clamshell
 - /terms/display
 - /terms/emate-300
 - /terms/floppy-lid

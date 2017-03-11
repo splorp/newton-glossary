@@ -1,0 +1,16 @@
+Title: Clamshell
+
+----
+
+Text:
+
+A computer case design consisting of a base and a hinged lid which mimic the appearance of a clam or similar bivalve mollusk. The [eMate 300](/terms/emate-300) features a translucent clamshell style case.
+
+----
+
+Related:
+
+- /terms/broink
+- /terms/dhp
+- /terms/emate-300
+- /terms/floppy-lid
