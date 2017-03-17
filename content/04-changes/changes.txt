@@ -22,6 +22,7 @@ Sources: _$s
 
 + Added new terms
 + Updated and expanded dozens of existing entries
++ Implemented [Kirby GA](https://github.com/jenstornell/kirby-ga) plugin for smart [Google Analytics](https://www.google.com/analytics/) integration
 + Legacy domain links now redirect to [newtonglossary.com](http://newtonglossary.com/)
 
 ## 16 January 2017
