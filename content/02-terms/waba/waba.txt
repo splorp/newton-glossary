@@ -8,7 +8,7 @@ A highly portable, simplified implementation of the [Java](https://java.com/) vi
 
 ## Additional Information
 
-[Waba Product Information](http://cs.gmu.edu/~sean/projects/newton/waba/)
+[Sean Luke: Waba for the Newton](https://cs.gmu.edu/~sean/projects/newton/waba/)
 
 ----
 

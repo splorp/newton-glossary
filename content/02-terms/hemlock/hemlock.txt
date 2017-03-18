@@ -12,7 +12,7 @@ The name is in reference to the Sesame Street character, [Sherlock Hemlock](http
 
 ## Additional Information
 
-[Hemlock Product Information](http://cs.gmu.edu/~sean/projects/newton/Hemlock/)
+[Sean Luke: Hemlock: An Internet Search Tool for the Newton](https://cs.gmu.edu/~sean/projects/newton/Hemlock/)
 [Internet Archive: Mac OS X: Sherlock](http://web.archive.org/web/20011108064228/http://www.apple.com/sherlock/)
 
 ----
