@@ -17,6 +17,7 @@ A web browser for Newton devices developed by [Steve Weyer](/sources/steve-weyer
 Related:
 
 - /terms/courier
+- /terms/hemlock
 - /terms/nethopper
 - /terms/newton-book
 - /terms/newton-internet-enabler
