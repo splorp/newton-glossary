@@ -42,5 +42,6 @@ To add a bit of spit and polish to our Kirby experience, we use the following ha
 
 + [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) _by [Russ Baldwin](http://shoesforindustry.net/)_
 + [Cachebuster](https://github.com/getkirby-plugins/cachebuster-plugin) _by [Bastian Allgeier](https://bastianallgeier.com/)_
++ [Kirby GA](https://github.com/jenstornell/kirby-ga) _by [Jens Törnell](http://www.jenst.se/)_
 
 And finally, god bless [BBEdit](http://www.barebones.com/products/bbedit/).
