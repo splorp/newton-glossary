@@ -19,7 +19,6 @@ Related:
 - /terms/mail-v
 - /terms/out-box
 - /terms/routing
-- /terms/routing
 - /terms/simplemail
 - /terms/transport
 
