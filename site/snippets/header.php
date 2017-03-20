@@ -6,6 +6,7 @@
 		<meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
 		<meta name="robots" content="index, follow" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="google-site-verification" content="3ebPkgj9vrzCZbR3OA-VrCvJmoUmn_SHAbpo3nHn_0U" />
 		<title><?php echo html($site->title()) ?> - <?php echo html($page->title()) ?></title>
 		<link rel="shortcut icon" href="/favicon.ico" />
 		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/images/apple-touch-icon-57x57-precomposed.png" />
