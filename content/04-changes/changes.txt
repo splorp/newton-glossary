@@ -14,17 +14,19 @@ Incremental changes and updates can be found in the project’s [commit log](htt
 
 ## Current Release
 
-Version: 2.2.2
+Version: 2.3.0
 Terms: _$t
 Sources: _$s
 
 ### Summary of changes:
 
 + Added new terms
++ Added new sources
 + Updated and expanded dozens of existing entries
 + Legacy domain links now redirect to [newtonglossary.com](http://newtonglossary.com/)
 + Implemented [Kirby GA](https://github.com/jenstornell/kirby-ga) plugin for [Google Analytics](https://www.google.com/analytics/) integration
-+ Implemented [Kirby XML Sitemap](https://github.com/pedroborges/kirby-xml-sitemap) plugin for search engine indexing
++ Implemented [Kirby XML Sitemap](https://github.com/pedroborges/kirby-xml-sitemap) plugin
++ Added XML [sitemap](/sitemap.xml) for search engine indexing
 
 ## 16 January 2017
 
