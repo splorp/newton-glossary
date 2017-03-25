@@ -20,6 +20,7 @@ Related:
 - /terms/action-picker
 - /terms/assist
 - /terms/assist-drawer
+- /terms/intelligent-assistance-architecture
 - /terms/request-word
 
 ----

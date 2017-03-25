@@ -1,0 +1,26 @@
+Title: Intelligent Assistance Architecture
+
+----
+
+Text:
+
+Marketing parlance for the [Newton OS](/terms/newton-os) technology that [assists](/terms/assist) users in completing repetitive tasks, which include communication, scheduling, searching, and reminder functions.
+
+## Additional Information
+
+[Internet Archive: MessagePad 2000 Datasheet](http://web.archive.org/web/19980204042002/http://www.newton-inc.com/product_info/devices/MP2000/MP2000ds.html)
+ 
+----
+
+Related:
+
+- /terms/action
+- /terms/assist
+- /terms/assist-drawer
+- /terms/request-word
+
+----
+
+Source:
+
+- /sources/newton-inc
