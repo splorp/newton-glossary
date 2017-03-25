@@ -10,6 +10,7 @@ The small [envelope button](/terms/envelope-button) used in [applications](/term
 
 Related:
 
+- /terms/action
 - /terms/action-picker
 - /terms/button
 - /terms/envelope-button

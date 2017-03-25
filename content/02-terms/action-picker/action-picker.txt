@@ -10,6 +10,7 @@ A list of various [routing](/terms/routing) actions available for the current it
 
 Related:
 
+- /terms/action
 - /terms/action-button
 - /terms/envelope-button
 - /terms/picker
