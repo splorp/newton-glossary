@@ -1,0 +1,29 @@
+Title: Request Word
+
+----
+
+Text:
+
+A term or phrase that triggers an [action](/terms/action) when processed by the [assist](/terms/assist) function.
+
+For example, entering the “call” request word into the [assist drawer](/terms/assist-drawer) will trigger an action to dial a phone number.
+
+## Additional Information
+
+[Apple Support: Newton MessagePad: Using the Newton Assistant](https://support.apple.com/kb/TA29816)
+
+----
+
+Related:
+
+- /terms/action
+- /terms/action-button
+- /terms/action-picker
+- /terms/assist
+- /terms/assist-drawer
+
+----
+
+Source:
+
+- /sources/applecare-knowledge-archive
