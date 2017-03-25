@@ -1,0 +1,30 @@
+Title: Action
+
+----
+
+Text:
+
+An event or behaviour that is triggered when a specific item is selected in an [action picker](/terms/action-picker) or a specific [request word](/terms/request-word) is processed by the [Newton Assistant](/terms/newton-assistant).
+
+For example, entering the “call” request word into the [assist drawer](/terms/assist-drawer) will trigger an action to dial a phone number.
+
+## Additional Information
+
+[Apple Support: Newton MessagePad: Using the Newton Assistant](https://support.apple.com/kb/TA29816)
+
+----
+
+Related:
+
+- /terms/action-button
+- /terms/action-picker
+- /terms/assist
+- /terms/assist-drawer
+- /terms/newton-assistant
+- /terms/request-word
+
+----
+
+Source:
+
+- /sources/applecare-knowledge-archive
