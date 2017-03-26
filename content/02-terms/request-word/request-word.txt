@@ -6,7 +6,7 @@ Text:
 
 A term or phrase that triggers an [action](/terms/action) when processed by the [assist](/terms/assist) function.
 
-For example, entering the “call” request word into the [assist drawer](/terms/assist-drawer) will trigger an action to dial a phone number.
+For example, entering the “call” request word into the [assist drawer](/terms/assist-drawer) will trigger an action to dial a telephone number.
 
 ## Additional Information
 
