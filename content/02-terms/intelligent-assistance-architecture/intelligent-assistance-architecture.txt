@@ -4,7 +4,7 @@ Title: Intelligent Assistance Architecture
 
 Text:
 
-Marketing parlance for the [Newton OS](/terms/newton-os) technology that [assists](/terms/assist) users in completing repetitive tasks, which include communication, scheduling, searching, and reminder functions.
+Marketing parlance for the [Newton OS](/terms/newton-os) technology that [assists](/terms/assist) users in completing repetitive tasks, such as those related to communication, scheduling events, searching for information, and setting reminders.
 
 ## Additional Information
 
