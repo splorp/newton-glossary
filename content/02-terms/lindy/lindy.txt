@@ -4,12 +4,13 @@ Title: Lindy
 
 Text:
 
-The code name of the [MessagePad 110](/terms/messagepad-110) device. Sometimes mistakenly referred to as [Lizzy](/terms/lizzy).
+The code name of the [MessagePad 110](/terms/messagepad-110) device. Sometimes mistakenly referred to as [Lizzy](/terms/lizzy). An accompanying charging [cradle](/terms/cradle) for the Lindy device was known as the “[Lindy Crib](/terms/lindy-crib)”.
 
 ----
 
 Related:
 
+- /terms/cradle
 - /terms/jellyfish
 - /terms/lindy-crib
 - /terms/lizzy

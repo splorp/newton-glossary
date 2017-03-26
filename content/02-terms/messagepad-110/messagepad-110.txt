@@ -18,6 +18,7 @@ The code name of the MessagePad 110 was [Lindy](/terms/lindy), but there was als
 
 Related:
 
+- /terms/cradle
 - /terms/crib
 - /terms/jellyfish
 - /terms/lindy

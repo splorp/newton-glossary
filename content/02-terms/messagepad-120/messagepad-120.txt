@@ -17,6 +17,7 @@ The code name of the MessagePad 120 was [Gelato](/terms/gelato), due to the fact
 Related:
 
 - /terms/gelato
+- /terms/cradle
 - /terms/crib
 - /terms/messagepad
 - /terms/messagepad-110

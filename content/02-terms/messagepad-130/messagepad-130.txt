@@ -13,6 +13,7 @@ The MessagePad 130 was code named [Dante](/terms/dante) in reference to the use 
 Related:
 
 - /terms/backlight
+- /terms/cradle
 - /terms/crib
 - /terms/dante
 - /terms/implant-130
