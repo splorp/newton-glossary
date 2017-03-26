@@ -1,0 +1,28 @@
+Title: Siemens Online Terminal
+
+----
+
+Text:
+
+A Newton device purported to have been in development by [Siemens](https://www.siemens.com/). The prototype device was to be an “all-in-one communication terminal” employing a [user interface](/terms/user-interface) based on [Newton OS](/terms/newton-os) and combining several communication services including wireless telephony, fax, voice messaging, web access, and email.
+
+A third party device that utilizes a licensed version of the [Newton OS](/terms/newton-os) is often referred to as a [clone](/terms/clone). Siemens also developed two versions of the [NotePhone](/terms/notephone), a Newton OS device incorporating a telephone.
+
+## Additional Information
+
+[NewtonTalk Archives: Siemens Online Terminal](http://marc.info/?l=newtontalk&m=114867548516781&w=2)
+[Internet Archive: Newton OS Computers from Licensees](http://web.archive.org/web/19980204042814/http://www.newton.apple.com/product_info/devices/devices.html)
+[Internet Archive: Press Release: CeBIT ‘97](http://web.archive.org/web/19970727141846/http://www.siemens.de/pn/press/97pn016.htm)
+
+----
+
+Related:
+
+- /terms/clone
+- /terms/notephone
+
+----
+
+Source:
+
+- /sources/newton-inc

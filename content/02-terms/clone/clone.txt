@@ -16,6 +16,7 @@ Related:
 - /terms/notephone
 - /terms/rom-extension
 - /terms/seahorse
+- /terms/siemens-online-terminal
 - /terms/supertech-2000
 - /terms/tarpon
 - /terms/watson
