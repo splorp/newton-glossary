@@ -12,6 +12,7 @@ Related:
 
 - /terms/accessory-card
 - /terms/application-card
+- /terms/backup
 - /terms/card
 - /terms/cf-card
 - /terms/combo-card
