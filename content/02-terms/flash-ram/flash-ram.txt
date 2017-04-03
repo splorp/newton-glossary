@@ -4,8 +4,7 @@ Title: Flash RAM
 
 Text:
 
-A type of random access memory ([RAM](/terms/ram)) that can be rewritten and hold its content without power.
-
+A type of [RAM](/terms/ram) that does not require power to maintain the storage of information.
 
 ----
 
