@@ -15,6 +15,7 @@ A portable [battery pack](/terms/battery-pack) that plugs into the [power port](
 
 Related:
 
+- /terms/backup-battery
 - /terms/battery
 - /terms/battery-pack
 - /terms/battery-tray

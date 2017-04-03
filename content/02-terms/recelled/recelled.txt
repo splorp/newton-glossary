@@ -10,6 +10,7 @@ The status of a [battery pack](/terms/battery-pack) which has had nonfunctioning
 
 Related:
 
+- /terms/backup-battery
 - /terms/battery
 - /terms/battery-booster-pack
 - /terms/battery-pack

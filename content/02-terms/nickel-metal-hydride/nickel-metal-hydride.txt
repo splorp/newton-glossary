@@ -10,6 +10,7 @@ A rechargeable [battery](/terms/battery) technology that is not susceptible to [
 
 Related:
 
+- /terms/backup-battery
 - /terms/battery
 - /terms/battery-booster-pack
 - /terms/battery-pack

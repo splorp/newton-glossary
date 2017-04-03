@@ -1,0 +1,29 @@
+Title: Backup Battery
+
+----
+
+Text:
+
+A small [battery](/terms/battery) that supplies power to a Newton device when the main batteries are removed. Without a backup battery, the Newton device will lose any information stored in [RAM](/terms/ram).
+
+----
+
+Related:
+
+- /terms/backup
+- /terms/battery
+- /terms/cell
+- /terms/charge-state
+- /terms/dram
+- /terms/long-term-storage
+- /terms/mah
+- /terms/nickel-cadmium
+- /terms/nickel-metal-hydride
+- /terms/ram
+- /terms/sram
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995

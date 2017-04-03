@@ -10,6 +10,7 @@ A removable component of a [MessagePad](/terms/messagepad) or [eMate](/terms/ema
 
 Related:
 
+- /terms/backup-battery
 - /terms/battery
 - /terms/battery-booster-pack
 - /terms/battery-cage

@@ -10,6 +10,7 @@ A device that converts chemical energy into electrical energy. A [battery](/term
 
 Related:
 
+- /terms/backup-battery
 - /terms/battery
 - /terms/battery-booster-pack
 - /terms/battery-pack

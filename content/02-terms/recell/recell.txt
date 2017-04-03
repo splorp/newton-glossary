@@ -10,6 +10,7 @@ The process of replacing the nonfunctioning [cells](/terms/cell) in a rechargeab
 
 Related:
 
+- /terms/backup-battery
 - /terms/battery
 - /terms/battery-booster-pack
 - /terms/battery-pack

@@ -10,6 +10,7 @@ An individual or company that replaces the nonfunctioning [cells](/terms/cell) i
 
 Related:
 
+- /terms/backup-battery
 - /terms/battery
 - /terms/battery-booster-pack
 - /terms/battery-pack

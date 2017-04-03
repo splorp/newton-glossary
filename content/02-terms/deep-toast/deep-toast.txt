@@ -18,6 +18,7 @@ _This entry requires a screenshot._
 
 Related:
 
+- /terms/backup-battery
 - /terms/battery
 - /terms/battery-booster-pack
 - /terms/battery-pack

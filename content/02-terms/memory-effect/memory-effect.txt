@@ -10,6 +10,7 @@ A condition affecting a rechargeable [battery](/terms/battery) where it will hol
 
 Related:
 
+- /terms/backup-battery
 - /terms/battery
 - /terms/battery-booster-pack
 - /terms/battery-pack
