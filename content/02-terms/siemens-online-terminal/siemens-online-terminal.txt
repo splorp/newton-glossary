@@ -12,8 +12,8 @@ A third party device that utilizes a licensed version of the [Newton OS](/terms/
 
 [NewtonTalk Archives: Siemens Online Terminal](http://marc.info/?l=newtontalk&m=114867548516781&w=2)
 [NewtNews #138: Siemens Online Terminal](https://groups.google.com/forum/#!topic/comp.sys.newton.misc/ZOQeDF57T6M)
-[Internet Archive: Newton OS Computers from Licensees](http://web.archive.org/web/19980204042814/http://www.newton.apple.com/product_info/devices/devices.html)
-[Internet Archive: Press Release: CeBIT ‘97](http://web.archive.org/web/19970727141846/http://www.siemens.de/pn/press/97pn016.htm)
+[Internet Archive: Newton OS Computers from Licensees](https://web.archive.org/web/19980204042814/http://www.newton.apple.com/product_info/devices/devices.html)
+[Internet Archive: Press Release: CeBIT ‘97](https://web.archive.org/web/19970727141846/http://www.siemens.de/pn/press/97pn016.htm)
 
 ----
 

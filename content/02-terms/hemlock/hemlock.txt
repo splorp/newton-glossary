@@ -4,7 +4,7 @@ Title: Hemlock
 
 Text:
 
-An internet search tool for [Newton OS](/terms/newton-os) developed by [Sean Luke](/sources/sean-luke). Hemlock utilizes the [Newt’s Cape](/terms/newts-cape) web browser to retrieve and display the results of querying one or more search engines using Apple’s [Sherlock](http://web.archive.org/web/20011108064228/http://www.apple.com/sherlock/) plugins.
+An internet search tool for [Newton OS](/terms/newton-os) developed by [Sean Luke](/sources/sean-luke). Hemlock utilizes the [Newt’s Cape](/terms/newts-cape) web browser to retrieve and display the results of querying one or more search engines using Apple’s [Sherlock](https://web.archive.org/web/20011108064228/http://www.apple.com/sherlock/) plugins.
 
 The name is in reference to the Sesame Street character, [Sherlock Hemlock](http://muppet.wikia.com/wiki/Sherlock_Hemlock).
 
@@ -13,7 +13,7 @@ The name is in reference to the Sesame Street character, [Sherlock Hemlock](http
 ## Additional Information
 
 [Sean Luke: Hemlock: An Internet Search Tool for the Newton](https://cs.gmu.edu/~sean/projects/newton/Hemlock/)
-[Internet Archive: Mac OS X: Sherlock](http://web.archive.org/web/20011108064228/http://www.apple.com/sherlock/)
+[Internet Archive: Mac OS X: Sherlock](https://web.archive.org/web/20011108064228/http://www.apple.com/sherlock/)
 
 ----
 
