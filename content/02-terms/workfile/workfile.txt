@@ -4,12 +4,13 @@ Title: Workfile
 
 Text:
 
-The main data file created by the [Newton Connection Kit](/terms/newton-connection-kit) software. The workfile contains all of the information used when [synchronizing](/terms/synchronize) a Newton device with a [desktop computer](/terms/desktop-computer), [laptop](/terms/laptop-computer), or other device.
+The main data file created by the [Newton Connection](/terms/newton-connection) software. The workfile contains all of the information used when [synchronizing](/terms/synchronize) a Newton device with a [desktop computer](/terms/desktop-computer), [laptop](/terms/laptop-computer), or other device.
 
 ----
 
 Related:
 
+- /terms/newton-connection
 - /terms/newton-connection-kit
 - /terms/nwt
 - /terms/synchronize

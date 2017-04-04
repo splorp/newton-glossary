@@ -4,7 +4,7 @@ Title: nwt
 
 Text:
 
-The file extension used to identify a [Newton Connection Kit](/terms/newton-connection-kit) data synchronization [workfile](/terms/workfile). Each workfile has a set of associated backup files with the extension `.nb#`, where `#` represents a number from 1 to 9.
+The file extension used to identify a [Newton Connection](/terms/newton-connection) data synchronization [workfile](/terms/workfile). Each workfile has a set of associated [backup files](/terms/backup-file) with the extension `.nb#`, where `#` represents a number from 1 to 9.
 
 `nwt` is also a command line [application](/terms/application) created by [Eckhart Köppen](/sources/eckhart-koppen) that provides package management, data synchronization, and data export for a Newton device. This utility is part of the [Ruby Desktop Connection Library](/terms/rdcl) (RDCL) framework.
 
@@ -12,6 +12,8 @@ The file extension used to identify a [Newton Connection Kit](/terms/newton-conn
 
 Related:
 
+- /terms/backup-file
+- /terms/newton-connection
 - /terms/newton-connection-kit
 - /terms/rdcl
 - /terms/synchronize

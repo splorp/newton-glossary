@@ -4,12 +4,19 @@ Title: Newton Connection
 
 Text:
 
-An [application](/terms/application) for Mac OS X created by [Simon Bell](/sources/simon-bell) that essentially replaces the functionality found in Apple’s [Newton Connection Utilities](/terms/newton-connection-utilities) (NCU). Newton Connection allows the user to [backup](/terms/backup) and [restore](/terms/restore) information, install [packages](/terms/package), and transfer data to and from a Newton device. Also known as [NCX](/terms/ncx).
+The software component included in Apple’s [Newton Connection Kit](/terms/newton-connection-kit) which connects Newton devices to Macintosh and Windows computers, allowing users to exchange and [synchronize](/terms/synchronize) information with common desktop [applications](/terms/application).
+
+Newton Connection is also an [application](/terms/application) for Mac OS X created by [Simon Bell](/sources/simon-bell) that essentially replaces the functionality found in Apple’s [Newton Connection Utilities](/terms/newton-connection-utilities) (NCU). Newton Connection allows the user to [backup](/terms/backup) and [restore](/terms/restore) information, install [packages](/terms/package), and transfer data to and from a Newton device. Also known as [NCX](/terms/ncx).
 
 Backup files created by Newton Connection are identified by the `.nbku` file extension.
 
+
 ## Additional Information
 
+[Internet Archive: Newton Connection Kit 1.0 Description](https://web.archive.org/web/20011225150225/http://karchive.info.apple.com/article.html?artnum=12776)
+[Internet Archive: Newton Connection Kit 2.0 Description](https://web.archive.org/web/20011226141458/http://karchive.info.apple.com/article.html?artnum=14871)
+[The Newted Community: Newton Connection Kit for Windows User’s Guide](http://www.newted.org/download/manuals/0305277ANCNCTKITWINUG.PDF) (PDF)
+[The Newted Community: Newton Connection 2.0 Update Information](http://www.newted.org/download/manuals/0305272ANCNCT2UD.PDF) (PDF)
 [Newton Research: Newton Connection Product Information](http://newtonresearch.org/connection/)
 
 ----
@@ -36,4 +43,5 @@ Related:
 
 Source:
 
+- /sources/newton-connection-kit
 - /sources/simon-bell
