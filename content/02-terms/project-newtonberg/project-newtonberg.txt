@@ -1,0 +1,21 @@
+Title: Project Newtonberg
+
+----
+
+Text:
+
+A project instigated by Rob West in 1996 that collected resources relating to open source and public domain texts, specfically those available in [Newton Book](/terms/newton-book) format. Project Newtonberg takes its name from [Project Gutenberg](https://www.gutenberg.org/).
+
+## Additional Information
+
+[Internet Archive: Project Newtonberg Website](http://web.archive.org/web/19970626041935/http://www.aa.net/~robwest/)
+
+----
+
+Related:
+
+- /terms/newton-book
+- /terms/newton-book-maker
+- /terms/newton-book-reader
+- /terms/newton-press
+- /terms/newts-cape

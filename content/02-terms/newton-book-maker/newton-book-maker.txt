@@ -24,6 +24,7 @@ Related:
 - /terms/newton-book-reader
 - /terms/newton-press
 - /terms/newton-toolkit
+- /terms/project-newtonberg
 
 ----
 

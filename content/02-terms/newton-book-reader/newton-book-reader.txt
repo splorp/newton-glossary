@@ -16,6 +16,7 @@ Related:
 - /terms/newton-book
 - /terms/newton-book-maker
 - /terms/newton-press
+- /terms/project-newtonberg
 
 ----
 
