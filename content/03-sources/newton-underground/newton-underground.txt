@@ -4,4 +4,4 @@ Title: Newton Underground
 
 Text:
 
-The first of a series of informational sites run by Concept Kitchen, makers and distributors of software and accessories for Newton, Windows CE, and Palm devices. Shortly after the Newton was discontinued in 1998, Newton Underground was renamed PDA Dash to be more inclusive of other handheld platforms, eventually morphing into the [smaller.com](http://web.archive.org/web/20010516120653/http://www.smaller.com/) site in 2000.
+The first of a series of informational sites run by Concept Kitchen, makers and distributors of software and accessories for Newton, Windows CE, and Palm devices. Shortly after the Newton was discontinued in 1998, Newton Underground was renamed PDA Dash to be more inclusive of other handheld platforms, eventually morphing into the [smaller.com](https://web.archive.org/web/20010516120653/http://www.smaller.com/) site in 2000.
