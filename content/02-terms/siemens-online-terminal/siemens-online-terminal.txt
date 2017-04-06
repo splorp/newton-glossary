@@ -2,6 +2,10 @@ Title: Siemens Online Terminal
 
 ----
 
+Date: 25 March 2017
+
+----
+
 Text:
 
 A Newton device purported to have been in development by [Siemens](https://www.siemens.com/). The prototype device was to be an “all-in-one communication terminal” employing a [user interface](/terms/user-interface) based on [Newton OS](/terms/newton-os) and combining several communication services including wireless telephony, fax, voice messaging, web access, and email.

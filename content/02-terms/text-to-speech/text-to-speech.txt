@@ -2,6 +2,10 @@ Title: Text-to-Speech
 
 ----
 
+Date: 23 March 2017
+
+----
+
 Text:
 
 The conversion of text into spoken audio through some means of speech synthesis. Performing text-to-speech on a Newton device requires the [MacInTalk](/terms/macintalk) speech synthesizer [extension](/terms/extension) and the [SpeakText](/terms/speaktext) transport. Also known as [TTS](/terms/tts).

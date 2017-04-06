@@ -2,6 +2,10 @@ Title: Request Word
 
 ----
 
+Date: 24 March 2017
+
+----
+
 Text:
 
 A term or phrase that triggers an [action](/terms/action) when processed by the [assist](/terms/assist) function.

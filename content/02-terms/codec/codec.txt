@@ -2,6 +2,10 @@ Title: Codec
 
 ----
 
+Date: 23 March 2017
+
+----
+
 Text:
 
 Hardware or software that converts analogue information into its digital equivalent or digital information into its analogue equivalent. On a Newton device, the [MacinTalk](/terms/macintalk) extension provides a [codec](/terms/codec) which converts [recognized text](/terms/recognized-text) into synthesized speech.

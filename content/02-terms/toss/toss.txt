@@ -2,6 +2,10 @@ Title: Toss
 
 ----
 
+Date: 11 February 2017
+
+----
+
 Text:
 
 A software utility developed by [Steve Weyer](/sources/steve-weyer) that allows the user to transfer [packages](/terms/package) from a Newton device to another computer using a terminal emulator program and the [YMODEM](https://en.wikipedia.org/wiki/YMODEM) or [XMODEM-1K](https://en.wikipedia.org/wiki/XMODEM#XMODEM-1K) file transfer protocol. It was intended to be used with computers running [operating systems](/terms/operating-system) other than Mac OS, Mac OS X, or Windows.

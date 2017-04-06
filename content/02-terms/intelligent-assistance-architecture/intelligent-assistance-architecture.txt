@@ -2,6 +2,10 @@ Title: Intelligent Assistance Architecture
 
 ----
 
+Date: 24 March 2017
+
+----
+
 Text:
 
 Marketing parlance for the [Newton OS](/terms/newton-os) technology that [assists](/terms/assist) users in completing repetitive tasks, such as those related to communication, scheduling events, searching for information, and setting reminders.
