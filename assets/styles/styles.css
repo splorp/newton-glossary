@@ -74,7 +74,7 @@ a:hover {
 	}
 
 img {
-	border: 1px solid #DDD;
+	border: 1px solid #CCC;
     display: block;
     margin: 2em auto;
     outline: none;
@@ -94,11 +94,15 @@ header h1 {
 	}
 
 h2 {
-	border-bottom: 1px #DDD solid;
 	color: #444;
 	font-size: 18px;
 	margin: 40px 0 20px 0;
-	padding-bottom: 10px;
+	}
+
+h2 > p {
+	border-top: 1px solid #CCC;
+	padding-top: 10px;
+	margin-top: 40px;
 	}
 
 h3 {
@@ -126,7 +130,7 @@ p {
 code {
 	background-color: #F8F8F8;
 	border-radius: 3px;
-	border: 1px solid #DDD;
+	border: 1px solid #CCC;
 	color: #333;
 	font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
 	font-size: 15px;
@@ -155,6 +159,12 @@ article ul.rslt li {
 	border-bottom: 1px solid #CCC;
 	padding-bottom: 10px;
 	margin-bottom: 10px;
+	}
+
+article ul.rslt li:first-child {
+	border-top: 1px solid #CCC;
+	padding-top: 10px;
+	margin-top: 40px;
 	}
 
 article ul.rslt li:last-child {
