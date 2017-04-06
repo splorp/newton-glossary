@@ -216,6 +216,10 @@ nav.submenu.alphabetical h2 {
 	border-bottom: 2px #FFF solid;
 	}
 
+.mouseprint {
+	font-size: 13px;
+	}
+
 footer {
 	border-top: 1px solid grey;
 	font-size: 13px;
