@@ -2,6 +2,10 @@ Title: Casual
 
 ----
 
+Date: 10 February 2017
+
+----
+
 Text:
 
 One of the default bitmap [fonts](/terms/font) on the Newton. Casual is used when the [handwriting recognition](/terms/handwriting-recognition) engine converts printed text into [recognized text](/terms/recognized-text).

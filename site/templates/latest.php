@@ -3,7 +3,7 @@
 <?php snippet('header', array('title' => $page->title(), 'page_description' => $page_description)); ?>
 <?php snippet('menu') ?>
 
-<?php $latest_pages = $pages->find('terms', 'sources')->children()->filterBy('date', '!=', '')->sortBy('date', 'desc')->limit(30); ?>
+<?php $latest_pages = $pages->find('terms', 'sources')->children()->filterBy('date', '!=', '')->sortBy('date', 'desc')->limit(40); ?>
 
 <section class="content">
 	<article>

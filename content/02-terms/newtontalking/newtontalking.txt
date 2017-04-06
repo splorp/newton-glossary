@@ -2,6 +2,10 @@ Title: NewtonTalking
 
 ----
 
+Date: 02 February 2017
+
+----
+
 Text:
 
 The act and process of discussion that occurs on the [NewtonTalk](/terms/newtontalk) mailing list.

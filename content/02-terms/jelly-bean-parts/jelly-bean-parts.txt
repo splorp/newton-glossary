@@ -2,6 +2,10 @@ Title: Jelly Bean Parts
 
 ----
 
+Date: 07 February 2017
+
+----
+
 Text:
 
 An assortment of individual electronic components which can be replaced by a single multifunction chip or [chipset](/terms/chipset). Mike Culbert, a member of the [Newton Systems Group](/terms/newton-systems-group), used the term to explain why Apple chose to use the [Voyager](/terms/voyager) chipset in later Newton devices.

@@ -2,6 +2,10 @@ Title: Chip Set
 
 ----
 
+Date: 07 February 2017
+
+----
+
 Text:
 
 See [Chipset](/terms/chipset)

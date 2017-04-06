@@ -2,6 +2,10 @@ Title: DNS
 
 ----
 
+Date: 10 February 2017
+
+----
+
 Text:
 
 Domain Name System

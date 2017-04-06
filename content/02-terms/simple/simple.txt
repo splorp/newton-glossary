@@ -2,6 +2,10 @@ Title: Simple
 		
 ----
 
+Date: 10 February 2017
+
+----
+
 Text:
 
 One of the default bitmap [fonts](/terms/font) on the Newton. Simple is a proportionally spaced sans serif typeface based on [Geneva](https://en.wikipedia.org/wiki/Geneva_(typeface)).
