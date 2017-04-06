@@ -1,14 +1,14 @@
-Title: Changes
+Title: Change Log
 
 ----
 
-Description: A chronological list of major changes and updates made to the glossary.
+Description: A chronological list of major releases, updates, and improvements made to the glossary.
 
 ----
 
 Text:
 
-A chronological list of major changes and updates.
+Major releases, updates, and improvements.
 
 Incremental changes and updates can be found in the project’s [commit log](https://github.com/splorp/newton-glossary/commits/master).
 

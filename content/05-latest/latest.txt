@@ -1,0 +1,11 @@
+Title: Latest Additions
+
+----
+
+Description: A chronological list of recent terms and sources added to the glossary.
+
+----
+
+Text:
+
+A chronological list of recent glossary entries.
