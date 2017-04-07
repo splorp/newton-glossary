@@ -2,6 +2,10 @@ Title: Dracon
 
 ----
 
+Date: 22 January 2017
+
+----
+
 Text:
 
 A division of [Harris Corporation](http://harris.com/) that designed and manufactured telephony test equipment. Dracon developed the [SuperTech 2000](/terms/supertech-2000), a ruggedized [Newton OS](/terms/newton-os) device used by telecommunication field technicians.

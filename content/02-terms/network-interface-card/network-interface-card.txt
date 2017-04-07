@@ -2,6 +2,10 @@ Title: Network Interface Card
 
 ----
 
+Date: 12 January 2017
+
+----
+
 Text:
 
 A removable [PC card](/terms/pc-card) that provides a physical connection to a network, generally via [ethernet](/terms/ethernet). Also referred to as a [NIC](/terms/nic).

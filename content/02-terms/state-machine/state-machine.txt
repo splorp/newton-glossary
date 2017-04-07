@@ -2,6 +2,10 @@ Title: State Machine
 
 ----
 
+Date: 15 January 2017
+
+----
+
 Text:
 
 See [Finite State Machine](/terms/finite-state-machine)

@@ -2,6 +2,10 @@ Title: SA-110
 
 ----
 
+Date: 12 January 2017
+
+----
+
 Text:
 
 See [StrongARM](/terms/strongarm)
