@@ -10,7 +10,7 @@ Text:
 
 Major releases, updates, and improvements.
 
-Incremental changes and updates can be found in the project’s [commit log](https://github.com/splorp/newton-glossary/commits/master).
+Incremental changes and updates can be found in the project’s [commit history](https://github.com/splorp/newton-glossary/commits/master).
 
 ## Current Release
 
@@ -24,6 +24,7 @@ Sources: _$s
 + Added new sources
 + Updated and expanded dozens of existing entries
 + Added page listing the [latest additions](/latest) to the glossary
++ Moved [about](/about) and [change log](/changes) links to footer
 + Legacy domain links now redirect to [newtonglossary.com](http://newtonglossary.com/)
 + Implemented [Kirby GA](https://github.com/jenstornell/kirby-ga) plugin for [Google Analytics](https://www.google.com/analytics/) integration
 + Implemented [Kirby XML Sitemap](https://github.com/pedroborges/kirby-xml-sitemap) plugin
