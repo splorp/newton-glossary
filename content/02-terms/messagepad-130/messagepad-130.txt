@@ -16,6 +16,7 @@ Related:
 - /terms/cradle
 - /terms/crib
 - /terms/dante
+- /terms/electroluminescent-panel
 - /terms/implant-130
 - /terms/messagepad
 - /terms/messagepad-110

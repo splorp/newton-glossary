@@ -4,4 +4,4 @@ Title: EL
 
 Text:
 
-See [Electro-Luminescent Panel](/terms/electro-luminescent-panel)
+See [Electroluminescent Panel](/terms/electroluminescent-panel)

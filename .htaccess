@@ -9,6 +9,9 @@ RewriteEngine on
 RewriteCond %{HTTP_HOST} !.*newtonglossary\.com$ [NC]
 RewriteRule ^(.*)$ http://newtonglossary.com/$1 [R=301,L]
 
+# Redirect legacy pages
+Redirect 301 /terms/electro-luminescent-panel http://newtonglossary.com/terms/electroluminescent-panel
+
 # Add modification timestamps to css and js files via Cachebuster plugin
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^(.+)\.(\d+)\.(js|css)$ $1.$3 [L]
