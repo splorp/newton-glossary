@@ -10,7 +10,7 @@ html {
 	}
 
 body {
-	background: #fff;
+	background: #FFF;
 	color: #666;
 	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 	font-size: 16px;
@@ -28,7 +28,7 @@ input {
 	}
 
 input[type="search"] {
-	border: 1px solid #ccc;
+	border: 1px solid #CCC;
 	font-family: inherit;
 	font-size: 1em;
 	margin-bottom: 1em;
@@ -174,9 +174,8 @@ article ul.rslt li:last-child {
 	}
 
 nav {
-	border-bottom: 1px solid grey;
-	border-top: 1px solid grey;
-	color: #CCC;
+	border-bottom: 1px solid #444;
+	border-top: 1px solid #444;
 	overflow: hidden;
 	padding: 10px 0;
 	}
@@ -188,9 +187,13 @@ nav li {
 	float: left;
 	}
 
-nav li a.active {
+nav li a {
 	color: #090;
-	font-weight: bold;
+	}
+
+nav li a:hover,
+nav li a.active {
+	color: #222;
 	}
 
 nav.submenu {
@@ -231,7 +234,7 @@ nav.submenu.alphabetical h2 {
 	}
 
 footer {
-	border-top: 1px solid grey;
+	border-top: 1px solid #444;
 	font-size: 13px;
 	margin-top: 40px;
 	padding-top: 20px;
@@ -245,6 +248,10 @@ footer a:hover {
 	color: #222;
 	}
 
+footer nav {
+	border: none;
+	padding-top: 0;
+	}
 
 
 /*
@@ -318,6 +325,7 @@ footer a:hover {
 
 	nav li {
 		margin-right: 15px;
+		font-size: 13px;
 		}
 	
 	section.content {
