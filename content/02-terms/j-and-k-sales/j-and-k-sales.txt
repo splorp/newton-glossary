@@ -1,0 +1,28 @@
+Title: J & K Sales
+
+----
+
+Date: 12 April 2017
+
+----
+
+Text:
+
+A reseller of new and used Newton hardware, software, parts, and related accessories. While specializing in the Newton platform, J & K Sales also sold Fujitsu [tablet computers](/terms/tablet-computer) and other portable systems. The business folded in 2009 with the remaining inventory being sold off sometime in 2012.
+
+## Additional Information
+
+[Internet Archive: J & K Sales Website](https://web.archive.org/web/20100416071854/http://www.jksalesinc.com/catalog)
+[NewtonTalk Archives: J & K Sales, Inc. Complete Newton Inventory](http://lists.newtontalk.net/pipermail/newtontalk/2011-November/007396.html)
+
+----
+
+Related:
+
+- /terms/oem
+
+----
+
+Source:
+
+- /sources/newtontalk
