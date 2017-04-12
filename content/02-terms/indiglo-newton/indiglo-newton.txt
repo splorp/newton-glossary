@@ -23,3 +23,9 @@ Related:
 - /terms/messagepad
 - /terms/messagepad-130
 - /terms/screen
+
+----
+
+Source:
+
+- /sources/newton-gallery
