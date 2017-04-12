@@ -4,7 +4,7 @@ Title: Script Icon
 
 Text:
 
-A [picture button](/terms/picture-button) that executes a NewtonScript [function object](/terms/function-object) when [tapped](/terms/tap).
+A [picture button](/terms/picture-button) that executes a NewtonScript [function object](/terms/function-object) when [tapped](/terms/tapped).
 
 ----
 

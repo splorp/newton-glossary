@@ -13,4 +13,5 @@ Related:
 - /terms/double-tap
 - /terms/pen
 - /terms/tap
+- /terms/tapped
 - /terms/tap-and-a-half

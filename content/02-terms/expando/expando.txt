@@ -4,7 +4,7 @@ Title: Expando
 
 Text:
 
-An [input area](/terms/input-area) that expands when [tapped](/terms/tap) to become large enough for writing or printing.
+An [input area](/terms/input-area) that expands when [tapped](/terms/tapped) to become large enough for writing or printing.
 
 ----
 

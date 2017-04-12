@@ -4,7 +4,7 @@ Title: Hot Spot
 
 Text:
 
-A small unnamed and often unmarked [control](/terms/control) that responds like a [button](/terms/button) when [tapped](/terms/tap). Usually there are several hot spots in a given [view](/terms/view), which may be visible or invisible to the user.
+A small unnamed and often unmarked [control](/terms/control) that responds like a [button](/terms/button) when [tapped](/terms/tapped). Usually there are several hot spots in a given [view](/terms/view), which may be visible or invisible to the user.
 
 ----
 

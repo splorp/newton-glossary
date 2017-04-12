@@ -12,6 +12,7 @@ Related:
 
 - /terms/tap
 - /terms/tap-and-a-half
+- /terms/tapped
 - /terms/tapping
 
 ----

@@ -1,0 +1,27 @@
+Title: Tapped
+
+----
+
+Date: 12 April 2017
+
+----
+
+Text:
+
+When the [screen](/terms/screen) has been touched briefly with the [pen](/terms/pen), generally interacting with part of the [user interface](/terms/user-interface).
+
+----
+
+Related:
+
+- /terms/double-tap
+- /terms/pen
+- /terms/tap
+- /terms/tap-and-a-half
+- /terms/tapping
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

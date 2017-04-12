@@ -4,7 +4,7 @@ Title: Picture Button
 
 Text:
 
-A control that when [tapped](/terms/tap) by the user, performs or confirms the action implied by the [icon](/terms/icon) displayed on the [button](/terms/button).
+A control that when [tapped](/terms/tapped) by the user, performs or confirms the action implied by the [icon](/terms/icon) displayed on the [button](/terms/button).
 
 ----
 
