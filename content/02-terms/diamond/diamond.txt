@@ -1,0 +1,26 @@
+Title: Diamond
+
+----
+
+Date: 12 April 2017
+
+----
+
+Text:
+
+A small symbol located adjacent to a text label or [button](/terms/button) indicating that a pop-up menu or [picker](/terms/picker) will appear when [tapped](/terms/tapped).
+
+----
+
+Related:
+
+- /terms/button
+- /terms/picker
+- /terms/text-button
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
