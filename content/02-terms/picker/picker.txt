@@ -12,6 +12,7 @@ Related:
 
 - /terms/action-button
 - /terms/action-picker
+- /terms/button
 - /terms/diamond
 - /terms/envelope-button
 - /terms/list
