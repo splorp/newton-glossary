@@ -13,6 +13,6 @@ _This entry requires a screenshot._
 Related:
 
 - /terms/classroom-dock
-- /terms/dock
 - /terms/connection
+- /terms/dock
 - /terms/emate-300

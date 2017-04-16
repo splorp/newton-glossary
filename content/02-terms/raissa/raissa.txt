@@ -4,7 +4,7 @@ Title: Raissa
 
 Text:
 
-An [RSS](/terms/rss) reader for [Newton OS](/terms/newton-os) 2.x devices developed by [Eckhart Köppen](/sources/eckhart-koppen).
+An [RSS](/terms/rss) reader for Newton devices developed by [Eckhart Köppen](/sources/eckhart-koppen).
 
 ## Additional Information
 
