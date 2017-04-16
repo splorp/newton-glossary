@@ -1,4 +1,8 @@
-Title: Latest
+Title: Latest Additions
+
+----
+
+Menu: Latest
 
 ----
 
