@@ -1,0 +1,30 @@
+Title: The Fish
+
+----
+
+Date: 16 April 2017
+
+----
+
+Text:
+
+A utility created by [Eckhart Köppen](/sources/eckhart-koppen) and [Sean Luke](/sources/sean-luke) that allows the user to encrypt and decrypt [notes](/terms/note) stored on a Newton device. Using the [Blowfish](/terms/blowfish) encryption algorithm developed by [Bruce Schneier](/sources/bruce-schneier), The Fish provides a very simple way to secure sensitive data.
+
+## Additional Information
+
+[40Hz: The Fish Product Information](http://40hz.org/Pages/The%20Fish)
+[NewtonTalk Archives: The Fish (Notes Encrypter)](http://marc.info/?l=newtontalk&m=102409215920996)
+
+----
+
+Related:
+
+- /terms/blowfish
+- /terms/note
+- /terms/notepad
+
+----
+
+Source:
+
+- /sources/eckhart-koppen

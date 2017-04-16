@@ -1,0 +1,30 @@
+Title: Blowfish
+
+----
+
+Date: 16 April 2017
+
+----
+
+Text:
+
+An open source data encryption algorithm developed by [Bruce Schneier](/sources/bruce-schneier). Blowfish encryption is used in [The Fish](/terms/the-fish), a utility developed by Eckhart Köppen to easily encrypt and decrypt [notes](/terms/notes) on a Newton device.
+
+## Additional Information
+
+[Schneier on Security: The Blowfish Encryption Algorithm](https://www.schneier.com/academic/blowfish/)
+[40Hz: The Fish Product Information](http://40hz.org/Pages/The%20Fish)
+
+----
+
+Related:
+
+- /terms/note
+- /terms/notepad
+- /terms/the-fish
+
+----
+
+Source:
+
+- /sources/bruce-schneier
