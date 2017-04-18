@@ -1,0 +1,30 @@
+Title: VNC
+
+----
+
+Date: 18 April 2017
+
+----
+
+Text:
+
+Virtual Network Computing
+
+A platform independent, open source mechanism for viewing and interacting with the screen of a remote computer system over a network. VNC was originally developed by the [Olivetti & Oracle Research Laboratory](Olivetti & Oracle Research Lab) in the late 1990s.
+
+## Additional Information
+
+[Wikipedia: VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing)
+
+----
+
+Related:
+
+- /terms/newtvnc
+
+----
+
+Source:
+
+- /sources/steve-weyer
+- /sources/wikipedia
