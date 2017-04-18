@@ -29,6 +29,7 @@ Related:
 - /terms/nug-central
 - /terms/nug-central
 - /terms/nugom
+- /terms/oznug
 - /terms/random
 - /terms/sane
 - /terms/snag

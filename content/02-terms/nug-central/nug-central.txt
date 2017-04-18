@@ -38,6 +38,7 @@ Related:
 - /terms/nose
 - /terms/nug
 - /terms/nugom
+- /terms/oznug
 - /terms/random
 - /terms/sane
 - /terms/snag

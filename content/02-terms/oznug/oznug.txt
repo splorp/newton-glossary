@@ -1,22 +1,27 @@
-Title: DANG
-	
+Title: OzNUG	
+
+----
+
+Date: 18 April 2017
+
 ----
 
 Text:
 
-Denver Area Newton Group
+Australian Newton Users Group
 
-Formed in 1994, this Coloradan [Newton user group](/terms/newton-user-group) met regularly at the [Ross-University Hills Branch Library](https://www.denverlibrary.org/content/ross-university-hills-branch-library) until 1997.
+Founded in August 1994, OzNUG was based in Sydney and supported subchapters of the group throughout Australia. It was affiliated with [NANUG](/terms/nanug), a very active [Newton user group](/terms/newton-user-group) in the United States.
 
 ## Additional Information
 
-[Internet Archive: DANG Website](https://web.archive.org/web/19971007102921/http://www.pdantic.com/Dang.htm)
+[comp.sys.newton.announce: Newton User Group formed in Australia](https://groups.google.com/forum/#!msg/comp.sys.newton.announce/aRQEl4Voc8E/19zFFfgdQKsJ)
 
 ----
 
 Related:
 
 - /terms/anug
+- /terms/dang
 - /terms/dnug
 - /terms/gfun
 - /terms/hknug
@@ -33,7 +38,6 @@ Related:
 - /terms/nose
 - /terms/nug-central
 - /terms/nugom
-- /terms/oznug
 - /terms/random
 - /terms/sane
 - /terms/snag

@@ -33,6 +33,7 @@ Related:
 - /terms/nose
 - /terms/nug-central
 - /terms/nugom
+- /terms/oznug
 - /terms/protoreality
 - /terms/random
 - /terms/sane

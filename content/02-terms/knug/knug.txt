@@ -31,6 +31,7 @@ Related:
 - /terms/nose
 - /terms/nug-central
 - /terms/nugom
+- /terms/oznug
 - /terms/snag
 - /terms/snug
 - /terms/sonug
