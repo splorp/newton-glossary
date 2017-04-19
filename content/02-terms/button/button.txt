@@ -16,6 +16,7 @@ Related:
 - /terms/button-provider
 - /terms/envelope-button
 - /terms/hard-button
+- /terms/information-button
 - /terms/large-close-box
 - /terms/local-scroll-arrows
 - /terms/picker
