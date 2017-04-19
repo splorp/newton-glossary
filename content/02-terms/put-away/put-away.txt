@@ -11,8 +11,8 @@ A choice in the [tag button](/terms/tag-button) picker which moves the current i
 Related:
 
 - /terms/picker
-- /terms/tag
 - /terms/tag-button
+- /terms/tag-picker
 
 ----
 
