@@ -1,0 +1,15 @@
+Title: Cursive
+
+----
+
+Text:
+
+A type of writing where the characters are joined together.
+
+----
+
+Related:
+
+- /terms/calligrapher
+- /terms/cursive-recognizer
+- /terms/handwriting-recognition

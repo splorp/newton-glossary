@@ -10,6 +10,7 @@ The cursive [handwriting recognition](/terms/handwriting-recognition) system fou
 
 Related:
 
+- /terms/cursive
 - /terms/cursive-recognizer
 - /terms/egg-freckles
 - /terms/handwriting-recognition

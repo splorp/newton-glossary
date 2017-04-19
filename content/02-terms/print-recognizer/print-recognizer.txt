@@ -4,7 +4,7 @@ Title: Print Recognizer
 
 Text:
 
-The algorithmic component of the [handwriting recognition](/terms/handwriting-recognition) system that identifies printed characters, as opposed to cursive or handwritten text.
+The algorithmic component of the [handwriting recognition](/terms/handwriting-recognition) system that identifies printed characters, as opposed to [cursive](/terms/cursive) or handwritten text.
 
 ----
 
