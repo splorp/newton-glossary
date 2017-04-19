@@ -4,7 +4,7 @@ Title: Envelope Button
 
 Text:
 
-See [Action Picker](/terms/action-picker)
+See [Action Button](/terms/action-button)
 
 ----
 

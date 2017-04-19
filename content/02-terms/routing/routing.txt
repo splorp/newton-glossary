@@ -12,11 +12,9 @@ Related:
 
 - /terms/action-button
 - /terms/action-picker
-- /terms/envelope-button
 - /terms/in-box
 - /terms/in-out-box
 - /terms/out-box
-- /terms/routing-button
 - /terms/routing-slip
 - /terms/transport
 

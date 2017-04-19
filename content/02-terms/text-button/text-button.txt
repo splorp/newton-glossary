@@ -10,14 +10,8 @@ A [control](/terms/control) bordered by a [rounded rectangle](/terms/rounded-rec
 
 Related:
 
-- /terms/action-button
 - /terms/button
-- /terms/envelope-button
-- /terms/large-close-box
-- /terms/picture-button
-- /terms/picture-radio-button
-- /terms/routing-button
-- /terms/tag-button
+- /terms/diamond
 - /terms/user-interface
 
 ----

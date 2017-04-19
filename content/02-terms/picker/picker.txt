@@ -10,16 +10,10 @@ A menu or [list](/terms/list) of choices that appears when the user [taps](/term
 
 Related:
 
-- /terms/action-button
 - /terms/action-picker
 - /terms/button
 - /terms/diamond
-- /terms/envelope-button
 - /terms/list
-- /terms/routing-button
-- /terms/soft-button
-- /terms/tag-button
-- /terms/text-button
 - /terms/user-interface
 
 ----

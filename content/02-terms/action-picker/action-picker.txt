@@ -4,7 +4,7 @@ Title: Action Picker
 
 Text:
 
-A list of various [routing](/terms/routing) actions available for the current item. Activated by [tapping](/terms/tapping) on the [action button](/terms/action-button). The action button uses an [icon](/terms/icon) of an envelope. Also referred to as the [envelope button](/terms/envelope-button) or [routing button](/terms/routing-button).
+A list of various [routing](/terms/routing) actions available for the current item. Activated by [tapping](/terms/tapping) on the [action button](/terms/action-button).
 
 ----
 
@@ -12,10 +12,8 @@ Related:
 
 - /terms/action
 - /terms/action-button
-- /terms/envelope-button
 - /terms/picker
 - /terms/routing
-- /terms/routing-button
 - /terms/routing-slip
 - /terms/user-interface
 

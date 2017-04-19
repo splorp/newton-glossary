@@ -12,7 +12,6 @@ Related:
 
 - /terms/button
 - /terms/close
-- /terms/container-view
 - /terms/large-close-box
 - /terms/user-interface
 - /terms/x
