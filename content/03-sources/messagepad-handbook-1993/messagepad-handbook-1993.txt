@@ -4,4 +4,4 @@ Title: MessagePad Handbook (1993)
 
 Text:
 
-Published by [Apple](http://www.apple.com/) in 1993, this is the definitive user manual for the [Original MessagePad](/terms/original-messagepad).
+Published by [Apple](https://www.apple.com/) in 1993, this is the definitive user manual for the [Original MessagePad](/terms/original-messagepad).

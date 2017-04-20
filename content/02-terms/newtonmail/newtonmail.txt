@@ -4,7 +4,7 @@ Title: NewtonMail
 
 Text:
 
-An electronic mail system supported by [Apple](http://www.apple.com/) specifically for Newton users. NewtonMail facilitated the creation of a single email account which let users exchange messages with most of the major online services available at the time, including [AppleLink](/terms/applelink), CompuServe, [eWorld](/terms/eworld), America Online, as well as through an internet [gateway](/terms/gateway).
+An electronic mail system supported by [Apple](https://www.apple.com/) specifically for Newton users. NewtonMail facilitated the creation of a single email account which let users exchange messages with most of the major online services available at the time, including [AppleLink](/terms/applelink), CompuServe, [eWorld](/terms/eworld), America Online, as well as through an internet [gateway](/terms/gateway).
 
 ----
 

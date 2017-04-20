@@ -4,7 +4,7 @@ Title: Ralph
 
 Text:
 
-The code name of [Dylan](/terms/dylan), the dynamic programming language developed at [Apple](http://www.apple.com/) that was to run on the original Newton platform. Named for [Ralph Ellison](http://www.biography.com/people/ralph-ellison-9286702), the author of _The Invisible Man_. Also referred to as [Denali](/terms/denali).
+The code name of [Dylan](/terms/dylan), the dynamic programming language developed at [Apple](https://www.apple.com/) that was to run on the original Newton platform. Named for [Ralph Ellison](http://www.biography.com/people/ralph-ellison-9286702), the author of _The Invisible Man_. Also referred to as [Denali](/terms/denali).
 
 ----
 

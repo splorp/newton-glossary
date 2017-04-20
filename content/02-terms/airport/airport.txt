@@ -4,7 +4,7 @@ Title: AirPort
 
 Text:
 
-A brand name used by [Apple](http://www.apple.com/) on their version of the [802.11](/terms/802-11) wireless communication card. In Japan, AirPort products are known as [AirMac](/terms/airmac).
+A brand name used by [Apple](https://www.apple.com/) on their version of the [802.11](/terms/802-11) wireless communication card. In Japan, AirPort products are known as [AirMac](/terms/airmac).
 
 ----
 

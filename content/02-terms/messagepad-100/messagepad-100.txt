@@ -4,7 +4,7 @@ Title: MessagePad 100
 
 Text:
 
-The second Newton device to be released by [Apple](http://www.apple.com/). The [MessagePad 100](/terms/messagepad-100) shared the same model number ([H1000](/terms/h1000)) and form factor as the [Original MessagePad](/terms/original-messagepad). but was less expensive and shipped with a newer version of [Newton OS](/terms/newton-os) in [ROM](/terms/rom).
+The second Newton device to be released by [Apple](https://www.apple.com/). The [MessagePad 100](/terms/messagepad-100) shared the same model number ([H1000](/terms/h1000)) and form factor as the [Original MessagePad](/terms/original-messagepad). but was less expensive and shipped with a newer version of [Newton OS](/terms/newton-os) in [ROM](/terms/rom).
 
 The code names for the MessagePad 100 were [Wedge](/terms/wedge) and [Junior](/terms/junior). The MessagePad 100 is commonly referred to as an [MP100](/terms/mp100).
 

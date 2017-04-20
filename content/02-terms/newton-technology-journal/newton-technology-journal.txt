@@ -4,7 +4,7 @@ Title: Newton Technology Journal
 
 Text:
 
-A publication produced by [Apple](http://www.apple.com/) which supplied developers with information on Newton platform technology, development tools, and marketing news.
+A publication produced by [Apple](https://www.apple.com/) which supplied developers with information on Newton platform technology, development tools, and marketing news.
 
 ## Additional Information
 

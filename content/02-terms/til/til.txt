@@ -6,7 +6,7 @@ Text:
 
 Tech Info Library
 
-A technical support [database](/terms/database) maintained by [Apple](http://www.apple.com/) and consisting of thousands of documents related to the company’s products and services. Each document in the library could be referenced by a unique identification number. The Tech Info Library was superseded by the [AppleCare Knowledge Archive](/sources/applecare-knowledge-archive) and the current [Apple Support](http://www.apple.com/support/) site.
+A technical support [database](/terms/database) maintained by [Apple](https://www.apple.com/) and consisting of thousands of documents related to the company’s products and services. Each document in the library could be referenced by a unique identification number. The Tech Info Library was superseded by the [AppleCare Knowledge Archive](/sources/applecare-knowledge-archive) and the current [Apple Support](http://www.apple.com/support/) site.
 
 ## Additional Information
 

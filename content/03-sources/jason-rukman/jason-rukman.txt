@@ -4,7 +4,7 @@ Title: Jason Rukman
 
 Text:
 
-From 1995 to 1997, Rukman was a software engineer at [Apple](http://www.apple.com/) working on the [Newton OS](/terms/newton-os) networking and communication stacks.
+From 1995 to 1997, Rukman was a software engineer at [Apple](https://www.apple.com/) working on the [Newton OS](/terms/newton-os) networking and communication stacks.
 
 ## Additional Information
 

@@ -4,7 +4,7 @@ Title: MessagePad 2000 User’s Manual
 
 Text:
 
-Published by [Apple](http://www.apple.com/) in 1997, this is the definitive reference for the [MessagePad 2000](/terms/messagepad-2000) device.
+Published by [Apple](https://www.apple.com/) in 1997, this is the definitive reference for the [MessagePad 2000](/terms/messagepad-2000) device.
 
 ## Additional Information
 

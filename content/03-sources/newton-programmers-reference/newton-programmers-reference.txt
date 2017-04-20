@@ -4,7 +4,7 @@ Title: Newton Programmer’s Reference
 
 Text:
 
-Published by [Apple](http://www.apple.com/) in 1996 as a companion to the [Newton Programmer’s Guide](/sources/newton-programmers-guide) is the definitive guide to Newton programming.
+Published by [Apple](https://www.apple.com/) in 1996 as a companion to the [Newton Programmer’s Guide](/sources/newton-programmers-guide) is the definitive guide to Newton programming.
 
 ## Additional Information
 

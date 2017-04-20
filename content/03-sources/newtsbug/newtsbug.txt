@@ -4,7 +4,7 @@ Title: Newtsbug User’s Guide
 
 Text:
 
-Published by [Apple](http://www.apple.com/) in 1997, this is the definitive reference for the [Newtsbug](/terms/newtsbug) low-level [debugger](/terms/debugger).
+Published by [Apple](https://www.apple.com/) in 1997, this is the definitive reference for the [Newtsbug](/terms/newtsbug) low-level [debugger](/terms/debugger).
 
 ## Additional Information
 

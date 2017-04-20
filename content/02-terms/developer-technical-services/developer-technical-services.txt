@@ -4,7 +4,7 @@ Title: Developer Technical Services
 
 Text:
 
-A group within [Apple](http://www.apple.com/) which provided technical support and programming tools for third party software and hardware developers. Commonly known as [DTS](/terms/dts). The current group is now called [Apple Developer Support](https://developer.apple.com/support/).
+A group within [Apple](https://www.apple.com/) which provided technical support and programming tools for third party software and hardware developers. Commonly known as [DTS](/terms/dts). The current group is now called [Apple Developer Support](https://developer.apple.com/support/).
 
 ----
 
