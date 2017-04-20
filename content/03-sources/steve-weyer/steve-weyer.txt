@@ -4,7 +4,7 @@ Title: Steve Weyer
 
 Text:
 
-A self-proclaimed technology addict, Steve spent two decades in high profile organizations such as Stanford University, Xerox PARC, Atari, Hewlett Packard, and Apple before becoming an independant consultant and [software developer](http://communicrossings.com/html/newton/). Steve has created an incredible amount of software for the Newton platform, including the [Newt’s Cape](/terms/newts-cape) web browser, the [NewtDevEnv](/terms/newtdevenv) development environment, and the [Sloup](/terms/sloup) data transfer utility.
+A self-proclaimed technology addict, Steve spent two decades in high profile organizations such as Stanford University, Xerox PARC, Atari, Hewlett Packard, and Apple before becoming an independant consultant and [software developer](http://communicrossings.com/html/newton/). Steve has created an incredible amount of software for the Newton platform, including the [Newt’s Cape](/terms/newts-cape) web browser, the [NewtDevEnv](/terms/newtdevenv) environment for developing applications using NewtonScript, and the [Sloup](/terms/sloup) data transfer utility.
 
 ## Additional Information
 
