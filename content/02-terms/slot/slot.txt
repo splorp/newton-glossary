@@ -6,7 +6,7 @@ Text:
 
 An element of a [frame](/terms/frame) or [array](/terms/array) that can hold an [immediate](/terms/immediate) value or [reference](/terms/reference) value.
 
-Slot can also refer to [card slot](/terms/card-slot), an opening where a [PC Card](/terms/pc-card) is inserted into a Newton device.
+Slot can also refer to [card slot](/terms/card-slot), an opening where a [PC card](/terms/pc-card) is inserted into a Newton device.
 
 ----
 
@@ -14,6 +14,7 @@ Related:
 
 - /terms/array
 - /terms/card-slot
+- /terms/card-latch
 - /terms/evaluate-slot
 - /terms/frame
 - /terms/immediate

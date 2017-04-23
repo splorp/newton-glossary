@@ -8,7 +8,7 @@ A [view](/terms/view) of information pertaining to an entry in the [Name File](/
 
 Card is also an [application](/terms/application) that allows the user to retrieve information about a PC card inserted into a Newton device. If the PC card is an [external store](/terms/external-store), the Card application can be used to rename, [backup](/terms/backup), [restore](/terms/restore), and erase information stored on the card.
 
-Card can also refer to a [PC Card](/terms/pc-card) or [CompactFlash](/terms/compactflash) card.
+Card can also refer to a [PC card](/terms/pc-card) or [CompactFlash](/terms/compactflash) card.
 
 ----
 
@@ -16,6 +16,8 @@ Related:
 
 - /terms/application
 - /terms/application-card
+- /terms/card-latch
+- /terms/card-slot
 - /terms/combo-card
 - /terms/compactflash
 - /terms/external-store

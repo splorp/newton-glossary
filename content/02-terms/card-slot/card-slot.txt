@@ -4,13 +4,14 @@ Title: Card Slot
 
 Text:
 
-An opening where a [PC Card](/terms/pc-card) is inserted into a Newton device.
+An opening where a [PC card](/terms/pc-card) is inserted into a Newton device.
 
 ----
 
 Related:
 
 - /terms/card
+- /terms/card-latch
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/protection-card

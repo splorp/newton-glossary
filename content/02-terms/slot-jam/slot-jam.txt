@@ -14,6 +14,8 @@ Slot jam can also refer to the schmutz that collects in a PC card [slot](/terms/
 Related:
 
 - /terms/card
+- /terms/card-latch
+- /terms/card-slot
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/protection-card
