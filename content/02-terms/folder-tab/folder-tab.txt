@@ -12,6 +12,8 @@ Related:
 
 - /terms/control
 - /terms/container-view
+- /terms/global-folder
+- /terms/local-folder
 - /terms/user-interface
 
 ----

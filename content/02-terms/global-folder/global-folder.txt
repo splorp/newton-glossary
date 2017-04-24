@@ -1,0 +1,25 @@
+Title: Global Folder
+
+----
+
+Date: 24 April 2017
+
+----
+
+Text:
+
+A folder that appears in all [applications](/terms/application). Compare with a [local folder](/terms/local-folder) which appears only in a specific application.
+
+----
+
+Related:
+
+- /terms/folder-tab
+- /terms/local-folder
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
