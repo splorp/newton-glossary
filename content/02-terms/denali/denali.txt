@@ -11,8 +11,9 @@ The alternate code name of [Dylan](/terms/dylan), the dynamic programming langua
 Related:
 
 - /terms/dylan
-- /terms/dynamic-language
+- /terms/newtonscript
 - /terms/ralph
+- /terms/smirkers
 
 ----
 

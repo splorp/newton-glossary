@@ -11,10 +11,12 @@ The high-level dynamic programming language developed at [Apple](https://www.app
 Related:
 
 - /terms/denali
-- /terms/ralph
-- /terms/junior
-- /terms/senior
 - /terms/dynamic-language
+- /terms/junior
+- /terms/newtonscript
+- /terms/ralph
+- /terms/senior
+- /terms/smirkers
 
 ----
 

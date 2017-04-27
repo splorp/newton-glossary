@@ -12,7 +12,8 @@ Related:
 
 - /terms/denali
 - /terms/dylan
-- /terms/dynamic-language
+- /terms/newtonscript
+- /terms/smirkers
 
 ----
 
