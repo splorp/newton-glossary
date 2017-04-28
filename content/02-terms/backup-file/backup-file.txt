@@ -1,0 +1,23 @@
+Title: Backup File
+
+----
+
+Date: 28 April 2017
+
+----
+
+Text:
+
+A file residing on a [storage card](/terms/storage-card), [desktop computer](/terms/desktop-computer), or [laptop computer](/terms/laptop-computer) that contains a copy of the information from a Newton device.
+
+----
+
+Related:
+
+- /terms/backup
+- /terms/nbk
+- /terms/nbku
+- /terms/newton-backup-express
+- /terms/newton-backup-utility
+- /terms/restore
+- /terms/storage-card
