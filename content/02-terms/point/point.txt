@@ -4,7 +4,7 @@ Title: Point
 
 Text:
 
-A unit of measurement for typefaces. Traditionally, there are approximately 72 points to an inch.
+A unit of measurement for typefaces. Traditionally, there are approximately 72 points to an inch. On a Newton device, the [font size](/terms/font-size) of text on screen is specified in points.
 
 ----
 
@@ -12,6 +12,7 @@ Related:
 
 - /terms/font
 - /terms/font-size
+- /terms/font-spec
 
 ----
 

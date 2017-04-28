@@ -4,7 +4,7 @@ Title: Text Run
 
 Text:
 
-A sequence of characters displayed with the same style and size attributes. Text is represented in paragraph views as a series of text runs with corresponding [font spec](/terms/font-spec) information.
+A sequence of characters displayed with the same [font style](/terms/font-style) and [font size](/terms/font-size) attributes. Text is represented in paragraph views as a series of text runs with corresponding [font spec](/terms/font-spec) information.
 
 ----
 
