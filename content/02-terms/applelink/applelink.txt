@@ -20,6 +20,8 @@ Related:
 
 - /terms/eworld
 - /terms/newtonmail
+- /terms/pie-developer-info
+- /terms/pie-developer-talk
 - /terms/piesysop
 
 ----

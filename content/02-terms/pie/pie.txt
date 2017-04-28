@@ -16,6 +16,8 @@ Related:
 - /terms/newton-developer-cd
 - /terms/newton-developer-support
 - /terms/newton-partners-program
+- /terms/pie-developer-info
+- /terms/pie-developer-talk
 - /terms/pie-partners-program
 - /terms/piesysop
 - /terms/starcore

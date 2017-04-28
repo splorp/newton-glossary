@@ -1,14 +1,14 @@
-Title: PIESYSOP
+Title: PIE Developer Talk
 
 ----
 
-Date: 01 February 2017
+Date: 27 April 2017
 
 ----
 
 Text:
 
-The [AppleLink](/terms/applelink) address for sending feedback to Newton developer resources, such as the [Newton Technology Journal](newton-technology-journal).
+A Newton focused discussion board found in the Developer Support area of the [AppleLink](/terms/applelink) online service and maintained by Apple’s [PIE](/terms/pie) (Personal Interactive Electronics) division.
 
 ----
 
@@ -22,8 +22,9 @@ Related:
 - /terms/newton-technology-journal
 - /terms/pie
 - /terms/pie-developer-info
-- /terms/pie-developer-talk
 - /terms/pie-partners-program
+- /terms/pie-program
+- /terms/piesysop
 
 ----
 
