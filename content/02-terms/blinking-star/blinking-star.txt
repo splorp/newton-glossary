@@ -1,0 +1,31 @@
+Title: Blinking Star
+
+----
+
+Date: 28 April 2017
+
+----
+
+Text:
+
+A small [icon](/terms/icon) that appears at the top of the screen on a Newton device to indicate that sometime. The blinking star can notify or remind the user that something needs their attention. For example, when an unknown word has been added to the [Recently Written Words](/terms/recently-written-words) list, the blinking star indicates that the user should review the list.
+
+The blinking star will also appear if a [status slip](/terms/status-slip) is hidden or when new items have been received in the [InOut Box](/terms/inout-box).
+
+----
+
+Related:
+
+- /terms/blinking-line
+- /terms/icon
+- /terms/inout-box
+- /terms/recently-written-words
+- /terms/star
+- /terms/status-slip
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

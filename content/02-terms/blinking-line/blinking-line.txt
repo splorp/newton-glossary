@@ -10,6 +10,7 @@ A flashing line indicating where new text will be inserted. More commonly referr
 
 Related:
 
+- /terms/blinking-star
 - /terms/caret
 - /terms/cursor
 - /terms/edit

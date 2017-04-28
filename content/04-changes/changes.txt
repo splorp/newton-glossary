@@ -20,6 +20,10 @@ Version: 2.3.1
 Terms: _$t
 Sources: _$s
 
+### Summary of changes:
+
++ Added new terms
+
 ## 24 April 2017
 
 Version: 2.3.0
