@@ -15,7 +15,7 @@ Related:
 - /terms/espy
 - /terms/hidee
 - /terms/in-box
-- /terms/in-out-box
+- /terms/inout-box
 - /terms/mail-v
 - /terms/newtonmail
 - /terms/out-box

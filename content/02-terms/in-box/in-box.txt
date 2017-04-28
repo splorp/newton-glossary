@@ -4,14 +4,14 @@ Title: In Box
 
 Text:
 
-A list in the [In/Out Box](/terms/in-out-box) application where received items can be viewed, filed, [routed](/terms/routing), and otherwise managed. The In Box and [Out Box](/terms/out-box) are separate [applications](/terms/application) in [Newton OS](/terms/newton-os) 1.x.
+A list in the [InOut Box](/terms/inout-box) application where received items can be viewed, filed, [routed](/terms/routing), and otherwise managed. The In Box and [Out Box](/terms/out-box) are separate [applications](/terms/application) in [Newton OS](/terms/newton-os) 1.x.
 
 ----
 
 Related:
 
 - /terms/enroute
-- /terms/in-out-box
+- /terms/inout-box
 - /terms/item-frame
 - /terms/mail-v
 - /terms/newtdump

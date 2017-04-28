@@ -4,7 +4,7 @@ Title: Routing
 
 Text:
 
-The process of sending or receiving data through the [In/Out Box](/terms/in-out-box) application using a communications [transport](/terms/transport) such as printing, faxing, [beaming](/terms/beaming), or emailing. Routing is generally initiated by using one of the options found in the [action picker](/terms/action-picker).
+The process of sending or receiving data through the [InOut Box](/terms/inout-box) application using a communications [transport](/terms/transport) such as printing, faxing, [beaming](/terms/beaming), or emailing. Routing is generally initiated by using one of the options found in the [action picker](/terms/action-picker).
 
 ----
 
@@ -13,7 +13,7 @@ Related:
 - /terms/action-button
 - /terms/action-picker
 - /terms/in-box
-- /terms/in-out-box
+- /terms/inout-box
 - /terms/out-box
 - /terms/routing-slip
 - /terms/transport

@@ -18,7 +18,7 @@ Related:
 - /terms/enroute
 - /terms/eworld
 - /terms/in-box
-- /terms/in-out-box
+- /terms/inout-box
 - /terms/newtonmail
 - /terms/out-box
 - /terms/routing
