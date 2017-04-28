@@ -10,9 +10,11 @@ The group of skeptical [Apple](https://www.apple.com/) employees working on the 
 
 Related:
 
-- /terms/newton-plus
-- /terms/senior
+- /terms/denali
 - /terms/dylan
+- /terms/newton-plus
+- /terms/ralph
+- /terms/senior
 
 ----
 

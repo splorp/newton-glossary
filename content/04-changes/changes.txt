@@ -16,14 +16,20 @@ Recently added terms and sources can be found on the [latest additions](/latest)
 
 ## Current Release
 
-Version: 2.3.0
+Version: 2.3.1
 Terms: _$t
 Sources: _$s
 
+## 24 April 2017
+
+Version: 2.3.0
+Terms: 1,052
+Sources: 98
+
 ### Summary of changes:
 
-+ Added new terms
-+ Added new sources
++ Added 45 new terms
++ Added 3 new sources
 + Updated and expanded dozens of existing entries
 + Added page listing the [latest additions](/latest) to the glossary
 + Moved [about](/about) and [change log](/changes) links to footer

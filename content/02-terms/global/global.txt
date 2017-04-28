@@ -12,7 +12,6 @@ Related:
 
 - /terms/constant
 - /terms/function
-- /terms/global
 - /terms/local
 - /terms/newtonscript
 - /terms/script

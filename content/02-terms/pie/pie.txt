@@ -14,6 +14,8 @@ Related:
 
 - /terms/newton-associates-program
 - /terms/newton-developer-cd
+- /terms/newton-developer-conference
+- /terms/newton-developer-mailing
 - /terms/newton-developer-support
 - /terms/newton-partners-program
 - /terms/pie-developer-info

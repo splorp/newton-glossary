@@ -16,6 +16,8 @@ Related:
 
 - /terms/application-card
 - /terms/card
+- /terms/card-latch
+- /terms/card-slot
 - /terms/combo-card
 - /terms/external-store
 - /terms/flash-card

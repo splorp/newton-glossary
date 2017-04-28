@@ -12,12 +12,15 @@ Related:
 
 - /terms/developer-technical-services
 - /terms/newton-associates-program
+- /terms/newton-developer-cd
 - /terms/newton-developer-conference
+- /terms/newton-developer-mailing
 - /terms/newton-developer-support
 - /terms/newton-technology-journal
 - /terms/npp
 - /terms/pie-developer-info
 - /terms/pie-developer-talk
+- /terms/pie
 - /terms/pie-partners-program
 
 ----
