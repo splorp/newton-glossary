@@ -2,6 +2,10 @@ Title: Bobby
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An [application](/terms/application) created by [Jason Rukman](/sources/jason-rukman) used during [device driver](/terms/device-driver) development, specifically isolated testing of [Lantern](/terms/lantern) drivers on a Newton device.

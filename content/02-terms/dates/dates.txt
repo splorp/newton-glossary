@@ -2,6 +2,10 @@ Title: Dates
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Date Book](/terms/date-book)

@@ -2,6 +2,10 @@ Title: Selection
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The [user interface](/terms/user-interface) object or group of user interface objects most recently [selected](/terms/select) or designated to be affected by the next action.

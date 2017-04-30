@@ -2,6 +2,10 @@ Title: Warm Boot
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Soft Reset](/terms/soft-reset)

@@ -2,6 +2,10 @@ Title: Notification Slip
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [view](/terms/view) that appears onscreen as part of the [user interface](/terms/user-interface), warning the user or reporting an error. A notification slip may or may not be accompanied by an [alert sound](/terms/alert-sound).

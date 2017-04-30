@@ -2,6 +2,10 @@ Title: NMP
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Newton MessagePad.

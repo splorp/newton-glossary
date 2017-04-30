@@ -2,6 +2,10 @@ Title: Layout View
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The topmost [parent](/terms/view) of all other [views](/terms/view) in a single [layout file](/terms/layout-file).

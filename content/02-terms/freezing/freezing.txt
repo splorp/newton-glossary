@@ -2,6 +2,10 @@ Title: Freezing
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Freeze](/terms/freeze)

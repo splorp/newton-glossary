@@ -2,6 +2,10 @@ Title: KNUG
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Korean Newton Users Group

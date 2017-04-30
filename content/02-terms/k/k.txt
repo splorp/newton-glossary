@@ -2,6 +2,10 @@ Title: K
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Project K](/terms/project-k)

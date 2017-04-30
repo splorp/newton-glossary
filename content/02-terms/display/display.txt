@@ -2,6 +2,10 @@ Title: Display
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Screen](/terms/screen)

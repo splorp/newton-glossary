@@ -2,6 +2,10 @@ Title: Button Provider
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An [application](/terms/application) that can add a [button](/terms/button) to another application or [button host](/terms/button-host).

@@ -2,6 +2,10 @@ Title: Stationery
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The capability of having different kinds of data within a single [application](/terms/application). For example, the ability to display text [notes](/terms/note), checklists, and outlines in the [Notepad](/terms/notepad) application. Stationery also facilitates the viewing of the same data in different ways — such as the “Card” and “All Info” views in the [Name File](/terms/name-file) application.

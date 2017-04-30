@@ -2,6 +2,10 @@ Title: Object Stream File
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Stream File](/terms/stream-file)

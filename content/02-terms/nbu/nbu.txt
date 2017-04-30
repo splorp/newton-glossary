@@ -2,6 +2,10 @@ Title: NBU
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton Backup Utility](/terms/newton-backup-utility)

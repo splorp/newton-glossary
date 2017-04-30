@@ -2,6 +2,10 @@ Title: Sleep
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An inactive state of a Newton device where system and peripheral functions are shut down, but the device can still respond or [wake](/terms/wake) to an external signal.

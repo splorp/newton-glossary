@@ -2,6 +2,10 @@ Title: Proto
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [frame](/terms/frame) referenced through another frame’s `_proto` [slot](/terms/slot). With regard to [views](/terms/view), a proto is not intended to be directly [instantiated](/terms/instantiate) — you [reference](/terms/reference) the proto from a [template](/terms/template). The system supplies several view protos (or [proto templates](/terms/proto-template)), which an [application](/terms/application) can use to implement [user interface](/terms/user-interface) elements such as [buttons](/terms/button) and [input areas](/terms/input-area).

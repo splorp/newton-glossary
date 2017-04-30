@@ -2,6 +2,10 @@ Title: Tag
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Tag Button](/terms/tag-button)

@@ -2,6 +2,10 @@ Title: Function Object
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [frame](/terms/frame) containing executable code. Function [objects](/terms/object) are created by the [function](/terms/function) constructor `func(args) funcBody`.

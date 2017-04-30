@@ -2,6 +2,10 @@ Title: Tap-and-a-Half
 
 ----
 
+Date:
+
+----
+
 Text:
 
 To [tap](/terms/tap), then quickly lift, touch, and hold the [pen](/terms/pen) in the same spot on the [screen](/terms/screen). Essentially performing a down, up, down action with the pen.

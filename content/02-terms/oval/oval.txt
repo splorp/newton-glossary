@@ -2,6 +2,10 @@ Title: Oval
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A circular or elliptical [shape](/terms/shape) defined by the bounding [rectangle](/terms/rectangle) that encloses it.

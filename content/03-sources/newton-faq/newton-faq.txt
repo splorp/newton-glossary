@@ -2,6 +2,10 @@ Title: Newton FAQ
 
 ----
 
+Date:
+
+----
+
 Text:
 
 ## Additional Information

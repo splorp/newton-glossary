@@ -2,6 +2,10 @@ Title: Signature
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Application Signature](/terms/application-signature)

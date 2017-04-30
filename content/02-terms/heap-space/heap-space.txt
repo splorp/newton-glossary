@@ -2,6 +2,10 @@ Title: Heap Space
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [System Memory](/terms/system-memory)

@@ -2,6 +2,10 @@ Title: NiMH
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Nickel Metal Hydride](/terms/nickel-metal-hydride)

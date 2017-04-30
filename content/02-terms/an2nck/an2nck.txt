@@ -2,6 +2,10 @@ Title: AN2NCK
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Software created by [Iambic Software](http://www.iambic.com/) that allows the [Newton Connection](/terms/newton-connection-kit) application to access the additional data fields which [Action Names](/terms/action-names) adds to each record used by the of the built-in [Name File](/terms/name-file) application.

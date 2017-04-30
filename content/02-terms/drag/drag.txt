@@ -2,6 +2,10 @@ Title: Drag
 
 ----
 
+Date:
+
+----
+
 Text:
 
 To place the [pen](/terms/pen) on a movable object — such as a [slider](/terms/slider) control or [container view](/terms/container-view) — then slide the pen to move the object and finally lift the pen to stop moving the object.

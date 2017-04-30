@@ -2,6 +2,10 @@ Title: Persona
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The permanent internal description of an individual person that uses a particular Newton device, or a particular public image of the [owner](/terms/owner). The owner is the most obvious and common persona, but it is by no means the only example. Choosing a persona sets up the name, title, birthday, telephone number, email address, and other information pertaining to the current user.

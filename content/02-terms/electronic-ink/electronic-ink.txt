@@ -2,6 +2,10 @@ Title: Electronic Ink
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The marks that are displayed directly on the Newton [screen](/terms/screen) as the user writes or draws. Electronic ink can be converted into typeset words or regularized, geometric [shapes](/terms/shape) after the system recognizes and processes the user’s writing or drawing.

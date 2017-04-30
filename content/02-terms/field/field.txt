@@ -2,6 +2,10 @@ Title: Field
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A place in a [container view](/terms/container-view) or input [slip](/terms/slip) where a user can enter text-based data.

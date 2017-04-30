@@ -2,6 +2,10 @@ Title: MPW
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Macintosh Programmers Workshop](/terms/macintosh-programmers-workshop)

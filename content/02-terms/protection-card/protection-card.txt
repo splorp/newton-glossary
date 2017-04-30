@@ -2,6 +2,10 @@ Title: Protection Card
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A plastic card that is inserted into an empty [card slot](/terms/card-slot) to protect the slot from damage.

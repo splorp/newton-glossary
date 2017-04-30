@@ -2,6 +2,10 @@ Title: DN
 
 ----
 
+Date:
+
+----
+
 Text:
 
 During Newton

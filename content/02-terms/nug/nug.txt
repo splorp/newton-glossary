@@ -2,6 +2,10 @@ Title: NUG
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton User Group](/terms/newton-user-group)

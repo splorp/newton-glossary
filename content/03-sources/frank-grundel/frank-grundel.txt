@@ -2,6 +2,10 @@ Title: Frank Gründel
 
 ----
 
+Date:
+
+----
+
 Text:
 
 ## Additional Information

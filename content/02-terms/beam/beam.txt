@@ -2,6 +2,10 @@ Title: Beam
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Beaming](/terms/beaming)

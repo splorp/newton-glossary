@@ -2,6 +2,10 @@ Title: Llama
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The unofficial mascot of the Apple’s [Developer Technical Services](/terms/developer-technical-services) team within the [Newton Systems Group](/terms/newton-systems-group). [Maurice Sharp](/sources/maurice-sharp), otherwise known as [Dr Llama](/terms/dr-llama), wrote a Newton-related column entitled [Ask The Llama](/terms/ask-the-llama) for Apple’s developer publications.

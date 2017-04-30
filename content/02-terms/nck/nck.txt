@@ -2,6 +2,10 @@ Title: NCK
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton Connection Kit](/terms/newton-connection-kit)

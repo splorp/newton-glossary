@@ -2,6 +2,10 @@ Title: Lantern DDK
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Lantern](/terms/lantern)

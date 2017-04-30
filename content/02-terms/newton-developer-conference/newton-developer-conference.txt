@@ -2,6 +2,10 @@ Title: Newton Developer Conference
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A periodic event scheduled by [Apple](https://www.apple.com/) in support of the Newton development community. At one time, these events allowed developers to meet each other in person and learn about future directions of Newton business, marketing, and technologies. Also referred to as [NDC](/terms/ndc).

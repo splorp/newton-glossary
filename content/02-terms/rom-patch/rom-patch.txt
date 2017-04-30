@@ -2,6 +2,10 @@ Title: ROM Patch
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Patch](/terms/patch)

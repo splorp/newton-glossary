@@ -2,6 +2,10 @@ Title: EL
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Electroluminescent Panel](/terms/electroluminescent-panel)

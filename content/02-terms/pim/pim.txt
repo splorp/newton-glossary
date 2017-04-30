@@ -2,6 +2,10 @@ Title: PIM
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Personal Information Manager](/terms/personal-information-manager)

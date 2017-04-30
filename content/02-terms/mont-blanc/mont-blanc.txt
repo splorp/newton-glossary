@@ -2,6 +2,10 @@ Title: Mont Blanc
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The code name of the final [Senior](/terms/senior) or [Newton Plus](/terms/newton-plus) product design. This device was apparently engineered and tooled for production before being shelved and subsequently replaced by the [Pocket Newton](/terms/pocket-newton), code named [Junior](/terms/junior).

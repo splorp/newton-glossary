@@ -2,6 +2,10 @@ Title: Ethernet
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A family of packet-based networking technologies originally developed at [Xerox PARC](https://www.parc.com/) in the early 1970s. Ethernet connects computers and other devices over a [local area network](/terms/local-area-network) (LAN) using communication [protocols](/terms/protocol) such as [AppleTalk](/terms/appletalk) and [TCP/IP](/terms/tcp-ip). Ethernet connections commonly use twisted pair cables with [RJ-45](/terms/rj-45) style connectors.

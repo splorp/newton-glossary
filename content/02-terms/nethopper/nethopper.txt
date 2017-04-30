@@ -2,6 +2,10 @@ Title: NetHopper
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The first commercial web browser for [Newton OS](/terms/newton-os) developed by [AllPen Software](/sources/allpen) and released in August 1996.

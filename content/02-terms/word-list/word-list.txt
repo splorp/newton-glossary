@@ -2,6 +2,10 @@ Title: Word List
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Personal Word List](/terms/personal-word-list)

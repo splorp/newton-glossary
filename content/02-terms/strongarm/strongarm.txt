@@ -2,6 +2,10 @@ Title: StrongARM
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The low-power [RISC](/terms/risc) processor used in Newton devices, developed by [ARM](/terms/arm) in conjunction with [Digital Equipment Corporation](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation).

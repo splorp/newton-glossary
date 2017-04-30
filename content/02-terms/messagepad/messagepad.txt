@@ -2,6 +2,10 @@ Title: MessagePad
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The base model name for all [Apple](https://www.apple.com/) manufactured Newton devices except the [eMate 300](/terms/emate-300).

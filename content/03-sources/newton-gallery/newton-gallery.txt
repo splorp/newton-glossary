@@ -2,6 +2,10 @@ Title: Newton Gallery
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A site run by the Newton Special Interest Group (formerly [MSNUG](/terms/msnug)) of the Michigan State Palmtop User Group (MSPUG).

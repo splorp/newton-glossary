@@ -2,6 +2,10 @@ Title: Internet Gateway
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Gateway](/terms/gateway)

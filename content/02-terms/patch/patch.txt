@@ -2,6 +2,10 @@ Title: Patch
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A small piece of code designed to modify or update certain aspects of an [operating system](/terms/operating-system) or larger software [application](/terms/application).

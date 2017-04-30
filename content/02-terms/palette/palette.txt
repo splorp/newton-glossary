@@ -2,6 +2,10 @@ Title: Palette
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A small [floating container view](/terms/floating-container-view) that provides [controls](/terms/control) for modifying the contents of other [views](/terms/view). The palette appears on top of other views of the same [application](/terms/application) and remains open for use in all visible views. The user can move the palette using a [drag handle](/terms/drag-handle).

@@ -2,6 +2,10 @@ Title: DIN-8
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Mini-DIN](/terms/mini-din)

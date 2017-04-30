@@ -2,6 +2,10 @@ Title: Cell
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A device that converts chemical energy into electrical energy. A [battery](/terms/battery) is usually comprised of two or more interconnected cells.

@@ -2,6 +2,10 @@ Title: Newtourage
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A desktop [application](/terms/application) created by [John Del Pizzo](https://johndelpizzo.wordpress.com/) that allows a Newton device to [synchronize](/terms/synchronize) contact information between the [Name File](/terms/name-file) application and [Microsoft Entourage](https://en.wikipedia.org/wiki/Microsoft_Entourage).

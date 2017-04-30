@@ -2,6 +2,10 @@ Title: ANUG
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Austin Newton Users Group

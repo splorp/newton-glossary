@@ -2,6 +2,10 @@ Title: eMate 1000
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The speculative, business-focused successor to the [eMate 300](/terms/emate-300). The eMate 1000 was rumoured to include the more powerful [StrongARM](/terms/strongarm) processor and larger memory capacity of the [MessagePad 2100](/terms/messagepad-2100), along with built-in [ethernet](/terms/ethernet), an internal modem, and a more “conservation” case design.

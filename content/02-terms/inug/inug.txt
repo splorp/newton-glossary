@@ -2,6 +2,10 @@ Title: INUG
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Italian Newton User Group

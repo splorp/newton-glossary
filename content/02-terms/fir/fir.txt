@@ -2,6 +2,10 @@ Title: FIR
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Fast Infrared](/terms/fast-infrared)

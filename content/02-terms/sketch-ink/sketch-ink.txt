@@ -2,6 +2,10 @@ Title: Sketch Ink
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Ink](/terms/ink)

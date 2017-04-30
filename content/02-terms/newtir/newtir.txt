@@ -2,6 +2,10 @@ Title: NewtIR
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An [infrared](/terms/infrared) communications [protocol](/terms/protocol) based on the [ASK](/terms/ask) standard and used in older Newton devices. This protocol includes extensions developed by [Apple](https://www.apple.com/) which make it substantially faster.

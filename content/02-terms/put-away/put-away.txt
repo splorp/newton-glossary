@@ -2,6 +2,10 @@ Title: Put Away
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A choice in the [tag button](/terms/tag-button) picker which moves the current item or [selected](/terms/select) items to their logical home. For example, an item containing contact information would be “put away” in the [Name File](/terms/name-file) application.

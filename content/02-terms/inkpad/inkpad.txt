@@ -2,6 +2,10 @@ Title: InkPad
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A simple interface contained in a floating window where written input is converted into editable text when using the [Inkwell](/terms/inkwell) handwriting recognition system.

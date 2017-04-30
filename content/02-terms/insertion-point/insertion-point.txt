@@ -2,6 +2,10 @@ Title: Insertion Point
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Caret](/terms/caret)

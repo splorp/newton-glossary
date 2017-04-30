@@ -2,6 +2,10 @@ Title: Page
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Memory Page](/terms/memory-page)

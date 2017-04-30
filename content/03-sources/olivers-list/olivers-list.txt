@@ -2,6 +2,10 @@ Title: Oliver’s List of Newton Easter Eggs
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A voluminous list of [Newton OS](/terms/newton-os) and application specific [easter eggs](/terms/easter-egg) compiled by [Oliver O. Fross](http://www.oliverfross.com/).

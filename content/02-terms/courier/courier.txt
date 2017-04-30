@@ -2,6 +2,10 @@ Title: Courier
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A simple, text-only web browser and [RSS](/terms/rss) reader for Newton devices developed by [Eckhart Köppen](/sources/eckhart-koppen).

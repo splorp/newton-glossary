@@ -2,6 +2,10 @@ Title: Thawed
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Thawed Package](/terms/thawed-package)

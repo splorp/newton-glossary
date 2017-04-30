@@ -2,6 +2,10 @@ Title: Part Frame
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The top-level [frame](/terms/frame) that holds an [application](/terms/application), [book](/terms/newton-book), [store part](/terms/store-part), or [auto part](/terms/auto-part).

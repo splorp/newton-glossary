@@ -2,6 +2,10 @@ Title: Store
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A physical repository that can contain [soups](/terms/soup) and [packages](/terms/package). A store is the equivalent of a disk volume on a [desktop computer](/terms/desktop-computer) or [laptop](/terms/laptop-computer).

@@ -2,6 +2,10 @@ Title: Jellyfish
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The purported code name for the clear [MessagePad 110](/terms/messagepad-110) device. Often mistaken for a prototype, the clear-cased version was a special edition of the MessagePad 110 made available to developers and [Apple](https://www.apple.com/) employees.

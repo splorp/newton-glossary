@@ -2,6 +2,10 @@ Title: Class
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A symbol that describes the data referenced by an [object](/terms/object). [Arrays](/terms/array), [frames](/terms/frame), and [binary objects](/terms/binary-object) can have user-defined classes.

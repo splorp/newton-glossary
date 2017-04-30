@@ -2,6 +2,10 @@ Title: MP120
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [MessagePad 120](/terms/messagepad-120)

@@ -2,6 +2,10 @@ Title: Toast
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Deep Toast](/terms/deep-toast)

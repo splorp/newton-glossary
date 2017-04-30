@@ -2,6 +2,10 @@ Title: Style Guide
 
 ----
 
+Date:
+
+----
+
 Text:
 
 ## Abbreviations (used as a “see also” pointing at expanded term)

@@ -2,6 +2,10 @@ Title: RS-232
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A standard for serial communication between computers and peripheral devices such as modems and terminals. Devices supporting the RS-232 are outfitted with DB-25 or DE-9 connectors.

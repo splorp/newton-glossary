@@ -2,6 +2,10 @@ Title: SIR
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Slow Infrared](/terms/slow-infrared)

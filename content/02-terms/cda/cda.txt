@@ -2,6 +2,10 @@ Title: CDA
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Craft Digital Assistant](/terms/craft-digital-assistant)

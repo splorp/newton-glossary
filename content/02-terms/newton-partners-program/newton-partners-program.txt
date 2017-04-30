@@ -2,6 +2,10 @@ Title: Newton Partners Program
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A defunct [Apple](https://www.apple.com/) development support program which provided comprehensive technical and marketing resources to Newton developers beyond what was available through the entry-level [Newton Associates Program](/terms/newton-associates-program). The Newton Partners Program was preceded by the [PIE Partners Program](/terms/pie-partners-program). Also referred to as [NPP](/terms/npp).

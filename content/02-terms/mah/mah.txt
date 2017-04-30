@@ -2,6 +2,10 @@ Title: mAh
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Milliamp Hours

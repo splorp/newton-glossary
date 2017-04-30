@@ -2,6 +2,10 @@ Title: MessagePad Handbook (1995)
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Published by [Apple](https://www.apple.com/) in 1995 and 1996, this is the definitive reference for the [MessagePad 120](/terms/messagepad-120) device and [Newton OS](/terms/newton-os) 2.0 software.

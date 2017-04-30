@@ -2,6 +2,10 @@ Title: EOP
 
 ----
 
+Date:
+
+----
+
 Text:
 
 End of Packet

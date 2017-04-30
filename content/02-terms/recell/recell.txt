@@ -2,6 +2,10 @@ Title: Recell
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The process of replacing the nonfunctioning [cells](/terms/cell) in a rechargeable [battery pack](/terms/battery-pack) with new cells.

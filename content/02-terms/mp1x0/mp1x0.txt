@@ -2,6 +2,10 @@ Title: MP1x0
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A shorthand term used when referring to the [MessagePad 110](/terms/messagepad-110), [MessagePad 120](/terms/messagepad-120), and [MessagePad 130](/terms/messagepad-130) devices, which all share the same case design.

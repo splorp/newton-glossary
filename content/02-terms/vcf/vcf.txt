@@ -2,6 +2,10 @@ Title: VCF
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [vCard](/terms/vcard)

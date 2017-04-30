@@ -2,6 +2,10 @@ Title: FAQ
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Frequently Asked Questions

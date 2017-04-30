@@ -2,6 +2,10 @@ Title: Newton Book Maker User’s Guide
 
 ----
 
+Date:
+
+----
+
 Text:
 
 ## Additional Information

@@ -2,6 +2,10 @@ Title: Enet
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Ethernet](/terms/ethernet)

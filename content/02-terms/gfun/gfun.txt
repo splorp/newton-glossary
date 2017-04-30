@@ -2,6 +2,10 @@ Title: GFUN
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Groupe Francophone des Utilisateurs de Newton

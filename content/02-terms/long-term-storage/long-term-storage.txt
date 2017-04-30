@@ -2,6 +2,10 @@ Title: Long Term Storage
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An extended period of disuse of a Newton device or other piece of equipment. Part of the preparation process prior to long term storage is to remove the main [battery](/terms/battery) and the [backup battery](/terms/backup-battery), if applicable. This helps prevent damage to the Newton device due to battery leakage. Also referred to as [LTS](/terms/lts).

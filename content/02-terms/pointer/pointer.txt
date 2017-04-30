@@ -2,6 +2,10 @@ Title: Pointer
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An [address](/terms/address) from the point of view of a programming language. A pointer may be “typed” — its type indicating the type of data to which it points.

@@ -2,6 +2,10 @@ Title: Restore
 
 ----
 
+Date:
+
+----
+
 Text:
 
 To replace all of the information on a Newton device with information from a [backup](/terms/backup).

@@ -2,6 +2,10 @@ Title: Accessory Card
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A removable [PC card](/terms/pc-card) that provides additional functionality, such as a modem for serial communication or an [ethernet](/terms/ethernet) card for networking.

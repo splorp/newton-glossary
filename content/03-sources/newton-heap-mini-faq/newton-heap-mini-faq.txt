@@ -2,6 +2,10 @@ Title: Newton Heap Mini-FAQ
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Frequently asked questions compiled by Daniel Domberger relating to memory, heap, and storage in Newton devices.

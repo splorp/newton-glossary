@@ -2,6 +2,10 @@ Title: Thawing
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Thaw](/terms/thaw)

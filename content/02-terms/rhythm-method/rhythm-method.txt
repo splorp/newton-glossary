@@ -2,6 +2,10 @@ Title: Rhythm Method
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The process of repeatedly removing and inserting a rechargeable [battery pack](/terms/battery-pack) from a Newton device to stimulate charging.

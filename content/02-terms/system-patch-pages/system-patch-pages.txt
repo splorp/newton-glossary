@@ -2,6 +2,10 @@ Title: System Patch Pages
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Memory pages that replace the [ROM](/terms/rom) or [ROM Extension](/terms/rom-extension) pages of the [patchable jumptable](/terms/patchable-jumptable) or the [magic pointers table](/terms/magic-pointers-table).

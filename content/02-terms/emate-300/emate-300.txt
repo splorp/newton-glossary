@@ -2,6 +2,10 @@ Title: eMate 300
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A ruggedized, translucent [clamshell](/terms/clamshell) style Newton device that featured a built-in keyboard, extremely long battery life, and an integrated suite of [applications](/terms/application) called [Newton Works](/terms/newton-works). The device was primarily aimed at the educational market.

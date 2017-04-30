@@ -2,6 +2,10 @@ Title: Frozen
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Frozen Package](/terms/frozen-package)

@@ -2,6 +2,10 @@ Title: Newton Bowels
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A project instigated by [Paul Guyot](/sources/paul-guyot) to document [APIs](/terms/api), inner workings, and other programmatic mechanisms found in the [Newton OS](/terms/newton-os) and to provide related sample code and development tools.

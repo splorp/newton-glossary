@@ -2,6 +2,10 @@ Title: NIC
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Network Interface Card](/terms/network-interface-card) and [Newton Interconnect](/terms/newton-interconnect)

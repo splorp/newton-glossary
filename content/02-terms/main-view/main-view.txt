@@ -2,6 +2,10 @@ Title: Main View
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A principal [container view](/terms/container-view) that serves as a center of user operations for an [application](/terms/application).

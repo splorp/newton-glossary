@@ -2,6 +2,10 @@ Title: Global
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [variable](/terms/variable) or [function](/terms/function) that is accessible from any [NewtonScript](/terms/newtonscript) code.

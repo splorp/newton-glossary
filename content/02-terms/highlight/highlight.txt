@@ -2,6 +2,10 @@ Title: Highlight
 
 ----
 
+Date:
+
+----
+
 Text:
 
 To make something visually distinct, typically when it’s [selected](/terms/select). Usually done by reversing or [inverting](/terms/invert) black and white areas.

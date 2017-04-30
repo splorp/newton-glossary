@@ -2,6 +2,10 @@ Title: NP
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton Press](/terms/newton-press)

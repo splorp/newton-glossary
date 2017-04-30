@@ -2,6 +2,10 @@ Title: Resource
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Raw data — usually consisting of [bitmaps](/terms/bitmap) or sounds - stored on the development system and incorporated into a Newton [application](/terms/application) during the [project build](/terms/project-build).

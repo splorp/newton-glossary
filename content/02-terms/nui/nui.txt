@@ -2,6 +2,10 @@ Title: NUI
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton User Interface](/terms/newton-user-interface)

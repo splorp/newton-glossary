@@ -2,6 +2,10 @@ Title: Ian Robinson
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Author of a fairly thorough tutorial on Newton data storage and programmatic interaction with data soups.

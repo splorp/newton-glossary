@@ -2,6 +2,10 @@ Title: In Box
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A list in the [InOut Box](/terms/inout-box) application where received items can be viewed, filed, [routed](/terms/routing), and otherwise managed. The In Box and [Out Box](/terms/out-box) are separate [applications](/terms/application) in [Newton OS](/terms/newton-os) 1.x.

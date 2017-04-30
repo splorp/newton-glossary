@@ -2,6 +2,10 @@ Title: NSOF
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Newton Streamed Object Format

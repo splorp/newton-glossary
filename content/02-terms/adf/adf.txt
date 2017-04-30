@@ -2,6 +2,10 @@ Title: ADF
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Application Definition Format](/terms/application-definition-format)

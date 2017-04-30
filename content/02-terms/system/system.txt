@@ -2,6 +2,10 @@ Title: System
 
 ----
 
+Date:
+
+----
+
 Text:
 
 One of the default bitmap [fonts](/terms/font) on the Newton. System was derived from the [Espy](/terms/espy) family of proportionally spaced sans serif typefaces originally designed for use in Apple’s less than spectacular [eWorld](/terms/eworld) online service.

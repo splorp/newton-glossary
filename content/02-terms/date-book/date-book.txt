@@ -2,6 +2,10 @@ Title: Date Book
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The built-in [application](/terms/application) for recording and viewing appointments and calendar notes, setting alarms, entering repeating [events](/terms/event), and keeping a to-do list. Also referred to as [Dates](/terms/dates) and erroneously called [Datebook](/terms/datebook) in some of Apple’s support articles.

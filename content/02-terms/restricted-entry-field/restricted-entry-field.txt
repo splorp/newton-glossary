@@ -2,6 +2,10 @@ Title: Restricted Entry Field
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [field](/terms/field) of a [view](/terms/view) that only accepts user [input](/terms/input) values as specified in the view’s [template](/terms/template) slot. For example, a field for entering a telephone number would likely restrict acceptable user input to numerals.

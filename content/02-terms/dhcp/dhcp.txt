@@ -2,6 +2,10 @@ Title: DHCP
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Dynamic Host Configuration Protocol

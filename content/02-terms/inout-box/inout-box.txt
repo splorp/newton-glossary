@@ -2,6 +2,10 @@ Title: InOut Box
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The [application](/terms/application) that serves as a central repository for all incoming and outgoing data handled by the [routing](/terms/routing) and [transport](/terms/transport) interfaces. The InOut Box application is specifically part of [Newton OS](/terms/newton-os) 2.x, whereas Newton OS 1.x utilizes separate applications for the [In Box](/terms/in-box) and [Out Box](/terms/out-box).

@@ -2,6 +2,10 @@ Title: Macintosh Programmers Workshop
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A comprehensive collection of core development tools from [Apple](https://www.apple.com/) designed to support C, C++, and assembly language programmers developing Macintosh software. Also referred to as [MPW](/terms/mpw).

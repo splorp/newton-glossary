@@ -2,6 +2,10 @@ Title: Application
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Software that performs a specific task, such as the [Notepad](/terms/notepad), [Date Book](/terms/date-book), and [Name File](/terms/name-file) applications built into the [Newton OS](/terms/newton-os).

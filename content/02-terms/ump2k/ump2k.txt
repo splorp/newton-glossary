@@ -2,6 +2,10 @@ Title: UMP2K
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Upgraded MessagePad 2000.

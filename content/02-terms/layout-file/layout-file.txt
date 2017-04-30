@@ -2,6 +2,10 @@ Title: Layout File
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A file that contains [templates](/terms/template) for the [views](/terms/view) that are compiled by [Newton Toolkit](/terms/newton-toolkit).

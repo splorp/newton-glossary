@@ -2,6 +2,10 @@ Title: Variable
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A named location in memory where an executable program or [function](/terms/function) can store and retrieve intermediate results. [NewtonScript](/terms/newtonscript) supports both [local](/terms/local) and [global](/terms/global) variables.

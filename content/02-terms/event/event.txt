@@ -2,6 +2,10 @@ Title: Event
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An entry in the [Date Book](/terms/date-book) application corresponding to a day, but not a particular time during that day.

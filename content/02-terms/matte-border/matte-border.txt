@@ -2,6 +2,10 @@ Title: Matte Border
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A visually distinct [Newton user interface](/terms/newton-user-interface) element consisting of a thick grey border framed with black.

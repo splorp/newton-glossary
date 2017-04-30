@@ -2,6 +2,10 @@ Title: Polygon
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [shape](/terms/shape) defined by a sequence of points representing the polygon’s vertices, connected by straight [lines](/terms/line) from one point to the next.

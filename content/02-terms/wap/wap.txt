@@ -2,6 +2,10 @@ Title: WAP
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Wireless Access Point](/terms/wireless-access-point)

@@ -2,6 +2,10 @@ Title: Commander Clueless
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Dr Llama](/terms/dr-llama)

@@ -2,6 +2,10 @@ Title: Project Build
 
 ----
 
+Date:
+
+----
+
 Text:
 
 To compile all of the various files, [resources](/terms/resource), and other data components for a given [project](/terms/project) into an executable program.

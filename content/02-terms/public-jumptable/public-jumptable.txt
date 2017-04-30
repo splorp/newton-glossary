@@ -2,6 +2,10 @@ Title: Public Jumptable
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A list of branching instructions for the microprocessor, indirectly pointing to native Newton OS [functions](/terms/function). For each version of the Newton OS 2.x [ROM](/terms/rom), the functions always reside at the same offset in the [jumptable](/terms/jumptable). Native programs can call these functions via the public jumptable and they will work on every [Newton OS](/terms/newton-os) 2.x device. The public jumptable also contains a series of branches pointing to the [patchable jumptable](/terms/patchable-jumptable).

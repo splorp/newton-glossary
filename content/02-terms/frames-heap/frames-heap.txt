@@ -2,6 +2,10 @@ Title: Frames Heap
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Heap](/terms/heap)

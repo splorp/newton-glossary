@@ -2,6 +2,10 @@ Title: Ethertalk
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The [AppleTalk](/terms/appletalk) networking [protocol](/terms/protocol) delivered over [Ethernet](/terms/ethernet).

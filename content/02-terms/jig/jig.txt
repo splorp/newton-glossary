@@ -2,6 +2,10 @@ Title: Jig!
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A jigsaw puzzle game for [Newton OS](/terms/newton-os) developed by [Pensée Corporation](http://www.pensee.com/pensee/) and distributed by [Dubl-Click Software](https://web.archive.org/web/20061018211843/http://www.dublclick.com/Jig.html). Jig! was originally sold through Apple’s [StarCore](/terms/starcore) software division as the much less memorable [Jigsaw Strategy Game](/terms/jigsaw-strategy-game).

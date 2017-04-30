@@ -2,6 +2,10 @@ Title: Tap
 
 ----
 
+Date:
+
+----
+
 Text:
 
 To touch the [screen](/terms/screen) briefly with the [pen](/terms/pen). Essentially the same action as clicking a mouse or trackpad button on a [desktop computer](/terms/desktop-computer), [laptop](/terms/laptop-computer), or equivalent device.

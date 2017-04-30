@@ -2,6 +2,10 @@ Title: Memory Page
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A segment of memory containing addresses translated by the [memory management unit](/terms/memory-management-unit) (MMU). A page consists of a group of bytes considered indivisible by the MMU. The MMU for the [ARM](/terms/arm) processor divides the memory into sections of 1 MB, which can then be divided into pages of 4 KB and 64 KB.

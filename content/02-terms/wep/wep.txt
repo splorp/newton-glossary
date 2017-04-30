@@ -2,6 +2,10 @@ Title: WEP
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Wired Equivalent Privacy

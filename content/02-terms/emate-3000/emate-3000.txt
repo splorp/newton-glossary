@@ -2,6 +2,10 @@ Title: eMate 3000
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [eMate 1000](/terms/emate-1000)

@@ -2,6 +2,10 @@ Title: Soup
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A persistently stored [object](/terms/object) that contains a series of [frames](/terms/frame) called [entries](/terms/entry). Like a [database](/terms/database), a soup has indexes that are used to access entries in a sorted order.

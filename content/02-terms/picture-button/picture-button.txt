@@ -2,6 +2,10 @@ Title: Picture Button
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A control that when [tapped](/terms/tapped) by the user, performs or confirms the action implied by the [icon](/terms/icon) displayed on the [button](/terms/button).

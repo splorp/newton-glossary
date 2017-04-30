@@ -2,6 +2,10 @@ Title: Owner Info
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [slip](/terms/slip) containing information regarding the [owner](/terms/owner) and [worksites](/terms/worksite) that a user has set up.

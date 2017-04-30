@@ -2,6 +2,10 @@ Title: The Newties
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newtie Award](/terms/newtie-award)

@@ -2,6 +2,10 @@ Title: Card Slot
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An opening where a [PC card](/terms/pc-card) is inserted into a Newton device.

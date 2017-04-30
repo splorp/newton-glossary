@@ -2,6 +2,10 @@ Title: Type Ahead
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The process by which the [Newton OS](/terms/newton-os) stores keystrokes — typed faster than the system can immediately process — for later processing.

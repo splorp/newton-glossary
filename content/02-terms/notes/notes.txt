@@ -2,6 +2,10 @@ Title: Notes
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Notepad](/terms/notepad)

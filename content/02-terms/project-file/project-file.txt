@@ -2,6 +2,10 @@ Title: Project File
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [Newton Toolkit](/terms/newton-toolkit) document that contains a list of files to be included in a [project-build](/terms/project-build) and the specifications pertaining to that build.

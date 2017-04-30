@@ -2,6 +2,10 @@ Title: Newton Programmer’s Guide
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Published by [Apple](https://www.apple.com/) in 1996 as a companion to the [Newton Programmer’s Reference](/sources/newton-programmers-reference), this is the definitive guide to Newton programming. An addendum covering changes and additions to [Newton OS](/terms/newton-os) 2.1 was published in 1997.

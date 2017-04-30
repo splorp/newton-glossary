@@ -2,6 +2,10 @@ Title: PassCode
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A four-digit security code used to access text messages, voicemail messages, and change various account settings associated with an [Apple Wireless Messaging Service](/terms/apple-wireless-messaging-service) account. Not to be confused with the seven-digit personal identification number or [PIN](/terms/pin) used to identify a user on the service.

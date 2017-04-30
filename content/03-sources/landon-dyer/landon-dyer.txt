@@ -2,6 +2,10 @@ Title: Landon Dyer
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A software engineer at [Apple](htpp://www.apple.com/) during the early Newton years, Dyer worked specifically on development tools and the [Newton OS](/terms/newton-os) kernel.

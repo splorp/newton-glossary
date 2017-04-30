@@ -2,6 +2,10 @@ Title: Ink Text
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Words written in [electronic ink](/terms/electronic-ink).

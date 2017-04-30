@@ -2,6 +2,10 @@ Title: CF Card
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [CompactFlash](/terms/compactflash)

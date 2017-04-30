@@ -2,6 +2,10 @@ Title: X
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Close Box](/terms/close-box)

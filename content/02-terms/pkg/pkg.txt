@@ -2,6 +2,10 @@ Title: pkg
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The file extension used to identify Newton [package files](/terms/package-file). Confusingly, a number of other [operating systems](/terms/operating-system) including Solaris, BeOS, Mac OS X, and iOS also use the `.pkg` extension to denote installable software packages. To avoid interoperability issues, it has been suggested that Newton package files use the `.newtonpkg` file extension on current operating systems.

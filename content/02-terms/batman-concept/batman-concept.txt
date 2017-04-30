@@ -2,6 +2,10 @@ Title: Batman Concept
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Batman](/terms/batman)

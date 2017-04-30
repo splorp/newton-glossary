@@ -2,6 +2,10 @@ Title: AirConnect
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [WaveLan](/terms/wavelan)

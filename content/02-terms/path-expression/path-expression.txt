@@ -2,6 +2,10 @@ Title: Path Expression
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An [object](/terms/object) that encapsulates an access path through a set of [arrays](/terms/array) or [frames](/terms/frame).

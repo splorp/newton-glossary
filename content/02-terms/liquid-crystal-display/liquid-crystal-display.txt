@@ -2,6 +2,10 @@ Title: Liquid Crystal Display
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A thin, electro-optical [screen](/terms/screen) used to display information on the Newton and other electronic devices.

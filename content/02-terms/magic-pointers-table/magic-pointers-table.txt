@@ -2,6 +2,10 @@ Title: Magic Pointers Table
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A series of NewtonScript [pointers](/terms/pointer) that indicate the location of various [objects](/terms/object). This table can be partially replaced by [system patch pages](/terms/system-patch-pages), allowing a [system patch](/terms/system-patch) to replace specific [magic pointers](/terms/magic-pointer).

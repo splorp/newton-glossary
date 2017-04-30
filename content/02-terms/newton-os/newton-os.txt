@@ -2,6 +2,10 @@ Title: Newton OS
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The [operating system](/terms/operating-system) that controls a Newton device. Also referred to as simply [NOS](/terms/nos).

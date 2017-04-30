@@ -2,6 +2,10 @@ Title: Operating System
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The primary software program that controls a computing device. The primary component of an operating system is the [kernel](/terms/kernel), which resides in memory at all times. Also referred to as simply [OS](/terms/os).

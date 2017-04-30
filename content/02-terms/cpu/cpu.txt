@@ -2,6 +2,10 @@ Title: CPU
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Central Processing Unit](/terms/central-processing-unit)

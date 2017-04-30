@@ -2,6 +2,10 @@ Title: Newton Aluminum Shell Project
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A project that explored the possibility of creating a machined aluminum replacement casing for the [MessagePad 2100](/terms/messagepad-2100) device. Also referred to as [NASP](/terms/nasp).

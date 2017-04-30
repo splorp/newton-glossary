@@ -2,6 +2,10 @@ Title: Virtual Binary Object
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A special type of container [object](/terms/object) that is useful for holding binary data larger than the available space in the [NewtonScript heap](/terms/newtonscript-heap). Virtual binary objects are useful because they reside directly in the [stores](/terms/store) and may be compressed. Commonly referred to as [VBO](/terms/vbo).

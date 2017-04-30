@@ -2,6 +2,10 @@ Title: Planet Newton
 
 ----
 
+Date:
+
+----
+
 Text:
 
 ## Additional Information

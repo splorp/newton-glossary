@@ -2,6 +2,10 @@ Title: Status Box
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A black-framed [container view](/terms/container-view) displaying a static message indicating that the Newton device is busy completing a lengthy process.

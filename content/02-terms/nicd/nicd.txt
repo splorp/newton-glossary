@@ -2,6 +2,10 @@ Title: NiCd
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Nickel Cadmium](/terms/nickel-cadmium)

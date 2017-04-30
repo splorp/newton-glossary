@@ -2,6 +2,10 @@ Title: NDE
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [NewtDevEnv](/terms/newtdevenv)

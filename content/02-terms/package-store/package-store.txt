@@ -2,6 +2,10 @@ Title: Package Store
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Store Part](/terms/store-part)

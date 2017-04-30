@@ -2,6 +2,10 @@ Title: Names
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Name File](/terms/name-file)

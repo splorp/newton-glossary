@@ -2,6 +2,10 @@ Title: Cursive Recognizer
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The algorithmic component of the [handwriting recognition](/terms/handwriting-recognition) system that identifies handwritten or [cursive](/terms/cursive) characters, as opposed to printed or block characters.

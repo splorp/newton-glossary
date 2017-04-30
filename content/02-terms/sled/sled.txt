@@ -2,6 +2,10 @@ Title: Sled
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Battery Tray](/terms/battery-tray)

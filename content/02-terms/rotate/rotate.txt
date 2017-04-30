@@ -2,6 +2,10 @@ Title: Rotate
 
 ----
 
+Date:
+
+----
+
 Text:
 
 To change the [orientation](/terms/orientation) of the displayed content on a Newton device.

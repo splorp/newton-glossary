@@ -2,6 +2,10 @@ Title: Prototype
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Proto](/terms/proto)

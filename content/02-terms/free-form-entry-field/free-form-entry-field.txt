@@ -2,6 +2,10 @@ Title: Free Form Entry Field
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [field](/terms/field) that accepts any characters as user [input](/terms/input).

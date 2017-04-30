@@ -2,6 +2,10 @@ Title: Battery Booster Pack
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A portable [battery pack](/terms/battery-pack) that plugs into the [power port](/terms/power-port) of a Newton device to provide extended running time.

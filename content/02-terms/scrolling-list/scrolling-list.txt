@@ -2,6 +2,10 @@ Title: Scrolling List
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A boxed list of text items. A user [scrolls](/terms/scroll) the list to reveal additional items by [tapping](/terms/tapping) the [universal scroll arrows](/terms/universal-scroll-arrows) or optional [local scroll arrows](/terms/local-scroll-arrows). The user can [select](/terms/select) one or more items in the list by tapping them.

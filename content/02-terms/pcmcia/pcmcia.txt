@@ -2,6 +2,10 @@ Title: PCMCIA
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Personal Computer Memory Card International Association

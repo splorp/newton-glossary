@@ -2,6 +2,10 @@ Title: Alias
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An [object](/terms/object) that consists of a [reference](/terms/reference) to another object. An alias saves space, since the alias object is small, and can be used to reference very large objects. Resolving an alias refers to retrieving the object that the alias references.

@@ -2,6 +2,10 @@ Title: LAN
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Local Area Network](/terms/local-area-network)

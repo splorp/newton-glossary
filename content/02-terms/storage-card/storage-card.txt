@@ -2,6 +2,10 @@ Title: Storage Card
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Any type of removable [PC card](/terms/pc-card) used for storing data. A storage card can contain [applications](/terms/application), [packages](/terms/package), [soups](/terms/soup), or [backup](/terms/backup) data.

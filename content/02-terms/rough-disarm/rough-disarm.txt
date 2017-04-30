@@ -2,6 +2,10 @@ Title: Rough Disarm
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A tool created by [Paul Guyot](/sources/paul-guyot) for the [Macintosh Programmers Workshop](/terms/macintosh-programmers-workshop) (MPW) development environment, facilitating the disassembly of [ARM](/terms/arm) processor code found in the [Newton OS](/terms/newton-os) ROM. Described by its author as a “quick hack” — at least when compared to the more polished, but unreleased [Better Disarm](/terms/better-disarm) tool.

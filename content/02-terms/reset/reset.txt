@@ -2,6 +2,10 @@ Title: Reset
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Hard Reset](/terms/hard-reset), [Soft Reset](/terms/soft-reset), [Power Reset](/terms/power-reset), [System Reset](/terms/system-reset), and [Cold Boot](/terms/cold-boot)

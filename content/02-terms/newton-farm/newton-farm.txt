@@ -2,6 +2,10 @@ Title: Newton Farm
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A group of Newton devices that have been networked or otherwise connected together to perform a specific task. For example, Sean Luke’s project at the [University of Maryland](http://www.cs.umd.edu/) which turned 10,000 [MessagePad 100](/terms/messagepad-100) devices into a “massively parallel supercomputer” in 1996.

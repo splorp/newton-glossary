@@ -2,6 +2,10 @@ Title: Invert
 
 ----
 
+Date:
+
+----
+
 Text:
 
 To [highlight](/terms/highlight) by changing white [pixels](/terms/pixel) to black and vice versa.

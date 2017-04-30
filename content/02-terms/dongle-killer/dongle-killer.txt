@@ -2,6 +2,10 @@ Title: Dongle Killer
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Dongle Destroyer](/terms/dongle-destroyer)

@@ -2,6 +2,10 @@ Title: Implant
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Implant-130](/terms/implant-130) and [Implant-2000](/terms/implant-2000)

@@ -2,6 +2,10 @@ Title: comp.sys.mac.comm FAQ
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Originally maintained by Bruce Grubb, this list of frequently asked questions was compiled from the comp.sys.mac.comm newsgroup.

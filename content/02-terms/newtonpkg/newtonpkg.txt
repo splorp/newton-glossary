@@ -2,6 +2,10 @@ Title: newtonpkg
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The recommended file extension used to identify Newton [package files](/terms/package-file) on current [operating systems](/terms/operating-system) such as Solaris, BeOS, Mac OS X, and iOS which use the [.pkg](/terms/pkg) extension to denote installable software packages.

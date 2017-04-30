@@ -2,6 +2,10 @@ Title: Flash Memory
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Flash RAM](/terms/flash-ram)

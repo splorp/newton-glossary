@@ -2,6 +2,10 @@ Title: Soup Icon
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An [icon](/terms/icon) that represents one or more [soups](/terms/soup), usually located in the “Storage” folder of the [Extras Drawer](/terms/extras-drawer).

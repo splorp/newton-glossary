@@ -2,6 +2,10 @@ Title: Self
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A pseudo-[variable](/terms/variable) that is set to the current [receiver](/terms/receiver).

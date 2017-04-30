@@ -2,6 +2,10 @@ Title: ROM Extension
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Additional data pertaining to the [operating system](/terms/operating-system) that is external to the data in the [ROM](/terms/rom) itself, which contains the base [Newton OS](/terms/newton-os). Newton devices produced by [Apple](https://www.apple.com/) include the Apple ROM Extension ([REx](/terms/rex)) as the initial extension. The Apple REx contains most of the built-in Newton OS [applications](/terms/application). For example, on an [eMate](/terms/emate-300) the REx contains [Newton Works](/terms/newton-works). ROM extensions can also define various hardware features, such as system timing, memory specifications, and code.

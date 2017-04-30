@@ -2,6 +2,10 @@ Title: Charge State
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The current status of a rechargeable [battery](/terms/battery) in a Newton device.

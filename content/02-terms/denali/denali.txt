@@ -2,6 +2,10 @@ Title: Denali
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The alternate code name of [Dylan](/terms/dylan), the dynamic programming language developed at [Apple](https://www.apple.com/) that was to run on the original Newton platform. Also referred to as [Ralph](/terms/ralph).

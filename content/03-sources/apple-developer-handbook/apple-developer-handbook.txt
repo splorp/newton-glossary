@@ -2,6 +2,10 @@ Title: Apple Developer Handbook
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A printed guide published by [Apple](https://www.apple.com/) containing information for developers, including technical resources, marketing programs, developer program details, and relevant publications.

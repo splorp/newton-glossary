@@ -2,6 +2,10 @@ Title: Personal Word List
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A editable list of words and names that the [Newton OS](/terms/newton-os) uses in addition to the built-in [system dictionary](/terms/system-dictionary). Word lists are used to evaluate text entered by the user when [handwriting recognition](/terms/handwriting-recognition) is enabled. The personal word list is also known as a [user dictionary](/terms/user-dictionary).

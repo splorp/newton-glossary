@@ -2,6 +2,10 @@ Title: Waba
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A highly portable, simplified implementation of the [Java](https://java.com/) virtual machine created specifically for small computing devices. [Sean Luke](/sources/sean-luke) is responsible for the [Newton OS](/terms/newton-os) version of Waba.

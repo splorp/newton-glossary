@@ -2,6 +2,10 @@ Title: Revelar
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A software development company based in Salt Lake City, UT. They created several products specifically for the Newton platform, including [Revelar Connection Utility](/terms/revelar-connection-utility), [Notable!](/terms/notable), and [Accordian](/terms/accordian).

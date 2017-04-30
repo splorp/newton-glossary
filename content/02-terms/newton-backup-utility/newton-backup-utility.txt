@@ -2,6 +2,10 @@ Title: Newton Backup Utility
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Software developed by [Apple](https://www.apple.com/) that allows you to [backup](/terms/backup) and [restore](/terms/restore) data from a Newton device to a [desktop computer](/terms/desktop-computer) or [laptop](/terms/laptop-computer). Also referred to as [NBU](/terms/nbu).

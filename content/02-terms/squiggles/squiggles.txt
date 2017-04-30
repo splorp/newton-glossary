@@ -2,6 +2,10 @@ Title: Squiggles
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Jaggies](/terms/jaggies)

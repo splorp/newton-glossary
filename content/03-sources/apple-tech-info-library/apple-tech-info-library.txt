@@ -2,6 +2,10 @@ Title: Apple Tech Info Library
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A previous incarnation of Apple’s support information site, often referred to as [TIL](/terms/til).

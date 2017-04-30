@@ -2,6 +2,10 @@ Title: 802.11
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A family of standards developed by the [IEEE](/terms/ieee) for wireless networking.

@@ -2,6 +2,10 @@ Title: Newton Package Uploader
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Software developed by [Greg Simon](https://www.google.com/+GregSimon) that allows the user to transfer [packages](/terms/package) from a Newton device to certain Mac OS and Windows computers. Also referred to as [NPU](/terms/npu).

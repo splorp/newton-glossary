@@ -2,6 +2,10 @@ Title: Newton Technology Journal
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Published by [Apple](https://www.apple.com/) between 1995 and 1997, the content of this Newton-specific technical journal was 70% development and 30% marketing.

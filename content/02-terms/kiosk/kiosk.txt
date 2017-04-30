@@ -2,6 +2,10 @@ Title: Kiosk
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A navigational page in a [Newton Book](/terms/newton-book). [Tapping](/terms/tapping) an item on the kiosk page — such as a picture — takes the user directly to the subject matter it represents.

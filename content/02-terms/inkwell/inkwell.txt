@@ -2,6 +2,10 @@ Title: Inkwell
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The Mac OS version of the Newton [handwriting recognition](/terms/handwriting-recognition) system, eventually known simply as the [Ink](/terms/ink) preference pane in early releases of Mac OS X. The Inkwell interface consisted of the [InkBar](/terms/inkbar) toolbar and the [InkPad](/terms/inkpad) application, a floating window where the user can write and draw.

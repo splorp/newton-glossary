@@ -2,6 +2,10 @@ Title: Infrared
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Electromagnetic waves in the frequency range just below visible light. Infrared-based transceivers are used in Newton devices for communication with other devices.

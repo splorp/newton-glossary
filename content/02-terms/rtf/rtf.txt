@@ -2,6 +2,10 @@ Title: RTF
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Rich Text Format](/terms/rich-text-format)

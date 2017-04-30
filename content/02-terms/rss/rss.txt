@@ -2,6 +2,10 @@ Title: RSS
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Rich Site Summary _or_ Really Simple Syndication

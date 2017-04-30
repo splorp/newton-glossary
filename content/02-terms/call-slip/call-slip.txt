@@ -2,6 +2,10 @@ Title: Call Slip
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An input [container view](/terms/container-view) for recording data associated with a telephone call.

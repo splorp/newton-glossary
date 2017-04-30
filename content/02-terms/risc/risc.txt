@@ -2,6 +2,10 @@ Title: RISC
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Reduced Instruction Set Computer

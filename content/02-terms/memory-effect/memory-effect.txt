@@ -2,6 +2,10 @@ Title: Memory Effect
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A condition affecting a rechargeable [battery](/terms/battery) where it will hold less and less of a charge over time.

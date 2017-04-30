@@ -2,6 +2,10 @@ Title: Flash RAM
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A type of [RAM](/terms/ram) that does not require power to maintain the storage of information.

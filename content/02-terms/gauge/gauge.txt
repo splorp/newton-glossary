@@ -2,6 +2,10 @@ Title: Gauge
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An [object](/terms/object) with a marker that indicates an amount, degree, or value in relation to a range of possible values. A user can only read a gauge, not manipulate it like a [slider](/terms/slider) or other [user interface](/terms/user-interface) element.

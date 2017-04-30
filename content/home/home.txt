@@ -2,6 +2,10 @@ Title: Welcome.
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Since 2001, the Newton Glossary has grown to include [_$t](/terms) terms, definitions, acronyms, colloquialisms, and bits of trivia, drawing on references from [_$s](/sources) different online and print sources, including members of the Newton community at large.

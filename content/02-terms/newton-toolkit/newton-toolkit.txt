@@ -2,6 +2,10 @@ Title: Newton Toolkit
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A development environment created by [Apple](https://www.apple.com/) for writing [NewtonScript](/terms/newtonscript) programs for [Newton OS](/terms/newton-os). Also referred to as [NTK](/terms/ntk).

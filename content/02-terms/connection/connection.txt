@@ -2,6 +2,10 @@ Title: Connection
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The built-in [application](/terms/application) used to perform the action of connecting or docking to another computer. In [Newton OS](/terms/newton-os) 2.x, the application is named [Dock](/terms/dock).

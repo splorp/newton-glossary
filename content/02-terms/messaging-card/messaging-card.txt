@@ -2,6 +2,10 @@ Title: Messaging Card
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton Messaging Card](/terms/newton-messaging-card)

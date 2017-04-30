@@ -2,6 +2,10 @@ Title: nSync
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An alternate name for [NewtSync](/terms/newtsync), the data synchronization software developed by John Anderson.

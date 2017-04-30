@@ -2,6 +2,10 @@ Title: IrDA-LMP
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [IrLMP](/terms/irlmp)

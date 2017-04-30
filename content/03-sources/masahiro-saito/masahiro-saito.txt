@@ -2,6 +2,10 @@ Title: Masahiro Saito
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Produced the unofficial Japanese translation of [The NewtonScript Programming Language](/sources/newtonscript-programming-language).

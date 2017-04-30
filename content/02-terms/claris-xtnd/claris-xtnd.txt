@@ -2,6 +2,10 @@ Title: Claris XTND
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [XTND](/terms/xtnd)

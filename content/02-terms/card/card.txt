@@ -2,6 +2,10 @@ Title: Card
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [view](/terms/view) of information pertaining to an entry in the [Name File](/terms/name-file) application [soup](/terms/soup), graphically formatted as a business card.

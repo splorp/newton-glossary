@@ -2,6 +2,10 @@ Title: Mobo
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Motherboard](/terms/motherboard)

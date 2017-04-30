@@ -2,6 +2,10 @@ Title: OMP2K
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Original MessagePad 2000.

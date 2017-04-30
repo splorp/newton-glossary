@@ -2,6 +2,10 @@ Title: DB
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Database](/terms/database)

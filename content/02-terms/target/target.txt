@@ -2,6 +2,10 @@ Title: Target
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The object or item being acted upon. Sometimes the target consists of multiple items. For example, when more than one item is [selected](/terms/select) in the [InOut Box](/terms/inout-box) for [beaming](/terms/beaming).

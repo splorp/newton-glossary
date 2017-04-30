@@ -2,6 +2,10 @@ Title: Deep Reset
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Power Reset](/terms/power-reset)

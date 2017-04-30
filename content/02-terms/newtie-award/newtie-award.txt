@@ -2,6 +2,10 @@ Title: Newtie Award
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An annual award created by [Rich Lindsay](/sources/rich-lindsay) of [This Old Newt](/terms/this-old-newt) fame. Fro the award, members of the Newton community were nominated and recognized by their peers for contributions to software development, website design, and community involvement. Also known as [The Newties](/terms/the-newties).

@@ -2,6 +2,10 @@ Title: Owner
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The primary user of a Newton device.

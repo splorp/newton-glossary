@@ -2,6 +2,10 @@ Title: Smart Dog Software
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A software company founded by Robert Ellison.

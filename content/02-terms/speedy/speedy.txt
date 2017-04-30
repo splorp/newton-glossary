@@ -2,6 +2,10 @@ Title: Speedy
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Implant-130](/terms/implant-130)

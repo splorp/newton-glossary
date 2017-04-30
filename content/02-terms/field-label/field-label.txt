@@ -2,6 +2,10 @@ Title: Field Label
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A static piece of text which describes the type of content contained within an associated data [field](/terms/field). An example of a field label would be the text “Address:” beside an [input area](/terms/input-area) where the user could enter a street number.

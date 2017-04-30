@@ -2,6 +2,10 @@ Title: Paul Guyot
 
 ----
 
+Date:
+
+----
+
 Text:
 
 ## Additional Information

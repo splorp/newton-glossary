@@ -2,6 +2,10 @@ Title: Stylus
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Pen](/terms/pen)

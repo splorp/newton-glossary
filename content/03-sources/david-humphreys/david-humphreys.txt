@@ -2,6 +2,10 @@ Title: David Humphreys
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The famous “PCBMan” was the creator of several Newton hardware enhancements, including the [SER-001](/terms/ser-001) serial port modification and the [EM300](/terms/em300) memory upgrade board.

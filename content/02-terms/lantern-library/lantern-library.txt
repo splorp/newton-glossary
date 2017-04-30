@@ -2,6 +2,10 @@ Title: Lantern Library
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton Devices](/terms/newton-devices)

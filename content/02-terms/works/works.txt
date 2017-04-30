@@ -2,6 +2,10 @@ Title: Works
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton Works](/terms/newton-works)

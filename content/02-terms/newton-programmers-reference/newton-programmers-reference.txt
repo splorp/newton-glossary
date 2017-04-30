@@ -2,6 +2,10 @@ Title: Newton Programmer’s Reference
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A document which provides comprehensive documentation for the routines, system [prototypes](/terms/prototype), data structures, [constants](/terms/constant), and error codes defined by the [Newton OS](/terms/newton-os). Also referred to as [NPR](/terms/npr).

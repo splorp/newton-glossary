@@ -2,6 +2,10 @@ Title: WallyScript
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The eponymous nickname given to [NewtonScript](/terms/newtonscript) in honour of its designer [Walter R. Smith](/sources/walter-smith).

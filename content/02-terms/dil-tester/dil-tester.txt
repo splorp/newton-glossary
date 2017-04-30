@@ -2,6 +2,10 @@ Title: DIL Tester
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton Data Browser](/terms/newton-data-browser)

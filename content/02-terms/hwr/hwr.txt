@@ -2,6 +2,10 @@ Title: HWR
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Handwriting Recognition](/terms/handwriting-recognition)

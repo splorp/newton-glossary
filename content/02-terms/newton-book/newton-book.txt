@@ -2,6 +2,10 @@ Title: Newton Book
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An electronic document for viewing on a Newton device, created using software such as [Newton Press](/terms/newton-press) or [Newton Book Maker](/terms/newton-book-maker), and delivered as an installable [package](/terms/package). Also referred to as a [Newton Digital Book](/terms/newton-digital-book).

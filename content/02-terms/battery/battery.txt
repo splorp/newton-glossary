@@ -2,6 +2,10 @@ Title: Battery
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A device consisting of two or more interconnected [cells](/terms/cell) that converts chemical energy into electrical energy.

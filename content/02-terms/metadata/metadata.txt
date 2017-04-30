@@ -2,6 +2,10 @@ Title: Metadata
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Data that describes other data.

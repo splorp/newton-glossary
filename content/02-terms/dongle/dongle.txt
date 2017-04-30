@@ -2,6 +2,10 @@ Title: Dongle
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An adapter that connects one device to other device, generally via a communications port.

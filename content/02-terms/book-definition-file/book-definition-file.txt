@@ -2,6 +2,10 @@ Title: Book Definition File
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An output file produced by [Newton Book Maker](/terms/newton-book-maker). It is used as input to [Newton Toolkit](/terms/newton-toolkit) to build a Newton book or application-specific [help book](/terms/help-book).

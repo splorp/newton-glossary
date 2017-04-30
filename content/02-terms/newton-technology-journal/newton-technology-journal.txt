@@ -2,6 +2,10 @@ Title: Newton Technology Journal
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A publication produced by [Apple](https://www.apple.com/) which supplied developers with information on Newton platform technology, development tools, and marketing news. Commonly referred to as [NTJ](/terms/ntj).

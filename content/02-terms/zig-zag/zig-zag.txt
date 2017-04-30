@@ -2,6 +2,10 @@ Title: Zig Zag
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A back and forth [gesture](/terms/gesture) made with the [pen](/terms/pen).

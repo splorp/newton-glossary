@@ -2,6 +2,10 @@ Title: Newton Press
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Software developed by [Apple](https://www.apple.com/) for easily creating electronic documents in [Newton book](/terms/newton-book) format. Newton Press was designed to be used by non-programmers, whereas [Newton Book Maker](/terms/newton-book-maker) provided more sophisticated development tools for creating Newton books and [application]()/terms/application help files.

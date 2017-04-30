@@ -2,6 +2,10 @@ Title: Mapping
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The relationship of [virtual addresses](/terms/virtual-address) to [physical addresses](/terms/physical-address) using the address translation tables in the [memory management unit](/terms/memory-management-unit) (MMU).

@@ -2,6 +2,10 @@ Title: Locale
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Emporium](/terms/emporium)

@@ -2,6 +2,10 @@ Title: NewtApp
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A programming framework designed to help build complete, full-featured Newton [applications](/terms/application) more quickly, compared to starting development from scratch. NewtApp was released in support of the [Newton OS](/terms/newton-os) 2.0 update.

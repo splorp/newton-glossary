@@ -2,6 +2,10 @@ Title: Newton Connection Utilities
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Software developed by [Apple](https://www.apple.com/) that allows the user to exchange and [synchronize](/terms/synchronize) information between a Newton device and common desktop [applications](/terms/application). This software also offers support for installing [packages](/terms/package) and using a desktop keyboard as an input peripheral. The Newton Connection Utilities is for use with [Newton OS](/terms/newton-os) 2.x only. The equivalent software package for Newton OS 1.x is [Newton Connection](/terms/newton-connection). Also referred to as [NCU](/terms/ncu).

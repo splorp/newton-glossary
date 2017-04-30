@@ -2,6 +2,10 @@ Title: JAE
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Japan Aviation Electronics

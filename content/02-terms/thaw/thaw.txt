@@ -2,6 +2,10 @@ Title: Thaw
 
 ----
 
+Date:
+
+----
+
 Text:
 
 To restore the activity of an [application](/terms/application) or [extension](/terms/extension) package. Thawing a [package](/terms/package) is similar to activating an [external store](/terms/external-store) — such as a [PC card](/terms/pc-card) — that a package is stored on.

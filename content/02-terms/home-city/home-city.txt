@@ -2,6 +2,10 @@ Title: Home City
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The [locale](/terms/locale) or [emporium](/terms/emporium) used by the system to modify dialing information, time zone, and so forth. It is usually the user’s home address, but the user may set it to another city when traveling.

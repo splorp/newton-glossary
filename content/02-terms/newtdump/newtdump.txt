@@ -2,6 +2,10 @@ Title: NewtDump
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A Windows-based [application](/terms/application) created by [Victor Rehorst](/sources/victor-rehorst) that extracts data from [InOut Box](/terms/inout-box) messages and [Notepad](/terms/notes) entries, exporting them as plain text.

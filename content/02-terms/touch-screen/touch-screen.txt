@@ -2,6 +2,10 @@ Title: Touch Screen
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The pressure sensitive component of the [screen](/terms/screen) in a Newton device which responds to contact made using a [pen](/terms/pen). The touch screen on early [MessagePad](/terms/messagepad) devices was referred to as a [touchpad](/terms/touchpad).

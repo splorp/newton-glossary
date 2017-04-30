@@ -2,6 +2,10 @@ Title: Book Commands
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Book Maker Commands](/terms/book-maker-commands)

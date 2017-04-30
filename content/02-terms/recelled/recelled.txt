@@ -2,6 +2,10 @@ Title: Recelled
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The status of a [battery pack](/terms/battery-pack) which has had nonfunctioning rechargeable [cells](/terms/cell) replaced with new cells.

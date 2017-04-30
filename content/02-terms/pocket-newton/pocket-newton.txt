@@ -2,6 +2,10 @@ Title: Pocket Newton
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Junior](/terms/junior)

@@ -2,6 +2,10 @@ Title: Stack
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A section of memory reserved for calculations, storage of local [variables](/terms/variable), or keeping track of internal operations and [functions](/terms/function).

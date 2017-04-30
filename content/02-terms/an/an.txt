@@ -2,6 +2,10 @@ Title: AN
 
 ----
 
+Date:
+
+----
+
 Text:
 
 After Newton

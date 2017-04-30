@@ -2,6 +2,10 @@ Title: MSNUG
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Michigan State Newton Users Group

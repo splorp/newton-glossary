@@ -2,6 +2,10 @@ Title: System Patch
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A software [extension](/terms/extension) for [Newton OS](/terms/newton-os) created by [Richard Li](/sources/richard-li) which addresses several bugs introduced in version 2.1 of the [operating system](/terms/operating-system). The [package](/terms/package) containing the System Patch software was actually named [SysPatch](/terms/syspatch).

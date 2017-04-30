@@ -2,6 +2,10 @@ Title: Newton Notepad
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Information extracted from the [ROM](/terms/rom) of a prerelease Newton [Notepad](/terms/notepad) device using Steve White’s [ROM-Soup](https://github.com/pablomarx/ROM-Soup) tool. Specifically, the text strings for various [Newton OS](/terms/newton-os) alerts, messages, and [user interface](/terms/user-interface) elements.

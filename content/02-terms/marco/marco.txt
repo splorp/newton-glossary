@@ -2,6 +2,10 @@ Title: Marco
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A Newton device developed by [Motorola](http://www.motorola.com/). The Marco featured a wireless modem that used the [Ardis](/terms/ardis) wireless networking service.

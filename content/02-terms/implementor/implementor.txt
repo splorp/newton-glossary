@@ -2,6 +2,10 @@ Title: Implementor
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The [frame](/terms/frame) in which a [method](/terms/method) is defined.

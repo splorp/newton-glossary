@@ -2,6 +2,10 @@ Title: Jigsaw Strategy Game
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Jig!](/terms/jig)

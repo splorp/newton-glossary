@@ -2,6 +2,10 @@ Title: NewtonTalk
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A mailing list dedicated to the discussion of Apple’s [Newton OS](/terms/newton-os) platform and other related products. Founded in 1997 by Sean O’Shaughnessy, the list was taken over by [Planet Newton](/terms/planet-newton) in 1999 until a catastrophic server failure in 2001. That same year, [Victor Rehorst](/sources/victor-rehorst) took over the list administration duties, subsequently [handing over the reigns](http://marc.info/?l=newtontalk&m=117493043507410&w=2) to [Grant Hutchinson](/sources/grant-hutchinson) in 2003.

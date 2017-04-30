@@ -2,6 +2,10 @@ Title: Quark
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Dante](/terms/dante)

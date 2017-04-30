@@ -2,6 +2,10 @@ Title: User Input
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Input](/terms/input)

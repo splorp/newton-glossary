@@ -2,6 +2,10 @@ Title: Part
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A unit of software consisting of either code or data, that is held in a [part frame](/terms/part-frame). The format of the part is identified by a four character identifier called its type or [part code](/terms/part-code).

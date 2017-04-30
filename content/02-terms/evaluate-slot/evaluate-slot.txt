@@ -2,6 +2,10 @@ Title: Evaluate Slot
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [slot](/terms/slot) that is evaluated when [Newton Toolkit](/terms/newton-toolkit) compiles an [application](/terms/application).

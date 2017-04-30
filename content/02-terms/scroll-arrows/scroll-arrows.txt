@@ -2,6 +2,10 @@ Title: Scroll Arrows
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A pair of icon-based [buttons](/terms/button) used to [scroll](/terms/scroll) displayed data.

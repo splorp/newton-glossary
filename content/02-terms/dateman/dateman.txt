@@ -2,6 +2,10 @@ Title: DateMan
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A Newton [application](/terms/application) created by [Standalone Software](http://standalone.com/) which works in conjunction with the built-in [Name File](/terms/name-file) and [Date Book](/terms/date-book) to give an overall view of your entire agenda. Also referred to as [DM](/terms/dm).

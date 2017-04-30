@@ -2,6 +2,10 @@ Title: Frankenbuckey
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An internal project at [Apple](https://www.apple.com/) which combined a keyboard and screen cover for a [MessagePad 2000](/terms/messagepad-2000) or [MessagePad 2100](/terms/messagepad-2100) device.

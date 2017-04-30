@@ -2,6 +2,10 @@ Title: My Apple Newton
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An extensively researched Newton site authored and maintained by Tony Kan.

@@ -2,6 +2,10 @@ Title: Steven Frank
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Co-founder of [Panic](http://panic.com/) and self-proclaimed technology enthusiast, Steve is the developer of the [NewTen](/terms/newten) package installer and the [Unarmed](/terms/unarmed) code disassembly tool.

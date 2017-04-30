@@ -2,6 +2,10 @@ Title: Newton Formats
 
 ----
 
+Date:
+
+----
+
 Text:
 
 ## Additional Information

@@ -2,6 +2,10 @@ Title: NCT
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton C++ Toolbox](/terms/newton-c-toolbox)

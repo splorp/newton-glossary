@@ -2,6 +2,10 @@ Title: UnixNPI
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A command line utility for Unix [operating systems](/terms/operating-system) that allows the user to install [packages](/terms/package) on a Newton device over a serial connection. UnixNPI was originally created by [Richard Li](/sources/richard-li) and is currently maintained by [Victor Rehorst](/sources/victor-rehorst).

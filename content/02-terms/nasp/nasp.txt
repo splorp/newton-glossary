@@ -2,6 +2,10 @@ Title: NASP
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton Aluminum Shell Project](/terms/newton-aluminum-shell-project)

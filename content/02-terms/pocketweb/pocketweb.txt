@@ -2,6 +2,10 @@ Title: PocketWeb
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The first web browser available for use on a handheld device. PocketWeb was specifically designed for the [Newton OS](/terms/newton-os) platform by the [PDA Developers Group](http://www.teco.edu/pda/) at [TECO](http://www.teco.edu/) in 1994.

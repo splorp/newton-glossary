@@ -2,6 +2,10 @@ Title: Notepad
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The built-in [application](/terms/application) for creating and organizing items containing various types information. Items can be in the form of a [note](/terms/note), checklist, outline, or audio recording using different types of [stationery](/terms/stationery). On a [MessagePad](/terms/messagepad) device, Notepad is the default [backdrop](/terms/backdrop) application. Also referred to as [Notes](/terms/notes).

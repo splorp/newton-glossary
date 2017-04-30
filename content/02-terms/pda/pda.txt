@@ -2,6 +2,10 @@ Title: PDA
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Personal Digital Assistant](/terms/personal-digital-assistant)

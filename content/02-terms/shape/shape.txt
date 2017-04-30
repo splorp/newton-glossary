@@ -2,6 +2,10 @@ Title: Shape
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [picture](/terms/picture) composed of geometric constructs such as [lines](/terms/line), [arcs](/terms/arc), circles, [ovals](/terms/oval), [rectangles](/terms/rectangle), and other [polygons](/terms/polygon).

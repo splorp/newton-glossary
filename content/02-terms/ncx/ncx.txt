@@ -2,6 +2,10 @@ Title: NCX
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton Connection](/terms/newton-connection)

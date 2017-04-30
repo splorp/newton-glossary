@@ -2,6 +2,10 @@ Title: Newton Book Maker
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Software developed by [Apple](https://www.apple.com/) for creating sophisticated electronic documents in [Newton book](/terms/newton-book) format and online help for Newton [applications](/terms/application). Newton Book Maker uses text-based [commands](/terms/command) contained in [book source files](/terms/book-source-file) to produce [book definition files](/terms/book-definition-file) for use with [Newton Toolkit](/terms/newton-toolkit).

@@ -2,6 +2,10 @@ Title: Default Store
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The [store](/terms/store) on which new data is saved. Unless specified by the user, the [internal store](/terms/internal-store) is used as the default.

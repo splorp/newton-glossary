@@ -2,6 +2,10 @@ Title: MP2KU
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Upgraded MessagePad 2000.

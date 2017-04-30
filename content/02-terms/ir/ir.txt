@@ -2,6 +2,10 @@ Title: IR
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Infrared](/terms/infrared)

@@ -2,6 +2,10 @@ Title: Newton Toolkit User Guide
 
 ----
 
+Date:
+
+----
+
 Text:
 
 ## Additional Information

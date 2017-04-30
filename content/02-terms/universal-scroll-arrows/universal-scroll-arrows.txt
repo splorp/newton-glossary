@@ -2,6 +2,10 @@ Title: Universal Scroll Arrows
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A pair of icon-based [buttons](/terms/button) used to [scroll](/terms/scroll) displayed data, located in the standard [button bar](/terms/button-bar) on all Newton devices.

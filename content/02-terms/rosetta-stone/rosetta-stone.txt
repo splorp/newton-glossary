@@ -2,6 +2,10 @@ Title: Rosetta Stone
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The code name of the Mac OS version of [Rosetta](/terms/rosetta), the Newton [handwriting recognition](/terms/handwriting-recognition) system.

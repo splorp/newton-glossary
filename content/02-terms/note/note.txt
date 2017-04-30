@@ -2,6 +2,10 @@ Title: Note
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An item created using the [Notepad](/terms/notepad) application. A note can contain various types of information including freeform text, formatted text, [ink text](/terms/ink-text), [shapes](/terms/shape), or [pictures](/terms/picture).

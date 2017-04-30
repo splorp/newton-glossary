@@ -2,6 +2,10 @@ Title: Schoolbook
 
 ----
 
+Date:
+
+----
+
 Text:
 
 One of the code names for the [eMate 300](/terms/emate-300) device. Also referred to as [Project K](/terms/project-k) and [Shay](/terms/shay).

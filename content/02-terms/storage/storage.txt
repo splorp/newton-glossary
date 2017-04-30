@@ -2,6 +2,10 @@ Title: Storage
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Store](/terms/store)

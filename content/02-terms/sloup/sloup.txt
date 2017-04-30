@@ -2,6 +2,10 @@ Title: Sloup
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A utility [application](/terms/application) created by [Steve Weyer](/sources/steve-weyer) to facilitate the transfer of data between files located on a [desktop](/terms/desktop-computer) or [laptop](/terms/laptop-computer) computer and [soups](/terms/soup) residing on a Newton device. Sloup can also be used to inspect and report on the values contained in various data [fields](/terms/field).

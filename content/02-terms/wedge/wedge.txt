@@ -2,6 +2,10 @@ Title: Wedge
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A pie-shaped segment of an [oval](/terms/oval), bounded by a pair of radii joining at the oval’s center.

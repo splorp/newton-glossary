@@ -2,6 +2,10 @@ Title: Command
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An instruction that causes the Newton or a device connected to it to perform some action. The user issues a command by [tapping](/terms/tapping) a [button](/terms/button), choosing an item from a [picker](/terms/picker), or typing a specific keystroke.

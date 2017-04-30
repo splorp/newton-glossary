@@ -2,6 +2,10 @@ Title: Frozen Ghost
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An alternate name for the clear case [Frozen Newton](/terms/frozen-newton) project, which involved the creation of a clear case [MessagePad 2100](/terms/messagepad-2100).

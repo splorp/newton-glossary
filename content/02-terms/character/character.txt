@@ -2,6 +2,10 @@ Title: Character
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Any symbol or glyph that has a widely understood meaning and can convey information. Some characters — such as letters, numbers, and punctuation — can be displayed on the Newton, faxed, sent in an email message, and printed on a printer.

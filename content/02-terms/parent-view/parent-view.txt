@@ -2,6 +2,10 @@ Title: Parent View
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [view](/terms/view) that contains one or more other views, known as [child views](/terms/child-view).

@@ -2,6 +2,10 @@ Title: Frozen Package
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [package](/terms/package) that has been suspended by [freezing](/terms/freezing) and is not active. When you [freeze](/terms/freeze) a package, the [icon](/terms/icon) changes to a [snowflake](/terms/snowflake).

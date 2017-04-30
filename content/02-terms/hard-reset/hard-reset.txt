@@ -2,6 +2,10 @@ Title: Hard Reset
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A method of [resetting](/terms/reset) the [Newton OS](/terms/newton-os) which completely erases all data in the internal memory of a Newton device. A hard reset erases all [applications](/terms/application) and [packages](/terms/package) installed by the user, and resets [pen](/terms/pen) alignment, date, time, time zone, and other preferences. Also known as a [brain wipe](/terms/brain-wipe).

@@ -2,6 +2,10 @@ Title: MP2000+
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Upgraded MessagePad 2000.

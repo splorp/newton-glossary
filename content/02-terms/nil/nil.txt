@@ -2,6 +2,10 @@ Title: Nil
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A value that indicates nothing, none, no, or anything negative or empty. Whereas nil represents “false” in a [Boolean](/terms/boolean) expression, any other value represents “true”.

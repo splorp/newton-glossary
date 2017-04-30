@@ -2,6 +2,10 @@ Title: Input Area
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A place in a [container view](/terms/container-view) where a user can write or draw.

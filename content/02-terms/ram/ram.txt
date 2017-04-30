@@ -2,6 +2,10 @@ Title: RAM
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Random Access Memory

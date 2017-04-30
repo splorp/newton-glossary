@@ -2,6 +2,10 @@ Title: Wall Wart
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A derogatory term describing an AC power adapter plugged into an electrical outlet.

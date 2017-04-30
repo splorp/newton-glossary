@@ -2,6 +2,10 @@ Title: Inheritance
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The mechanism by which attributes ([slots](/terms/slot) or data) and behaviours ([methods](/terms/method)) are made available to [objects](/terms/object). [Parent](/terms/parent) inheritance allows [views](/terms/view) of dissimilar types to share slots containing data or methods. Prototype inheritance allows a [template](/terms/template) to base its definition on that of another template or [prototype](/terms/prototype).

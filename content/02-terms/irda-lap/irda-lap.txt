@@ -2,6 +2,10 @@ Title: IrDA-LAP
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [IrLAP](/terms/irlap)

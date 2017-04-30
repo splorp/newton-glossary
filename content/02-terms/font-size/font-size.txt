@@ -2,6 +2,10 @@ Title: Font Size
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The size of a font measured in [points](/terms/point), also known as point size.

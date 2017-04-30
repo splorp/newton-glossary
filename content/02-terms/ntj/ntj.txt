@@ -2,6 +2,10 @@ Title: NTJ
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton Technology Journal](/terms/newton-technology-journal)

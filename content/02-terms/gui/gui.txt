@@ -2,6 +2,10 @@ Title: GUI
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Graphical User Interface](/terms/graphical-user-interface)

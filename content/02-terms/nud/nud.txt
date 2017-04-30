@@ -2,6 +2,10 @@ Title: NUD
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Now Up To Date](/terms/now-up-to-date)

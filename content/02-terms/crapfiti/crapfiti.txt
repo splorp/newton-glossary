@@ -2,6 +2,10 @@ Title: Crapfiti
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A derogatory term referring to the [Graffiti](/terms/graffiti) gestural input system.

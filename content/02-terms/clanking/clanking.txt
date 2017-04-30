@@ -2,6 +2,10 @@ Title: Clanking
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Clank](/terms/clank)

@@ -2,6 +2,10 @@ Title: Region
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An arbitrary area or set of areas on the coordinate plane, specifically when referring to the contents of a [view](/terms/view). The outline of a region should be one or more closed loops.

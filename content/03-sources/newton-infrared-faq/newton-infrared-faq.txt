@@ -2,6 +2,10 @@ Title: Newton Infrared FAQ
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Frequently asked questions compiled by [David Arnold](http://www.0x1.org/d/) regarding the various infrared capabilities of Newton devices and related software.

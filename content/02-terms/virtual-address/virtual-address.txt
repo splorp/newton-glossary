@@ -2,6 +2,10 @@ Title: Virtual Address
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A value representing a non-physical location for a piece of data. The microprocessor (and hence the programs) do not access data at the [physical](/terms/physical-address) location in memory, but at the virtual location, which can be translated into the physical location by the [memory management unit](/terms/memory-management-unit) (MMU).

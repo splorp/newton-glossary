@@ -2,6 +2,10 @@ Title: Drawer
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [container view](/terms/container-view) that slides open and closed at the bottom of another container view.

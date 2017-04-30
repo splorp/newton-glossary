@@ -2,6 +2,10 @@ Title: Synchronization
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Synchronize](/terms/synchronize)

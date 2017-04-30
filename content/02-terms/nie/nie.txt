@@ -2,6 +2,10 @@ Title: NIE
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton Internet Enabler](/terms/newton-internet-enabler)

@@ -2,6 +2,10 @@ Title: Newton Inc.
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The defunct subsidiary of [Apple](https://www.apple.com/) which was spun out from the [Newton Systems Group](/terms/newton-systems-group).

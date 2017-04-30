@@ -2,6 +2,10 @@ Title: Better Disarm
 
 ----
 
+Date:
+
+----
+
 Text:
 
 An unreleased successor to the [Rough Disarm](/terms/rough-disarm) disassembler created by [Paul Guyot](/sources/paul-guyot). This version of the [Macintosh Programmers Workshop](/terms/macintosh-programmers-workshop) (MPW) tool is reportedly more complex and relies on copyrighted source code to operate.

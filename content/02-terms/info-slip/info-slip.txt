@@ -2,6 +2,10 @@ Title: Info Slip
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Item Info Slip](/terms/item-info-slip)

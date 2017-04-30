@@ -2,6 +2,10 @@ Title: Laptop
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Laptop Computer](/terms/laptop-computer)

@@ -2,6 +2,10 @@ Title: ST2000
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [SuperTech 2000](/terms/supertech-2000)

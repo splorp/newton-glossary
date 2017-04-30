@@ -2,6 +2,10 @@ Title: EZShowCard
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [Newton OS](/terms/newton-os) driver [package](/terms/package) that works in conjunction with the [EZPresenter](/terms/ezpresenter) presentation software.

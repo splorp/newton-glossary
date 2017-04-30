@@ -2,6 +2,10 @@ Title: AD2000
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Access Device 2000](/terms/access-device-2000)

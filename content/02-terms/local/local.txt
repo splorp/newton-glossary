@@ -2,6 +2,10 @@ Title: Local
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [variable](/terms/variable) whose scope is the [function](/terms/function) within which it is defined. In [NewtonScript](/terms/newtonscript), you must use the local keyword to explicitly create a local variable within a function.

@@ -2,6 +2,10 @@ Title: Text File
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A file containing text-based data that is compiled by [Newton Toolkit](/terms/newton-toolkit) during a [project build](/terms/project-build).

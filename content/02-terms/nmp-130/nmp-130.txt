@@ -2,6 +2,10 @@ Title: NMP 130
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Newton MessagePad 130.

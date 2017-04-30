@@ -2,6 +2,10 @@ Title: View Definition
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A view [template](/terms/template) that defines how to display data from a particular [data definition](/terms/data-definition). A view definition is registered with the system under the name of the data definition to which it applies. The shortened term [viewDef](/terms/viewdef) is sometimes used.

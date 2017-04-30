@@ -2,6 +2,10 @@ Title: Extension
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [package](/terms/package) that adds some sort of functionality to the [operating system](/terms/operating-system) or other packages.

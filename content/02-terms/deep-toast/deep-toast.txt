@@ -2,6 +2,10 @@ Title: Deep Toast
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The status or [charge state](/terms/charge-state) of a rechargeable [battery](/terms/battery) in a Newton device that can no longer effectively hold a charge. The status message appears as [deepToast](/terms/deeptoast) in the battery test section of the [NewtTest](/terms/newttest) utility.

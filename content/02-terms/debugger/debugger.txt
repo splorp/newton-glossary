@@ -2,6 +2,10 @@ Title: Debugger
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A tool used to monitor, control, and evaluate software or code being developed. The goal of debugging is to locate and fix “bugs” or otherwise unintended behaviour in a piece of software. [ViewFrame](/terms/viewframe) is an example of a debugger for [Newton OS](/terms/newton-os).

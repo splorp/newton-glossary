@@ -2,6 +2,10 @@ Title: Cold Boot
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A method of [resetting](/terms/reset) the [Newton OS](/terms/newton-os) to its factory defaults. A cold boot erases all data in the internal memory including [applications](/terms/application) and [packages](/terms/package) installed by the user, removes all [system updates](/terms/system-update), and resets [pen](/terms/pen) alignment, date, time, time zone, and other preferences.

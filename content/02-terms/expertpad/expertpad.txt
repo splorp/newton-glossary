@@ -2,6 +2,10 @@ Title: ExpertPad
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A Newton device developed by Sharp Electronics. Two versions of the ExpertPad were produced, the ExpertPad [PI-7000](/terms/pi-7000) was equivalent to the [Original MessagePad](/terms/original-messagepad) (OMP) and the ExpertPad [PI-7100](/terms/pi-7100) was equivalent to a [MessagePad 100](/terms/messagepad-100).

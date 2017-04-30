@@ -2,6 +2,10 @@ Title: MP2K
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [MessagePad 2000](/terms/messagepad-2000)

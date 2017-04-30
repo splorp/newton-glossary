@@ -2,6 +2,10 @@ Title: Easter Egg
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A message, image, inside joke, or feature that has been intentional hidden in an [application](/terms/application), [operating system](/terms/operating-system), or other media. Easter eggs are generally activated by a series of undocumented commands or actions.

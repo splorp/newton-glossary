@@ -2,6 +2,10 @@ Title: Rounded Rectangle
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [rectangle](/terms/rectangle) with rounded corners. The [shape](/terms/shape) is defined by the rectangle itself, along with the diameter of the circles forming the corners (called the diameter of curvature).

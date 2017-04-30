@@ -2,6 +2,10 @@ Title: Divider Bar
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Separator Bar](/terms/separator-bar)

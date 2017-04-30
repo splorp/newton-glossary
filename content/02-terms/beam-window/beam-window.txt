@@ -2,6 +2,10 @@ Title: Beam Window
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Infrared Window](/terms/infrared-window)

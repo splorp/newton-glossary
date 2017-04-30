@@ -2,6 +2,10 @@ Title: Bill Kearney
 
 ----
 
+Date:
+
+----
+
 Text:
 
 ## Additional Information

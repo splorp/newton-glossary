@@ -2,6 +2,10 @@ Title: Global Data File
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A file that resides in the same folder as the [Newton Toolkit](/terms/newton-toolkit) application containing [NewtonScript](/terms/newtonscript) code that you want available in any [project](/terms/project), hence the [global](/terms/global) designation. It is compiled each time you launch the Newton Toolkit [application](/terms/application).

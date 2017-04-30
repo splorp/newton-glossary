@@ -2,6 +2,10 @@ Title: Battery Pack
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A removable component of a [MessagePad](/terms/messagepad) or [eMate](/terms/emate-300) which holds a set of rechargeable batteries. Battery packs are generally sealed when manufactured and are not meant to be repaired. However, it is possible to [recell](/terms/recell) a battery pack by replacing the original [cells](/terms/cell).

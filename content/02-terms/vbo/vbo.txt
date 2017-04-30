@@ -2,6 +2,10 @@ Title: VBO
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Virtual Binary Object](/terms/virtual-binary-object)

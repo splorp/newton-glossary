@@ -2,6 +2,10 @@ Title: Project
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The collected files and specifications used by [Newton Toolkit](/terms/newton-toolkit) to [build](/terms/build) a [package](/terms/package) that can be installed and executed on a Newton device.

@@ -2,6 +2,10 @@ Title: Print Recognizer
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The algorithmic component of the [handwriting recognition](/terms/handwriting-recognition) system that identifies printed characters, as opposed to [cursive](/terms/cursive) or handwritten text.

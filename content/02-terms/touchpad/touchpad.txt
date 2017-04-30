@@ -2,6 +2,10 @@ Title: Touchpad
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Touch Screen](/terms/touch-screen)

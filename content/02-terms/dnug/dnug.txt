@@ -2,6 +2,10 @@ Title: DNUG
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Danish Newton Users Group

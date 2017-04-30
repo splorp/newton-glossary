@@ -2,6 +2,10 @@ Title: NS
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [NewtonScript](/terms/newtonscript)

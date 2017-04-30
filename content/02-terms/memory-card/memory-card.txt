@@ -2,6 +2,10 @@ Title: Memory Card
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Storage Card](/terms/storage-card)

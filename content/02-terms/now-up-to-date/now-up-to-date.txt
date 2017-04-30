@@ -2,6 +2,10 @@ Title: Now Up To Date
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A desktop calendaring and scheduling [application](/terms/application) developed by [Now Software](https://sites.google.com/site/nowsoftwarecom/), some versions of which can [synchronize](/terms/synchronize) information with a Newton device. Also referred to as [NUD](/terms/nud).

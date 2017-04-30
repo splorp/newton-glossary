@@ -2,6 +2,10 @@ Title: Slurpee
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Sloup](/terms/sloup)

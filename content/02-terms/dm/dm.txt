@@ -2,6 +2,10 @@ Title: DM
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [DateMan](/terms/dateman)

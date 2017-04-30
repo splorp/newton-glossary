@@ -2,6 +2,10 @@ Title: Sharp ASk
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [ASK](/terms/ask)

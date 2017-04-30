@@ -2,6 +2,10 @@ Title: Debug
 
 ----
 
+Date:
+
+----
+
 Text:
 
 To use a [debugger](/terms/debugger) to locate and fix unintended behaviour in a piece of software or code.

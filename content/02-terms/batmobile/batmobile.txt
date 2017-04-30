@@ -2,6 +2,10 @@ Title: Batmobile
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Batman](/terms/batman)

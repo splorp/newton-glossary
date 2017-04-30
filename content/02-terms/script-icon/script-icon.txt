@@ -2,6 +2,10 @@ Title: Script Icon
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [picture button](/terms/picture-button) that executes a NewtonScript [function object](/terms/function-object) when [tapped](/terms/tapped).

@@ -2,6 +2,10 @@ Title: MessagePad 2000
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The MessagePad 2000 is based on the [StrongARM](/terms/strongarm) 110 processor, making it nearly ten times as fast as its predecessor, the [MessagePad 130](/terms/messagepad-130). It also featured significantly more [RAM](/terms/ram), a slightly larger greyscale [screen](/terms/screen), support for two [PCMCIA](/terms/pcmcia) cards, and the proprietary multifunction [Newton Interconnect](/terms/newton-interconnect) port.

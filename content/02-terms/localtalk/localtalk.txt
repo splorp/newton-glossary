@@ -2,6 +2,10 @@ Title: LocalTalk
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A specific implementation of the physical layer pertaining to [AppleTalk](/terms/appletalk) networking [protocol](/terms/protocol). Developed by [Apple](https://www.apple.com/) for communications between Mac OS computers and other platforms over a [local area network](/terms/local-area-network), LocalTalk networks commonly use shielded twisted pair cables with self terminating connectors.

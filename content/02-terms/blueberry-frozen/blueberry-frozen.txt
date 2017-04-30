@@ -2,6 +2,10 @@ Title: Blueberry Frozen
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A variation on the [Frozen Newton](/terms/frozen-newton) project which features a custom, clear case [MessagePad 2100](/terms/messagepad-2100) with blue accents.

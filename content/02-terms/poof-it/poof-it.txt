@@ -2,6 +2,10 @@ Title: Poof It
 
 ----
 
+Date:
+
+----
+
 Text:
 
 To erase something on a Newton device using the [scrubbing](/terms/scrubbing) gesture, as described by [Anton Balaban](/sources/anton-balaban)’s young son.

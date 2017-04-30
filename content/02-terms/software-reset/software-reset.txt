@@ -2,6 +2,10 @@ Title: Software Reset
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Soft Reset](/terms/soft-reset)

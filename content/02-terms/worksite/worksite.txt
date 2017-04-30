@@ -2,6 +2,10 @@ Title: Worksite
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Emporium](/terms/emporium)

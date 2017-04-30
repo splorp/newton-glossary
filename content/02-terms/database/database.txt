@@ -2,6 +2,10 @@ Title: Database
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A structured collection of related files or data that is created and controlled by a software management system.

@@ -2,6 +2,10 @@ Title: Raw Ink
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Ink](/terms/ink)

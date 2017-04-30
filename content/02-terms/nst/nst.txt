@@ -2,6 +2,10 @@ Title: NST
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton Software Technology](/terms/newton-software-technology)

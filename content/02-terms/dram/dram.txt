@@ -2,6 +2,10 @@ Title: DRAM
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Dynamic Random Access Memory

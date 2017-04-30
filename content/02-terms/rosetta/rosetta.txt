@@ -2,6 +2,10 @@ Title: Rosetta
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The code name of the software-based [print recognizer](print-recognizer) system developed by [Apple](https://www.apple.com/). Rosetta first shipped in the second revision of the [MessagePad 120](/terms/messagepad-120) device. The name was eventually changed to [Mondello](/terms/mondello) for legal reasons. Although never used publicly, the official product name for the print recognizer was [Neuropen](/terms/neuropen).

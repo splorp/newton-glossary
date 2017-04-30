@@ -2,6 +2,10 @@ Title: Interface
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [User Interface](/terms/user-interface), [Graphical User Interface](/terms/graphical-user-interface), and [Newton User Interface](/terms/newton-user-interface)

@@ -2,6 +2,10 @@ Title: Tablet
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Tablet Computer](/terms/tablet-computer)

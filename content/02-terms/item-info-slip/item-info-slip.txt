@@ -2,6 +2,10 @@ Title: Item Info Slip
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [container view](/terms/container-view) that displays statistics and related information for an item. This information includes the title, type, creation date, size, and [store](/terms/store) location of the item. A user can [edit](/terms/edit) an item’s title in the [slip](/terms/slip).

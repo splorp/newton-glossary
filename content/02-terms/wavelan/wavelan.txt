@@ -2,6 +2,10 @@ Title: WaveLAN
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A brand name for the family of wireless networking technologies originally developed by Comten, a subsidiary of [NCR Corporation](https://www.ncr.com/). WaveLAN eventually fell under the [Lucent](https://web.archive.org/web/19980115072122/wavelan.com/products/products.htm) umbrella and was licensed by several companies for use on their own [802.11](/terms/802-11) wireless communication [cards](/terms/pc-card), including the [3Com AirConnect](https://web.archive.org/web/20020203070330/http://www.3com.com/products/en_US/detail.jsp?tab=features&pathtype=purchase&sku=3CRWE73796B) and [Farallon SkyLine](https://web.archive.org/web/19991114093516/http://farallon.com/).

@@ -2,6 +2,10 @@ Title: Bun Warmer
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Bunwarmer](/terms/bunwarmer)

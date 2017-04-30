@@ -2,6 +2,10 @@ Title: Enumerated Dictionary
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A list of strings that can be matched when [handwriting recognition](/terms/handwriting-recognition) is enabled.

@@ -2,6 +2,10 @@ Title: Feed
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [RSS](/terms/rss)

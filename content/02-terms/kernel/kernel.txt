@@ -2,6 +2,10 @@ Title: Kernel
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The essential part of an [operating system](/terms/operating-system), responsible for operation such as resource allocation and low-level hardware communication.

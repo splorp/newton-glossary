@@ -2,6 +2,10 @@ Title: The Apple Museum
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Founded in 1997 by Andy Mesa, _The Apple Museum_ was created as a reference for people wanting more in depth information about Apple and its products.

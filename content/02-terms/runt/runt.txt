@@ -2,6 +2,10 @@ Title: Runt
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The code name of the [ASIC](/terms/asic) chipset used in older Newton devices, including the [Original MessagePad](/terms/original-messagepad), [MessagePad 100](/terms/messagepad-100), and Sharp [ExpertPad](/terms/expertpad). Runt supported hardware functions such as memory management and a real time clock, as well as [display](/terms/display), audio, [PCMCIA](/terms/pcmcia), and [infrared](/terms/infrared) interfaces.

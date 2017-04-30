@@ -2,6 +2,10 @@ Title: N2 Overview
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A technical document outlining the components and architecture of the [N2](/terms/n2) hardware platform.

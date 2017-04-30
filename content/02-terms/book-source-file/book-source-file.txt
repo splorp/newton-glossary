@@ -2,6 +2,10 @@ Title: Book Source File
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A word processor file containing content items tagged with [Newton Book Maker](/terms/newton-book-maker) commands.

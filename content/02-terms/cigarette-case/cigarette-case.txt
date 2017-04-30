@@ -2,6 +2,10 @@ Title: Cigarette Case
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Cigarette Pack](/terms/cigarette-pack)

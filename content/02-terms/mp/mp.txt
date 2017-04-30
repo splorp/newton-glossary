@@ -2,6 +2,10 @@ Title: MP
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [MessagePad](/terms/messagepad)

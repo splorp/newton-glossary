@@ -2,6 +2,10 @@ Title: Motherboard
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A more common term for the [main logic board](/terms/main-logic-board). The motherboard is primary circuit board containing the processor chip and the system [ROM](/terms/rom) inside a Newton device. A secondary circuit board or [daughterboard](/terms/daughterboard) may also be attached to the motherboard.

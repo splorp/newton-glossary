@@ -2,6 +2,10 @@ Title: RTFM
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Read The Fucking Manual

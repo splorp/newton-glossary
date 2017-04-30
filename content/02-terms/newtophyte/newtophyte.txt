@@ -2,6 +2,10 @@ Title: Newtophyte
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A recent convert to the Newton platform. Newtophyte is a play on “neophyte”.

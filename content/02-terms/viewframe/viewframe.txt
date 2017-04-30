@@ -2,6 +2,10 @@ Title: ViewFrame
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A browsing and [debugging](/terms/debug) utility for [Newton OS](/terms/newton-os) developed by [Jason Harper](http://nixietube.info/). ViewFrame allows the user to navigate, inspect, and modify NewtonScript [objects](/terms/object) and [soup](/terms/soup) data.

@@ -2,6 +2,10 @@ Title: DHP
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Dreaded Hinge Problem

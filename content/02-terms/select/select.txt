@@ -2,6 +2,10 @@ Title: Select
 
 ----
 
+Date:
+
+----
+
 Text:
 
 To designate a [user interface](/terms/user-interface) object by [tapping](/terms/tapping), [double-tapping](/terms/double-tap), or [dragging](/terms/drag) across it. The next action that happens is applied to the selected object.

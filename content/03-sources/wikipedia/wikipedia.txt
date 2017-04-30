@@ -2,6 +2,10 @@ Title: Wikipedia
 
 ----
 
+Date:
+
+----
+
 Text:
 
 ## Additional Information

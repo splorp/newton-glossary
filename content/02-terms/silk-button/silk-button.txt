@@ -2,6 +2,10 @@ Title: Silk Button
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Silkscreen Button](/terms/silkscreen-button)

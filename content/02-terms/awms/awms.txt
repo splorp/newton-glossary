@@ -2,6 +2,10 @@ Title: AWMS
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Apple Wireless Messaging Service](/terms/apple-wireless-messaging-service)

@@ -2,6 +2,10 @@ Title: Origin
 
 ----
 
+Date:
+
+----
+
 Text:
 
 The coordinates of the top-left corner of a [view](/terms/view). The origin can be shifted — for example — to [scroll](/terms/scroll) the contents of a view.

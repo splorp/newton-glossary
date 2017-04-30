@@ -2,6 +2,10 @@ Title: System Proto
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Proto Template](/terms/proto-template)

@@ -2,6 +2,10 @@ Title: Scrolling
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Scroll](/terms/scroll)

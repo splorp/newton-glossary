@@ -2,6 +2,10 @@ Title: MacKiDo
 
 ----
 
+Date:
+
+----
+
 Text:
 
 ## Additional Information

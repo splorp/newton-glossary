@@ -2,6 +2,10 @@ Title: TVNUG
 
 ----
 
+Date:
+
+----
+
 Text:
 
 Tennessee Valley Newton Users Group

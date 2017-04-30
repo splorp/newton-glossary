@@ -2,6 +2,10 @@ Title: Option Frame
 
 ----
 
+Date:
+
+----
+
 Text:
 
 A [frame](/terms/frame) passed as a parameter to an [endpoint](/terms/endpoint) method that selects the communication tool to use; controls its configuration and operation; and returns result code information from the endpoint [method](/terms/method).
