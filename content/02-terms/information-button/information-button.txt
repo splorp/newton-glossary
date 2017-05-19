@@ -8,12 +8,13 @@ Date: 19 April 2017
 
 Text:
 
-A [button](/term/button) in the shape of a small square box with an [I](/terms/i) inside located in the [button bar](/terms/button-bar) of an [application](/terms/application). Tapping the information button provides access to help and preferences related to the current application.
+A [button](/terms/button) in the shape of a small square box with an [I](/terms/i) inside located in the [button bar](/terms/button-bar) of an [application](/terms/application). Tapping the information button provides access to help and preferences related to the current application.
 
 ----
 
 Related:
 
+- /terms/button
 - /terms/button-bar
 - /terms/i
 - /terms/user-interface
