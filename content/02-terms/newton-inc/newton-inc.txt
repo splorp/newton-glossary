@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The defunct subsidiary of [Apple](https://www.apple.com/) which was spun out from the [Newton Systems Group](/terms/newton-systems-group).
+The short-lived subsidiary of [Apple](https://www.apple.com/) which was spun out from the [Newton Systems Group](/terms/newton-systems-group).
 
 ## Additional Information
 
@@ -21,3 +21,9 @@ Related:
 
 - /terms/newton-systems-group
 - /terms/nsg
+
+----
+
+Source:
+
+- /sources/newton-inc
