@@ -8,7 +8,7 @@ Date: 24 May 2017
 
 Text:
 
-An infamous reference to the questionable quality of early Newton [handwriting recognition](/terms/handwriting-recognition) in a classic episode of [The Simpsons](/sources/the-simpsons).
+A reference to the questionable quality of early Newton [handwriting recognition](/terms/handwriting-recognition) from the [Lisa on Ice](http://www.simpsonsarchive.com/episodes/2F05.html) episode of [The Simpsons](/sources/the-simpsons). In the scene, Dolph writes _“Beat up Martin”_ on the [screen](/terms/screen) and the handwriting recognition converts it to _“Eat up Martha”_. Kearney then throws the Newton at Martin.
 
 ![Eat Up Martha](/assets/images/eat-up-martha.jpg)
 
