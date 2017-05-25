@@ -18,6 +18,7 @@ Related:
 - /terms/calligrapher
 - /terms/casual
 - /terms/cursive-recognizer
+- /terms/eat-up-martha
 - /terms/egg-freckles
 - /terms/hwr
 - /terms/ink
