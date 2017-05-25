@@ -8,6 +8,9 @@ Date:
 
 Text:
 
+The user manual supplied with the [Enroute](/terms/enroute) integrated internet email software. Enroute was developed by [Netstrategy Software](https://web.archive.org/web/19971016194456/http://www.netstrat.com/) and bundled with [Newton OS](/terms/newton-os) devices.
+
 ## Additional Information
 
+[Internet Archive: Netstrategy Software Website](https://web.archive.org/web/19971016194456/http://www.netstrat.com/)
 [Internet Archive: EnRoute 1.4.2 User Manual](https://web.archive.org/web/19980526122648/http://www.netstrat.com/assets/images/EnRoute_i-net_1.4.2_Manual.pdf) (PDF)

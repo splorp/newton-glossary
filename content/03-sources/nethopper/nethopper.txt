@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The <em>NetHopper Version 3.0 User Manual</em> can be found on the [eMate 300 Connectivity CD](https://support.apple.com/kb/TA39900).
+The user manual for	[NetHopper](/terms/nethopper), the first commercial web browser for [Newton OS](/terms/newton-os) developed by [AllPen Software](/sources/allpen). The <em>NetHopper Version 3.0 User Manual</em> can be found on the [eMate 300 Connectivity CD](https://support.apple.com/kb/TA39900).
 
 ## Additional Information
 

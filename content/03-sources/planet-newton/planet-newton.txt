@@ -8,6 +8,8 @@ Date:
 
 Text:
 
+A defunct website which at one time was home to a popular, annotated Newton software archive and the second iteration of the [NewtonTalk](/terms/newtontalk) mailing list.
+
 ## Additional Information
 
 [Internet Archive: Planet Newton Website](https://web.archive.org/web/20050310015435/http://www.planetnewton.com/home.htm)
