@@ -23,6 +23,7 @@ Sources: _$s
 ### Summary of changes:
 
 + Added new terms
++ Added new sources
 
 ## 24 April 2017
 
