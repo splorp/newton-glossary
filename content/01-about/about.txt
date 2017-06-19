@@ -27,7 +27,7 @@ Before submitting new terms or suggestion corrections to existing entries, pleas
 Other glossarial references we love.
 
 + [A Devil’s Dictionary of Educational Technology](https://medium.com/@bryanalexander/a-devils-dictionary-of-educational-technology-1c3ea9a0b932) by _[Bryan Alexander](https://bryanalexander.org/)_
-+ [Dictionary of Canadianisms on Historical Principles](http://www.dchp.ca/dchp2/) by _[Stefan Dollinger](http://gu-se.academia.edu/StefanDollinger)_
++ [Dictionary of Canadianisms on Historical Principles](http://www.dchp.ca/dchp2/) by _[Stefan Dollinger](http://ubc.academia.edu/StefanDollinger)_
 + [Free Online Dictionary of Computing](http://foldoc.org/) _by [Denis Howe](https://plus.google.com/+DenisHowe/posts)_
 + [Green’s Dictionary of Slang](https://greensdictofslang.com/) _by [Jonathon Green](http://jonathongreen.co.uk/)_
 + [Glossary of Archival & Records Terminology](http://archivists.org/glossary) _by [Richard Pearce-Moses](http://www.clayton.edu/faculty/rpearcemoses)_

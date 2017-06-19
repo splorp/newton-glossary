@@ -13,7 +13,7 @@ The code name of the software-based [print recognizer](print-recognizer) system 
 ## Additional Information
 
 [Larry Yaeger: Handwriting Recognition That Actually Works](http://wwnc.newtontalk.net/resources/WWNC2006_Yaeger_HWR.pdf) (PDF)
-[Ars Technica: In the Loop with Larry Yaeger](http://arstechnica.com/apple/2005/06/504/)
+[Ars Technica: In the Loop with Larry Yaeger](https://arstechnica.com/apple/2005/06/504/)
 
 ----
 
