@@ -10,7 +10,7 @@ Text:
 
 Nouveau Groupe des Utilisateurs Francophones de Newton
 
-A support community for French speaking Newton users that superseded [GFUN](/terms/GFUN) (Groupe Francophone des Utilisateurs de Newton). In September 2000, NGFUN launched the [Newton-FR](https://web.archive.org/web/20080608142030/http://ngfun.online.fr/newtonfr/) mailing list. In 2002, NGFUN morphed into yet another group calling itself [RANDOM](/terms/random) (Regroupement des Amis du Newton Dévoués Ostensiblement à leurs Machines).
+A support community for French speaking Newton users that superseded [GFUN](/terms/gfun) (Groupe Francophone des Utilisateurs de Newton). In September 2000, NGFUN launched the [Newton-FR](https://web.archive.org/web/20080608142030/http://ngfun.online.fr/newtonfr/) mailing list. In 2002, NGFUN morphed into yet another group calling itself [RANDOM](/terms/random) (Regroupement des Amis du Newton Dévoués Ostensiblement à leurs Machines).
 
 ## Additional Information
 
