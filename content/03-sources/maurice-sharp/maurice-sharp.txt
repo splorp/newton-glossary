@@ -8,6 +8,10 @@ Date:
 
 Text:
 
+[Maurice Sharp Website](http://www.mauricesharp.com/)
+[Forklore: LISP: The root of Newton Toolkit](http://www.folklore.org/StoryView.py?project=Newton&story=LISP:_The_root_of_Newton_Toolkit.txt)
+
+
 ## From a post to the [NewtonTalk](/sources/newtontalk) mailing list:
 
 * Ex-Newton Developer Technical Support Engineer, Apple
