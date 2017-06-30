@@ -8,15 +8,19 @@ Date:
 
 Text:
 
-The alternate code name of [Dylan](/terms/dylan), the dynamic programming language developed at [Apple](https://www.apple.com/) that was to run on the original Newton platform. Also referred to as [Ralph](/terms/ralph).
+The code name of [Dylan](/terms/dylan), the dynamic programming language developed at [Apple](https://www.apple.com/) and used to develop portions of the original [Newton OS](/terms/newton-os) and its [user interface](/terms/user-interface).
 
 ----
 
 Related:
 
+- /terms/bauhaus
 - /terms/dylan
+- /terms/lisp
+- /terms/macintosh-common-lisp
 - /terms/newtonscript
 - /terms/ralph
+- /terms/senior
 - /terms/smirkers
 
 ----
