@@ -1,0 +1,17 @@
+Title: Rainer Joswig
+
+----
+
+Date: 29 June 2017
+
+----
+
+Text:
+
+A [Lisp](/terms/lisp) hacker and historian based in Germany.
+
+## Additional Information
+
+[LispODROID Website](http://lispm.de/)
+[GitHub: Rainer Joswig](https://github.com/lispm)
+[Twitter: Rainer Joswig](https://twitter.com/rainerjoswig)
