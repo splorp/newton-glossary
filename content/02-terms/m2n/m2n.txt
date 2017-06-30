@@ -10,7 +10,7 @@ Text:
 
 Mac to Newton
 
-An acronym describing the transfer of data from a Macintosh computer to a Newton device.
+An acronym describing the transfer of data from a Mac OS computer to a Newton device.
 
 ----
 

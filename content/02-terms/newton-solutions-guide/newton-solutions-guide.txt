@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A product catalogue published by [JointSolutions Marketing](https://web.archive.org/web/19990428171233/http://www.jointsolutions.com/) containing information on hardware, software, and accessories for the [Newton OS](/terms/newton-os) platform. Also referred to as [NSG](/terms/nsg).
+A product catalogue published by [JointSolutions Marketing](https://web.archive.org/web/19990428171233/http://www.jointsolutions.com/) containing information on hardware, software, and accessories for the Newton platform. Also referred to as [NSG](/terms/nsg).
 
 ## Additional Information
 

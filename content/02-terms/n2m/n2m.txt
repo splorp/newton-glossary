@@ -10,7 +10,7 @@ Text:
 
 Newton to Macintosh
 
-An acronym describing the transfer of data from a Newton device to a Macintosh computer.
+An acronym describing the transfer of data from a Newton device to a Mac OS computer.
 
 ----
 
