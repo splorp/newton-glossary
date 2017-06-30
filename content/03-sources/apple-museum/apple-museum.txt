@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-Founded in 1997 by Andy Mesa, _The Apple Museum_ was created as a reference for people wanting more in depth information about Apple and its products.
+Founded in 1997 by Andy Mesa, _The Apple Museum_ was created as a reference for people wanting more in depth information about [Apple](https://www.apple.com/) and its products.
 
 Not to be confused with Lukas Foljanty’s similarly named [The Apple Online Museum](/sources/apple-online-museum).
 
