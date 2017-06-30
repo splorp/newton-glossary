@@ -9,7 +9,7 @@ Date: 22 January 2017
 Text:
 
 A division of [Harris Corporation](http://harris.com/) that designed and manufactured telephony test equipment. Dracon developed the [SuperTech 2000](/terms/supertech-2000), a ruggedized [Newton OS](/terms/newton-os) device used by telecommunication field technicians.
- 
+
 ## Additional Information
 
 [Internet Archive: Press Release: Harris Corporation Licenses Newton Technology](https://web.archive.org/web/19981205001630/http://product.info.apple.com/pr/press.releases/1995/q4/950801.pr.rel.newton.html)

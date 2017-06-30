@@ -9,7 +9,7 @@ Date:
 Text:
 
 The group of skeptical [Apple](https://www.apple.com/) employees working on the Newton project who doubted the feasibility and operability of both the larger [Newton Plus](/terms/newton-plus) device and the [Dylan](/terms/dylan) programming language used to develop the [operating system](/terms/operating-system).
- 
+
 ----
 
 Related:

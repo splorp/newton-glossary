@@ -138,7 +138,7 @@ Sources: 49
 + Not released publicly
 
 ## 06 October 2002
- 
+
 Version: 1.0.4
 Terms: 704
 Sources: 45
@@ -150,7 +150,7 @@ Sources: 45
 + Updated and expanded numerous existing entries
 
 ## 18 December 2001
- 
+
 Version: 1.0.3
 Terms: 673
 Sources: 40
@@ -162,7 +162,7 @@ Sources: 40
 + Updated and expanded numerous existing entries
 
 ## 30 October 2001
- 
+
 Version: 1.0.2
 Terms: 649
 Sources: 38
@@ -174,7 +174,7 @@ Sources: 38
 + Updated and expanded numerous existing entries
 
 ## 25 September 2001
- 
+
 Version: 1.0.1
 Terms: 632
 Sources: 34
@@ -186,7 +186,7 @@ Sources: 34
 + Updated and expanded numerous existing entries
 
 ## 25 June 2001
- 
+
 Version: 1.0.0
 Terms: 617
 Sources: 31
@@ -198,7 +198,7 @@ Sources: 31
 + Updated and expanded numerous existing entries
 
 ## 31 May 2001
- 
+
 Version: 1.0.0b2
 Terms: 571
 Sources: 25
