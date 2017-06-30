@@ -12,6 +12,7 @@ A development environment created by [Apple](https://www.apple.com/) for writing
 
 ## Additional Information
 
+[MacTech: Newton Toolkit](http://www.mactech.com/articles/mactech/Vol.09/09.11/NewtonToolkit/index.html)
 [UNNA: Newton Toolkit](http://www.unna.org/view.php?/apple/development/NTK)
 [The Newted Community: Newton Toolkit Enhancements](http://www.newted.org/download/manuals/NewtonToolkitEnhancements164.pdf) (PDF)
 
