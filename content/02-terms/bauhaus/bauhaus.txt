@@ -1,0 +1,35 @@
+Title: Bauhaus
+
+----
+
+Date: 29 June 2017
+
+----
+
+Text:
+
+An early [Lisp](/terms/lisp)-based version of [Newton OS](/terms/newton-os) developed by [Apple](https://www.apple.com/) using the [Ralph](/terms/ralph) programming language and a “hacked up” development environment called [Leibniz](/terms/leibniz). Work on Bauhaus began around the same time as the [Junior](/terms/junior) hardware project, which would eventually become the [Original MessagePad](/terms/original-messagepad). The Bauhaus project was cancelled in 1994.
+
+## Additional Information
+
+[Talking with Mikel Evins about the Lisp-based Newton OS](http://lispm.de/lisp-based-newton-os)
+
+----
+
+Related:
+
+- /terms/denali
+- /terms/dylan
+- /terms/junior
+- /terms/leibniz
+- /terms/lisp
+- /terms/macintosh-common-lisp
+- /terms/newton-os
+- /terms/operating-system
+- /terms/ralph
+
+----
+
+Source:
+
+- /sources/rainer-joswig

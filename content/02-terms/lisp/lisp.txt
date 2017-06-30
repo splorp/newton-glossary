@@ -1,0 +1,35 @@
+Title: Lisp
+
+----
+
+Date: 29 June 2017
+
+----
+
+Text:
+
+A high-level programming language known for its abundant use of parentheses. [Macintosh Common Lisp](/terms/macintosh-common-lisp) is an implementation of Lisp that provided a development environment with tight integration with the Mac OS toolbox. An early, unreleased version of [Newton OS](/terms/newton-os) known as [Bauhaus](/terms/bauhaus) was developed using the Lisp-like language [Ralph](/terms/ralph).
+
+## Additional Information
+
+[Wikipedia: Macintosh Common Lisp](https://en.wikipedia.org/wiki/Macintosh_Common_Lisp)
+[Talking with Mikel Evins about the Lisp-based Newton OS](http://lispm.de/lisp-based-newton-os)
+
+----
+
+Related:
+
+- /terms/bauhaus
+- /terms/denali
+- /terms/dylan
+- /terms/etchasketch
+- /terms/leibniz
+- /terms/macintosh-common-lisp
+- /terms/newtonscript
+- /terms/ralph
+
+----
+
+Source:
+
+- /sources/techencyclopedia
