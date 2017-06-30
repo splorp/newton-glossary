@@ -20,6 +20,8 @@ Related:
 - /terms/content-script
 - /terms/denali
 - /terms/dylan
+- /terms/lisp
+- /terms/macintosh-common-lisp
 - /terms/newton-toolkit
 - /terms/newtonscript-heap
 - /terms/ns

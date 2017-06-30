@@ -26,6 +26,7 @@ Related:
 - /terms/messageslate
 - /terms/mont-blanc
 - /terms/newton-plus
+- /terms/smirkers
 
 ----
 

@@ -14,6 +14,7 @@ The primary software program that controls a computing device. The primary compo
 
 Related:
 
+- /terms/bauhaus
 - /terms/kernel
 - /terms/newton-os
 - /terms/nos
