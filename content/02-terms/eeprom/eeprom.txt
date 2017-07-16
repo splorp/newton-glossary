@@ -10,14 +10,18 @@ Text:
 
 Electrically Erasable Programmable Read Only Memory
 
-A memory chip that is programmable, reusable, and able to hold its content until erased using electric current.
+A type of [ROM](/terms/rom) that is programmable, reusable, and able to hold its content until erased using an electric current.
 
 ----
 
 Related:
 
+- /terms/dram
 - /terms/eprom
+- /terms/flash-ram
+- /terms/ram
 - /terms/rom
+- /terms/sram
 
 ----
 

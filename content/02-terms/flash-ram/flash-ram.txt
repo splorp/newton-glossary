@@ -15,9 +15,12 @@ A type of [RAM](/terms/ram) that does not require power to maintain the storage 
 Related:
 
 - /terms/dram
+- /terms/eeprom
+- /terms/eprom
 - /terms/flash-card
 - /terms/flash-memory
 - /terms/ram
+- /terms/rom
 - /terms/sram
 - /terms/tsop
 

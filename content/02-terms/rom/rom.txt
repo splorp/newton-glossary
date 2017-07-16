@@ -16,9 +16,13 @@ A type of non-volatile data storage which is manufactured with fixed contents. T
 
 Related:
 
+- /terms/dram
 - /terms/eeprom
 - /terms/eprom
+- /terms/flash-ram
 - /terms/ram
+- /terms/rom-extension
+- /terms/sram
 
 ----
 

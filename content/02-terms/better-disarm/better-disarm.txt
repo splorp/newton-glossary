@@ -17,7 +17,6 @@ Related:
 - /terms/arm
 - /terms/macintosh-programmers-workshop
 - /terms/newton-bowels
-- /terms/rom
 - /terms/rough-disarm
 - /terms/strongarm
 - /terms/unarmed

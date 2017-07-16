@@ -17,6 +17,8 @@ A type of data storage where the order of access to the contents does not affect
 Related:
 
 - /terms/dram
+- /terms/eeprom
+- /terms/eprom
 - /terms/flash-ram
 - /terms/rom
 - /terms/sram

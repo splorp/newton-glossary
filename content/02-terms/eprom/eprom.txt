@@ -10,14 +10,18 @@ Text:
 
 Erasable Programmable Read Only Memory
 
-A memory chip that is programmable, reusable, and able to hold its content until erased under ultraviolet light.
+A type of [ROM](/terms/rom) that is programmable, reusable, and able to hold its content until erased under ultraviolet light.
 
 ----
 
 Related:
 
+- /terms/dram
 - /terms/eeprom
+- /terms/flash-ram
+- /terms/ram
 - /terms/rom
+- /terms/sram
 
 ----
 

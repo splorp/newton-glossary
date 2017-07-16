@@ -17,6 +17,8 @@ A type of [RAM](/terms/ram) that requires power to maintain the storage of infor
 Related:
 
 - /terms/dram
+- /terms/eeprom
+- /terms/eprom
 - /terms/flash-ram
 - /terms/ram
 - /terms/rom
