@@ -22,6 +22,7 @@ Related:
 - /terms/bauhaus
 - /terms/denali
 - /terms/dylan
+- /terms/encyclopedia
 - /terms/etchasketch
 - /terms/leibniz
 - /terms/lisp

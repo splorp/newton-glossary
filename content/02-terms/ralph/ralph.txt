@@ -21,6 +21,7 @@ Related:
 - /terms/bauhaus
 - /terms/denali
 - /terms/dylan
+- /terms/encyclopedia
 - /terms/leibniz
 - /terms/lisp
 - /terms/macintosh-common-lisp

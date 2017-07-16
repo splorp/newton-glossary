@@ -24,6 +24,7 @@ Related:
 
 - /terms/denali
 - /terms/dynamic-language
+- /terms/encyclopedia
 - /terms/lisp
 - /terms/macintosh-common-lisp
 - /terms/newton-os

@@ -22,6 +22,7 @@ Related:
 
 - /terms/application-definition-format
 - /terms/database
+- /terms/encyclopedia
 - /terms/notable
 - /terms/revelar-connection-utility
 - /terms/sloup

@@ -25,6 +25,7 @@ Related:
 - /terms/denali
 - /terms/dylan
 - /terms/einstein
+- /terms/encyclopedia
 - /terms/lisp
 - /terms/macintosh-common-lisp
 - /terms/ralph

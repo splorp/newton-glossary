@@ -16,6 +16,7 @@ Related:
 
 - /terms/bauhaus
 - /terms/dylan
+- /terms/encyclopedia
 - /terms/lisp
 - /terms/macintosh-common-lisp
 - /terms/newtonscript
