@@ -10,7 +10,7 @@ Text:
 
 A range of radio-based devices developed by [Digital Ocean](https://web.archive.org/web/19970124001013/http://digitalocean.com/) that provide [wireless AppleTalk](/terms/wireless-appletalk) connectivity to [Newton OS](/terms/newton-os) and Macintosh computers over a [local area network](/terms/local-area-network).
 
-Additional Information:
+## Additional Information:
 
 [Internet Archive: Wire-Free Networking With Grouper](https://web.archive.org/web/19970124002055/http://digitalocean.com/p001.pdf) (PDF)
 
