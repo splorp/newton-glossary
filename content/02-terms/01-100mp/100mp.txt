@@ -1,0 +1,17 @@
+Title: 100MP
+
+----
+
+Date: 17 July 2017
+
+----
+
+Text:
+
+See [Grouper 100MP](/terms/grouper-100mp)
+
+----
+
+Source:
+
+- /sources/digital-ocean
