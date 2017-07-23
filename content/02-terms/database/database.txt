@@ -16,6 +16,7 @@ Related:
 
 - /terms/accordian
 - /terms/db
+- /terms/encyclopedia
 - /terms/soup
 
 ----

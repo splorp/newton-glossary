@@ -20,6 +20,7 @@ Related:
 - /terms/local-area-network
 - /terms/localtalk
 - /terms/protocol
+- /terms/wireless-appletalk
 
 ----
 
