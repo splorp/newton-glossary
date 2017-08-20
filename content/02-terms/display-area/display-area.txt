@@ -14,6 +14,7 @@ The portion of a Newton device [screen](/terms/screen) on which information is d
 
 Related:
 
+- /terms/display
 - /terms/liquid-crystal-display
 - /terms/non-display-area
 - /terms/pixel

@@ -20,8 +20,9 @@ Source:
 
 Related:
 
-- /terms/liquid-crystal-display
+- /terms/display
 - /terms/display-area
+- /terms/liquid-crystal-display
 - /terms/non-display-area
 - /terms/pixel
 - /terms/touch-screen
