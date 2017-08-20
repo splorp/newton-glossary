@@ -14,6 +14,7 @@ A thin, electro-optical [screen](/terms/screen) used to display information on t
 
 Related:
 
+- /terms/backlit
 - /terms/backlight
 - /terms/display-area
 - /terms/lcd

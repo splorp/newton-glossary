@@ -21,6 +21,7 @@ The eMate 300 was known by various code names, including [Project K](/terms/proj
 
 Related:
 
+- /terms/backlit
 - /terms/backlight
 - /terms/batnewt
 - /terms/bmate

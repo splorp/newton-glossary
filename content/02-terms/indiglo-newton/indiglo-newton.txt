@@ -18,6 +18,7 @@ A nickname applied to the [MessagePad 130](/terms/messagepad-130) in reference t
 
 Related:
 
+- /terms/backlit
 - /terms/backlight
 - /terms/electroluminescent-panel
 - /terms/messagepad

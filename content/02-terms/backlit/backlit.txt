@@ -1,0 +1,23 @@
+Title: Backlit
+
+----
+
+Date: 19 August 2017
+
+----
+
+Text:
+
+A [screen](/terms/screen) that has an integrated illumination source originating from behind the [display area](/terms/display-area).
+
+----
+
+Related:
+
+- /terms/backlight
+- /terms/display-area
+- /terms/liquid-crystal-display
+- /terms/electroluminescent-panel
+- /terms/indiglo-newton
+- /terms/screen
+- /terms/touch-screen
