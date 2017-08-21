@@ -15,6 +15,7 @@ The small [button](/terms/button) found in an [application](/terms/application) 
 Related:
 
 - /terms/button
+- /terms/folder-button
 - /terms/picker
 - /terms/put-away
 - /terms/tag

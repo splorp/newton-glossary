@@ -20,6 +20,7 @@ Related:
 - /terms/button-provider
 - /terms/close-box
 - /terms/envelope-button
+- /terms/folder-button
 - /terms/hard-button
 - /terms/information-button
 - /terms/large-close-box
