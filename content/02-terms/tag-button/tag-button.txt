@@ -14,6 +14,7 @@ The small [button](/terms/button) found in an [application](/terms/application) 
 
 Related:
 
+- /terms/action-button
 - /terms/button
 - /terms/folder-button
 - /terms/picker
