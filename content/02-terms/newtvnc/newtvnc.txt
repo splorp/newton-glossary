@@ -10,7 +10,7 @@ Text:
 
 A [VNC](/terms/vnc) client and server for [Newton OS](/terms/newton-os) developed by [Steve Weyer](/sources/steve-weyer). The newtVNC client software allows the user to view the screen and interacting with a remote computer system using a Newton device. The server software allows the user to view the screen and interacting with a Newton device from another computer.
 
-![newtVNC connected to a PC computer running Windows 95](/assets/images/newtvnc-client.gif)
+![Screenshot of newtVNC connected to a PC computer running Windows 95](/assets/images/newtvnc-client.gif)
 
 ## Additional Information
 

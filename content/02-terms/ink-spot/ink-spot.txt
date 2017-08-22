@@ -10,7 +10,7 @@ Text:
 
 A [Usenet](https://en.wikipedia.org/wiki/Usenet) newsreader [application](/terms/application) for [Newton OS](/terms/newton-os) developed by [DejaVu Software](/sources/dejavu). Ink Spot was also available for the Windows CE platform.
 
-![Ink Spot](/assets/images/ink-spot.gif)
+![Screenshot of Ink Spot](/assets/images/ink-spot.gif)
 
 ## Additional Information
 
