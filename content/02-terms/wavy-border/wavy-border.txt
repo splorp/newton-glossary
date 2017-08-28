@@ -16,6 +16,7 @@ Related:
 
 - /terms/alert-box
 - /terms/matte-border
+- /terms/puff-of-smoke
 - /terms/user-interface
 
 ----

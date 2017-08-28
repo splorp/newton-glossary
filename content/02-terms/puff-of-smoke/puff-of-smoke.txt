@@ -1,0 +1,28 @@
+Title: Puff of Smoke
+
+----
+
+Date:
+
+----
+
+Text:
+
+The animation which appears after deleting text or ink drawings by [scrubbing](/terms/scrubbing) with the [pen](/terms/pen) on the [screen](/terms/screen) of a Newton device. Naturally, the “puff of smoke” is accompanied by a “[poof](/terms/poof)” sound.
+
+----
+
+Related:
+
+- /terms/poof
+- /terms/poof-it
+- /terms/scribble
+- /terms/scrub
+- /terms/scrubbing
+- /terms/zig-zag
+
+----
+
+Source:
+
+- /sources/grant-hutchinson

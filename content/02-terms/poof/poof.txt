@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The sound associated with the “puff of smoke” animation after deleting text or ink drawings by [scrubbing](/terms/scrubbing) with the [pen](/terms/pen) on the [screen](/terms/screen) of a Newton device.
+The sound that accompanies the “[puff of smoke](/terms/puff-of-smoke)” animation after deleting text or ink drawings by [scrubbing](/terms/scrubbing) with the [pen](/terms/pen) on the [screen](/terms/screen) of a Newton device.
 
 ----
 

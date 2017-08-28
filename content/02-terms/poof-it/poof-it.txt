@@ -15,6 +15,7 @@ To erase something on a Newton device using the [scrubbing](/terms/scrubbing) ge
 Related:
 
 - /terms/poof
+- /terms/puff-of-smoke
 - /terms/scribble
 - /terms/scrub
 - /terms/scrubbing
