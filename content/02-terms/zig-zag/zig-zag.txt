@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A back and forth [gesture](/terms/gesture) made with the [pen](/terms/pen).
+A back and forth [gesture](/terms/gesture) made with the [pen](/terms/pen). This gesture is usually performed in order to erase or delete words or images on the [screen](/terms/screen) of a Newton device.
 
 ----
 
