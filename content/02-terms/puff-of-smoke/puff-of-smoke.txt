@@ -19,6 +19,7 @@ Related:
 - /terms/scribble
 - /terms/scrub
 - /terms/scrubbing
+- /terms/wavy-border
 - /terms/zig-zag
 
 ----
