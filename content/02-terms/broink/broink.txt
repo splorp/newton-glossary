@@ -19,6 +19,8 @@ Related:
 - /terms/display
 - /terms/emate-300
 - /terms/floppy-lid
+- /terms/poof
+- /terms/squeak
 
 ----
 
