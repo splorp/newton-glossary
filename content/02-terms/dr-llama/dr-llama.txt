@@ -22,7 +22,7 @@ Related:
 - /terms/commander-clueless
 - /terms/developer-technical-services
 - /terms/llama
-- /terms/llama-dos
+- /terms/llamados
 - /terms/newton-systems-group
 
 ----

@@ -12,7 +12,7 @@ RewriteRule ^(.*)$ http://newtonglossary.com/$1 [R=301,L]
 # Redirect legacy pages
 Redirect 301 /terms/electro-luminescent-panel http://newtonglossary.com/terms/electroluminescent-panel
 Redirect 301 /terms/in-out-box http://newtonglossary.com/terms/inout-box
-Redirect 301 /terms/llamados http://newtonglossary.com/terms/llama-dos
+Redirect 301 /terms/llama-dos http://newtonglossary.com/terms/llamados
 Redirect 301 /terms/personal-interactive-electronics http://newtonglossary.com/terms/pie
 
 # Add modification timestamps to css and js files via Cachebuster plugin

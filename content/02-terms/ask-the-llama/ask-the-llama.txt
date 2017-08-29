@@ -21,7 +21,7 @@ Related:
 - /terms/developer-technical-services
 - /terms/dr-llama
 - /terms/llama
-- /terms/llama-dos
+- /terms/llamados
 - /terms/newton-systems-group
 
 ----
