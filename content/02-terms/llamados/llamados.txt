@@ -18,6 +18,7 @@ A software package of dubious utility which provides an alternate input interfac
 
 Related:
 
+- /terms/ask-the-llama
 - /terms/developer-technical-services
 - /terms/dr-llama
 - /terms/llama
