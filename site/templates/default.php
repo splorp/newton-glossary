@@ -4,7 +4,7 @@
 <?php snippet('menu') ?>
 <?php $page->isChildOf($pages->find('terms')) || $page->isChildOf($pages->find('sources')) ? snippet('prevnext') : '' ; ?>
 
-<section class="content">
+<section>
 	<article>
 		<h1><?php echo html($page->title()) ?></h1>
 		<?php echo kirbytext($page->text()) ?>

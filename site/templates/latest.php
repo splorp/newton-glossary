@@ -5,7 +5,7 @@
 
 <?php $latest_pages = $pages->find('terms', 'sources')->children()->filterBy('date', '!=', '')->sortBy('date', 'desc')->limit(100); ?>
 
-<section class="content">
+<section>
 	<article>
 		<h1><?php echo html($page->title()) ?></h1>
 		<?php echo kirbytext($page->text()) ?>

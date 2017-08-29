@@ -13,7 +13,7 @@
 	$pp = str_replace('_$s', $s, $p);
 ?>
 
-<section class="content">
+<section>
 	<article>
 		<h1><?php echo html($page->title()) ?></h1>
 		<?php echo kirbytext($pp) ?>

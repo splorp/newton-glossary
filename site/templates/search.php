@@ -3,7 +3,7 @@
 <?php snippet('header', array('title' => $page->title(), 'page_description' => $page_description)); ?>
 <?php snippet('menu') ?>
 
-<section class="content">
+<section>
 	<article>
 		<h1><?php echo html($page->title()) ?></h1>
 		<?php echo kirbytext($page->text()) ?>

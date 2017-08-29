@@ -86,12 +86,11 @@ h1 {
 	color: #444;
 	font-size: 30px;
 	line-height: 40px;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 	}
 
 header h1 {
 	font-size: 48px;
-	margin-bottom: 20px;
 	}
 
 h2 {
@@ -218,16 +217,16 @@ nav.submenu.alphabetical h2 {
 	margin-top: 0;
 	}
 
-.content {
-	margin-top: 40px;
+section {
+	margin-top: 30px;
 	}
 
-.content a {
+section a {
 	border-bottom: 2px #090 solid;
 	padding-bottom: 1px;
 	}
 	
-.content a:hover {
+section a:hover {
 	border-bottom: 2px #FFF solid;
 	}
 
@@ -238,7 +237,7 @@ nav.submenu.alphabetical h2 {
 footer {
 	border-top: 1px solid #999;
 	font-size: 13px;
-	margin-top: 40px;
+	margin-top: 30px;
 	padding-top: 20px;
 	}
 
@@ -278,7 +277,7 @@ footer nav {
 		margin-bottom: 10px;
 		}
 
-	section.content {
+	section {
 		margin-top: 20px;
 		}
 
@@ -330,7 +329,7 @@ footer nav {
 		font-size: 13px;
 		}
 	
-	section.content {
+	section {
 		margin-top: 20px;
 		}
 
@@ -340,6 +339,6 @@ footer nav {
 		}
 
 	footer {
-		margin-top: 30px;
+		margin-top: 20px;
 		}
 	}
