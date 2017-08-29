@@ -8,7 +8,7 @@ Date: 20 August 2017
 
 Text:
 
-A [button](/terms/button) that allows the user to file items located in the [Notepad](/terms/note), [Name File](/terms/name-file), [Extra Drawer](/terms/extra-drawer), and other [applications](/terms/application) into folders. When [tapped](/terms/tapped), a [slip](/terms/slip) appears where the user can select which folder the selected item will be filed.
+A [button](/terms/button) that allows the user to file items located in the [Notepad](/terms/note), [Name File](/terms/name-file), [Extra Drawer](/terms/extras-drawer), and other [applications](/terms/application) into folders. When [tapped](/terms/tapped), a [slip](/terms/slip) appears where the user can select which folder the selected item will be filed.
 
 ----
 
