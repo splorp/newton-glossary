@@ -20,4 +20,4 @@ Related:
 - /terms/electroluminescent-panel
 - /terms/indiglo-newton
 - /terms/screen
-- /terms/touch-screen
+- /terms/transflective

@@ -28,6 +28,7 @@ Sources: _$s
 
 + Added new terms
 + Added new sources
++ Updated and expanded dozens of existing entries
 
 ## 24 April 2017
 

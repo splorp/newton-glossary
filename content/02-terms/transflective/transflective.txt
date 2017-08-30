@@ -1,0 +1,33 @@
+Title: Transflective
+
+----
+
+Date: 30 August 2017
+
+----
+
+Text:
+
+A [liquid crystal display](/terms/liquid-crystal-display) that both reflects and transmits light. Under a bright external light source, the [screen](/terms/screen) is primarily reflective. In situations where the ambient light is reduced, an internal [backlight](/terms/backlight) such as an [electroluminescent panel](/terms/electroluminescent-panel) is required to view the display.
+
+## Additional Information
+
+[Wikipedia: Transflective Liquid Crystal Display](https://en.wikipedia.org/wiki/Transflective_liquid-crystal_display)
+----
+
+Related:
+
+- /terms/backlit
+- /terms/backlight
+- /terms/display-area
+- /terms/electroluminescent-panel
+- /terms/indiglo-newton
+- /terms/liquid-crystal-display
+- /terms/screen
+
+----
+
+Source:
+
+- /sources/newton-gallery
+- /sources/wikipedia

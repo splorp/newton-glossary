@@ -16,8 +16,8 @@ Related:
 
 - /terms/backlight
 - /terms/display-area
-- /terms/liquid-crystal-display
 - /terms/electroluminescent-panel
 - /terms/indiglo-newton
+- /terms/liquid-crystal-display
 - /terms/screen
-- /terms/touch-screen
+- /terms/transflective

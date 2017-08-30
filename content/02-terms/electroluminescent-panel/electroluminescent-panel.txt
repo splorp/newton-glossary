@@ -16,10 +16,12 @@ Related:
 
 - /terms/backlit
 - /terms/backlight
-- /terms/display
 - /terms/el
 - /terms/elp
 - /terms/indiglo-newton
+- /terms/liquid-crystal-display
+- /terms/screen
+- /terms/transflective
 
 ----
 
