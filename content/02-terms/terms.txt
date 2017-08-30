@@ -2,4 +2,12 @@ Title: Terms
 
 ----
 
+Date:
+
+----
+
 Description: An alphabetical list of terms contained in the glossary.
+
+----
+
+Text:
