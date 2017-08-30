@@ -6,6 +6,10 @@ Date:
 
 ----
 
+Description: Helpful guidelines on how to write entries for the Newton Glossary.
+
+----
+
 Text:
 
 ## Abbreviations (used as a “see also” pointing at expanded term)

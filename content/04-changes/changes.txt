@@ -2,6 +2,10 @@ Title: Change Log
 
 ----
 
+Date:
+
+----
+
 Description: A chronological list of major releases, updates, and improvements made to the glossary.
 
 ----

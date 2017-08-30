@@ -6,6 +6,10 @@ Date:
 
 ----
 
+Description: A little bit of history on the Newton Glossary and how this whole thing works.
+
+----
+
 Text:
 
 The original idea behind the creation of the [Newton Glossary](/) was to provide a single, accessible resource for terminology related specifically to the Newton.

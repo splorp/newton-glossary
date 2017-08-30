@@ -6,6 +6,10 @@ Date:
 
 ----
 
+Description: Oh, dear. Something went amiss.
+
+----
+
 Text:
 
 ![Tapping this does nothing.](/assets/images/tapping-this-does-nothing.gif)
