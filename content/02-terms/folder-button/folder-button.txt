@@ -16,8 +16,6 @@ Related:
 
 - /terms/action-button
 - /terms/button
-- /terms/envelope-button
-- /terms/routing-button
 - /terms/keyboard-button
 - /terms/tag-button
 - /terms/user-interface

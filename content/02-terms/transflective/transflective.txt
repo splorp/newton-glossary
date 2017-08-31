@@ -13,6 +13,7 @@ A [liquid crystal display](/terms/liquid-crystal-display) that both reflects and
 ## Additional Information
 
 [Wikipedia: Transflective Liquid Crystal Display](https://en.wikipedia.org/wiki/Transflective_liquid-crystal_display)
+
 ----
 
 Related:
