@@ -23,6 +23,7 @@ Related:
 - /terms/folder-button
 - /terms/hard-button
 - /terms/information-button
+- /terms/keyboard-button
 - /terms/large-close-box
 - /terms/local-scroll-arrows
 - /terms/picker

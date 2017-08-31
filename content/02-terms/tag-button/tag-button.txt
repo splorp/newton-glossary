@@ -17,6 +17,7 @@ Related:
 - /terms/action-button
 - /terms/button
 - /terms/folder-button
+- /terms/keyboard-button
 - /terms/picker
 - /terms/put-away
 - /terms/tag

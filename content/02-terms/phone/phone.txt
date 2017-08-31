@@ -1,0 +1,28 @@
+Title: Phone
+
+----
+
+Date: 31 August 2017
+
+----
+
+Text:
+
+An onscreen keyboard that appears when the [keyboard button](/terms/keyboard-button) is [tapped](/terms/tapped). The phone keyboard is designed for easily entering telephone numbers into [applications](/terms/application) such as [Name File](/terms/name-file). Several other onscreen keyboards are available for entering specific types of data, including [Typewriter](/terms/numeric), [Numeric](/terms/numeric), and [Time/Date](/terms/time-date).
+
+_This entry requires a screenshot._
+
+----
+
+Related:
+
+- /terms/keyboard-button
+- /terms/numeric
+- /terms/time-date
+- /terms/typewriter
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995

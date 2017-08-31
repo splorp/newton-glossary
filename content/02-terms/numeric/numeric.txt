@@ -1,0 +1,28 @@
+Title: Numeric
+
+----
+
+Date: 31 August 2017
+
+----
+
+Text:
+
+An onscreen keyboard that appears when the [keyboard button](/terms/keyboard-button) is [tapped](/terms/tapped). The numeric keyboard is designed for easily entering numbers and calculations into [applications](/terms/application) such as as [Newton Works](/terms/newton-works). Several other onscreen keyboards are available for entering specific types of data, including [Typewriter](/terms/numeric), [Phone](/terms/phone), and [Time/Date](/terms/time-date).
+
+_This entry requires a screenshot._
+
+----
+
+Related:
+
+- /terms/keyboard-button
+- /terms/phone
+- /terms/time-date
+- /terms/typewriter
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995

@@ -19,6 +19,7 @@ Related:
 - /terms/button
 - /terms/envelope-button
 - /terms/folder-button
+- /terms/keyboard-button
 - /terms/picker
 - /terms/routing
 - /terms/routing-button
