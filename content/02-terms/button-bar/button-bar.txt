@@ -20,6 +20,7 @@ Related:
 - /terms/hard-button
 - /terms/icon
 - /terms/ryo
+- /terms/separator-bar
 - /terms/silk-button
 - /terms/silkscreen-button
 - /terms/soft-button
