@@ -1,0 +1,16 @@
+Title: Avi Drissman
+
+----
+
+Date: 02 September 2017
+
+----
+
+Text:
+
+Currently a software engineer at Google, Drissman developed numerous pieces of software for Mac OS and [Newton OS](/terms/newton-os), including [Fix2010](/terms/fix2010) and the popular [Avi’s Backdrop](/terms/avis-backdrop).
+
+## Additional Information
+
+[Avi’s Blog](http://avi.drissman.com/)
+[Avi’s Newton Stuff](http://www.drissman.com/avi/newton/)
