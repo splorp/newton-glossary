@@ -12,7 +12,7 @@ A bug that affects devices running [Newton OS](/terms/newton-os) 2.1 after Janua
  
 Commonly referred to as the [Y2010](/terms/y2010) bug, this problem can be fixed by installing a [system patch](/terms/system-patch).
 
-Additional Information:
+## Additional Information
 
 [40Hz: Newton Year 2010 Problem](http://40hz.org/Pages/Newton%20Year%202010%20Problem)
 [40Hz: Newton Year 2010 Solution](http://40hz.org/Pages/Newton%20Year%202010%20Solution)

@@ -10,7 +10,7 @@ Text:
 
 A [system patch](/terms/system-patch) created by [Avi Drissman](/sources/avi-drissman) that addresses some of the bugs introduced by the [Year 2010 Problem](/terms/year-2010-problem).
 
-Additional Information:
+## Additional Information
 
 [Avi Drissman: Fix2010](http://www.drissman.com/avi/newton/Fix2010/)
 [40Hz: Newton Year 2010 Problem](http://40hz.org/Pages/Newton%20Year%202010%20Problem)

@@ -12,7 +12,7 @@ A potential future iteration of the [Year 2010 Problem](/terms/year-2010-problem
  
 Also referred to as the [Y2026](/terms/y2026) bug.
 
-Additional Information:
+## Additional Information
 
 [40Hz: Just checking …](http://40hz.org/Pages/Mottek:%202016-02-14)
 [40Hz: Newton Year 2010 Problem](http://40hz.org/Pages/Newton%20Year%202010%20Problem)

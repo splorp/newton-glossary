@@ -10,7 +10,7 @@ Text:
 
 A utility [package](/terms/package) created by [Eckhart Köppen](/sources/eckhart-koppen) that gathers information about scheduled alarms which may tigger an “infinite alarm loop” due to the [Year 2010 Problem](/terms/year-2010-problem). The utility allows the user to clear any alarms that are flagged as potentially troublesome.
 
-Additional Information:
+## Additional Information
 
 [40Hz: Y2010 Diagnostic](https://40hz.org/Pages/Y2010%20Diagnostic)
 [40Hz: Newton Year 2010 Problem](http://40hz.org/Pages/Newton%20Year%202010%20Problem)
