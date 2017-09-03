@@ -1,0 +1,25 @@
+Title: Newtway
+
+----
+
+Date: 03 September 2017
+
+----
+
+Text:
+
+A simple hardware adapter created by [Doug Parker](/sources/doug-parker) to easily connect a [Palm Portable Stowaway Keyboard](https://web.archive.org/web/20000510122503/http://thinkoutside.com:80/palm.html) to a Newton device.
+
+## Additional Information
+
+[The Newtway Stowaway Connector](http://ispinn.com/newtway/)
+[Splorp: Connecting a Stowaway Keyboard to a Newton](http://www.splorp.com/newton/stowaway/)
+[My Apple Newton: Newtway v2 Arrives](http://myapplenewton.blogspot.ca/2008/05/newtway-v2-arrives-stowaway-keyboard.html)
+[Dan Bricklin: Stowaway Keyboard](http://danbricklin.com/log/stowaway.htm)
+[Internet Archive: The Palm Portable Keyboard](https://web.archive.org/web/20000510122503/http://thinkoutside.com:80/palm.html)
+
+----
+
+Source:
+
+- /sources/doug-parker
