@@ -1,0 +1,22 @@
+Title: NewtonID
+
+----
+
+Date: 03 September 2017
+
+----
+
+Text:
+
+A free utility developed by [Adam Tow](/sources/adam-tow) that generates a universal identifier for Newton devices running [Newton OS](/terms/newton-os) 2.0 and later. NewtonID provides developers a means of creating software registration systems that do not rely on information that may change, such as the [owner](/terms/owner) or the serial number of the Newton device.
+
+
+## Additional Information
+
+[Tow.com: Newton Software](https://tow.com/projects/newton/)
+
+----
+
+Source:
+
+- /sources/adam-tow

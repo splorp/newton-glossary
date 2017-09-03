@@ -1,0 +1,19 @@
+Title: Adam Tow
+
+----
+
+Date: 03 September 2017
+
+----
+
+Text:
+
+Currently known as a filmmaker, photographer, software developer, and digital content producer, Tow was a fixture of the Newton community for many years. He was heavily involved in the Bay Area user group community and a vocal evangelist for the platform, especially when the Newton project was [Steved](/terms/steved) in 1998.
+
+Under the moniker Foundation Systems, Tow created several popular [Newton OS](/terms/newton-os) software packages, including [NewtonID](/terms/newtonid), [newtToDO](/terms/terms/newttodo), [HyperNewt](/terms/hypernewt), and [WriteHere](/terms/writehere).
+
+## Additional Information
+
+[Tow.com Website](https://tow.com/)
+[Tow.com: Newton Software](https://tow.com/projects/newton/)
+[Wired: Newton Fanatics Plan Protest](https://www.wired.com/1998/03/newton-fanatics-plan-protest/)
