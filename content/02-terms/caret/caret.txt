@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A [cursor](/terms/cursor) symbol (^) that indicates where the Newton will insert text written, printed, or typed by the user. The caret is only used in [Newton OS](/terms/newton-os) 2.x. Earlier versions of Newton OS used a [blinking line](/terms/blinking-line) cursor to indicate where new text would be inserted. A caret shaped [gesture](/terms/gesture) can be used to when editing text to indicate where a new [insertion point](/terms/insertion-point) should be placed.
+A [cursor](/terms/cursor) symbol (^) that indicates where the Newton will insert text written, printed, or typed by the user. The caret is only used in [Newton OS](/terms/newton-os) 2.0 and later. Earlier versions of Newton OS used a [blinking line](/terms/blinking-line) cursor to indicate where new text would be inserted. A caret shaped [gesture](/terms/gesture) can be used to when editing text to indicate where a new [insertion point](/terms/insertion-point) should be placed.
 
 ----
 
