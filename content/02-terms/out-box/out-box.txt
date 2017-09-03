@@ -17,7 +17,6 @@ Related:
 - /terms/enroute
 - /terms/in-box
 - /terms/inout-box
-- /terms/item-frame
 - /terms/mail-v
 - /terms/newtdump
 - /terms/newtonmail

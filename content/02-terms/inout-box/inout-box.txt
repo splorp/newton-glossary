@@ -19,7 +19,6 @@ Related:
 - /terms/blinking-star
 - /terms/enroute
 - /terms/in-box
-- /terms/item-frame
 - /terms/mail-v
 - /terms/newtdump
 - /terms/newtonmail
