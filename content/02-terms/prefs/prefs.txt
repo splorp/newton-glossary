@@ -1,0 +1,26 @@
+Title: Prefs
+
+----
+
+Date: 03 September 2017
+
+----
+
+Text:
+
+The built-in [application](/terms/application) for setting various options or [preferences](/terms/preferences) pertaining to the operation and fine-tuning of a Newton device. [Tapping](/terms/tapping) a topic in the Prefs list will open a [slip](/terms/slip) where setting may be entered or updated.
+
+_This entry requires a screenshot._
+
+----
+
+Related:
+
+- /terms/information-button
+- /terms/preferences
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

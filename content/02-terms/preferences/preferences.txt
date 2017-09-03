@@ -1,0 +1,11 @@
+Title: Preferences
+
+----
+
+Date: 03 September 2017
+
+----
+
+Text:
+
+See [Prefs](/terms/prefs)
