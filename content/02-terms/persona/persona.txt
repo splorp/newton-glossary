@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The permanent internal description of an individual person that uses a particular Newton device, or a particular public image of the [owner](/terms/owner). The owner is the most obvious and common persona, but it is by no means the only example. Choosing a persona sets up the name, title, birthday, telephone number, email address, and other information pertaining to the current user.
+The permanent internal description of an individual person that uses a particular Newton device, or a particular public image of the [owner](/terms/owner). The owner is the most obvious and common persona, but it is by no means the only example. Choosing a persona in the [Owner Info](/terms/owner-info) application sets the name, title, birthday, telephone number, email address, and other information pertaining to the current user.
 
 The plural of persona is personae.
 
@@ -17,6 +17,7 @@ The plural of persona is personae.
 Related:
 
 - /terms/owner
+- /terms/owner-card
 - /terms/owner-info
 
 ----

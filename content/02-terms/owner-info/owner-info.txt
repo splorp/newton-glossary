@@ -8,8 +8,7 @@ Date:
 
 Text:
 
-A [slip](/terms/slip) containing information regarding the [owner](/terms/owner) and [worksites](/terms/worksite) that a user has set up.
-
+The built-in [application](/terms/application) for setting [owner](/terms/owner) and [worksite](/terms/worksite) information on a Newton device. It is possible to set up multiple owner profiles or [personas](/terms/persona) for the same owner.
 
 ----
 
@@ -24,4 +23,4 @@ Related:
 
 Source:
 
-- /sources/npum
+- /sources/messagepad-2000-user-manual
