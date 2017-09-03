@@ -15,7 +15,7 @@ A standardized data format for electronic business cards. Information is typical
 Related:
 
 - /terms/mail-v
-- /terms/names
+- /terms/name-file
 - /terms/newtdump
 - /terms/persona
 - /terms/simplemail

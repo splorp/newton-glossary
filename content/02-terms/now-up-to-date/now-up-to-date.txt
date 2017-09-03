@@ -18,7 +18,6 @@ Related:
 - /terms/date-book
 - /terms/dates
 - /terms/name-file
-- /terms/names
 - /terms/newtourage
 - /terms/nud
 - /terms/personal-information-manager

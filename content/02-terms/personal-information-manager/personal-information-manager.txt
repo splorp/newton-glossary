@@ -17,6 +17,5 @@ Related:
 - /terms/action-names
 - /terms/application
 - /terms/name-file
-- /terms/names
 - /terms/moreinfo
 - /terms/pim

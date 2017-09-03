@@ -21,7 +21,6 @@ Related:
 
 - /terms/application
 - /terms/name-file
-- /terms/names
 - /terms/now-up-to-date
 - /terms/personal-information-manager
 - /terms/synchronize

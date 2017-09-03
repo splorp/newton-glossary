@@ -28,7 +28,6 @@ Related:
 - /terms/flash-card
 - /terms/memory-card
 - /terms/name-file
-- /terms/names
 - /terms/owner-card
 - /terms/pc-card
 - /terms/pcmcia

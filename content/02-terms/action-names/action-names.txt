@@ -24,7 +24,6 @@ Related:
 - /terms/meeting
 - /terms/moreinfo
 - /terms/name-file
-- /terms/names
 - /terms/personal-information-manager
 
 ----
