@@ -16,6 +16,7 @@ A [slip](/terms/slip) containing information regarding the [owner](/terms/owner)
 Related:
 
 - /terms/owner
+- /terms/owner-card
 - /terms/persona
 - /terms/worksite
 

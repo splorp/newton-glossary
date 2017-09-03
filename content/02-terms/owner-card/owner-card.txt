@@ -1,0 +1,27 @@
+Title: Owner Card
+
+----
+
+Date: 03 September 2017
+
+----
+
+Text:
+
+A [view](/terms/view) containing information pertaining to the [owner](/terms/owner) entry found in the [Name File](/terms/name-file) application. Information found on the owner card can be modified using the [Owner Info](/terms/owner-info) application.
+
+----
+
+Related:
+
+- /terms/card
+- /terms/name-file
+- /terms/owner
+- /terms/owner-info
+- /terms/persona
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

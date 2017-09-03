@@ -29,6 +29,7 @@ Related:
 - /terms/memory-card
 - /terms/name-file
 - /terms/names
+- /terms/owner-card
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/protection-card

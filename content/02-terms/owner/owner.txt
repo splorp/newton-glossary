@@ -14,6 +14,7 @@ The primary user of a Newton device.
 
 Related:
 
+- /terms/owner-card
 - /terms/owner-info
 - /terms/persona
 
