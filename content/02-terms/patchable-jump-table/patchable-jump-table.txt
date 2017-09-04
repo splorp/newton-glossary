@@ -1,0 +1,29 @@
+Title: Patchable Jump Table
+
+----
+
+Date:
+
+----
+
+Text:
+
+A series of branching instructions directly pointing to native [Newton OS](/terms/newton-os) functions. These instructions are ordered differently depending on the version of the [ROM](/terms/rom). This [jump table](/terms/jump-table) can be partially replaced by [system patch pages](/terms/system-patch-pages), allowing [system patches](/terms/system-patch) to replace specific [operating system](/terms/operating-system) functions.
+
+----
+
+Related:
+
+- /terms/jump-table
+- /terms/patch
+- /terms/public-jump-table
+- /terms/rom-patch
+- /terms/system-patch
+- /terms/system-patch-pages
+- /terms/system-update
+
+----
+
+Source:
+
+- /sources/paul-guyot

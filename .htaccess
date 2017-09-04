@@ -13,7 +13,9 @@ RewriteRule ^(.*)$ http://newtonglossary.com/$1 [R=301,L]
 Redirect 301 /terms/electro-luminescent-panel http://newtonglossary.com/terms/electroluminescent-panel
 Redirect 301 /terms/in-out-box http://newtonglossary.com/terms/inout-box
 Redirect 301 /terms/llama-dos http://newtonglossary.com/terms/llamados
+Redirect 301 /terms/patchable-jumptable http://newtonglossary.com/terms/patchable-jump-table
 Redirect 301 /terms/personal-interactive-electronics http://newtonglossary.com/terms/pie
+Redirect 301 /terms/public-jumptable http://newtonglossary.com/terms/public-jump-table
 
 # Add modification timestamps to css and js files via Cachebuster plugin
 RewriteCond %{REQUEST_FILENAME} !-f

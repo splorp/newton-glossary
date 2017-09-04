@@ -1,0 +1,25 @@
+Title: Public Jump Table
+
+----
+
+Date:
+
+----
+
+Text:
+
+A list of branching instructions for the microprocessor, indirectly pointing to native [functions](/terms/function). For each version of the [ROM](/terms/rom) in Newton OS 2.0 and later, the functions always reside at the same offset in the [jump table](/terms/jump-table). Native programs can call these functions via the public jump table and they will work on every [Newton OS](/terms/newton-os) device. The public jump table also contains a series of branches pointing to the [patchable jump table](/terms/patchable-jump-table).
+
+----
+
+Related:
+
+- /terms/jump-table
+- /terms/patchable-jump-table
+- /terms/system-patch-pages
+
+----
+
+Source:
+
+- /sources/paul-guyot

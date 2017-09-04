@@ -8,18 +8,4 @@ Date:
 
 Text:
 
-A series of instructions for the microprocessor, each of which tells the microprocessor to branch or jump to another location in memory.
-
-----
-
-Related:
-
-- /terms/patchable-jumptable
-- /terms/public-jumptable
-- /terms/system-patch-pages
-
-----
-
-Source:
-
-- /sources/paul-guyot
+See [Jump Table](/terms/jump-table)

@@ -15,9 +15,9 @@ A small piece of code designed to modify or update certain aspects of an [operat
 Related:
 
 - /terms/extension
-- /terms/jumptable
-- /terms/patchable-jumptable
-- /terms/public-jumptable
+- /terms/jump-table
+- /terms/patchable-jump-table
+- /terms/public-jump-table
 - /terms/rom-patch
 - /terms/system-patch
 - /terms/system-patch-pages
