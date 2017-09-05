@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A collapsible toolbar interface for the [Inkwell](/terms/inkwell) handwriting recognition system that allowed for customization of various preferences.
+A collapsible toolbar interface for the [Inkwell](/terms/inkwell) handwriting recognition system that allowed for customization of various [preferences](/terms/preferences).
 
 _This entry requires a screenshot._
 
