@@ -47,7 +47,7 @@ This iteration of the glossary is formatted in [Markdown](http://daringfireball.
 
 We run our stylesheets through [CSSLint](http://csslint.net/) because tidy code is better code … and we don’t mind getting our feelings hurt.
 
-The entire project resides in a public [GitHub](https://github.com/splorp/newton-glossary/) repository, providing easy access for contributors, painless maintenance, and peace of mind.
+The entire project resides in a public [GitHub](https://github.com/splorp/newton-glossary/) repository, providing easy access for contributors, relatively pain-free upkeep, and peace of mind.
 
 To add a bit of spit and polish to our Kirby experience, we use the following handy dandy plugins.
 

@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The algorithmic conversion of handwritten or handprinted text into digital text. Also referred to as [HWR](/terms/hwr).
+The algorithmic conversion of handwritten or printed text into digital text. Also referred to as [HWR](/terms/hwr).
 
 ----
 
