@@ -237,7 +237,7 @@ section a:hover {
 footer {
 	border-top: 1px solid #999;
 	font-size: 13px;
-	margin-top: 30px;
+	margin-top: 100px;
 	padding-top: 20px;
 	}
 
@@ -285,12 +285,6 @@ footer nav {
 	article ol {
 		margin-left: 20px;
 		}
-
-	footer {
-		margin-top: 20px;
-		}
-	}
-	
 	
 /*
 	Small Screen Styles
@@ -339,6 +333,6 @@ footer nav {
 		}
 
 	footer {
-		margin-top: 20px;
+		margin-top: 50px;
 		}
 	}
