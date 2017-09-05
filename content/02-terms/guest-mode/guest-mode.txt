@@ -1,0 +1,11 @@
+Title: Guest Mode
+
+----
+
+Date: 05 September 2017
+
+----
+
+Text:
+
+See [Guest User](/terms/guest-user)

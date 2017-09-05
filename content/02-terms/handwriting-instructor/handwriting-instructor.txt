@@ -15,6 +15,7 @@ The built-in [application](/terms/application) which provides an interactive tut
 Related:
 
 - /terms/cursive-recognizer
+- /terms/guest-user
 - /terms/handwriting-recognition
 - /terms/hw-instructor
 - /terms/print-recognizer

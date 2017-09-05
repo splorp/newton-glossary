@@ -1,0 +1,26 @@
+Title: Guest User
+
+----
+
+Date: 05 September 2017
+
+----
+
+Text:
+
+An option in the [handwriting recognition](/terms/handwriting-recognition) preferences which provides temporary settings for another user. When selected, any [preferences](/terms/preferences) changed by the guest user will not affect the preferences previously set by the [owner](/terms/owner) of the Newton device.
+
+Sometimes referred to as [guest mode](/terms/guest-mode).
+
+----
+
+Related:
+
+- /terms/guest-mode
+- /terms/handwriting-recognition
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
