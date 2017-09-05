@@ -15,6 +15,7 @@ To place the [pen](/terms/pen) on a movable object — such as a [slider](/terms
 Related:
 
 - /terms/drag-handle
+- /terms/palette
 - /terms/slider
 
 ----
