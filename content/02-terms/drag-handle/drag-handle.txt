@@ -10,6 +10,8 @@ Text:
 
 A small control that a user can [drag](/terms/drag) to move a [container view](/terms/container-view) such as a [palette](/terms/palette) or floating window. The drag handle is indicated by a small black tab with a central hole, centered on the top border of the container view.
 
+Also referred to as a [picture hanger](/terms/picture-hanger).
+
 ----
 
 Related:
@@ -18,6 +20,7 @@ Related:
 - /terms/drag
 - /terms/floating-container-view
 - /terms/palette
+- /terms/picture-hanger
 - /terms/user-interface
 
 ----
@@ -25,3 +28,4 @@ Related:
 Source:
 
 - /sources/newton-user-interface-guidelines
+- /sources/messagepad-2000-user-manual
