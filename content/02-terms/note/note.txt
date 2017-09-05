@@ -8,15 +8,18 @@ Date:
 
 Text:
 
-An item created using the [Notepad](/terms/notepad) application. A note can contain various types of information including freeform text, formatted text, [ink text](/terms/ink-text), [shapes](/terms/shape), or [pictures](/terms/picture).
+A [stationery](/terms/stationery) item created using the [Notepad](/terms/notepad) application that can contain freeform text, formatted text, [ink text](/terms/ink-text), [shapes](/terms/shape), or [pictures](/terms/picture).
 
 ----
 
 Related:
 
+- /terms/checklist
 - /terms/notable
 - /terms/notepad
 - /terms/notes
 - /terms/notes2notes
+- /terms/outline
+- /terms/recording
 - /terms/stationery
 - /terms/the-fish
