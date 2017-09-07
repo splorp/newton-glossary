@@ -22,6 +22,7 @@ Related:
 - /terms/inkwell
 - /terms/mondello
 - /terms/neuropen
+- /terms/paragraph
 - /terms/print-recognizer
 - /terms/recognized-text
 - /terms/recognizer

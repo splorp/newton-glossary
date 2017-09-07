@@ -1,16 +1,14 @@
-Title: Print Recognizer
+Title: ParaGraph
 
 ----
 
-Date:
+Date: 07 September 2017
 
 ----
 
 Text:
 
-The algorithmic component of the [handwriting recognition](/terms/handwriting-recognition) system that identifies printed characters, as opposed to [cursive](/terms/cursive) or handwritten text.
-
-Also referred to as the [disconnected recognizer](/terms/disconnected-recognizer).
+What [Catamount Software](/sources/catamount) mistakenly calls the [cursive recognizer](/terms/cursive-recognizer) in its documentation. This is likely due to the fact that [ParaGraph International](/sources/paragraph) developed the [CalliGrapher](/terms/calligrapher) handwriting recognition system used on Newton devices.
 
 ## Additional Information
 
@@ -21,8 +19,8 @@ Also referred to as the [disconnected recognizer](/terms/disconnected-recognizer
 Related:
 
 - /terms/calligrapher
+- /terms/cursive
 - /terms/cursive-recognizer
-- /terms/disconnected-recognizer
 - /terms/eat-up-martha
 - /terms/egg-freckles
 - /terms/handwriting-instructor
@@ -31,6 +29,7 @@ Related:
 - /terms/inkwell
 - /terms/mondello
 - /terms/neuropen
+- /terms/print-recognizer
 - /terms/recognized-text
 - /terms/recognizer
 - /terms/rosetta

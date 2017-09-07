@@ -10,12 +10,19 @@ Text:
 
 The algorithmic component of the [handwriting recognition](/terms/handwriting-recognition) system that identifies handwritten or [cursive](/terms/cursive) characters, as opposed to printed or block characters.
 
+Also referred to as the [connected recognizer](/terms/connected-recognizer).
+
+## Additional Information
+
+[Catamount Software: Handwriting Tips for Newton Power Users](http://www.catamount.com/HWRTips/HWRTips.html)
+
 ----
 
 Related:
 
-- /terms/cursive
 - /terms/calligrapher
+- /terms/connected-recognizer
+- /terms/cursive
 - /terms/eat-up-martha
 - /terms/egg-freckles
 - /terms/handwriting-instructor
@@ -24,8 +31,15 @@ Related:
 - /terms/inkwell
 - /terms/mondello
 - /terms/neuropen
+- /terms/paragraph
 - /terms/print-recognizer
 - /terms/recognized-text
 - /terms/recognizer
 - /terms/rosetta
 - /terms/rosetta-stone
+
+----
+
+Source:
+
+- /sources/catamount
