@@ -1,0 +1,15 @@
+Title: ParaGraph International
+
+----
+
+Date: 07 September 2017
+
+----
+
+Text:
+
+Developers of the [CalliGrapher](/terms/calligrapher) handwriting recognition engine integrated into the [Newton OS](/terms/newton-os) platform.
+
+## Additional Information
+
+[Internet Archive: ParaGraph International Website](https://web.archive.org/web/19961113111157/http://www.paragraph.com/)
