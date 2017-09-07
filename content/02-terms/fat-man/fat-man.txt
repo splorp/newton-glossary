@@ -1,0 +1,31 @@
+Title: Fat Man
+
+----
+
+Date: 06 September 2017
+
+----
+
+Text:
+
+A variation of the NuBus-based [ARMageddon](/terms/armageddon) card that included a [daughterboard](/terms/daughterboard).
+
+## Additional Information
+
+[Flickr: Apple Newton ARMageddon (Front)](https://www.flickr.com/photos/pablo_marx/4683061364/)
+[Flickr: Apple Newton ARMageddon (Back)](https://www.flickr.com/photos/pablo_marx/4683061542/)
+[Computer History Museum: ARMageddon Fat Man Board](http://www.computerhistory.org/collections/catalog/102633651)
+
+----
+
+Related:
+
+- /terms/arm
+- /terms/armageddon
+- /terms/armistice
+
+----
+
+Source:
+
+- /sources/steve-white

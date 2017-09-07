@@ -10,12 +10,19 @@ Text:
 
 A later version of the NuBus-based Newton development card which followed the [ARMageddon](/terms/armageddon) card. So named because of the [ARM](/terms/arm) processor used in the Newton hardware.
 
+## Additional Information
+
+[Flickr: Apple Newton ARMistice (Front)](https://www.flickr.com/photos/pablo_marx/4683061782/)
+[Flickr: Apple Newton ARMistice (Back)](https://www.flickr.com/photos/pablo_marx/4683061958/)
+[Computer History Museum: Apple ARMistice Circuit Board](http://www.computerhistory.org/collections/catalog/102633652)
+
 ----
 
 Related:
 
 - /terms/arm
 - /terms/armageddon
+- /terms/fat-man
 
 ----
 
