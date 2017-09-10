@@ -13,7 +13,7 @@ An open source software emulator developed by [Paul Guyot](/sources/paul-guyot) 
 ## Additional Information
 
 [GitHub: Einstein](https://github.com/pguyot/Einstein/)
-[GitHub: Einstein Platform User’s Manual[(https://github.com/pguyot/Einstein/blob/master/Documentation/UserManual.pdf) (PDF)
+[GitHub: Einstein Platform User’s Manual](https://github.com/pguyot/Einstein/blob/master/Documentation/UserManual.pdf) (PDF)
 [Internet Archive: Kallisys: Einstein Platform 2007.7](https://web.archive.org/web/20070811171656/http://www.kallisys.com/newton/einstein/)
 [Wired: Fans Keep Newton in Motion](https://www.wired.com/2004/09/fans-keep-newton-in-motion/)
 
