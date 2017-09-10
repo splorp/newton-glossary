@@ -2,12 +2,15 @@ Title: Paul Guyot
 
 ----
 
-Date:
+Date: 10 September 2017
 
 ----
 
 Text:
 
+A Paris-based software developer whose projects include the very first [system update](/terms/system-update) for [Newton OS](/terms/newton-os) created outside of [Apple](https://www.apple.com/), the [ATA Support](/terms/ata-support) driver, and the [Einstein](/terms/einstein) emulator. With a PhD in artificial intelligence, Guyot is currently the CEO of [Semiocast](https://semiocast.com/), a company which applies AI techniques to extract consumer insights from social media conversations. Wow.
+
 ## Additional Information
 
 [Kallisys Website](http://www.kallisys.com/)
+[Paul Guyot Website](http://www.paul-guyot.com/)
