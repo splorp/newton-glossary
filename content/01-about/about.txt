@@ -36,6 +36,7 @@ Other glossarial references we love.
 + [Green’s Dictionary of Slang](https://greensdictofslang.com/) _by [Jonathon Green](http://jonathongreen.co.uk/)_
 + [Glossary of Archival & Records Terminology](http://archivists.org/glossary) _by [Richard Pearce-Moses](http://www.clayton.edu/faculty/rpearcemoses)_
 + [Glossary of Common Type Terminology](https://www.fontshop.com/glossary/) _by [FontShop](https://www.fontshop.com/)_
++ [Glossary of Eye Terminology](http://eyeglossary.net/) _by Barbara Cassin_
 + [Jargon File](http://catb.org/~esr/jargon/) _by [Eric S. Raymond](http://www.catb.org/~esr/)_
 + [Neoglossary](http://neoglossary.tumblr.com/) _by [Riccardo Mori](http://morrick.me/)_
 + [Rands Management Glossary](http://randsinrepose.com/glossary/) _by [Michael Lopp](http://randsinrepose.com/)_
