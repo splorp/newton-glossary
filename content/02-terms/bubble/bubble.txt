@@ -1,0 +1,31 @@
+Title: Bubble
+
+----
+
+Date: 13 September 2017
+
+----
+
+Text:
+
+A colloquial term for one of the [hard buttons](/terms/hard-button) or [silkscreen buttons](/terms/silkscreen-button) found in the [button bar](/terms/button-bar) below the [screen](/terms/screen) on early prototype Newton devices.
+
+Additional Information:
+
+[The Seattle Times: Let Newton Assist You, Says Apple](http://community.seattletimes.nwsource.com/archive/?date=19920529&slug=1494354)
+
+----
+
+Related:
+
+- /terms/button
+- /terms/button-bar
+- /terms/hard-button
+- /terms/silkscreen-button
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/seattle-times

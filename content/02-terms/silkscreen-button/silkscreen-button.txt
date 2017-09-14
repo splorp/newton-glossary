@@ -16,6 +16,7 @@ Also referred to as a [silk button](/terms/silk-button).
 
 Related:
 
+- /terms/bubble
 - /terms/button
 - /terms/button-bar
 - /terms/hard-button
