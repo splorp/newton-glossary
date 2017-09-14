@@ -1,4 +1,6 @@
 .DS_Store
+.editorconfig
+.gitignore
 kirby/
 panel/
 site/cache/
