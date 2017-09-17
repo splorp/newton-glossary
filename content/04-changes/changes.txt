@@ -29,6 +29,7 @@ Sources: _$s
 + Added new terms
 + Added new sources
 + Updated and expanded dozens of existing entries
++ Implemented [Kirby Meta Tags](https://github.com/pedroborges/kirby-xml-sitemap) plugin for some [Open Graph](http://ogp.me/) and [Twitter Cards](https://dev.twitter.com/cards/overview) love
 
 ## 24 April 2017
 
