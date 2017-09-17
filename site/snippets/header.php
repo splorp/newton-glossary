@@ -15,7 +15,7 @@
 		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/images/apple-touch-icon-144x144-precomposed.png" />
 		<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/images/apple-touch-icon-152x152-precomposed.png" />
 		<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/images/apple-touch-icon-180x180-precomposed.png" />
-		<link rel="icon" type="image/png" sizes="192x192" href="android-touch-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="/assets/images/android-touch-icon-192x192.png">
 		<meta name="msapplication-TileImage" content="/assets/images/msapplication-tileimage-144x144.png" />
 		<meta name="msapplication-TileColor" content="#009900" />
 		<?php echo css('assets/styles/styles.css') ?>
