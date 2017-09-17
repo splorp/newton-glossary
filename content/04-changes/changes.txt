@@ -18,19 +18,20 @@ Incremental changes and updates can be found in the project’s [commit history]
 
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
-## Current Release
+## 17 September 2017
 
 Version: 2.3.1
-Terms: _$t
-Sources: _$s
+Terms: 1,110
+Sources: 106
 
 ### Summary of changes:
 
-+ Added new terms
-+ Added new sources
++ Added 58 new terms
++ Added 8 new sources
 + Updated and expanded dozens of existing entries
-+ Implemented [Kirby Meta Tags](https://github.com/pedroborges/kirby-xml-sitemap) plugin for [Open Graph](http://ogp.me/) and [Twitter Cards](https://dev.twitter.com/cards/overview) love
-+ Updated site icons
++ Implemented [Kirby Meta Tags](https://github.com/pedroborges/kirby-xml-sitemap) plugin
++ Added [Open Graph](http://ogp.me/) and [Twitter Cards](https://dev.twitter.com/cards/overview) meta tag support
++ Updated site and mobile device icons
 
 ## 24 April 2017
 
