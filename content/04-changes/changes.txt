@@ -18,6 +18,16 @@ Incremental changes and updates can be found in the project’s [commit history]
 
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
+## Current Release
+
+Version: 2.4.0
+Terms: _$t
+Sources: _$s
+
+### Summary of changes:
+
++ Updated [Kirby](https://getkirby.com/) to version 2.5.5
+
 ## 17 September 2017
 
 Version: 2.3.1
