@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The [application](/terms/application) that serves as a central repository for all incoming and outgoing data handled by the [routing](/terms/routing) and [transport](/terms/transport) interfaces. The InOut Box application is specifically part of [Newton OS](/terms/newton-os) 2.0 and later, whereas earlier versions of Newton OS utilize separate applications for the [In Box](/terms/in-box) and [Out Box](/terms/out-box).
+An [application](/terms/application) serving as a central repository for all incoming and outgoing data handled by the [routing](/terms/routing) and [transport](/terms/transport) interfaces. The InOut Box application is specifically part of [Newton OS](/terms/newton-os) 2.0 and later, whereas earlier versions of Newton OS utilize separate applications for the [In Box](/terms/in-box) and [Out Box](/terms/out-box).
 
 If the InOut Box application is hidden and new items are received, a [blinking star](/terms/blinking-star) icon will appear at the top of the screen. [Tapping](/terms/tapping) the [star](/terms/star) allows the user to open the InOut Box.
 
