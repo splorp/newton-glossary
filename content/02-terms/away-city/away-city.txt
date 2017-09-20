@@ -17,6 +17,7 @@ Related:
 - /terms/emporium
 - /terms/home-city
 - /terms/locale
+- /terms/time-zones
 - /terms/worksite
 
 ----

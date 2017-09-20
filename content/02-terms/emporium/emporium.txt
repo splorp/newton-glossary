@@ -20,6 +20,7 @@ Related:
 - /terms/home-city
 - /terms/locale
 - /terms/owner-info
+- /terms/time-zones
 - /terms/worksite
 
 ----

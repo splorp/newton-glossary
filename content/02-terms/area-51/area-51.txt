@@ -26,6 +26,7 @@ Related:
 - /terms/easter-egg
 - /terms/egg-freckles
 - /terms/icon
+- /terms/time-zones
 
 ----
 
