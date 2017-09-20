@@ -8,12 +8,21 @@ Date:
 
 Text:
 
-An [easter egg](/terms/easter-egg) found in the [Newton OS](/terms/newton-os) which when activated displays the [icon](/terms/icon) for a meeting as a person facing an alien, the icon for an event as a flying saucer, to-do tasks are represented by a robot, and so on.
+An [easter egg](/terms/easter-egg) found in the [Newton OS](/terms/newton-os) related to selecting the infamous “Area 51” in the [Time Zones](/terms/time-zones) application. When activated, [icons](/terms/icon) in the [Date Book](/terms/date-book) application are changed to reflect an alien theme. For example, a meeting is represented by a person facing an alien, an event is changed to a flying saucer, and to-do tasks are represented by a robot.
+
+On a [MessagePad 130](/terms/messagepad-130), the “Area 51” location is replaced by either [Groom Lake](/terms/groom-lake) or [Dreamland](/terms/dreamland).
+
+Also referred to as the [Aliens](/terms/aliens) easter egg.
+
+## Additional Information
+
+[Mackido: Apple Easter Eggs](http://www.mackido.com/EasterEggs/Newton.html)
 
 ----
 
 Related:
 
+- /terms/date-book
 - /terms/easter-egg
 - /terms/egg-freckles
 - /terms/icon
@@ -22,4 +31,5 @@ Related:
 
 Source:
 
+- /sources/mackido
 - /sources/olivers-list
