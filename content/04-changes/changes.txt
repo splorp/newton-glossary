@@ -26,6 +26,8 @@ Sources: _$s
 
 ### Summary of changes:
 
++ Added new terms
++ Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version 2.5.5
 
 ## 17 September 2017
