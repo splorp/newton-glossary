@@ -1,0 +1,27 @@
+Title: Defying Gravity
+
+----
+
+Date: 21 September 2017
+
+----
+
+Text:
+
+A book documenting the creation of the Newton. Written by [Markos Kounalakis](http://www.markoskounalakis.com/) and featuring photography by [Doug Menuez](https://menuez.com/). In an ironic nod to the suboptimal [handwriting recognition](/terms/handwriting-recognition) found in the early versions of [Newton OS](/terms/newton-os), the spine of the book contains a typo where “Gravity” is spelled “Graviity”.
+
+## Additional Information
+
+[Amazon: Defying Gravity: The Making of Newton](http://amzn.to/1Q3sSkm)
+
+----
+
+Related:
+
+- /terms/graviity
+
+----
+
+Source:
+
+- /sources/defying-gravity
