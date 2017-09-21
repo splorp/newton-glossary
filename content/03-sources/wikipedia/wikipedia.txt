@@ -8,6 +8,8 @@ Date:
 
 Text:
 
+A free, collaborative, multilingual, and voluminous encyclopedia project launched in 2000 and currently supported by the non-profit [Wikimedia Foundation](https://wikimediafoundation.org/).
+
 ## Additional Information
 
 [Wikipedia Website](https://www.wikipedia.org/)
