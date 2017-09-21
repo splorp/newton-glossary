@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A company founded by Robert Ellison that developed [BackTalk](/terms/backtalk), software which providing modern infrared communication protocols for the Newton platform. Smart Dog Software also released several games for the Newton, including a variation of _Settlers of Catan_.
+A software development company founded by Robert Ellison. Smart Dog Software’s most popular product was [BackTalk](/terms/backtalk), software which provided modern infrared communication protocols for the Newton platform. They also released several games for the Newton, including a variation of _Settlers of Catan_.
 
 
 ## Additional Information
