@@ -8,7 +8,11 @@ Date:
 
 Text:
 
+A community resource of commonly asked questions related to the Newton platform.
+
+First published in 1999, the Newton FAQ was originally compiled and maintained by [Steve Weyer](/sources/steve-weyer), Peter Rand, [Sean Luke](/sources/sean-luke), and [Paul Guyot](/sources/paul-guyot). It was updated and posted to various websites and newsgroups on a monthly schedule. The last official edition of the Newton FAQ was published in March 2003.
+
 ## Additional Information
 
 [Splorp: Newton FAQ: March 2003 Update](http://www.splorp.com/newton/faq/)
-[GitHub: Newton FAQ](http://www.splorp.com/newton/faq/)
+[GitHub: Newton FAQ](https://github.com/splorp/newton-faq)
