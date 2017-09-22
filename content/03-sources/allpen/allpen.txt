@@ -8,12 +8,8 @@ Date:
 
 Text:
 
-_From the AllPen Software corporate backgrounder, October 1997:_
-
-AllPen Software, Inc. is a technology-based firm focused on the development and deployment of software solutions and technology for non-pc consumer devices. AllPen has developed and deployed successful solutions for the small memory footprint device marketplace; including hand-held devices, screen-phones, set-top boxes, PDAs, and other Internet appliances. AllPen has developed and licensed several of their technologies to Fortune 500 firms in this space. A key part of AllPen's mission is to assist clients in meeting their productivity goals by planning, developing, and implementing integrated systems that fully utilize these technologies.
-
-AllPen, a privately held California corporation, was founded in July of 1993 by Ivan and Wayne Yurtin. Their extensive experience in the computer industry includes highly technical software engineering, systems integration, and software project management for complex systems. AllPen has since grown to a full-time staff of approximately fifteen and has been profitable since 1994. The AllPen engineering staff is lead by Tim Harrington, Director of Engineering; Todd Courtois, Chief Architect, and Ray Rischpater, Chief Technologist. AllPen has developed, and is currently engaged in, applications for both corporations wanting to take advantage of these types of devices, as well as for the manufacturers of these non-pc devices.
-
+A software development company founded by Ivan and Wayne Yurtin in 1993. AllPen Software specialized in providing solutions for “small memory footprint” devices, such as the Newton. In 1996, they released [NetHopper](/terms/nethopper), the first commercial web browser for [Newton OS](/terms/newton-os).
+ 
 ## Additional Information
 
 [Internet Archive: AllPen Software Website](https://web.archive.org/web/19971010171711/http://www.allpen.com/)
