@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-First published by [Apple](https://www.apple.com/) in 1995, this is the definitive reference manual for the [Newton Toolkit](/terms/newton-toolkit), an integrated environment for developing [applications](/terms/application) for [Newton OS](/terms/newton-os).
+First published by [Apple](https://www.apple.com/) in 1995, this is the definitive reference for [Newton Toolkit](/terms/newton-toolkit), an integrated environment for developing [applications](/terms/application) and [packages](/terms/package) for the Newton platform.
 
 ## Additional Information
 
