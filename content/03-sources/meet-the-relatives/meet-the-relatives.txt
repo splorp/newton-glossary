@@ -8,6 +8,4 @@ Date:
 
 Text:
 
-A Newton accessory product brochure published by [Apple](https://www.apple.com/) in 1993.
-
-_Requires image or possibly a PDF version of the brochure._
+A product brochure for Newton accessories published by [Apple](https://www.apple.com/) in 1993.
