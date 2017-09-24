@@ -10,4 +10,5 @@ Text:
 
 ## Additional Information
 
+[The Newted Community: Newton Toolkit User’s Guide](http://www.newted.org/download/manuals/NewtonToolkitUsersGuide.pdf) (PDF)
 [UNNA: Newton Toolkit](http://www.unna.org/view.php?/apple/development/NTK)
