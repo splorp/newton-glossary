@@ -1,0 +1,27 @@
+Title: Outline
+
+----
+
+Date: 28 September 2017
+
+----
+
+Text:
+
+A type of [stationery](/terms/stationery) in the [Notepad](/terms/notepad) application that can be used to create and organize hierarchical lists.
+
+----
+
+Related:
+
+- /terms/checklist
+- /terms/note
+- /terms/notepad
+- /terms/recording
+- /terms/stationery
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
