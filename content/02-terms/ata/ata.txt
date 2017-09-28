@@ -10,17 +10,19 @@ Text:
 
 Advanced Technology Attachment
 
-An interface standard generally used for data storage devices. For example, [Paul Guyot](/sources/paul-guyot) developed a [device driver](/terms/device-driver) for [Newton OS](/terms/newton-os) which facilitates the use of non-linear ATA [stores](/terms/store) such as [compact flash](/terms/compactflash) cards.
+An interface standard generally used for data storage devices. For example, [ATA Support](/sources/ata-support) is a [device driver](/terms/device-driver) for [Newton OS](/terms/newton-os) which facilitates the use of non-linear ATA [storage cards](/terms/storage-card) such as [CompactFlash](/terms/compactflash).
 
 ----
 
 Related:
 
+- /terms/ata-support
+- /terms/card
 - /terms/compactflash
 - /terms/external-card
-- /terms/memory-card
 - /terms/pc-card
 - /terms/pcmcia
+- /terms/store
 - /terms/storage-card
 
 ----

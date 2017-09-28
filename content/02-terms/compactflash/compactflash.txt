@@ -14,9 +14,10 @@ A type of [flash card](/terms/flash-card) storage developed by [SanDisk](https:/
 
 Related:
 
+- /terms/ata
+- /terms/ata-support
 - /terms/cf
 - /terms/cf-card
-- /terms/compactflash
 - /terms/external-store
 - /terms/flash-card
 - /terms/flash-ram

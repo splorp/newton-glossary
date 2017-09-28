@@ -1,0 +1,35 @@
+Title: ATA Support
+
+----
+
+Date: 28 September 2017
+
+----
+
+Text:
+
+A [device driver](/terms/device-driver) developed by [Paul Guyot](/sources/paul-guyot) that allows a Newton device to use large capacity, non-linear [storage cards](/terms/storage-card) such as [CompactFlash](/terms/compactflash). ATA Support works with [ATA](/terms/ata) formatted [stores](/terms/store) under [Newton OS](/terms/newton-os) 2.0 and later.
+
+## Additional Information
+
+[Internet Archive: Kallisys: ATA Support 1.0](https://web.archive.org/web/20080619050446/http://www.kallisys.com:80/newton/ata/)
+
+----
+
+Related:
+
+- /terms/ata
+- /terms/backup
+- /terms/card
+- /terms/compactflash
+- /terms/external-store
+- /terms/pc-card
+- /terms/pcmcia
+- /terms/storage-card
+- /terms/store
+
+----
+
+Source:
+
+- /sources/paul-guyot

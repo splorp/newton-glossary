@@ -18,6 +18,8 @@ Jokingly referred to as _People Can’t Remember Computer Industry Acronyms_ bec
 
 Related:
 
+- /terms/ata
+- /terms/ata-support
 - /terms/application-card
 - /terms/card
 - /terms/card-latch
