@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A [stationery](/terms/stationery) item created using the [Notepad](/terms/notepad) application that can contain freeform text, formatted text, [ink text](/terms/ink-text), [shapes](/terms/shape), or [pictures](/terms/picture).
+A type of [stationery](/terms/stationery) in the [Notepad](/terms/notepad) application that can contain freeform text, formatted text, [ink text](/terms/ink-text), [shapes](/terms/shape), or [pictures](/terms/picture).
 
 ----
 

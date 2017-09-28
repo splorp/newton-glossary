@@ -22,8 +22,8 @@ Related:
 - /terms/external-card
 - /terms/pc-card
 - /terms/pcmcia
-- /terms/store
 - /terms/storage-card
+- /terms/store
 
 ----
 

@@ -25,6 +25,7 @@ Related:
 - /terms/out-box
 - /terms/routing
 - /terms/simplemail
+- /terms/stationery
 - /terms/transport
 
 ----

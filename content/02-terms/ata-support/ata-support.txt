@@ -19,7 +19,6 @@ A [device driver](/terms/device-driver) developed by [Paul Guyot](/sources/paul-
 Related:
 
 - /terms/ata
-- /terms/backup
 - /terms/card
 - /terms/compactflash
 - /terms/external-store
