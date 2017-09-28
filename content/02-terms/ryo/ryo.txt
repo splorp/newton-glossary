@@ -22,6 +22,7 @@ Related:
 
 - /terms/button
 - /terms/button-bar
+- /terms/diy
 - /terms/hard-button
 - /terms/icon
 - /terms/silk-button

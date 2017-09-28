@@ -10,8 +10,10 @@ Text:
 
 Do It Yourself
 
+A method of building, creating, modifying, or repairing something without direct help, expert or otherwise.
+
 ----
 
 Related:
 
-- /sources/ryo
+- /terms/ryo
