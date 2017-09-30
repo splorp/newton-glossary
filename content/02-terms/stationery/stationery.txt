@@ -20,7 +20,7 @@ Related:
 - /terms/data-definition
 - /terms/checklist
 - /terms/eworld
-- /terms/hidee
+- /terms/hideeworld
 - /terms/outline
 - /terms/name-file
 - /terms/note

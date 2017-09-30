@@ -17,7 +17,7 @@ Related:
 - /terms/aloha
 - /terms/enroute
 - /terms/espy
-- /terms/hidee
+- /terms/hideeworld
 - /terms/in-box
 - /terms/inout-box
 - /terms/mail-v
