@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-An annual award created by [Rich Lindsay](/sources/rich-lindsay) of [This Old Newt](/terms/this-old-newt) fame. Fro the award, members of the Newton community were nominated and recognized by their peers for contributions to software development, website design, and community involvement. Also known as [The Newties](/terms/the-newties).
+An annual award created by [Rich Lindsay](/sources/rich-lindsay) of [This Old Newt](/terms/this-old-newt) fame. To qualify for the award, members of the Newton community were nominated by their peers and recognized for their contributions to software development, website design, and community involvement. Also known as [The Newties](/terms/the-newties).
 
 ## Additional Information
 
