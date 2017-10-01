@@ -15,6 +15,7 @@ A [folder](/terms/folder) that appears only in a specific [application](/terms/a
 Related:
 
 - /terms/folder
+- /terms/folder-button
 - /terms/folder-tab
 - /terms/global-folder
 - /terms/hypernewt
