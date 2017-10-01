@@ -1,0 +1,38 @@
+Title: Grouper 100MPS
+
+----
+
+Date: 01 October 2017
+
+----
+
+Text:
+
+A member of the [Grouper](/terms/grouper) family of devices developed by [Digital Ocean](/sources/digital-ocean), this radio-based peripheral provided [wireless AppleTalk](/terms/wireless-appletalk) connectivity over a [local area network](/terms/local-area-network). Basically, an upgraded version of the [Grouper 110MP](/terms/grouper-110mp), designed to fit the case of a [MessagePad 110](/terms/messagepad-110). Also referred to as a [100MPS](/terms/100mps).
+
+## Additional Information
+
+[Internet Archive: Wire-Free Networking With Grouper](https://web.archive.org/web/19970124002055/http://digitalocean.com/p001.pdf) (PDF)
+[Internet Archive: Grouper Product Information](https://web.archive.org/web/19970124001750/http://digitalocean.com/groupert.html)
+[Internet Archive: Grouper Product Information](https://web.archive.org/web/19970124002540/http://digitalocean.com/p004.pdf) (PDF)
+
+----
+
+Related:
+
+- /terms/100mps
+- /terms/appletalk
+- /terms/grouper
+- /terms/grouper-100lt
+- /terms/grouper-100mp
+- /terms/grouper-100mps-plus
+- /terms/grouper-105mps
+- /terms/grouper-110mp
+- /terms/local-area-network
+- /terms/wireless-appletalk
+
+----
+
+Source:
+
+- /sources/digital-ocean
