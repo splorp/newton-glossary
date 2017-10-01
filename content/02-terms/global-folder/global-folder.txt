@@ -15,6 +15,7 @@ A folder that appears in all [applications](/terms/application). Compare with a 
 Related:
 
 - /terms/folder-tab
+- /terms/hypernewt
 - /terms/local-folder
 - /terms/user-interface
 

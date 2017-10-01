@@ -16,6 +16,7 @@ Related:
 
 - /terms/folder-tab
 - /terms/global-folder
+- /terms/hypernewt
 - /terms/user-interface
 
 ----
