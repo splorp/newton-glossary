@@ -27,6 +27,7 @@ Sources: _$s
 ### Summary of changes:
 
 + Added new terms
++ Added new sources
 + Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version 2.5.5
 

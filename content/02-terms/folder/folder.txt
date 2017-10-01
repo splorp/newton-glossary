@@ -1,0 +1,11 @@
+Title: Folder
+
+----
+
+Date: 01 October 2017
+
+----
+
+Text:
+
+See [Global Folder](/terms/global-folder) and [Local Folder](/terms/local-folder)
