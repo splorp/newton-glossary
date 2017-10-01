@@ -1,0 +1,18 @@
+Title: Digital Ocean
+
+----
+
+Date: 01 October 2017
+
+----
+
+Text:
+
+A manufacturer of wireless products designed for [Apple](https://www.apple.com/) Macintosh and [Newton OS](/terms/newton-os) devices. Founded in 1992 by Jeffery Alholm, Digital Ocean was known for its ruggedized Newton devices, specifically the [Tarpon](/terms/tarpon) and [Seahorse](/terms/seahorse), as well as the [Grouper](/terms/grouper) series of wireless network adapters.
+
+Not to be confused with [DigitalOcean](https://www.digitalocean.com/), the web hosting and cloud computing service provider.
+ 
+## Additional Information
+
+[Internet Archive: Digital Ocean Website](https://web.archive.org/web/19970124001013/http://digitalocean.com/)
+[Internet Archive: Wire-Free Networking With Grouper](https://web.archive.org/web/19970124002055/http://digitalocean.com/p001.pdf) (PDF)
