@@ -16,23 +16,19 @@ Text:
 
 Only include the abbreviated term in the related terms of the expanded term. Do not include the abbreviated term in other terms.
 
-_For example:_
-
-[Newton Toolkit](/terms/newton-toolkit) should list [NTK](/terms/ntk) as a related term because it is the actual abbreviation for [Newton Toolkit](/terms/newton-toolkit).
+For example, [Newton Toolkit](/terms/newton-toolkit) should list [NTK](/terms/ntk) as a related term because it is the actual abbreviation for [Newton Toolkit](/terms/newton-toolkit).
 
 However, [project build](/terms/project-build) should list [Newton Toolkit](/terms/newton-toolkit), not [NTK](/terms/ntk).
 
 ## Abbreviations (more common than the expanded term)
 
-_For example:_
-
-[PCMCIA](/terms/pcmcia) is an acronym that is more commonly used than its expanded variation — _Personal Computer Memory Card International Association_. In this case, the expanded term would be included as the first part of the abbreviation’s entry.
+For example, [PCMCIA](/terms/pcmcia) is an acronym that is more commonly used than its expanded variation — _Personal Computer Memory Card International Association_. In this case, the expanded term would be included as the first part of the abbreviation’s entry.
 
 ## Shortened terms
 
 Whenever possible, use the longer version of a term for clarity.
 
-_For example:_
+_Examples:_
 
 + Use “telephone” not “phone”
 + Use “operating system” not “system”
@@ -40,6 +36,8 @@ _For example:_
 + Use “Newton OS” not “NOS”
 
 ## Referring to other terms
+
+_Examples:_
 
 + Use “Also referred to as …” if the referenced term is as common or less common than the source term.
 + Use “Commonly referred to as …” if the referenced term is more common than the source term.
@@ -51,9 +49,25 @@ _For example:_
 
 Other than using their proper capitalized names, should these items be wrapped in quotes or styled in some other way?
 
-_For example:_
+_Example:_
 
-Ink words are created when the user has selected [Ink Text](/terms/ink-text) in the “Recognition Preferences” slip.
++ Ink words are created when the user has selected [Ink Text](/terms/ink-text) in the “Recognition Preferences” slip.
+
+## Introducing descriptive elements of a term
+
+Do not use generic nouns such as “kind” when introducing a descriptive element relating to a terms.
+
+_Example:_
+
++ A kind of flash memory.
+
+Instead, use a more specific noun.
+
+_Examples:_
+
++ A type of flash memory.
++ A method of handwriting recognition.
++ A style of font.
 
 ## Additional information
 
