@@ -28,6 +28,7 @@ Related:
 - /terms/etchasketch
 - /terms/global-data-file
 - /terms/layout-file
+- /terms/inspector
 - /terms/macintosh-common-lisp
 - /terms/newtapp
 - /terms/newtdevenv
@@ -42,6 +43,7 @@ Related:
 - /terms/script
 - /terms/stream-file
 - /terms/text-file
+= /terms/toolkit
 
 ----
 

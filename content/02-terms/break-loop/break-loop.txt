@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A state of the Newton processor in which program execution is suspended and the Newton accepts input only from an [Inspector](/terms/inspector) connection.
+A state of the processor in which program execution is suspended and a Newton device accepts input only from an [Inspector](/terms/inspector) connection within the [Newton Toolkit](/terms/newton-toolkit) environment.
 
 ----
 

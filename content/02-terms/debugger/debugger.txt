@@ -17,6 +17,7 @@ Related:
 - /terms/bugtrap
 - /terms/debug
 - /terms/hammer
+- /terms/inspector
 - /terms/newtsbug
 - /terms/viewframe
 

@@ -1,0 +1,33 @@
+Title: Inspector
+
+----
+
+Date: 09 October 2017
+
+----
+
+Text:
+
+A [debugging](/terms/debugging) window in the [Newton Toolkit](/terms/newton-toolkit) development environment that allows a user to browse the [object](/terms/object) storage system and execute [NewtonScript](/terms/newtonscript) code on a Newton device.
+
+The Inspector communicates with the [Toolkit](/terms/toolkit) application installed on a Newton device connected to a [desktop computer](/terms/desktop-computer) or [laptop computer](/terms/laptop-computer) via a serial cable or [AppleTalk](/terms/appletalk) network.
+
+![Screenshot of Inspector Window](/assets/images/inspector.gif)
+
+----
+
+Related:
+
+- /terms/break-loop
+- /terms/debug
+- /terms/debugger
+- /terms/debugging
+- /terms/newton-toolkit
+- /terms/newtonscript
+- /terms/toolkit
+
+----
+
+Source:
+
+- /sources/newton-toolkit-user-guide
