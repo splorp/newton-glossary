@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-To use a [debugger](/terms/debugger) to locate and fix unintended behaviour in a piece of software or code.
+To use a [debugger](/terms/debugger) to locate and fix unintended behaviour in a piece of software or code. The process of using a debugger is referred to as [debugging](/terms/debugging).
 
 ----
 
@@ -16,6 +16,7 @@ Related:
 
 - /terms/bugtrap
 - /terms/debugger
+- /terms/debugging
 - /terms/hammer
 - /terms/inspector
 - /terms/newtsbug

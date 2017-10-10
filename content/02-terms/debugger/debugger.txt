@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A tool used to monitor, control, and evaluate software or code being developed. The goal of debugging is to locate and fix “bugs” or otherwise unintended behaviour in a piece of software. [ViewFrame](/terms/viewframe) is an example of a debugger for [Newton OS](/terms/newton-os).
+A tool used to monitor, control, and evaluate software or code being developed. The goal of [debugging]/terms/debugging) is to locate and fix “bugs” or otherwise unintended behaviour in a piece of software. [ViewFrame](/terms/viewframe) is an example of a debugger for [Newton OS](/terms/newton-os).
 
 ----
 
@@ -16,6 +16,7 @@ Related:
 
 - /terms/bugtrap
 - /terms/debug
+- /terms/debugging
 - /terms/hammer
 - /terms/inspector
 - /terms/newtsbug

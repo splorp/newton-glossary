@@ -14,7 +14,10 @@ A state of the processor in which program execution is suspended and a Newton de
 
 Related:
 
+- /terms/debug
+- /terms/debugger
 - /terms/inspector
+- /terms/newton-toolkit
 
 ----
 

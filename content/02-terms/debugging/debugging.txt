@@ -1,0 +1,30 @@
+Title: Debugging
+
+----
+
+Date: 09 October 2017
+
+----
+
+Text:
+
+The process of using a tool known as a [debugger](/terms/debugger) to locate and fix unintended behaviour in a piece of software or code.
+
+----
+
+Related:
+
+- /terms/bugtrap
+- /terms/debug
+- /terms/debugger
+- /terms/hammer
+- /terms/inspector
+- /terms/newtsbug
+- /terms/senior
+- /terms/viewframe
+
+----
+
+Source:
+
+- /sources/grant-hutchinson
