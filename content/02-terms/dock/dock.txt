@@ -19,3 +19,4 @@ Related:
 - /terms/classroom-exchange
 - /terms/connection
 - /terms/dcl
+- /terms/rdcl
