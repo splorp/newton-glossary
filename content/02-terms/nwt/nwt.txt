@@ -17,6 +17,7 @@ The file extension used to identify a [Newton Connection](/terms/newton-connecti
 Related:
 
 - /terms/backup-file
+- /terms/dcl
 - /terms/newton-connection
 - /terms/newton-connection-kit
 - /terms/rdcl
