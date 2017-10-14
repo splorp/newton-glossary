@@ -29,7 +29,7 @@ Sources: 107
 + Added 25 new terms
 + Added 1 new source
 + Updated and expanded dozens of existing entries
-+ Updated [Kirby](https://getkirby.com/) to version 2.5.5
++ Updated [Kirby](https://getkirby.com/) to version [2.5.5](https://getkirby.com/changelog/kirby-2-5-5)
 
 ## 17 September 2017
 
@@ -76,7 +76,7 @@ Sources: 95
 + Added 36 new terms
 + Added 5 new sources
 + Updated and expanded dozens of existing entries
-+ Updated [Kirby](https://getkirby.com/) to version 2.4.1
++ Updated [Kirby](https://getkirby.com/) to version [2.4.1](https://getkirby.com/changelog/kirby-2-4-1)
 + Tweaked image display on individual [terms](/terms) and [sources](/sources)
 + Changed lists to use contextual singular and plural subheads
 + [Search](/search) now returns more useful results based on the title field
@@ -91,7 +91,7 @@ Sources: 90
 
 + Added 22 new terms
 + Updated and expanded dozens of existing entries
-+ Updated [Kirby](https://getkirby.com/) to version 2.4.0
++ Updated [Kirby](https://getkirby.com/) to version [2.4.0](https://getkirby.com/changelog/kirby-2-4-0)
 + Fixed linespacing for inline code snippets
 
 ## 01 December 2016
@@ -120,7 +120,7 @@ Sources: 83
 + Added 16 new terms
 + Added 2 new sources
 + Updated and expanded dozens of existing entries
-+ Updated [Kirby](https://getkirby.com/) to version 2.3.2
++ Updated [Kirby](https://getkirby.com/) to version [2.3.2](https://getkirby.com/changelog/kirby-2-3-2)
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.0.8
 + Implemented [Cachebuster](https://github.com/getkirby-plugins/cachebuster-plugin) plugin to add timestamps to .css and .js files
 + Deprecated [Related Pages](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) plugin
