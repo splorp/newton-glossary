@@ -19,10 +19,11 @@ Incremental changes and updates can be found in the project’s [commit history]
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
 ## Current Release
+## 2.4.0
 
-Version: 2.4.0
 Terms: 1,135
 Sources: 107
+Date: 13 October 2017
 
 ### Summary of changes:
 
@@ -31,11 +32,11 @@ Sources: 107
 + Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version [2.5.5](https://getkirby.com/changelog/kirby-2-5-5)
 
-## 17 September 2017
+## 2.3.1
 
-Version: 2.3.1
 Terms: 1,110
 Sources: 106
+Date: 17 September 2017
 
 ### Summary of changes:
 
@@ -46,11 +47,11 @@ Sources: 106
 + Added [Open Graph](http://ogp.me/) and [Twitter Cards](https://dev.twitter.com/cards/overview) meta tag support
 + Updated site and mobile device icons
 
-## 24 April 2017
+## 2.3.0
 
-Version: 2.3.0
 Terms: 1,052
 Sources: 98
+Date: 24 April 2017
 
 ### Summary of changes:
 
@@ -65,11 +66,11 @@ Sources: 98
 + Implemented [Kirby XML Sitemap](https://github.com/pedroborges/kirby-xml-sitemap) plugin
 + Added XML [sitemap](/sitemap.xml) for search engine indexing
 
-## 16 January 2017
+## 2.2.1
 
-Version: 2.2.1
 Terms: 1,007
 Sources: 95
+Date: 16 January 2017
 
 ### Summary of changes:
 
@@ -81,11 +82,11 @@ Sources: 95
 + Changed lists to use contextual singular and plural subheads
 + [Search](/search) now returns more useful results based on the title field
 
-## 19 December 2016
+## 2.2.0
 
-Version: 2.2.0
 Terms: 971
 Sources: 90
+Date: 19 December 2016
 
 ### Summary of changes:
 
@@ -94,11 +95,11 @@ Sources: 90
 + Updated [Kirby](https://getkirby.com/) to version [2.4.0](https://getkirby.com/changelog/kirby-2-4-0)
 + Fixed linespacing for inline code snippets
 
-## 01 December 2016
+## 2.1.1
 
-Version: 2.1.1
 Terms: 949
 Sources: 90
+Date: 01 December 2016
 
 ### Summary of changes:
 
@@ -109,11 +110,11 @@ Sources: 90
 + Numerical entries now appear at the top of the [terms](/terms) and [sources](/sources) pages
 + Focus is now automatically set on the [search](/search) field
 
-## 27 October 2016
+## 2.1.0
 
-Version: 2.1.0
 Terms: 919
 Sources: 83
+Date: 27 October 2016
 
 ### Summary of changes:
 
@@ -128,11 +129,11 @@ Sources: 83
 + Added rudimentary [search](/search) functionality
 + Simplified previous and next page navigation
 
-## 24 August 2016
+## 2.0.0
 
-Version: 2.0.0
 Terms: 903
 Sources: 81
+Date: 24 August 2016
 
 ### Summary of changes:
 
@@ -145,11 +146,11 @@ Sources: 81
 + Added a long overdue [About](/about) section, colophon, and style guide
 + Added random term feature
 
-## 21 November 2004
+## 1.0.5
 
-Version: 1.0.5
 Terms: 756
 Sources: 49
+Date: 21 November 2004
 
 ### Summary of changes:
 
@@ -158,11 +159,11 @@ Sources: 49
 + Updated and expanded numerous existing entries
 + Not released publicly
 
-## 06 October 2002
+## 1.0.4
 
-Version: 1.0.4
 Terms: 704
 Sources: 45
+Date: 06 October 2002
 
 ### Summary of changes:
 
@@ -170,11 +171,11 @@ Sources: 45
 + Added 5 new sources
 + Updated and expanded numerous existing entries
 
-## 18 December 2001
+## 1.0.3
 
-Version: 1.0.3
 Terms: 673
 Sources: 40
+Date: 18 December 2001
 
 ### Summary of changes:
 
@@ -182,11 +183,11 @@ Sources: 40
 + Added 2 new sources
 + Updated and expanded numerous existing entries
 
-## 30 October 2001
+## 1.0.2
 
-Version: 1.0.2
 Terms: 649
 Sources: 38
+Date: 30 October 2001
 
 ### Summary of changes:
 
@@ -194,11 +195,11 @@ Sources: 38
 + Added 4 new sources
 + Updated and expanded numerous existing entries
 
-## 25 September 2001
+## 1.0.1
 
-Version: 1.0.1
 Terms: 632
 Sources: 34
+Date: 25 September 2001
 
 ### Summary of changes:
 
@@ -206,11 +207,11 @@ Sources: 34
 + Added 3 new sources
 + Updated and expanded numerous existing entries
 
-## 25 June 2001
+## 1.0.0
 
-Version: 1.0.0
 Terms: 617
 Sources: 31
+Date: 25 June 2001
 
 ### Summary of changes:
 
@@ -218,11 +219,11 @@ Sources: 31
 + Added 6 new sources
 + Updated and expanded numerous existing entries
 
-## 31 May 2001
+## 1.0.0b2
 
-Version: 1.0.0b2
 Terms: 571
 Sources: 25
+Date: 31 May 2001
 
 ### Summary of changes:
 
