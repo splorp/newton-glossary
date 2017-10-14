@@ -21,13 +21,13 @@ Recently added terms and sources can be found on the [latest additions](/latest)
 ## Current Release
 
 Version: 2.4.0
-Terms: _$t
-Sources: _$s
+Terms: 1,135
+Sources: 107
 
 ### Summary of changes:
 
-+ Added new terms
-+ Added new sources
++ Added 25 new terms
++ Added 1 new source
 + Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version 2.5.5
 
