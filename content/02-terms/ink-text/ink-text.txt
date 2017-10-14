@@ -10,7 +10,7 @@ Text:
 
 Words written in [electronic ink](/terms/electronic-ink).
 
-Ink Text is also one of the [handwriting recognition](/terms/handwriting-recognition) settings available when tapping the [recognition button](/terms/recognition-button) in an [application](/terms/application) such as [Notepad](/terms/notepad). Ink text allows the user to take input handwriting quickly on a Newton device, which can then can be converted to [recognized text](/terms/recognized-text) at a later time.
+Ink Text is also one of the [handwriting recognition](/terms/handwriting-recognition) settings available when [tapping](/terms/tapping) the [recognition button](/terms/recognition-button) in an [application](/terms/application) such as [Notepad](/terms/notepad). Ink text allows the user to take input handwriting quickly on a Newton device, which can then can be converted to [recognized text](/terms/recognized-text) at a later time.
 
 ----
 
