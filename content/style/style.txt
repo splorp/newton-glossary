@@ -39,9 +39,9 @@ _Examples:_
 
 _Examples:_
 
-+ Use “Also referred to as …” if the referenced term is as common or less common than the source term.
-+ Use “Commonly referred to as …” if the referenced term is more common than the source term.
-+ Use “Mistakenly referred to as …” if the referenced term is an commonly misspelled or mangled version of the source term.
++ Use “Also referred to as …” if the referenced term is as common or less common than the source term
++ Use “Commonly referred to as …” if the referenced term is more common than the source term
++ Use “Mistakenly referred to as …” if the referenced term is an commonly misspelled or mangled version of the source term
 
 ## Capitalization of terms
 
@@ -65,9 +65,26 @@ Instead, use a more specific noun.
 
 _Examples:_
 
-+ A type of flash memory.
-+ A method of handwriting recognition.
-+ A style of font.
++ A type of flash memory
++ A method of handwriting recognition
++ A style of font
+
+## Hyphenated terms
+
+Minimize the use of subjective hyphenated terms.
+
+_Examples:_
+
++ Use “third party” instead of “third-party”
++ Use “finite state” instead of “finite-state”
+
+Acceptable hyphenated terms include:
+
++ built-in
++ pen-based
++ software-based
++ subscription-based
++ text-based
 
 ## Additional information
 
