@@ -14,8 +14,16 @@ A set of rules defining the format of an entity to be recognized, such as dates,
 
 Related:
 
+- /terms/auto-add-dictionary
+- /terms/custom-dictionary
 - /terms/dictionary
+- /terms/enumerated-dictionary
+- /terms/handwriting-recognition
 - /terms/lexical-dictionary
+- /terms/personal-word-list
+- /terms/recently-written-words
+- /terms/system-dictionary
+- /terms/user-dictionary
 
 ----
 

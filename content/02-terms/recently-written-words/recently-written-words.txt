@@ -1,0 +1,35 @@
+Title: Recently Written Words
+
+----
+
+Date: 14 October 2017
+
+----
+
+Text:
+
+A [slip](/terms/slip) which displays a list of words from the [auto-add dictionary](/terms/auto-add-dictionary) when the user opens the [Personal Word List](/terms/personal-word-list). Words in this list are not contained in the built-in [system dictionary](/terms/system-dictionary) and have been automatically added to the [user dictionary](/terms/user-dictionary).
+
+The Recently Written Words slip prompts the user to indicate whether each of the words it displays should remain in the user dictionary.
+
+----
+
+Related:
+
+- /terms/auto-add-dictionary
+- /terms/custom-dictionary
+- /terms/dictionary
+- /terms/dictionary-button
+- /terms/enumerated-dictionary
+- /terms/grammar
+- /terms/handwriting-recognition
+- /terms/lexical-dictionary
+- /terms/personal-word-list
+- /terms/system-dictionary
+- /terms/user-dictionary
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

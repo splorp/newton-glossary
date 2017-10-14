@@ -1,0 +1,34 @@
+Title: User Dictionary
+
+----
+
+Date: 14 October 2017
+
+----
+
+Text:
+
+A [dictionary](/terms/dictionary) accessed through the [Personal Word List](/terms/personal-word-list) slip. The built-in vocabulary of the [Newton OS](/terms/newton-os) can be expanded by adding new words to the user dictionary via the [Recently Written Words](/terms/recently-written-words) slip.
+
+----
+
+Related:
+
+- /terms/auto-add-dictionary
+- /terms/custom-dictionary
+- /terms/dictionary
+- /terms/dictionary-button
+- /terms/enumerated-dictionary
+- /terms/grammar
+- /terms/handwriting-recognition
+- /terms/lexical-dictionary
+- /terms/personal-word-list
+- /terms/recently-written-words
+- /terms/system-dictionary
+- /terms/word-list
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

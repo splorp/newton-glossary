@@ -14,11 +14,14 @@ A [dictionary](/terms/dictionary) that specifies [grammar](/terms/grammar) or sy
 
 Related:
 
+- /terms/auto-add-dictionary
 - /terms/custom-dictionary
 - /terms/dictionary
 - /terms/enumerated-dictionary
 - /terms/grammar
 - /terms/handwriting-recognition
+- /terms/personal-word-list
+- /terms/recently-written-words
 - /terms/system-dictionary
 - /terms/user-dictionary
 

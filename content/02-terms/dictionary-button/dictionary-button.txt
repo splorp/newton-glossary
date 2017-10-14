@@ -1,0 +1,30 @@
+Title: Dictionary Button
+
+----
+
+Date: 14 October 2017
+
+----
+
+Text:
+
+A [picture button](/terms/picture-button) containing an [icon](/terms/icon) representing a [dictionary](/terms/dictionary). [Tapping](/terms/tapping) the dictionary button displays the [Personal Word List](/terms/personal-word-list) slip.
+
+----
+
+Related:
+
+- /terms/button
+- /terms/dictionary
+- /terms/icon
+- /terms/personal-word-list
+- /terms/picture-button
+- /terms/recently-written-words
+- /terms/user-dictionary
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
