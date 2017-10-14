@@ -18,7 +18,15 @@ Incremental changes and updates can be found in the project’s [commit history]
 
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
-## Current Release
+## 2.4.1
+
+Terms: _$t
+Sources: _$s
+
+### Summary of changes:
+
++ Added new terms
++ Updated and expanded several existing entries
 + Updated [Kirby](https://getkirby.com/) to version [2.5.6](https://getkirby.com/changelog/kirby-2-5-6)
 
 ## 2.4.0
