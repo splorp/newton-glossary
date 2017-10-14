@@ -1,0 +1,34 @@
+Title: Custom Dictionary
+
+----
+
+Date: 14 October 2017
+
+----
+
+Text:
+
+A supplemental [dictionary](/terms/dictionary) used by a third party [application](/terms/application) to facilitate the recognition of specialized vocabulary such as medical or legal terms. Built-in [Newton OS](/terms/newton-os) applications such as [Name File](/terms/name-file) and [Date Book](/terms/date-book) cannot use custom dictionaries created for third party applications.
+
+----
+
+Related:
+
+- /terms/auto-add-dictionary
+- /terms/dictionary
+- /terms/dictionary-button
+- /terms/enumerated-dictionary
+- /terms/grammar
+- /terms/handwriting-recognition
+- /terms/lexical-dictionary
+- /terms/personal-word-list
+- /terms/recently-written-words
+- /terms/system-dictionary
+- /terms/user-dictionary
+- /terms/word-list
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
