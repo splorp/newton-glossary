@@ -8,10 +8,13 @@ Date:
 
 Text:
 
-A later version of the NuBus-based Newton development card which followed the [ARMageddon](/terms/armageddon) card. So named because of the [ARM](/terms/arm) processor used in the Newton hardware.
+A later version of the NuBus-based card that facilitated the running of a Newton development environment on a Mac OS [desktop computer](/terms/desktop-computer). Whereas the previous [ARMageddon](/terms/armageddon) card connected to an external circuit board that replicated the physical Newton hardware, the ARMistice card was a self-contained “Newton on a board.”
+
+Produced in 1993, the ARMistice card preceded the [ARMadillo](/terms/armadillo) card. The cards were so named because of the [ARM](/terms/arm) processor used in the Newton hardware.
 
 ## Additional Information
 
+[Stories of Apple: ARMageddon and ARMistice](http://www.storiesofapple.net/armageddon-and-armistice.html)
 [Flickr: Apple Newton ARMistice (Front)](https://www.flickr.com/photos/pablo_marx/4683061782/)
 [Flickr: Apple Newton ARMistice (Back)](https://www.flickr.com/photos/pablo_marx/4683061958/)
 [Computer History Museum: Apple ARMistice Circuit Board](http://www.computerhistory.org/collections/catalog/102633652)
@@ -21,6 +24,7 @@ A later version of the NuBus-based Newton development card which followed the [A
 Related:
 
 - /terms/arm
+- /terms/armadillo
 - /terms/armageddon
 - /terms/fat-man
 

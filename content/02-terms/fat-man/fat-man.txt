@@ -21,6 +21,7 @@ A variation of the NuBus-based [ARMageddon](/terms/armageddon) card that include
 Related:
 
 - /terms/arm
+- /terms/armadillo
 - /terms/armageddon
 - /terms/armistice
 
