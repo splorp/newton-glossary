@@ -85,6 +85,7 @@ Acceptable hyphenated terms include:
 + software-based
 + subscription-based
 + text-based
++ self-contained
 
 ## Additional information
 
