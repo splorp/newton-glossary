@@ -8,9 +8,8 @@ Date:
 
 Text:
 
-A site run by the Newton Special Interest Group (formerly [MSNUG](/terms/msnug)) of the Michigan State Palmtop User Group (MSPUG).
+A site containing comprehensive specifications and product information for various Newton devices, concept designs, and prototypes. Maintained by [Douglas B. Luckie](https://msu.edu/~luckie/dluckie.html), the founder of the Michigan State Newton Users Group [MSNUG](/terms/msnug).
 
 ## Additional Information
 
-[Newton Gallery Website](https://msu.edu/~luckie/newtgal.htm)
-[Newton Gallery: Newton Hall of Fame](https://msu.edu/~luckie/hallofame.htm)
+[MSNUG: Newton Gallery](https://msu.edu/~luckie/newtgal.htm)
