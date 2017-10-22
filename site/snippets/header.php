@@ -23,6 +23,6 @@
 
 	<body>
 		<header>
-			<h1><a href="/"><?php echo html($site->title()) ?></a></h1>
+			<h1><a href="/" title="Back to the home page."><?php echo html($site->title()) ?></a></h1>
 			<p><?php echo html($site->description()) ?></p>
 		</header>

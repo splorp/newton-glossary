@@ -6,7 +6,7 @@ Date:
 
 ----
 
-Description: A little bit of history on the Newton Glossary and how this whole thing works.
+Description: How this whole thing works, plus a little bit of history surrounding the glossary.
 
 ----
 
