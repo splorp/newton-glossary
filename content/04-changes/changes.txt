@@ -28,6 +28,7 @@ Sources: _$s
 + Added new terms
 + Updated and expanded several existing entries
 + Added [sitemap](/sitemap.xml) link to footer
++ Added title attributes to main navigational links
 + Updated [Kirby](https://getkirby.com/) to version [2.5.6](https://getkirby.com/changelog/kirby-2-5-6)
 
 ## 2.4.0

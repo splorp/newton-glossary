@@ -14,9 +14,6 @@ Keywords: apple, newton, pda, messagepad, emate, computer, glossary, dictionary,
 
 ----
 
-Copyright: Copyright © 2001–(date: Year) (link: http://splorp.me/ text: Grant Hutchinson) & Co.
-
-----
-
-Colophon: Follow (link: https://twitter.com/newtonglossary text: @newtonglossary)
-Powered by (link: https://getkirby.com/ text: Kirby)
+Colophon: Copyright © 2001–(date: Year) (link: http://splorp.me/ text: Grant Hutchinson title: Interface considerations. Gadget accumulation. Typography. Scotch.) & Co.
+Follow (link: https://twitter.com/newtonglossary text: @newtonglossary title: Join us on Twitter!)
+Powered by (link: https://getkirby.com/ text: Kirby title: Kirby is a file-based content management system — easy to setup, easy to use, flexible as hell.)

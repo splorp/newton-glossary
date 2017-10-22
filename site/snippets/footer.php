@@ -6,7 +6,7 @@
 					<li><a href="/sitemap.xml" title="An XML listing of all pages found on this site.">Sitemap</a></li>
 				</ul>
 			</nav>
-			<?php echo kirbytext($site->copyright() . "<br />" . $site->colophon()) ?>
+			<?php echo kirbytext($site->colophon()) ?>
 		</footer>
 		<?php echo snippet('ga'); ?>
 	</body>
