@@ -16,8 +16,11 @@ Related:
 
 - /terms/control
 - /terms/container-view
+- /terms/folder
 - /terms/global-folder
 - /terms/local-folder
+- /terms/unfiled
+- /terms/unfiled-icons
 - /terms/user-interface
 
 ----

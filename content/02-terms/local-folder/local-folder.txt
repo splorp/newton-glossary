@@ -19,6 +19,8 @@ Related:
 - /terms/folder-tab
 - /terms/global-folder
 - /terms/hypernewt
+- /terms/unfiled
+- /terms/unfiled-icons
 - /terms/user-interface
 
 ----

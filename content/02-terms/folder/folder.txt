@@ -8,4 +8,22 @@ Date: 01 October 2017
 
 Text:
 
-See [Global Folder](/terms/global-folder) and [Local Folder](/terms/local-folder)
+A place where items such as [notes](/terms/note), [cards](/terms/card), and [packages](/terms/packages) can be filed. [Global folders](/terms/global-folder) appear in all [applications](/terms/application) and [local folders](/terms/local-folder) appear only in the application where they were created.
+
+----
+
+Related:
+
+- /terms/folder-button
+- /terms/folder-tab
+- /terms/global-folder
+- /terms/local-folder
+- /terms/unfiled
+- /terms/unfiled-icons
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

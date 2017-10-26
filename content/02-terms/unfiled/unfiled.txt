@@ -1,0 +1,31 @@
+Title: Unfiled
+
+----
+
+Date: 26 October 2017
+
+----
+
+Text:
+
+A [folder](/terms/folder) containing items which have not been filed in another folder. In the [Extras Drawer](/terms/extras-drawer), this folder is called [Unfiled Icons](/terms/unfiled-icons).
+
+----
+
+Related:
+
+- /terms/extras-drawer
+- /terms/folder
+- /terms/folder-button
+- /terms/folder-tab
+- /terms/global-folder
+- /terms/icon
+- /terms/local-folder
+- /terms/unfiled-icons
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

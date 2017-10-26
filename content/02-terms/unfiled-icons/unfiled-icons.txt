@@ -1,0 +1,31 @@
+Title: Unfiled Icons
+
+----
+
+Date: 26 October 2017
+
+----
+
+Text:
+
+A [folder](/terms/folder) in the [Extras Drawer](/terms/extras-drawer) containing [application](/terms/application) and other [package](/terms/package) icons which have not been filed in another folder.
+
+----
+
+Related:
+
+- /terms/extras-drawer
+- /terms/folder
+- /terms/folder-button
+- /terms/folder-tab
+- /terms/global-folder
+- /terms/icon
+- /terms/local-folder
+- /terms/unfiled
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
