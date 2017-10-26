@@ -24,3 +24,9 @@ Related:
 - /terms/cirrus
 - /terms/cl-ps7000
 - /terms/voyager
+
+----
+
+Source:
+
+- /sources/cirrus-logic
