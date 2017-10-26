@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The built-in [application](/terms/application) for storing names, addresses, telephone numbers, and other information related to a list of contacts. Also referred to as [Names](/terms/names).
+The built-in [application](/terms/application) for storing and organizing information related to a list of contacts. The name, address, telephone number, and other information pertaining to a contact is displayed on a [view](/terms/view) known as a [card](/terms/card). Also referred to as [Names](/terms/names).
 
 ----
 
@@ -17,9 +17,11 @@ Related:
 - /terms/action-names
 - /terms/an2nck
 - /terms/application
+- /terms/card
 - /terms/dateman
 - /terms/moreinfo
 - /terms/names
+- /terms/name-card
 - /terms/newtourage
 - /terms/personal-information-manager
 - /terms/vcard
@@ -28,4 +30,5 @@ Related:
 
 Source:
 
+- /sources/messagepad-2000-user-manual
 - /sources/newton-user-interface-guidelines
