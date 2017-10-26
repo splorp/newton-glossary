@@ -8,7 +8,7 @@ Date: 25 October 2017
 
 Text:
 
-A collection of multi-platform C++ class libraries created by [Paul Guyot](/sources/paul-guyot), [Nicolas Zinovieff](https://github.com/krugazor), and [Michael Vacík](https://www.linkedin.com/in/mvacik). The [K](/terms/k) libraries support the Desktop Connection Library ([DCL](/terms/dcl)), handling various functions that include Unicode conversion, 64-bit math operations, and [Newton OS](/terms/newton-os) specific DES encryption.
+A collection of multi-platform C++ class libraries created by [Paul Guyot](/sources/paul-guyot), [Nicolas Zinovieff](https://github.com/krugazor), and [Michael Vacík](https://www.linkedin.com/in/mvacik). The [K](/terms/k) libraries support the [DCL](/terms/dcl), handling various functions that include Unicode conversion, 64-bit math operations, and [Newton OS](/terms/newton-os) specific DES encryption.
 
 ## Additional Information
 
