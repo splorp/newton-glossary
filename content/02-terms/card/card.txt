@@ -26,6 +26,10 @@ Related:
 - /terms/compactflash
 - /terms/external-store
 - /terms/flash-card
+- /terms/hot-insert
+- /terms/hot-insertion
+- /terms/hot-removal
+- /terms/hot-remove
 - /terms/memory-card
 - /terms/name-file
 - /terms/owner-card

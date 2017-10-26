@@ -16,6 +16,10 @@ Related:
 
 - /terms/card
 - /terms/card-latch
+- /terms/hot-insert
+- /terms/hot-insertion
+- /terms/hot-removal
+- /terms/hot-remove
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/protection-card

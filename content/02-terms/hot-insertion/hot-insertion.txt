@@ -1,0 +1,37 @@
+Title: Hot Insertion
+
+----
+
+Date: 25 October 2017
+
+----
+
+Text:
+
+A feature pertaining to a device which allows the user to insert a [PC card](/terms/pc-card) without having to power down the device. The [Voyager](/terms/voyager) chipset used in the [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate 300](/terms/emate-300) devices includes a [PCMCIA](/terms/pcmcia) controller which supports hot insertion of PC cards.
+
+The opposite of hot insertion is [hot removal](/terms/hot-removal).
+
+## Additional Information
+
+[Internet Archive: Cirrus Logic Debuts Voyager Chipset](https://web.archive.org/web/19980111224604/http://www.cirrus.com/news/archive/fy1997/96.1028p.voyager.html)
+[Internet Archive: PDAs: A Study in Contrasts](https://web.archive.org/web/20070207103847/http://pd.pennnet.com/Articles/Article_Display.cfm?Section=Archives&Subsection=Display&ARTICLE_ID=52439)
+
+----
+
+Related:
+
+- /terms/card
+- /terms/card-slot
+- /terms/hot-insert
+- /terms/hot-removal
+- /terms/hot-remove
+- /terms/pc-card
+- /terms/pcmcia
+- /terms/slot
+
+----
+
+Source:
+
+- /sources/cirrus-logic

@@ -21,6 +21,10 @@ Related:
 - /terms/card-latch
 - /terms/evaluate-slot
 - /terms/frame
+- /terms/hot-insert
+- /terms/hot-insertion
+- /terms/hot-removal
+- /terms/hot-remove
 - /terms/immediate
 - /terms/pc-card
 - /terms/pcmcia
