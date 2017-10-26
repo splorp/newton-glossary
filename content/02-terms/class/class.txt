@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A symbol that describes the data referenced by an [object](/terms/object). [Arrays](/terms/array), [frames](/terms/frame), and [binary objects](/terms/binary-object) can have user-defined classes.
+A [symbol](/terms/symbol) that describes the data referenced by an [object](/terms/object). In [NewtonScript](/terms/newtonscript), [arrays](/terms/array), [frames](/terms/frame), and [binary objects](/terms/binary-object) can have user-defined classes.
 
 ----
 
@@ -18,6 +18,7 @@ Related:
 - /terms/binary-object
 - /terms/frame
 - /terms/object
+- /terms/symbol
 - /terms/view-class
 
 
