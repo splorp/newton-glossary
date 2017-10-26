@@ -8,11 +8,18 @@ Date:
 
 Text:
 
-See [Dante](/terms/dante)
+One of the code names for the [MessagePad 130](/terms/messagepad-130) device, also known as [Dante](/terms/dante).
 
 ## Additional Information
 
 [Internet Archive: The Apple Museum: Newton Codenames](https://web.archive.org/web/20110913014105/http://www.theapplemuseum.com/index.php?id=25)
+
+----
+
+Related:
+
+- /terms/messagepad-130
+- /terms/dante
 
 ----
 
