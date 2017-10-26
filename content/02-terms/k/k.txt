@@ -8,10 +8,11 @@ Date:
 
 Text:
 
-See [Project K](/terms/project-k)
+See [K Libs](/terms/k-libs) and [Project K](/terms/project-k)
 
 ----
 
 Source:
 
 - /sources/appledesign
+- /sources/paul-guyot
