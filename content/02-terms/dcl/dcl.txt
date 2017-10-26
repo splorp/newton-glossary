@@ -22,7 +22,14 @@ A multi-platform communication framework created by [Paul Guyot](/sources/paul-g
 Related:
 
 - /terms/dock
+- /terms/k-libs
 - /terms/nsof
 - /terms/nwt
 - /terms/protocol
 - /terms/rdcl
+
+----
+
+Source:
+
+- /sources/paul-guyot
