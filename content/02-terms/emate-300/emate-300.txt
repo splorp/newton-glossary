@@ -16,6 +16,8 @@ The eMate 300 was known by various code names, including [Project K](/terms/proj
 
 [Internet Archive: Press Release: New Apple eMate 300 Mobile Computer](https://web.archive.org/web/20010628003033/http://product.info.apple.com:80/pr/press.releases/1997/q1/961028.pr.rel.emate.html)
 [Internet Archive: Apple eMate 300: Technical Specifications](https://web.archive.org/web/20011228092442/http://karchive.info.apple.com/article.html?artnum=45031)
+[UNNA: eMate 300 User’s Manual](http://www.unna.org/unna/apple/documentation/eMate/eMateUserManual.pdf) (PDF)
+[UNNA: eMate 300 Getting Started](http://www.unna.org/unna/apple/documentation/eMate/eMateGettingStarted.pdf) (PDF)
 
 ----
 
