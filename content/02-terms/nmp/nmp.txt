@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-Newton MessagePad.
+Newton MessagePad
 
 See [MessagePad](/terms/messagepad)
 

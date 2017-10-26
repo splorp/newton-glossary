@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-Upgraded MessagePad 2000.
+Upgraded MessagePad 2000
 
 See [UMP](/terms/ump)
 
