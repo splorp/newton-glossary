@@ -1,0 +1,32 @@
+Title: System Dictionary
+
+----
+
+Date: 27 October 2017
+
+----
+
+Text:
+
+A default [dictionary](/terms/dictionary) supplied by [Newton OS](/terms/newton-os) which defines commonly used words and [grammar](/terms/grammar) constructs used by the text recognizers. System dictionaries are either an [enumerated dictionary](/terms/enumerated-dictionary) or a [lexical dictionary](/terms/lexical-dictionary).
+
+----
+
+Related:
+
+- /terms/auto-add-dictionary
+- /terms/custom-dictionary
+- /terms/dictionary
+- /terms/enumerated-dictionary
+- /terms/grammar
+- /terms/handwriting-recognition
+- /terms/lexical-dictionary
+- /terms/personal-word-list
+- /terms/recently-written-words
+- /terms/user-dictionary
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
