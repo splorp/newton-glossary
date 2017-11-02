@@ -1,20 +1,21 @@
 <?php 
 
-// Find the open or active page on the first level
-
+// Determine which first level page in open
 $open  = $pages->findOpen();
 $items = ($open) ? $open->children() : false; 
 
-// Set up alphabetise plugin
+// Sort pages by title
+$sorted = $page->children()->sortBy('title');
 
-$alphabetise = alphabetise($page->children()->sortby('title'), array('key' => 'title', 'orderby'=>SORT_STRING));
+// Alphabetize pages by title
+$alphabetise = alphabetise($sorted, array('key' => 'title', 'orderby'=>SORT_STRING));
 
 ?>
 
 <?php if($items && $items->count()): ?>
 <nav class="submenu alphabetical">
 	<?php foreach($alphabetise as $letter => $items): ?>
-	<h2><?php echo strtoupper($letter) ?></h2>
+	<h2><?php echo str::upper($letter) ?></h2>
 	<ul>
 		<?php foreach($items as $item): ?>
 		<li><a href="<?php echo $item->url() ?>"><?php echo html($item->title()) ?></a></li>
