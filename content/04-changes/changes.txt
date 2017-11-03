@@ -31,6 +31,8 @@ Sources: _$s
 + Added [sitemap](/sitemap.xml) link to footer
 + Added current version number to footer
 + Added title attributes to main navigational links
++ Improved handling of UTF-8 encoded characters in alphabetical listings
++ Implemented [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin
 + Updated [Kirby](https://getkirby.com/) to version [2.5.6](https://getkirby.com/changelog/kirby-2-5-6)
 
 ## 2.4.0
