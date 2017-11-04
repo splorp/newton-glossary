@@ -1,0 +1,29 @@
+Title: The Newted Community
+
+----
+
+Date: 03 November 2017
+
+----
+
+Text:
+
+A website and online community founded in 1999 by [Stacey Tenen](/sources/stacey-tenen) and maintained by [Grant Hutchinson](/sources/grant-hutchinson) since 2001. At one time, The Newted Community provided email accounts, web hosting, message boards, chat services, and technical support. It also featured the [Soupbox](/terms/soupbox), a section of the site which solicited articles, reviews, and opinion pieces from members of the community. The site currently provides an archive of information and support resources for Newton users.
+
+## Additional Information
+
+[The Newton Community Website](http://newted.org/)
+[Internet Archive: The Newted Community Soupbox](https://web.archive.org/web/20070730193148/http://newted.org/soupbox/)
+
+----
+
+Related:
+
+- /terms/newted
+- /terms/soupbox
+
+----
+
+Source:
+
+- /sources/stacey-tenen
