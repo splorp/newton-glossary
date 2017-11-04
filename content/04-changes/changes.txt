@@ -18,6 +18,15 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
+## 2.4.2
+
+Terms: _$t
+Sources: _$s
+
+### Summary of changes:
+
++
+
 ## 2.4.1
 
 04 November 2017
