@@ -1,0 +1,18 @@
+Title: Tapped.In
+
+----
+
+Date: 04 November 2017
+
+----
+
+Text:
+
+A monthly email newsletter published by the [Newton Systems Group](/terms/newton-systems-group) between October 1994 and May 1997. The target audience of the newsletter focused on systems integrators, value added resellers, and independent software vendors who were representing the Newton platform.
+
+----
+
+Related:
+
+- /terms/newton-systems-group
+- /terms/protoreality

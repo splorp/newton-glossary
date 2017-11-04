@@ -25,7 +25,7 @@ Sources: _$s
 
 ### Summary of changes:
 
-+
++ Added new terms
 
 ## 2.4.1
 
