@@ -14,6 +14,7 @@ The unique 26-pin, subminiature connector manufactured by [JAE](/terms/jae) used
 
 [David Arnold: Newton Interconnect Resources](http://www.0x1.org/d/stuff/newton/interconnect/)
 [Internet Archive: PDAs: A Study in Contrasts](https://web.archive.org/web/20070207103847/http://pd.pennnet.com/Articles/Article_Display.cfm?Section=Archives&Subsection=Display&ARTICLE_ID=52439)
+
 ----
 
 Related:
@@ -23,8 +24,10 @@ Related:
 - /terms/dongle
 - /terms/dongle-destroyer
 - /terms/jae
+- /terms/multifunction-interconnect-adapter
 - /terms/newton-serial-adapter
 - /terms/nic
+- /terms/ser-001
 
 ----
 

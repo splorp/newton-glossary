@@ -1,0 +1,32 @@
+Title: Multifunction Interconnect Adapter
+
+----
+
+Date: 04 November 2017
+
+----
+
+Text:
+
+A prototype [dongle](/terms/dongle) developed by [Apple](https://www.apple.com/) that provided standard connections for serial and [AppleTalk](/terms/appletalk) communication, audio input and output, and power when plugged into an [Newton Interconnect](/terms/newton-interconnect) port.
+
+## Additional Information
+
+[The Newton Collector: Multifunction Interconnect Adapter](http://normalkid.com/collector/inter.html)
+
+----
+
+Related:
+
+- /terms/appletalk
+- /terms/dongle
+- /terms/dongle-destroyer
+- /terms/newton-interconnect
+- /terms/newton-serial-adapter
+- /terms/ser-001
+
+----
+
+Source:
+
+- /sources/newton-collector

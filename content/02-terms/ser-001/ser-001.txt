@@ -20,9 +20,11 @@ Also referred to as a [dongle destroyer](/terms/dongle-destroyer).
 
 Related:
 
+- /terms/din
 - /terms/dongle
 - /terms/dongle-destroyer
 - /terms/mini-din
+- /terms/multifunction-interconnect-adapter
 - /terms/newton-interconnect
 - /terms/newton-serial-adapter
 - /terms/pcbman

@@ -19,6 +19,7 @@ Related:
 - /terms/din
 - /terms/dongle-destroyer
 - /terms/mini-din
+- /terms/multifunction-interconnect-adapter
 - /terms/newton-interconnect
 - /terms/newton-serial-adapter
 
