@@ -20,14 +20,16 @@ Recently added terms and sources can be found on the [latest additions](/latest)
 
 ## 2.4.1
 
-Terms: _$t
-Sources: _$s
+04 November 2017
+
+Terms: 1,155
+Sources: 109
 
 ### Summary of changes:
 
-+ Added new terms
-+ Added new source
-+ Updated and expanded several existing entries
++ Added 20 new terms
++ Added 2 new sources
++ Updated and expanded dozens of existing entries
 + Added [sitemap](/sitemap.xml) link to footer
 + Added current version number to footer
 + Added title attributes to main navigational links
