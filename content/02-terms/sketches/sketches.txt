@@ -14,6 +14,7 @@ A [handwriting recognition](/terms/handwriting-recognition) setting selected by 
 
 Related:
 
+- /terms/electronic-ink
 - /terms/handwriting-recognition
 - /terms/recognition-button
 - /terms/sketch-ink
