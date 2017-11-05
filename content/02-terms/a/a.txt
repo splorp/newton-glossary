@@ -1,0 +1,17 @@
+Title: A
+
+----
+
+Date: 05 November 2017
+
+----
+
+Text:
+
+See [Recognition Button](/terms/recognition-button)
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
