@@ -1,0 +1,31 @@
+Title: Newtendo
+
+----
+
+Date: 05 November 2017
+
+----
+
+Text:
+
+An emulator [application](/terms/application) developed by [Eagan Rackley](/sources/eagan-rackley) that allows [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) (NES) games to be played on a Newton device. To do this, an NES [ROM](/terms/rom) image is converted into a [package](/terms/package) using the [NES Packager](/terms/nes-packager) utility.
+
+## Additional Information
+
+[Eagan Rackley: Newtendo](http://dev.newtontalk.net/eagan/)
+[YouTube: Newtendo Demo](https://www.youtube.com/watch?v=-l1x6WmFERA)
+[My Apple Newton: Newtendo](http://myapplenewton.blogspot.ca/2009/02/newtendo.html)
+[Chuma: NES Packager](https://ritsuko.chuma.org/nespackager/)
+
+----
+
+Related:
+
+- /terms/nes-packager
+- /terms/rom
+
+----
+
+Source:
+
+- /sources/eagan-rackley

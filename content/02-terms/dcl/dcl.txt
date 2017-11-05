@@ -24,6 +24,7 @@ Related:
 - /terms/cdcl
 - /terms/dock
 - /terms/k-libs
+- /terms/nes-packager
 - /terms/nsof
 - /terms/nwt
 - /terms/protocol

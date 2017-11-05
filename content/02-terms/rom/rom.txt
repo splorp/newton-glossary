@@ -20,6 +20,8 @@ Related:
 - /terms/eeprom
 - /terms/eprom
 - /terms/flash-ram
+- /terms/nes-packager
+- /terms/newtendo
 - /terms/ram
 - /terms/rom-extension
 - /terms/sram
