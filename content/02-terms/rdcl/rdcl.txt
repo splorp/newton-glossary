@@ -21,6 +21,7 @@ A Ruby-based communication framework created by [Eckhart Köppen](/sources/eckha
 
 Related:
 
+- /terms/cdcl
 - /terms/dcl
 - /terms/dock
 - /terms/k-libs

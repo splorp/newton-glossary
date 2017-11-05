@@ -18,6 +18,7 @@ A specific type of data which describes a NewtonScript [frame](/terms/frame) alo
 
 Related:
 
+- /terms/cdcl
 - /terms/dcl
 - /terms/frame
 - /terms/newton-toolkit

@@ -14,13 +14,14 @@ A multi-platform communication framework created by [Paul Guyot](/sources/paul-g
 
 ## Additional Information
 
-[Internet Archive: Desktop Connection Library](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
 [SourceForge: DCL](http://sourceforge.net/projects/newton-dcl)
+[Internet Archive: Desktop Connection Library](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
 
 ----
 
 Related:
 
+- /terms/cdcl
 - /terms/dock
 - /terms/k-libs
 - /terms/nsof

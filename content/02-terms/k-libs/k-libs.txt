@@ -19,6 +19,7 @@ A collection of multi-platform C++ class libraries created by [Paul Guyot](/sour
 
 Related:
 
+- /terms/cdcl
 - /terms/dcl
 - /terms/k
 - /terms/rdcl
