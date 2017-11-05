@@ -38,6 +38,7 @@ Related:
 - /terms/rosetta
 - /terms/rosetta-stone
 - /terms/sketch-ink
+- /terms/sketches
 
 ----
 
