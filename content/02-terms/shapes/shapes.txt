@@ -1,0 +1,25 @@
+Title: Shapes
+
+----
+
+Date: 05 November 2017
+
+----
+
+Text:
+
+A [handwriting recognition](/terms/handwriting-recognition) setting selected by [tapping](/terms/tapping) the [recognition button](/terms/recognition-button). When this setting is selected and the user draws a [shape](/terms/shape) on the Newton device, curves will be smoothed and lines will be straightened automatically.
+
+----
+
+Related:
+
+- /terms/handwriting-recognition
+- /terms/recognition-button
+- /terms/shape
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995

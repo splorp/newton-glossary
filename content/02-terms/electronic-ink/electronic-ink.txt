@@ -22,6 +22,7 @@ Related:
 - /terms/inker
 - /terms/recognized-text
 - /terms/shape
+- /terms/shapes
 
 ----
 

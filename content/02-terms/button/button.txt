@@ -19,6 +19,7 @@ Related:
 - /terms/button-host
 - /terms/button-provider
 - /terms/close-box
+- /terms/dictionary-button
 - /terms/envelope-button
 - /terms/folder-button
 - /terms/hard-button
@@ -30,6 +31,7 @@ Related:
 - /terms/picture-button
 - /terms/picture-radio-button
 - /terms/radio-button
+- /terms/recognition-button
 - /terms/reset-button
 - /terms/routing-button
 - /terms/ryo

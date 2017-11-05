@@ -21,6 +21,7 @@ Related:
 - /terms/polygon
 - /terms/rounded-rectangle
 - /terms/shape
+- /terms/shapes
 - /terms/wedge
 
 ----

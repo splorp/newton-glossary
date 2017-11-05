@@ -16,6 +16,7 @@ Related:
 
 - /terms/line
 - /terms/shape
+- /terms/shapes
 
 ----
 

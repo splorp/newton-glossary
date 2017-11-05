@@ -31,6 +31,7 @@ Related:
 - /terms/rectangle
 - /terms/rounded-rectangle
 - /terms/shape
+- /terms/shapes
 
 ----
 

@@ -1,0 +1,25 @@
+Title: Sketches
+
+----
+
+Date: 05 November 2017
+
+----
+
+Text:
+
+A [handwriting recognition](/terms/handwriting-recognition) setting selected by [tapping](/terms/tapping) the [recognition button](/terms/recognition-button). When this setting is selected, all drawings are stored as [sketch ink](/terms/sketch-ink), exactly as they were drawn.
+
+----
+
+Related:
+
+- /terms/handwriting-recognition
+- /terms/recognition-button
+- /terms/sketch-ink
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995

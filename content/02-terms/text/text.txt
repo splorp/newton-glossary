@@ -1,0 +1,26 @@
+Title: Text
+
+----
+
+Date: 05 November 2017
+
+----
+
+Text:
+
+A [handwriting recognition](/terms/handwriting-recognition) setting selected by [tapping](/terms/tapping) the [recognition button](/terms/recognition-button). When this setting is selected and the user writes on the Newton device, words and numbers will be converted to [recognized text](/terms/recognized-text).
+
+----
+
+Related:
+
+- /terms/handwriting-recognition
+- /terms/recognition-button
+- /terms/recognized-text
+- /terms/shapes
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995

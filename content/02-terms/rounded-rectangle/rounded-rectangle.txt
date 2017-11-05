@@ -20,6 +20,7 @@ Related:
 - /terms/polygon
 - /terms/rectangle
 - /terms/shape
+- /terms/shapes
 - /terms/wedge
 
 ----
