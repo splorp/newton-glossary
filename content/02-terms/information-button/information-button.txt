@@ -8,7 +8,7 @@ Date: 19 April 2017
 
 Text:
 
-A [button](/terms/button) in the shape of a small square box with an [I](/terms/i) inside located in the [button bar](/terms/button-bar) of an [application](/terms/application). [Tapping](/terms/tapping) the information button provides access to help and [preferences](/terms/preferences) related to the current application.
+A small square [button](/terms/button) an “I” character, located in the [button bar](/terms/button-bar) of an [application](/terms/application). [Tapping](/terms/tapping) the information button provides access to help and [preferences](/terms/preferences) related to the current application.
 
 ----
 

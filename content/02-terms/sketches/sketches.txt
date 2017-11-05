@@ -8,7 +8,7 @@ Date: 05 November 2017
 
 Text:
 
-A [handwriting recognition](/terms/handwriting-recognition) setting selected by [tapping](/terms/tapping) the [recognition button](/terms/recognition-button). When this setting is selected, all drawings are stored as [sketch ink](/terms/sketch-ink), exactly as they were drawn.
+A [handwriting recognition](/terms/handwriting-recognition) setting selected by [tapping](/terms/tapping) the [recognition button](/terms/recognition-button). When this setting is selected, all drawings are stored as [electronic ink](/terms/electronic-ink) and not converted to [shapes](/terms/shapes).
 
 ----
 
