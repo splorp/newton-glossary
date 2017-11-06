@@ -8,7 +8,7 @@ Date: 06 November 2017
 
 Text:
 
-An [extension](/terms/extension) that provides post-processing to improve the [handwriting recognition](/terms/handwriting-recognition) engine built into [Newton OS](/terms/newton-os). The rather awkwardly named alt.rec.... takes into account various parameters, including [dictionary](/terms/dictionary) contents, to change the weight of the suggestions made by the current [recognizer](/terms//terms/dictionary) and makes alternate suggestions.
+An [extension](/terms/extension) written by [Paul Guyot](/sources/paul-guyot) that improves the [handwriting recognition](/terms/handwriting-recognition) engine built into [Newton OS](/terms/newton-os). This rather awkwardly named software takes into account several parameters, including [dictionary](/terms/dictionary) contents, to change the weight of the suggestions made by the current [recognizer](/terms//terms/dictionary) and makes alternate suggestions.
 
 ## Additional Information
 

@@ -26,6 +26,8 @@ Sources: _$s
 ### Summary of changes:
 
 + Added new terms
++ Added new sources
++ Updated and expanded several existing entries
 
 ## 2.4.1
 
