@@ -1,0 +1,32 @@
+Title: Tango
+
+----
+
+Date: 05 November 2017
+
+----
+
+Text:
+
+A two-way wireless pager developed by [Motorola](http://www.motorola.com/) that featured preprogrammed responses and an [RS-232](/terms/rs-232) data port for downloading messages. The Tango was compatible with Newton devices using the [Newton Messaging Enabler](/terms/newton-messaging-enabler).
+
+## Additional Information
+
+[Internet Archive: Tango Two-Way Pager](https://web.archive.org/web/19970719145257/http://www.mot.com/MIMS/MSPG/Products/Two-way/tango/desc.html)
+
+----
+
+Related:
+
+- /terms/apple-mobile-message-system
+- /terms/apple-wireless-messaging-service
+- /terms/message-module
+- /terms/newton-messaging-card
+- /terms/newton-messaging-enabler
+- /terms/pagecard
+
+----
+
+Source:
+
+- /sources/newton-inc
