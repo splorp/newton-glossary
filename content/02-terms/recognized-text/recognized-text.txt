@@ -16,6 +16,7 @@ _This entry requires a screenshot._
 
 Related:
 
+- /terms/alt-rec
 - /terms/deferred-recognition
 - /terms/handwriting-recognition
 - /terms/ink

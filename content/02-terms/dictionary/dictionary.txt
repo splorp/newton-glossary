@@ -14,6 +14,7 @@ A system construct against which [input](/terms/input) strings are matched, as a
 
 Related:
 
+- /terms/alt-rec
 - /terms/auto-add-dictionary
 - /terms/custom-dictionary
 - /terms/dictionary-button

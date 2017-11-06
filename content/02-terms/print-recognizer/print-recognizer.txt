@@ -20,6 +20,7 @@ Also referred to as the [disconnected recognizer](/terms/disconnected-recognizer
 
 Related:
 
+- /terms/alt-rec
 - /terms/calligrapher
 - /terms/cursive-recognizer
 - /terms/disconnected-recognizer

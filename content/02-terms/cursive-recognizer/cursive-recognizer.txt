@@ -20,6 +20,7 @@ Also referred to as the [connected recognizer](/terms/connected-recognizer).
 
 Related:
 
+- /terms/alt-rec
 - /terms/calligrapher
 - /terms/connected-recognizer
 - /terms/cursive
