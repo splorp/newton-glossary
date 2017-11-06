@@ -1,0 +1,31 @@
+Title: Message Module
+
+----
+
+Date: 05 November 2017
+
+----
+
+Text:
+
+An [extension](/terms/extension) installed alongside the [Newton Messaging Enabler](/terms/newton-messaging-enabler) which provides communication level functionality for a specific messaging device, such as the [Newton Messaging Card](/terms/newton-messaging-card), Socket [PageCard](/terms/pagecard), or Motorola [Tango](/terms/tango) pager.
+
+## Additional Information
+
+[Internet Archive: Newton Messaging Enabler](https://web.archive.org/web/19980204051938/http://www.newton-inc.com/dev/sysenablrs.html)
+
+----
+
+Related:
+
+- /terms/apple-mobile-message-system
+- /terms/newton-messaging-card
+- /terms/newton-messaging-enabler
+- /terms/pagecard
+- /terms/tango
+
+----
+
+Source:
+
+- /sources/newton-inc

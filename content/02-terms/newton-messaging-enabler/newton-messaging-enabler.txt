@@ -1,0 +1,34 @@
+Title: Newton Messaging Enabler
+
+----
+
+Date: 05 November 2017
+
+----
+
+Text:
+
+A developer tool for enabling wireless messaging devices under [Newton OS](/terms/newton-os) 2.0 and later. The enabler [package](/terms/package) works in conjunction with an [extension](/terms/extension) known as a [message module](/terms/message-module), which provides communication level functionality for a specific messaging device, such as the [Newton Messaging Card](/terms/newton-messaging-card), Socket [PageCard](/terms/pagecard), or Motorola [Tango](/terms/tango) pager.
+
+Also known as [NME](/terms/nme).
+
+## Additional Information
+
+[Internet Archive: Newton Messaging Enabler](https://web.archive.org/web/19980204051938/http://www.newton-inc.com/dev/sysenablrs.html)
+
+----
+
+Related:
+
+- /terms/apple-mobile-message-system
+- /terms/message-module
+- /terms/mne
+- /terms/newton-messaging-card
+- /terms/pagecard
+- /terms/tango
+
+----
+
+Source:
+
+- /sources/newton-inc
