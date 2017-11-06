@@ -14,19 +14,11 @@ A removable [PC card](/terms/pc-card) that provides additional functionality, su
 
 Related:
 
-- /terms/application-card
 - /terms/card
-- /terms/combo-card
-- /terms/flash-card
-- /terms/memory-card
-- /terms/messaging-card
-- /terms/newton-messaging-card
 - /terms/pc-card
 - /terms/pcmcia
-- /terms/protection-card
 - /terms/slot
 - /terms/slot-jam
-- /terms/storage-card
 
 ----
 

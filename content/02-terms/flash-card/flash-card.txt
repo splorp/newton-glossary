@@ -14,24 +14,16 @@ A [memory card](/terms/memory-card) using [flash RAM](/terms/flash-ram) chips th
 
 Related:
 
-- /terms/accessory-card
-- /terms/application-card
 - /terms/card
-- /terms/combo-card
 - /terms/compactflash
 - /terms/external-store
 - /terms/flash-memory
 - /terms/flash-ram
 - /terms/memory-card
-- /terms/messaging-card
-- /terms/network-interface-card
-- /terms/newton-messaging-card
 - /terms/pc-card
 - /terms/pcmcia
-- /terms/protection-card
 - /terms/slot
 - /terms/slot-jam
-- /terms/storage-card
 
 ----
 

@@ -19,25 +19,17 @@ A [PC card](/terms/pc-card) developed by [Motorola](http://www.motorola.com/) th
 
 Related:
 
-- /terms/accessory-card
 - /terms/apple-wireless-messaging-service
-- /terms/application-card
 - /terms/beeper-number
 - /terms/card
-- /terms/combo-card
-- /terms/flash-card
-- /terms/memory-card
 - /terms/messaging-card
-- /terms/network-interface-card
 - /terms/newscard
 - /terms/passcode
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/pin
-- /terms/protection-card
 - /terms/slot
 - /terms/slot-jam
-- /terms/storage-card
 
 ----
 

@@ -14,23 +14,14 @@ A removable [PC card](/terms/pc-card) or circuit board that provides a physical 
 
 Related:
 
-- /terms/accessory-card
-- /terms/application-card
 - /terms/card
-- /terms/combo-card
 - /terms/ethernet
-- /terms/flash-card
-- /terms/memory-card
-- /terms/messaging-card
 - /terms/network-adapter
-- /terms/newton-messaging-card
 - /terms/nic
 - /terms/pc-card
 - /terms/pcmcia
-- /terms/protection-card
 - /terms/slot
 - /terms/slot-jam
-- /terms/storage-card
 
 ----
 

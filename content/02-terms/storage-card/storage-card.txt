@@ -14,8 +14,6 @@ Any type of removable [PC card](/terms/pc-card) used for storing data. A storage
 
 Related:
 
-- /terms/accessory-card
-- /terms/application-card
 - /terms/backup
 - /terms/card
 - /terms/cf-card
@@ -25,11 +23,7 @@ Related:
 - /terms/flash-card
 - /terms/flash-ram
 - /terms/memory-card
-- /terms/messaging-card
-- /terms/network-interface-card
-- /terms/newton-messaging-card
 - /terms/pc-card
 - /terms/pcmcia
-- /terms/protection-card
 - /terms/slot
 - /terms/slot-jam
