@@ -20,12 +20,16 @@ A defunct subscription-based electronic messaging service that allowed a Newton 
 
 Related:
 
+- /terms/apple-mobile-message-system
 - /terms/awms
 - /terms/beeper-number
 - /terms/newscard
 - /terms/newton-messaging-card
+- /terms/newton-messaging-enabler
+- /terms/pagecard
 - /terms/passcode
 - /terms/pin
+- /terms/tango
 
 ----
 

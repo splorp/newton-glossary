@@ -21,6 +21,7 @@ Also known as [NME](/terms/nme).
 Related:
 
 - /terms/apple-mobile-message-system
+- /terms/apple-wireless-messaging-service
 - /terms/message-module
 - /terms/mne
 - /terms/newton-messaging-card
