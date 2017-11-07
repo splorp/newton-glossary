@@ -1,0 +1,29 @@
+Title: Try Letters
+
+----
+
+Date: 07 November 2017
+
+----
+
+Text:
+
+A [handwriting recognition](/terms/handwriting-recognition) option that uses [letter-by-letter](/terms/letter-by-letter) recognition instead of the [dictionary](/terms/dictionary) to interpret a word. The “Try Letters” [button](/terms/buttons) appears in a [picker](/terms/picker) when the user [double-taps](/terms/double-tap) a word.
+
+----
+
+Related:
+
+- /terms/calligrapher
+- /terms/cursive
+- /terms/cursive-recognizer
+- /terms/dictionary
+- /terms/handwriting-recognition
+- /terms/letter-by-letter
+- /terms/letter-shapes
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

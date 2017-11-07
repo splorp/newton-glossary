@@ -30,6 +30,8 @@ Related:
 - /terms/handwriting-recognition
 - /terms/ink
 - /terms/inkwell
+- /terms/letter-by-letter
+- /terms/letter-shapes
 - /terms/mondello
 - /terms/neuropen
 - /terms/paragraph
@@ -38,6 +40,7 @@ Related:
 - /terms/recognizer
 - /terms/rosetta
 - /terms/rosetta-stone
+- /terms/try-letters
 
 ----
 

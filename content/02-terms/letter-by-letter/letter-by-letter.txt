@@ -1,0 +1,29 @@
+Title: Letter-by-Letter
+
+----
+
+Date: 07 November 2017
+
+----
+
+Text:
+
+A [handwriting recognition](/terms/handwriting-recognition) setting which controls how [cursive](/terms/cursive) text that is not in the [dictionary](/terms/dictionary) is recognized. Essentially, written text is evaluated one letter at a time until a match is made and the text is recognized.
+
+----
+
+Related:
+
+- /terms/calligrapher
+- /terms/cursive
+- /terms/cursive-recognizer
+- /terms/dictionary
+- /terms/handwriting-recognition
+- /terms/letter-shapes
+- /terms/try-letters
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

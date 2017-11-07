@@ -1,0 +1,28 @@
+Title: Letter Shapes
+
+----
+
+Date: 07 November 2017
+
+----
+
+Text:
+
+A setting which helps improve [handwriting recognition](/terms/handwriting-recognition) by allowing the user to indicate which character shapes are more common or seldom used when entering [cursive](/terms/cursive) text.
+
+----
+
+Related:
+
+- /terms/calligrapher
+- /terms/cursive
+- /terms/cursive-recognizer
+- /terms/handwriting-recognition
+- /terms/letter-by-letter
+- /terms/try-letters
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

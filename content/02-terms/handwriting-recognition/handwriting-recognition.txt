@@ -25,6 +25,8 @@ Related:
 - /terms/hwr
 - /terms/ink
 - /terms/inkwell
+- /terms/letter-shapes
+- /terms/letter-shapes
 - /terms/mondello
 - /terms/neuropen
 - /terms/print-recognizer
@@ -32,3 +34,4 @@ Related:
 - /terms/recognizer
 - /terms/rosetta
 - /terms/rosetta-stone
+- /terms/try-letters
