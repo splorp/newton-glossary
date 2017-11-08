@@ -15,9 +15,9 @@ The algorithmic conversion of handwritten or printed text into digital text. Als
 Related:
 
 - /terms/alt-rec
-- /terms/cursive
 - /terms/calligrapher
 - /terms/casual
+- /terms/cursive
 - /terms/cursive-recognizer
 - /terms/eat-up-martha
 - /terms/egg-freckles

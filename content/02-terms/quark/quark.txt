@@ -18,8 +18,8 @@ One of the code names for the [MessagePad 130](/terms/messagepad-130) device, al
 
 Related:
 
-- /terms/messagepad-130
 - /terms/dante
+- /terms/messagepad-130
 
 ----
 
