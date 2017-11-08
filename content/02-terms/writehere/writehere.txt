@@ -1,0 +1,29 @@
+Title: WriteHere
+
+----
+
+Date: 08 November 2017
+
+----
+
+Text:
+
+A suite of software components developed by [Adam Tow](/sources/adam-tow) that allows a Newton device or Palm organizer to be used as a [handwriting recognition](/terms/handwriting-recognition) engine and input device when connected to a [desktop computer](/terms/desktop-computer) or [laptop computer](/terms/laptop-computer).
+
+## Additional Information
+
+[Internet Archive: WriteHere Suite Product Information](https://web.archive.org/web/20080514134030/http://www.tow.com/software/writehere/)
+[Adam Tow: Newton Software](https://tow.com/projects/newton/)
+
+----
+
+Related:
+
+- /terms/handwriting-recognition
+- /terms/writehere-suite
+
+----
+
+Source:
+
+- /sources/adam-tow
