@@ -12,5 +12,5 @@ Currently a software engineer at Google, Drissman developed numerous pieces of s
 
 ## Additional Information
 
-[Avi’s Blog](http://avi.drissman.com/)
+[Avi’s Blog](https://avi.drissman.com/)
 [Avi’s Newton Stuff](http://www.drissman.com/avi/newton/)

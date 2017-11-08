@@ -14,7 +14,7 @@ _This entry requires a screenshot._
 
 ## Additional Information
 
-[Forklore: LISP: The root of Newton Toolkit](http://www.folklore.org/StoryView.py?project=Newton&story=LISP:_The_root_of_Newton_Toolkit.txt)
+[Forklore: LISP: The root of Newton Toolkit](https://www.folklore.org/StoryView.py?project=Newton&story=LISP:_The_root_of_Newton_Toolkit.txt)
 [Flickr: EtchASketch 1.0a22 Screenshot](https://www.flickr.com/photos/pablo_marx/5306933667)
 
 ----
