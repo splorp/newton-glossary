@@ -8,7 +8,7 @@ Date: 01 October 2017
 
 Text:
 
-A place where items such as [notes](/terms/note), [cards](/terms/card), and [packages](/terms/packages) can be filed. [Global folders](/terms/global-folder) appear in all [applications](/terms/application) and [local folders](/terms/local-folder) appear only in the application where they were created.
+A place where items such as [notes](/terms/note), [cards](/terms/card), and [packages](/terms/package) can be filed. [Global folders](/terms/global-folder) appear in all [applications](/terms/application) and [local folders](/terms/local-folder) appear only in the application where they were created.
 
 ----
 
