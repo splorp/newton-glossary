@@ -8,7 +8,7 @@ Date: 25 March 2017
 
 Text:
 
-A stand or docking station designed to hold a device, usually integrating a means to charge the [battery](/terms/battery). A cradle can also provide ports to connect the device to a [desktop computer](/terms/desktop-computer) or a network. An example is the charging cradle designed to work with the [MessagePad 110](/terms/messagepad-110), [MessagePad 120](/terms/messagepad-120), and [MessagePad 130](/terms/messagepad-130) devices known by the code name [Crib](/terms/crib).
+A stand or docking station designed to hold a device, usually integrating a means to charge the [battery](/terms/battery). A cradle can also provide ports to connect the device to a [desktop computer](/terms/desktop-computer), [laptop computer](/terms/laptop-computer), or a network. An example is the charging cradle designed to work with the [MessagePad 110](/terms/messagepad-110), [MessagePad 120](/terms/messagepad-120), and [MessagePad 130](/terms/messagepad-130) devices known by the code name [Crib](/terms/crib).
 
 ----
 
