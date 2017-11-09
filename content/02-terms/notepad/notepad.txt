@@ -23,7 +23,6 @@ Related:
 - /terms/application
 - /terms/backdrop
 - /terms/checklist
-- /terms/messagepad
 - /terms/notable
 - /terms/note
 - /terms/notes
