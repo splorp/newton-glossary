@@ -21,5 +21,6 @@ Related:
 - /terms/notes2notes
 - /terms/outline
 - /terms/recording
+- /terms/scribble-pad
 - /terms/stationery
 - /terms/the-fish
