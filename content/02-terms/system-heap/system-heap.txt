@@ -1,0 +1,28 @@
+Title: System Heap
+
+----
+
+Date:
+
+----
+
+Text:
+
+The area of [system memory](/terms/system-memory) that is used for functions such as communications, [handwriting recognition](/terms/handwriting-recognition), and [views](http://newtonglossary.com/terms/view).
+
+----
+
+Related:
+
+- /terms/c-heap
+- /terms/garbage-collection
+- /terms/heap
+- /terms/newtonscript
+- /terms/newtonscript-heap
+- /terms/system-memory
+
+----
+
+Source:
+
+- /sources/newton-heap-mini-faq

@@ -16,11 +16,14 @@ Related:
 
 - /terms/dram
 - /terms/flash-ram
+- /terms/garbage-collection
 - /terms/grip-of-death
+- /terms/heap
 - /terms/heap-space
 - /terms/ram
 - /terms/sram
 - /terms/system-ram
+- /terms/system-heap
 - /terms/user-storage
 
 ----

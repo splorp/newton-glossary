@@ -15,7 +15,7 @@ An area of [system memory](/terms/system-memory) used by the [operating system](
 Related:
 
 - /terms/c-heap
-- /terms/frames-heap
+- /terms/garbage-collection
 - /terms/heap
 - /terms/newtonscript
 - /terms/object

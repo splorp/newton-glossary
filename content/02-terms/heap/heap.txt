@@ -17,11 +17,10 @@ Related:
 - /terms/c-heap
 - /terms/frames-heap
 - /terms/freeze
+- /terms/garbage-collection
 - /terms/grip-of-death
 - /terms/heap-space
-- /terms/newtonscript
 - /terms/newtonscript-heap
-- /terms/script
 - /terms/system-heap
 - /terms/system-memory
 
