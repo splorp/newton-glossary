@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-An [easter egg](/terms/easter-egg) found in the [Newton OS](/terms/newton-os) related to selecting the infamous “Area 51” in the [Time Zones](/terms/time-zones) application. When activated, [icons](/terms/icon) in the [Date Book](/terms/date-book) application are changed to reflect an alien theme. For example, a meeting is represented by a person facing an alien, an event is changed to a flying saucer, and to-do tasks are represented by a robot.
+An [easter egg](/terms/easter-egg) found in the [Newton OS](/terms/newton-os) related to selecting the infamous “Area 51” in the [Time Zones](/terms/time-zones) application. When activated, [icons](/terms/icon) in the [Date Book](/terms/date-book) application are changed to reflect an alien theme. For example, a meeting is represented by a person facing an alien, an event is changed to a flying saucer, and [to do list](/terms/to-do-list) tasks are represented by a robot.
 
 On a [MessagePad 130](/terms/messagepad-130), the “Area 51” location is replaced by either [Groom Lake](/terms/groom-lake) or [Dreamland](/terms/dreamland).
 
@@ -30,6 +30,7 @@ Related:
 - /terms/groom-lake
 - /terms/icon
 - /terms/time-zones
+- /terms/to-do-list
 
 ----
 
