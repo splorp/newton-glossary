@@ -1,0 +1,28 @@
+Title: Scribble Pad
+
+----
+
+Date: 08 November 2017
+
+----
+
+Text:
+
+A free-form input area found in the [Avi’s Backdrop](/terms/avis-backdrop) application which functions as a simple version of built-in Newton [Notepad](/terms/notepad).
+
+## Additional Information
+
+[Avi’s Newton Stuff: Avi’s Backdrop](http://www.drissman.com/avi/newton/AvisBackdrop/)
+
+----
+
+Related:
+
+- /terms/avis-backdrop
+- /terms/notepad
+
+----
+
+Source:
+
+- /sources/avi-drissman

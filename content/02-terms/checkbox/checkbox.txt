@@ -15,6 +15,7 @@ A standard [user interface](/terms/user-interface) control that displays a setti
 Related:
 
 - /terms/button
+- /terms/checklist
 - /terms/picture-radio-button
 - /terms/radio-button
 - /terms/user-interface

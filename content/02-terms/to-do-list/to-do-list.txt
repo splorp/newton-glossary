@@ -1,0 +1,25 @@
+Title: To Do List
+
+----
+
+Date: 09 November 2017
+
+----
+
+Text:
+
+A daily [checklist](/terms/checklist) in the [Date Book](/terms/date-book) application which allows the user to create and prioritize tasks. Tasks are marked as completed by [tapping](/terms/tapping) a [checkbox](/terms/checkbox). Uncompleted tasks are carried over to the next day.
+
+----
+
+Related:
+
+- /terms/date-book
+- /terms/checklist
+- /terms/newttodo
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

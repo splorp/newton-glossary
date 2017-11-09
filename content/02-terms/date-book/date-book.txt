@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The built-in [application](/terms/application) for recording and viewing appointments and calendar notes, setting alarms, entering repeating [events](/terms/event), and keeping a to-do list. Also referred to as [Dates](/terms/dates) and erroneously called [Datebook](/terms/datebook) in some of Apple’s support articles.
+The built-in [application](/terms/application) for recording and viewing appointments and calendar notes, setting alarms, entering repeating [events](/terms/event), and keeping a [to do list](/terms/to-do-list). Also referred to as [Dates](/terms/dates) and erroneously called [Datebook](/terms/datebook) in some of Apple’s support articles.
 
 ----
 
@@ -22,6 +22,7 @@ Related:
 - /terms/meeting
 - /terms/moreinfo
 - /terms/personal-information-manager
+- /terms/to-do-list
 
 ----
 

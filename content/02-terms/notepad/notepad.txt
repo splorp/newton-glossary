@@ -23,13 +23,13 @@ Related:
 - /terms/application
 - /terms/backdrop
 - /terms/checklist
-- /terms/messagepad
 - /terms/notable
 - /terms/note
 - /terms/notes
 - /terms/notes2notes
 - /terms/outline
 - /terms/recording
+- /terms/scribble-pad
 - /terms/stationery
 - /terms/the-fish
 - /terms/twerx
