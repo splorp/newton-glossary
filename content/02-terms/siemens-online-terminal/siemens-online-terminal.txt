@@ -8,9 +8,11 @@ Date: 25 March 2017
 
 Text:
 
-A Newton device purported to have been in development by [Siemens](https://www.siemens.com/). The prototype device was to be an “all-in-one communication terminal” employing a [user interface](/terms/user-interface) based on [Newton OS](/terms/newton-os) and combining several communication services including wireless telephony, fax, voice messaging, web access, and email.
+A prototype device developed by [Siemens](https://www.siemens.com/) that was positioned as an “all-in-one communication terminal” employing a [user interface](/terms/user-interface) based on [Newton OS](/terms/newton-os) and combining several communication services including wireless telephony, fax, voice messaging, web access, and email. Siemens also developed the [NotePhone](/terms/notephone) which combined a telephone and fax modem with the equivalent of an [Original MessagePad](/terms/original-messagepad).
 
-A third party device that utilizes a licensed version of the [Newton OS](/terms/newton-os) is often referred to as a [clone](/terms/clone). Siemens also developed two versions of the [NotePhone](/terms/notephone), a Newton OS device incorporating a telephone.
+The Siemens Online Terminal has been variously (and erroneously) referred to as an [OAD](/terms/oad), [NotePhone 2000](/terms/notephone-2000), and [Messenotizen](/terms/messenotizen).
+
+A third party device that utilizes a licensed version of the [Newton OS](/terms/newton-os) is often referred to as a [clone](/terms/clone).
 
 ## Additional Information
 
@@ -18,16 +20,24 @@ A third party device that utilizes a licensed version of the [Newton OS](/terms/
 [NewtNews #138: Siemens Online Terminal](https://groups.google.com/forum/#!topic/comp.sys.newton.misc/ZOQeDF57T6M)
 [Internet Archive: Newton OS Computers from Licensees](https://web.archive.org/web/19980204042814/http://www.newton.apple.com/product_info/devices/devices.html)
 [Internet Archive: Press Release: CeBIT ‘97](https://web.archive.org/web/19970727141846/http://www.siemens.de/pn/press/97pn016.htm)
+[Internet Archive: Das “OAD”](https://web.archive.org/web/20010526162436/http://www.logictools.de:80/newton/german/oad/)
+[Internet Archive: Siemens Online-Terminal Prototyp]http://web.archive.org/web/20010608175745fw_/http://www.logictools.de:80/newton/german/oad/OAD-1.gif) (GIF)
+[Flickr: Siemens “NotePhone 2000” Prototype](https://www.flickr.com/photos/sonnyhung/albums/72057594061321300)
 
 ----
 
 Related:
 
 - /terms/clone
+- /terms/messenotizen
 - /terms/notephone
+- /terms/notephone-2000
+- /terms/oad
 
 ----
 
 Source:
 
 - /sources/newton-inc
+- /sources/nick-muller
+”

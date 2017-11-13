@@ -1,0 +1,33 @@
+Title: NotePhone
+
+----
+
+Date: 13 November 2017
+
+----
+
+Text:
+
+A Newton device developed by [Siemens](https://www.siemens.com/) for the German market. Based on the [Original MessagePad](/terms/original-messagepad), the NotePhone integrated a telephone, fax modem, and compatibility with PBX switchboards into a single package. Siemens also developed a [Newton OS](/terms/newton-os) prototype known as the [Siemens Online Terminal](/terms/siemens-online-terminal).
+
+A third party device that utilizes a licensed version of the [Newton OS](/terms/newton-os) is often referred to as a [clone](/terms/clone).
+
+## Additional Information
+[New York Times: Apple Will Get Some Help From Siemens](http://www.nytimes.com/1993/03/12/business/company-news-apple-will-get-some-help-from-siemens.html)
+[Flickr: Jim Abeles’ Siemens NotePhone Prototype](https://www.flickr.com/photos/abeles/albums/72157647360762817)
+
+----
+
+Related:
+
+- /terms/clone
+- /terms/messenotizen
+- /terms/notephone-2000
+- /terms/oad
+- /terms/siemens-online-terminal
+
+----
+
+Source:
+
+- /sources/grant-hutchinson

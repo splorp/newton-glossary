@@ -1,0 +1,33 @@
+Title: OAD
+
+----
+
+Date: 13 November 2017
+
+----
+
+Text:
+
+Online Access Device
+
+An alternate name for the prototype Newton device developed by [Siemens](https://www.siemens.com/) known as the [Siemens Online Terminal](/terms/siemens-online-terminal).
+
+## Additional Information
+
+[Internet Archive: Das “OAD”](https://web.archive.org/web/20010526162436/http://www.logictools.de:80/newton/german/oad/)
+
+----
+
+Related:
+
+- /terms/clone
+- /terms/messenotizen
+- /terms/notephone
+- /terms/notephone-2000
+- /terms/siemens-online-terminal
+
+----
+
+Source:
+
+- /sources/nick-muller

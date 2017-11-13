@@ -1,0 +1,31 @@
+Title: Messenotizen
+
+----
+
+Date: 13 November 2017
+
+----
+
+Text:
+
+An alternate (and erroneously applied) name for the prototype Newton device developed by [Siemens](https://www.siemens.com/) known as the [Siemens Online Terminal](/terms/siemens-online-terminal). Literally translated from German, the term “Messenotizen” becomes “Fair Notes”.
+
+## Additional Information
+
+[Flickr: Siemens “NotePhone 2000” Prototype](https://www.flickr.com/photos/sonnyhung/albums/72057594061321300)
+
+----
+
+Related:
+
+- /terms/clone
+- /terms/oad
+- /terms/notephone
+- /terms/notephone-2000
+- /terms/siemens-online-terminal
+
+----
+
+Source:
+
+- /sources/sonny-hung
