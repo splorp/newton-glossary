@@ -17,6 +17,7 @@ Related:
 - /terms/bugtrap
 - /terms/debug
 - /terms/debugger
+- /terms/egger
 - /terms/macintosh-programmers-workshop
 - /terms/newton-c-toolbox
 - /terms/newtsbug

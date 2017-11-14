@@ -24,6 +24,7 @@ Related:
 - /terms/debug
 - /terms/debugger
 - /terms/debugging
+- /terms/egger
 - /terms/hammer
 - /terms/newtsbug
 - /terms/note

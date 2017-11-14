@@ -18,6 +18,7 @@ Related:
 - /terms/debug
 - /terms/debugger
 - /terms/debugging
+- /terms/egger
 - /terms/frame
 - /terms/hammer
 - /terms/newtonscript

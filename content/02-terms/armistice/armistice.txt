@@ -26,6 +26,7 @@ Related:
 - /terms/arm
 - /terms/armadillo
 - /terms/armageddon
+- /terms/egger
 - /terms/fat-man
 
 ----

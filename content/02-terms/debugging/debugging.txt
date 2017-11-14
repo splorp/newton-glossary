@@ -17,6 +17,7 @@ Related:
 - /terms/bugtrap
 - /terms/debug
 - /terms/debugger
+- /terms/egger
 - /terms/hammer
 - /terms/inspector
 - /terms/newtsbug

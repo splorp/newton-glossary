@@ -1,0 +1,38 @@
+Title: Egger
+
+----
+
+Date: 14 November 2017
+
+----
+
+Text:
+
+Software developed by [Apple](https://www.apple.com/) that provided a means to run and [debug](/terms/debug) Newton software on a Mac OS [desktop computer](/terms/desktop-computer) outfitted with a NuBus-based [ARMageddon](/terms/armageddon) or [ARMistice](/terms/armistice) card.
+
+## Additional Information
+
+[GitHub: Leibniz](https://github.com/pablomarx/Leibniz)
+
+----
+
+Related:
+
+- /terms/armadillo
+- /terms/armageddon
+- /terms/armistice
+- /terms/bugtrap
+- /terms/debug
+- /terms/debugger
+- /terms/hammer
+- /terms/leibniz
+- /terms/macintosh-programmers-workshop
+- /terms/newton-c-toolbox
+- /terms/newtsbug
+- /terms/viewframe
+
+----
+
+Source:
+
+- /sources/steve-white
