@@ -16,7 +16,6 @@ Related:
 
 - /terms/bugtrap
 - /terms/macintosh-programmers-workshop
-- /terms/mpw
 - /terms/nct
 - /terms/newtapp
 - /terms/newtdevenv

@@ -19,8 +19,6 @@ Related:
 - /terms/debugger
 - /terms/hammer
 - /terms/macintosh-programmers-workshop
-- /terms/mpw
-- /terms/nct
 - /terms/newton-c-toolbox
 - /terms/viewframe
 

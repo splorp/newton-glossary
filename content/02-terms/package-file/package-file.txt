@@ -18,8 +18,8 @@ Related:
 - /terms/extension
 - /terms/newtonpkg
 - /terms/package
-- /terms/packagebuddy
 - /terms/package-installer
+- /terms/packagebuddy
 - /terms/pkg
 
 ----
