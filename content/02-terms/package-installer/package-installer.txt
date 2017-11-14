@@ -24,4 +24,5 @@ Related:
 - /terms/newtonpkg
 - /terms/package
 - /terms/package-file
+- /terms/packagebuddy
 - /terms/pkg

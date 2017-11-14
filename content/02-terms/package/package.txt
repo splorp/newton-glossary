@@ -22,6 +22,7 @@ Related:
 - /terms/package-file
 - /terms/package-installer
 - /terms/package-store
+- /terms/packagebuddy
 - /terms/pkg
 - /terms/thaw
 - /terms/thawed-package

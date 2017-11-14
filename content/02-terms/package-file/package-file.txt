@@ -18,6 +18,7 @@ Related:
 - /terms/extension
 - /terms/newtonpkg
 - /terms/package
+- /terms/packagebuddy
 - /terms/package-installer
 - /terms/pkg
 
