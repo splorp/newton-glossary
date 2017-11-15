@@ -20,7 +20,7 @@ class MetaTags
 
         $templates = c::get('meta-tags.templates', []);
         $default = c::get('meta-tags.default', [
-            'title' => page()->isHomePage() ? site()->title() : page()->title(),
+            'title' => $page->isHomePage() ? site()->title() : $page->title(),
             'meta' => [
                 'description' => site()->description()
             ],
@@ -36,7 +36,16 @@ class MetaTags
         ]);
 
         $this->page = $page;
-        $this->data = $default;
+        $this->data = is_callable($default) ? $default($page, site()) : $default;
+        $templates = is_callable($templates) ? $templates($page, site()) : $templates;
+
+        if (! is_array($this->data)) {
+            throw new Exception('Option "meta-tags.default" must return an array');
+        }
+
+        if (! is_array($templates)) {
+            throw new Exception('Option "meta-tags.templates" must return an array');
+        }
 
         if (isset($templates[$page->intendedTemplate()])) {
             $this->data = a::merge($this->data, $templates[$page->intendedTemplate()]);
@@ -88,7 +97,7 @@ class MetaTags
     protected function addTag($tag, $value, $group)
     {
         if (is_callable($value)) {
-            $value = $value($this->page);
+            $value = $value($this->page, site());
         } elseif ($value instanceof Field && $value->isEmpty()) {
             $value = null;
         }
