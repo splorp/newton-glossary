@@ -1,8 +1,8 @@
 .DS_Store
 .editorconfig
 .gitignore
+license.php
 kirby/
 panel/
 site/cache/
-site/config/
 site/panel/
