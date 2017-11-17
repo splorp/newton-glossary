@@ -22,6 +22,7 @@ Related:
 - /terms/cell
 - /terms/charge-state
 - /terms/deep-toast
+- /terms/holy-shit-yellow
 - /terms/lts
 - /terms/memory-effect
 - /terms/nickel-cadmium
