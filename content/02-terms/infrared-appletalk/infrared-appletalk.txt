@@ -1,0 +1,29 @@
+Title: Infrared AppleTalk
+
+----
+
+Date: 17 November 2017
+
+----
+
+Text:
+
+Providing [AppleTalk](/terms/appletalk) networking to devices over an [infrared](/terms/infrared) connection. For example, Phototonics Corporation developed a product called Cooperative that consisted of hardware transceivers which provided “diffuse infrared AppleTalk” connections between Macintosh computers, Newton devices, and other peripherals.
+
+----
+
+Related:
+
+- /terms/appletalk
+- /terms/ethernet
+- /terms/ethertalk
+- /terms/infrared
+- /terms/local-area-network
+- /terms/localtalk
+- /terms/wireless-appletalk
+
+----
+
+Source:
+
+- /sources/macworld

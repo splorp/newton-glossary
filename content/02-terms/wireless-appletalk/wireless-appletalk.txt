@@ -18,6 +18,7 @@ Related:
 - /terms/ethernet
 - /terms/ethertalk
 - /terms/grouper
+- /terms/infrared-appletalk
 - /terms/local-area-network
 - /terms/localtalk
 - /terms/wireless-access-point

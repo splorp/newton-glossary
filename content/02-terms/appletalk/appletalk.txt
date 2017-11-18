@@ -17,6 +17,7 @@ Related:
 - /terms/at
 - /terms/ethernet
 - /terms/ethertalk
+- /terms/infrared-appletalk
 - /terms/local-area-network
 - /terms/localtalk
 - /terms/protocol
