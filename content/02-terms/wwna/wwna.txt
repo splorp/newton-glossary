@@ -1,0 +1,31 @@
+Title: WWNA
+
+----
+
+Date: 19 November 2017
+
+----
+
+Text:
+
+Worldwide Newton Association
+
+A defunct legal entity formed in April 2004 to promote the Newton platform and gather users and developers together. The WWNA was primarily responsible for organizing several editions of the Worldwide Newton Conference ([WWNC](/terms/wwnc)) between 2004 and 2009.
+
+The initial membership of the association included such Newton luminaries as [Walter Smith](/sources/walter-smith), [Larry Yaeger](/sources/larry-yaeger), [Paul Guyot](/sources/paul-guyot), [Adam Tow](/sources/adam-tow), and [John Sculley](http://www.sculleyspeaks.com/).
+
+## Additional Information
+
+[Internet Archive: Worldwide Newton Association Website](https://web.archive.org/web/20091006151304/http://worldwide-newton.asso.eu.org/)
+
+----
+
+Related:
+
+- /terms/wwnc
+
+----
+
+Source:
+
+- /sources/grant-hutchinson
