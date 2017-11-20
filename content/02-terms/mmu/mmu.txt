@@ -8,4 +8,26 @@ Date:
 
 Text:
 
-See [Central Processing Unit](/terms/memory-management-unit)
+Memory Management Unit
+
+A computer component responsible for the translation of the [virtual addresses](/terms/virtual-address) assigned to chunks of data into the [physical addresses](/terms/physical-address) (or actual addresses) of that data.
+
+----
+
+Related:
+
+- /terms/address
+- /terms/cpu
+- /terms/magic-pointer
+- /terms/mapping
+- /terms/memory-page
+- /terms/mmu-tables
+- /terms/physical-address
+- /terms/pointer
+- /terms/virtual-address
+
+----
+
+Source:
+
+- /sources/paul-guyot

@@ -8,4 +8,25 @@ Date:
 
 Text:
 
-See [Central Processing Unit](/terms/central-processing-unit)
+Central Processing Unit
+
+The primary computing component of a digital device. When configured in conjunction with a timing circuit and memory, it essentially constitutes a computer.
+
+----
+
+Related:
+
+- /terms/arm
+- /terms/hobbit
+- /terms/implant
+- /terms/main-logic-board
+- /terms/memory-management-unit
+- /terms/mmu
+- /terms/risc
+- /terms/strongarm
+
+----
+
+Source:
+
+- /sources/techencyclopedia
