@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A persistently stored [object](/terms/object) that contains a series of [frames](/terms/frame) called [entries](/terms/entry). Like a [database](/terms/database), a soup has indexes that are used to access entries in a sorted order.
+A persistently stored [object](/terms/object) that contains a series of [frames](/terms/frame) called [entries](/terms/entry). Like a [database](/terms/database), a soup has indexes that are used to access entries in a sorted order. One thing that sets a soup apart from an object oriented database is the “smart” [flattening](/terms/flattening) of the entries before they are added to the soup.
 
 ----
 
@@ -20,6 +20,7 @@ Related:
 - /terms/database
 - /terms/entry
 - /terms/entry-aliases
+- /terms/flattening
 - /terms/frame
 - /terms/item-frame
 - /terms/member-soup
@@ -39,3 +40,4 @@ Related:
 Source:
 
 - /sources/newton-programmers-guide
+- /sources/eckhart-koppen
