@@ -18,12 +18,6 @@ An updated version of [Deep Green for iOS](https://web.archive.org/web/201611221
 
 ----
 
-Related:
-
-- /terms/application
-
-----
-
 Source:
 
 - /sources/joachim-bondo

@@ -19,7 +19,6 @@ A desktop [application](/terms/application) created by [John Del Pizzo](https://
 
 Related:
 
-- /terms/application
 - /terms/name-file
 - /terms/now-up-to-date
 - /terms/personal-information-manager

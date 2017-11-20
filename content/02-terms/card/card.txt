@@ -18,7 +18,6 @@ Card can also refer to a [PC card](/terms/pc-card) or [CompactFlash](/terms/comp
 
 Related:
 
-- /terms/application
 - /terms/application-card
 - /terms/card-latch
 - /terms/card-slot

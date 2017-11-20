@@ -16,7 +16,6 @@ Related:
 
 - /terms/action-names
 - /terms/an2nck
-- /terms/application
 - /terms/card
 - /terms/dateman
 - /terms/moreinfo

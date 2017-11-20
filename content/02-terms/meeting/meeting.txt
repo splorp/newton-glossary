@@ -14,7 +14,6 @@ An entry in the [Date Book](/terms/date-book) application for a specific time du
 
 Related:
 
-- /terms/application
 - /terms/date-book
 - /terms/dateman
 - /terms/dates

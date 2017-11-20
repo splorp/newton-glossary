@@ -15,7 +15,6 @@ An information management [application](/terms/application) created by [Silverwa
 Related:
 
 - /terms/action-names
-- /terms/application
 - /terms/date-book
 - /terms/dateman
 - /terms/dates

@@ -21,7 +21,6 @@ An application developed by [Tactile Systems](/sources/tactile) that allows the 
 
 Related:
 
-- /terms/application
 - /terms/newtonpkg
 - /terms/package
 - /terms/package-file

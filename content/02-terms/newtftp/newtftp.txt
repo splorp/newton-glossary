@@ -20,7 +20,6 @@ A standalone FTP client for [Newton OS](/terms/newton-os) developed by [Tactile 
 
 Related:
 
-- /terms/application
 - /terms/package-installer
 
 ----

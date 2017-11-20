@@ -8,12 +8,13 @@ Date:
 
 Text:
 
-The portion of a Newton device [screen](/terms/screen) between the area where information can be displayed (the [display area](/terms/display-area)) and the edge of the case surrounding the screen.
+The portion of a Newton device [screen](/terms/screen) between the area where information can be displayed (the [display area](/terms/display-area)) and the edge of the case or [bezel](/terms/bezel) surrounding the screen.
 
 ----
 
 Related:
 
+- /terms/bezel
 - /terms/display-area
 - /terms/liquid-crystal-display
 - /terms/screen

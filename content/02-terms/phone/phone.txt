@@ -16,9 +16,11 @@ _This entry requires a screenshot._
 
 Related:
 
+- /terms/calls
 - /terms/keyboard-button
 - /terms/numeric
 - /terms/time-date
+- /terms/touch-tone
 - /terms/typewriter
 
 ----

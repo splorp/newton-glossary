@@ -14,8 +14,8 @@ A daily [checklist](/terms/checklist) in the [Date Book](/terms/date-book) appli
 
 Related:
 
-- /terms/date-book
 - /terms/checklist
+- /terms/date-book
 - /terms/newttodo
 
 ----

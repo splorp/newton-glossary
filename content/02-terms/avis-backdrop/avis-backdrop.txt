@@ -20,7 +20,6 @@ Arguably the most popular feature of Avi’s Backdrop is the ability to set a [b
 
 Related:
 
-- /terms/application
 - /terms/backdrop
 - /terms/background-picture
 - /terms/extras-drawer

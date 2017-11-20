@@ -20,7 +20,6 @@ Notepad is also the original name of the first Newton device, later changed to [
 
 Related:
 
-- /terms/application
 - /terms/backdrop
 - /terms/checklist
 - /terms/notable

@@ -15,7 +15,6 @@ A software program that stores and organizes personal data such as names, addres
 Related:
 
 - /terms/action-names
-- /terms/application
 - /terms/name-file
 - /terms/moreinfo
 - /terms/pim

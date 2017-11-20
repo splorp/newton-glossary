@@ -15,7 +15,6 @@ Software created by [Iambic Software](https://web.archive.org/web/19980526091703
 Related:
 
 - /terms/action-names
-- /terms/application
 - /terms/name-file
 - /terms/newton-connection
 

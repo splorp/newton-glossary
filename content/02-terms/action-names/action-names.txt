@@ -22,7 +22,6 @@ Related:
 
 - /terms/an
 - /terms/an2nck
-- /terms/application
 - /terms/date-book
 - /terms/dateman
 - /terms/dates
