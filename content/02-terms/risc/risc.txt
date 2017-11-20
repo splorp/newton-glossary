@@ -19,7 +19,7 @@ The [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messa
 Related:
 
 - /terms/arm
-- /terms/central-processing-unit
+- /terms/cpu
 - /terms/strongarm
 
 ----

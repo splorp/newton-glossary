@@ -17,7 +17,6 @@ Related:
 - /terms/address
 - /terms/mapping
 - /terms/mmu
-- /terms/memory-management-unit
 - /terms/physical-address
 - /terms/virtual-address
 

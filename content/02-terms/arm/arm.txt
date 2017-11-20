@@ -23,7 +23,7 @@ Early [MessagePad](/terms/messagepad) devices use a 20 MHz ARM 610 processor, wh
 Related:
 
 - /terms/better-disarm
-- /terms/central-processing-unit
+- /terms/cpu
 - /terms/risc
 - /terms/rough-disarm
 - /terms/strongarm

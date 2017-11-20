@@ -18,7 +18,7 @@ Related:
 
 - /terms/arm
 - /terms/better-disarm
-- /terms/central-processing-unit
+- /terms/cpu
 - /terms/hobbit
 - /terms/messagepad-2000
 - /terms/messagepad-2100

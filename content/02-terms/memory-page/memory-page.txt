@@ -17,7 +17,6 @@ Related:
 - /terms/address
 - /terms/magic-pointer
 - /terms/mapping
-- /terms/memory-management-unit
 - /terms/mmu
 - /terms/mmu-tables
 - /terms/physical-address

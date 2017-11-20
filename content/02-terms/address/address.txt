@@ -16,7 +16,6 @@ Related:
 
 - /terms/magic-pointer
 - /terms/mapping
-- /terms/memory-management-unit
 - /terms/memory-page
 - /terms/mmu
 - /terms/mmu-tables

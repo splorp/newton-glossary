@@ -16,8 +16,8 @@ Not to be confused with the Finder, the default file manager found in the variou
 
 Related:
 
-- /terms/frame
 - /terms/find-slip
+- /terms/frame
 
 ----
 

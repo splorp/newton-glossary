@@ -20,7 +20,6 @@ Related:
 - /terms/hobbit
 - /terms/implant
 - /terms/main-logic-board
-- /terms/memory-management-unit
 - /terms/mmu
 - /terms/risc
 - /terms/strongarm

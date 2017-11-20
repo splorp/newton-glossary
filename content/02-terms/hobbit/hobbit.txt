@@ -16,7 +16,7 @@ AT&amp;T went on to use the Hobbit processor in its own pen-based computer, the 
 
 Related:
 
-- /terms/central-processing-unit
+- /terms/cpu
 
 ----
 
