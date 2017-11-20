@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A file containing Macintosh-style [resources](/terms/resource) — such as sounds or bitmaps — used by [Newton Toolkit](/terms/newton-toolkit) during a [project build](/terms/project-build).
+A file containing Mac OS [resources](/terms/resource) — such as sounds, icons, bitmaps, or strings — used by [Newton Toolkit](/terms/newton-toolkit) during a [project build](/terms/project-build).
 
 ----
 
