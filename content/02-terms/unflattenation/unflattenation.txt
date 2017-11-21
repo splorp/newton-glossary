@@ -1,0 +1,17 @@
+Title: Unflattenation
+
+----
+
+Date: 21 November 2017
+
+----
+
+Text:
+
+See [Unflattening](/terms/unflattening)
+
+----
+
+Source:
+
+- /sources/paul-guyot

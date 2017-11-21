@@ -1,0 +1,31 @@
+Title: Flattening
+
+----
+
+Date: 21 November 2017
+
+----
+
+Text:
+
+The process of converting a frame [object](/terms/object) into a stream of bytes before an [entry](/terms/entry) is added to a [soup](/terms/soup). The reverse of this process is [unflattening](/terms/unflattening).
+
+----
+
+Related:
+
+- /terms/entry
+- /terms/flatten
+- /terms/flattened-soup
+- /terms/frame
+- /terms/object
+- /terms/soup
+- /terms/unflatten
+- /terms/unflattenation
+- /terms/unflattening
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

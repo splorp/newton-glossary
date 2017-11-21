@@ -20,6 +20,9 @@ Related:
 - /terms/binary-object
 - /terms/class
 - /terms/entry-alias
+- /terms/flatten
+- /terms/flattened-soup
+- /terms/flattening
 - /terms/frame
 - /terms/function-object
 - /terms/immediate
@@ -36,6 +39,9 @@ Related:
 - /terms/reference
 - /terms/soup
 - /terms/stream-file
+- /terms/unflatten
+- /terms/unflattenation
+- /terms/unflattening
 - /terms/vbo
 - /terms/virtual-binary-object
 

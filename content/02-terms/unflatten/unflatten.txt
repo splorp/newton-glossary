@@ -1,0 +1,31 @@
+Title: Unflatten
+
+----
+
+Date: 21 November 2017
+
+----
+
+Text:
+
+To convert a stream of bytes from a soup [entry](/terms/entry) into a frame [object](/terms/object). To reverse this process, you would [flatten](/terms/flatten) the [soup](/terms/soup) entry.
+
+----
+
+Related:
+
+- /terms/entry
+- /terms/flatten
+- /terms/flattened-soup
+- /terms/flattening
+- /terms/frame
+- /terms/object
+- /terms/soup
+- /terms/unflattenation
+- /terms/unflattening
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

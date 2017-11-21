@@ -20,6 +20,9 @@ Related:
 - /terms/data-definition
 - /terms/entry
 - /terms/finder
+- /terms/flatten
+- /terms/flattened-soup
+- /terms/flattening
 - /terms/function-call-stack
 - /terms/function-object
 - /terms/implementor
@@ -40,6 +43,9 @@ Related:
 - /terms/slot
 - /terms/soup
 - /terms/stack-activation-record
+- /terms/unflatten
+- /terms/unflattenation
+- /terms/unflattening
 - /terms/union-soup
 - /terms/viewframe
 

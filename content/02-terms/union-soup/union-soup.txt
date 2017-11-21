@@ -17,6 +17,7 @@ Related:
 - /terms/default-store
 - /terms/entry
 - /terms/external-store
+- /terms/flattened-soup
 - /terms/internal-store
 - /terms/member-soup
 - /terms/package
