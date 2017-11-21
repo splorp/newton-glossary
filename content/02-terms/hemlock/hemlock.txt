@@ -21,12 +21,12 @@ The name is in reference to the Sesame Street character, [Sherlock Hemlock](http
 
 ----
 
-Source:
-
-- /sources/sean-luke
-
-----
-
 Related:
 
 - /terms/newts-cape
+
+----
+
+Source:
+
+- /sources/sean-luke

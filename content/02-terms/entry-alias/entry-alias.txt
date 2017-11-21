@@ -16,12 +16,10 @@ Related:
 
 - /terms/alias
 - /terms/entry
-- /terms/member-soup
 - /terms/name-reference
 - /terms/object
 - /terms/reference
 - /terms/soup
-- /terms/union-soup
 
 ----
 
