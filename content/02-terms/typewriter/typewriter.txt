@@ -17,6 +17,7 @@ _This entry requires a screenshot._
 Related:
 
 - /terms/keyboard-button
+- /terms/fitaly
 - /terms/numeric
 - /terms/phone
 - /terms/time-date
