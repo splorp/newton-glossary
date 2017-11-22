@@ -14,4 +14,4 @@ See [Unflattening](/terms/unflattening)
 
 Source:
 
-- /sources/paul-guyot
+- /sources/newtontalk
