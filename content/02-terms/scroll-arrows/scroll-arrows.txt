@@ -25,7 +25,6 @@ Related:
 - /terms/universal-scroll-arrows
 - /terms/user-interface
 
-
 ----
 
 Source:

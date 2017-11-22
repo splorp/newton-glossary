@@ -10,7 +10,6 @@ Text:
 
 The hardware independent instructions that are interpreted when a [NewtonScript](/terms/newtonscript) function executes.
 
-
 ----
 
 Related:

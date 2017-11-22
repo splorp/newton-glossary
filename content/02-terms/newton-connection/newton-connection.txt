@@ -14,7 +14,6 @@ Newton Connection is also an [application](/terms/application) for Mac OS X crea
 
 Backup files created by Newton Connection are identified by the `.nbku` file extension.
 
-
 ## Additional Information
 
 [Internet Archive: Newton Connection Kit 1.0 Description](https://web.archive.org/web/20011225150225/http://karchive.info.apple.com/article.html?artnum=12776)

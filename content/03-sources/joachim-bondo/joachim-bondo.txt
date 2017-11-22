@@ -10,7 +10,6 @@ Text:
 
 Developer of the [Deep Green](/terms/deep-green) chess program.
 
-
 ## Additional Information
 
 [Cocoa Stuff Website](http://cocoastuff.dk/)

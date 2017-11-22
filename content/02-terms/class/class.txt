@@ -21,7 +21,6 @@ Related:
 - /terms/symbol
 - /terms/view-class
 
-
 ----
 
 Source:
