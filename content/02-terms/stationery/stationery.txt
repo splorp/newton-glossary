@@ -30,6 +30,7 @@ Related:
 - /terms/notepad
 - /terms/outline
 - /terms/paper
+- /terms/quickfigure-works
 - /terms/recording
 - /terms/spreadsheet
 - /terms/view

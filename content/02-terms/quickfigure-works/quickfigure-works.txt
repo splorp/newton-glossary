@@ -1,0 +1,37 @@
+Title: QuickFigure Works
+
+----
+
+Date: 23 November 2017
+
+----
+
+Text:
+
+A simplified version of the [QuickFigure](/terms/quickfigure) application developed by [PelicanWare](/sources/pelicanware). QuickFigure Works provides the [spreadsheet](/terms/spreadsheet) functionality found in the [Newton Works](/terms/newton-works) application.
+
+![Screenshot of QuickFigure Works](/assets/images/quickfigure-works.gif)
+
+## Additional Information
+
+[Internet Archive: QuickFigure Product Information](http://web.archive.org/web/20031002141719/http://pelicanware.com/qfp.html)
+[UNNA: QuickFigure Works Version 1.0 User’s Manual](http://www.unna.org/unna/applications/NewtonWorks/qfworks101/qfworks.pdf) (PDF)
+[Newton Does It!: QuickFigure Works/Pro “Secret” Functions](http://dettmer.maclab.org/newton/qfprosecrets.html)
+
+----
+
+Related:
+
+- /terms/calculations
+- /terms/graphing-calculator
+- /terms/newton-works
+- /terms/quickfigure
+- /terms/spreadsheet
+- /terms/stationery
+
+----
+
+Source:
+
+- /sources/pelicanware
+- /sources/newton-does-it

@@ -1,0 +1,34 @@
+Title: Spreadsheet
+
+----
+
+Date: 23 November 2017
+
+----
+
+Text:
+
+The document format (or [stationery](/terms/stationery)) provided by the [QuickFigure Works](/terms/quickfigure-works) component of the [Newton Works](/terms/newton-works) application. A spreadsheet allows the user to store, analyze, manipulate, and calculate data such as numbers, formulas, and text.
+
+## Additional Information
+
+[UNNA: The eMate: Learning Works](http://www.unna.org/unna/apple/documentation/eMateISTE-Basics/works.pdf) (PDF)
+
+----
+
+Related:
+
+- /terms/calculations
+- /terms/drawing
+- /terms/graphing-calculator
+- /terms/newton-works
+- /terms/paper
+- /terms/quickfigure
+- /terms/quickfigure-works
+- /terms/stationery
+
+----
+
+Source:
+
+- /sources/pelicanware
