@@ -14,7 +14,7 @@ A simplified version of the [QuickFigure](/terms/quickfigure) application develo
 
 ## Additional Information
 
-[Internet Archive: QuickFigure Product Information](http://web.archive.org/web/20031002141719/http://pelicanware.com/qfp.html)
+[Internet Archive: QuickFigure Product Information](https://web.archive.org/web/20031002141719/http://pelicanware.com/qfp.html)
 [UNNA: QuickFigure Works Version 1.0 User’s Manual](http://www.unna.org/unna/applications/NewtonWorks/qfworks101/qfworks.pdf) (PDF)
 [Newton Does It!: QuickFigure Works/Pro “Secret” Functions](http://dettmer.maclab.org/newton/qfprosecrets.html)
 
