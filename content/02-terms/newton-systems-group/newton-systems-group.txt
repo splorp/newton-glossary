@@ -20,4 +20,4 @@ Related:
 - /terms/llama
 - /terms/newton-inc
 - /terms/nsg
-- /terms/tapped.in
+- /terms/tapped-in
