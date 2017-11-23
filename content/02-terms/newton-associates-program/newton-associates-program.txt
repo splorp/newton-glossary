@@ -22,9 +22,9 @@ Related:
 - /terms/newton-developer-support
 - /terms/newton-partners-program
 - /terms/newton-technology-journal
+- /terms/pie
 - /terms/pie-developer-info
 - /terms/pie-developer-talk
-- /terms/pie
 - /terms/pie-partners-program
 
 ----

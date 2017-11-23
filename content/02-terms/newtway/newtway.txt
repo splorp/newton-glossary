@@ -20,6 +20,13 @@ A simple hardware adapter created by [Doug Parker](/sources/doug-parker) to easi
 
 ----
 
+Related:
+
+- /terms/bazooka
+- /terms/frankenbuckey
+
+----
+
 Source:
 
 - /sources/doug-parker

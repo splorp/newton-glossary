@@ -17,15 +17,21 @@ Implementing stationery involves writing [data definitions](/terms/data-definiti
 Related:
 
 - /terms/auto-part
-- /terms/data-definition
+- /terms/calculations
 - /terms/checklist
+- /terms/data-definition
+- /terms/drawing
 - /terms/eworld
+- /terms/graphing-calculator
 - /terms/hideeworld
-- /terms/outline
 - /terms/name-file
+- /terms/newton-works
 - /terms/note
 - /terms/notepad
+- /terms/outline
+- /terms/paper
 - /terms/recording
+- /terms/spreadsheet
 - /terms/view
 - /terms/view-definition
 
