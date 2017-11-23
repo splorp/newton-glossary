@@ -12,6 +12,12 @@ An integrated [application](/terms/application) developed by [Apple](https://www
 
 Also referred to as [NewtWorks](/terms/newtworks).
 
+## Additional Information
+
+[The Newted Community: NewtonWorks Word Processor User’s Manual](http://www.newted.org/download/manuals/0306284ANWWPUM.PDF) (PDF)
+[The Newted Community: Newton Works Graphing Calculator User’s Manual](http://www.newted.org/download/manuals/0340062ANWGRAFCALCUM.PDF) (PDF)
+[UNNA: The eMate: Learning Works](http://www.unna.org/unna/apple/documentation/eMateISTE-Basics/works.pdf) (PDF)
+
 ----
 
 Related:
