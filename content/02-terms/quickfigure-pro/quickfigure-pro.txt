@@ -8,7 +8,30 @@ Date: 23 November 2017
 
 Text:
 
-See [QuickFigure](/terms/quickfigure)
+A full-featured, standalone [application](/terms/application) developed by [PelicanWare](/sources/pelicanware) that allows the user to create and edit [spreadsheets](/terms/spreadsheet) on a Newton device. A simplified version called [QuickFigure Works](/terms/quickfigure-works) provides most of the same functionality within [Newton Works](/terms/newton-works).
+
+Also known as [QF Pro](/terms/qf-pro).
+
+![Screenshot of QuickFigure Pro](/assets/images/quickfigure-pro.gif)
+
+## Additional Information
+
+[Internet Archive: QuickFigure Product Information](https://web.archive.org/web/20031002141719/http://pelicanware.com/qfp.html)
+[Internet Archive: QuickFigure Pro Version 4.0 User’s Manual](https://web.archive.org/web/20031206143520/http://www.pelicanware.com:80/download/QFP4.pdf)
+[Newton Does It!: QuickFigure Works/Pro “Secret” Functions](http://dettmer.maclab.org/newton/qfprosecrets.html)
+
+----
+
+Related:
+
+- /terms/calculations
+- /terms/graphing-calculator
+- /terms/newton-works
+- /terms/qf-pro
+- /terms/quickfigure
+- /terms/quickfigure-works
+- /terms/spreadsheet
+- /terms/stationery
 
 ----
 
