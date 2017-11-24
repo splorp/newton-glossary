@@ -8,11 +8,12 @@ Date:
 
 Text:
 
-A defunct website which at one time was home to a popular, annotated Newton software archive and the second iteration of the [NewtonTalk](/terms/newtontalk) mailing list.
+A defunct website which at one time was home to a popular, annotated Newton software archive and the second iteration of the [NewtonTalk](/terms/newtontalk) mailing list. A copy of the software archive is currently hosted on the [UNNA](/terms/unna) website.
 
 ## Additional Information
 
 [Internet Archive: Planet Newton Website](https://web.archive.org/web/20050310015435/http://www.planetnewton.com/home.htm)
+[UNNA: download.planetnewton.com](http://mirrors.unna.org/download.planetnewton.com/downindex.asp)
 
 ----
 

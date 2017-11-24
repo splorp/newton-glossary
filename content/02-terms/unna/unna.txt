@@ -18,6 +18,12 @@ A web site dedicated to the preservation of Newton related software, documentati
 
 ----
 
+Related:
+
+- /terms/planet-newton
+
+----
+
 Source:
 
 - /sources/grant-hutchinson
