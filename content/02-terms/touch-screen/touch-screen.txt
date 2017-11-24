@@ -21,6 +21,6 @@ Related:
 - /terms/display-area
 - /terms/liquid-crystal-display
 - /terms/non-display-area
-- /terms/screen
 - /terms/pen
+- /terms/screen
 - /terms/touchpad

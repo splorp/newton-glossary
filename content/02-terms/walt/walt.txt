@@ -22,14 +22,14 @@ The WALT has been referred to as “… a Mac in Newton’s clothing.”
 
 ----
 
-Source:
-
-- /sources/defying-gravity
-
-----
-
-Related;
+Related:
 
 - /terms/screen
 - /terms/touch-screen
 - /terms/pen
+
+----
+
+Source:
+
+- /sources/defying-gravity
