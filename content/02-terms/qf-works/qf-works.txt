@@ -1,0 +1,17 @@
+Title: QF Works
+
+----
+
+Date: 23 November 2017
+
+----
+
+Text:
+
+See [QuickFigure Works](/terms/quickfigure-works)
+
+----
+
+Source:
+
+- /sources/pelicanware

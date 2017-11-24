@@ -1,0 +1,17 @@
+Title: QuickFigure Pro
+
+----
+
+Date: 23 November 2017
+
+----
+
+Text:
+
+See [QuickFigure](/terms/quickfigure)
+
+----
+
+Source:
+
+- /sources/pelicanware
