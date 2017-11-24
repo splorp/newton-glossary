@@ -22,12 +22,15 @@ Also referred to as [NewtWorks](/terms/newtworks).
 
 Related:
 
+- /terms/availworks
 - /terms/backdrop
 - /terms/calculations
 - /terms/drawing
 - /terms/graphing-calculator
 - /terms/newtworks
 - /terms/paper
+- /terms/quickfigure-pro
+- /terms/quickfigure-works
 - /terms/spreadsheet
 - /terms/twerx
 - /terms/works

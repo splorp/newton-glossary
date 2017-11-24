@@ -18,6 +18,7 @@ The document format (or [stationery](/terms/stationery)) provided by the [QuickF
 
 Related:
 
+- /terms/availworks
 - /terms/calculations
 - /terms/drawing
 - /terms/graphing-calculator

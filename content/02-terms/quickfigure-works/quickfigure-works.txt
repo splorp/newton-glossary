@@ -24,6 +24,7 @@ Also known as [QF Works](/terms/qf-works).
 
 Related:
 
+- /terms/availworks
 - /terms/calculations
 - /terms/graphing-calculator
 - /terms/newton-works

@@ -1,0 +1,37 @@
+Title: AvailWorks
+
+----
+
+Date: 24 November 2017
+
+----
+
+Text:
+
+An integrated, multi-function [application](/terms/application) for Newton devices that includes tools for word processing, spreadsheets, charts, drawing, and full-size page layout, plus a large selection of clip art supplied by [T/Maker](https://en.wikipedia.org/wiki/T/Maker). Originally developed by Avail Technology, marketing and development of the software was handed over to [PelicanWare](/sources/pelicanware) in 1996.
+
+
+## Additional Information
+
+[Internet Archive: AvailWorks 3.0 Product Information](https://web.archive.org/web/20031205010441/http://www.pelicanware.com:80/aw.html)
+[Internet Archive: AvailWorks 3.0 User Manual](https://web.archive.org/web/20031206033359/http://www.pelicanware.com:80/download/AW3Man.pdf) (PDF)
+
+----
+
+Related:
+
+- /terms/calculations
+- /terms/drawing
+- /terms/graphing-calculator
+- /terms/newton-works
+- /terms/paper
+- /terms/quickfigure-pro
+- /terms/quickfigure-works
+- /terms/spreadsheet
+- /terms/works
+
+----
+
+Source:
+
+- /sources/pelicanware
