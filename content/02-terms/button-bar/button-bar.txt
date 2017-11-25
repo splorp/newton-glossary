@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A thick black line with graphical [buttons](/terms/button) that perform functions related to the current [application](/terms/application). In earlier versions of [Newton OS](/terms/newton-os), this [user interface](/terms/user-interface) element is known as a [status bar](/terms/status-bar).
+A thick black [line](/terms/line) with graphical [buttons](/terms/button) on it. The [separator bar](/terms/separator-bar) and [status bar](/terms/status-bar) found in most [applications](/terms/application) are both examples of buttons bars.
 
 Button bar also refers to the set of [icons](/terms/icon) located at the bottom of the Newton [screen](/terms/screen) which are used to launch applications. On [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices, the button bar contains user modifiable [soft buttons](/terms/soft-button), all other Newton devices utilize a permanent set of [hard buttons](/terms/hard-button).
 
