@@ -18,6 +18,7 @@ Related:
 - /terms/button-bar
 - /terms/i
 - /terms/prefs
+- /terms/status-bar
 - /terms/user-interface
 
 ----

@@ -39,6 +39,7 @@ Related:
 - /terms/silk-button
 - /terms/silkscreen-button
 - /terms/soft-button
+- /terms/status-bar
 - /terms/tag-button
 - /terms/text-button
 - /terms/universal-scroll-arrows

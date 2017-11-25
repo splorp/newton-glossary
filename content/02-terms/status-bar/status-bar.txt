@@ -1,0 +1,32 @@
+Title: Status Bar
+
+----
+
+Date: 25 November 2017
+
+----
+
+Text:
+
+A thick black line with graphical [buttons](/terms/button) that perform functions related to the current [application](/terms/application).
+
+Also known as a [button bar](/terms/button-bar) in later versions of [Newton OS](/terms/newton-os).
+
+----
+
+Related:
+
+- /terms/button
+- /terms/button-bar
+- /terms/button-host
+- /terms/button-provider
+- /terms/ryo
+- /terms/separator-bar
+- /terms/soft-button
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
