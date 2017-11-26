@@ -19,6 +19,7 @@ Redirect 301 /terms/memory-management-unit http://newtonglossary.com/terms/mmu
 Redirect 301 /terms/patchable-jumptable http://newtonglossary.com/terms/patchable-jump-table
 Redirect 301 /terms/personal-interactive-electronics http://newtonglossary.com/terms/pie
 Redirect 301 /terms/public-jumptable http://newtonglossary.com/terms/public-jump-table
+Redirect 301 /terms/softwareburo-muller http://newtonglossary.com/sources/softwareburo-muller
 
 # Redirect legacy sources
 Redirect 301 /sources/newton-toolkit-user-guide http://newtonglossary.com/sources/newton-toolkit-users-guide

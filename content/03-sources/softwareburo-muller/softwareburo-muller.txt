@@ -2,7 +2,7 @@ Title: Softwarebüro Müller
 
 ----
 
-Date:
+Date: 26 November 2017
 
 ----
 
@@ -13,10 +13,3 @@ A German software development company that produced numerous [applications](/ter
 ## Additional Information
 
 [Softwarebüro Müller Website](http://www.softwarebueromueller.de/)
-
-----
-
-Related:
-
-- /terms/sbm
-- /terms/sbm-utilities
