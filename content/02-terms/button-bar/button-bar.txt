@@ -16,11 +16,13 @@ Button bar also refers to the set of [icons](/terms/icon) located at the bottom 
 
 Related:
 
+- /terms/barkeep
 - /terms/button
 - /terms/button-host
 - /terms/button-provider
 - /terms/hard-button
 - /terms/icon
+- /terms/killbb
 - /terms/ryo
 - /terms/separator-bar
 - /terms/silk-button

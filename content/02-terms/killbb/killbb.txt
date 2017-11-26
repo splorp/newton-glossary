@@ -21,7 +21,6 @@ Related:
 - /terms/barkeep
 - /terms/button
 - /terms/button-bar
-- /terms/icon
 - /terms/ryo
 - /terms/soft-button
 - /terms/user-interface
