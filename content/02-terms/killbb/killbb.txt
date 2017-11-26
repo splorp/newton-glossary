@@ -8,7 +8,7 @@ Date: 26 November 2017
 
 Text:
 
-A software [extension](/terms/extension) developed by [Innovative Computer Solutions](/sources/innovative-computer-solutions) which allows to the user to temporarily disable the [button bar](/terms/button-bar) on [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices. KillBB basically provides a full-screen mode for [Newton OS](/terms/newton-os).
+A software [extension](/terms/extension) developed by [Innovative Computer Solutions](/sources/innovative-computer-solutions) which allows to the user to temporarily disable the [button bar](/terms/button-bar) on [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices, basically providing full-screen mode.
 
 ## Additional Information
 
