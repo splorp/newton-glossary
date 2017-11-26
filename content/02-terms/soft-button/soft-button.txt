@@ -14,11 +14,13 @@ A user modifiable [button](/terms/button) located in the [button bar](/terms/but
 
 Related:
 
+- /terms/barkeep
 - /terms/button
 - /terms/button-bar
 - /terms/extras-drawer
 - /terms/hard-button
 - /terms/icon
+- /terms/killbb
 - /terms/user-interface
 
 ----

@@ -20,11 +20,13 @@ RYO is an acronym for “roll your own”.
 
 Related:
 
+- /terms/barkeep
 - /terms/button
 - /terms/button-bar
 - /terms/diy
 - /terms/hard-button
 - /terms/icon
+- /terms/killbb
 - /terms/silk-button
 - /terms/silkscreen-button
 - /terms/soft-button
