@@ -24,8 +24,8 @@ Related:
 - /terms/notification-slip
 - /terms/routing-slip
 - /terms/slip
+- /terms/status-bar
 - /terms/status-box
-- /terms/status-slip
 - /terms/system-ram
 - /terms/view
 

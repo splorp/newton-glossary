@@ -21,6 +21,8 @@ Related:
 - /terms/ryo
 - /terms/separator-bar
 - /terms/soft-button
+- /terms/status-box
+- /terms/status-slip
 - /terms/user-interface
 
 ----
