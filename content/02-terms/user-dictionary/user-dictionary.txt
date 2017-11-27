@@ -19,6 +19,7 @@ Related:
 - /terms/dictionary
 - /terms/dictionary-button
 - /terms/enumerated-dictionary
+- /terms/expand-dictionary
 - /terms/grammar
 - /terms/handwriting-recognition
 - /terms/lexical-dictionary

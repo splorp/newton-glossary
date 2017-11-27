@@ -1,0 +1,35 @@
+Title: Expand Dictionary
+
+----
+
+Date: 27 November 2017
+
+----
+
+Text:
+
+A [dictionary](/terms/dictionary) that allows the user to define words and phrases that are automatically substituted for abbreviations. Along with providing common substitutions, expansions can also be used to correct recurring [handwriting recognition](/terms/handwriting-recognition) mistakes, since each word to be expanded is added to both the [user dictionary](/terms/user-dictionary) and the expand dictionary.
+
+----
+
+Related:
+
+- /terms/auto-add-dictionary
+- /terms/custom-dictionary
+- /terms/dictionary
+- /terms/dictionary-button
+- /terms/enumerated-dictionary
+- /terms/grammar
+- /terms/handwriting-recognition
+- /terms/lexical-dictionary
+- /terms/personal-word-list
+- /terms/recently-written-words
+- /terms/system-dictionary
+- /terms/user-dictionary
+- /terms/word-list
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

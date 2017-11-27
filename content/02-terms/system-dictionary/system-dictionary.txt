@@ -18,6 +18,7 @@ Related:
 - /terms/custom-dictionary
 - /terms/dictionary
 - /terms/enumerated-dictionary
+- /terms/expand-dictionary
 - /terms/grammar
 - /terms/handwriting-recognition
 - /terms/lexical-dictionary
