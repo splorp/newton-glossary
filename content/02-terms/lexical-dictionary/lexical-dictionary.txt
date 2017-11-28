@@ -23,6 +23,7 @@ Related:
 - /terms/handwriting-recognition
 - /terms/personal-word-list
 - /terms/recently-written-words
+- /terms/review-dictionary
 - /terms/system-dictionary
 - /terms/user-dictionary
 

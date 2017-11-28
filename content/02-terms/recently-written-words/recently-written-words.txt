@@ -26,6 +26,7 @@ Related:
 - /terms/handwriting-recognition
 - /terms/lexical-dictionary
 - /terms/personal-word-list
+- /terms/review-dictionary
 - /terms/system-dictionary
 - /terms/user-dictionary
 

@@ -1,14 +1,14 @@
-Title: Grammar
+Title: Review Dictionary
 
 ----
 
-Date:
+Date: 28 November 2017
 
 ----
 
 Text:
 
-A set of rules defining the format of an entity to be recognized, such as dates, times, telephone numbers, or currency values. [Lexical dictionaries](/terms/lexical-dictionary) are composed of sets of grammars.
+An [object](/terms/object) that provides [methods](/terms/method) for manipulating the contents of the [user dictionary](/terms/user-dictionary), the [expand dictionary](/terms/expand-dictionary), and the [auto-add dictionary](/terms/auto-add-dictionary).
 
 ----
 
@@ -17,13 +17,14 @@ Related:
 - /terms/auto-add-dictionary
 - /terms/custom-dictionary
 - /terms/dictionary
+- /terms/dictionary-button
 - /terms/enumerated-dictionary
 - /terms/expand-dictionary
+- /terms/grammar
 - /terms/handwriting-recognition
 - /terms/lexical-dictionary
 - /terms/personal-word-list
 - /terms/recently-written-words
-- /terms/review-dictionary
 - /terms/system-dictionary
 - /terms/user-dictionary
 

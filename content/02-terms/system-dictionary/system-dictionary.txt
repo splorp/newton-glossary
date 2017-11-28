@@ -24,6 +24,7 @@ Related:
 - /terms/lexical-dictionary
 - /terms/personal-word-list
 - /terms/recently-written-words
+- /terms/review-dictionary
 - /terms/user-dictionary
 
 ----
