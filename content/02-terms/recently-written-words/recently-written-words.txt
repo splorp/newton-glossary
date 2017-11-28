@@ -27,6 +27,7 @@ Related:
 - /terms/lexical-dictionary
 - /terms/personal-word-list
 - /terms/review-dictionary
+- /terms/symbols-dictionary
 - /terms/system-dictionary
 - /terms/user-dictionary
 

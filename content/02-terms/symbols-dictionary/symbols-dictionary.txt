@@ -1,14 +1,14 @@
-Title: System Dictionary
+Title: Symbols Dictionary
 
 ----
 
-Date: 27 October 2017
+Date: 28 November 2017
 
 ----
 
 Text:
 
-A default [dictionary](/terms/dictionary) supplied by [Newton OS](/terms/newton-os) which defines commonly used words and [grammar](/terms/grammar) constructs used by the text recognizers. System dictionaries are either an [enumerated dictionary](/terms/enumerated-dictionary) or a [lexical dictionary](/terms/lexical-dictionary).
+A [dictionary](/terms/dictionary) that is enabled for any [view](/terms/view) that performs [text recognition](/terms/text-recognition). The symbols dictionary includes alphanumeric characters and punctuation marks — allowing the user to correct single [characters](/terms/character) by writing over them on the [screen](/terms/screen).
 
 ----
 
@@ -17,6 +17,7 @@ Related:
 - /terms/auto-add-dictionary
 - /terms/custom-dictionary
 - /terms/dictionary
+- /terms/dictionary-button
 - /terms/enumerated-dictionary
 - /terms/expand-dictionary
 - /terms/grammar
@@ -26,6 +27,7 @@ Related:
 - /terms/recently-written-words
 - /terms/review-dictionary
 - /terms/symbols-dictionary
+- /terms/system-dictionary
 - /terms/user-dictionary
 
 ----

@@ -1,0 +1,11 @@
+Title: Text Recognition
+
+----
+
+Date: 28 November 2017
+
+----
+
+Text:
+
+See [Handwriting Recognition](/terms/handwriting-recognition)

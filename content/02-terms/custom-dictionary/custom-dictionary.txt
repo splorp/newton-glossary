@@ -25,6 +25,7 @@ Related:
 - /terms/personal-word-list
 - /terms/recently-written-words
 - /terms/review-dictionary
+- /terms/symbols-dictionary
 - /terms/system-dictionary
 - /terms/user-dictionary
 

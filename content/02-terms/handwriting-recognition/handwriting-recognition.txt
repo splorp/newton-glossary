@@ -8,7 +8,9 @@ Date:
 
 Text:
 
-The algorithmic conversion of handwritten or printed text into digital text. Also referred to as [HWR](/terms/hwr).
+The algorithmic conversion of handwritten or printed text into digital text.
+
+Also referred to as [text recognition](/terms/text-recognition) and [HWR](/terms/hwr).
 
 ----
 
@@ -34,5 +36,6 @@ Related:
 - /terms/recognizer
 - /terms/rosetta
 - /terms/rosetta-stone
+- /terms/text-recognition
 - /terms/try-letters
 - /terms/writehere
