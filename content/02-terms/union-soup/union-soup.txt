@@ -26,6 +26,7 @@ Related:
 - /terms/soup
 - /terms/soup-icon
 - /terms/soup-mover
+- /terms/soupervisor-mechanism
 - /terms/store
 - /terms/store-part
 

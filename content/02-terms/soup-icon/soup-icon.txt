@@ -16,9 +16,12 @@ Related:
 
 - /terms/extras-drawer
 - /terms/icon
+- /terms/member-soup
 - /terms/soup
 - /terms/soup-mover
+- /terms/soupervisor-mechanism
 - /terms/store
+- /terms/union-soup
 - /terms/user-interface
 
 ----

@@ -17,9 +17,11 @@ Related:
 - /terms/entry
 - /terms/extras-drawer
 - /terms/icon
+- /terms/member-soup
 - /terms/soup
 - /terms/soup-icon
 - /terms/soup-mover
+- /terms/union-soup
 
 ----
 
