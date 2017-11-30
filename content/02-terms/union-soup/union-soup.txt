@@ -25,6 +25,7 @@ Related:
 - /terms/part
 - /terms/soup
 - /terms/soup-icon
+- /terms/soup-mover
 - /terms/store
 - /terms/store-part
 

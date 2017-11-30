@@ -19,6 +19,7 @@ Related:
 - /terms/icon
 - /terms/soup
 - /terms/soup-icon
+- /terms/soup-mover
 
 ----
 

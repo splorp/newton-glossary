@@ -21,6 +21,7 @@ Related:
 - /terms/package-store
 - /terms/part
 - /terms/soup
+- /terms/soup-mover
 - /terms/store
 - /terms/store-part
 - /terms/union-soup

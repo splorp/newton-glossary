@@ -1,0 +1,33 @@
+Title: Soup Mover
+
+----
+
+Date: 29 November 2017
+
+----
+
+Text:
+
+An [extension](/terms/extension) created by [Eckhart Köppen](/sources/eckhart-koppen) that enables access to a filing [slip](/terms/slip) in the Storage [folder](/terms/folder) in the [Extras Drawer](/terms/extras-drawer). Soup Mover allows the user to easily move [soup](/terms/soup) entries to a specified [store](/terms/store).
+
+## Additional Information
+
+[40hz: Soup Mover Product Information](http://40hz.org/Pages/Soup%20Mover)
+
+----
+
+Related:
+
+- /terms/member-soup
+- /terms/soup
+- /terms/soup-icon
+- /terms/soup-mover
+- /terms/soupervisor-mechanism
+- /terms/store
+- /terms/union-soup
+
+----
+
+Source:
+
+- /sources/eckhart-koppen
