@@ -2,7 +2,6 @@
 .editorconfig
 .gitignore
 license.php
-assets/artwork/
 kirby/
 panel/
 site/cache/
