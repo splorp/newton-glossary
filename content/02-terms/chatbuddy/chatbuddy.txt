@@ -21,6 +21,7 @@ An Internet Relay Chat (IRC) client for [Newton OS](/terms/newton-os) developed 
 Related:
 
 - /terms/ncq
+- /terms/newtonim
 
 ----
 

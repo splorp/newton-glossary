@@ -1,0 +1,33 @@
+Title: NewtonIM
+
+----
+
+Date: 30 November 2017
+
+----
+
+Text:
+
+An instant messaging client for [Newton OS](/terms/newton-os) developed by [Jake Bordens](/sources/jake-bordens) and [Paul Guyot](/sources/paul-guyot). NewtonIM is compatible with the [Jabber](https://www.jabber.org/) protocol, but only implements a subset of its features.
+
+Also referred to as [NIM](/terms/nim).
+
+![Screenshot of NewtonIM](/assets/images/newtonim.gif)
+
+## Additional Information
+
+[All About Jake: NewtonIM Product Information](http://www.allaboutjake.com/newton/newtonim/)
+[Jabber.org Website](https://www.jabber.org/)
+
+----
+
+Related:
+
+- /terms/chatbuddy
+- /terms/ncq
+
+----
+
+Source:
+
+- /sources/jake-bordens
