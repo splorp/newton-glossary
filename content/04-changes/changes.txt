@@ -20,13 +20,15 @@ Recently added terms and sources can be found on the [latest additions](/latest)
 
 ## 2.4.2
 
-Terms: _$t
-Sources: _$s
+01 December 2017
+
+Terms: 1,214
+Sources: 119
 
 ### Summary of changes:
 
-+ Added new terms
-+ Added new sources
++ Added 59 new terms
++ Added 10 new sources
 + Updated and expanded dozens of existing entries
 + Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-xml-sitemap) plugin to version 1.0.0
 + Removed contextual header elements from page templates
