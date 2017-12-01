@@ -10,15 +10,20 @@ Text:
 
 An instant messaging [application](/terms/application) for [Newton OS](/terms/newton-os). NCQ is compatible with the standard [ICQ protocol](https://web.archive.org/web/20140703194702/http://www.ihse.net/icq/), but only implements a subset of its features.
 
+Also referred to as [NewtICQ](/terms/newticq).
+
+![Screenshot of NCQ](/assets/images/ncq.gif)
+
 ## Additional Information
 
-[Internet Archive: NCQ Product Information](https://web.archive.org/web/20001014030516/http://icebergtech.hypermart.net/NCQ/Default.htm)
+[Internet Archive: NCQ 1.0a Product Information](https://web.archive.org/web/20030413200248/http://icebergtech.hypermart.net:80/NCQ/)
 
 ----
 
 Related:
 
 - /terms/chatbuddy
+- /terms/newticq
 - /terms/newtonim
 
 ----
