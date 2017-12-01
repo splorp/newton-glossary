@@ -10,7 +10,7 @@ Description: An almost definitive guide to Newton-related terms and trivia.
 
 ----
 
-Keywords: apple, newton, pda, messagepad, emate, computer, glossary, dictionary, reference
+Keywords: apple, newton, pda, messagepad, emate, handheld, computer, technology, glossary, dictionary, reference
 
 ----
 
@@ -20,4 +20,4 @@ Powered by (link: https://getkirby.com/ text: Kirby title: The file-based conten
 
 ----
 
-Version: 2.4.2
+Version: 2.4.3
