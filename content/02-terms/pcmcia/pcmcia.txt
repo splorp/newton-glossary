@@ -12,7 +12,7 @@ Personal Computer Memory Card International Association
 
 An international organization founded in 1989 to establish standards for integrated circuit cards and to promote interchangeability among mobile computing platforms. PCMCIA is also used to describe the type of removable [PC cards](/terms/pc-card) used by Newton devices for storage, connectivity, and other peripherals.
 
-Jokingly referred to as _People Can’t Remember Computer Industry Acronyms_ because of its rather lengthy nature.
+Colloquially referred to as _People Can’t Remember Computer Industry Acronyms_ because of its rather lengthy nature.
 
 ## Additional Information
 

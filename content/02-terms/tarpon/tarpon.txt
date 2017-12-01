@@ -10,7 +10,7 @@ Text:
 
 A ruggedized Newton device developed by [Digital Ocean](https://web.archive.org/web/19970124001013/http://digitalocean.com/). Similar to the Digital Ocean [Seahorse](/terms/seahorse), the Tarpon featured technologies such as built-in wireless networking, peer-to-peer voice communication, and optional GPS. The Tarpon is a modified and improved version of the Harris Dracon [SuperTech 2000](/terms/supertech-2000).
 
-A third party device that utilizes a licensed version of the [Newton OS](/terms/newton-os) is often referred to as a [clone](/terms/clone).
+A third party device that utilizes a licensed version of the [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
 
 ## Additional Information
 

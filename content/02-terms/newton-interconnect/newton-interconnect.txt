@@ -8,7 +8,9 @@ Date:
 
 Text:
 
-The unique 26-pin, subminiature connector manufactured by [JAE](/terms/jae) used on [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate](/terms/emate-300) devices. The port provides access to serial and [AppleTalk](/terms/appletalk) communication, audio input and output, power, as well as automatic sensing of when a device is docked. Also referred to as the [NIC](/terms/nic).
+The unique 26-pin, subminiature connector manufactured by [JAE](/terms/jae) used on [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate](/terms/emate-300) devices. The port provides access to serial and [AppleTalk](/terms/appletalk) communication, audio input and output, power, as well as automatic sensing of when a device is docked.
+
+Also referred to as the [NIC](/terms/nic).
 
 ## Additional Information
 

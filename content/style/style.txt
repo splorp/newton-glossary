@@ -39,9 +39,21 @@ _Examples:_
 
 _Examples:_
 
-+ Use “Also referred to as …” if the referenced term is as common or less common than the source term
-+ Use “Commonly referred to as …” if the referenced term is more common than the source term
-+ Use “Mistakenly referred to as …” if the referenced term is an commonly misspelled or mangled version of the source term
++ Also referred to as …
+
+Use if the referenced term is as common or less common than the source term. In some cases, such as a nickname or alternate spelling, the more personal phrase “Also known as …” can be used.
+
++ Commonly referred to as …
+
+Use if the referenced term is more common than the source term.
+
++ Mistakenly referred to as …
+
+Use if the referenced term is an commonly misspelled or mangled version of the source term.
+
++ Colloquially referred to as …
+
+Use if the referenced term is a quirky or derogatory name for the source term.	
 
 ## Capitalization of terms
 
