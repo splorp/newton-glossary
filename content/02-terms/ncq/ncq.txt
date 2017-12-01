@@ -19,6 +19,7 @@ An instant messaging [application](/terms/application) for [Newton OS](/terms/ne
 Related:
 
 - /terms/chatbuddy
+- /terms/newtonim
 
 ----
 
