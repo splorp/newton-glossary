@@ -10,7 +10,7 @@ Text:
 
 A developer tool for enabling wireless messaging devices under [Newton OS](/terms/newton-os) 2.0 and later. The enabler [package](/terms/package) works in conjunction with an [extension](/terms/extension) known as a [message module](/terms/message-module), which provides communication level functionality for a specific messaging device, such as the [Newton Messaging Card](/terms/newton-messaging-card), Socket [PageCard](/terms/pagecard), or Motorola [Tango](/terms/tango) pager.
 
-Also known as [NME](/terms/nme).
+Also referred to as [NME](/terms/nme).
 
 ## Additional Information
 

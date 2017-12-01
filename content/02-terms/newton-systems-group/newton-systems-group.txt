@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The Newton platform development group within [Apple](https://www.apple.com/). Also known as [NSG](/terms/nsg).
+The Newton platform development group within [Apple](https://www.apple.com/). Also referred to as [NSG](/terms/nsg).
 
 ----
 

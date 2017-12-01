@@ -10,7 +10,7 @@ Text:
 
 A full-featured, standalone [application](/terms/application) developed by [PelicanWare](/sources/pelicanware) that allows the user to create and edit [spreadsheets](/terms/spreadsheet) on a Newton device. A simplified version called [QuickFigure Works](/terms/quickfigure-works) provides most of the same functionality within [Newton Works](/terms/newton-works).
 
-Also known as [QF Pro](/terms/qf-pro).
+Also referred to as [QF Pro](/terms/qf-pro).
 
 ![Screenshot of QuickFigure Pro](/assets/images/quickfigure-pro.gif)
 
