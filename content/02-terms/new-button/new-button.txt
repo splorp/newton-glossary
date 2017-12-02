@@ -1,0 +1,25 @@
+Title: New Button
+
+----
+
+Date: 02 December 2017
+
+----
+
+Text:
+
+A [button](/terms/button) that when [tapped](/terms/tapped) allows the user create a new item in the current [application](/terms/application). For example, creating a new [note](/terms/note) in the [Notepad](/terms/notepad), a new [card](/terms/card) in the [Name File](/terms/name-file), or a new [meeting](/terms/meeting) in the [Date Book](/terms/date-book).
+
+----
+
+Related:
+
+- /terms/button
+- /terms/text-button
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995

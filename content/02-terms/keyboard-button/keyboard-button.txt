@@ -14,14 +14,11 @@ A [button](/terms/button) that displays an onscreen keyboard for entering text a
 
 Related:
 
-- /terms/action-button
 - /terms/button
 - /terms/fitaly
-- /terms/folder-button
 - /terms/numeric
 - /terms/phone
 - /terms/picker
-- /terms/tag-button
 - /terms/time-date
 - /terms/typewriter
 - /terms/user-interface

@@ -14,14 +14,11 @@ A [button](/terms/button) that allows the user to file items located in the [Not
 
 Related:
 
-- /terms/action-button
 - /terms/button
 - /terms/folder
 - /terms/folder-tab
 - /terms/global-folder
-- /terms/keyboard-button
 - /terms/local-folder
-- /terms/tag-button
 - /terms/unfiled
 - /terms/unfiled-icons
 - /terms/user-interface

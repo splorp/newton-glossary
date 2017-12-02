@@ -18,8 +18,7 @@ Related:
 - /terms/action-picker
 - /terms/button
 - /terms/envelope-button
-- /terms/folder-button
-- /terms/keyboard-button
+- /terms/new-button
 - /terms/picker
 - /terms/routing
 - /terms/routing-button
