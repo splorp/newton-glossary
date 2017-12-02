@@ -10,7 +10,7 @@ Text:
 
 A Newton device developed by Sharp Electronics. Two versions of the ExpertPad were produced, the ExpertPad [PI-7000](/terms/pi-7000) was equivalent to the [Original MessagePad](/terms/original-messagepad) (OMP) and the ExpertPad [PI-7100](/terms/pi-7100) was equivalent to a [MessagePad 100](/terms/messagepad-100).
 
-A third party device that utilizes a licensed version of the [Newton OS](/terms/newton-os) is often referred to as a [clone](/terms/clone).
+A third party device that utilizes a licensed version of the [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
 
 ----
 
