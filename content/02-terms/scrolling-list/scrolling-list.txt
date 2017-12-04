@@ -20,6 +20,7 @@ Related:
 - /terms/local-scroll-arrows
 - /terms/scroll
 - /terms/scroll-arrows
+- /terms/scroller
 - /terms/universal-scroll-arrows
 - /terms/user-interface
 

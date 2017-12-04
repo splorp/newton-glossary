@@ -1,0 +1,32 @@
+Title: Scroller
+
+----
+
+Date: 03 December 2017
+
+----
+
+Text:
+
+A set of icon-based [buttons](/terms/button) that allow the user to [scroll](/terms/scroll) horizontally or vertically through an area of content that is larger than the current [view](/terms/view). Several different scroller configurations are used in [Newton OS](/terms/newton-os), generally consisting of up/down and left/right arrows.
+
+The function of a scroller is not connected to the function of the [scroll arrows](/terms/scroll-arrows) located on the [button bar](/terms/button-bar).
+
+----
+
+Related:
+
+- /terms/button
+- /terms/icon
+- /terms/local-scroll-arrows
+- /terms/scroll
+- /terms/scroll-arrows
+- /terms/scrolling-list
+- /terms/universal-scroll-arrows
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

@@ -21,6 +21,7 @@ Related:
 - /terms/local-scroll-arrows
 - /terms/picture-button
 - /terms/scroll
+- /terms/scroller
 - /terms/scrolling-list
 - /terms/universal-scroll-arrows
 - /terms/user-interface

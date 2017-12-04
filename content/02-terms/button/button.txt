@@ -37,6 +37,7 @@ Related:
 - /terms/routing-button
 - /terms/ryo
 - /terms/scroll-arrows
+- /terms/scroller
 - /terms/silk-button
 - /terms/silkscreen-button
 - /terms/soft-button

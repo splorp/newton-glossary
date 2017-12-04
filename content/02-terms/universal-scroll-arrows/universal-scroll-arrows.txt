@@ -23,6 +23,7 @@ Related:
 - /terms/picture-button
 - /terms/scroll
 - /terms/scroll-arrows
+- /terms/scroller
 - /terms/scrolling-list
 - /terms/user-interface
 
