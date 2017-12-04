@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-An [application](/terms/application) used to change the [font](/terms/font) attributes of the currently [selected](/terms/select) text. Attributes include the family, style, and [point](/terms/point) size of the font.
+An [application](/terms/application) in the form of a floating [palette](/terms/palette) that is used to modify various attributes of the currently [selected](/terms/select) text. Attributes include the [font](/terms/font) family, [font style](/terms/font-style), and [point](/terms/point) size. Styles is also used to adjust the pen width when drawing [shapes](/terms/shapes) and [sketches](/terms/sketches).
 
 ![Screenshot of the Styles Palette](/assets/images/styles.gif)
 
@@ -24,3 +24,7 @@ Related:
 - /terms/shapes
 - /terms/sketches
 - /terms/text-run
+
+----
+
+- /sources/messagepad-2000-user-manual

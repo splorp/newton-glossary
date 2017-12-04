@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A pair of icon-based [buttons](/terms/button) used to [scroll](/terms/scroll) displayed data, located in the standard [button bar](/terms/button-bar) on all Newton devices.
+A pair of icon-based [buttons](/terms/button) used to [scroll](/terms/scroll) an area of content displayed on the [screen](/terms/screen). Universal scroll arrows are located in the standard [button bar](/terms/button-bar) found on all Newton devices.
 
 ----
 

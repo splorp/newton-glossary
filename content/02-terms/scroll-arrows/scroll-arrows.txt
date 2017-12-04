@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A pair of icon-based [buttons](/terms/button) used to [scroll](/terms/scroll) displayed data.
+A pair of icon-based [buttons](/terms/button) used to [scroll](/terms/scroll) an area of content displayed on the [screen](/terms/screen).
 
 ----
 

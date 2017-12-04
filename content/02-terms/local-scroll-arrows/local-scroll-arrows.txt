@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A pair of [buttons](/terms/button) modeled after standard [scroll arrows](/terms/scroll-arrows) that are used to control a [scrolling list](/terms/scrolling-list) of text items within a specific [application](/terms/application).
+A pair of icon-based [buttons](/terms/button) modeled after standard [scroll arrows](/terms/scroll-arrows) that are used to control a [scrolling list](/terms/scrolling-list) of text items within a specific [application](/terms/application).
 
 ----
 
