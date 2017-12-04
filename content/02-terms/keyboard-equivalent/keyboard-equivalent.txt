@@ -18,6 +18,7 @@ Related:
 
 - /terms/auto-repeat
 - /terms/type-ahead
+- /terms/typewriter
 
 ----
 

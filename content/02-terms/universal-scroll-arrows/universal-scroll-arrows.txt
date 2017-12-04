@@ -20,7 +20,6 @@ Related:
 - /terms/clanking
 - /terms/icon
 - /terms/local-scroll-arrows
-- /terms/picture-button
 - /terms/scroll
 - /terms/scroll-arrows
 - /terms/scroller

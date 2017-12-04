@@ -17,6 +17,7 @@ The default onscreen keyboard that appears when the [keyboard button](/terms/key
 Related:
 
 - /terms/keyboard-button
+- /terms/keyboard-equivalent
 - /terms/fitaly
 - /terms/numeric
 - /terms/phone
