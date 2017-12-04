@@ -18,7 +18,9 @@ Related:
 - /terms/button
 - /terms/diamond
 - /terms/list
+- /terms/new-picker
 - /terms/picker-list
+- /terms/tag-picker
 - /terms/user-interface
 
 ----

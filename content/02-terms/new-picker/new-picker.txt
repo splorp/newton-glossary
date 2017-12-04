@@ -1,0 +1,26 @@
+Title: New Picker
+
+----
+
+Date: 04 December 2017
+
+----
+
+Text:
+
+A list of various item creation options available in the current [application](/terms/application). Activated by [tapping](/terms/tapping) on the [new button](/terms/new-button).
+
+----
+
+Related:
+
+- /terms/button
+- /terms/picker
+- /terms/new-button
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

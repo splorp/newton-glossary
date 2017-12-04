@@ -20,12 +20,10 @@ Related:
 - /terms/action-picker
 - /terms/button
 - /terms/envelope-button
-- /terms/new-button
 - /terms/picker
 - /terms/routing
 - /terms/routing-button
 - /terms/routing-slip
-- /terms/tag-button
 - /terms/user-interface
 
 ----
