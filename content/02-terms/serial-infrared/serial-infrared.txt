@@ -1,0 +1,38 @@
+Title: Serial Infrared
+
+----
+
+Date: 04 December 2017
+
+----
+
+Text:
+
+Transferring data using an [IrDA](/terms/irda)-compatible [infrared](/terms/infrared) connection at a rate up to 115 kBaud. As opposed to [Fast Infrared](/terms/fast-infrared) which can transfer data at a rate up to 4 MBaud. The [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate 300](/terms/emate-300) utilize Serial Infrared transceivers.
+
+Also referred to as [Slow Infrared](/terms/slow-infrared) and [SIR](/terms/sir).
+
+## Additional Information
+
+[Smart Dog Software: Newton IrDA White Paper](http://www.smartdogsw.com/backtalk/whitepaper.shtml)
+
+----
+
+Related:
+
+- /terms/ask
+- /terms/beaming
+- /terms/fast-infrared
+- /terms/slow-infrared
+- /terms/infrared
+- /terms/irda
+- /terms/irlap
+- /terms/newtir
+- /terms/squirting
+
+-----
+
+Source:
+
+- /sources/smartdog
+- /sources/newton-programmers-guide

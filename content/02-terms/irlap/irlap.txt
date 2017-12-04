@@ -10,22 +10,26 @@ Text:
 
 Infrared Link Access Protocol
 
-The mandatory link access layer of the [IrDA](/terms/irda) communications [protocol](/terms/protocol) specification.
+The mandatory link access layer of the [IrDA](/terms/irda) communications [protocol](/terms/protocol) specification. IrLAP is built on top of [Serial Infrared](/terms/serial-infrared) (SIR) and/or [Fast Infrared](/terms/fast-infrared) (FIR).
 
 ----
 
 Related:
 
 - /terms/beaming
+- /terms/fast-infrared
 - /terms/ircomm
 - /terms/irda
 - /terms/irda-lap
 - /terms/irlmp
 - /terms/protocol
+- /terms/serial-infrared
 - /terms/squirting
+- /terms/tinytp
 
 ----
 
 Source:
 
 - /sources/newton-infrared-faq
+- /sources/newton-programmers-guide

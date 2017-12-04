@@ -24,9 +24,9 @@ Related:
 - /terms/irda
 - /terms/newtir
 - /terms/protocol
+- /terms/serial-infrared
 - /terms/sharp-ask
 - /terms/sharpir
-- /terms/slow-infrared
 - /terms/squirting
 
 ----

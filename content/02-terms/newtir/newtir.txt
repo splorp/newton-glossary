@@ -21,7 +21,7 @@ Related:
 - /terms/infrared-window
 - /terms/irda
 - /terms/protocol
-- /terms/slow-infrared
+- /terms/serial-infrared
 - /terms/squirting
 
 ----

@@ -8,10 +8,10 @@ Date:
 
 Text:
 
-See [Slow Infrared](/terms/slow-infrared)
+See [Serial Infrared](/terms/serial-infrared) and [Slow Infrared](/terms/slow-infrared)
 
 ----
 
 Source:
 
-- /sources/smartdog
+- /sources/newton-programmers-guide

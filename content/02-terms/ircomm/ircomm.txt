@@ -10,7 +10,7 @@ Text:
 
 Infrared Communications Protocol
 
-The optional communications protocol layer of the [IrDA](/terms/irda) communications [protocol](/terms/protocol) specification, which allows an [infrared](/terms/infrared) device to behave like a serial or parallel port. IrCOMM sits on top of the [IrLMP](/terms/irlmp) layer.
+The optional communications protocol layer of the [IrDA](/terms/irda) communications [protocol](/terms/protocol) specification, which allows an [infrared](/terms/infrared) device to behave like a serial or parallel port. IrCOMM is built on the [TinyTP](/terms/tinytp) transport, which is turn sits on top of the [IrLMP](/terms/irlmp) layer.
 
 ----
 
@@ -23,9 +23,11 @@ Related:
 - /terms/irlmp
 - /terms/protocol
 - /terms/squirting
+- /terms/tinytp
 
 ----
 
 Source:
 
 - /sources/newton-infrared-faq
+- /sources/newton-programmers-guide

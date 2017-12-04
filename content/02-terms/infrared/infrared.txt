@@ -23,9 +23,9 @@ Related:
 - /terms/irlap
 - /terms/irlmp
 - /terms/newtir
+- /terms/serial-infrared
 - /terms/sharp-ask
 - /terms/sharpir
-- /terms/slow-infrared
 - /terms/squirting
 
 -----
