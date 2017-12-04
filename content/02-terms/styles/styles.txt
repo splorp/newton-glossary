@@ -10,6 +10,8 @@ Text:
 
 An [application](/terms/application) used to change the [font](/terms/font) attributes of the currently [selected](/terms/select) text. Attributes include the family, style, and [point](/terms/point) size of the font.
 
+![Screenshot of the Styles Palette](/assets/images/styles.gif)
+
 ----
 
 Related:

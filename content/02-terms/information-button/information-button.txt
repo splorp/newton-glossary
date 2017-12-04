@@ -10,6 +10,8 @@ Text:
 
 A small square [button](/terms/button) an “I” character, located in the [button bar](/terms/button-bar) of an [application](/terms/application). [Tapping](/terms/tapping) the information button provides access to help and [preferences](/terms/preferences) related to the current application.
 
+![Screenshot of an Information Button](/assets/images/information-button.gif)
+
 ----
 
 Related:
