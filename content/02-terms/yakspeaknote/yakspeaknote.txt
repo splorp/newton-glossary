@@ -1,0 +1,37 @@
+Title: YakSpeakNote
+
+----
+
+Date: 05 December 2017
+
+----
+
+Text:
+
+A [package](/terms/package) that works in conjunction with [Yak](/terms/yak) to provide a way to send [recognized text](/terms/recognized-text) to the [text-to-speech](/terms/text-to-speech) engine via the [routing button](/terms/routing-button) in the [Notepad](/terms/notepad) application.
+
+YakSpeakNote was developed by [Matej Horvat](/sources/matej-horvat) as a replacement for the original (and rather buggy) [NoteYak](/terms/noteyak) software.
+
+## Additional Information
+
+[Matej Horvat: Yak](http://matejhorvat.si/en/newton/yak/)
+
+----
+
+Related:
+
+- /terms/macintalk
+- /terms/noteyak
+- /terms/recognized-text
+- /terms/routing
+- /terms/speaktext
+- /terms/text-to-speech
+- /terms/transport
+- /terms/yak
+- /terms/yakspeakmeeting
+
+----
+
+Source:
+
+- /sources/matej-horvat

@@ -20,8 +20,12 @@ The conversion of text into spoken audio through some means of speech synthesis.
 Related:
 
 - /terms/macintalk
+- /terms/noteyak
 - /terms/speaktext
 - /terms/tts
+- /terms/yak
+- /terms/yakspeaknote
+- /terms/yakspeakmeeting
 
 ----
 
