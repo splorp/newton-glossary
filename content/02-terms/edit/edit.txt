@@ -12,6 +12,15 @@ To change or modify. For example, to insert, remove, replace, or move a chunk of
 
 ----
 
+Related:
+
+- /terms/blinking-line
+- /terms/caret
+- /terms/cursor
+- /terms/insertion-point
+
+----
+
 Source:
 
 - /sources/newton-user-interface-guidelines

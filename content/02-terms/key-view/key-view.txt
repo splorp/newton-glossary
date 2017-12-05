@@ -8,13 +8,14 @@ Date:
 
 Text:
 
-The [container view](/terms/container-view) that receives keyboard input and contains the either the text insertion [caret](/terms/caret) or the text [selection](/terms/selection), if present.
+The [container view](/terms/container-view) that receives keyboard input and contains the either the text insertion [cursor](/terms/cursor) or the text [selection](/terms/selection), if present.
 
 ----
 
 Related:
 
 - /terms/application-base-view
+- /terms/blinking-line
 - /terms/caret
 - /terms/child-view
 - /terms/container-view

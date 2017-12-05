@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-See [Caret](/terms/caret)
+See [Blinking Line](/terms/blinking-line) and [Caret](/terms/caret)
 
 ----
 

@@ -20,6 +20,7 @@ Related:
 - /terms/caret-picker
 - /terms/carrot
 - /terms/cursor
+- /terms/edit
 - /terms/gesture
 - /terms/insertion-point
 - /terms/key-view
