@@ -16,6 +16,7 @@ Related:
 
 - /terms/action-picker
 - /terms/button
+- /terms/caret-picker
 - /terms/diamond
 - /terms/list
 - /terms/new-picker
