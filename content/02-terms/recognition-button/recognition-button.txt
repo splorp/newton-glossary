@@ -10,6 +10,8 @@ Text:
 
 A [picture button](/terms/picture-button) containing an [icon](/terms/icon) representing an “A” character. [Tapping](/terms/tapping) the recognition button allows the user to select the method of [handwriting recognition](/terms/handwriting-recognition) used to interpret what is being written or drawn. Recognition options include [Text](/terms/text), [Ink Text](/terms/ink-word), [Shapes](/terms/shapes), and [Sketches](/terms/sketches).
 
+Also referred to as the [recognizer button](/terms/recognizer-button).
+
 ----
 
 Related:
@@ -20,6 +22,7 @@ Related:
 - /terms/icon
 - /terms/ink-text
 - /terms/picture-button
+- /terms/recognizer-button
 - /terms/shapes
 - /terms/sketches
 - /terms/text
@@ -30,3 +33,4 @@ Related:
 Source:
 
 - /sources/messagepad-handbook-1995
+- /sources/newton-user-interface-guidelines
