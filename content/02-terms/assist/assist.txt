@@ -10,7 +10,7 @@ Text:
 
 A function built into Newton device that can automatically perform certain tasks, such as dialing a telephone number, searching for information, or scheduling an appointment. Assist is accessed by entering a [request word](/terms/request-word) into the [assist drawer](/terms/assist-drawer) triggering the corresponding [action](/terms/action). For example, entering the “call” request word into the assist drawer will trigger an action to dial a telephone number.
 
-Also referred to as [Assistant](/terms/assistant) and [Newton Assistant](/terms/newton-assistant) in early versions of the [Newton OS](/terms/newton-os).
+Also referred to as [Assistant](/terms/assistant) and [Newton Assistant](/terms/newton-assistant) in earlier versions of [Newton OS](/terms/newton-os).
 
 ## Additional Information
 

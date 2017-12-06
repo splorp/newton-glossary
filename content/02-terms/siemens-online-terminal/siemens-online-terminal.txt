@@ -12,7 +12,7 @@ A prototype device developed by [Siemens](https://www.siemens.com/) that was pos
 
 The Siemens Online Terminal has been variously (and erroneously) referred to as an [OAD](/terms/oad), [NotePhone 2000](/terms/notephone-2000), and [Messenotizen](/terms/messenotizen).
 
-A third party device that utilizes a licensed version of the [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
+A third party device that utilizes a licensed version of [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
 
 ## Additional Information
 
