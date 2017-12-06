@@ -1,0 +1,34 @@
+Title: Info Button
+
+----
+
+Date: 06 December 2017
+
+----
+
+Text:
+
+A small square [button](/terms/button) an “I” character, located in the [button bar](/terms/button-bar) of an [application](/terms/application). [Tapping](/terms/tapping) the info button provides access to help and [preferences](/terms/preferences) related to the current application.
+
+Also known as the [information button](/terms/information-button) in earlier versions of [Newton OS](/terms/newton-os).
+
+![Screenshot of an Info Button](/assets/images/info-button.gif)
+
+----
+
+Related:
+
+- /terms/button
+- /terms/button-bar
+- /terms/i
+- /terms/information-button
+- /terms/prefs
+- /terms/status-bar
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines
+- /sources/messagepad-handbook-1995

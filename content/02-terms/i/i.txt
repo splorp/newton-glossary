@@ -8,4 +8,4 @@ Date: 19 April 2017
 
 Text:
 
-See [Information Button](/terms/information-button)
+See [Info Button](/terms/info-button)
