@@ -10,6 +10,8 @@ Text:
 
 A thick black [line](/terms/line) with graphical [buttons](/terms/button) that perform functions related to the current [application](/terms/application). Depending on the application, the status bar can contain an [information button](/terms/information-button), [recognition button](/terms/recognition-button), [keyboard button](/terms/keyboard-button), or [routing button](/terms/routing-button).
 
+![Screenshot of the Status Bar](/assets/images/status-bar.gif)
+
 ----
 
 Related:
