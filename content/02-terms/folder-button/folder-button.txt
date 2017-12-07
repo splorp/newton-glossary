@@ -10,11 +10,14 @@ Text:
 
 A [button](/terms/button) that allows the user to file items located in the [Notepad](/terms/note), [Name File](/terms/name-file), [Extras Drawer](/terms/extras-drawer), and other [applications](/terms/application) into folders. When [tapped](/terms/tapped), a [slip](/terms/slip) appears where the user can select which [folder](/terms/folder) the selected item will be filed.
 
+Also referred to as a [Filing Button](/terms/filing-button).
+
 ----
 
 Related:
 
 - /terms/button
+- /terms/filing-button
 - /terms/folder
 - /terms/folder-tab
 - /terms/global-folder
@@ -28,3 +31,4 @@ Related:
 Source:
 
 - /sources/messagepad-handbook-1995
+- /sources/newton-user-interface-guidelines

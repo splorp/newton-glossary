@@ -1,0 +1,17 @@
+Title: Filing Button
+
+----
+
+Date: 06 December 2017
+
+----
+
+Text:
+
+See [Folder Button](/terms/folder-button)
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines
