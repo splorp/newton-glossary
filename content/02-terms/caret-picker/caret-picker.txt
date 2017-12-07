@@ -8,7 +8,7 @@ Date: 05 December 2017
 
 Text:
 
-A [picker](/terms/picker) that appears when the user [taps](/terms/tap) the [caret](/terms/caret). The caret picker allows a user to easily choose a punctuation mark, space, paragraph break, or other special character to be input at the text [insertion point](/terms/insertion-point) indicated by the caret.
+A [picker](/terms/picker) that appears when the user [taps](/terms/tap) the [caret](/terms/caret). The caret picker allows the user to easily input punctuation marks, spaces, paragraph breaks, or other special characters at the text [insertion point](/terms/insertion-point) as indicated by the caret.
 
 ![Screenshot of the Caret Picker](/assets/images/caret-picker-with-caret.gif)
 

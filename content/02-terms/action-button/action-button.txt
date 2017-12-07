@@ -8,7 +8,9 @@ Date:
 
 Text:
 
-A button used in [applications](/terms/application) to invoke [routing](/terms/routing) functions. When [tapped](/terms/tapped), it displays a [picker](/terms/picker) listing routing actions available for the current item, otherwise known as an [action picker](/terms/action-picker). Also referred to as the [envelope button](/terms/envelope-button) or [routing button](/terms/routing-button).
+A button used in [applications](/terms/application) to invoke [routing](/terms/routing) functions. When [tapped](/terms/tapped), it displays a [picker](/terms/picker) listing routing actions available for the current item, otherwise known as an [action picker](/terms/action-picker).
+
+Also referred to as an [envelope button](/terms/envelope-button) or [routing button](/terms/routing-button).
 
 ![Screenshot of an Action Button with Picker](/assets/images/action-picker.gif)
 

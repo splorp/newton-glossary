@@ -10,7 +10,7 @@ Text:
 
 A [picture button](/terms/picture-button) containing an [icon](/terms/icon) representing an “A” character. [Tapping](/terms/tapping) the recognition button allows the user to select the method of [handwriting recognition](/terms/handwriting-recognition) used to interpret what is being written or drawn. Recognition options include [Text](/terms/text), [Ink Text](/terms/ink-word), [Shapes](/terms/shapes), and [Sketches](/terms/sketches).
 
-Also referred to as the [recognizer button](/terms/recognizer-button).
+Also referred to as a [recognizer button](/terms/recognizer-button).
 
 ----
 
