@@ -87,8 +87,8 @@ Minimize the use of subjective hyphenated terms.
 
 _Examples:_
 
-+ Use “third party” instead of “third-party”
 + Use “finite state” instead of “finite-state”
++ Use “frontend” instead of “front-end”
 
 Acceptable hyphenated terms include:
 
@@ -97,8 +97,9 @@ Acceptable hyphenated terms include:
 + software-based
 + subscription-based
 + text-based
-+ third-party
 + self-contained
++ user-friendly
++ third-party
 
 ## Additional information
 
