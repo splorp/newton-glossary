@@ -1,0 +1,15 @@
+Title: Rare White Tiger Creations
+
+----
+
+Date: 10 December 2017
+
+----
+
+Text:
+
+A company founded by Mark Heringer that provided [Newton Book](/terms/newton-book) publishing services and software development. The company specialized in the creation and conversion of hypertext documents to the Newton platform, published the Newton Book version of Steve Holden’s popular NewtNews newsletter, and developed [WinSlurp](/terms/winslurp), a Windows frontend for Steve Weyer’s [Slurpee](/terms/slurpee) utility.
+
+## Additional Information
+
+[Internet Archive: Rare White Tiger Creations Website](https://web.archive.org/web/20000817082737/http://pages.prodigy.com/CA/mrh/rwtc.html)
