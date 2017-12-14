@@ -1,0 +1,36 @@
+Title: Graphing Calculator
+
+----
+
+Date:
+
+----
+
+Text:
+
+A program built into the [Newton Works](/terms/newton-works) application that uses specific [stationery](/terms/stationery) allowing the user to perform calculations and display the results in a graph or table. Information formatting using the [calculations](/terms/calculations) stationery can be copied and pasted into other [applications](/terms/application) on a Newton device.
+
+## Additional Information
+
+[The Newted Community: Newton Works Graphing Calculator User’s Manual](http://www.newted.org/download/manuals/0340062ANWGRAFCALCUM.PDF) (PDF)
+
+----
+
+Related:
+
+- /terms/availworks
+- /terms/calculations
+- /terms/drawing
+- /terms/graphing-calculator
+- /terms/newton-works
+- /terms/paper
+- /terms/quickfigure-pro
+- /terms/quickfigure-works
+- /terms/spreadsheet
+- /terms/twerx
+
+----
+
+Source:
+
+- /sources/newton-works-graphing-calculator-users-manual
