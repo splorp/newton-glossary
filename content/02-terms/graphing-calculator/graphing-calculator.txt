@@ -2,7 +2,7 @@ Title: Graphing Calculator
 
 ----
 
-Date:
+Date: 14 December 2017
 
 ----
 
@@ -21,7 +21,6 @@ Related:
 - /terms/availworks
 - /terms/calculations
 - /terms/drawing
-- /terms/graphing-calculator
 - /terms/newton-works
 - /terms/paper
 - /terms/quickfigure-pro
@@ -33,4 +32,4 @@ Related:
 
 Source:
 
-- /sources/newton-works-graphing-calculator-users-manual
+- /sources/newton-works-graphing-calculator
