@@ -1,0 +1,19 @@
+Title: NTX
+
+----
+
+Date: 27 December 2017
+
+----
+
+Text:
+
+Newton Toolkit for Mac OS X
+
+See [Newton Toolkit](/terms/newton-toolkit)
+
+----
+
+Source:
+
+- /sources/simon-bell
