@@ -2,6 +2,10 @@ Title: NTLK
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [NewtonTalk](/terms/newtontalk)

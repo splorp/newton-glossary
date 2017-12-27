@@ -2,6 +2,10 @@ Title: NTK
 
 ----
 
+Date:
+
+----
+
 Text:
 
 See [Newton Toolkit](/terms/newton-toolkit)
