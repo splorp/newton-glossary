@@ -8,7 +8,7 @@ Date: 21 November 2017
 
 Text:
 
-An alternative onscreen keyboard for [Newton OS](/terms/newton-os) developed by [Textware Solutions](/sources/textware). The Fitaly keyboard is designed to minimize the amount of [pen](/terms/pen) travel between keys, based on how frequently [characters](/terms/character) are used in the English language.
+An alternative onscreen [keyboard](/terms/keyboard) for [Newton OS](/terms/newton-os) developed by [Textware Solutions](/sources/textware). The Fitaly keyboard is designed to minimize the amount of [pen](/terms/pen) travel between keys, based on how frequently [characters](/terms/character) are used in the English language.
 
 Versions of Fitaly were also available for Windows and Palm platforms.
 
@@ -23,6 +23,7 @@ Versions of Fitaly were also available for Windows and Palm platforms.
 
 Related:
 
+- /terms/keyboard
 - /terms/keyboard-button
 - /terms/typewriter
 

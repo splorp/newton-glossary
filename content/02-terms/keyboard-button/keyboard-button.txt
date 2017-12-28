@@ -8,7 +8,7 @@ Date: 31 August 2017
 
 Text:
 
-A [button](/terms/button) that displays an onscreen keyboard for entering text and other types of information. When [tapped](/terms/tapped), the default [Typewriter](/terms/typewriter) keyboard appears. [Tapping](/terms/tapping) the button again while the keyboard is onscreen will display a [picker](/terms/picker) listing other types of keyboards, including [Numeric](/terms/numeric), [Phone](/terms/phone), and [Time/Date](/terms/time-date).
+A [button](/terms/button) that displays an onscreen [keyboard](/terms/keyboard) for entering text and other types of information. When [tapped](/terms/tapped), the default [Typewriter](/terms/typewriter) keyboard appears. [Tapping](/terms/tapping) the button again while the keyboard is onscreen will display a [picker](/terms/picker) listing other types of keyboards, including [Numeric](/terms/numeric), [Phone](/terms/phone), and [Time/Date](/terms/time-date).
 
 ----
 
@@ -16,6 +16,7 @@ Related:
 
 - /terms/button
 - /terms/fitaly
+- /terms/keyboard
 - /terms/numeric
 - /terms/phone
 - /terms/picker

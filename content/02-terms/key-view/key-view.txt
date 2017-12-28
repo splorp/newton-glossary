@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The [container view](/terms/container-view) that receives keyboard input and contains the either the text insertion [cursor](/terms/cursor) or the text [selection](/terms/selection), if present.
+The [container view](/terms/container-view) that receives [keyboard](/terms/keyboard) input and contains the either the text insertion [cursor](/terms/cursor) or the text [selection](/terms/selection), if present.
 
 ----
 
@@ -21,6 +21,7 @@ Related:
 - /terms/container-view
 - /terms/default-action
 - /terms/floating-container-view
+- /terms/keyboard
 - /terms/layout-view
 - /terms/main-view
 - /terms/parent-view

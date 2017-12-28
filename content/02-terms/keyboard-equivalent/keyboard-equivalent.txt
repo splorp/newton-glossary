@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A command entered using a keyboard that produces the equivalent action of [tapping](/terms/tapping) a specific [button](/terms/button) or choosing from a [picker](/terms/picker).
+A command entered using a physical keyboard that produces the equivalent action of [tapping](/terms/tapping) a specific [button](/terms/button) or choosing from a [picker](/terms/picker).
 
 When the user holds down the “Command” key on a keyboard connected to a [Newton OS](/terms/newton-os) 2.1 device, a [slip](/terms/slip) appears displaying all of the keyboard equivalents available for the current [application](/terms/application).
 

@@ -1,0 +1,11 @@
+Title: Keyboard
+
+----
+
+Date: 28 December 2017
+
+----
+
+Text:
+
+See [Numeric](/terms/numeric), [Phone](/terms/phone), [Time/Date](/terms/time-date), and [Typewriter](/terms/typewriter).
