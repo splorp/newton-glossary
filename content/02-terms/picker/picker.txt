@@ -21,6 +21,7 @@ Related:
 - /terms/list
 - /terms/new-picker
 - /terms/picker-list
+- /terms/show-picker
 - /terms/tag-picker
 - /terms/user-interface
 

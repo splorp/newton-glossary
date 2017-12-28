@@ -38,6 +38,7 @@ Related:
 - /terms/ryo
 - /terms/scroll-arrows
 - /terms/scroller
+- /terms/show-button
 - /terms/silk-button
 - /terms/silkscreen-button
 - /terms/soft-button
