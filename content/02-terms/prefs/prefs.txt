@@ -8,7 +8,7 @@ Date: 03 September 2017
 
 Text:
 
-The built-in [application](/terms/application) for changing system-wide [preferences](/terms/preferences) related to the general operation and functionality of a Newton device. [Tapping](/terms/tapping) a topic in the Preferences list will open a [slip](/terms/slip) where settings pertaining to that topic may be adjusted.
+The built-in [application](/terms/application) for changing system-wide [preferences](/terms/preferences) related to the operation of a Newton device. [Tapping](/terms/tapping) a topic in the Preferences list will open a [slip](/terms/slip) where settings pertaining to that topic can be adjusted.
 
 ![Screenshot of the Prefs application](/assets/images/prefs.gif)
 
