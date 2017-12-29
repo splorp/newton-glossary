@@ -8,11 +8,11 @@ Date: 06 December 2017
 
 Text:
 
-A small square [button](/terms/button) an “I” character, located in the [button bar](/terms/button-bar) of an [application](/terms/application). [Tapping](/terms/tapping) the info button provides access to help and [preferences](/terms/preferences) related to the current application.
+A small square [button](/terms/button) an “I” character, located in the [status bar](/terms/status-bar) of an [application](/terms/application). When [tapped](/terms/tapped), the button displays a [picker](/terms/picker) which gives the user access to [preferences](/terms/preferences), on-screen help, or general information about the application.
 
 Also known as the [information button](/terms/information-button) in earlier versions of [Newton OS](/terms/newton-os).
 
-![Screenshot of an Info Button](/assets/images/info-button.gif)
+![Screenshot of an Info Button with Picker](/assets/images/info-button.gif)
 
 ----
 
@@ -21,6 +21,7 @@ Related:
 - /terms/button
 - /terms/button-bar
 - /terms/i
+- /terms/info-picker
 - /terms/information-button
 - /terms/prefs
 - /terms/status-bar

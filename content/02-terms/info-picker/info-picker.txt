@@ -1,0 +1,27 @@
+Title: Info Picker
+
+----
+
+Date: 29 December 2017
+
+----
+
+Text:
+
+A list of items pertaining to the current [application](/terms/application) that can include [preferences](/terms/preferences), on-screen help, or general information about the application. Activated by [tapping](/terms/tapping) on the [info button](/terms/info-button).
+
+----
+
+Related:
+
+- /terms/button
+- /terms/info-button
+- /terms/picker
+- /terms/prefs
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

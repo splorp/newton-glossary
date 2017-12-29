@@ -18,6 +18,7 @@ Related:
 - /terms/button
 - /terms/caret-picker
 - /terms/diamond
+- /terms/info-picker
 - /terms/list
 - /terms/new-picker
 - /terms/picker-list
