@@ -25,4 +25,4 @@ Related:
 
 Source:
 
-- /sources/messagepad-handbook-1995
+- /sources/newton-user-interface-guidelines
