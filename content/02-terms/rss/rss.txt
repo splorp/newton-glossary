@@ -12,7 +12,7 @@ Rich Site Summary _or_ Really Simple Syndication
 
 A standardized, multipurpose distribution and syndication format based on [XML](/terms/xml). RSS is primarily used by websites to provide a [feed](/terms/feed) of frequently updated information such as blog entries, news headlines, or podcasts. A feed contains text, links, and other [metadata](/terms/metadata), such as the date of publication and the author’s name.
 
-Feeds can be subscribed to using a news reader or aggregator [application](/terms/application). On a Newton device, RSS may be viewed using Eckhart Köppen’s [Raissa](/terms/raissa) or [Courier](/terms/courier) applications.
+Feeds can be subscribed to using a news reader or aggregator [application](/terms/application). On a Newton device, RSS can be viewed using Eckhart Köppen’s [Raissa](/terms/raissa) or [Courier](/terms/courier) applications.
 
 ----
 

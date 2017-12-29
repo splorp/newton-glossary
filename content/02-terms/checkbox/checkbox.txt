@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A standard [user interface](/terms/user-interface) control that displays a setting, either checked (on) or unchecked (off). [Tapping](/terms/tapping) a checkbox or its text label reverses its setting. When grouped together, one or more checkboxes can be checked at the same time. Compare this to a [radio button](/terms/radio-button) group, where only one button may be [selected](/terms/select) at a time.
+A standard [user interface](/terms/user-interface) control that displays a setting, either checked (on) or unchecked (off). [Tapping](/terms/tapping) a checkbox or its text label reverses its setting. When grouped together, one or more checkboxes can be checked at the same time. Compare this to a [radio button](/terms/radio-button) group, where only one button can be [selected](/terms/select) at a time.
 
 ----
 

@@ -101,7 +101,16 @@ Acceptable hyphenated terms include:
 + user-friendly
 + third-party
 
-## Additional information
+## Miscellaneous considerations
+
+When describing the effects of an action, use the more enabling term “can” rather than “may”.
+
+_Example:_
+
++ A slip where preferences can be adjusted.
++ Only one button can be selected at a time.
+
+## Links to additional information
 
 When linking to the main page of a website, include both the website name and “Website” as part of the link text.
 

@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A physical modification made to a [MessagePad 2000](/terms/messagepad-2000) or [MessagePad 2100](/terms/messagepad-2100) device by installing a custom circuit board or internal serial adapter. The modification adds a standard [Mini-Din](/terms/mini-din) serial port alongside the proprietary [Newton Interconnect](/terms/newton-interconnect) port. So named because it eliminates the need for a [dongle](/terms/dongle) such as the [Newton Serial Adapter](/terms/newton-serial-adapter). After modification, only one of the serial ports may be used at a time.
+A physical modification made to a [MessagePad 2000](/terms/messagepad-2000) or [MessagePad 2100](/terms/messagepad-2100) device by installing a custom circuit board or internal serial adapter. The modification adds a standard [Mini-Din](/terms/mini-din) serial port alongside the proprietary [Newton Interconnect](/terms/newton-interconnect) port. So named because it eliminates the need for a [dongle](/terms/dongle) such as the [Newton Serial Adapter](/terms/newton-serial-adapter). After modification, only one of the serial ports can be used at a time.
 
 An example of a dongle destroyer is the [SER-001](/terms/ser-001) serial port replacement designed by [David “PCBMan” Humphreys](/terms/pcbman).
 

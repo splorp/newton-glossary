@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A user modifiable [button](/terms/button) located in the [button bar](/terms/button-bar) on [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices. Soft buttons may be customized by dragging [application](/terms/application) and package [icons](/terms/icon) from the [Extras Drawer](/terms/extras-drawer).
+A user modifiable [button](/terms/button) located in the [button bar](/terms/button-bar) on [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices. Soft buttons can be customized by dragging [application](/terms/application) and package [icons](/terms/icon) from the [Extras Drawer](/terms/extras-drawer).
 
 ----
 
