@@ -8,7 +8,15 @@ Date: 31 December 2017
 
 Text:
 
-See [Busy Cursor](/terms/busy-cursor)
+A colloquial reference to the [busy cursor](/terms/busy-cursor) as coined by [David Abramowitz](https://marc.info/?l=newtontalk&m=99805395415938) on the [NewtonTalk](/terms/newtontalk) mailing list.
+
+----
+
+Related:
+
+- /terms/busy-cursor
+- /terms/icon
+- /terms/lightblub-icon
 
 ----
 
