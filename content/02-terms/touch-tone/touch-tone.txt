@@ -10,7 +10,7 @@ Text:
 
 The common term describing the Dual Tone Multi Frequency or [DTMF](/terms/dtmf) method of telephone tone dialing. Basically, the combining of two tones, one low frequency and one high frequency. The Newton can create Touch Tone signals using the onscreen [phone](/terms/phone) keyboard.
 
-_This entry requires a screenshot._
+![Screenshot of the Phone Keyboard](/assets/images/phone.gif)
 
 ----
 
