@@ -10,6 +10,8 @@ Text:
 
 A graphical indicator automatically displayed by the system while it is temporarily unable to process user [input](/terms/input). Often represented by an [icon](/terms/icon) of a watch or clock, the busy cursor in [Newton OS](/terms/newton-os) is represented by an depiction of the Newton logo.
 
+![Screenshot of the Busy Cursor](/assets/images/busy-cursor.gif)
+
 Colloquially known as the [lightblub icon](/terms/lightblub-icon) or the [something’s happening icon](/terms/somethings-happening-icon).
 
 ----
