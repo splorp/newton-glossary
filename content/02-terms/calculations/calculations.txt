@@ -1,0 +1,32 @@
+Title: Calculations
+
+----
+
+Date: 01 January 2018
+
+----
+
+Text:
+
+The document format (or [stationery](/terms/stationery)) used by the [graphing calculator](/terms/graphing-calculator) component of the [Newton Works](/terms/newton-works) application.
+
+## Additional Information
+
+[The Newted Community: Newton Works Graphing Calculator User’s Manual](http://www.newted.org/download/manuals/0340062ANWGRAFCALCUM.PDF) (PDF)
+
+----
+
+Related:
+
+- /terms/drawing
+- /terms/graphing-calculator
+- /terms/newton-works
+- /terms/paper
+- /terms/spreadsheet
+- /terms/stationery
+
+----
+
+Source:
+
+- /sources/newton-works-graphing-calculator
