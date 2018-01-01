@@ -21,7 +21,6 @@ Related:
 
 - /terms/calculations
 - /terms/drawing
-- /terms/graphing-calculator
 - /terms/newton-works
 - /terms/spreadsheet
 - /terms/stationery

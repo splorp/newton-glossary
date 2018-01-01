@@ -25,8 +25,6 @@ Also referred to as [QF Works](/terms/qf-works).
 Related:
 
 - /terms/availworks
-- /terms/calculations
-- /terms/graphing-calculator
 - /terms/newton-works
 - /terms/qf-works
 - /terms/quickfigure

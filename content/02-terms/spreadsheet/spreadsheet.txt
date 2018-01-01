@@ -18,13 +18,10 @@ The document format (or [stationery](/terms/stationery)) provided by the [QuickF
 
 Related:
 
-- /terms/availworks
 - /terms/calculations
 - /terms/drawing
-- /terms/graphing-calculator
 - /terms/newton-works
 - /terms/paper
-- /terms/quickfigure
 - /terms/quickfigure-works
 - /terms/stationery
 

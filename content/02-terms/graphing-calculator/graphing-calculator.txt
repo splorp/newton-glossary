@@ -18,15 +18,8 @@ A program built into the [Newton Works](/terms/newton-works) application that us
 
 Related:
 
-- /terms/availworks
 - /terms/calculations
-- /terms/drawing
 - /terms/newton-works
-- /terms/paper
-- /terms/quickfigure-pro
-- /terms/quickfigure-works
-- /terms/spreadsheet
-- /terms/twerx
 
 ----
 

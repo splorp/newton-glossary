@@ -25,14 +25,10 @@ Also referred to as [QF Pro](/terms/qf-pro).
 Related:
 
 - /terms/availworks
-- /terms/calculations
-- /terms/graphing-calculator
 - /terms/newton-works
 - /terms/qf-pro
 - /terms/quickfigure
 - /terms/quickfigure-works
-- /terms/spreadsheet
-- /terms/stationery
 
 ----
 

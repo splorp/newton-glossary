@@ -21,15 +21,9 @@ An integrated, multi-function [application](/terms/application) for Newton devic
 
 Related:
 
-- /terms/calculations
-- /terms/drawing
-- /terms/graphing-calculator
 - /terms/newton-works
-- /terms/paper
 - /terms/quickfigure-pro
 - /terms/quickfigure-works
-- /terms/spreadsheet
-- /terms/works
 
 ----
 
