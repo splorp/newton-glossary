@@ -2,10 +2,29 @@ Title: Worksite
 
 ----
 
-Date:
+Date: 10 January 2018
 
 ----
 
 Text:
 
-See [Emporium](/terms/emporium)
+An entry in the [Owner Info](/terms/owner-info) application where a Newton user establishes the address and other information related to a specific location. For example, a user can set up different worksites for home and office. A worksite can include information such as street address, telephone number, dialing prefix, time zone, printer setting, and email address.
+
+Also referred to as an [emporium](/terms/emporium) or [locale](/terms/locale).
+
+----
+
+Related:
+
+- /terms/away-city
+- /terms/emporium
+- /terms/home-city
+- /terms/locale
+- /terms/owner-info
+- /terms/time-zones
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

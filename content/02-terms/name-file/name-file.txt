@@ -22,6 +22,7 @@ Related:
 - /terms/names
 - /terms/name-card
 - /terms/newtourage
+- /terms/people-picker
 - /terms/personal-information-manager
 - /terms/vcard
 

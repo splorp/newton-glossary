@@ -18,6 +18,7 @@ Related:
 
 - /terms/owner
 - /terms/owner-card
+- /terms/people-picker
 - /terms/persona
 - /terms/worksite
 
