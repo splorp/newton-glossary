@@ -10,7 +10,7 @@ Text:
 
 The built-in [application](/terms/application) for changing system-wide [preferences](/terms/preferences) related to the operation of a Newton device. [Tapping](/terms/tapping) a topic in the Preferences list will open a [slip](/terms/slip) where settings pertaining to that topic can be adjusted.
 
-![Screenshot of the Prefs application](/assets/images/prefs.gif)
+![Screenshot of the Prefs application](/assets/images/prefs-more.gif)
 
 ----
 
