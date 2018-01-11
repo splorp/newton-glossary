@@ -10,7 +10,7 @@ Text:
 
 A list containing the names of people and companies from the [Name File](/terms/name-file) and [Owner Info](/terms/owner-info) applications. Along with each name, the [picker](/terms/picker) can display a telephone number, fax number, or email address.
 
-![Screenshot of an People Picker](/assets/images/people-picker.gif)
+![Screenshot of a People Picker](/assets/images/people-picker.gif)
 
 ----
 
