@@ -10,6 +10,8 @@ Text:
 
 The act of connecting a Newton device to another computer, in most cases to transfer data. Dock is also one of the built-in [applications](/terms/application) in [Newton OS](/terms/newton-os) 2.1, specifically used to perform the action of connecting to another computer.
 
+![Screenshot of the Dock application](/assets/images/dock.gif)
+
 ----
 
 Related:
