@@ -28,7 +28,6 @@ Sources: _$s
 + Added new terms
 + Added new sources
 + Updated and expanded dozens of existing entries
-+ Excluded [sitemap](/sitemap.xml) from pages being cached
 + Updated [Kirby](https://getkirby.com/) to version [2.5.8](https://getkirby.com/changelog/kirby-2-5-8)
 
 ## 2.4.2
