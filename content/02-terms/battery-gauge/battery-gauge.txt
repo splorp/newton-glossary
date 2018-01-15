@@ -1,0 +1,43 @@
+Title: Battery Gauge
+
+----
+
+Date: 14 January 2018
+
+----
+
+Text:
+
+An visual indicator that displays how much power is left in the [battery](/terms/battery). In [Newton OS](/terms/newton-os) 2.0 and later, the battery gauge is located in the lower-right corner of the [extras drawer](/terms/extras-drawer). In earlier versions of Newton OS, the battery gauge is displayed by [tapping](/terms/tapping) the [analog clock button](/terms/analog-clock-button).
+
+----
+
+Related:
+
+- /terms/analog-clock-button
+- /terms/backup-battery
+- /terms/battery
+- /terms/battery-booster-pack
+- /terms/battery-pack
+- /terms/battery-tray
+- /terms/cell
+- /terms/charge-state
+- /terms/deep-toast
+- /terms/extras-drawer
+- /terms/long-term-storage
+- /terms/mah
+- /terms/memory-effect
+- /terms/nickel-cadmium
+- /terms/nickel-metal-hydride
+- /terms/recell
+- /terms/recelled
+- /terms/receller
+- /terms/rhythm-method
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
+- /sources/newton-user-interface-guidelines

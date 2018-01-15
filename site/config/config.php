@@ -23,6 +23,7 @@ http://getkirby.com/docs/advanced/options
 */
 
 c::set('cache', true);
+c::set('cache.ignore', array('sitemap.xml'));
 c::set('markdown.breaks', true);
 
 /*
