@@ -24,6 +24,7 @@ Related:
 - /terms/cdcl
 - /terms/dcl
 - /terms/dock
+- /terms/docking
 - /terms/k-libs
 - /terms/nsof
 - /terms/nwt

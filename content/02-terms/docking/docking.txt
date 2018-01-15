@@ -1,0 +1,30 @@
+Title: Docking
+
+----
+
+Date: 15 January 2018
+
+----
+
+Text:
+
+The process of connecting a Newton device to another computer using the [Dock](/terms/dock) or [Classroom Dock](/terms/classroom-dock) application. After [docking](/terms/docking) with another computer, the user can initiate the transfer of data between the two devices.
+
+----
+
+Related:
+
+- /terms/auto-dock
+- /terms/cdcl
+- /terms/classroom-dock
+- /terms/classroom-exchange
+- /terms/connection
+- /terms/dcl
+- /terms/dock
+- /terms/rdcl
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide

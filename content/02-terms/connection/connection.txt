@@ -19,3 +19,4 @@ Related:
 - /terms/auto-dock
 - /terms/classroom-dock
 - /terms/dock
+- /terms/docking

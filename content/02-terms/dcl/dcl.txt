@@ -23,6 +23,7 @@ Related:
 
 - /terms/cdcl
 - /terms/dock
+- /terms/docking
 - /terms/k-libs
 - /terms/nes-packager
 - /terms/nsof

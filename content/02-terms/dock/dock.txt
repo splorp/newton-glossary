@@ -8,7 +8,9 @@ Date:
 
 Text:
 
-The act of connecting a Newton device to another computer, in most cases to transfer data. Dock is also one of the built-in [applications](/terms/application) in [Newton OS](/terms/newton-os) 2.1, specifically used to perform the action of connecting to another computer.
+To connect a Newton device to another computer over a physical, wireless, or [infrared](/terms/infrared) connection in order to transfer data between the two devices.
+
+Dock is also the name of an [application](/terms/application) in [Newton OS](/terms/newton-os) 2.0 and later specifically used to connect to another computer.
 
 ![Screenshot of the Dock application](/assets/images/dock.gif)
 
@@ -22,4 +24,5 @@ Related:
 - /terms/classroom-exchange
 - /terms/connection
 - /terms/dcl
+- /terms/docking
 - /terms/rdcl

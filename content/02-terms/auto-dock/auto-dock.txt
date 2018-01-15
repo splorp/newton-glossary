@@ -16,4 +16,5 @@ Related:
 
 - /terms/connection
 - /terms/dock
+- /terms/docking
 - /terms/newton-interconnect
