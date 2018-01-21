@@ -1,0 +1,17 @@
+Title: Card Store
+
+----
+
+Date: 21 January 2018
+
+----
+
+Text:
+
+See [External Store](/terms/external-store)
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines
