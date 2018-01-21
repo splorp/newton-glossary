@@ -17,18 +17,10 @@ A [view](/terms/view) displayed by an [application](/terms/application) when it 
 Related:
 
 - /terms/blinking-star
-- /terms/call-slip
-- /terms/confirmation-slip
-- /terms/container-view
-- /terms/find-slip
-- /terms/info-slip
-- /terms/item-info-slip
-- /terms/notification-slip
-- /terms/routing-slip
 - /terms/slip
 - /terms/status-bar
 - /terms/status-box
-- /terms/system-ram
+- /terms/user-interface
 - /terms/view
 
 ----
