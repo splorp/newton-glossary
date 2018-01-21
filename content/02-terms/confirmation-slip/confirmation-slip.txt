@@ -14,14 +14,7 @@ A [view](/terms/view) that appears onscreen as part of the [user interface](/ter
 
 Related:
 
-- /terms/call-slip
-- /terms/info-slip
-- /terms/item-info-slip
-- /terms/memory-info-slip
-- /terms/notification-slip
-- /terms/routing-slip
 - /terms/slip
-- /terms/status-slip
 - /terms/user-interface
 - /terms/view
 

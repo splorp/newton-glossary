@@ -15,13 +15,6 @@ An input [container view](/terms/container-view) for recording data associated w
 Related:
 
 - /terms/calls
-- /terms/confirmation-slip
 - /terms/container-view
-- /terms/find-slip
-- /terms/info-slip
-- /terms/item-info-slip
-- /terms/memory-info-slip
-- /terms/notification-slip
-- /terms/routing-slip
 - /terms/slip
-- /terms/status-slip
+- /terms/user-interface

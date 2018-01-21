@@ -23,6 +23,7 @@ Related:
 - /terms/status-slip
 - /terms/view
 - /terms/wavy-border
+- /terms/user-interface
 
 ----
 
