@@ -20,6 +20,7 @@ Related:
 - /terms/confirmation-slip
 - /terms/container-view
 - /terms/find-slip
+- /terms/folder-slip
 - /terms/info-slip
 - /terms/input
 - /terms/item-info-slip

@@ -1,0 +1,37 @@
+Title: Folder Slip
+
+----
+
+Date: 21 January 2018
+
+----
+
+Text:
+
+A [slip](/terms/slip) listing currently available storage locations, such as the [internal store](/terms/internal-store) and a named [external store](/terms/external-store), where selected items can be filed. The folder slip also lists the [folders](/terms/folder) defined for the current [application](/terms/application) and provides [buttons](/terms/buttons) for creating new folders and editing existing folder names.
+
+Also referred to as a [filing slip](/terms/filing-slip).
+
+----
+
+Related:
+
+- /terms/external-store
+- /terms/filing-slip
+- /terms/folder
+- /terms/folder-button
+- /terms/folder-tab
+- /terms/global-folder
+- /terms/internal-store
+- /terms/local-folder
+- /terms/slip
+- /terms/store
+- /terms/unfiled
+- /terms/unfiled-icons
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

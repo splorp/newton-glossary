@@ -15,6 +15,7 @@ A place where items such as [notes](/terms/note), [cards](/terms/card), and [pac
 Related:
 
 - /terms/folder-button
+- /terms/folder-slip
 - /terms/folder-tab
 - /terms/global-folder
 - /terms/local-folder

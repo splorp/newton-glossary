@@ -17,6 +17,8 @@ Related:
 - /terms/control
 - /terms/container-view
 - /terms/folder
+- /terms/folder-button
+- /terms/folder-slip
 - /terms/global-folder
 - /terms/local-folder
 - /terms/unfiled

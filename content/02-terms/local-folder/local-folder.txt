@@ -16,6 +16,7 @@ Related:
 
 - /terms/folder
 - /terms/folder-button
+- /terms/folder-slip
 - /terms/folder-tab
 - /terms/global-folder
 - /terms/hypernewt
