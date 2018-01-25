@@ -1,0 +1,27 @@
+Title: Key Combination
+
+----
+
+Date: 24 January 2018
+
+----
+
+Text:
+
+A series of keys that are typed at the same time on a keyboard, usually consisting of an alphanumeric character combined with one or more [modifier keys](/terms/modifier-key).
+
+----
+
+Related:
+
+- /terms/auto-repeat
+- /terms/keyboard-equivalent
+- /terms/modifier-key
+- /terms/type-ahead
+- /terms/typewriter
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

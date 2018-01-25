@@ -8,14 +8,17 @@ Date:
 
 Text:
 
-The repeated, automatic generation of characters that happens when a user holds down a key or presses the [pen](/terms/pen) on an onscreen keyboard.
+The repeated, automatic generation of characters that occurs when a user holds down a key or presses the [pen](/terms/pen) on an onscreen keyboard.
 
 ----
 
 Related:
 
+- /terms/key-combination
 - /terms/keyboard-equivalent
+- /terms/modifier-key
 - /terms/type-ahead
+- /terms/typewriter
 
 ----
 

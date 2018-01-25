@@ -15,7 +15,10 @@ The process by which the [Newton OS](/terms/newton-os) stores keystrokes — typ
 Related:
 
 - /terms/auto-repeat
+- /terms/key-combination
 - /terms/keyboard-equivalent
+- /terms/modifier-key
+- /terms/typewriter
 
 ----
 

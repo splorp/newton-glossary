@@ -1,0 +1,27 @@
+Title: Modifier Key
+
+----
+
+Date: 24 January 2018
+
+----
+
+Text:
+
+A key that affects the function of the alphanumeric keys on a keyboard. The use of a modifier key in conjunction with another key is known as a [key combination](/terms/key-combination). Modifier keys include the “Shift”, “Command”, “Control”, “Option”, and “Caps Lock” keys.
+
+----
+
+Related:
+
+- /terms/auto-repeat
+- /terms/key-combination
+- /terms/keyboard-equivalent
+- /terms/type-ahead
+- /terms/typewriter
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

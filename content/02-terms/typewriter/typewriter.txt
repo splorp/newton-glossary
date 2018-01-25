@@ -16,13 +16,14 @@ The default onscreen [keyboard](/terms/keyboard) that appears when the [keyboard
 
 Related:
 
+- /terms/fitaly
 - /terms/keyboard
 - /terms/keyboard-button
 - /terms/keyboard-equivalent
-- /terms/fitaly
 - /terms/numeric
 - /terms/phone
 - /terms/time-date
+
 
 ----
 
