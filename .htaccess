@@ -22,6 +22,8 @@ Redirect 301 /terms/public-jumptable http://newtonglossary.com/terms/public-jump
 Redirect 301 /terms/softwareburo-muller http://newtonglossary.com/sources/softwareburo-muller
 
 # Redirect legacy sources
+Redirect 301 /sources/ezshow http://newtonglossary.com/sources/ezshow-systems
+Redirect 301 /sources/newton-apple-messagepad-handbook http://newtonglossary.com/sources/messagepad-handbook-1993
 Redirect 301 /sources/newton-toolkit-user-guide http://newtonglossary.com/sources/newton-toolkit-users-guide
 
 # Add modification timestamps to css and js files via Cachebuster plugin
