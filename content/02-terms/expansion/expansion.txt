@@ -1,0 +1,30 @@
+Title: Expansion
+
+----
+
+Date: 14 February 2018
+
+----
+
+Text:
+
+A word or phrase that is automatically substituted in place of a user-defined abbreviation. Also known as an [autoexpansion](/terms/autoexpansion), an expansion is stored in the [expand dictionary](/terms/expand-dictionary].
+
+## Additional Information
+
+[Internet Archive: Catamount: Handwriting Tips for Newton Power Users](https://web.archive.org/web/20160319221639/http://www.catamount.com/HWRTips/HWRTips.html)
+
+----
+
+Related:
+
+- /terms/autoexpand
+- /terms/autoexpansion
+- /terms/expand-dictionary
+- /terms/handwriting-recognition
+
+----
+
+Source:
+
+- /sources/catamount
