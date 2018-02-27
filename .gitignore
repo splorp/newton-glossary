@@ -1,6 +1,5 @@
 .DS_Store
 .editorconfig
-.gitignore
 license.php
 kirby/
 panel/
