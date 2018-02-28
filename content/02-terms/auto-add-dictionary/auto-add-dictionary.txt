@@ -1,4 +1,4 @@
-Title: Auto-Add Dictionary
+Title: Auto Add Dictionary
 
 ----
 
@@ -8,9 +8,9 @@ Date: 14 October 2017
 
 Text:
 
-A list of words that have been automatically added to the [user dictionary](/terms/user-dictionary). If the auto-add dictionary is not empty, the [Recently Written Words](/terms/recently-written-words) slip displays its contents when the user opens the [Personal Word List](/terms/personal-word-list) slip.
+A list of words that have been automatically added to the [user dictionary](/terms/user-dictionary). If the auto add dictionary is not empty, the [Recently Written Words](/terms/recently-written-words) slip displays its contents when the user opens the [Personal Word List](/terms/personal-word-list) slip.
 
-The auto-add dictionary is limited to 100 words.
+The auto add dictionary is limited to 100 words.
 
 ----
 

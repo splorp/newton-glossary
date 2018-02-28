@@ -8,7 +8,7 @@ Date: 28 November 2017
 
 Text:
 
-An [object](/terms/object) that provides [methods](/terms/method) for manipulating the contents of the [user dictionary](/terms/user-dictionary), the [expand dictionary](/terms/expand-dictionary), and the [auto-add dictionary](/terms/auto-add-dictionary).
+An [object](/terms/object) that provides [methods](/terms/method) for manipulating the contents of the [user dictionary](/terms/user-dictionary), the [expand dictionary](/terms/expand-dictionary), and the [auto add dictionary](/terms/auto-add-dictionary).
 
 ----
 

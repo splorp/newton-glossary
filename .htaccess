@@ -10,6 +10,9 @@ RewriteCond %{HTTP_HOST} !.*newtonglossary\.com$ [NC]
 RewriteRule ^(.*)$ http://newtonglossary.com/$1 [R=301,L]
 
 # Redirect legacy terms
+Redirect 301 /terms/autoexpand http://newtonglossary.com/terms/auto-expand
+Redirect 301 /terms/autoexpansion http://newtonglossary.com/terms/auto-expansion
+Redirect 301 /terms/autoexpansion-dictionary http://newtonglossary.com/terms/auto-expansion-dictionary
 Redirect 301 /terms/central-processing-unit http://newtonglossary.com/terms/cpu
 Redirect 301 /terms/electro-luminescent-panel http://newtonglossary.com/terms/electroluminescent-panel
 Redirect 301 /terms/hidee http://newtonglossary.com/terms/hideeworld

@@ -1,4 +1,4 @@
-Title: Autoexpand
+Title: Auto Expand
 
 ----
 
@@ -19,7 +19,7 @@ The action of automatically substituting or expanding an abbreviation into a use
 Related:
 
 - /terms/auto-add-dictionary
-- /terms/autoexpansion
+- /terms/auto-expansion
 - /terms/custom-dictionary
 - /terms/dictionary
 - /terms/dictionary-button

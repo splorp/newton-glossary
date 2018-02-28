@@ -8,7 +8,7 @@ Date: 14 February 2018
 
 Text:
 
-A word or phrase that is automatically substituted in place of a user-defined abbreviation. Also known as an [autoexpansion](/terms/autoexpansion), an expansion is stored in the [expand dictionary](/terms/expand-dictionary).
+A word or phrase that is automatically substituted in place of a user-defined abbreviation. Also known as an [autoexpansion](/terms/auto-expansion), an expansion is stored in the [expand dictionary](/terms/expand-dictionary).
 
 ## Additional Information
 
@@ -18,8 +18,8 @@ A word or phrase that is automatically substituted in place of a user-defined ab
 
 Related:
 
-- /terms/autoexpand
-- /terms/autoexpansion
+- /terms/auto-expand
+- /terms/auto-expansion
 - /terms/expand-dictionary
 - /terms/handwriting-recognition
 
