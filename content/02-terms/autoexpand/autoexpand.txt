@@ -8,7 +8,7 @@ Date: 14 February 2018
 
 Text:
 
-The action of automatically substituting or expanding an abbreviation into a user-defined word or phrase. Abbreviations and their associated output are stored in the [expand dictionary](/terms/expand-dictionary].
+The action of automatically substituting or expanding an abbreviation into a user-defined word or phrase. Abbreviations and their associated output are stored in the [expand dictionary](/terms/expand-dictionary).
 
 ## Additional Information
 
