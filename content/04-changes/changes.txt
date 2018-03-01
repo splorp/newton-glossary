@@ -20,13 +20,15 @@ Recently added terms and sources can be found on the [latest additions](/latest)
 
 ## 2.4.3
 
-Terms: _$t
-Sources: _$s
+01 March 2018
+
+Terms: 1,251
+Sources: 122
 
 ### Summary of changes:
 
-+ Added new terms
-+ Added new sources
++ Added 37 new terms
++ Added 3 new sources
 + Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version [2.5.8](https://getkirby.com/changelog/kirby-2-5-8)
 
