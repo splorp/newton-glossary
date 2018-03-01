@@ -1,0 +1,17 @@
+Title: Battery Level Indicator
+
+----
+
+Date: 28 February 2018
+
+----
+
+Text:
+
+See [Battery Gauge](/terms/battery-gauge)
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines
