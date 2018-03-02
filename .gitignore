@@ -1,7 +1,4 @@
 .DS_Store
 .editorconfig
 license.php
-kirby/
-panel/
-site/cache/
-site/panel/
+*/cache/*
