@@ -25,8 +25,8 @@ Related:
 - /terms/deep-toast
 - /terms/long-term-storage
 - /terms/memory-effect
-- /terms/nickel-cadmium
-- /terms/nickel-metal-hydride
+- /terms/nicd
+- /terms/nimh
 - /terms/recelled
 - /terms/receller
 - /terms/rhythm-method

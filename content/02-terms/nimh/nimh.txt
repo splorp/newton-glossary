@@ -8,4 +8,31 @@ Date:
 
 Text:
 
-See [Nickel Metal Hydride](/terms/nickel-metal-hydride)
+Nickel Metal Hydride
+
+A rechargeable [battery](/terms/battery) technology that is not susceptible to [memory effect](/terms/memory-effect), unlike [NiCd](/terms/nicd) batteries.
+
+----
+
+Related:
+
+- /terms/backup-battery
+- /terms/battery
+- /terms/battery-booster-pack
+- /terms/battery-gauge
+- /terms/battery-pack
+- /terms/battery-tray
+- /terms/cell
+- /terms/charge-state
+- /terms/deep-toast
+- /terms/long-term-storage
+- /terms/mah
+- /terms/memory-effect
+- /terms/nicd
+- /terms/rhythm-method
+
+----
+
+Source:
+
+- /sources/techencyclopedia

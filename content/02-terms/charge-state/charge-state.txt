@@ -26,8 +26,8 @@ Related:
 - /terms/mah
 - /terms/memory-effect
 - /terms/newttest
-- /terms/nickel-cadmium
-- /terms/nickel-metal-hydride
+- /terms/nicd
+- /terms/nimh
 - /terms/recell
 - /terms/recelled
 - /terms/receller

@@ -1,4 +1,4 @@
-Title: Nicad
+Title: NiCad
 
 ----
 
@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Nickel Cadmium](/terms/nickel-cadmium)
+See [NiCd](/terms/nicd)

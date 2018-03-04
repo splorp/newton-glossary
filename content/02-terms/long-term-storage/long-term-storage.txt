@@ -26,8 +26,8 @@ Related:
 - /terms/holy-shit-yellow
 - /terms/lts
 - /terms/memory-effect
-- /terms/nickel-cadmium
-- /terms/nickel-metal-hydride
+- /terms/nicd
+- /terms/nimh
 - /terms/rhythm-method
 
 ----

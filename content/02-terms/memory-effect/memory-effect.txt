@@ -25,8 +25,8 @@ Related:
 - /terms/deep-toast
 - /terms/long-term-storage
 - /terms/mah
-- /terms/nickel-cadmium
-- /terms/nickel-metal-hydride
+- /terms/nicd
+- /terms/nimh
 - /terms/rhythm-method
 
 ----
