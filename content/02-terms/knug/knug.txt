@@ -22,6 +22,7 @@ Related:
 - /terms/dang
 - /terms/dnug
 - /terms/gfun
+- /terms/gnut
 - /terms/hknug
 - /terms/inug
 - /terms/lanug

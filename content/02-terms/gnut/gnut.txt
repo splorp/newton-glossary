@@ -1,32 +1,35 @@
-Title: MISNIC
+Title: GNUT
 
 ----
 
-Date:
+Date: 04 March 2018
 
 ----
 
 Text:
 
-Mississippi Newton Interest Club
+Group of Newton Users in Toronto
+
+A Canadian user group founded by Stephen Kendall.
 
 ## Additional Information
 
-[Internet Archive: MISNIC Website](https://web.archive.org/web/19980122061559/http://www.misnic.com/)
+[Internet Archive: GNUT Website](https://web.archive.org/web/19990204030411/http://www.interlog.com/~skendall/gnut.html)
 
 ----
 
 Related:
 
+- /terms/adaug
 - /terms/anug
 - /terms/dang
 - /terms/dnug
 - /terms/gfun
-- /terms/gnut
 - /terms/hknug
 - /terms/inug
 - /terms/knug
 - /terms/lanug
+- /terms/misnic
 - /terms/msnug
 - /terms/nanug
 - /terms/nenug
@@ -34,6 +37,9 @@ Related:
 - /terms/ngfun
 - /terms/ngn
 - /terms/nose
+- /terms/nug-central
+- /terms/nugom
+- /terms/oznug
 - /terms/random
 - /terms/sane
 - /terms/snag
@@ -43,9 +49,3 @@ Related:
 - /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
-
-----
-
-Source:
-
-- /sources/newton-faq
