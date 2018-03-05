@@ -14,5 +14,6 @@ A monthly email newsletter published by the [Newton Systems Group](/terms/newton
 
 Related:
 
+- /terms/newtnews
 - /terms/newton-systems-group
 - /terms/protoreality
