@@ -12,7 +12,7 @@ A graphical indicator automatically displayed by the system while it is temporar
 
 ![Screenshot of the Busy Cursor](/assets/images/busy-cursor.gif)
 
-Colloquially known as the [lightblub icon](/terms/lightblub-icon) or the [something’s happening icon](/terms/somethings-happening-icon).
+Colloquially known as the [lightbulb icon](/terms/lightbulb-icon) or the [something’s happening icon](/terms/somethings-happening-icon).
 
 ----
 
@@ -20,7 +20,8 @@ Related:
 
 - /terms/cursor
 - /terms/icon
-- /terms/lightblub-icon
+- /terms/lightbulb-icon
+- /terms/lightbulb-noodles
 - /terms/somethings-happening-icon
 
 ----

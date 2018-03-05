@@ -1,0 +1,24 @@
+Title: Lightbulb Noodles
+
+----
+
+Date: 04 March 2018
+
+----
+
+Text:
+
+The “squiggle” elements radiating from the lightbulb found in the official Newton logo.
+
+----
+
+Related:
+
+- /terms/busy-cursor
+- /terms/somethings-happening-icon
+
+----
+
+Source:
+
+- /sources/tom-buzzeo

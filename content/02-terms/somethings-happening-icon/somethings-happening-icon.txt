@@ -15,8 +15,10 @@ A colloquial reference to the [busy cursor](/terms/busy-cursor) as coined by [Da
 Related:
 
 - /terms/busy-cursor
+- /terms/cursor
 - /terms/icon
-- /terms/lightblub-icon
+- /terms/lightbulb-icon
+- /terms/lightbulb-noodles
 
 ----
 
