@@ -8,7 +8,9 @@ Date: 04 March 2018
 
 Text:
 
-The “squiggle” elements radiating from the lightbulb found in the official Newton logo.
+The “squiggly” elements radiating from the Newton logo.
+
+![Newton logo](/assets/images/lightbulb-noodles.png)
 
 ## More Information
 
