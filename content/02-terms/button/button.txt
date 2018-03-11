@@ -14,6 +14,7 @@ A small [graphical user interface](/terms/graphical-user-interface) object that 
 
 Related:
 
+- /terms/analog-clock-button
 - /terms/action-button
 - /terms/button-bar
 - /terms/button-host

@@ -1,0 +1,27 @@
+Title: Analog Clock Button
+
+----
+
+Date: 11 March 2018
+
+----
+
+Text:
+
+A [button](/terms/button) displaying the current time of day located at the left end of the [status bar](/terms/status-bar) in an [application](/terms/application). [Tapping](/terms/tapping) the analog clock button opens a small panel which displays a digital clock and the [battery gauge](/terms/battery-gauge).
+
+----
+
+Related:
+
+- /terms/battery-gauge
+- /terms/button
+- /terms/status-bar	
+- /terms/time-date
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines
