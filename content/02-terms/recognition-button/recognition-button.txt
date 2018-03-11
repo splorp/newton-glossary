@@ -25,6 +25,7 @@ Related:
 - /terms/recognizer-button
 - /terms/shapes
 - /terms/sketches
+- /terms/status-bar
 - /terms/text
 - /terms/user-interface
 

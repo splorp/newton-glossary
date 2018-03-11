@@ -16,6 +16,7 @@ Related:
 
 - /terms/button
 - /terms/close
+- /terms/close-button
 - /terms/large-close-box
 - /terms/user-interface
 - /terms/x

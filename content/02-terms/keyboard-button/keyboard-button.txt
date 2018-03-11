@@ -20,6 +20,7 @@ Related:
 - /terms/numeric
 - /terms/phone
 - /terms/picker
+- /terms/status-bar
 - /terms/time-date
 - /terms/typewriter
 - /terms/user-interface

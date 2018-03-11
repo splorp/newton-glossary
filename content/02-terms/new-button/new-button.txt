@@ -20,6 +20,7 @@ Related:
 
 - /terms/button
 - /terms/new-picker
+- /terms/status-bar
 - /terms/text-button
 - /terms/user-interface
 
