@@ -18,6 +18,7 @@ Related:
 - /terms/close
 - /terms/close-button
 - /terms/large-close-box
+- /terms/status-bar
 - /terms/user-interface
 - /terms/x
 
