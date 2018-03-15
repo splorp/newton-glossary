@@ -12,7 +12,7 @@ An alternative onscreen [keyboard](/terms/keyboard) for [Newton OS](/terms/newto
 
 Versions of Fitaly were also available for Windows and Palm platforms.
 
-![Screenshot of Fitaly Keyboard](/assets/images/fitaly-with-number-pad.gif)
+![Screenshot of the Fitaly Keyboard](/assets/images/fitaly-with-number-pad.gif)
 
 ## Additional Information
 

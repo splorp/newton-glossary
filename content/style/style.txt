@@ -34,6 +34,7 @@ _Examples:_
 + Use “operating system” not “system”
 + Use “Newton device” not “Newton”
 + Use “Newton OS” not “NOS”
++ Use “website” not “site”
 
 ## Referring to other terms
 
