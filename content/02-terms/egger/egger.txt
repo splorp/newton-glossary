@@ -24,6 +24,7 @@ Related:
 - /terms/bugtrap
 - /terms/debug
 - /terms/debugger
+- /terms/debugging
 - /terms/hammer
 - /terms/leibniz
 - /terms/macintosh-programmers-workshop

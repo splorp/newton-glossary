@@ -20,6 +20,7 @@ Related:
 - /terms/cirrus
 - /terms/debug
 - /terms/debugger
+- /terms/debugging
 - /terms/figaro
 - /terms/junior
 - /terms/messagepad
