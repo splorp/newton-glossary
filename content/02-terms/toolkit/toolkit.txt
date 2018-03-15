@@ -17,6 +17,7 @@ An [application](/terms/application) which allows the [Newton Toolkit](/terms/ne
 Related:
 
 - /terms/inspector
+- /terms/minspector
 - /terms/newton-toolkit
 
 ----

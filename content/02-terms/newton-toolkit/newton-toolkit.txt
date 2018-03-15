@@ -34,6 +34,7 @@ Related:
 - /terms/layout-file
 - /terms/inspector
 - /terms/macintosh-common-lisp
+- /terms/minspector
 - /terms/newtapp
 - /terms/newtdevenv
 - /terms/newton-book-maker

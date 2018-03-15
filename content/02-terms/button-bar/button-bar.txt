@@ -20,6 +20,7 @@ Related:
 - /terms/button
 - /terms/button-host
 - /terms/button-provider
+- /terms/dash-board
 - /terms/hard-button
 - /terms/icon
 - /terms/killbb

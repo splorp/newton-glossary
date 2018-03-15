@@ -1,0 +1,37 @@
+Title: Dash Board
+
+----
+
+Date: 15 March 2018
+
+----
+
+Text:
+
+A [user interface](/terms/user-interface) enhancement [package](/terms/package) for [Newton OS](/terms/newton-os) 2.1 developed by [Mason Mark](/sources/mason-mark) of [Five Speed Software](http://www.fivespeedsoftware.com/). Dash Board provides a customizable alternate [button bar](/terms/button-bar), a hierarchical menu for easy access to [applications](/terms/application) and [folders](/terms/folder), and extensive [NewtonScript](/terms/newtonscript) support.
+
+![Screenshot of Dash Board in action](/assets/images/dash-board.gif)
+
+## Additional Information
+
+[Five Speed Software: Dash Board](http://www.fivespeedsoftware.com/dashboard/)
+[Mason Mark: Dash Board, Revisted](http://masonmark.com/dash-board-revisited/)
+[GitHub: Dash Board 2013](https://github.com/masonmark/Dash-Board-for-Newton-OS)
+
+----
+
+Related:
+
+- /terms/barkeep
+- /terms/button
+- /terms/button-bar
+- /terms/killbb
+- /terms/ryo
+- /terms/soft-button
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/mason-mark

@@ -23,6 +23,7 @@ Related:
 - /terms/barkeep
 - /terms/button
 - /terms/button-bar
+- /terms/dash-board
 - /terms/diy
 - /terms/hard-button
 - /terms/icon

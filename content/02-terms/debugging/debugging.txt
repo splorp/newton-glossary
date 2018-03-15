@@ -20,6 +20,7 @@ Related:
 - /terms/egger
 - /terms/hammer
 - /terms/inspector
+- /terms/minspector
 - /terms/newtsbug
 - /terms/senior
 - /terms/viewframe

@@ -17,6 +17,7 @@ Related:
 - /terms/debug
 - /terms/debugger
 - /terms/inspector
+- /terms/minspector
 - /terms/newton-toolkit
 
 ----
