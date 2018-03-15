@@ -20,6 +20,7 @@ A third-party device that utilizes a licensed version of [Newton OS](/terms/newt
 
 Related:
 
+- /terms/atnet
 - /terms/clone
 - /terms/messenotizen
 - /terms/notephone-2000

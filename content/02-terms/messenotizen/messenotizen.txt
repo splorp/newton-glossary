@@ -18,6 +18,7 @@ An alternate (and erroneously applied) name for the prototype Newton device deve
 
 Related:
 
+- /terms/atnet
 - /terms/clone
 - /terms/oad
 - /terms/notephone

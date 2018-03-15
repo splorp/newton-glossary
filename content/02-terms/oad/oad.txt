@@ -20,6 +20,7 @@ An alternate name for the prototype Newton device developed by [Siemens](https:/
 
 Related:
 
+- /terms/atnet
 - /terms/clone
 - /terms/messenotizen
 - /terms/notephone
