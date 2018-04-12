@@ -1,0 +1,31 @@
+Title: Modeminos
+
+----
+
+Date: 17 March 2018
+
+----
+
+Text:
+
+
+A chain of dominos created by members of Apple’s [Developer Technical Services](/terms/developer-technical-services) team using 4,000 [Newton Fax Modems](/terms/newton-fax-modem). Originally shot by [Maurice “Dr Llama” Sharp](/sources/maurice-sharp) on a “slow” day in 1996, the “Modeminos” video was included on several editions of the [Newton Developer CD](/terms/newton-developer-cd).
+
+## Additional Information
+
+[YouTube: Modeminos Video](https://www.youtube.com/watch?v=teW7a8lOwYY)
+
+----
+
+Related:
+
+- /terms/cigarette-pack
+- /terms/developer-technical-services
+- /terms/dr-llama
+- /terms/newton-fax-modem
+
+----
+
+Source:
+
+- /sources/maurice-sharp
