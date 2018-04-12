@@ -13,6 +13,7 @@ Published by [Apple](https://www.apple.com/) in 1996 as a companion to the [Newt
 ## Additional Information
 
 [Amazon: Newton Programmer’s Guide for Newton 2.0](http://amzn.to/1Q3txlQ)
-[Apple: Newton Programmer’s Guide for Newton 2.0](https://manuals.info.apple.com/MANUALS/1000/MA1510/en_US/NewtonProgrammerGuide20.PDF) (PDF)
 [UNNA: Newton Programmer’s Guide for Newton 2.0](http://www.unna.org/unna/apple/documentation/developer/ProgrammersGuideOS2.0.pdf) (PDF)
 [UNNA: Newton Programmer’s Guide: OS 2.1 Addendum](http://www.unna.org/unna/apple/documentation/developer/ProgrammersGuideOS2.1Addenum.pdf) (PDF)
+[The Newted Community: Newton Programmer’s Guide for Newton 2.0](http://www.newted.org/download/manuals/NewtonProgrammerGuide20.pdf) (PDF)
+[The Newted Community: Newton Programmer’s Guide: OS 2.1 Addendum](http://www.newted.org/download/manuals/NewtonProgrammerGuide21Add.pdf) (PDF)
