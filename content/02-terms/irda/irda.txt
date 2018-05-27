@@ -21,6 +21,7 @@ An industry body developing standards for [infrared](/terms/infrared) data trans
 Related:
 
 - /terms/ask
+- /terms/backtalk
 - /terms/beaming
 - /terms/fast-infrared
 - /terms/infrared
