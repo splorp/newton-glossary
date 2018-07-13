@@ -28,6 +28,7 @@ Sources: _$s
 + Added new terms
 + Added new sources
 + Updated and expanded dozens of existing entries
++ Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin to version [1.1.1](https://github.com/pedroborges/kirby-meta-tags/releases/tag/v1.1.1)
 + Updated [Kirby](https://getkirby.com/) to version [2.5.9](https://getkirby.com/changelog/kirby-2-5-9)
 
 ## 2.4.3
@@ -56,7 +57,7 @@ Sources: 119
 + Added 59 new terms
 + Added 10 new sources
 + Updated and expanded dozens of existing entries
-+ Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-xml-sitemap) plugin to version 1.0.0
++ Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin to version [1.0.0](https://github.com/pedroborges/kirby-meta-tags/releases/tag/v1.0.0)
 + Removed contextual header elements from page templates
 + Updated [Kirby](https://getkirby.com/) to version [2.5.7](https://getkirby.com/changelog/kirby-2-5-7)
 
@@ -105,7 +106,7 @@ Sources: 106
 + Added 58 new terms
 + Added 8 new sources
 + Updated and expanded dozens of existing entries
-+ Implemented [Kirby Meta Tags](https://github.com/pedroborges/kirby-xml-sitemap) plugin
++ Implemented [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin
 + Added [Open Graph](http://ogp.me/) and [Twitter Cards](https://dev.twitter.com/cards/overview) meta tag support
 + Updated site and mobile device icons
 

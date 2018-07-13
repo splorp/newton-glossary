@@ -47,7 +47,7 @@ Other glossarial references we love.
 
 ## Colophon
 
-This iteration of the glossary is formatted in [Markdown](http://daringfireball.net/projects/markdown/) using plain text files and published using [Kirby](https://getkirby.com/) — an extensible content management system built on PHP.
+This iteration of the glossary is formatted in [Markdown](http://daringfireball.net/projects/markdown/) using plain text files and published with [Kirby](https://getkirby.com/) — an extensible content management system built on PHP.
 
 We run our stylesheets through [CSSLint](http://csslint.net/) because tidy code is better code … and we don’t mind getting our feelings hurt.
 

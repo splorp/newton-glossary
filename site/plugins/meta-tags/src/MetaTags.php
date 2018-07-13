@@ -54,13 +54,13 @@ class MetaTags
         static::$instance = $this;
     }
 
-     /**
-     * Return an existing instance or create a new one.
-     *
-     * @param  Page  $page
-     *
-     * @return HeadTags
-     */
+    /**
+    * Return an existing instance or create a new one.
+    *
+    * @param  Page  $page
+    *
+    * @return HeadTags
+    */
     public static function instance($page)
     {
         return static::$instance = is_null(static::$instance)
@@ -68,11 +68,11 @@ class MetaTags
             : static::$instance;
     }
 
-    public function render()
+    public function render($groups = null)
     {
         $this->addTagsFromTemplate();
 
-        return $this->tags->render();
+        return $this->tags->render($groups);
     }
 
     protected function addTagsFromTemplate()
@@ -102,9 +102,13 @@ class MetaTags
             $value = null;
         }
 
-        if ($group === 'title') $tag = $value;
+        if ($group === 'title') {
+            $tag = $value;
+        }
 
-        if (is_array($value)) {
+        if ($group === 'json-ld') {
+            $this->addJsonld($tag, $value);
+        } elseif (is_array($value)) {
             $this->addTagsArray($tag, $value, $group);
         } elseif (! empty($value)) {
             $this->tags->$group($tag, $value);
@@ -130,12 +134,27 @@ class MetaTags
         }
     }
 
-    public function __call($method, $arguments) {
-        if( method_exists($this->tags, $method)) {
-            return call_user_func_array(array($this->tags, $method), $arguments);
+    protected function addJsonld($type, $schema)
+    {
+        $schema = array_reverse($schema, true);
+
+        if (! isset($schema['@type'])) {
+            $schema['@type'] = Str::ucfirst($type);
+        }
+
+        if (! isset($schema['@context'])) {
+            $schema['@context'] = 'http://schema.org';
+        }
+
+        $this->tags->jsonld(array_reverse($schema, true));
+    }
+
+    public function __call($method, $arguments)
+    {
+        if (method_exists($this->tags, $method)) {
+            return call_user_func_array([$this->tags, $method], $arguments);
         } else {
             throw new Exception('Invalid method: ' . $method);
         }
     }
-
 }
