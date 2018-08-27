@@ -8,7 +8,9 @@ Date: 27 August 2018
 
 Text:
 
-A dot-shaped [button](/terms/button) used to change the current view of items being displayed on the [screen](/terms/screen). Instead of showing the details of an individual item, an [overview](/terms/overview) presents a summarized list of multiple items at once. The overview button is located between the [universal scroll arrows](/terms/universal-scroll-arrows) in the standard [button bar](/terms/button-bar) found on all Newton devices.
+A dot-shaped [button](/terms/button) used to change the current view of items being displayed on the [screen](/terms/screen). Instead of showing the details of an individual item, an [overview](/terms/overview) presents a summarized list of multiple items.
+
+The overview button is located between the [universal scroll arrows](/terms/universal-scroll-arrows) in the standard [button bar](/terms/button-bar) found on all Newton devices.
 
 ----
 
