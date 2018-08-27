@@ -15,6 +15,7 @@ The eponymous nickname given to [NewtonScript](/terms/newtonscript) in honour of
 Related:
 
 - /terms/newtonscript
+- /terms/prota
 - /terms/script
 
 ----

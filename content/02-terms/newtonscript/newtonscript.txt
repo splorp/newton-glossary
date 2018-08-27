@@ -28,6 +28,7 @@ Related:
 - /terms/object
 - /terms/page-script
 - /terms/project
+- /terms/prota
 - /terms/ralph
 - /terms/script
 - /terms/viewframe

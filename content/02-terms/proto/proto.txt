@@ -12,6 +12,8 @@ A [frame](/terms/frame) referenced through another frame’s `_proto` [slot](/te
 
 Also referred to as a [prototype](/terms/prototype).
 
+Proto was also the original name of [Prota](/terms/prota), an alternate implementation of [NewtonScript](/terms/newtonscript) created by [Walter Smith](/sources/walter-smith).
+
 ----
 
 Related:
@@ -20,6 +22,7 @@ Related:
 - /terms/frame
 - /terms/instantiate
 - /terms/message
+- /terms/prota
 - /terms/proto-template
 - /terms/prototype
 - /terms/reference
