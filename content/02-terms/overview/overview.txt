@@ -1,0 +1,25 @@
+Title: Overview
+
+----
+
+Date: 27 August 2018
+
+----
+
+Text:
+
+A [view](/terms/view) that displays a summarized list of multiple items at once. From an overview, a user can [tap](/terms/tap) on a item to see more detailed information. To select, view, or interact with multiple items in an overview list, the user taps the [checkboxes](/terms/checkbox) beside each item and performs another action, such as [routing](/terms/routing). The overview is presented by tapping the [overview button](/terms/overview-button) in an [application](/terms/application) such as [Notepad](/terms/notepad) or the [Extras Drawer](/terms/extras-drawer).
+
+----
+
+Related:
+
+- /terms/overview-button
+- /terms/user-interface
+- /terms/view
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines
