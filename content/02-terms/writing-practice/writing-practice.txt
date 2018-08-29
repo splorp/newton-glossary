@@ -1,0 +1,28 @@
+Title: Writing Practice
+
+----
+
+Date: 29 August 2018
+
+----
+
+Text:
+
+The built-in [application](/terms/application) which provides an interactive means to practice and adapt your writing style in order to improve [handwriting recognition](/terms/handwriting-recognition).
+
+----
+
+Related:
+
+- /terms/application
+- /terms/emate-tour
+- /terms/handwriting-instructor
+- /terms/handwriting-recognition
+- /terms/newton-tour
+- /terms/works-practice
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

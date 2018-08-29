@@ -1,0 +1,30 @@
+Title: Works Practice
+
+----
+
+Date: 29 August 2018
+
+----
+
+Text:
+
+The built-in [application](/terms/application) which provides an interactive tutorial for teaching how to use the word processing and drawing components of [Newton Works](/terms/newton-works) on an [eMate](/terms/emate-300) device.
+
+----
+
+Related:
+
+- /terms/application
+- /terms/paper
+- /terms/drawing
+- /terms/newton-works
+- /terms/emate-tour
+- /terms/handwriting-instructor
+- /terms/newton-tour
+- /terms/writing-practice
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide

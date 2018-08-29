@@ -1,0 +1,27 @@
+Title: eMate Tour
+
+----
+
+Date: 29 August 2018
+
+----
+
+Text:
+
+The built-in [application](/terms/application) which provides an interactive tutorial for learning the basics of an [eMate](/terms/emate-300) device and its various features. On a [MessagePad](/terms/messagepad) device, a similar tutorial is named [Newton Tour](/terms/newton-tour).
+
+----
+
+Related:
+
+- /terms/application
+- /terms/handwriting-instructor
+- /terms/newton-tour
+- /terms/works-practice
+- /terms/writing-practice
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide

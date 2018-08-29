@@ -24,10 +24,10 @@ Related:
 - /terms/eat-up-martha
 - /terms/egg-freckles
 - /terms/guest-user
+- /terms/handwriting-instructor
 - /terms/hwr
 - /terms/ink
 - /terms/inkwell
-- /terms/letter-shapes
 - /terms/letter-shapes
 - /terms/mondello
 - /terms/neuropen
@@ -39,3 +39,4 @@ Related:
 - /terms/text-recognition
 - /terms/try-letters
 - /terms/writehere
+- /terms/writing-practice

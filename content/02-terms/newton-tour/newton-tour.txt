@@ -1,0 +1,27 @@
+Title: Newton Tour
+
+----
+
+Date: 29 August 2018
+
+----
+
+Text:
+
+The built-in [application](/terms/application) which provides an interactive tutorial for learning the basics of a [MessagePad](/terms/messagepad) device and its various features. On an [eMate](/terms/emate-300) device, a similar tutorial is named [eMate Tour](/terms/emate-tour).
+
+----
+
+Related:
+
+- /terms/application
+- /terms/emate-tour
+- /terms/handwriting-instructor
+- /terms/works-practice
+- /terms/writing-practice
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

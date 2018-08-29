@@ -41,6 +41,7 @@ Related:
 - /terms/rosetta
 - /terms/rosetta-stone
 - /terms/try-letters
+- /terms/writing-practice
 
 ----
 
