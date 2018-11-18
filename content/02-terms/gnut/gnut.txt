@@ -10,11 +10,19 @@ Text:
 
 Group of Newton Users in Toronto
 
-A short-lived Canadian user group that met monthly near [The Newton Store](/terms/the-newton-store) in Toronto.
+A Canadian user group founded by John Marman in October 1993. Designed as a forum for business professionals using Newton devices, the group met monthly near [The Newton Store](/terms/the-newton-store) in Toronto.
+
+GNUT is pronounced “Newt”.
 
 ## Additional Information
 
 [Internet Archive: GNUT Website](https://web.archive.org/web/19990204030411/http://www.interlog.com/~skendall/gnut.html)
+
+----
+
+Source:
+
+- /sources/pen-based-computing
 
 ----
 
