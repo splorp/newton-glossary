@@ -8,7 +8,11 @@ Date:
 
 Text:
 
-A speculative, pen-based tablet computer concept that predated the original Newton project. Figaro would eventually evolve into the [Newton Plus](/terms/newton-plus) device, which was code named [Senior](/terms/senior).
+A speculative, pen-based tablet computer concept that kicked off the original Newton project. Figaro featured a hard drive, an active matrix [LCD](/terms/lcd) display, and [infrared](/terms/infrared) networking. The form factor would eventually evolve into the [Newton Plus](/terms/newton-plus) device.
+
+## Additional Information
+
+[Gizmodo: The Story Behind Apple’s Newton](https://gizmodo.com/5452193/the-story-behind-apples-newton)
 
 ----
 
