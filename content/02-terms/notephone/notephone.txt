@@ -13,6 +13,7 @@ A Newton device developed by [Siemens](https://www.siemens.com/) for the German 
 A third-party device that utilizes a licensed version of [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
 
 ## Additional Information
+
 [New York Times: Apple Will Get Some Help From Siemens](http://www.nytimes.com/1993/03/12/business/company-news-apple-will-get-some-help-from-siemens.html)
 [Flickr: Jim Abeles’ Siemens NotePhone Prototype](https://www.flickr.com/photos/abeles/albums/72157647360762817)
 
