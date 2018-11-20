@@ -1,0 +1,27 @@
+Title: Deutsche Newton
+
+----
+
+Date: 19 November 2018
+
+----
+
+Text:
+
+A colloquial term referring to a Newton device running a German version of [Newton OS](/terms/newton-os). German localized operating systems were available for the [Original MessagePad](/terms/original-messagepad), [MessagePad 100](/terms/messagepad-100), [MessagePad 120](/terms/messagepad-120), [MessagePad 130](/terms/messagepad-130), [MessagePad 2100](/terms/messagepad-2100), and certain third-party Newton devices such as the Siemens [NotePhone](/terms/notephone).
+
+----
+
+Related:
+
+- /terms/messenotizen
+- /terms/newton-os
+- /terms/notephone
+- /terms/oad
+- /terms/siemens-online-terminal
+
+----
+
+Source:
+
+- /sources/pen-based-computing

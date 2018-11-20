@@ -20,6 +20,7 @@ Related:
 
 - /terms/atnet
 - /terms/clone
+- /terms/deutsche-newton
 - /terms/oad
 - /terms/notephone
 - /terms/notephone-2000

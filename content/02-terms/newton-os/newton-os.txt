@@ -14,6 +14,7 @@ The [operating system](/terms/operating-system) that controls a Newton device. A
 
 Related:
 
+- /terms/deutsche-newton
 - /terms/kernel
 - /terms/nos
 - /terms/operating-system
