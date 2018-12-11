@@ -1,8 +1,10 @@
 # Kirby .htaccess
 
-# Rewrite rules
+Options -Indexes
+
 <IfModule mod_rewrite.c>
 
+# Rewrite rules
 RewriteEngine on
 
 # Redirect legacy domain links
