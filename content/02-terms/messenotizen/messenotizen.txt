@@ -24,6 +24,7 @@ Related:
 - /terms/oad
 - /terms/notephone
 - /terms/notephone-2000
+- /terms/notephone-ii
 - /terms/siemens-online-terminal
 
 ----

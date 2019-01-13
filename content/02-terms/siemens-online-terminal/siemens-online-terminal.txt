@@ -10,7 +10,7 @@ Text:
 
 A prototype device developed by [Siemens](https://www.siemens.com/) that was positioned as an “all-in-one communication terminal” employing a [user interface](/terms/user-interface) based on [Newton OS](/terms/newton-os) and combining several communication services including wireless telephony, fax, voice messaging, web access, and email. Siemens also developed the [NotePhone](/terms/notephone) which combined a telephone and fax modem with the equivalent of an [Original MessagePad](/terms/original-messagepad).
 
-Erroneously referred to as a [NotePhone 2000](/terms/notephone-2000), the Siemens Online Terminal is also known as the [OAD](/terms/oad) (Online Access Device) and the [@net](/terms/atnet).
+Erroneously referred to as a [NotePhone 2000](/terms/notephone-2000) or [NotePhone II](/terms/notephone-ii), the Siemens Online Terminal is also known as the [OAD](/terms/oad) (Online Access Device) and the [@net](/terms/atnet).
 
 A third-party device that utilizes a licensed version of [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
 
@@ -34,6 +34,7 @@ Related:
 - /terms/messenotizen
 - /terms/notephone
 - /terms/notephone-2000
+- /terms/notephone-ii
 - /terms/oad
 
 ----

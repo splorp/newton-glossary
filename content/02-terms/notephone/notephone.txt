@@ -26,6 +26,7 @@ Related:
 - /terms/deutsche-newton
 - /terms/messenotizen
 - /terms/notephone-2000
+- /terms/notephone-ii
 - /terms/oad
 - /terms/siemens-online-terminal
 
