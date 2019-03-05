@@ -8,7 +8,13 @@ Date:
 
 Text:
 
-A browsing and [debugging](/terms/debugging) utility for [Newton OS](/terms/newton-os) developed by [Jason Harper](http://nixietube.info/). ViewFrame allows the user to navigate, inspect, and modify NewtonScript [objects](/terms/object) and [soup](/terms/soup) data.
+A browsing and [debugging](/terms/debugging) utility for [Newton OS](/terms/newton-os) developed by [Jason Harper](http://nixietube.info/) and distributed by [Creative Digital Publishing](/sources/creative-digital-publishing). ViewFrame allows the user to navigate, inspect, and modify NewtonScript [objects](/terms/object) and [soup](/terms/soup) data.
+
+![Screenshot of ViewFrame](/assets/images/viewframe.gif)
+
+## Additional Information
+
+[Internet Archive: ViewFrame 1.2 Product Information](https://web.archive.org/web/19970414045512/http://www.cdpubs.com:80/VFrame.html) 
 
 ----
 
@@ -31,4 +37,4 @@ Related:
 
 Source:
 
-- /sources/grant-hutchinson
+- /sources/creative-digital-publishing
