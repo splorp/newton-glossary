@@ -271,7 +271,7 @@ footer nav {
 		margin-bottom: 20px;
 		}
 
-	header h1 {
+	h1 {
 		font-size: 30px;
 		margin-bottom: 10px;
 		}
@@ -284,7 +284,8 @@ footer nav {
 	article ol {
 		margin-left: 20px;
 		}
-	
+	}
+
 /*
 	Small Screen Styles
 */
