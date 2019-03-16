@@ -10,7 +10,7 @@ Text:
 
 Software developed by [Apple](https://www.apple.com/) that provided a means to run and [debug](/terms/debug) Newton software on a Mac OS [desktop computer](/terms/desktop-computer) outfitted with a NuBus-based [ARMageddon](/terms/armageddon) or [ARMistice](/terms/armistice) card. Egger would load a [ROM](/terms/rom) image containing the [Newton OS](/terms/newton-os) and display a functional representation of the Newton [screen](/terms/screen) in a window on the Macintosh.
 
-## Additional Information
+### Additional Information
 
 [GitHub: Leibniz](https://github.com/pablomarx/Leibniz)
 

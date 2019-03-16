@@ -10,7 +10,7 @@ Text:
 
 A business-focused, technology news website currently under the wing of [CBS Interactive](https://www.cbsinteractive.com/). ZDNet was originally founded on April 1st, 1991 as a general interest technology portal published by [Ziff Davis](http://www.ziffdavis.com/).
 
-## Additional Information
+### Additional Information
 
 [ZDNet Website](http://www.zdnet.com/)
 [ZDNet: Writing’s on wall for Mac OS X](http://www.zdnet.com/article/mac-os-x-puts-writing-on-the-wall/)

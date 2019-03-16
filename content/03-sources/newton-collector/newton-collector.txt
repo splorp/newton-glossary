@@ -10,7 +10,7 @@ Text:
 
 A hodge-podge of information and trivia compiled by Arnold Kim aimed at collectors of Newton devices. Kim is also the founder and editorial director of the popular [MacRumors](http://www.macrumors.com/).
 
-## Additional Information
+### Additional Information
 
 [Normalkid Website](https://blog.normalkid.com/)
 [Normalkid: The Newton Collector](http://www.normalkid.com/collector/)

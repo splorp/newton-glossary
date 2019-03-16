@@ -10,7 +10,7 @@ Text:
 
 Published by [Apple](https://www.apple.com/) in 1996, this is the definitive reference for the [NewtonScript](/terms/newtonscript) programming language.
 
-## Additional Information
+### Additional Information
 
 [Amazon: The NewtonScript Programming Language](http://amzn.to/1NbReDL)
 [UNNA: The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf) (PDF)

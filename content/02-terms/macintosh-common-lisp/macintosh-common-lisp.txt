@@ -10,7 +10,7 @@ Text:
 
 An implementation of the [Lisp](/terms/lisp) programming language for Mac OS computers, it was also a development environment that provided tight integration with the Mac OS toolbox. Also referred to as [MCL](/terms/mcl).
 
-## Additional Information
+### Additional Information
 
 [Wikipedia: Macintosh Common Lisp](https://en.wikipedia.org/wiki/Macintosh_Common_Lisp)
 [Talking with Mikel Evins about the Lisp-based Newton OS](http://lispm.de/lisp-based-newton-os)

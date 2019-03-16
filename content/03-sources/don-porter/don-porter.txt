@@ -10,6 +10,6 @@ Text:
 
 Don Porter was a mechanical engineer with the [Newton Systems Group](/terms/newton-systems-group) and worked on the development of the [MessagePad 2000](/terms/messagepad-2000). Interestingly, Porter is also the person responsible for selecting the connector used for the infamous [Newton Interconnect](/terms/newton-interconnect) port.
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: PDAs: A Study in Contrasts](https://web.archive.org/web/20030224105145/http://pd.pennnet.com/Articles/Article_Display.cfm?Section=Archives&Subsection=Display&ARTICLE_ID=52439)

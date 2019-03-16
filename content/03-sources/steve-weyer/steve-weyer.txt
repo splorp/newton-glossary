@@ -10,7 +10,7 @@ Text:
 
 A self-proclaimed technology addict, Steve spent two decades in high profile organizations such as [Stanford University](https://www.stanford.edu/), [Xerox PARC](https://www.parc.com/), [Atari](https://www.atari.com/), [Hewlett Packard](http://www.hp.com/), and [Apple](https://www.apple.com/) before becoming an independant consultant and [software developer](http://communicrossings.com/html/newton/). Steve has created an incredible amount of software for the Newton platform, including the [Newt’s Cape](/terms/newts-cape) web browser, the [NewtDevEnv](/terms/newtdevenv) environment for developing applications using NewtonScript, and the [Sloup](/terms/sloup) data transfer utility.
 
-## Additional Information
+### Additional Information
 
 [CommuniCrossings Website](http://communicrossings.com/)
 [Steve Weyer’s Software Releases](http://communicrossings.com/html/newton/)

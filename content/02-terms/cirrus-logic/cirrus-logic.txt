@@ -10,7 +10,7 @@ Text:
 
 The company that developed the [Voyager](/terms/voyager) chipset used in the [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate 300](/terms/emate-300) devices.
 
-## Additional Information
+### Additional Information
 
 [Cirrus Logic Website](https://www.cirrus.com/)
 [Internet Archive: Cirrus Logic Debuts Voyager Chipset](https://web.archive.org/web/19980111224604/http://www.cirrus.com/news/archive/fy1997/96.1028p.voyager.html)

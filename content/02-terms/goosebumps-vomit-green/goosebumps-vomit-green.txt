@@ -10,7 +10,7 @@ Text:
 
 The colour of the translucent plastic used for the case of the [eMate 300](/terms/emate-300) as described by the [Apple Recon](/sources/apple-recon) site.
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: Apple Recon: eMate 1000](https://web.archive.org/web/20010405015435/http://www.geocities.com/WallStreet/7744/emate1k.html)
 

@@ -10,7 +10,7 @@ Text:
 
 A potential future iteration of the [Year 2010 Problem](/terms/year-2010-problem) affecting devices running [Newton OS](/terms/newton-os) 2.1 past the year 2026. According to [Eckhart Köppen](/sources/eckhart-koppen), the [Y2026](/terms/y2026) bug is a direct result of the way he fixed the [Y2010](/terms/y2010) bug.
 
-## Additional Information
+### Additional Information
 
 [GitHub: Y2026 and beyond](https://github.com/pguyot/Einstein/issues/24)
 [40Hz: Just checking …](http://40hz.org/Pages/Mottek:%202016-02-14)

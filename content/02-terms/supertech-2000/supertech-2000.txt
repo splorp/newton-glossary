@@ -12,7 +12,7 @@ A ruggedized Newton device developed by the [Dracon](/terms/dracon) division of 
 
 A third-party device that utilizes a licensed version of [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: Harris Corporation: SuperTech 2000 Product Information](https://web.archive.org/web/19980205141405/http://www.dracon.harris.com/products/supertech_2000.html)
 [Internet Archive: Press Release: Harris Corporation Licenses Newton Technology](https://web.archive.org/web/19981205001630/http://product.info.apple.com/pr/press.releases/1995/q4/950801.pr.rel.newton.html)

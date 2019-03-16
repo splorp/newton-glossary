@@ -12,7 +12,7 @@ A colloquial reference to the “squiggly” elements radiating from the Newton 
 
 ![Newton logo](/assets/images/lightbulb-noodles.png)
 
-## More Information
+### More Information
 
 [Twitter: Etherknot](https://twitter.com/etherknot/status/541570145588498432)
 

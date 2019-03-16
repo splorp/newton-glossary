@@ -12,7 +12,7 @@ A ruggedized Newton device developed by [Digital Ocean](https://web.archive.org/
 
 A third-party device that utilizes a licensed version of [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: Digital Ocean: Seahorse Product Information](https://web.archive.org/web/19970124001314/http://digitalocean.com/seahorse.html)
 

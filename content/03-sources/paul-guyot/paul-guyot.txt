@@ -12,7 +12,7 @@ A Paris-based software developer whose projects include the very first [system u
 
 Sporting a PhD in artificial intelligence, Guyot is currently the CEO of [Semiocast](https://semiocast.com/), a company which applies AI techniques to extract consumer insights from social media conversations. What.
 
-## Additional Information
+### Additional Information
 
 [Paul Guyot Website](http://www.paul-guyot.com/)
 [Kallisys Website](http://www.kallisys.com/)

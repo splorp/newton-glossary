@@ -10,7 +10,7 @@ Text:
 
 A self-proclaimed “hipster programmer cargo cultist” and developer of popular [Newton OS](/terms/newton-os) software including [Dash Board](/terms/dash-board) and [Minspector](/terms/minspector), Mason Mark is currently a senior software engineer based in Japan.
 
-## Additional Information
+### Additional Information
 
 [Mason Mark Website](http://masonmark.com/)
 [Five Speed Software Website](http://www.fivespeedsoftware.com/)

@@ -12,7 +12,7 @@ One of the code names for the [MessagePad 130](/terms/messagepad-130) device, al
 
 Dante also refers to version 2.0 of [Newton OS](/terms/newton-os), as well as the connection [protocol](/terms/protocol) used to communicate between a Newton device and another computer.
 
-## Additional Information
+### Additional Information
 
 [Newton Bowels: Dante Connection Protocol](http://www.kallisys.com/files/newton/Bowels/docking_protocol.txt) (Text)
 [The Newted Community: Dante Connection Protocol](http://www.newted.org/download/manuals/DanteConnectionProtocol.pdf) (PDF)

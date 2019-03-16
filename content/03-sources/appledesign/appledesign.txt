@@ -10,6 +10,6 @@ Text:
 
 A book by Paul Kunkel, featuring photography by Rick English, which was published on the eve of Apple’s 20th anniversary.
 
-## Additional Information
+### Additional Information
 
 [Amazon: AppleDesign: The Work of the Apple Industrial Design Group](http://amzn.to/1OTSAc5)

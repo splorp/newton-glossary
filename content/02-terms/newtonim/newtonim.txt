@@ -14,7 +14,7 @@ Also referred to as [NIM](/terms/nim).
 
 ![Screenshot of NewtonIM](/assets/images/newtonim.gif)
 
-## Additional Information
+### Additional Information
 
 [All About Jake: NewtonIM Product Information](http://www.allaboutjake.com/newton/newtonim/)
 [Jabber.org Website](https://www.jabber.org/)

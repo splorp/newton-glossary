@@ -12,7 +12,7 @@ A [user interface](/terms/user-interface) enhancement [package](/terms/package) 
 
 ![Screenshot of Dash Board in action](/assets/images/dash-board.gif)
 
-## Additional Information
+### Additional Information
 
 [Five Speed Software: Dash Board](http://www.fivespeedsoftware.com/dashboard/)
 [Mason Mark: Dash Board, Revisted](http://masonmark.com/dash-board-revisited/)

@@ -10,7 +10,7 @@ Text:
 
 A legendary anecdote where a Newton user named [Robert McNally](/sources/robert-mcnally) entered Lewis Carroll’s _Jabberwocky_ into an original Newton device and had the [handwriting recognition](/terms/handwriting-recognition) generate what was basically a new lyric poem — known variously as [Tablespoons](/terms/tablespoons) or [Newtonwocky](/terms/newtonwocky). The phrase _“Serious Bandwidth”_ was the translation of _“Frumious Bandersnatch”_ from the original poem.
 
-## Additional Information
+### Additional Information
 
 [Lynn Gold’s Jabberwocky Page: Tablespoons](http://www.rahul.net/figmo/Archives/newton-wocky.html)
 

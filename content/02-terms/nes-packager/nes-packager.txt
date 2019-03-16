@@ -10,7 +10,7 @@ Text:
 
 An online utility created by [Victor Rehorst](/sources/victor-rehorst) that takes a [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) (NES) [ROM](/terms/rom) image and creates a [package](/terms/package) that can be used with the [Newtendo](/terms/newtendo) emulator. The NES Packager is based on the [DCL](/terms/dcl) communication framework.
 
-## Additional Information
+### Additional Information
 
 [Chuma: NES Packager](https://ritsuko.chuma.org/nespackager/)
 [Eagan Rackley: Newtendo](http://dev.newtontalk.net/eagan/)

@@ -3,7 +3,7 @@
 
 <section>
 	<article>
-		<h1><?php echo html($page->title()) ?></h1>
+		<h2><?php echo html($page->title()) ?></h2>
 		<?php echo kirbytext($page->text()) ?>
 
 		<form<?php echo $pagination->hasPages() ? ' action ="' . url('search') . '"' : ''; ?>>
@@ -13,7 +13,7 @@
 
 		<?php if($results->count() > 0) : ?>
 		<?php if($results->count() == 1) : go($results); endif ?>
-		<h2><?php echo $pagination->items() . ' item'; echo ($pagination->items() > 1) ? 's' : ''; echo ' found'; ?></h2>
+		<h3><?php echo $pagination->items() . ' item'; echo ($pagination->items() > 1) ? 's' : ''; echo ' found'; ?></h3>
 		<ul class="rslt">
 			<?php foreach($results as $result): ?>
 			<li><a href="<?php echo $result->url() ?>"><?php echo $result->title()->html() ?></a><br />

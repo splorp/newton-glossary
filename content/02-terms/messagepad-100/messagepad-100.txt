@@ -12,7 +12,7 @@ The second Newton device to be released by [Apple](https://www.apple.com/). The 
 
 The code names for the MessagePad 100 were [Wedge](/terms/wedge) and [Junior](/terms/junior). The MessagePad 100 is commonly referred to as an [MP100](/terms/mp100).
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: Newton MessagePad 100: Description](https://web.archive.org/web/20011225140154/http://karchive.info.apple.com/article.html?artnum=14839)
 [Internet Archive: Newton MessagePad 100: Specifications](https://web.archive.org/web/20011225150408/http://karchive.info.apple.com/article.html?artnum=14838)

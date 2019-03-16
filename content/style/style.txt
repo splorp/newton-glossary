@@ -12,7 +12,7 @@ Description: Helpful guidelines on how to write entries for the Newton Glossary.
 
 Text:
 
-## Abbreviations (used as a “see also” pointing at expanded term)
+### Abbreviations (used as a “see also” pointing at expanded term)
 
 Only include the abbreviated term in the related terms of the expanded term. Do not include the abbreviated term in other terms.
 
@@ -20,11 +20,11 @@ For example, [Newton Toolkit](/terms/newton-toolkit) should list [NTK](/terms/nt
 
 However, [project build](/terms/project-build) should list [Newton Toolkit](/terms/newton-toolkit), not [NTK](/terms/ntk).
 
-## Abbreviations (more common than the expanded term)
+### Abbreviations (more common than the expanded term)
 
 For example, [PCMCIA](/terms/pcmcia) is an acronym that is more commonly used than its expanded variation — _Personal Computer Memory Card International Association_. In this case, the expanded term would be included as the first part of the abbreviation’s entry.
 
-## Shortened terms
+### Shortened terms
 
 Whenever possible, use the longer version of a term for clarity.
 
@@ -36,7 +36,7 @@ _Examples:_
 + Use “Newton OS” not “NOS”
 + Use “website” not “site”
 
-## Referring to other terms
+### Referring to other terms
 
 _Examples:_
 
@@ -56,9 +56,9 @@ Use if the referenced term is an commonly misspelled or mangled version of the s
 
 Use if the referenced term is a quirky or derogatory name for the source term.	
 
-## Capitalization of terms
+### Capitalization of terms
 
-## Indicating menu items, windows, slips, and other named user interface elements
+### Indicating menu items, windows, slips, and other named user interface elements
 
 Other than using their proper capitalized names, should these items be wrapped in quotes or styled in some other way?
 
@@ -66,7 +66,7 @@ _Example:_
 
 + Ink words are created when the user has selected [Ink Text](/terms/ink-text) in the “Recognition Preferences” slip.
 
-## Introducing descriptive elements of a term
+### Introducing descriptive elements of a term
 
 Do not use generic nouns such as “kind” when introducing a descriptive element relating to a terms.
 
@@ -82,7 +82,7 @@ _Examples:_
 + A method of handwriting recognition
 + A style of font
 
-## Hyphenated terms
+### Hyphenated terms
 
 Minimize the use of subjective hyphenated terms.
 
@@ -102,7 +102,7 @@ Acceptable hyphenated terms include:
 + user-friendly
 + third-party
 
-## Miscellaneous considerations
+### Miscellaneous considerations
 
 When describing the effects of an action, use the more enabling term “can” rather than “may”.
 
@@ -111,7 +111,7 @@ _Example:_
 + A slip where preferences can be adjusted.
 + Only one button can be selected at a time.
 
-## Links to additional information
+### Links to additional information
 
 When linking to the main page of a website, include both the website name and “Website” as part of the link text.
 

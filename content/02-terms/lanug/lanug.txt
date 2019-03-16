@@ -12,7 +12,7 @@ Los Angeles Newton Users Group
 
 Originally founded by [Phil Goodman](https://www.goodmanconsulting.com/about/) as a [special interest group](/terms/special-interest-group) within the [Los Angeles Macintosh Group](http://www.lamg.org/) (LAMG), LANUG was eventually folded into the Los Angeles Portable Computing Group (LAPCG), which in turn became the [Los Angeles Portable Users Group](http://www.lapug.com/) (LAPUG) in 1992.
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: LANUG Website](https://web.archive.org/web/20030731001351/http://lanug.org/)
 

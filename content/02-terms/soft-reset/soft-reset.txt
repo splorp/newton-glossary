@@ -12,7 +12,7 @@ A method of [resetting](/terms/reset) the [Newton OS](/terms/newton-os) by press
 
 Also referred to as a [warm boot](/terms/warm-boot) or [software reset](/terms/software-reset).
 
-## Additional Information
+### Additional Information
 
 [Apple Support: Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
 [Newton Poetry: How To Reset Your Newton](http://newtonpoetry.com/2008/03/31/howto-reset-your-newton/)

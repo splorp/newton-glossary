@@ -20,13 +20,13 @@ Although it’s quite out of date, [Morgan Aldridge](http://www.makkintosshu.com
 
 At one point there was also a [Newton Book](/terms/newton-book) version of the glossary. We’ll see if we can make that happen again.
 
-## Join The Fun!
+### Join The Fun!
 
 As with any specialized compendium, the contents are never completely finished. All suggestions, corrections, complaints, and [pull requests](https://github.com/splorp/newton-glossary/pulls) will be happily accepted. If possible, please use the project’s [issue tracker](https://github.com/splorp/newton-glossary/issues) for any input you might have.
 
 Before submitting new terms or suggestion corrections to existing entries, please take a moment to familiarize yourself with the official [style guide](/style) (which itself is a work in progress).
 
-## We &hearts; Words
+### We &hearts; Words
 
 Other glossarial references we love.
 
@@ -45,7 +45,7 @@ Other glossarial references we love.
 + [The IKEA Dictionary](http://lar5.com/ikea/) _by [Lars Petrus](http://lar5.com/)_
 + [Typograph.Glossary](http://www.typographher.com/glossary/) _by [Nicole Arnett Phillips](http://www.nicoleap.com.au/)_
 
-## Colophon
+### Colophon
 
 This iteration of the glossary is formatted in [Markdown](http://daringfireball.net/projects/markdown/) using plain text files and published with [Kirby](https://getkirby.com/) — an extensible content management system built on PHP.
 

@@ -10,7 +10,7 @@ Text:
 
 A program built into the [Newton Works](/terms/newton-works) application that uses specific [stationery](/terms/stationery) allowing the user to perform calculations and display the results in a graph or table. Information formatting using the [calculations](/terms/calculations) stationery can be copied and pasted into other [applications](/terms/application) on a Newton device.
 
-## Additional Information
+### Additional Information
 
 [The Newted Community: Newton Works Graphing Calculator User’s Manual](http://www.newted.org/download/manuals/0340062ANWGRAFCALCUM.PDF) (PDF)
 

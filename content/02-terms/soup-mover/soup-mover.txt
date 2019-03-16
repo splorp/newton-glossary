@@ -10,7 +10,7 @@ Text:
 
 An [extension](/terms/extension) created by [Eckhart Köppen](/sources/eckhart-koppen) that enables access to a filing [slip](/terms/slip) in the Storage [folder](/terms/folder) in the [Extras Drawer](/terms/extras-drawer). Soup Mover allows the user to easily move [soup](/terms/soup) entries to a specified [store](/terms/store).
 
-## Additional Information
+### Additional Information
 
 [40hz: Soup Mover Product Information](http://40hz.org/Pages/Soup%20Mover)
 

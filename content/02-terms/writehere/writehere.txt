@@ -12,7 +12,7 @@ A suite of software components developed by [Adam Tow](/sources/adam-tow) that a
 
 ![Screenshot of WriteHere](/assets/images/writehere-connect.gif)
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: WriteHere Suite Product Information](https://web.archive.org/web/20080514134030/http://www.tow.com/software/writehere/)
 [Adam Tow: Newton Software](https://tow.com/projects/newton/)

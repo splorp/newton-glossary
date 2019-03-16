@@ -10,7 +10,7 @@ Text:
 
 A development environment created by [Steve Weyer](/sources/steve-weyer) for creating [applications](/terms/application) using [NewtonScript](/terms/newtonscript) directly on a Newton device. Also referred to as [NDE](/terms/nde) and [Newt](/terms/newt).
 
-## Additional Information
+### Additional Information
 
 [CommuniCrossings: NewtDevEnv Product Information](http://communicrossings.com/html/newton/newtdev.htm)
 

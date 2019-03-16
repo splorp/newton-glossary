@@ -5,13 +5,13 @@
 
 <section>
 	<article>
-		<h1><?php echo html($page->title()) ?></h1>
+		<h2><?php echo html($page->title()) ?></h2>
 		<?php echo kirbytext($page->text()) ?>
 
 		<?php $page->isChildOf($pages->find('terms')) || $page->isChildOf($pages->find('sources')) ? '' : snippet('submenu'); ?>
 	
 		<?php if($page->content()->has('Source')): ?>
-		<?php if($page->source()->pages()->count() > 1) { echo '<h2>Sources</h2>'; } else { echo '<h2>Source</h2>'; } ?>
+		<?php if($page->source()->pages()->count() > 1) { echo '<h3>Sources</h3>'; } else { echo '<h3>Source</h3>'; } ?>
 		<ul class="src">
 			<? $n=0; foreach($page->source()->pages() as $source): $n++; ?>
 			<li><a href="<?php echo $source->url() ?>"><?php echo html($source->title()) ?></a></li>
@@ -20,7 +20,7 @@
 		<?php endif ?>
 
 		<?php if($page->content()->has('Related')): ?>
-		<?php if($page->related()->pages()->count() > 1) { echo '<h2>Related Terms</h2>'; } else { echo '<h2>Related Term</h2>'; } ?>
+		<?php if($page->related()->pages()->count() > 1) { echo '<h3>Related Terms</h3>'; } else { echo '<h3>Related Term</h3>'; } ?>
 		<ul class="src">
 			<? $n=0; foreach($page->related()->pages() as $related): $n++; ?>
 			<li><a href="<?php echo $related->url() ?>"><?php echo html($related->title()) ?></a></li>

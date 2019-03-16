@@ -12,7 +12,7 @@ The first web browser available for use on a handheld device. PocketWeb was spec
 
 PocketWeb was initially (and rather awkwardly) known as [NewtonWWW](/terms/newtonwww).
 
-## Additional Information
+### Additional Information
 
 [TECO: PocketWeb 2.4 Product Information](http://www.teco.edu/pocketweb/)
 [Matej Horvat: PocketWeb](http://matejhorvat.si/en/newton/pw/)

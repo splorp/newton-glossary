@@ -10,7 +10,7 @@ Text:
 
 The first [text-to-speech](/terms/text-to-speech) engine for [Newton OS](/terms/newton-os), developed by John M. Saccente in 1995. Yak was a precursor to the more advanced [MacInTalk](/terms/macintalk) speech synthesis software available for later Newton devices.
 
-## Additional Information
+### Additional Information
 
 [Matej Horvat: Yak](http://matejhorvat.si/en/newton/yak/)
 

@@ -10,7 +10,7 @@ Text:
 
 A section of the [The Newted Community](/terms/the-newted-community) website that actively solicited and published articles, stories, reviews, and opinion pieces related to the Newton platform.
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: The Newted Community Soupbox](https://web.archive.org/web/20070730193148/http://newted.org/soupbox/)
 

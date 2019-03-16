@@ -10,7 +10,7 @@ Text:
 
 A publication produced by [Apple](https://www.apple.com/) which supplied developers with information on Newton technology, development tools, and marketing news. Commonly referred to as [NTJ](/terms/ntj).
 
-## Additional Information
+### Additional Information
 
 [UNNA: Newton Technology Journal Archives](http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal)
 

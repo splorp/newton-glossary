@@ -12,7 +12,7 @@ A suite of software [packages](/terms/package) that will allow certain Newton de
 
 _This entry requires a screenshot._
 
-## Additional Information
+### Additional Information
 
 [Newton Personal Data Sharing Website](http://npds.free.fr/)
 [Twitter: Newton Personal Data Sharing](https://twitter.com/npds)

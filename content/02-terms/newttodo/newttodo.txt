@@ -12,7 +12,7 @@ An [application](/terms/application) developed by [Adam Tow](/sources/adam-tow) 
 
 ![Screenshot of newtToDo](/assets/images/newttodo.gif)
 
-## Additional Information
+### Additional Information
 
 [Adam Tow: Newton Software](https://tow.com/projects/newton/)
 

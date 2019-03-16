@@ -14,7 +14,7 @@ An international organization founded in 1989 to establish standards for integra
 
 Colloquially referred to as _People Can’t Remember Computer Industry Acronyms_ because of its rather lengthy nature.
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: PCMCIA Website](https://web.archive.org/web/20081225064415/http://pcmcia.org/)
 

@@ -10,6 +10,6 @@ Text:
 
 The Apple Developer Connection provided resources, documentation, development tools, technical support, and prerelease versions of software for developers. Commonly referred to as ADC, the program changed its name to [Apple Developer](https://developer.apple.com/) in early 2010.
 
-## Additional Information
+### Additional Information
 
 [Apple Developer Website](https://developer.apple.com/)

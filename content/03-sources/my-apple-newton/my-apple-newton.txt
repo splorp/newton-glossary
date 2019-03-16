@@ -10,6 +10,6 @@ Text:
 
 An extensively researched Newton site authored and maintained by Tony Kan.
 
-## Additional Information
+### Additional Information
 
 [My Apple Newton Website](http://myapplenewton.blogspot.com/)

@@ -12,6 +12,6 @@ Founded in 1997 by Andy Mesa, _The Apple Museum_ was created as a reference for 
 
 Not to be confused with Lukas Foljanty’s similarly named [The Apple Online Museum](/sources/apple-online-museum).
 
-## Additional Information
+### Additional Information
 
 [The Apple Museum Website](http://applemuseum.bott.org/)

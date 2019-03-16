@@ -10,7 +10,7 @@ Text:
 
 Another name for the cursive (or connected) recognizer according to the [Catamount Software](/sources/catamount) handwriting tips page. Likely in reference to [ParaGraph International](/sources/paragraph), the company who created the [CalliGrapher](/terms/calligrapher) handwriting recognition engine.
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: Catamount: Handwriting Tips for Newton Power Users](https://web.archive.org/web/20160319221639/http://www.catamount.com/HWRTips/HWRTips.html)
 

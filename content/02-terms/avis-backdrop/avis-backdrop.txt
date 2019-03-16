@@ -12,7 +12,7 @@ Software created by [Avi Drissman](/sources/avi-drissman) to be used as a [backd
 
 Arguably the most popular feature of Avi’s Backdrop is the ability to set a [background picture](/terms/background-picture).
 
-## Additional Information
+### Additional Information
 
 [Avi’s Newton Stuff: Avi’s Backdrop](http://www.drissman.com/avi/newton/AvisBackdrop/)
 

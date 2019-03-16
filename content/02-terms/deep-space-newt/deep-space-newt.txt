@@ -12,7 +12,7 @@ A game for [Newton OS](/terms/newton-os) developed by [DejaVu Software](/sources
 
 ![Screenshot of Deep Space Newt](/assets/images/deep-space-newt.gif)
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: Deep Space Newt Product Information](https://web.archive.org/web/20100628213037/http://www.dejavusoftware.com/dsn/)
 [Internet Archive: eMate Central Game Reviews: DSNewt](https://web.archive.org/web/20010522094947/http://www.angel.org/fornewts/reviews_dsnewt.html)

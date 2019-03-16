@@ -12,7 +12,7 @@ A [NewtonScript](/terms/newtonscript) inspection and [debugging](/terms/debuggin
 
 ![Screenshot of ViewFrame](/assets/images/viewframe.gif)
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: ViewFrame 1.2 Product Information](https://web.archive.org/web/19970414045512/http://www.cdpubs.com/VFrame.html)
 [Jason Harper’s Website](http://nixietube.info/)

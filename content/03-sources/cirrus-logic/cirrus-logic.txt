@@ -10,6 +10,6 @@ Text:
 
 A manufacturer of advanced integrated circuits founded in 1981 and headquartered in Austin, Texas. Cirrus Logic developed the [Voyager](/terms/voyager) chipset used in the [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate 300](/terms/emate-300) devices. Currently, they specialize in providing technologies related to audio signal processing.
 
-## Additional Information
+### Additional Information
 
 [Cirrus Logic Website](https://www.cirrus.com/)

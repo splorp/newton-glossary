@@ -10,7 +10,7 @@ Text:
 
 An accomplished software engineer and [game developer](http://greendoorgames.com/), Eagan is the mastermind behind [Newtendo](/terms/newtendo), a [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) (NES) emulator for Newton devices.
 
-## Additional Information
+### Additional Information
 
 [Eagan Rackley: Newtendo](http://dev.newtontalk.net/eagan/)
 [GitHub: Eagan Rackley](https://github.com/eagee)

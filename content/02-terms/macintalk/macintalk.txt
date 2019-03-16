@@ -12,7 +12,7 @@ The speech synthesizer component of the Newton [text-to-speech](/terms/text-to-s
 
 MacinTalk first appeared as part of the operating system in the original Macintosh, hence the name.
 
-## Additional Information
+### Additional Information
 
 [Newton Underground: How to Work with the Text-to-Speech Extension](http://communicrossings.com/html/newton/newtscape/docs/a0000003.shtml)
 [Newton Underground: More Newton Text to Speech](http://communicrossings.com/html/newton/newtscape/docs/a0000004.shtml)

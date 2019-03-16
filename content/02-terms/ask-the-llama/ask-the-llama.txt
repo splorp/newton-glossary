@@ -10,7 +10,7 @@ Text:
 
 A technical question and answer column written by [Maurice Sharp](/sources/maurice-sharp), otherwise known as [Dr Llama](/terms/dr-llama), for Apple’s developer publications.
 
-## Additional Information
+### Additional Information
 
 [MacTech: Newton Q & A: Ask The Llama](http://www.mactech.com/articles/develop/issue_26/newtonqa.html)
 

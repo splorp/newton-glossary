@@ -15,7 +15,7 @@ $alphabetise = alphabetise($sorted, array('key' => 'title', 'orderby'=>SORT_STRI
 <?php if($items && $items->count()): ?>
 <nav class="submenu alphabetical">
 	<?php foreach($alphabetise as $letter => $items): ?>
-	<h2><?php echo str::upper($letter) ?></h2>
+	<h3><?php echo str::upper($letter) ?></h3>
 	<ul>
 		<?php foreach($items as $item): ?>
 		<li><a href="<?php echo $item->url() ?>"><?php echo html($item->title()) ?></a></li>

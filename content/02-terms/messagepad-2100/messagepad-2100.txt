@@ -14,7 +14,7 @@ Like its predecessor, the MessagePad 2100 was code named [Q](/terms/q).
 
 It is commonly referred to as an [MP2100](/terms/mp2100).
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: Press Release: Apple’s New MessagePad 2100](https://web.archive.org/web/19980204041523/http://www.newton-inc.com/press_releases/19971020mp2100.html)
 [Internet Archive: MessagePad 2100 Product Information](https://web.archive.org/web/19980204041510/http://www.newton-inc.com/product_info/devices/MP2100/MP2100.html)

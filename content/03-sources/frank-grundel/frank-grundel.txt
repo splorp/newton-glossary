@@ -10,7 +10,7 @@ Text:
 
 Proprietor of [PDA-Soft](http://www.pda-soft.de/) and diehard Newton aficionado, Gründel is probably best known for his meticulous Newton disassembly and repair tutorials.
 
-## Additional Information
+### Additional Information
 
 [PDA-Soft Website](http://www.pda-soft.de/english.html) (English)
 [PDA-Soft Website](http://www.pda-soft.de/german.html) (Deutsche)

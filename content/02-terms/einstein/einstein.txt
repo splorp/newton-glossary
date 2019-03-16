@@ -10,7 +10,7 @@ Text:
 
 An open source software emulator developed by [Paul Guyot](/sources/paul-guyot) that allows [Newton OS](/terms/newton-os) to run on other [operating systems](/terms/operating-system) such as Mac OS X, iOS, and Linux.
 
-## Additional Information
+### Additional Information
 
 [GitHub: Einstein](https://github.com/pguyot/Einstein/)
 [GitHub: Einstein Platform User’s Manual](https://github.com/pguyot/Einstein/blob/master/Documentation/UserManual.pdf) (PDF)

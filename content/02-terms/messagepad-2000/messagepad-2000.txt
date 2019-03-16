@@ -16,7 +16,7 @@ Like its successor, the MessagePad 2000 was code named [Q](/terms/q).
 
 It is commonly referred to as an [MP2000](/terms/mp2000).
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: Press Release: Apple Ships MessagePad 2000](https://web.archive.org/web/19990117034343/http://product.info.apple.com/pr/press.releases/1997/q2/970324.pr.rel.msgpad.html)
 [Internet Archive: MessagePad 2000 Product Information](https://web.archive.org/web/19980204041606/http://www.newton-inc.com:80/product_info/devices/MP2000/MP2000.html)

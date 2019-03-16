@@ -12,7 +12,7 @@ A later version of the NuBus-based card that facilitated the running of a Newton
 
 Produced in 1993, the ARMistice card preceded the [ARMadillo](/terms/armadillo) card. The cards were so named because of the [ARM](/terms/arm) processor used in the Newton hardware.
 
-## Additional Information
+### Additional Information
 
 [Stories of Apple: ARMageddon and ARMistice](http://www.storiesofapple.net/armageddon-and-armistice.html)
 [Flickr: Apple Newton ARMistice (Front)](https://www.flickr.com/photos/pablo_marx/4683061782/)

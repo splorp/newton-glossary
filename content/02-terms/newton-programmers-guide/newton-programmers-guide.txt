@@ -10,7 +10,7 @@ Text:
 
 The definitive guide to programming for [Newton OS](/terms/newton-os), providing conceptual information and documentation for using the [APIs](/terms/api). Also referred to as [NPG](/terms/npg).
 
-## Additional Information
+### Additional Information
 
 [Amazon: Newton Programmer’s Guide for Newton 2.0](http://amzn.to/1Q3txlQ)
 [UNNA: Newton Programmer’s Guide for Newton 2.0](http://www.unna.org/unna/apple/documentation/developer/ProgrammersGuideOS2.0.pdf) (PDF)

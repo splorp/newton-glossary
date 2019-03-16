@@ -12,7 +12,7 @@ A method of [resetting](/terms/reset) the [Newton OS](/terms/newton-os) which co
 
 Not to be confused with a [cold boot](/terms/cold-boot), which also removes any [system updates](/terms/system-update) that have been installed.
 
-## Additional Information
+### Additional Information
 
 [Apple Support: Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
 [Newton Poetry: How To Reset Your Newton](http://newtonpoetry.com/2008/03/31/howto-reset-your-newton/)

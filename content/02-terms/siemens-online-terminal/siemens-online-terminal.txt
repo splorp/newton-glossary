@@ -14,7 +14,7 @@ Erroneously referred to as a [NotePhone 2000](/terms/notephone-2000) or [NotePho
 
 A third-party device that utilizes a licensed version of [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
 
-## Additional Information
+### Additional Information
 
 [NewtonTalk Archives: Siemens Online Terminal](http://marc.info/?l=newtontalk&m=114867548516781&w=2)
 [NewtNews #138: Siemens Online Terminal](https://groups.google.com/forum/#!topic/comp.sys.newton.misc/ZOQeDF57T6M)

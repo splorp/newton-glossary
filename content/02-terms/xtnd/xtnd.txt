@@ -10,7 +10,7 @@ Text:
 
 A system of file format translators developed by [Claris Corporation](https://en.wikipedia.org/wiki/Claris) used in a variety of Mac OS [applications](/terms/application) including [Newton Press](/terms/newton-press).
 
-## Additional Information
+### Additional Information
 
 [Wikipedia: XTND](https://en.wikipedia.org/wiki/XTND)
 

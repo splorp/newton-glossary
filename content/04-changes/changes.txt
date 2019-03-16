@@ -18,41 +18,42 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
-## 2.4.4
+### 2.4.4
 
 Terms: _$t
 Sources: _$s
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added new terms
 + Added new sources
 + Updated and expanded dozens of existing entries
++ Improved heading and subheading hierarchy because semantics
 + Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin to version [1.1.1](https://github.com/pedroborges/kirby-meta-tags/releases/tag/v1.1.1)
 + Updated [Kirby](https://getkirby.com/) to version [2.5.12](https://getkirby.com/changelog/kirby-2-5-12)
 
-## 2.4.3
+### 2.4.3
 
 01 March 2018
 
 Terms: 1,251
 Sources: 122
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 37 new terms
 + Added 3 new sources
 + Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version [2.5.8](https://getkirby.com/changelog/kirby-2-5-8)
 
-## 2.4.2
+### 2.4.2
 
 01 December 2017
 
 Terms: 1,214
 Sources: 119
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 59 new terms
 + Added 10 new sources
@@ -61,14 +62,14 @@ Sources: 119
 + Removed contextual header elements from page templates
 + Updated [Kirby](https://getkirby.com/) to version [2.5.7](https://getkirby.com/changelog/kirby-2-5-7)
 
-## 2.4.1
+### 2.4.1
 
 04 November 2017
 
 Terms: 1,155
 Sources: 109
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 20 new terms
 + Added 2 new sources
@@ -80,28 +81,28 @@ Sources: 109
 + Implemented [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin
 + Updated [Kirby](https://getkirby.com/) to version [2.5.6](https://getkirby.com/changelog/kirby-2-5-6)
 
-## 2.4.0
+### 2.4.0
 
 13 October 2017
 
 Terms: 1,135
 Sources: 107
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 25 new terms
 + Added 1 new source
 + Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version [2.5.5](https://getkirby.com/changelog/kirby-2-5-5)
 
-## 2.3.1
+### 2.3.1
 
 17 September 2017
 
 Terms: 1,110
 Sources: 106
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 58 new terms
 + Added 8 new sources
@@ -110,14 +111,14 @@ Sources: 106
 + Added [Open Graph](http://ogp.me/) and [Twitter Cards](https://dev.twitter.com/cards/overview) meta tag support
 + Updated site and mobile device icons
 
-## 2.3.0
+### 2.3.0
 
 24 April 2017
 
 Terms: 1,052
 Sources: 98
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 45 new terms
 + Added 3 new sources
@@ -130,14 +131,14 @@ Sources: 98
 + Implemented [Kirby XML Sitemap](https://github.com/pedroborges/kirby-xml-sitemap) plugin
 + Added XML [sitemap](/sitemap.xml) for search engine indexing
 
-## 2.2.1
+### 2.2.1
 
 16 January 2017
 
 Terms: 1,007
 Sources: 95
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 36 new terms
 + Added 5 new sources
@@ -147,28 +148,28 @@ Sources: 95
 + Changed lists to use contextual singular and plural subheads
 + [Search](/search) now returns more useful results based on the title field
 
-## 2.2.0
+### 2.2.0
 
 19 December 2016
 
 Terms: 971
 Sources: 90
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 22 new terms
 + Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version [2.4.0](https://getkirby.com/changelog/kirby-2-4-0)
 + Fixed linespacing for inline code snippets
 
-## 2.1.1
+### 2.1.1
 
 01 December 2016
 
 Terms: 949
 Sources: 90
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 30 new terms
 + Added 7 new sources
@@ -177,14 +178,14 @@ Sources: 90
 + Numerical entries now appear at the top of the [terms](/terms) and [sources](/sources) pages
 + Focus is now automatically set on the [search](/search) field
 
-## 2.1.0
+### 2.1.0
 
 27 October 2016
 
 Terms: 919
 Sources: 83
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 16 new terms
 + Added 2 new sources
@@ -197,14 +198,14 @@ Sources: 83
 + Added rudimentary [search](/search) functionality
 + Simplified previous and next page navigation
 
-## 2.0.0
+### 2.0.0
 
 24 August 2016
 
 Terms: 903
 Sources: 81
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 147 new terms
 + Added 32 new sources
@@ -215,92 +216,92 @@ Sources: 81
 + Added a long overdue [About](/about) section, colophon, and style guide
 + Added random term feature
 
-## 1.0.5
+### 1.0.5
 
 21 November 2004
 
 Terms: 756
 Sources: 49
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 52 new terms
 + Added 4 new sources
 + Updated and expanded numerous existing entries
 + Not released publicly
 
-## 1.0.4
+### 1.0.4
 
 06 October 2002
 
 Terms: 704
 Sources: 45
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 31 new terms
 + Added 5 new sources
 + Updated and expanded numerous existing entries
 
-## 1.0.3
+### 1.0.3
 
 18 December 2001
 
 Terms: 673
 Sources: 40
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 24 new terms
 + Added 2 new sources
 + Updated and expanded numerous existing entries
 
-## 1.0.2
+### 1.0.2
 
 30 October 2001
 
 Terms: 649
 Sources: 38
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 17 new terms
 + Added 4 new sources
 + Updated and expanded numerous existing entries
 
-## 1.0.1
+### 1.0.1
 
 25 September 2001
 
 Terms: 632
 Sources: 34
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 15 new terms
 + Added 3 new sources
 + Updated and expanded numerous existing entries
 
-## 1.0.0
+### 1.0.0
 
 25 June 2001
 
 Terms: 617
 Sources: 31
 
-### Summary of changes:
+#### Summary of changes:
 
 + Added 46 new terms
 + Added 6 new sources
 + Updated and expanded numerous existing entries
 
-## 1.0.0b2
+### 1.0.0b2
 
 31 May 2001
 
 Terms: 571
 Sources: 25
 
-### Summary of changes:
+#### Summary of changes:
 
 + First public release

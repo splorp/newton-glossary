@@ -10,7 +10,7 @@ Text:
 
 An [RSS](/terms/rss) reader for Newton devices developed by [Eckhart Köppen](/sources/eckhart-koppen).
 
-## Additional Information
+### Additional Information
 
 [40Hz: Raissa Product Information](http://40hz.org/Pages/Raissa)
 

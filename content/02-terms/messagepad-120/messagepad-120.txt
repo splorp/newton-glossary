@@ -12,7 +12,7 @@ The MessagePad 120 shares the same case styling as the [MessagePad 110](/terms/m
 
 The code name of the MessagePad 120 was [Gelato](/terms/gelato), due to the fact that it was available in two memory configuration “flavours”. The MessagePad 120 is commonly referred to as an [MP120](/terms/mp120).
 
-## Additional Information
+### Additional Information
 
 [Apple Support: Newton MessagePad: MessagePad 110/120 Differences](https://support.apple.com/kb/TA33532)
 

@@ -12,7 +12,7 @@ A function built into Newton device that can automatically perform certain tasks
 
 Also referred to as [Assistant](/terms/assistant) and [Newton Assistant](/terms/newton-assistant) in earlier versions of [Newton OS](/terms/newton-os).
 
-## Additional Information
+### Additional Information
 
 [Apple Support: Newton MessagePad: Using the Newton Assistant](https://support.apple.com/kb/TA29816)
 

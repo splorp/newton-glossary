@@ -12,7 +12,7 @@ An [application](/terms/application) created by [Frank Gründel](/sources/frank-
 
 ![Screenshot of NewtTest](/assets/images/newttest-popup.gif)
 
-## Additional Information
+### Additional Information
 
 [PDA-Soft: NewtTest Product Information](http://www.pda-soft.de/newttest.html)
 [Newton Poetry: Get handy Newton info with NewtTest](http://newtonpoetry.com/2009/06/01/get-handy-newton-info-with-newttest/)

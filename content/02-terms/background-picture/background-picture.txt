@@ -12,7 +12,7 @@ An image displayed behind the main [user interface](/terms/user-interface) on a 
 
 A background picture can be created using software such as [Newton Press](/terms/newton-press), [Newton Book Maker](/terms/newton-book-maker), or [Newt’s Cape](/terms/newts-cape) and delivered as an installable [package](/terms/package).
 
-## Additional Information
+### Additional Information
 
 [Avi’s Newton Stuff: Avi’s Backdrop](http://www.drissman.com/avi/newton/AvisBackdrop/)
 [Avi’s Newton Stuff: Background Pictures in Avi’s Backdrop](http://www.drissman.com/avi/newton/AvisBackdrop/backgroundpictures.html)

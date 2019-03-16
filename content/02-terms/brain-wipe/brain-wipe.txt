@@ -10,7 +10,7 @@ Text:
 
 The colloquial term for performing a [hard reset](/terms/hard-reset) on a Newton device, effectively erasing all user data and system [preferences](/terms/preferences).
 
-## Additional Information
+### Additional Information
 
 [Apple Support: Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
 [Newton Poetry: How To Reset Your Newton](http://newtonpoetry.com/2008/03/31/howto-reset-your-newton/)

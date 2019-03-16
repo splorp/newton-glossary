@@ -10,7 +10,7 @@ Text:
 
 A simple, text-only web browser and [RSS](/terms/rss) reader for Newton devices developed by [Eckhart Köppen](/sources/eckhart-koppen).
 
-## Additional Information
+### Additional Information
 
 [40Hz: Courier Product Information](http://40hz.org/Pages/Courier)
 

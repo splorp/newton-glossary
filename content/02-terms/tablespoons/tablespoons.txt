@@ -10,7 +10,7 @@ Text:
 
 A mangled translation of “Jabberwocky”. When [Robert McNally](/sources/robert-mcnally) entered Lewis Carroll’s famous poem into an original Newton device, the [handwriting recognition](/terms/handwriting-recognition) generated what was basically a new lyric poem, with “Tablespoons” as its title. Also referred to as [Newtonwocky](/terms/newtonwocky).
 
-## Additional Information
+### Additional Information
 
 [Lynn Gold’s Jabberwocky Page: Tablespoons](http://www.rahul.net/figmo/Archives/newton-wocky.html)
 

@@ -10,7 +10,7 @@ Text:
 
 A bimonthly print journal established in 1995, _Pen Computing_ focused on pen-based and mobile computing platforms. Both the print and online versions of the magazine featured David McNeill’s [Newton Notes](http://pencomputing.com/Newton/) column, which also appeared in _Mac Monthly_ and _On The Go Magazine_ between 1993 and early 1998.
 
-## Additional Information
+### Additional Information
 
 [Pen Computing Website](http://www.pencomputing.com/)
 [Pen Computing: Old Website](http://pencomputing.com/old_pcm_website/)

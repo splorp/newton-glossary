@@ -10,7 +10,7 @@ Text:
 
 The [transport](/terms/transport) component of the Newton [text-to-speech](/terms/text-to-speech) software. SpeakText provides a way to send [recognized text](/terms/recognized-text) to the [MacinTalk](/terms/macintalk) speech synthesizer in any [application](/terms/application) that supports [routing](/terms/routing) of text.
 
-## Additional Information
+### Additional Information
 
 [Newton Underground: How to Work with the Text-to-Speech Extension](http://communicrossings.com/html/newton/newtscape/docs/a0000003.shtml)
 [Newton Underground: More Newton Text to Speech](http://communicrossings.com/html/newton/newtscape/docs/a0000004.shtml)

@@ -12,7 +12,7 @@ A command line utility for Unix [operating systems](/terms/operating-system) tha
 
 [NewTen](/terms/newten) is a version of UnixNPI that has been wrapped in a [graphical user interface](/terms/graphical-user-interface) for Mac OS X.
 
-## Additional Information
+### Additional Information
 
 [UnixNPI Website](http://unixnpi.sourceforge.net/)
 [Internet Archive: UnixNPI Product Information](https://web.archive.org/web/20121030074828/http://www.ee.cityu.edu.hk:80/~clli/unixnpi.html)

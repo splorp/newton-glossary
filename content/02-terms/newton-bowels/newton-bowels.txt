@@ -10,7 +10,7 @@ Text:
 
 A project instigated by [Paul Guyot](/sources/paul-guyot) to document [APIs](/terms/api), inner workings, and other programmatic mechanisms found in the [Newton OS](/terms/newton-os) and to provide related sample code and development tools.
 
-## Additional Information
+### Additional Information
 
 [Kallisys: Newton Bowels Documentaton & Sample Code](http://www.kallisys.com/files/newton/Bowels/)
 [Internet Archive: Newton Bowels Project](https://web.archive.org/web/20080705023523/http://www.kallisys.com/newton/bowels/en) (English)

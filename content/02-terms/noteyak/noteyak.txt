@@ -10,7 +10,7 @@ Text:
 
 A small [application](/terms/application) that works in conjunction with [Yak](/terms/yak) to provide [text-to-speech](/terms/text-to-speech) functionality within the [Notepad](/terms/notepad) application.
 
-## Additional Information
+### Additional Information
 
 [Matej Horvat: Yak](http://matejhorvat.si/en/newton/yak/)
 

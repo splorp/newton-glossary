@@ -12,7 +12,7 @@ Virtual Network Computing
 
 A platform independent, open source mechanism for viewing and interacting with the screen of a remote computer system over a network. VNC was originally developed by the [Olivetti & Oracle Research Laboratory](https://en.wikipedia.org/wiki/Olivetti_Research_Laboratory) in the late 1990s.
 
-## Additional Information
+### Additional Information
 
 [Wikipedia: VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing)
 

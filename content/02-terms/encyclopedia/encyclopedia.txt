@@ -10,7 +10,7 @@ Text:
 
 A [frame](/terms/frame)-based database [application](/terms/application) developed by [Apple](https://www.apple.com/) and written in the [Ralph](/terms/ralph) programming language for [Bauhaus](/terms/bauhaus), an early version of [Newton OS](/terms/newton-os).
 
-## Additional Information
+### Additional Information
 
 [Talking with Mikel Evins about the Lisp-based Newton OS](http://lispm.de/lisp-based-newton-os)
 

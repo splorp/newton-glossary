@@ -10,7 +10,7 @@ Text:
 
 Published by [Apple](https://www.apple.com/) in 1996 as a companion to the [Newton Programmer’s Guide](/sources/newton-programmers-guide) is the definitive guide to Newton programming.
 
-## Additional Information
+### Additional Information
 
 [UNNA: Newton Programmer’s Reference for Newton 2.0](http://www.unna.org/unna/apple/documentation/developer/ProgrammersReferenceOS2.0.pdf) (PDF)
 [The Newted Community: Newton Programmer’s Reference for Newton 2.0](http://www.newted.org/download/manuals/NewtonProgrammerRef20.pdf) (PDF)

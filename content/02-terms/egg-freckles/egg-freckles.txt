@@ -14,7 +14,7 @@ An [easter egg](/terms/easter-egg) found in [Newton OS](/terms/newton-os) 2.0 wh
 
 Egg Freckles is also the name of Newton-themed weblog written by [Thomas Brand](http://eggfreckles.net/).
 
-## Additional Information
+### Additional Information
 
 [Doonesbury: The Newton](http://doonesbury.washingtonpost.com/strip/set/24)
 [My Apple Newton: Dilbert Compares Smartphones](http://myapplenewton.blogspot.ca/2011/08/dilbert-compares-smartphones.html)

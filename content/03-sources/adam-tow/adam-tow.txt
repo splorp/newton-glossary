@@ -12,7 +12,7 @@ Currently known as a filmmaker, photographer, software developer, and digital co
 
 Under the moniker Foundation Systems, Tow created several popular [Newton OS](/terms/newton-os) software packages, including [NewtonID](/terms/newtonid), [newtToDo](/terms/newttodo), [HyperNewt](/terms/hypernewt), and [WriteHere](/terms/writehere).
 
-## Additional Information
+### Additional Information
 
 [Tow.com Website](https://tow.com/)
 [Tow.com: Newton Software](https://tow.com/projects/newton/)

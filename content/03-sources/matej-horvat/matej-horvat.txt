@@ -10,7 +10,7 @@ Text:
 
 Based in Slovenia, Matej is currently a university student with interests spanning computers, programming, electronic music, language, and video games. His software contributions include [NoteLinker](/terms/notelinker) and the [NSM](/terms/nsm) virtual machine for [NewtonScript](/terms/newtonscript).
 
-## Additional Information
+### Additional Information
 
 [Matej Horvat Website](http://matejhorvat.si/)
 [Matej Horvat: Newton](http://matejhorvat.si/en/newton/)

@@ -12,7 +12,7 @@ The Mac OS version of the Newton [handwriting recognition](/terms/handwriting-re
 
 _This entry requires a screenshot._
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: Mac OS X: Inkwell](https://web.archive.org/web/20030603163016/http://www.apple.com/macosx/jaguar/inkwell.html)
 

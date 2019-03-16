@@ -10,6 +10,6 @@ Text:
 
 Founded in 1896, this family-owned newspaper serves the Pacific Northwest with _“thoughtful, independent journalism that makes a difference”_.
 
-## Additional Information
+### Additional Information
 
 [The Seattle Times Website](http://www.seattletimes.com/)

@@ -10,7 +10,7 @@ Text:
 
 A website established in 1997 by [Rich Lindsay](/sources/rich-lindsay) which provided a comprehensive assortment of Newton resources including news updates, documentation, tips, software downloads, a pricing guide, and links. This Old Newt also hosted the [Newtie Awards](/terms/newtie-award), an annual award that recognized contributions made to the Newton community.
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: This Old Newt Website](https://web.archive.org/web/20021203071756/http://www.thisoldnewt.net/index2.html)
 [Internet Archive: This Old Newt: Newtie Awards](https://web.archive.org/web/20050205024243/http://www.thisoldnewt.net/html/newties.html)

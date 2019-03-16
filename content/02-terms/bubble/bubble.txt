@@ -10,7 +10,7 @@ Text:
 
 A colloquial term for one of the [hard buttons](/terms/hard-button) or [silkscreen buttons](/terms/silkscreen-button) found in the [button bar](/terms/button-bar) below the [screen](/terms/screen) on early prototype Newton devices.
 
-## Additional Information:
+### Additional Information:
 
 [The Seattle Times: Let Newton Assist You, Says Apple](http://community.seattletimes.nwsource.com/archive/?date=19920529&slug=1494354)
 

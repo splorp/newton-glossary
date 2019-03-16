@@ -10,6 +10,6 @@ Text:
 
 A software development company co-founded in 1994 by Vernon Huang and Robert Bruce. They created numerous products specifically for the Newton platform, including [ChatBuddy](/terms/chatbuddy), [PackageBuddy](/terms/packagebuddy), [NewtFTP](/terms/newtftp), and [BugTrap](/terms/bugtrap).
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: Tactile Website](https://web.archive.org/web/20071203091635/http://www.tactile.com/)

@@ -10,7 +10,7 @@ Text:
 
 The colour of some of the mechanical components located in the battery compartment of early Newton devices as described by [Landon Dyer](/sources/landon-dyer). The bright yellow colour of the locking mechanism would theoretically “scare people into being cautious” and discourage the simultaneous removal of both the main power source and the [backup battery](/terms/backup-battery).
 
-## Additional Information
+### Additional Information
 
 [Dad Hacker: Patching the Newton](http://www.dadhacker.com/blog/?p=2233)
 

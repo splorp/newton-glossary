@@ -10,6 +10,6 @@ Text:
 
 The user manual for the [Graphing Calculator](/terms/graphing-calculator) component of [Newton Works](/terms/newton-works), an integrated application developed by [Apple](https://www.apple.com/) for Newton devices.
 
-## Additional Information
+### Additional Information
 
 [The Newted Community: Newton Works Graphing Calculator User’s Manual](http://www.newted.org/download/manuals/0340062ANWGRAFCALCUM.PDF) (PDF)

@@ -12,7 +12,7 @@ A [package](/terms/package) that works in conjunction with [Yak](/terms/yak) to 
 
 YakSpeakNote was developed by [Matej Horvat](/sources/matej-horvat) as a replacement for the original (and rather buggy) [NoteYak](/terms/noteyak) software.
 
-## Additional Information
+### Additional Information
 
 [Matej Horvat: Yak](http://matejhorvat.si/en/newton/yak/)
 

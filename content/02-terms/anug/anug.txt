@@ -12,7 +12,7 @@ Austin Newton Users Group
 
 Founded by Deb Ayers, Rob Cox, and Kent Spaulding in October 1995 as a way for enthusiasts to explore mobile technologies. ANUG eventually changed its name to the Austin Digital Assistant Users Group ([ADAUG](/terms/adaug)) as a refection of the expanding marketplace.
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: ANUG Website](https://web.archive.org/web/19981207065148/http://www.zti.com/anug/)
 

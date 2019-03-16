@@ -12,7 +12,7 @@ A debugging tool for [Newton OS](/terms/newton-os) developed by [Mason Mark](/so
 
 ![Screenshot of Minspector](/assets/images/minspector.gif)
 
-## Additional Information
+### Additional Information
 
 [Five Speed Software: Minspector](http://www.fivespeedsoftware.com/minspector/)
 

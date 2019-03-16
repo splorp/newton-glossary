@@ -10,6 +10,6 @@ Text:
 
 Originally maintained by Bruce Grubb, this list of frequently asked questions was compiled from the comp.sys.mac.comm newsgroup.
 
-## Additional Information
+### Additional Information
 
 [comp.sys.mac.comm FAQ](http://www.faqs.org/faqs/macintosh/comm-faq/)

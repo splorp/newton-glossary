@@ -10,7 +10,7 @@ Text:
 
 A free-form input area found in the [Avi’s Backdrop](/terms/avis-backdrop) application which functions as a simple version of built-in Newton [Notepad](/terms/notepad).
 
-## Additional Information
+### Additional Information
 
 [Avi’s Newton Stuff: Avi’s Backdrop](http://www.drissman.com/avi/newton/AvisBackdrop/)
 

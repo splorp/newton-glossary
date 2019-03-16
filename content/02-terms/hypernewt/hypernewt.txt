@@ -12,7 +12,7 @@ An [application](/terms/application) developed by [Adam Tow](/sources/adam-tow) 
 
 ![Screenshot of HyperNewt](/assets/images/hypernewt.gif)
 
-## Additional Information
+### Additional Information
 
 [Tow.com: Newton Software](https://tow.com/projects/newton/)
 

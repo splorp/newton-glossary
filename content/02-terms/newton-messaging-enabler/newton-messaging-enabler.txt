@@ -12,7 +12,7 @@ A developer tool for enabling wireless messaging devices under [Newton OS](/term
 
 Also referred to as [NME](/terms/nme).
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: Newton Messaging Enabler](https://web.archive.org/web/19980204051938/http://www.newton-inc.com/dev/sysenablrs.html)
 

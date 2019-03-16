@@ -12,7 +12,7 @@ Reportedly, the last version of the NuBus-based Newton development card that fac
 
 The ARMadillo card was preceded by the [ARMageddon](/terms/armageddon) and [ARMistice](/terms/armistice) cards. The cards were so named because of the [ARM](/terms/arm) processor used in the Newton hardware.
 
-## Additional Information
+### Additional Information
 
 [Stories of Apple: ARMageddon and ARMistice](http://www.storiesofapple.net/armageddon-and-armistice.html)
 [Twitter: ARMadillo](https://twitter.com/i/moments/919601694589075456)

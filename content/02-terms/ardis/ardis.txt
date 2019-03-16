@@ -12,7 +12,7 @@ Advanced Radio Data Information Service
 
 A defunct wireless data network based in the United States developed by [Motorola](http://www.motorola.com/) and [IBM](http://www.ibm.com/). The ARDIS network provided two-way data transmission based on radio packet technology. ARDIS compatible wireless modems were used in the [Newton OS](/terms/newton-os) based [Motorola Marco](/terms/marco) device.
 
-## Additional Information
+### Additional Information
 
 [Signal Harbor: Advanced Radio Data Information Service](http://www.signalharbor.com/ardis.html)
 [Internet Archive: ARDIS Website](https://web.archive.org/web/19990429042153/http://www.ardis.com/)

@@ -10,7 +10,7 @@ Text:
 
 Korean Newton Users Group
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: KNUG Website](https://web.archive.org/web/20041205033125/http://messagepad.org/)
 

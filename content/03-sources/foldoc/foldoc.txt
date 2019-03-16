@@ -10,6 +10,6 @@ Text:
 
 A comprehensive searchable dictionary of terms, acronyms, and jargon founded in 1985 by editor Denis Howe. Commonly referred to as [FOLDOC](http://foldoc.org/), this online resource currently contains over 15,000 entries.
 
-## Additional Information
+### Additional Information
 
 [FOLDOC Website](http://foldoc.org/)

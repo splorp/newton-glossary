@@ -16,7 +16,7 @@ Early [MessagePad](/terms/messagepad) devices use a 20 MHz ARM 610 processor, wh
 
 The ARM architecture was developed by British computer manufacturer Acorn Computers and originally dubbed the Acorn RISC Machine.
 
-## Additional Information
+### Additional Information
 
 [Arm Website](https://www.arm.com/)
 [Wikipedia: ARM Architecture](https://en.wikipedia.org/wiki/ARM_architecture)

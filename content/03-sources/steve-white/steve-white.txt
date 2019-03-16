@@ -10,7 +10,7 @@ Text:
 
 A rather elusive hardware and software hacker responsible for the [Leibniz](/terms/leibniz) emulator for [Runt](/terms/runt)-based Newton devices. Smith is better known by his online nom de plume, Pablo Marx.
 
-## Additional Information
+### Additional Information
 
 [GitHub: Pablo Marx](https://github.com/pablomarx)
 [Twitter: Pablo Marx](https://twitter.com/pablo_marx/)

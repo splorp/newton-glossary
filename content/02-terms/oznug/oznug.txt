@@ -12,7 +12,7 @@ Australian Newton Users Group
 
 Founded in August 1994, OzNUG was based in Sydney and supported subchapters of the group throughout Australia. It was affiliated with [NANUG](/terms/nanug), a very active [Newton user group](/terms/newton-user-group) in the United States.
 
-## Additional Information
+### Additional Information
 
 [comp.sys.newton.announce: Newton User Group formed in Australia](https://groups.google.com/forum/#!msg/comp.sys.newton.announce/aRQEl4Voc8E/19zFFfgdQKsJ)
 

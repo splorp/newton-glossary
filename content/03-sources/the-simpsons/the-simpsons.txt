@@ -10,7 +10,7 @@ Text:
 
 A long-running, animated situation comedy series created by Matt Groening, involving the hijinks of a dysfunctional family.
 
-## Additional Information
+### Additional Information
 
 [Simpsons Wiki](http://simpsons.wikia.com/wiki/Simpsons_Wiki)
 [IMDb: The Simpsons](http://www.imdb.com/title/tt0096697/)

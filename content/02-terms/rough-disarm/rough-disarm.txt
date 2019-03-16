@@ -10,7 +10,7 @@ Text:
 
 A tool created by [Paul Guyot](/sources/paul-guyot) for the [Macintosh Programmers Workshop](/terms/macintosh-programmers-workshop) (MPW) development environment, facilitating the disassembly of [ARM](/terms/arm) processor code found in the [Newton OS](/terms/newton-os) ROM. Described by its author as a “quick hack” — at least when compared to the more polished, but unreleased [Better Disarm](/terms/better-disarm) tool.
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: Rough Disarm Read Me](https://web.archive.org/web/20140527211337/http://www.kallisys.com/files/newton/Bowels/RoughDisarm/RoughDisarmReadMe.txt)
 [Internet Archive: Rough Disarm Source Code](https://web.archive.org/web/20140527211234/http://www.kallisys.com/files/newton/Bowels/RoughDisarm/)

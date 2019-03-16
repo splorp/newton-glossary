@@ -14,7 +14,7 @@ An experimental telecommunication device developed by [Apple](https://www.apple.
 
 The WALT has been referred to as “… a Mac in Newton’s clothing.”
 
-## Additional Information
+### Additional Information
 
 [PC Magazine: Never-Released Apple WALT Sells for $8,000 on eBay](http://www.pcmag.com/article2/0,2817,2401459,00.asp)
 [Redmond Pie: The Apple WALT: The iPhone Before The iPhone](http://www.redmondpie.com/the-apple-walt-the-iphone-before-the-iphone/)

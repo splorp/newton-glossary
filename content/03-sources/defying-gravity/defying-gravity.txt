@@ -10,6 +10,6 @@ Text:
 
 Published in 1993, this book documents the creation of the Newton, focusing more on the people then the technology itself. Written by [Markos Kounalakis](http://www.markoskounalakis.com/) and featuring the dynamic black and white photography of [Doug Menuez](https://menuez.com/).
 
-## Additional Information
+### Additional Information
 
 [Amazon: Defying Gravity: The Making of Newton](http://amzn.to/1Q3sSkm)

@@ -10,7 +10,7 @@ Text:
 
 A software engineer at [Apple](https://www.apple.com/) during the early Newton years, Dyer worked specifically on development tools and the [Newton OS](/terms/newton-os) kernel.
 
-## Additional Information
+### Additional Information
 
 [Dadhacker Website](http://www.dadhacker.com/)
 [LinkedIn: Landon Dyer](https://www.linkedin.com/in/landon-dyer-6449611)

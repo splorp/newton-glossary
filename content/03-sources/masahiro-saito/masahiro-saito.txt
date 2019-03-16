@@ -10,6 +10,6 @@ Text:
 
 Produced the unofficial Japanese translation of [The NewtonScript Programming Language](/sources/newtonscript-programming-language).
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation)

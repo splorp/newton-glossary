@@ -12,7 +12,7 @@ A [Usenet](https://en.wikipedia.org/wiki/Usenet) newsreader [application](/terms
 
 ![Screenshot of Ink Spot](/assets/images/ink-spot.gif)
 
-## Additional Information
+### Additional Information
 
 [Internet Archive: Ink Spot Product Information](https://web.archive.org/web/20060404134416/http://www.dejavusoftware.com/ink/)
 
