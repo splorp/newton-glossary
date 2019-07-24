@@ -16,12 +16,12 @@ The low-cost, miniaturized [MessagePad](/terms/messagepad) rumoured to have been
 
 ----
 
-Source:
-
-- /sources/pen-computing
-
-----
-
 Related:
 
 - /terms/messagepad
+
+----
+
+Source:
+
+- /sources/pen-computing
