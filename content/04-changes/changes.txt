@@ -20,17 +20,20 @@ Recently added terms and sources can be found on the [latest additions](/latest)
 
 ### 2.4.4
 
-Terms: _$t
-Sources: _$s
+12 August 2019
+
+Terms: 1,273
+Sources: 128
 
 #### Summary of changes:
 
-+ Added new terms
-+ Added new sources
++ Added 22 new terms
++ Added 6 new sources
 + Updated and expanded dozens of existing entries
 + Improved heading and subheading hierarchy because semantics
 + Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin to version [1.1.1](https://github.com/pedroborges/kirby-meta-tags/releases/tag/v1.1.1)
 + Updated [Kirby](https://getkirby.com/) to version [2.5.12](https://getkirby.com/changelog/kirby-2-5-12)
++ All page requests are now redirected to HTTPS
 
 ### 2.4.3
 
