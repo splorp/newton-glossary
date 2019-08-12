@@ -10,9 +10,13 @@ Text:
 
 A free-form input area found in the [Avi’s Backdrop](/terms/avis-backdrop) application which functions as a simple version of built-in Newton [Notepad](/terms/notepad).
 
+Steve Jobs was also reportedly heard referring to the Newton as a “scribble pad” or “that scribble thing”.
+
 ### Additional Information
 
 [Avi’s Newton Stuff: Avi’s Backdrop](http://www.drissman.com/avi/newton/AvisBackdrop/)
+[Pen Computing: State of the Newton](http://www.pencomputing.com/Newton/NewtonNotes27(PCM19).html)
+[The Independent: Newton is dead. Long live eMate](https://www.independent.co.uk/arts-entertainment/newton-is-dead-long-live-emate-1149312.html)
 
 ----
 
@@ -20,9 +24,11 @@ Related:
 
 - /terms/avis-backdrop
 - /terms/notepad
+- /terms/that-scribble-thing
 
 ----
 
 Source:
 
 - /sources/avi-drissman
+- /sources/pen-computing
