@@ -26,6 +26,7 @@ Related:
 - /terms/backlight
 - /terms/backlit
 - /terms/batnewt
+- /terms/bizmate
 - /terms/bmate
 - /terms/broink
 - /terms/business-emate
