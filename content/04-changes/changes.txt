@@ -32,7 +32,7 @@ Sources: 128
 + Updated and expanded dozens of existing entries
 + Improved heading and subheading hierarchy because semantics
 + Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin to version [1.1.1](https://github.com/pedroborges/kirby-meta-tags/releases/tag/v1.1.1)
-+ Updated [Kirby](https://getkirby.com/) to version [2.5.12](https://getkirby.com/changelog/kirby-2-5-12)
++ Updated [Kirby](https://getkirby.com/) to version [2.5.12](https://web.archive.org/web/20180717154912/https://getkirby.com/changelog/kirby-2-5-12)
 + All page requests are now redirected to HTTPS
 
 ### 2.4.3
@@ -47,7 +47,7 @@ Sources: 122
 + Added 37 new terms
 + Added 3 new sources
 + Updated and expanded dozens of existing entries
-+ Updated [Kirby](https://getkirby.com/) to version [2.5.8](https://getkirby.com/changelog/kirby-2-5-8)
++ Updated [Kirby](https://getkirby.com/) to version [2.5.8](https://web.archive.org/web/20180104172146/https://getkirby.com/changelog/kirby-2-5-8)
 
 ### 2.4.2
 
@@ -82,7 +82,7 @@ Sources: 109
 + Added title attributes to main navigational links
 + Improved handling of UTF-8 encoded characters in alphabetical listings
 + Implemented [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin
-+ Updated [Kirby](https://getkirby.com/) to version [2.5.6](https://getkirby.com/changelog/kirby-2-5-6)
++ Updated [Kirby](https://getkirby.com/) to version [2.5.6](https://web.archive.org/web/20180625101533/https://getkirby.com/changelog/kirby-2-5-6)
 
 ### 2.4.0
 
@@ -96,7 +96,7 @@ Sources: 107
 + Added 25 new terms
 + Added 1 new source
 + Updated and expanded dozens of existing entries
-+ Updated [Kirby](https://getkirby.com/) to version [2.5.5](https://getkirby.com/changelog/kirby-2-5-5)
++ Updated [Kirby](https://getkirby.com/) to version [2.5.5](https://web.archive.org/web/20181204192426/https://getkirby.com/changelog/kirby-2-5-5)
 
 ### 2.3.1
 
@@ -111,7 +111,7 @@ Sources: 106
 + Added 8 new sources
 + Updated and expanded dozens of existing entries
 + Implemented [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin
-+ Added [Open Graph](http://ogp.me/) and [Twitter Cards](https://dev.twitter.com/cards/overview) meta tag support
++ Added [Open Graph](https://ogp.me/) and [Twitter Cards](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started) meta tag support
 + Updated site and mobile device icons
 
 ### 2.3.0
@@ -129,8 +129,8 @@ Sources: 98
 + Added page listing the [latest additions](/latest) to the glossary
 + Moved [about](/about) and [change log](/changes) links to footer
 + Added option to set navigation link text for each page
-+ Legacy domain links now redirect to [newtonglossary.com](http://newtonglossary.com/)
-+ Implemented [Kirby GA](https://github.com/jenstornell/kirby-ga) plugin for [Google Analytics](https://www.google.com/analytics/) integration
++ Legacy domain links now redirect to [newtonglossary.com](https://newtonglossary.com/)
++ Implemented [Kirby GA](https://github.com/kirby-deprecated-plugins/kirby-ga) plugin for [Google Analytics](https://www.google.com/analytics/) integration
 + Implemented [Kirby XML Sitemap](https://github.com/pedroborges/kirby-xml-sitemap) plugin
 + Added XML [sitemap](/sitemap.xml) for search engine indexing
 
@@ -146,7 +146,7 @@ Sources: 95
 + Added 36 new terms
 + Added 5 new sources
 + Updated and expanded dozens of existing entries
-+ Updated [Kirby](https://getkirby.com/) to version [2.4.1](https://getkirby.com/changelog/kirby-2-4-1)
++ Updated [Kirby](https://getkirby.com/) to version [2.4.1](https://web.archive.org/web/20181023132058/https://getkirby.com/changelog/kirby-2-4-1)
 + Tweaked image display on individual [terms](/terms) and [sources](/sources)
 + Changed lists to use contextual singular and plural subheads
 + [Search](/search) now returns more useful results based on the title field
@@ -162,7 +162,7 @@ Sources: 90
 
 + Added 22 new terms
 + Updated and expanded dozens of existing entries
-+ Updated [Kirby](https://getkirby.com/) to version [2.4.0](https://getkirby.com/changelog/kirby-2-4-0)
++ Updated [Kirby](https://getkirby.com/) to version [2.4.0](https://web.archive.org/web/20170711044134/https://getkirby.com/changelog/kirby-2-4-0)
 + Fixed linespacing for inline code snippets
 
 ### 2.1.1
@@ -193,10 +193,10 @@ Sources: 83
 + Added 16 new terms
 + Added 2 new sources
 + Updated and expanded dozens of existing entries
-+ Updated [Kirby](https://getkirby.com/) to version [2.3.2](https://getkirby.com/changelog/kirby-2-3-2)
++ Updated [Kirby](https://getkirby.com/) to version [2.3.2](https://web.archive.org/web/20170711105740/https://getkirby.com/changelog/kirby-2-3-2)
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.0.8
-+ Implemented [Cachebuster](https://github.com/getkirby-plugins/cachebuster-plugin) plugin to add timestamps to .css and .js files
-+ Deprecated [Related Pages](https://github.com/bastianallgeier/kirbycms-extensions/tree/master/plugins/related) plugin
++ Implemented [Cachebuster](https://github.com/getkirby-v2/cachebuster-plugin) plugin to add timestamps to .css and .js files
++ Deprecated [Related Pages](https://github.com/getkirby-v1/plugins/tree/master/plugins/related) plugin
 + Fixed outdated links on the [about](/about) page
 + Added rudimentary [search](/search) functionality
 + Simplified previous and next page navigation
