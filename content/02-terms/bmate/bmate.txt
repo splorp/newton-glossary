@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The speculative, business-focused successor to the [eMate 300](/terms/emate-300). Code named [Santa Fe](/terms/santa-fe), the bMate or [Business eMate](/terms/business-emate) was rumoured to share the more powerful [StrongARM](/terms/strongarm) processor and larger memory capacity found in the [MessagePad 2100](/terms/messagepad-2100), and include features such as an internal modem, built-in [ethernet](/terms/ethernet) networking, and a more “conservative” case design.
+The speculative, business-focused successor to the [eMate 300](/terms/emate-300). Code named [Santa Fe](/terms/santa-fe), the bMate or [Business eMate](/terms/business-emate) was rumoured to share the more powerful [StrongARM](/terms/strongarm) processor and larger memory capacity found in the [MessagePad 2100](/terms/messagepad-2100), and include features such as an internal modem, built-in [ethernet](/terms/ethernet) networking, colour display, and a more “conservative” case design.
 
 Also referred to as the [eMate 1000](/terms/emate-1000), [eMate 3000](/terms/emate-3000), and [BizMate](/terms/bizmate).
 
@@ -19,8 +19,7 @@ Also referred to as the [eMate 1000](/terms/emate-1000), [eMate 3000](/terms/ema
 [Internet Archive: Apple Recon: eMate 1000](https://web.archive.org/web/20010405015435/http://www.geocities.com/WallStreet/7744/emate1k.html)
 [Internet Archive: MacCentral: Newton News](https://web.archive.org/web/19981203050535/http://www.maccentral.com/features/012098_nn.shtml)
 [Internet Archive: ThessaSource: The Fate of the Newton](https://web.archive.org/web/19981205214656/http://www.thessasource.com/features/newton.html)
-
-http://www.remus.dti.ne.jp/~sugiyama/199711_2news.html
+[Internet Archive: Newton @ -AtMark-](https://web.archive.org/web/20080501032642/http://www.remus.dti.ne.jp:80/~sugiyama/199711_2news.html#19971117)
 
 ----
 
@@ -42,4 +41,3 @@ Source:
 - /sources/macos-rumors
 - /sources/pen-computing
 - /sources/thessasource
-
