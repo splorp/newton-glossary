@@ -30,7 +30,7 @@ Related:
 - /terms/emate-300
 - /terms/emate-1000
 - /terms/emate-3000
-- /terms/sante-fe
+- /terms/santa-fe
 
 ----
 
