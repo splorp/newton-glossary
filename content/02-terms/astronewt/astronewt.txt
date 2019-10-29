@@ -1,0 +1,28 @@
+Title: AstroNewt
+
+----
+
+Date: 28 October 2019
+
+----
+
+Text:
+
+A [Newton book](/terms/newton-book) created by Steven Sande containing detailed data on the brightest stars in the sky, including details such as stellar magnitude, right ascension and declination, star charts showing the position of the major constellations, and a glossary of astronomical terms.
+
+### Additional Information
+
+[Internet Archive: AstroNewt Product Information](https://web.archive.org/web/19980214140452/http://pdantic.com/Astro.htm)
+
+
+----
+
+Related:
+
+- /terms/newton-book
+
+----
+
+Source:
+
+- /sources/sansoft
