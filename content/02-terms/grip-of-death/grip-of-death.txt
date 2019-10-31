@@ -14,15 +14,18 @@ Also referred to as [G.O.D.](/terms/GOD) and [The Grip](/terms/the-grip).
 
 ### Additional Information
 
-[UNNA: Newton Technology Journal: Surviving the Grip](http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal/NTJ_3_02.pdf)
+[UNNA: Newton Technology Journal: Surviving the Grip](http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal/NTJ_3_02.pdf) (PDF)
+[UNNA: Double Tap Magazine: Newton Still Needs the Card](http://www.unna.org/view.php?apple/documentation/developer/Articles/NewtonStillNeedsTheCard.rtf) (RTF)
 
 ----
 
 Related:
 
 - /terms/card
+- /terms/findgod
 - /terms/freeze
 - /terms/god
+- /terms/grips
 - /terms/heap
 - /terms/heap-space
 - /terms/system-memory
@@ -33,3 +36,4 @@ Related:
 Source:
 
 - /sources/ben-truesdale
+- /sources/newton-technology-journal

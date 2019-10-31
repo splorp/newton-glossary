@@ -22,6 +22,7 @@ Related:
 - /terms/debug
 - /terms/debugger
 - /terms/debugging
+- /terms/findgod
 - /terms/minspector
 - /terms/newton-toolkit
 - /terms/newtonscript
