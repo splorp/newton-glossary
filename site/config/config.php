@@ -70,7 +70,7 @@ c::set('meta-tags.default', function(Page $page, Site $site) {
 					? $page->description()
 					: excerpt($page->text(), 175)
 				),
-			'image' => site()->url() . '/assets/images/twitter-image-800x800.png'
+			'image' => site()->url() . '/assets/meta/twitter-image-800x800.png'
 		]
 	];
 });
