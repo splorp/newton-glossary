@@ -10,6 +10,8 @@ Text:
 
 A list of various [routing](/terms/routing) actions available for the current item. Activated by [tapping](/terms/tapping) on the [action button](/terms/action-button).
 
+![Screenshot of an Action Button with Picker](/assets/images/action-picker.gif)
+
 ----
 
 Related:
