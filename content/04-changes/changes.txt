@@ -27,6 +27,8 @@ Sources: _$s
 
 + Added new terms
 + Added new sources
++ Updated and expanded dozens of existing entries
++ Moved device and meta images into their own directories
 
 ### 2.4.4
 
