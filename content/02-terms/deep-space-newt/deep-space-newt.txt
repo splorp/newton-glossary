@@ -8,7 +8,7 @@ Date: 16 February 2017
 
 Text:
 
-A game for [Newton OS](/terms/newton-os) developed by [DejaVu Software](/sources/dejavu) derived from the original text-based [Star Trek](https://en.wikipedia.org/wiki/Star_Trek_(text_game)) game. Also referred to as [DSNewt](/terms/dsnewt), DejaVu ported the game to the iOS platform in 2008.
+A game for [Newton OS](/terms/newton-os) developed by [DejaVu Software](/sources/dejavu) derived from the original text-based [Star Trek](https://en.wikipedia.org/wiki/Star_Trek_(text_game)) game. Also referred to as [DSN](/terms/dsn) and [DSNewt](/terms/dsnewt), DejaVu ported the game to the iOS platform in 2008.
 
 ![Screenshot of Deep Space Newt](/assets/images/deep-space-newt.gif)
 
