@@ -29,6 +29,7 @@ Sources: _$s
 + Added new sources
 + Updated and expanded dozens of existing entries
 + Moved device and meta images into their own directories
++ Updated [Kirby](https://getkirby.com/) to version [2.5.13](https://forum.getkirby.com/t/kirby-2-5-13-is-here/16876)
 
 ### 2.4.4
 
