@@ -24,6 +24,7 @@ Related:
 
 - /terms/bazooka
 - /terms/frankenbuckey
+- /terms/newton-keyboard-enabler
 
 ----
 

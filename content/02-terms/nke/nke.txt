@@ -1,0 +1,17 @@
+Title: NKE
+
+----
+
+Date: 29 January 2020
+
+----
+
+Text:
+
+See [Newton Keyboard Enabler](/terms/Newton-keyboard-enabler)
+
+----
+
+Source:
+
+- /sources/markus-fritze

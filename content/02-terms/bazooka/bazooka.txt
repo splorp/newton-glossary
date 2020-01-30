@@ -16,6 +16,7 @@ Related:
 
 - /terms/frankenbuckey
 - /terms/newtway
+- /terms/newton-keyboard-enabler
 
 ----
 

@@ -1,0 +1,33 @@
+Title: Newton Keyboard Enabler
+
+----
+
+Date: 29 January 2020
+
+----
+
+Text:
+
+A system extension created by [Markus Fritze](/sources/markus-fritze) which facilitates the use of a Newton keyboard when connected to the serial port of a Mac OS computer.
+
+Also referred to as [NKE](/terms/nke).
+
+### Additional Information
+
+[Sarnau: Newton Keyboard Enabler](https://sarnau.info/newton-keyboard-enabler/)
+[GitHub: Newton Keyboard Enabler 1.0](https://github.com/sarnau/NewtonKeyboardEnabler)
+
+----
+
+Related:
+
+- /terms/bazooka
+- /terms/frankenbuckey
+- /terms/newtway
+- /terms/nke
+
+----
+
+Source:
+
+- /sources/markus-fritze
