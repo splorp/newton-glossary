@@ -12,7 +12,7 @@ The document format (or [stationery](/terms/stationery)) used by the word proces
 
 ### Additional Information
 
-[UNNA: NewtonWorks Word Processor User’s Manual](http://www.unna.org/unna/apple/documentation/software/NewtonWorksManual.pdf) (PDF)
+[UNNA: Newton Works Word Processor User’s Manual](http://www.unna.org/unna/apple/documentation/software/NewtonWorksManual.pdf) (PDF)
 [UNNA: The eMate: Learning Works](http://www.unna.org/unna/apple/documentation/eMateISTE-Basics/works.pdf) (PDF)
 
 ----
