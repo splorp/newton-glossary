@@ -1,30 +1,28 @@
-Title: Unfiled Icons
+Title: Unfiled Calls
 
 ----
 
-Date: 26 October 2017
+Date: 08 February 2020
 
 ----
 
 Text:
 
-A [folder](/terms/folder) in the [Extras Drawer](/terms/extras-drawer) containing [application](/terms/application) and other [package](/terms/package) icons which have not been filed in another folder.
+A [folder](/terms/folder) in the [Calls](/terms/calls) application containing items which have not been filed in another folder.
 
 ----
 
 Related:
 
-- /terms/extras-drawer
 - /terms/folder
 - /terms/folder-button
 - /terms/folder-slip
 - /terms/folder-tab
 - /terms/global-folder
-- /terms/icon
 - /terms/local-folder
 - /terms/unfiled
-- /terms/unfiled-calls
 - /terms/unfiled-documents
+- /terms/unfiled-icons
 - /terms/unfiled-notes
 - /terms/user-interface
 

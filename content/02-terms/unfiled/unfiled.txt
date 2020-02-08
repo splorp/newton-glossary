@@ -8,7 +8,7 @@ Date: 26 October 2017
 
 Text:
 
-A [folder](/terms/folder) containing items which have not been filed in another folder. In the [Extras Drawer](/terms/extras-drawer), this folder is called [Unfiled Icons](/terms/unfiled-icons).
+A [folder](/terms/folder) containing items which have not been filed in another folder. In the [Extras Drawer](/terms/extras-drawer), this folder is called [Unfiled Icons](/terms/unfiled-icons). In other [applications](/terms/application), this folder will be named according to the type of item being filed. For example, in [Newton Works](/terms/newton-works) there is an [Unfiled Documents](/terms/unfiled-documents) folder and in [Calls](/terms/calls) there is an [Unfiled Calls](/terms/unfiled-calls) folder.
 
 ----
 
@@ -22,7 +22,10 @@ Related:
 - /terms/global-folder
 - /terms/icon
 - /terms/local-folder
+- /terms/unfiled-calls
+- /terms/unfiled-documents
 - /terms/unfiled-icons
+- /terms/unfiled-notes
 - /terms/user-interface
 
 ----
