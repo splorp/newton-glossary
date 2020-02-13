@@ -21,6 +21,7 @@ A defunct wireless data network based in the United States developed by [Motorol
 
 Related:
 
+- /terms/apple-wireless-messaging-service
 - /terms/marco
 
 ----

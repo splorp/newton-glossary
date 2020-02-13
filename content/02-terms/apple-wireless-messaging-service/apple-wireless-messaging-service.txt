@@ -21,6 +21,7 @@ A defunct subscription-based electronic messaging service that allowed a Newton 
 Related:
 
 - /terms/apple-mobile-message-system
+- /terms/ardis
 - /terms/awms
 - /terms/beeper-number
 - /terms/newscard
