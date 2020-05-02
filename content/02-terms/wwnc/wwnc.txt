@@ -21,6 +21,7 @@ A sporadic gathering of Newton users, developers, and aficionados that featured 
 Related:
 
 - /terms/newton-developer-conference
+- /terms/wonc
 - /terms/wwna
 
 ----

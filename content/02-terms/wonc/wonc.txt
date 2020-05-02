@@ -1,0 +1,30 @@
+Title: WONC
+
+----
+
+Date: 01 May 2020
+
+----
+
+Text:
+
+Worldwide Online Newton Conference
+
+A virtual gathering of Newton users, developers, and aficionados capturing the spirit of the previous [Worldwide Newton Conference](/terms/wwnc) events. Organized by [Pawel Piotrowski](http://applenewton.co.uk/), the inaugural WONC was held in May 2020.
+
+### Additional Information
+
+[Worldwide Online Newton Conference Website](http://wonc.online/)
+
+----
+
+Related:
+
+- /terms/newton-developer-conference
+- /terms/wwnc
+
+----
+
+Source:
+
+- /sources/grant-hutchinson
