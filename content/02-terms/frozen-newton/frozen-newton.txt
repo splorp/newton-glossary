@@ -8,12 +8,14 @@ Date:
 
 Text:
 
-A project originating in Japan which set out to create a custom, clear case [MessagePad 2100](/terms/messagepad-2100). A variation of the case featuring blue accents was known as the [Blueberry Frozen](/terms/blueberry-frozen).
+A Japanese project organized by Masaru Hozumi and Hiroaki Dehiro to create a custom, clear case [MessagePad 2100](/terms/messagepad-2100). A variation of the case featuring blue accents was known as the [Blueberry Frozen](/terms/blueberry-frozen).
 
 Also referred to as [Frozen Ghost](/terms/frozen-ghost).
 
 ### Additional Information
 
+[Internet Archive: “Frozen Newton Project!”](http://web.archive.org/web/20001006191430/http://member.nifty.ne.jp/masanewton/project.html) (Japanese)
+[Internet Archive: “Frozen Newton Project!”](http://web.archive.org/web/20001008173103/http://member.nifty.ne.jp/masanewton/English/project.html) (English)
 [The Newton Notes: “Frozen Newton” になりました](http://ohshima.net/newton/frozen.html)
 [Flickr: Original Frozen Newton Project Photos](https://www.flickr.com/photos/sonnyhung/sets/72057594059698258/)
 
