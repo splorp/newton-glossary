@@ -41,4 +41,4 @@ Related:
 
 Source:
 
-- /sources/apple-knowledge-archive
+- /sources/applecare-knowledge-archive
