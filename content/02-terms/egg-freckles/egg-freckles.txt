@@ -12,6 +12,8 @@ An [easter egg](/terms/easter-egg) found in [Newton OS](/terms/newton-os) 2.0 wh
 
 ![Egg Freckles from Doonesbury — August 27th, 1993](/assets/images/egg-freckles.gif)
 
+The easter egg was removed from Newton OS 2.1, it can be restored using Avi Drissman’s [Egg Freckles Enabler](http://www.drissman.com/avi/newton/EggFrecklesEnabler/) package.
+
 Egg Freckles is also the name of Newton-themed weblog written by [Thomas Brand](http://eggfreckles.net/).
 
 ### Additional Information
@@ -19,6 +21,7 @@ Egg Freckles is also the name of Newton-themed weblog written by [Thomas Brand](
 [Internet Archive: Doonesbury: The Newton](http://web.archive.org/web/20170629100722/http://doonesbury.washingtonpost.com/strip/set/24)
 [The New York Times: Doonesbury and Apple Hatch a Comic Surprise](https://www.nytimes.com/1995/12/18/business/doonesbury-and-apple-hatch-a-comic-surprise.html)
 [My Apple Newton: Dilbert Compares Smartphones](http://myapplenewton.blogspot.ca/2011/08/dilbert-compares-smartphones.html)
+[Avi Drissman: Egg Freckles Enabler](http://www.drissman.com/avi/newton/EggFrecklesEnabler/)
 
 ----
 
