@@ -15,6 +15,4 @@ The software publishing group within Apple’s [PIE](/terms/pie) (Personal Inter
 Related:
 
 - /terms/jig
-- /terms/jigsaw-strategy-game
 - /terms/pie
-- /terms/starcore
