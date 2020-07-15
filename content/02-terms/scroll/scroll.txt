@@ -18,6 +18,7 @@ Related:
 - /terms/clanking
 - /terms/local-scroll-arrows
 - /terms/scroll-arrows
+- /terms/scroller
 - /terms/scrolling
 - /terms/scrolling-list
 - /terms/universal-scroll-arrows
