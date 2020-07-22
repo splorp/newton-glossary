@@ -1,0 +1,33 @@
+Title: CIS
+
+----
+
+Date: 21 July 2020
+
+----
+
+Text:
+
+Card Information Structure
+
+Information stored on a [PCMCIA](/terms/pcmcia) card that describes the formatting and organization of the data on the [card](/terms/card). This can include the type of card, the supported power requirements and power saving capabilities, as well as the manufacturer and model number of the card.
+
+When a [PC card](/terms/pc-card) is unrecognized by a device, it is often due to the CIS information being missing or damaged.
+
+### Additional Information
+
+[Wikipedia: Card Information Structure](https://en.wikipedia.org/wiki/PC_Card#Card_information_structure)
+
+----
+
+Related:
+
+- /terms/card
+- /terms/pc-card
+- /terms/pcmcia
+
+----
+
+Source:
+
+- /sources/wikipedia

@@ -22,12 +22,13 @@ Colloquially referred to as _People Can’t Remember Computer Industry Acronyms_
 
 Related:
 
+- /terms/application-card
 - /terms/ata
 - /terms/ata-support
-- /terms/application-card
 - /terms/card
 - /terms/card-latch
 - /terms/card-slot
+- /terms/cis
 - /terms/combo-card
 - /terms/external-store
 - /terms/flash-card
