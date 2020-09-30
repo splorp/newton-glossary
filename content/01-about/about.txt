@@ -14,7 +14,7 @@ Text:
 
 The original idea behind the creation of the [Newton Glossary](/) was to provide a single, accessible resource for terminology related specifically to the Newton.
 
-A significant number of the terms found in the glossary were initially compiled between 2001 and 2004 by [Grant Hutchinson](http://splorp.com/). Numerous [sources](/sources) were used, along with help from knowledgable folks such as [Paul Guyot](http://www.kallisys.com/), [Victor Rehorst](http://www.chuma.org/), and countless members of the [NewtonTalk](http://newtontalk.net/) community.
+A significant number of the terms found in the glossary were initially compiled between 2001 and 2004 by [Grant Hutchinson](https://splorp.me/). Numerous [sources](/sources) were used, along with help from knowledgable folks such as [Paul Guyot](https://www.kallisys.com/), [Victor Rehorst](https://www.chuma.org/), and countless members of the [NewtonTalk](http://newtontalk.net/) community.
 
 Although it’s quite out of date, [Morgan Aldridge](http://www.makkintosshu.com/) has maintained a [searchable version](http://tools.unna.org/glossary/) of the glossary as part of the [United Network of Newton Archives](http://www.unna.org/).
 
@@ -31,24 +31,24 @@ Before submitting new terms or suggestion corrections to existing entries, pleas
 Other glossarial references we love.
 
 + [A Devil’s Dictionary of Educational Technology](https://medium.com/@bryanalexander/a-devils-dictionary-of-educational-technology-1c3ea9a0b932) by _[Bryan Alexander](https://bryanalexander.org/)_
-+ [Apple Style Guide](http://help.apple.com/applestyleguide/) by _[Apple](https://www.apple.com/)_
-+ [Dictionary of Canadianisms on Historical Principles](http://www.dchp.ca/dchp2/) by _[Stefan Dollinger](http://ubc.academia.edu/StefanDollinger)_
++ [Apple Style Guide](https://help.apple.com/applestyleguide/) by _[Apple](https://www.apple.com/)_
++ [Dictionary of Canadianisms on Historical Principles](https://www.dchp.ca/dchp2/) by _[Stefan Dollinger](https://ubc.academia.edu/StefanDollinger)_
 + [Discogs Database Glossary](https://support.discogs.com/hc/en-us/articles/360004017694-Database-Glossary) _by [Discogs](https://www.discogs.com/)_
-+ [Free Online Dictionary of Computing](http://foldoc.org/) _by [Denis Howe](https://plus.google.com/+DenisHowe/posts)_
++ [Free Online Dictionary of Computing](http://foldoc.org/) _by [Denis Howe](https://foldoc.org/Denis+Howe)_
 + [Green’s Dictionary of Slang](https://greensdictofslang.com/) _by [Jonathon Green](http://jonathongreen.co.uk/)_
-+ [Glossary of Archival & Records Terminology](http://archivists.org/glossary) _by [Richard Pearce-Moses](http://www.digitalpreservation.gov/series/pioneers/pearce-moses.html)_
++ [Glossary of Archival & Records Terminology](https://archivists.org/glossary) _by [Richard Pearce-Moses](http://www.digitalpreservation.gov/series/pioneers/pearce-moses.html)_
 + [Glossary of Common Type Terminology](https://www.fontshop.com/glossary/) _by [FontShop](https://www.fontshop.com/)_
 + [Glossary of Eye Terminology](http://eyeglossary.net/) _by Barbara Cassin_
 + [Jargon File](http://catb.org/~esr/jargon/) _by [Eric S. Raymond](http://www.catb.org/~esr/)_
-+ [Neoglossary](http://neoglossary.tumblr.com/) _by [Riccardo Mori](http://morrick.me/)_
-+ [Rands Management Glossary](http://randsinrepose.com/glossary/) _by [Michael Lopp](http://randsinrepose.com/)_
-+ [The IKEA Dictionary](http://lar5.com/ikea/) _by [Lars Petrus](http://lar5.com/)_
-+ [Typograph.Glossary](http://www.typographher.com/glossary/) _by [Nicole Arnett Phillips](http://www.nicoleap.com.au/)_
++ [Neoglossary](https://neoglossary.tumblr.com/) _by [Riccardo Mori](http://morrick.me/)_
 + [Online Etymology Dictionary](https://www.etymonline.com/) _by [Douglas Harper](http://slavenorth.com/columns/bio.htm)_
++ [Rands Management Glossary](https://randsinrepose.com/glossary/) _by [Michael Lopp](https://randsinrepose.com/)_
++ [The IKEA Dictionary](https://lar5.com/ikea/) _by [Lars Petrus](https://lar5.com/)_
++ [Typograph.Glossary](https://www.typographher.com/glossary/) _by [Nicole Arnett Phillips](https://www.nicoleap.com.au/)_
 
 ### Colophon
 
-This iteration of the glossary is formatted in [Markdown](http://daringfireball.net/projects/markdown/) using plain text files and published with [Kirby](https://getkirby.com/) — an extensible content management system built on PHP.
+This iteration of the glossary is formatted in [Markdown](https://daringfireball.net/projects/markdown/) using plain text files and published with [Kirby](https://getkirby.com/) — an extensible content management system built on PHP.
 
 We run our stylesheets through [CSSLint](http://csslint.net/) because tidy code is better code … and we don’t mind getting our feelings hurt.
 
@@ -56,11 +56,11 @@ The entire project resides in a public [GitHub](https://github.com/splorp/newton
 
 To add a bit of spit and polish to our Kirby experience, we use the following handy dandy plugins.
 
-+ [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) _by [Russ Baldwin](http://shoesforindustry.net/)_
++ [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) _by [Russ Baldwin](https://shoesforindustry.net/)_
 + [Cachebuster](https://github.com/getkirby-plugins/cachebuster-plugin) _by [Bastian Allgeier](https://bastianallgeier.com/)_
-+ [Kirby GA](https://github.com/jenstornell/kirby-ga) _by [Jens Törnell](http://www.jenst.se/)_
++ [Kirby GA](https://github.com/jenstornell/kirby-ga) _by [Jens Törnell](https://www.jenst.se/)_
 + [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) _by [Pedro Borges](https://pedroborg.es/)_
-+ [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) _by [Grant Hutchinson](http://splorp.com/)_
++ [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) _by [Grant Hutchinson](https://splorp.me/)_
 + [Kirby XML Sitemap](https://github.com/pedroborges/kirby-xml-sitemap) _by [Pedro Borges](https://pedroborg.es/)_
 
-And finally, god bless [BBEdit](http://www.barebones.com/products/bbedit/).
+And finally, god bless [BBEdit](https://www.barebones.com/products/bbedit/).
