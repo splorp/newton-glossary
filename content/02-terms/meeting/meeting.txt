@@ -16,9 +16,8 @@ Related:
 
 - /terms/date-book
 - /terms/dateman
-- /terms/dates
-- /terms/dm
 - /terms/event
+- /terms/moreinfo
 
 ----
 

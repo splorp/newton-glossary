@@ -16,7 +16,6 @@ Related:
 
 - /terms/action-names
 - /terms/date-book
-- /terms/dates
 - /terms/dm
 - /terms/event
 - /terms/meeting

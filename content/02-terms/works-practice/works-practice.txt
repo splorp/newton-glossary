@@ -14,7 +14,6 @@ The built-in [application](/terms/application) which provides an interactive tut
 
 Related:
 
-- /terms/application
 - /terms/paper
 - /terms/drawing
 - /terms/newton-works

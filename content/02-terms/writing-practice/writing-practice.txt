@@ -14,7 +14,6 @@ The built-in [application](/terms/application) which provides an interactive mea
 
 Related:
 
-- /terms/application
 - /terms/emate-tour
 - /terms/handwriting-instructor
 - /terms/handwriting-recognition

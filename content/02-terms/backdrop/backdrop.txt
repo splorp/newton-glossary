@@ -16,7 +16,6 @@ An [application](/terms/application) that is displayed when all other applicatio
 
 Related:
 
-- /terms/application
 - /terms/avis-backdrop
 - /terms/extras-drawer
 - /terms/newton-works

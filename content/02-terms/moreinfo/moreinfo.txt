@@ -17,7 +17,6 @@ Related:
 - /terms/action-names
 - /terms/date-book
 - /terms/dateman
-- /terms/dates
 - /terms/event
 - /terms/meeting
 - /terms/mi

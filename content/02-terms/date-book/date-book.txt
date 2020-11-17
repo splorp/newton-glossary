@@ -14,7 +14,6 @@ The built-in [application](/terms/application) for recording and viewing appoint
 
 Related:
 
-- /terms/application
 - /terms/datebook
 - /terms/dateman
 - /terms/dates

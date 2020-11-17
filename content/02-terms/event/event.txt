@@ -15,8 +15,9 @@ An entry in the [Date Book](/terms/date-book) application corresponding to a day
 Related:
 
 - /terms/date-book
-- /terms/dates
+- /terms/dateman
 - /terms/meeting
+- /terms/moreinfo
 
 ----
 

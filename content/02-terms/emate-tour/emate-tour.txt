@@ -14,7 +14,7 @@ The built-in [application](/terms/application) which provides an interactive tut
 
 Related:
 
-- /terms/application
+- /terms/emate-300
 - /terms/handwriting-instructor
 - /terms/newton-tour
 - /terms/works-practice

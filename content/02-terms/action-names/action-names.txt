@@ -24,7 +24,6 @@ Related:
 - /terms/an2nck
 - /terms/date-book
 - /terms/dateman
-- /terms/dates
 - /terms/event
 - /terms/meeting
 - /terms/moreinfo
