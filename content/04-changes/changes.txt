@@ -20,16 +20,18 @@ Recently added terms and sources can be found on the [latest additions](/latest)
 
 ### 2.4.5
 
-Terms: _$t
-Sources: _$s
+01 December 2020
+
+Terms: 1,287
+Sources: 133
 
 #### Summary of changes:
 
-+ Added new terms
-+ Added new sources
++ Added 14 new terms
++ Added 5 new sources
 + Updated and expanded dozens of existing entries
 + Moved device and meta images into their own directories
-+ Updated [Kirby](https://getkirby.com/) to version [2.5.13](https://forum.getkirby.com/t/kirby-2-5-13-is-here/16876)
++ Updated [Kirby](https://getkirby.com/) to version [2.5.13](https://forum.getkirby.com/t/kirby-2-5-13-is-here/16876) for PHP 7.4 support
 
 ### 2.4.4
 
