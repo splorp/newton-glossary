@@ -18,6 +18,15 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
+### 2.4.6
+
+Terms: _$t
+Sources: _$s
+
+#### Summary of changes:
+
++ Updated [Kirby](https://getkirby.com/) to version [2.5.14](https://forum.getkirby.com/t/security-update-3-4-5-and-2-5-14/20216) for security patch
+
 ### 2.4.5
 
 01 December 2020
