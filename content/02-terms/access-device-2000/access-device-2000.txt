@@ -19,5 +19,4 @@ Related:
 - /terms/access-device
 - /terms/ad2000
 - /terms/clone
-- /terms/messagepad-2000
 - /terms/supertech-2000

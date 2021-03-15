@@ -26,7 +26,6 @@ Related:
 - /terms/clone
 - /terms/craft-digital-assistant
 - /terms/dracon
-- /terms/messagepad-130
 - /terms/st2k
 - /terms/st2000
 - /terms/tarpon
