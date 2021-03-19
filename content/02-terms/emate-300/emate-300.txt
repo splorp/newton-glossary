@@ -45,3 +45,4 @@ Related:
 - /terms/santa-fe
 - /terms/schoolbook
 - /terms/shay
+- /terms/spring-issue

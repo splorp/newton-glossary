@@ -20,6 +20,7 @@ Related:
 - /terms/emate-300
 - /terms/floppy-lid
 - /terms/poof
+- /terms/spring-issue
 - /terms/squeak
 
 ----

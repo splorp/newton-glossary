@@ -18,3 +18,4 @@ Related:
 - /terms/dhp
 - /terms/emate-300
 - /terms/floppy-lid
+- /terms/spring-issue
