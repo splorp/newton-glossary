@@ -25,6 +25,9 @@ Sources: _$s
 
 #### Summary of changes:
 
++ Added new terms
++ Added a new source
++ Updated and expanded several existing entries
 + Updated [Kirby](https://getkirby.com/) to version [2.5.14](https://forum.getkirby.com/t/security-update-3-4-5-and-2-5-14/20216) for security patch
 
 ### 2.4.5
