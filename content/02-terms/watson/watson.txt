@@ -8,7 +8,7 @@ Date: 25 March 2017
 
 Text:
 
-A Newton device developed by [Schlumberger](http://www.slb.com/) as a dedicated, vertical market solution for the French healthcare industry. The device was based on the [MessagePad 2000](/terms/messagepad-2000), utiliziling a modem and a pair of smartcard readers to faciliate secure digital transactions for processing claims and accessing patient records through the [SESAM-Vitale](https://www.sesam-vitale.fr/) health insurance system. The Watson fit into a [cradle](/terms/cradle) which contained the modem, a serial port for connection to a [desktop comupter](/terms/desktop-computer), and circuitry to recharge the [battery pack](/terms/battery-pack).
+A Newton device developed by [Schlumberger](http://www.slb.com/) as a dedicated, vertical market solution for the French healthcare industry. The device was based on the [MessagePad 2000](/terms/messagepad-2000), utiliziling a modem and a pair of smartcard readers to facilitate secure digital transactions for processing claims and accessing patient records through the [SESAM-Vitale](https://www.sesam-vitale.fr/) health insurance system. The Watson fit into a [cradle](/terms/cradle) which contained the modem, a serial port for connection to a [desktop comupter](/terms/desktop-computer), and circuitry to recharge the [battery pack](/terms/battery-pack).
 
 A third-party device that utilizes a licensed version of [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
 
