@@ -10,7 +10,7 @@ Text:
 
 The last Newton device released by [Apple](https://www.apple.com/) through their [Newton Inc.](/terms/newton-inc) subsidiary. It shared the same specifications as its predecessor, the [MessagePad 2000](/terms/messagepad-2000), with the exception of an increased amount of [system memory](/terms/system-memory). A MessagePad 2000 device can been upgraded to the equivalent of a MessagePad 2100 by increasing the total amount of [RAM](/terms/ram) from 5MB to 8MB.
 
-Like its predecessor, the MessagePad 2100 was code named [Q](/terms/q).
+Like its predecessor, the MessagePad 2100 was code named alternately [N2](/terms/n2) and [Q](/terms/q).
 
 It is commonly referred to as an [MP2100](/terms/mp2100).
 
@@ -39,6 +39,7 @@ Related:
 - /terms/mp2k1
 - /terms/mp2x00
 - /terms/mp21k
+- /terms/n2
 - /terms/newton-aluminum-shell-project
 - /terms/newton-inc
 - /terms/newton-interconnect

@@ -12,7 +12,7 @@ The MessagePad 2000 is based on the [StrongARM](/terms/strongarm) 110 processor,
 
 When an MessagePad 2000 has been upgraded to the equivalent specifications of a [MessagePad 2100](/terms/messagepad-2100), it becomes an [UMP](/terms/ump) or “Upgraded MessagePad”. A non-upgraded MessagePad 2000 is also referred to as an [Original MessagePad 2000](/terms/original-messagepad-2000) or [OMP2K](/terms/omp2k).
 
-Like its successor, the MessagePad 2000 was code named [Q](/terms/q).
+Like its successor, the MessagePad 2000 was code named alternately [N2](/terms/n2) and [Q](/terms/q).
 
 It is commonly referred to as an [MP2000](/terms/mp2000).
 
