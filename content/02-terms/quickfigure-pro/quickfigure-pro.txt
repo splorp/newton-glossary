@@ -17,7 +17,7 @@ Also referred to as [QF Pro](/terms/qf-pro).
 ### Additional Information
 
 [Internet Archive: QuickFigure Product Information](https://web.archive.org/web/20031002141719/http://pelicanware.com/qfp.html)
-[Internet Archive: QuickFigure Pro Version 4.0 User’s Manual](https://web.archive.org/web/20031206143520/http://www.pelicanware.com:80/download/QFP4.pdf)
+[Internet Archive: QuickFigure Pro Version 4.0 User’s Manual](https://web.archive.org/web/20031206143520/http://www.pelicanware.com/download/QFP4.pdf)
 [Newton Does It!: QuickFigure Works/Pro “Secret” Functions](http://dettmer.maclab.org/newton/qfprosecrets.html)
 
 ----

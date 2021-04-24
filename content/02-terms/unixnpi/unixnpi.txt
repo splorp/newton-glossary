@@ -15,7 +15,7 @@ A command line utility for Unix [operating systems](/terms/operating-system) tha
 ### Additional Information
 
 [UnixNPI Website](http://unixnpi.sourceforge.net/)
-[Internet Archive: UnixNPI Product Information](https://web.archive.org/web/20121030074828/http://www.ee.cityu.edu.hk:80/~clli/unixnpi.html)
+[Internet Archive: UnixNPI Product Information](https://web.archive.org/web/20121030074828/http://www.ee.cityu.edu.hk/~clli/unixnpi.html)
 [Linux PPC Archives: Newton and LinuxPPC](http://marc.info/?l=linux-ppc&m=99252770404113&w=2)
 
 ----
