@@ -12,10 +12,13 @@ Very Large Scale Integration
 
 Semiconductor integrated circuits composed of hundreds of thousands of logic elements or memory cells.
 
+VLSI Technology was also the fabrication partner that produced processors and custom integrated circuits, including those used by Apple in its Macintosh and Newton products.
+
 ----
 
 Related:
 
+- /terms/arm
 - /terms/asic
 
 ----
