@@ -20,15 +20,18 @@ Recently added terms and sources can be found on the [latest additions](/latest)
 
 ### 2.4.6
 
-Terms: _$t
-Sources: _$s
+27 March 2022
+
+Terms: 1,289
+Sources: 135
 
 #### Summary of changes:
 
-+ Added new terms
-+ Added a new source
++ Added 2 new terms
++ Added 2 new sources
 + Updated and expanded several existing entries
 + Updated [Kirby](https://getkirby.com/) to version [2.5.14](https://forum.getkirby.com/t/security-update-3-4-5-and-2-5-14/20216) for security patch
++ Updated [Parsedown](https://github.com/erusev/parsedown) to version [1.7.2](https://github.com/erusev/parsedown/releases/tag/1.7.2) for security patch
 
 ### 2.4.5
 
