@@ -18,8 +18,8 @@ RewriteCond %{HTTP_HOST} ^glossary\.splorp\.me$ [NC]
 RewriteRule ^(.*)$ http://newtonglossary.com/$1 [R=301,L]
 
 # Forced SSL
-RewriteCond %{HTTPS} !=on
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
+# RewriteCond %{HTTPS} !=on
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
 
 # Redirect legacy pages
 Redirect 301 /sources/ezshow https://newtonglossary.com/sources/ezshow-systems
