@@ -13,7 +13,7 @@
 		<?php if($page->content()->has('Source')): ?>
 		<?php if($page->source()->pages()->count() > 1) { echo '<h3>Sources</h3>'; } else { echo '<h3>Source</h3>'; } ?>
 		<ul class="src">
-			<? $n=0; foreach($page->source()->pages() as $source): $n++; ?>
+			<?php $n=0; foreach($page->source()->pages() as $source): $n++; ?>
 			<li><a href="<?php echo $source->url() ?>"><?php echo html($source->title()) ?></a></li>
 			<?php endforeach ?>
 		</ul>
@@ -22,7 +22,7 @@
 		<?php if($page->content()->has('Related')): ?>
 		<?php if($page->related()->pages()->count() > 1) { echo '<h3>Related Terms</h3>'; } else { echo '<h3>Related Term</h3>'; } ?>
 		<ul class="src">
-			<? $n=0; foreach($page->related()->pages() as $related): $n++; ?>
+			<?php $n=0; foreach($page->related()->pages() as $related): $n++; ?>
 			<li><a href="<?php echo $related->url() ?>"><?php echo html($related->title()) ?></a></li>
 			<?php endforeach ?>
 		</ul>
