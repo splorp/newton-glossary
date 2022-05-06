@@ -32,8 +32,40 @@ return [
 	'markdown' => [
 		'breaks' => true
 	],
+	'sitemap.ignore' => [
+		'error'
+	],
+	'routes' => [
+		[
+			'pattern' => 'sitemap.xml',
+			'action'	=> function() {
+					$pages = site()->pages()->index();
+
+					// Fetch list of pages to ignore from the config file
+					// If nothing is set in teh config file, ignore the error page
+					$ignore = kirby()->option('sitemap.ignore', ['error']);
+
+					$content = snippet('sitemap', compact('pages', 'ignore'), true);
+
+					// return response with correct header type
+					return new Kirby\Cms\Response($content, 'application/xml');
+			}
 		],
+		[
+			'pattern' => 'sitemap',
+			'action'	=> function() {
+				return go('sitemap.xml', 301);
+			}
 		],
+		[
+			'pattern' => 'sitemap.xsl',
+			'method'  => 'GET',
+			'action'  => function() {
+				$stylesheet = f::read(kirby()->root('snippets') . '/sitemap.xsl');
+				return new response($stylesheet, 'xsl');
+			}
+		],		
+	],
 	'schnti.cachebuster.active' => true,
 	'pedroborges.meta-tags.default' => function ($page, $site) {
 		return [
