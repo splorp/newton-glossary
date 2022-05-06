@@ -1,10 +1,30 @@
 {
-    "autoload": {
-        "classmap": [
-            "src"
-        ]
-    },
+    "name": "pedroborges/kirby-meta-tags",
+    "description": "HTML meta tags generator for Kirby 3.",
+    "keywords": ["kirby-plugin", "meta-tags", "open-graph", "twitter-cards", "json-ld"],
+    "license": "MIT",
+    "homepage": "https://github.com/pedroborges/kirby-meta-tags",
+    "type": "kirby-plugin",
+    "authors": [
+        {
+            "name": "Pedro Borges",
+            "email": "oi@pedroborg.es"
+        }
+    ],
     "require": {
+        "php": ">=7.1.0",
+        "getkirby/composer-installer": "^1.1",
         "pedroborges/meta-tags": "^0.0.2"
+    },
+    "autoload": {
+        "files": [
+            "helpers.php"
+        ],
+        "psr-4": {
+            "PedroBorges\\KirbyMetaTags\\": "src/"
+        }
+    },
+    "extra": {
+        "installer-name": "meta-tags"
     }
 }
