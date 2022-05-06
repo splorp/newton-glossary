@@ -155,6 +155,10 @@ article ul.rslt li {
 	list-style: none;
 	}
 
+article ul.rslt li p {
+    margin-bottom: 0;
+	}
+	
 article ul.rslt li {
 	border-bottom: 1px solid #CCC;
 	padding-bottom: 10px;
