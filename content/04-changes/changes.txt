@@ -18,6 +18,19 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
+### 2.4.7
+
+10 May 2022
+
+Terms: 1,289
+Sources: 135
+
+#### Summary of changes:
+
++ Disabled automatic HTTPS redirects to support legacy browsers
++ Tweaked how requests for legacy links are handled
++ Added some “behind the scenes” configuration to make future development easier
+
 ### 2.4.6
 
 27 March 2022
