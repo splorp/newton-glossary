@@ -4,5 +4,5 @@
 <?php if ($description != '') { echo ($description . PHP_EOL . PHP_EOL); } ?>
 <?php if ($version != '') { echo ('Version ' . $version . PHP_EOL . PHP_EOL); } ?>
 <?php foreach ($pages as $page) : ?>
-<?php snippet('paperback.page', compact('languages', 'page')) ?>
+<?php snippet('paperback-export/content', compact('languages', 'page')) ?>
 <?php endforeach ?>

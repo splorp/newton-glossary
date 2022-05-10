@@ -67,6 +67,9 @@ return [
 		],		
 	],
 	'schnti.cachebuster.active' => true,
+	'splorp.paperback-export.includeUnlisted' => true,
+	'splorp.paperback-export.includeChildren' => ['terms'],
+	'splorp.paperback-export.excludeTemplate' => [],
 	'pedroborges.meta-tags.default' => function ($page, $site) {
 		return [
 			'title' => $site->title() . ' — ' . $page->title(),
