@@ -59,10 +59,8 @@ The entire project resides in a public [GitHub](https://github.com/splorp/newton
 To add a bit of spit and polish to our Kirby experience, we use the following handy dandy plugins.
 
 + [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) _by [Russ Baldwin](https://shoesforindustry.net/)_
-+ [Cachebuster](https://github.com/getkirby-plugins/cachebuster-plugin) _by [Bastian Allgeier](https://bastianallgeier.com/)_
-+ [Kirby GA](https://github.com/jenstornell/kirby-ga) _by [Jens Törnell](https://www.jenst.se/)_
++ [Cachebuster](https://github.com/schnti/kirby3-cachebuster) _by [Timo Schneider](https://github.com/schnti)_
 + [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) _by [Pedro Borges](https://pedroborg.es/)_
 + [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) _by [Grant Hutchinson](https://splorp.me/)_
-+ [Kirby XML Sitemap](https://github.com/pedroborges/kirby-xml-sitemap) _by [Pedro Borges](https://pedroborg.es/)_
 
 And finally, god bless [BBEdit](https://www.barebones.com/products/bbedit/).
