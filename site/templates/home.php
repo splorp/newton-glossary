@@ -4,7 +4,7 @@
 <section>
 	<article>
 		<h2><?php echo html($page->title()) ?></h2>
-		<?php echo kirbytext($page->text()) ?>
+		<?php echo $page->text()->kirbytext() ?>
 	</article>
 </section>
 

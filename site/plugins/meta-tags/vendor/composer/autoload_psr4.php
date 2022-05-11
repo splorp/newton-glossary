@@ -7,4 +7,6 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'PedroBorges\\MetaTags\\' => array($vendorDir . '/pedroborges/meta-tags/src'),
+    'PedroBorges\\KirbyMetaTags\\' => array($baseDir . '/src'),
+    'Kirby\\' => array($vendorDir . '/getkirby/composer-installer/src'),
 );

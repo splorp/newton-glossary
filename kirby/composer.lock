@@ -4,33 +4,31 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fe2c22e523e1c57f1e40b767b9de93a2",
+    "content-hash": "b17823edbb5fd9c0dd25e555fbb192eb",
     "packages": [
         {
-            "name": "erusev/parsedown",
-            "version": "v1.7.2",
+            "name": "claviska/simpleimage",
+            "version": "3.6.5",
             "source": {
                 "type": "git",
-                "url": "https://github.com/erusev/parsedown.git",
-                "reference": "d60bcdc46978357759ecb13cb4b078da783f8faf"
+                "url": "https://github.com/claviska/SimpleImage.git",
+                "reference": "00f90662686696b9b7157dbb176183aabe89700f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/erusev/parsedown/zipball/d60bcdc46978357759ecb13cb4b078da783f8faf",
-                "reference": "d60bcdc46978357759ecb13cb4b078da783f8faf",
+                "url": "https://api.github.com/repos/claviska/SimpleImage/zipball/00f90662686696b9b7157dbb176183aabe89700f",
+                "reference": "00f90662686696b9b7157dbb176183aabe89700f",
                 "shasum": ""
             },
             "require": {
-                "ext-mbstring": "*",
-                "php": ">=5.3.0"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "^4.8.35"
+                "ext-gd": "*",
+                "league/color-extractor": "0.3.*",
+                "php": ">=5.6.0"
             },
             "type": "library",
             "autoload": {
                 "psr-0": {
-                    "Parsedown": ""
+                    "claviska": "src/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -39,93 +37,46 @@
             ],
             "authors": [
                 {
-                    "name": "Emanuil Rusev",
-                    "email": "hello@erusev.com",
-                    "homepage": "http://erusev.com"
+                    "name": "Cory LaViska",
+                    "homepage": "http://www.abeautifulsite.net/",
+                    "role": "Developer"
                 }
             ],
-            "description": "Parser for Markdown.",
-            "homepage": "http://parsedown.org",
-            "keywords": [
-                "markdown",
-                "parser"
-            ],
+            "description": "A PHP class that makes working with images as simple as possible.",
             "support": {
-                "issues": "https://github.com/erusev/parsedown/issues",
-                "source": "https://github.com/erusev/parsedown/tree/1.7.x"
+                "issues": "https://github.com/claviska/SimpleImage/issues",
+                "source": "https://github.com/claviska/SimpleImage/tree/3.6.5"
             },
-            "time": "2019-03-17T17:19:46+00:00"
-        },
-        {
-            "name": "erusev/parsedown-extra",
-            "version": "0.7.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/erusev/parsedown-extra.git",
-                "reference": "0db5cce7354e4b76f155d092ab5eb3981c21258c"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/erusev/parsedown-extra/zipball/0db5cce7354e4b76f155d092ab5eb3981c21258c",
-                "reference": "0db5cce7354e4b76f155d092ab5eb3981c21258c",
-                "shasum": ""
-            },
-            "require": {
-                "erusev/parsedown": "~1.4"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-0": {
-                    "ParsedownExtra": ""
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
+            "funding": [
                 {
-                    "name": "Emanuil Rusev",
-                    "email": "hello@erusev.com",
-                    "homepage": "http://erusev.com"
+                    "url": "https://github.com/claviska",
+                    "type": "github"
                 }
             ],
-            "description": "An extension of Parsedown that adds support for Markdown Extra.",
-            "homepage": "https://github.com/erusev/parsedown-extra",
-            "keywords": [
-                "markdown",
-                "markdown extra",
-                "parsedown",
-                "parser"
-            ],
-            "support": {
-                "issues": "https://github.com/erusev/parsedown-extra/issues",
-                "source": "https://github.com/erusev/parsedown-extra/tree/master"
-            },
-            "time": "2015-11-01T10:19:22+00:00"
+            "time": "2021-12-01T12:42:55+00:00"
         },
         {
             "name": "filp/whoops",
-            "version": "2.1.14",
+            "version": "2.14.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/filp/whoops.git",
-                "reference": "c6081b8838686aa04f1e83ba7e91f78b7b2a23e6"
+                "reference": "a63e5e8f26ebbebf8ed3c5c691637325512eb0dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/filp/whoops/zipball/c6081b8838686aa04f1e83ba7e91f78b7b2a23e6",
-                "reference": "c6081b8838686aa04f1e83ba7e91f78b7b2a23e6",
+                "url": "https://api.github.com/repos/filp/whoops/zipball/a63e5e8f26ebbebf8ed3c5c691637325512eb0dc",
+                "reference": "a63e5e8f26ebbebf8ed3c5c691637325512eb0dc",
                 "shasum": ""
             },
             "require": {
-                "php": "^5.5.9 || ^7.0",
-                "psr/log": "^1.0.1"
+                "php": "^5.5.9 || ^7.0 || ^8.0",
+                "psr/log": "^1.0.1 || ^2.0 || ^3.0"
             },
             "require-dev": {
-                "mockery/mockery": "0.9.*",
-                "phpunit/phpunit": "^4.8.35 || ^5.7",
-                "symfony/var-dumper": "^2.6 || ^3.0"
+                "mockery/mockery": "^0.9 || ^1.0",
+                "phpunit/phpunit": "^4.8.36 || ^5.7.27 || ^6.5.14 || ^7.5.20 || ^8.5.8 || ^9.3.3",
+                "symfony/var-dumper": "^2.6 || ^3.0 || ^4.0 || ^5.0"
             },
             "suggest": {
                 "symfony/var-dumper": "Pretty print complex values better with var-dumper available",
@@ -134,7 +85,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.0-dev"
+                    "dev-master": "2.7-dev"
                 }
             },
             "autoload": {
@@ -165,32 +116,155 @@
             ],
             "support": {
                 "issues": "https://github.com/filp/whoops/issues",
-                "source": "https://github.com/filp/whoops/tree/2.1.14"
+                "source": "https://github.com/filp/whoops/tree/2.14.5"
             },
-            "time": "2017-11-23T18:22:44+00:00"
+            "funding": [
+                {
+                    "url": "https://github.com/denis-sokolov",
+                    "type": "github"
+                }
+            ],
+            "time": "2022-01-07T12:00:00+00:00"
         },
         {
-            "name": "getkirby/toolkit",
-            "version": "2.5.14",
+            "name": "getkirby/composer-installer",
+            "version": "1.2.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/getkirby-v2/toolkit.git",
-                "reference": "cf2720b737b6ae5bcdbd1c84e820c3e86001b3a3"
+                "url": "https://github.com/getkirby/composer-installer.git",
+                "reference": "c98ece30bfba45be7ce457e1102d1b169d922f3d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getkirby-v2/toolkit/zipball/cf2720b737b6ae5bcdbd1c84e820c3e86001b3a3",
-                "reference": "cf2720b737b6ae5bcdbd1c84e820c3e86001b3a3",
+                "url": "https://api.github.com/repos/getkirby/composer-installer/zipball/c98ece30bfba45be7ce457e1102d1b169d922f3d",
+                "reference": "c98ece30bfba45be7ce457e1102d1b169d922f3d",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.2.0"
+                "composer-plugin-api": "^1.0 || ^2.0"
+            },
+            "require-dev": {
+                "composer/composer": "^1.8 || ^2.0"
+            },
+            "type": "composer-plugin",
+            "extra": {
+                "class": "Kirby\\ComposerInstaller\\Plugin"
+            },
+            "autoload": {
+                "psr-4": {
+                    "Kirby\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Kirby's custom Composer installer for the Kirby CMS and for Kirby plugins",
+            "homepage": "https://getkirby.com",
+            "support": {
+                "issues": "https://github.com/getkirby/composer-installer/issues",
+                "source": "https://github.com/getkirby/composer-installer/tree/1.2.1"
+            },
+            "funding": [
+                {
+                    "url": "https://getkirby.com/buy",
+                    "type": "custom"
+                }
+            ],
+            "time": "2020-12-28T12:54:39+00:00"
+        },
+        {
+            "name": "laminas/laminas-escaper",
+            "version": "2.10.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laminas/laminas-escaper.git",
+                "reference": "58af67282db37d24e584a837a94ee55b9c7552be"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laminas/laminas-escaper/zipball/58af67282db37d24e584a837a94ee55b9c7552be",
+                "reference": "58af67282db37d24e584a837a94ee55b9c7552be",
+                "shasum": ""
+            },
+            "require": {
+                "ext-ctype": "*",
+                "ext-mbstring": "*",
+                "php": "^7.4 || ~8.0.0 || ~8.1.0"
+            },
+            "conflict": {
+                "zendframework/zend-escaper": "*"
+            },
+            "require-dev": {
+                "infection/infection": "^0.26.6",
+                "laminas/laminas-coding-standard": "~2.3.0",
+                "maglnet/composer-require-checker": "^3.8.0",
+                "phpunit/phpunit": "^9.5.18",
+                "psalm/plugin-phpunit": "^0.16.1",
+                "vimeo/psalm": "^4.22.0"
             },
             "type": "library",
             "autoload": {
-                "files": [
-                    "bootstrap.php"
-                ]
+                "psr-4": {
+                    "Laminas\\Escaper\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "description": "Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs",
+            "homepage": "https://laminas.dev",
+            "keywords": [
+                "escaper",
+                "laminas"
+            ],
+            "support": {
+                "chat": "https://laminas.dev/chat",
+                "docs": "https://docs.laminas.dev/laminas-escaper/",
+                "forum": "https://discourse.laminas.dev",
+                "issues": "https://github.com/laminas/laminas-escaper/issues",
+                "rss": "https://github.com/laminas/laminas-escaper/releases.atom",
+                "source": "https://github.com/laminas/laminas-escaper"
+            },
+            "funding": [
+                {
+                    "url": "https://funding.communitybridge.org/projects/laminas-project",
+                    "type": "community_bridge"
+                }
+            ],
+            "time": "2022-03-08T20:15:36+00:00"
+        },
+        {
+            "name": "league/color-extractor",
+            "version": "0.3.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thephpleague/color-extractor.git",
+                "reference": "837086ec60f50c84c611c613963e4ad2e2aec806"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thephpleague/color-extractor/zipball/837086ec60f50c84c611c613963e4ad2e2aec806",
+                "reference": "837086ec60f50c84c611c613963e4ad2e2aec806",
+                "shasum": ""
+            },
+            "require": {
+                "ext-gd": "*",
+                "php": ">=5.4.0"
+            },
+            "replace": {
+                "matthecat/colorextractor": "*"
+            },
+            "require-dev": {
+                "friendsofphp/php-cs-fixer": "~2",
+                "phpunit/phpunit": "~5"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "": "src"
+                }
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -198,23 +272,26 @@
             ],
             "authors": [
                 {
-                    "name": "Bastian Allgeier",
-                    "email": "bastian@getkirby.com",
-                    "homepage": "http://bastianallgeier.com"
+                    "name": "Mathieu Lechat",
+                    "email": "math.lechat@gmail.com",
+                    "homepage": "http://matthecat.com",
+                    "role": "Developer"
                 }
             ],
-            "description": "The Kirby 2 toolkit is a set of handy classes and helpers which make your life with PHP easier.",
-            "homepage": "http://toolkit.getkirby.com",
+            "description": "Extract colors from an image as a human would do.",
+            "homepage": "https://github.com/thephpleague/color-extractor",
             "keywords": [
-                "toolkit"
+                "color",
+                "extract",
+                "human",
+                "image",
+                "palette"
             ],
             "support": {
-                "email": "support@getkirby.com",
-                "forum": "https://forum.getkirby.com",
-                "issues": "https://github.com/getkirby/toolkit/issues",
-                "source": "https://github.com/getkirby/toolkit"
+                "issues": "https://github.com/thephpleague/color-extractor/issues",
+                "source": "https://github.com/thephpleague/color-extractor/tree/master"
             },
-            "time": "2020-12-01T10:29:30+00:00"
+            "time": "2016-12-15T09:30:02+00:00"
         },
         {
             "name": "michelf/php-smartypants",
@@ -271,17 +348,95 @@
             "time": "2016-12-13T01:01:17+00:00"
         },
         {
-            "name": "psr/log",
-            "version": "1.1.3",
+            "name": "phpmailer/phpmailer",
+            "version": "v6.5.4",
             "source": {
                 "type": "git",
-                "url": "https://github.com/php-fig/log.git",
-                "reference": "0f73288fd15629204f9d42b7055f72dacbe811fc"
+                "url": "https://github.com/PHPMailer/PHPMailer.git",
+                "reference": "c0d9f7dd3c2aa247ca44791e9209233829d82285"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/log/zipball/0f73288fd15629204f9d42b7055f72dacbe811fc",
-                "reference": "0f73288fd15629204f9d42b7055f72dacbe811fc",
+                "url": "https://api.github.com/repos/PHPMailer/PHPMailer/zipball/c0d9f7dd3c2aa247ca44791e9209233829d82285",
+                "reference": "c0d9f7dd3c2aa247ca44791e9209233829d82285",
+                "shasum": ""
+            },
+            "require": {
+                "ext-ctype": "*",
+                "ext-filter": "*",
+                "ext-hash": "*",
+                "php": ">=5.5.0"
+            },
+            "require-dev": {
+                "dealerdirect/phpcodesniffer-composer-installer": "^0.7.0",
+                "doctrine/annotations": "^1.2",
+                "php-parallel-lint/php-console-highlighter": "^0.5.0",
+                "php-parallel-lint/php-parallel-lint": "^1.3.1",
+                "phpcompatibility/php-compatibility": "^9.3.5",
+                "roave/security-advisories": "dev-latest",
+                "squizlabs/php_codesniffer": "^3.6.2",
+                "yoast/phpunit-polyfills": "^1.0.0"
+            },
+            "suggest": {
+                "ext-mbstring": "Needed to send email in multibyte encoding charset or decode encoded addresses",
+                "hayageek/oauth2-yahoo": "Needed for Yahoo XOAUTH2 authentication",
+                "league/oauth2-google": "Needed for Google XOAUTH2 authentication",
+                "psr/log": "For optional PSR-3 debug logging",
+                "stevenmaguire/oauth2-microsoft": "Needed for Microsoft XOAUTH2 authentication",
+                "symfony/polyfill-mbstring": "To support UTF-8 if the Mbstring PHP extension is not enabled (^1.2)"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "PHPMailer\\PHPMailer\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-2.1-only"
+            ],
+            "authors": [
+                {
+                    "name": "Marcus Bointon",
+                    "email": "phpmailer@synchromedia.co.uk"
+                },
+                {
+                    "name": "Jim Jagielski",
+                    "email": "jimjag@gmail.com"
+                },
+                {
+                    "name": "Andy Prevost",
+                    "email": "codeworxtech@users.sourceforge.net"
+                },
+                {
+                    "name": "Brent R. Matzelle"
+                }
+            ],
+            "description": "PHPMailer is a full-featured email creation and transfer class for PHP",
+            "support": {
+                "issues": "https://github.com/PHPMailer/PHPMailer/issues",
+                "source": "https://github.com/PHPMailer/PHPMailer/tree/v6.5.4"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/Synchro",
+                    "type": "github"
+                }
+            ],
+            "time": "2022-02-17T08:19:04+00:00"
+        },
+        {
+            "name": "psr/log",
+            "version": "1.1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/log.git",
+                "reference": "d49695b909c3b7628b6289db5479a1c204601f11"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/d49695b909c3b7628b6289db5479a1c204601f11",
+                "reference": "d49695b909c3b7628b6289db5479a1c204601f11",
                 "shasum": ""
             },
             "require": {
@@ -305,7 +460,7 @@
             "authors": [
                 {
                     "name": "PHP-FIG",
-                    "homepage": "http://www.php-fig.org/"
+                    "homepage": "https://www.php-fig.org/"
                 }
             ],
             "description": "Common interface for logging libraries",
@@ -316,9 +471,263 @@
                 "psr-3"
             ],
             "support": {
-                "source": "https://github.com/php-fig/log/tree/1.1.3"
+                "source": "https://github.com/php-fig/log/tree/1.1.4"
             },
-            "time": "2020-03-23T09:12:05+00:00"
+            "time": "2021-05-03T11:20:27+00:00"
+        },
+        {
+            "name": "symfony/polyfill-intl-idn",
+            "version": "v1.25.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/polyfill-intl-idn.git",
+                "reference": "749045c69efb97c70d25d7463abba812e91f3a44"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-idn/zipball/749045c69efb97c70d25d7463abba812e91f3a44",
+                "reference": "749045c69efb97c70d25d7463abba812e91f3a44",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.1",
+                "symfony/polyfill-intl-normalizer": "^1.10",
+                "symfony/polyfill-php72": "^1.10"
+            },
+            "suggest": {
+                "ext-intl": "For best performance"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-main": "1.23-dev"
+                },
+                "thanks": {
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+                }
+            },
+            "autoload": {
+                "files": [
+                    "bootstrap.php"
+                ],
+                "psr-4": {
+                    "Symfony\\Polyfill\\Intl\\Idn\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Laurent Bassin",
+                    "email": "laurent@bassin.info"
+                },
+                {
+                    "name": "Trevor Rowbotham",
+                    "email": "trevor.rowbotham@pm.me"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony polyfill for intl's idn_to_ascii and idn_to_utf8 functions",
+            "homepage": "https://symfony.com",
+            "keywords": [
+                "compatibility",
+                "idn",
+                "intl",
+                "polyfill",
+                "portable",
+                "shim"
+            ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-intl-idn/tree/v1.25.0"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2021-09-14T14:02:44+00:00"
+        },
+        {
+            "name": "symfony/polyfill-intl-normalizer",
+            "version": "v1.25.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/polyfill-intl-normalizer.git",
+                "reference": "8590a5f561694770bdcd3f9b5c69dde6945028e8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-normalizer/zipball/8590a5f561694770bdcd3f9b5c69dde6945028e8",
+                "reference": "8590a5f561694770bdcd3f9b5c69dde6945028e8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.1"
+            },
+            "suggest": {
+                "ext-intl": "For best performance"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-main": "1.23-dev"
+                },
+                "thanks": {
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+                }
+            },
+            "autoload": {
+                "files": [
+                    "bootstrap.php"
+                ],
+                "psr-4": {
+                    "Symfony\\Polyfill\\Intl\\Normalizer\\": ""
+                },
+                "classmap": [
+                    "Resources/stubs"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nicolas Grekas",
+                    "email": "p@tchwork.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony polyfill for intl's Normalizer class and related functions",
+            "homepage": "https://symfony.com",
+            "keywords": [
+                "compatibility",
+                "intl",
+                "normalizer",
+                "polyfill",
+                "portable",
+                "shim"
+            ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-intl-normalizer/tree/v1.25.0"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2021-02-19T12:13:01+00:00"
+        },
+        {
+            "name": "symfony/polyfill-mbstring",
+            "version": "v1.25.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/polyfill-mbstring.git",
+                "reference": "0abb51d2f102e00a4eefcf46ba7fec406d245825"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/0abb51d2f102e00a4eefcf46ba7fec406d245825",
+                "reference": "0abb51d2f102e00a4eefcf46ba7fec406d245825",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.1"
+            },
+            "provide": {
+                "ext-mbstring": "*"
+            },
+            "suggest": {
+                "ext-mbstring": "For best performance"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-main": "1.23-dev"
+                },
+                "thanks": {
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+                }
+            },
+            "autoload": {
+                "files": [
+                    "bootstrap.php"
+                ],
+                "psr-4": {
+                    "Symfony\\Polyfill\\Mbstring\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nicolas Grekas",
+                    "email": "p@tchwork.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony polyfill for the Mbstring extension",
+            "homepage": "https://symfony.com",
+            "keywords": [
+                "compatibility",
+                "mbstring",
+                "polyfill",
+                "portable",
+                "shim"
+            ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.25.0"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2021-11-30T18:21:41+00:00"
         }
     ],
     "packages-dev": [],
@@ -328,10 +737,10 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=7.2.0",
-        "ext-mbstring": "*",
-        "ext-gd": "*"
+        "php": ">=7.4.0 <8.2.0",
+        "ext-ctype": "*",
+        "ext-mbstring": "*"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.1.0"
 }

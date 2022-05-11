@@ -1,0 +1,20 @@
+{
+	"name": "splorp/paperback-export",
+	"description": "Export Kirby 3 CMS content for use with the PaperBack Book Maker",
+	"version": "2.0.0",
+	"type": "kirby-plugin",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Grant Hutchinson",
+			"email": "grant@splorp.com",
+			"homepage": "https://splorp.com/"
+		}
+	],
+	"require": {
+		"getkirby/composer-installer": "^1.1"
+	},
+	"extra": {
+		"installer-name": "paperback-export"
+	}
+}
