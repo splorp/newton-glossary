@@ -18,6 +18,36 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
+### _$v
+
+11 May 2022
+
+Terms: _$t
+Sources: _$s
+
+#### Summary of changes:
+
++ Updated [Kirby](https://getkirby.com/) to version [3.6.5](https://forum.getkirby.com/t/kirby-3-6-5-is-here/25285/2)
++ Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.1.1
++ Updated [Cachebuster](https://github.com/schnti/kirby3-cachebuster) plugin with <a href="https://github.com/schnti">Timo Schneider’s</a> Kirby 3 version
++ Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin to version 2.1.0
++ Updated [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin to version 2.0.0
++ Removed [Kirby GA](https://github.com/jenstornell/kirby-ga) plugin because Google
++ Replaced [Kirby XML Sitemap](https://github.com/pedroborges/kirby-xml-sitemap) plugin with a <a href="https://getkirby.com/docs/cookbook/content/sitemap">built in version</a>
+
+### 2.4.7
+
+10 May 2022
+
+Terms: 1,289
+Sources: 135
+
+#### Summary of changes:
+
++ Disabled automatic HTTPS redirects to support legacy browsers
++ Tweaked how requests for legacy links are handled
++ Added some “behind the scenes” fixes to make future development easier
+
 ### 2.4.6
 
 27 March 2022
