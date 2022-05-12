@@ -26,6 +26,16 @@ RewriteRule ^(.*)$ http://newtonglossary.com/$1 [R=301,L]
 Redirect 301 /sources/ezshow https://newtonglossary.com/sources/ezshow-systems
 Redirect 301 /sources/newton-apple-messagepad-handbook https://newtonglossary.com/sources/messagepad-handbook-1993
 Redirect 301 /sources/newton-toolkit-user-guide https://newtonglossary.com/sources/newton-toolkit-users-guide
+Redirect 301 /terms/01-2k https://newtonglossary.com/terms/2k
+Redirect 301 /terms/01-2k1 https://newtonglossary.com/terms/2k1
+Redirect 301 /terms/01-21k https://newtonglossary.com/terms/21k
+Redirect 301 /terms/01-100lt https://newtonglossary.com/terms/100lt
+Redirect 301 /terms/01-100mp https://newtonglossary.com/terms/100mp
+Redirect 301 /terms/01-100mps https://newtonglossary.com/terms/100mps
+Redirect 301 /terms/01-100mps-plus https://newtonglossary.com/terms/100mps-plus
+Redirect 301 /terms/01-105mps https://newtonglossary.com/terms/105mps
+Redirect 301 /terms/01-110mp https://newtonglossary.com/terms/110mp
+Redirect 301 /terms/01-802-11 https://newtonglossary.com/terms/802-11
 Redirect 301 /terms/autoexpand https://newtonglossary.com/terms/auto-expand
 Redirect 301 /terms/autoexpansion https://newtonglossary.com/terms/auto-expansion
 Redirect 301 /terms/autoexpansion-dictionary https://newtonglossary.com/terms/auto-expansion-dictionary
