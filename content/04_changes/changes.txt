@@ -27,7 +27,7 @@ Sources: _$s
 
 #### Summary of changes:
 
-+ Updated [Kirby](https://getkirby.com/) to version [3.6.5](https://forum.getkirby.com/t/kirby-3-6-5-is-here/25285/2)
++ Updated [Kirby](https://getkirby.com/) to version [3.6.5](https://github.com/getkirby/kirby/releases/tag/3.6.5)
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.1.1
 + Updated [Cachebuster](https://github.com/schnti/kirby3-cachebuster) plugin with <a href="https://github.com/schnti">Timo Schneider’s</a> Kirby 3 version
 + Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin to version 2.1.0
@@ -60,7 +60,7 @@ Sources: 135
 + Added 2 new terms
 + Added 2 new sources
 + Updated and expanded several existing entries
-+ Updated [Kirby](https://getkirby.com/) to version [2.5.14](https://forum.getkirby.com/t/security-update-3-4-5-and-2-5-14/20216) for security patch
++ Updated [Kirby](https://getkirby.com/) to version [2.5.14](https://github.com/getkirby-v2/kirby/releases/tag/2.5.14) for security patch
 + Updated [Parsedown](https://github.com/erusev/parsedown) to version [1.7.2](https://github.com/erusev/parsedown/releases/tag/1.7.2) for security patch
 
 ### 2.4.5
@@ -76,7 +76,7 @@ Sources: 133
 + Added 5 new sources
 + Updated and expanded dozens of existing entries
 + Moved device and meta images into their own directories
-+ Updated [Kirby](https://getkirby.com/) to version [2.5.13](https://forum.getkirby.com/t/kirby-2-5-13-is-here/16876) for PHP 7.4 support
++ Updated [Kirby](https://getkirby.com/) to version [2.5.13](https://github.com/getkirby-v2/kirby/releases/tag/2.5.13) for PHP 7.4 support
 
 ### 2.4.4
 
