@@ -1,7 +1,7 @@
 {
 	"name": "splorp/paperback-export",
 	"description": "Export Kirby 3 CMS content for use with the PaperBack Book Maker",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"type": "kirby-plugin",
 	"license": "MIT",
 	"authors": [
