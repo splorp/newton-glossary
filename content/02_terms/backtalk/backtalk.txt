@@ -28,6 +28,4 @@ Related:
 
 Source:
 
-----
-
 - /sources/smartdog
