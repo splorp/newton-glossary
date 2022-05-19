@@ -1,0 +1,32 @@
+Title: Battery Contact Bounce
+
+----
+
+Date: 19 May 2022
+
+----
+
+Text:
+
+A momentary loss of contact between the battery and its connection to circuitry when a Newton device is tossed or dropped onto a hard surface. When the power from the battery is disrupted, the device can [reset](/terms/system-reset). If a Newton device is in the middle of a storage update when this occurs, some data will be lost.
+
+### Additional Information
+
+[Internet Archive: Dadhacker: Newton Storage History](https://web.archive.org/web/20190812161847/http://www.dadhacker.com/blog/?p=948)
+
+----
+
+Related:
+
+- /terms/backup-battery
+- /terms/battery
+- /terms/battery-booster-pack
+- /terms/battery-pack
+- /terms/battery-tray
+- /terms/system-reset
+
+----
+
+Source:
+
+- /sources/landon-dyer

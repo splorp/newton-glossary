@@ -18,6 +18,7 @@ Related:
 - /terms/battery
 - /terms/battery-booster-pack
 - /terms/battery-cage
+- /terms/battery-contact-bounce
 - /terms/battery-gauge
 - /terms/battery-pack
 - /terms/battery-sled
