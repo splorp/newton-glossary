@@ -19,6 +19,7 @@ Holding down the “Command” key on a keyboard connected to a [Newton OS](/ter
 Related:
 
 - /terms/auto-repeat
+- /terms/command-key
 - /terms/key-combination
 - /terms/modifier-key
 - /terms/type-ahead

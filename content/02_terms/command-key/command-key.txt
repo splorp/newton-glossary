@@ -1,0 +1,32 @@
+Title: Command Key
+
+----
+
+Date: 19 May 2022
+
+----
+
+Text:
+
+A command key associates a programmatic [message](/terms/message) or [action](/terms/action) with a [key combination](/terms/key-combination). The key combination consists of a character typed on a keyboard in combination with one or more [modifier keys](/terms/modifier-key).
+
+The command key is also the name of a modifier key found on a keyboard.
+
+----
+
+Related:
+
+- /terms/action
+- /terms/auto-repeat
+- /terms/key-combination
+- /terms/keyboard-equivalent
+- /terms/message
+- /terms/modifier-key
+- /terms/type-ahead
+- /terms/typewriter
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

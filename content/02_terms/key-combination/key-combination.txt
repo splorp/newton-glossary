@@ -15,6 +15,7 @@ A series of keys that are typed at the same time on a keyboard, usually consisti
 Related:
 
 - /terms/auto-repeat
+- /terms/command-key
 - /terms/keyboard-equivalent
 - /terms/modifier-key
 - /terms/type-ahead

@@ -15,6 +15,7 @@ A key that affects the function of the alphanumeric keys on a keyboard. The use 
 Related:
 
 - /terms/auto-repeat
+- /terms/command-key
 - /terms/key-combination
 - /terms/keyboard-equivalent
 - /terms/type-ahead
