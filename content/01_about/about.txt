@@ -62,5 +62,6 @@ To add a bit of spit and polish to our Kirby experience, we use the following ha
 + [Cachebuster](https://github.com/schnti/kirby3-cachebuster) _by [Timo Schneider](https://github.com/schnti)_
 + [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) _by [Pedro Borges](https://pedroborg.es/)_
 + [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) _by [Grant Hutchinson](https://splorp.me/)_
++ [XML Sitemap Stylesheet](https://github.com/pedroborges/xml-sitemap-stylesheet) _by [Pedro Borges](https://pedroborg.es/)_
 
 And finally, god bless [BBEdit](https://www.barebones.com/products/bbedit/).
