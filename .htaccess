@@ -15,8 +15,8 @@ RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
 RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 
 # Redirect legacy domain links
-RewriteCond %{HTTP_HOST} ^glossary\.splorp\.me$ [NC]
-RewriteRule ^(.*)$ http://newtonglossary.com/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} !^newtonglossary.com$ [NC]
+RewriteRule ^(.*)$ https://newtonglossary.com/$1 [L,R=301]
 
 # Forced SSL
 # RewriteCond %{HTTPS} !=on
