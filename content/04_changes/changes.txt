@@ -20,10 +20,21 @@ Recently added terms and sources can be found on the [latest additions](/latest)
 
 ### _$v
 
-12 May 2022
-
 Terms: _$t
 Sources: _$s
+
+#### Summary of changes:
+
++ Added 2 new terms
++ Updated and expanded several existing entries
++ Updated [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin to version 2.0.1
+
+### 3.0.1
+
+12 May 2022
+
+Terms: 1,289
+Sources: 135
 
 #### Summary of changes:
 
