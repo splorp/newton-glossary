@@ -3,7 +3,7 @@
 /**
  * Kirby Paperback Export
  *
- * @version   2.0.0
+ * @version   2.0.1
  * @author    Grant Hutchinson <grant@splorp.com>
  * @copyright Grant Hutchinson <grant@splorp.com>
  * @link      https://github.com/splorp/kirby-paperback-export
