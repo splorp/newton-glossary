@@ -5,7 +5,7 @@
 	<article>
 		<h2><?php echo html($page->title()) ?></h2>
 		<?php echo $page->text()->kirbytext() ?>
-		<form action="<?= $page->url() ?>">
+		<form action="/<?= $page ?>">
 			<input type="search" name="q" placeholder="What are you looking for?" value="<?= html($query) ?>" autofocus>
 			<input type="submit" value="Go!" />
 		</form>
@@ -15,7 +15,7 @@
 		<h3><?php echo $pagination->total() . ' item'; echo ($pagination->total() > 1) ? 's' : ''; echo ' found'; ?></h3>
 		<ul class="rslt">
 			<?php foreach($results as $result): ?>
-			<li><a href="<?php echo $result->url() ?>"><?php echo $result->title()->html() ?></a><br />
+			<li><a href="/<?php echo $result ?>"><?php echo $result->title()->html() ?></a><br />
 			<?php echo $result->text()->excerpt(140) ?></li>
 			<?php endforeach ?>
 		</ul>
