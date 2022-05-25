@@ -18,7 +18,12 @@
 		<link rel="icon" type="image/png" sizes="192x192" href="/assets/devices/android-touch-icon-192x192.png">
 		<meta name="msapplication-TileImage" content="/assets/devices/msapplication-tileimage-144x144.png" />
 		<meta name="msapplication-TileColor" content="#009900" />
-		<?php echo css('assets/styles/styles.css') ?>
+		<?php
+			defined('DS') or define('DS', '/');
+			$url = 'assets/styles/styles.css';
+			$file = $kirby->roots()->index() . DS . $url;
+			echo '<link href="' . DS . F::dirname($url) . DS . F::name($url) . '.' . F::modified($file) . '.css" rel="stylesheet">' . PHP_EOL;
+		?>
 	</head>
 
 	<body>

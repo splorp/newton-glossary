@@ -66,7 +66,7 @@ return [
 			}
 		],		
 	],
-	'schnti.cachebuster.active' => true,
+	'schnti.cachebuster.active' => false,
 	'splorp.paperback-export.includeUnlisted' => true,
 	'splorp.paperback-export.includeChildren' => ['terms'],
 	'splorp.paperback-export.excludeTemplate' => [],
