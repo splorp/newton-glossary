@@ -24,8 +24,6 @@ Related:
 - /terms/calligrapher
 - /terms/connected-recognizer
 - /terms/cursive
-- /terms/eat-up-martha
-- /terms/egg-freckles
 - /terms/handwriting-instructor
 - /terms/handwriting-recognition
 - /terms/ink

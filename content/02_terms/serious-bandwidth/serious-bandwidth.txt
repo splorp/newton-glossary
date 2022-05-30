@@ -22,7 +22,6 @@ Related:
 - /terms/eff-grackles
 - /terms/egg-freckles
 - /terms/handwriting-recognition
-- /terms/newtonwocky
 - /terms/tablespoons
 
 ----

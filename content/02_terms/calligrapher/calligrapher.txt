@@ -20,8 +20,6 @@ Related:
 
 - /terms/cursive
 - /terms/cursive-recognizer
-- /terms/eat-up-martha
-- /terms/egg-freckles
 - /terms/handwriting-instructor
 - /terms/handwriting-recognition
 - /terms/ink
