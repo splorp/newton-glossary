@@ -23,6 +23,7 @@ A reference to the questionable quality of early Newton [handwriting recognition
 Related:
 
 - /terms/beat-up-martin
+- /terms/eff-grackles
 - /terms/egg-freckles
 - /terms/handwriting-recognition
 - /terms/serious-bandwidth

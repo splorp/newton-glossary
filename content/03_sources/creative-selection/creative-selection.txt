@@ -1,0 +1,16 @@
+Title: Creative Selection: Inside Apple’s Design Process
+
+----
+
+Date: 30 May 2022
+
+----
+
+Text:
+
+A book by Ken Kocienda that provides an insider’s look at Apple’s creative process, including the infamous “[eff grackles](/terms/eff-grackles)” demo. During his time at Apple, Kocienda was a principal software engineer for the iPhone, iPad, and Safari web browser.
+
+### Additional Information
+
+[Creative Selection Website](http://creativeselection.io/)
+[Amazon: Creative Selection: Inside Apple’s Design Process](https://amzn.to/3lUTrz0)
