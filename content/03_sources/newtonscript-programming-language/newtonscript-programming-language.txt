@@ -12,7 +12,6 @@ Published by [Apple](https://www.apple.com/) in 1996, this is the definitive ref
 
 ### Additional Information
 
-[Amazon: The NewtonScript Programming Language](http://amzn.to/1NbReDL)
 [UNNA: The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf) (PDF)
 [The Newted Community: The NewtonScript Programming Language](http://www.newted.org/download/manuals/NewtonScriptProgramLanguage.pdf) (PDF)
 [Internet Archive: プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation)
