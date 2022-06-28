@@ -18,6 +18,15 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
+### _$v
+
+Terms: _$t
+Sources: _$s
+
+#### Summary of changes:
+
++ 
+
 ### 3.0.2
 
 27 June 2022
