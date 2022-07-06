@@ -40,7 +40,7 @@ Sources: 136
 + Added 1 new source
 + Updated and expanded several existing entries
 + Updated [Kirby](https://getkirby.com/) to version [3.7.0](https://github.com/getkirby/kirby/releases/tag/3.7.0)
-+ Updated [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin to version 2.0.1
++ Updated [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin to version [2.0.1](https://github.com/splorp/kirby-paperback-export/releases/tag/2.0.1)
 
 ### 3.0.1
 
@@ -65,8 +65,8 @@ Sources: 135
 + Updated [Kirby](https://getkirby.com/) to version [3.6.5](https://github.com/getkirby/kirby/releases/tag/3.6.5)
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.1.1
 + Updated [Cachebuster](https://github.com/schnti/kirby3-cachebuster) plugin with <a href="https://github.com/schnti">Timo Schneider’s</a> Kirby 3 version
-+ Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin to version 2.1.0
-+ Updated [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin to version 2.0.0
++ Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin to version [2.1.0](https://github.com/pedroborges/kirby-meta-tags/releases/tag/v2.1.0)
++ Updated [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin to version [2.0.0](https://github.com/splorp/kirby-paperback-export/releases/tag/2.0.0)
 + Removed [Kirby GA](https://github.com/jenstornell/kirby-ga) plugin because Google
 + Replaced [Kirby XML Sitemap](https://github.com/pedroborges/kirby-xml-sitemap) plugin with a <a href="https://getkirby.com/docs/cookbook/content/sitemap">built in version</a>
 
