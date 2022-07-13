@@ -1,8 +1,10 @@
 {
 	"name": "splorp/paperback-export",
 	"description": "Export Kirby 3 CMS content for use with the PaperBack Book Maker",
-	"version": "2.0.1",
+	"keywords": ["kirby3", "kirby-cms", "kirby-plugin", "paperback-book-maker", "newton-book", "newton-os"],
+	"homepage": "https://github.com/splorp/kirby-paperback-export",
 	"type": "kirby-plugin",
+	"version": "2.0.2",
 	"license": "MIT",
 	"authors": [
 		{
@@ -11,6 +13,10 @@
 			"homepage": "https://splorp.com/"
 		}
 	],
+	"support": [
+		"docs": "https://github.com/splorp/kirby-paperback-export/blob/master/readme.md",
+		"source": "https://github.com/splorp/kirby-paperback-export"
+	]
 	"require": {
 		"getkirby/composer-installer": "^1.1"
 	},
