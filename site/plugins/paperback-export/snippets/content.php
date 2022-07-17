@@ -1,5 +1,5 @@
 <?php
-	echo '@@TOC ' . $page->title() . PHP_EOL . PHP_EOL;
+	echo $prefix . $page->title() . PHP_EOL . PHP_EOL;
 	$buffer = $page->text()->kirbytext();
 	// Standardize line breaks between block elements
 	$buffer = preg_replace('/>\s?[\r\n]\s?</', '>' . PHP_EOL . PHP_EOL . '<', $buffer);

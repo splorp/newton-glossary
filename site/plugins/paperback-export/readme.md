@@ -45,9 +45,29 @@ Updating the plugin as a Git submodule:
     
 ## Options
 
-By default, text located in the `$page->title()` and `$page->text()` fields for every page on your Kirby site will be included in the exported data. The following options can be added to the `site/config/config.php` file, allowing you to filter which pages are included based on certain criteria.
+### Table of contents prefix
+
+Paperback books can include a table of contents created from the text found located in the `$page->title()` field. The following option can be added to the `site/config/config.php` file, allowing you to specify a custom table of contents prefix.
+
+This option is not set by default.
+
+```php
+return [
+	'splorp.paperback-export.tocPrefix' => '',
+];
+```
+
+Specify a prefix.
+
+```php
+return [
+	'splorp.paperback-export.tocPrefix' => ['@@TOC '],
+];
+```
 
 ### Include unlisted pages
+
+By default, text located in the `$page->title()` and `$page->text()` fields for every page on your Kirby site will be included in the exported data. The following options can be added to the `site/config/config.php` file, allowing you to filter which pages are included based on certain criteria.
 
 This option is set to true by default.
 
@@ -103,8 +123,14 @@ return [
 
 ## Release Notes
 
+### 2.0.3
++ Added option to specify the table of contents prefix
++ Added better exception checking for option values
++ Fixed malformed `support` field in `composer.json`
++ Removed extraneous comments from `index.php`
+
 ### 2.0.2
-+ Added `keywords`, `homepage`, `support.docs`, `support.source` to `composer.json`
++ Added `keywords`, `homepage`, `support.docs`, `support.source` fields to `composer.json`
 
 ### 2.0.1.1
 + Fixed version number in `index.php`

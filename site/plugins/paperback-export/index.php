@@ -1,15 +1,4 @@
 <?php
-
-/**
- * Kirby Paperback Export
- *
- * @version   2.0.2
- * @author    Grant Hutchinson <grant@splorp.com>
- * @copyright Grant Hutchinson <grant@splorp.com>
- * @link      https://github.com/splorp/kirby-paperback-export
- * @license   MIT
- */
-
 Kirby::plugin('splorp/paperback-export', [
 	'snippets' => [
 		'paperback-export/content' => __DIR__ . '/snippets/content.php',
@@ -19,15 +8,22 @@ Kirby::plugin('splorp/paperback-export', [
 			'pattern' => 'export/paperback',
 			'action' => function () {
 
+				$prefix = option('splorp.paperback-export.prefix', '');
 				$includeUnlisted = option('splorp.paperback-export.includeUnlisted', true);
 				$includeChildren = option('splorp.paperback-export.includeChildren', []);
 				$excludeTemplate = option('splorp.paperback-export.excludeTemplate', []);
 
+				if (! is_string($prefix)) {
+					throw new Exception('The option “splorp.paperback-export.prefix” must be a string.');
+				}
+				if (! is_bool($includeUnlisted)) {
+					throw new Exception('The option “splorp.paperback-export.includeUnlisted” must be a boolean.');
+				}
 				if (! is_array($includeChildren)) {
-					throw new Exception('The option "splorp.paperback-export.includeChildren" must be an array.');
+					throw new Exception('The option “splorp.paperback-export.includeChildren” must be an array.');
 				}
 				if (! is_array($excludeTemplate)) {
-					throw new Exception('The option "splorp.paperback-export.excludeTemplate" must be an array.');
+					throw new Exception('The option “splorp.paperback-export.excludeTemplate” must be an array.');
 				}
 
 				$languages   = site()->languages();
@@ -43,7 +39,7 @@ Kirby::plugin('splorp/paperback-export', [
 				if (! $includeUnlisted) {
 					$pages = $pages->listed();
 				}
-
+				
 				/* Include only the children of specified pages */
 
 				if ($includeChildren) {
@@ -55,7 +51,7 @@ Kirby::plugin('splorp/paperback-export', [
 				$pages = $pages->filterBy('intendedTemplate', 'not in', $excludeTemplate);
 
 				$template  = __DIR__ . '/snippets/export.php';
-				$paperback = tpl::load($template, compact('languages', 'pages', 'title', 'description', 'version', 'datestamp', 'filename'));
+				$paperback = tpl::load($template, compact('languages', 'pages', 'title', 'description', 'prefix', 'version', 'datestamp', 'filename'));
 
 				return new response($paperback, 'txt');
 			}

@@ -67,6 +67,7 @@ return [
 		],		
 	],
 	'schnti.cachebuster.active' => false,
+	'splorp.paperback-export.prefix' => '@@TOC ',
 	'splorp.paperback-export.includeUnlisted' => true,
 	'splorp.paperback-export.includeChildren' => ['terms'],
 	'splorp.paperback-export.excludeTemplate' => [],

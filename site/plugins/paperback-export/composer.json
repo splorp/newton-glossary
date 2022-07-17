@@ -4,7 +4,7 @@
 	"keywords": ["kirby3", "kirby-cms", "kirby-plugin", "paperback-book-maker", "newton-book", "newton-os"],
 	"homepage": "https://github.com/splorp/kirby-paperback-export",
 	"type": "kirby-plugin",
-	"version": "2.0.2",
+	"version": "2.0.3",
 	"license": "MIT",
 	"authors": [
 		{
@@ -14,9 +14,11 @@
 		}
 	],
 	"support": [
-		"docs": "https://github.com/splorp/kirby-paperback-export/blob/master/readme.md",
-		"source": "https://github.com/splorp/kirby-paperback-export"
-	]
+		{
+			"docs": "https://github.com/splorp/kirby-paperback-export/blob/master/readme.md",
+			"source": "https://github.com/splorp/kirby-paperback-export"
+		}
+	],
 	"require": {
 		"getkirby/composer-installer": "^1.1"
 	},
