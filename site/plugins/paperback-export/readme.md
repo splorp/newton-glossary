@@ -45,7 +45,7 @@ Updating the plugin as a Git submodule:
     
 ## Options
 
-### Table of contents prefix
+### Table of Contents Prefix
 
 Paperback books can include a table of contents created from the text found located in the `$page->title()` field. The following option can be added to the `site/config/config.php` file, allowing you to specify a custom table of contents prefix.
 
@@ -53,7 +53,7 @@ This option is not set by default.
 
 ```php
 return [
-	'splorp.paperback-export.tocPrefix' => '',
+	'splorp.paperback-export.prefix' => '',
 ];
 ```
 
@@ -61,7 +61,7 @@ Specify a prefix.
 
 ```php
 return [
-	'splorp.paperback-export.tocPrefix' => ['@@TOC '],
+	'splorp.paperback-export.prefix' => ['@@TOC '],
 ];
 ```
 
