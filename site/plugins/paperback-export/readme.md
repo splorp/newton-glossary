@@ -57,7 +57,7 @@ return [
 ];
 ```
 
-Specify a prefix.
+Specify a table of contents prefix.
 
 ```php
 return [
@@ -65,9 +65,33 @@ return [
 ];
 ```
 
-### Include unlisted pages
+### Include Other Content Fields
 
-By default, text located in the `$page->title()` and `$page->text()` fields for every page on your Kirby site will be included in the exported data. The following options can be added to the `site/config/config.php` file, allowing you to filter which pages are included based on certain criteria.
+By default, text located in the `$page->title()` and `$page->text()` fields will be included in the exported data. The following option can be added to the `site/config/config.php` file, allowing you to specify other content fields to be included. These fields will be appended after the title and text fields.
+
+This option is not set by default.
+
+```php
+return [
+	'splorp.paperback-export.fields' => [],
+];
+```
+
+Specify one or more content fields and their type as an array.
+
+```php
+return [
+	'splorp.paperback-export.fields' => ['author' => 'text','posts' => 'related'],
+];
+```
+
+Use the `text` content type for any field containing alphanumberic data, such as an author name or date.
+
+Use the `related` content type for fields formatted using the YAML syntax for [related articles](https://getkirby.com/docs/cookbook/content/related-articles). The title field of each related article or page will be included in the exported data.
+
+### Include Unlisted Pages
+
+By default, every page on your Kirby site will be included in the exported data. The following options can be added to the `site/config/config.php` file, allowing you to filter which pages are included based on certain criteria.
 
 This option is set to true by default.
 
@@ -117,11 +141,10 @@ return [
 ];
 ```
 
-## Known Issues
-
-+ Output is currently optimized for the [Newton Glossary](https://newtonglossary.com/) instance of [Kirby](https://getkirby.com/)
-
 ## Release Notes
+
+### 2.0.4
++ Added option to specify other content fields
 
 ### 2.0.3
 + Added option to specify the table of contents prefix

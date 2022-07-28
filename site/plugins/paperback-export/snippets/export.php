@@ -6,6 +6,6 @@
 	if ($version != '') { echo ('Version ' . $version . ' (' . $datestamp . ')'); } else { echo ('Published ' . $datestamp); }
 	echo (PHP_EOL . PHP_EOL);
 	foreach ($pages as $page) :
-		snippet('paperback-export/content', compact('languages', 'page', 'prefix'));
+		snippet('paperback-export/content', compact('languages', 'page', 'prefix', 'fields'));
 	endforeach;
 ?>

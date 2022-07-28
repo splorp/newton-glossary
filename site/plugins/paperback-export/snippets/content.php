@@ -10,11 +10,22 @@
 	// Remove all remaining tags
 	$buffer = html_entity_decode(strip_tags($buffer));
 	echo $buffer . PHP_EOL . PHP_EOL;
-	if($page->source()->exists()) {
-		if($page->source()->toPages()->count() > 1) { echo 'Sources: ' . PHP_EOL; } else { echo 'Source: '; }
-		$n=0; foreach($page->source()->toPages() as $source): $n++;
-		echo $source->title() . PHP_EOL;
-		endforeach;
-		echo PHP_EOL;
-	}
+	// Determine other content fields
+	foreach ($fields as $fieldname => $fieldtype) :
+ 		if($page->content()->get($fieldname)->isNotEmpty()) {
+ 			echo ucwords($fieldname) . ': ';
+ 			if($fieldtype == 'related') {
+				$n = false;
+				foreach($page->content()->get($fieldname)->toPages() as $fieldpage):
+					if ($n) : echo ', ';
+					endif;
+					echo $fieldpage->title();
+					$n = true;
+				endforeach;
+				echo PHP_EOL . PHP_EOL;
+			} else {
+ 				echo $page->content()->get($fieldname) . PHP_EOL . PHP_EOL;
+			}
+		}
+	endforeach;
 ?>
