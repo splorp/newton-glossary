@@ -1,4 +1,4 @@
-Title: Change Log
+Title: Changes
 
 ----
 
@@ -27,6 +27,7 @@ Sources: _$s
 
 + Added 1 new term
 + Updated and expanded several existing entries
++ The “Change Log” page is now named “Changes” for consistency
 + Updated [Kirby](https://getkirby.com/) to version [3.7.2](https://github.com/getkirby/kirby/releases/tag/3.7.2)
 + Updated [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin to version [2.0.4](https://github.com/splorp/kirby-paperback-export/releases/tag/2.0.4)
 + Implemented [Kirby Clear Cache](https://clicktonext.com/plugins/clear-cache) plugin
@@ -226,7 +227,7 @@ Sources: 98
 + Added 3 new sources
 + Updated and expanded dozens of existing entries
 + Added page listing the [latest additions](/latest) to the glossary
-+ Moved [about](/about) and [change log](/changes) links to footer
++ Moved [about](/about) and [changes](/changes) links to footer
 + Added option to set navigation link text for each page
 + Legacy domain links now redirect to [newtonglossary.com](https://newtonglossary.com/)
 + Implemented [Kirby GA](https://github.com/kirby-deprecated-plugins/kirby-ga) plugin for [Google Analytics](https://www.google.com/analytics/) integration
