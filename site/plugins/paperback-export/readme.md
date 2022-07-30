@@ -61,7 +61,7 @@ Specify a table of contents prefix.
 
 ```php
 return [
-	'splorp.paperback-export.prefix' => ['@@TOC '],
+	'splorp.paperback-export.prefix' => '@@TOC ',
 ];
 ```
 
@@ -141,7 +141,22 @@ return [
 ];
 ```
 
+### Include Datestamp
+
+The following option can be added to the `site/config/config.php` file, allowing you to add a datestamp that indicates when the data was exported. The datestamp is formatted as YYYY-MMM-DD and is inserted after the site title and description.
+
+This option is set to false by default.
+
+```php
+return [
+	'splorp.paperback-export.includeUnlisted' => false,
+];
+```
+
 ## Release Notes
+
+### 2.0.5
++ Added option to specify inclusion of the datestamp
 
 ### 2.0.4
 + Added option to specify other content fields

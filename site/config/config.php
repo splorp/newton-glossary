@@ -72,6 +72,7 @@ return [
 	'splorp.paperback-export.includeUnlisted' => true,
 	'splorp.paperback-export.includeChildren' => ['terms'],
 	'splorp.paperback-export.excludeTemplate' => [],
+	'splorp.paperback-export.includeDatestamp' => true,
 	'pedroborges.meta-tags.default' => function ($page, $site) {
 		return [
 			'title' => $site->title() . ' — ' . $page->title(),

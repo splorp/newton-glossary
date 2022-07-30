@@ -13,6 +13,7 @@ Kirby::plugin('splorp/paperback-export', [
 				$includeUnlisted = option('splorp.paperback-export.includeUnlisted', true);
 				$includeChildren = option('splorp.paperback-export.includeChildren', []);
 				$excludeTemplate = option('splorp.paperback-export.excludeTemplate', []);
+				$includeDatestamp = option('splorp.paperback-export.includeDatestamp', false);
 
 				if (! is_string($prefix)) {
 					throw new Exception('The option “splorp.paperback-export.prefix” must be a string.');
@@ -29,13 +30,15 @@ Kirby::plugin('splorp/paperback-export', [
 				if (! is_array($excludeTemplate)) {
 					throw new Exception('The option “splorp.paperback-export.excludeTemplate” must be an array.');
 				}
+				if (! is_bool($includeDatestamp)) {
+					throw new Exception('The option “splorp.paperback-export.includeDatestamp” must be a boolean.');
+				}
 
 				$languages   = site()->languages();
 				$pages       = site()->index();
 				$title       = site()->title();
 				$description = site()->description();
 				$version     = site()->version();
-				$datestamp   = date('Y-M-d');
 				$filename    = str::slug($title);
 
 				/* Check whether to include unlisted pages */
@@ -53,6 +56,12 @@ Kirby::plugin('splorp/paperback-export', [
 				/* Exclude pages using specified templates */
 
 				$pages = $pages->filterBy('intendedTemplate', 'not in', $excludeTemplate);
+
+				/* Check whether to include a datestamp */
+
+				if ($includeDatestamp) { $datestamp = date('Y-M-d'); } else { $datestamp = ''; }
+				
+				/* Define template and variables */
 
 				$template  = __DIR__ . '/snippets/export.php';
 				$paperback = tpl::load($template, compact('languages', 'pages', 'title', 'description', 'prefix', 'fields', 'version', 'datestamp', 'filename'));

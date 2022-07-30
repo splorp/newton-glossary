@@ -29,7 +29,7 @@ Sources: _$s
 + Updated and expanded several existing entries
 + The “Change Log” page is now named “Changes” for consistency
 + Updated [Kirby](https://getkirby.com/) to version [3.7.2](https://github.com/getkirby/kirby/releases/tag/3.7.2)
-+ Updated [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin to version [2.0.4](https://github.com/splorp/kirby-paperback-export/releases/tag/2.0.4)
++ Updated [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin to version [2.0.5](https://github.com/splorp/kirby-paperback-export/releases/tag/2.0.5)
 + Implemented [Kirby Clear Cache](https://clicktonext.com/plugins/clear-cache) plugin
 
 ### 3.0.2
