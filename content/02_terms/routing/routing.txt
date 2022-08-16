@@ -19,6 +19,7 @@ Related:
 - /terms/in-box
 - /terms/inout-box
 - /terms/out-box
+- /terms/routing-format
 - /terms/routing-slip
 - /terms/transport
 

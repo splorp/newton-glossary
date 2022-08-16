@@ -16,6 +16,8 @@ Related:
 
 - /terms/action-picker
 - /terms/routing
+- /terms/routing-format
+- /terms/slip
 
 ----
 

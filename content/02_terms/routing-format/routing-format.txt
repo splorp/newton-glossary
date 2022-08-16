@@ -17,6 +17,7 @@ Related:
 - /terms/frame
 - /terms/object
 - /terms/routing
+- /terms/routing-slip
 
 ----
 
