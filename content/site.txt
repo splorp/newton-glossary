@@ -20,4 +20,4 @@ Powered by (link: https://getkirby.com/ text: Kirby title: The CMS that adapts t
 
 ----
 
-Version: 3.0.3
+Version: 3.0.4

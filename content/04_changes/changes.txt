@@ -20,10 +20,19 @@ Recently added terms and sources can be found on the [latest additions](/latest)
 
 ### _$v
 
-24 August 2022
-
 Terms: _$t
 Sources: _$s
+
+#### Summary of changes:
+
++ Updated [Kirby](https://getkirby.com/) to version [3.7.4](https://github.com/getkirby/kirby/releases/tag/3.7.4)
+
+### 3.0.3
+
+24 August 2022
+
+Terms: 1,294
+Sources: 136
 
 #### Summary of changes:
 
