@@ -1,14 +1,14 @@
 <?php
 
-use ClickToNext\ClearCache;
+use Oweb\ClearCache;
 use Kirby\Cms\App as Kirby;
 use Kirby\Exception\Exception;
 
 load([
-    'clicktonext\\clearcache' => __DIR__ . '/lib/ClearCache.php'
+    'oweb\\clearcache' => __DIR__ . '/lib/ClearCache.php'
 ]);
 
-Kirby::plugin('clicktonext/clear-cache', [
+Kirby::plugin('owebstudio/clear-cache', [
     'areas' => [
         'clear-cache' => function () {
             return [

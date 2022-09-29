@@ -1,11 +1,12 @@
 {
-  "name": "clicktonext/kirby-clear-cache",
+  "name": "owebstudio/kirby-clear-cache",
   "description": "This plugin allows you to clean temporary files and folders such as cache, media, .lock and .logins on your website.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "type": "kirby-plugin",
   "license": "MIT",
   "keywords": [
-    "clicktonext",
+    "owebstudio",
+    "owebstudio-plugin",
     "kirby",
     "kirby-3",
     "kirby3-plugin",
@@ -13,15 +14,15 @@
     "kirby-cache",
     "cache-clear"
   ],
-  "homepage": "https://clicktonext.com",
+  "homepage": "https://owebstudio.com",
   "support": {
-    "email": "support@clicktonext.com"
+    "email": "support@owebstudio.com"
   },
   "authors": [
     {
-      "name": "Click to Next",
-      "email": "contact@clicktonext.com",
-      "homepage": "https://clicktonext.com"
+      "name": "oweb studio",
+      "email": "contact@owebstudio.com",
+      "homepage": "https://owebstudio.com"
     }
   ],
   "require": {
