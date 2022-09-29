@@ -18,14 +18,17 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
-### _$v
+### 3.0.4
 
-Terms: _$t
-Sources: _$s
+29 September 2022
+
+Terms: 1,294
+Sources: 136
 
 #### Summary of changes:
 
-+ Updated [Kirby](https://getkirby.com/) to version [3.7.4](https://github.com/getkirby/kirby/releases/tag/3.7.4)
++ Updated [Kirby](https://getkirby.com/) to version [3.7.5](https://github.com/getkirby/kirby/releases/tag/3.7.5)
++ Updated [Kirby Clear Cache](https://owebstudio.com/kirby/plugins/clear-cache) plugin to version 1.0.2
 
 ### 3.0.3
 
@@ -41,7 +44,7 @@ Sources: 136
 + The “Change Log” page is now named “Changes” for consistency
 + Updated [Kirby](https://getkirby.com/) to version [3.7.3](https://github.com/getkirby/kirby/releases/tag/3.7.3)
 + Updated [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin to version [2.0.5](https://github.com/splorp/kirby-paperback-export/releases/tag/2.0.5)
-+ Implemented [Kirby Clear Cache](https://clicktonext.com/plugins/clear-cache) plugin
++ Implemented [Kirby Clear Cache](https://owebstudio.com/kirby/plugins/clear-cache) plugin
 
 ### 3.0.2
 
