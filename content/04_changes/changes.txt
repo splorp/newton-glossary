@@ -18,6 +18,15 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
+### _$v
+
+Terms: _$t
+Sources: _$s
+
+#### Summary of changes:
+
++ Updated [Kirby](https://getkirby.com/) to version [3.8.0](https://github.com/getkirby/kirby/releases/tag/3.8.0)
+
 ### 3.0.4
 
 29 September 2022
