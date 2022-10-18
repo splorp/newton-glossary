@@ -24,6 +24,7 @@ http://getkirby.com/docs/advanced/options
 
 return [
 	'debug' => false,
+	'content.uuid' => false,
 	'cache' => [
 		'pages' => [
 			'active' => true
