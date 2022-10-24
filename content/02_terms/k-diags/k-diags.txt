@@ -1,0 +1,32 @@
+Title: K Diags
+
+----
+
+Date: 24 October 2022
+
+----
+
+Text:
+
+A suite of software diagnostic tools created specifically for the [eMate 300](/terms/emate-300) and supplied on a bootable PCMCIA card. The “K” is in reference to the eMate code name [Project K](/terms/project-k).
+
+### Additional Information
+
+[Flickr: Newton K Diags](http://www.unna.org/unna/apple/documentation/eMate/eMateGettingStarted.pdf)
+
+----
+
+Related:
+
+- /terms/emate
+- /terms/emate-300
+- /terms/k
+- /terms/project-k
+- /terms/schoolbook
+- /terms/shay
+
+----
+
+Source:
+
+- /sources/steve-white

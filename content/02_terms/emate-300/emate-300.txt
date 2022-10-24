@@ -40,6 +40,7 @@ Related:
 - /terms/floppy-lid
 - /terms/goosebumps-vomit-green
 - /terms/k
+- /terms/k-diags
 - /terms/newton-interconnect
 - /terms/newton-works
 - /terms/project-k

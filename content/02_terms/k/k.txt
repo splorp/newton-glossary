@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-See [K Libs](/terms/k-libs) and [Project K](/terms/project-k)
+See [K Diags](/terms/k-diags), [K Libs](/terms/k-libs), and [Project K](/terms/project-k)
 
 ----
 
