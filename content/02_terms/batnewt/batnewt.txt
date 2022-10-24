@@ -21,6 +21,7 @@ Related:
 
 - /terms/emate
 - /terms/emate-300
+- /terms/k
 - /terms/project-k
 - /terms/schoolbook
 - /terms/shay

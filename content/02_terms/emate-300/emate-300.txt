@@ -10,7 +10,7 @@ Text:
 
 A ruggedized, translucent [clamshell](/terms/clamshell) style Newton device that featured a built-in keyboard, extremely long battery life, and an integrated suite of [applications](/terms/application) called [Newton Works](/terms/newton-works). The device was primarily aimed at the educational market.
 
-The eMate 300 was known by various code names, including [Project K](/terms/project-k), [Schoolbook](/terms/schoolbook), and [Shay](/terms/shay).
+The eMate 300 was known by various code names, including [K](/terms/k), [Project K](/terms/project-k), [Schoolbook](/terms/schoolbook), and [Shay](/terms/shay).
 
 ### Additional Information
 
@@ -39,6 +39,7 @@ Related:
 - /terms/emate-3000
 - /terms/floppy-lid
 - /terms/goosebumps-vomit-green
+- /terms/k
 - /terms/newton-interconnect
 - /terms/newton-works
 - /terms/project-k
