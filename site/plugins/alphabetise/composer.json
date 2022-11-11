@@ -1,14 +1,15 @@
 {
   "name": "shoesforindustry/alphabetise",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "kirby-plugin",
   "description": "Alphabetise a Kirby CMS page array or tag array with key",
+  "homepage": "https://github.com/shoesforindustry/kirby-plugins-alphabetise",
   "license": "MIT",
   "authors": [
     {
       "name": "Russ Baldwin",
       "email": "russ@shoesforindustry.net",
-      "homepage": "https://shoesforindustry.net"
+      "homepage": "https://shoesforindustry.net/"
     }
   ]
 }

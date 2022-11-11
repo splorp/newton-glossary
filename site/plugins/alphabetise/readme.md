@@ -2,7 +2,7 @@
 
 ## What is it?
 
-The `alphabetise` plugin takes a given [Kirby CMS] (http://getkirby.com/) *page* array or *tag* array and returns an alphabetised or numbered array that you can then display or further process. It has been updated to work with Kirby CMS v3+.
+The `alphabetise` plugin takes a given [Kirby CMS](http://getkirby.com/) *page* array or *tag* array and returns an alphabetised or numbered array that you can then display or further process. It has been updated to work with Kirby CMS v3+.
 
 
 ## Installation
