@@ -10,7 +10,7 @@ Text:
 
 The [button](/terms/button) found in an [application](/terms/application) that allows the user to select different views of the same data. When [tapped](/terms/tapped), the button displays a [picker](/terms/picker) listing alternative views available for the current application.
 
-![Screenshot of a Show Button with Picker](/assets/images/show-picker.gif)
+<img src="/assets/images/show-picker-2x.gif" alt="Screenshot of a Show Button with Picker" width="141" />
 
 ----
 

@@ -12,7 +12,7 @@ A small square [button](/terms/button) an “I” character, located in the [sta
 
 Also known as the [information button](/terms/information-button) in earlier versions of [Newton OS](/terms/newton-os).
 
-![Screenshot of an Info Button with Picker](/assets/images/info-button.gif)
+<img src="/assets/images/info-button-2x.gif" alt="Screenshot of an Info Button with Picker" width="103" />
 
 ----
 

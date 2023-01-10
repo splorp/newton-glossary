@@ -10,7 +10,7 @@ Text:
 
 An onscreen [keyboard](/terms/keyboard) that appears when the [keyboard button](/terms/keyboard-button) is [tapped](/terms/tapped). The numeric keyboard is designed for easily entering numbers and calculations into [applications](/terms/application) such as as [Newton Works](/terms/newton-works). Several other onscreen keyboards are available for entering specific types of data, including [Typewriter](/terms/typewriter), [Phone](/terms/phone), and [Time/Date](/terms/time-date).
 
-![Screenshot of the Numeric Keyboard](/assets/images/numeric.gif)
+<img src="/assets/images/numeric-2x.gif" alt="Screenshot of the Numeric Keyboard" width="122" />
 
 ----
 

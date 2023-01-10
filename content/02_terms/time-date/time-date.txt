@@ -10,7 +10,7 @@ Text:
 
 An onscreen [keyboard](/terms/keyboard) that appears when the [keyboard button](/terms/keyboard-button) is [tapped](/terms/tapped). The time/date keyboard is designed for easily entering times and dates into [applications](/terms/application) such as [Date Book](/terms/date-book). Several other onscreen keyboards are available for entering specific types of data, including [Typewriter](/terms/typewriter), [Numeric](/terms/numeric), and [Phone](/terms/phone).
 
-![Screenshot of the Time/Date keyboard](/assets/images/time-date.gif)
+<img src="/assets/images/time-date-2x.gif" alt="Screenshot of the Time/Date keyboard" width="119" />
 
 ----
 

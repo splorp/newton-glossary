@@ -10,7 +10,7 @@ Text:
 
 A suite of [Newton OS](/terms/newton-os) diagnostic and repair tools created by [Softwarebüro Müller](/sources/softwareburo-muller).
 
-![Screenshot of SBM Utilities](/assets/images/sbm-utilities.gif)
+<img src="/assets/images/sbm-utilities-2x.gif" alt="Screenshot of SBM Utilities" width="240" />
 
 ### Additional Information
 

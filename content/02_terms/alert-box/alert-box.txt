@@ -10,7 +10,7 @@ Text:
 
 A [view](/terms/view) with a heavy, black [wavy border](/terms/wavy-border) that appears on the [screen](/terms/screen) to warn the user or report an error.
 
-![Screenshot of an Alert Box](/assets/images/alert-box.gif)
+<img src="/assets/images/alert-box-2x.gif" alt="Screenshot of an Alert Box" width="208" />
 
 ----
 

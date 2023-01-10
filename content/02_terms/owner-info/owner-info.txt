@@ -10,7 +10,7 @@ Text:
 
 The built-in [application](/terms/application) for setting [owner](/terms/owner) and [worksite](/terms/worksite) information on a Newton device. It is possible to set up multiple owner profiles or [personas](/terms/persona) for the same owner.
 
-![Screenshot of the Owner Info application](/assets/images/owner-info.gif)
+<img src="/assets/images/owner-info-2x.gif" alt="Screenshot of the Owner Info application" width="256" />
 
 ----
 

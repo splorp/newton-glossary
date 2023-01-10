@@ -10,7 +10,7 @@ Text:
 
 A [user interface](/terms/user-interface) enhancement [package](/terms/package) for [Newton OS](/terms/newton-os) 2.1 developed by [Mason Mark](/sources/mason-mark) of [Five Speed Software](http://www.fivespeedsoftware.com/). Dash Board provides a customizable alternate [button bar](/terms/button-bar), a hierarchical menu for easy access to [applications](/terms/application) and [folders](/terms/folder), and extensive [NewtonScript](/terms/newtonscript) support.
 
-![Screenshot of Dash Board in action](/assets/images/dash-board.gif)
+<img src="/assets/images/dash-board-2x.gif" alt="Screenshot of Dash Board in action" width="322" />
 
 ### Additional Information
 

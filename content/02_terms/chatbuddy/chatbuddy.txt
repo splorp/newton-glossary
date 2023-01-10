@@ -10,7 +10,7 @@ Text:
 
 An Internet Relay Chat (IRC) client for [Newton OS](/terms/newton-os) developed by [Tactile Systems](/sources/tactile).
 
-![Screenshot of ChatBuddy](/assets/images/chatbuddy.gif)
+<img src="/assets/images/chatbuddy-2x.gif" alt="Screenshot of ChatBuddy" width="240" />
 
 ### Additional Information
 

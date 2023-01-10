@@ -10,7 +10,7 @@ Text:
 
 A [view](/terms/view) displayed by an [application](/terms/application) when it begins an operation that takes more than a few seconds to complete. A status slip contains a message describing the application’s busy status. If a status slip is hidden, a [blinking star](/terms/blinking-star) icon will appear at the top of the screen. [Tapping](/terms/tapping) the [star](/terms/star) will display the status slip.
 
-![Screenshot of a Status Slip checking for eWorld mail](/assets/images/status-slip-checking-for-mail.gif)
+<img src="/assets/images/status-slip-checking-for-mail-2x.gif" alt="Screenshot of a Status Slip checking for eWorld mail" width="201" />
 
 ----
 

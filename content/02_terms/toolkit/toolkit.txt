@@ -10,7 +10,7 @@ Text:
 
 An [application](/terms/application) which allows the [Newton Toolkit](/terms/newton-toolkit) development environment to communicate with a Newton device via the [Inspector](/terms/inspector) window.
 
-![Screenshot of the Toolkit application](/assets/images/toolkit.gif)
+<img src="/assets/images/toolkit-2x.gif" alt="Screenshot of the Toolkit application" width="224" />
 
 ----
 

@@ -10,6 +10,8 @@ Text:
 
 A list of alternative views for displaying data in an [application](/terms/application). For example, selecting the “Card” or “All Info” options in the show picker found in the [Name File](/terms/name-file) application will display different information pertaining to the current contact. In an application that supports [stationery](/terms/stationery), the show picker lists all available views for types of data that the application supports. Activated by [tapping](/terms/tapping) on the [show button](/terms/show-button).
 
+<img src="/assets/images/show-picker-2x.gif" alt="Screenshot of a Show Button with Picker" width="141" />
+
 ----
 
 Related:

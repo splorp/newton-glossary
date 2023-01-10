@@ -10,7 +10,7 @@ Text:
 
 A thick black [line](/terms/line) with graphical [buttons](/terms/button) located at the bottom of a [view](/terms/view) in an [application](/terms/application). Status bar buttons perform functions related to the current application and can include an [analog clock button](/terms/analog-clock-button), [info button](/terms/info-button), [recognition button](/terms/recognition-button), [keyboard button](/terms/keyboard-button), [new button](/terms/new-button), [action button](/terms/action-button), and [close box](/terms/close-box).
 
-![Screenshot of the Status Bar](/assets/images/status-bar.gif)
+<img src="/assets/images/status-bar-2x.gif" alt="Screenshot of the Status Bar" width="237" />
 
 ----
 

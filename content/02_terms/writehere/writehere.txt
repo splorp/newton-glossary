@@ -10,7 +10,7 @@ Text:
 
 A suite of software components developed by [Adam Tow](/sources/adam-tow) that allows a Newton device or Palm organizer to be used as a [handwriting recognition](/terms/handwriting-recognition) engine and input device when connected to a [desktop computer](/terms/desktop-computer) or [laptop computer](/terms/laptop-computer).
 
-![Screenshot of WriteHere](/assets/images/writehere-connect.gif)
+<img src="/assets/images/writehere-connect-2x.gif" alt="Screenshot of WriteHere" width="314" />
 
 ### Additional Information
 

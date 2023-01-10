@@ -10,7 +10,7 @@ Text:
 
 An onscreen [keyboard](/terms/keyboard) that appears when the [keyboard button](/terms/keyboard-button) is [tapped](/terms/tapped). The phone keyboard is designed for easily entering telephone numbers into [applications](/terms/application) such as [Name File](/terms/name-file). Several other onscreen keyboards are available for entering specific types of data, including [Typewriter](/terms/typewriter), [Numeric](/terms/numeric), and [Time/Date](/terms/time-date).
 
-![Screenshot of the Phone keyboard](/assets/images/phone.gif)
+<img src="/assets/images/phone-2x.gif" alt="Screenshot of the Phone keyboard" width="143" />
 
 ----
 

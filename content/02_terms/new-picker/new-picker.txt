@@ -10,6 +10,8 @@ Text:
 
 A list of various item creation options available in the current [application](/terms/application). Activated by [tapping](/terms/tapping) on the [new button](/terms/new-button).
 
+<img src="/assets/images/new-picker-name-file-2x.gif" alt="Screenshot of the New Picker in the Name File" width="125" />
+
 ----
 
 Related:

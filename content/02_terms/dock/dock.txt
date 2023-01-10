@@ -12,7 +12,7 @@ To connect a Newton device to another computer over a physical, wireless, or [in
 
 Dock is also the name of an [application](/terms/application) in [Newton OS](/terms/newton-os) 2.0 and later specifically used to connect to another computer.
 
-![Screenshot of the Dock application](/assets/images/dock.gif)
+<img src="/assets/images/dock-2x.gif" alt="Screenshot of the Dock application" width="196" />
 
 ----
 
