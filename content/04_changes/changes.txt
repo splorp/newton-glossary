@@ -25,7 +25,8 @@ Sources: _$s
 
 #### Summary of changes:
 
-+ 
++ Updated all screenshots and images for HiDPI screens
++ Updated [Kirby](https://getkirby.com/) to version [3.8.3](https://github.com/getkirby/kirby/releases/tag/3.8.3)
 
 ### 3.0.5
 
@@ -40,7 +41,7 @@ Sources: 136
 + Updated and expanded several existing entries
 + Updated [Kirby](https://getkirby.com/) to version [3.8.2](https://github.com/getkirby/kirby/releases/tag/3.8.2)
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.1.2
-+ Updated [Cachebuster](https://github.com/schnti/kirby3-cachebuster) plugin  plugin to version [1.0.3](https://github.com/schnti/kirby3-cachebuster/releases/tag/1.0.3)
++ Updated [Cachebuster](https://github.com/schnti/kirby3-cachebuster) plugin to version [1.0.3](https://github.com/schnti/kirby3-cachebuster/releases/tag/1.0.3)
 + Added a <a href="http://microformats.org/wiki/rel-me">rel="me"</a> link for <a href="https://mastodon.social/@splorp">Mastodon</a> profile verification
 
 ### 3.0.4
