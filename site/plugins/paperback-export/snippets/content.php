@@ -6,7 +6,7 @@
 	// Remove line breaks following <br> tags
 	$buffer = str_replace(array("<br>" . PHP_EOL . PHP_EOL, "<br />" . PHP_EOL . PHP_EOL), PHP_EOL, $buffer);
 	// Remove line breaks preceeding <img> tags
-	$buffer = preg_replace('/\n\n<p><img .+><\/p>/', '', $buffer);
+	$buffer = preg_replace('/\n\n(<p>)?<img .+>(<\/p>)?/', '', $buffer);
 	// Remove all remaining tags
 	$buffer = html_entity_decode(strip_tags($buffer));
 	echo $buffer . PHP_EOL . PHP_EOL;

@@ -27,6 +27,7 @@ Sources: _$s
 
 + Updated all screenshots and images for HiDPI screens
 + Updated [Kirby](https://getkirby.com/) to version [3.8.3](https://github.com/getkirby/kirby/releases/tag/3.8.3)
++ Updated [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin to version [2.0.6](https://github.com/splorp/kirby-paperback-export/releases/tag/2.0.6)
 
 ### 3.0.5
 

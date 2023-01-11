@@ -149,11 +149,14 @@ This option is set to false by default.
 
 ```php
 return [
-	'splorp.paperback-export.includeUnlisted' => false,
+	'splorp.paperback-export.includeDatestamp' => false,
 ];
 ```
 
 ## Release Notes
+
+### 2.0.6
++ Improved handling of pages containing `<img>` elements
 
 ### 2.0.5
 + Added option to specify inclusion of the datestamp
@@ -198,7 +201,7 @@ A tip of the hat to [Pedro Borges](https://pedroborg.es/) and his [Kirby XML Sit
 
 ## License
 
-Copyright © 2017–2022 Grant Hutchinson
+Copyright © 2017–2023 Grant Hutchinson
 
 This project is licensed under the short and sweet [MIT License](https://opensource.org/licenses/MIT). This license allows you to do anything pretty much anything you want with the contents of the repository, as long as you provide proper attribution and don’t hold anyone liable.
 
