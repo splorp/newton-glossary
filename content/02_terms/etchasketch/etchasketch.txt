@@ -10,7 +10,7 @@ Text:
 
 A prototype version of the [Newton Toolkit](/terms/newton-toolkit) development environment created by [Maurice Sharp](/sources/maurice-sharp) using [Macintosh Common Lisp](/terms/macintosh-common-lisp). Also referred to as [EaS](/terms/eas).
 
-_This entry requires a screenshot._
+<img src="/assets/images/etchasketch-2x.gif" alt="Screenshot of the EtchASketch project browser window" width="424" />
 
 ### Additional Information
 
