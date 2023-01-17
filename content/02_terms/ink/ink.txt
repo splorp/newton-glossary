@@ -10,9 +10,13 @@ Text:
 
 The raw data created from user input drawn with the [pen](/terms/pen) on a Newton device. Also known variously as [ink data](/terms/ink-data), [raw ink](/terms/raw-ink), and [sketch ink](/terms/sketch-ink).
 
-Ink is also the name of the Mac OS X preference pane used to control the transplanted Newton [handwriting recognition](/terms/handwriting-recognition) system, originally dubbed [Inkwell](/terms/inkwell).
+Ink is also the transplanted Newton [handwriting recognition](/terms/handwriting-recognition) system found in certain versions of Mac OS X. Originally known as [Inkwell](/terms/inkwell), the Ink interface consisted of a floating [Ink Window](/terms/ink-window) toolbar and the [Ink Pad](/terms/ink-pad) where the user could write and draw.
 
 _This entry requires a screenshot._
+
+### Additional Information
+
+[Ink Help: Learn About Ink](https://helposx.apple.com/InkHelpR3/English/pgs2/about.html)
 
 ----
 
@@ -22,11 +26,11 @@ Related:
 - /terms/electronic-ink
 - /terms/handwriting-recognition
 - /terms/ink-data
+- /terms/ink-pad
 - /terms/ink-text
+- /terms/ink-window
 - /terms/ink-word
-- /terms/inkbar
 - /terms/inker
-- /terms/inkpad
 - /terms/inkwell
 - /terms/mondello
 - /terms/neuropen
@@ -44,4 +48,5 @@ Related:
 
 Source:
 
+- /sources/ink-help
 - /sources/newton-programmers-guide

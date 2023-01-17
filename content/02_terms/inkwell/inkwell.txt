@@ -8,13 +8,13 @@ Date:
 
 Text:
 
-The Mac OS version of the Newton [handwriting recognition](/terms/handwriting-recognition) system, eventually known simply as the [Ink](/terms/ink) preference pane in early releases of Mac OS X. The Inkwell interface consisted of the [InkBar](/terms/inkbar) toolbar and the [InkPad](/terms/inkpad) application, a floating window where the user can write and draw.
-
-_This entry requires a screenshot._
+The original name of the Mac OS version of the Newton [handwriting recognition](/terms/handwriting-recognition) system, eventually known simply as [Ink](/terms/ink) in certain versions of Mac OS X.
 
 ### Additional Information
 
 [Internet Archive: Mac OS X: Inkwell](https://web.archive.org/web/20030603163016/http://www.apple.com/macosx/jaguar/inkwell.html)
+[Internet Archive: ZDNet: Writing’s on wall for Mac OS X](https://web.archive.org/web/20010701185506/http://www.zdnet.com/zdnn/stories/news/0,4586,2607921,00.html)
+[Ink Help: Learn About Ink](https://helposx.apple.com/InkHelpR3/English/pgs2/about.html)
 
 ----
 
@@ -22,15 +22,12 @@ Related:
 
 - /terms/handwriting-recognition
 - /terms/ink
-- /terms/inkbar
-- /terms/inkpad
-- /terms/mondello
-- /terms/neuropen
-- /terms/rosetta
-- /terms/rosetta-stone
+- /terms/ink-pad
+- /terms/ink-window
 
 ----
 
 Source:
 
+- /sources/ink-Help
 - /sources/zdnet

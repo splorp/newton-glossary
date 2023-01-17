@@ -1,0 +1,15 @@
+Title: Ink Help
+
+----
+
+Date: 15 January 2023
+
+----
+
+Text:
+
+The built-in documentation for the [Ink](/terms/ink) handwriting recognition functionality that shipped with certain versions of Mac OS X.
+
+### Additional Information
+
+[Ink Help: Learn About Ink](https://helposx.apple.com/InkHelpR3/English/pgs2/about.html)

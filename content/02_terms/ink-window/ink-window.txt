@@ -1,0 +1,38 @@
+Title: Ink Window
+
+----
+
+Date: 15 January 2023
+
+----
+
+Text:
+
+A collapsible toolbar interface for the [Ink](/terms/inkwell) handwriting recognition system built into certain versions of Mac OS X. The Ink Bar provided quick access to various [preferences](/terms/preferences) and [modifier keys](/terms/modifier-keys).
+
+Also referred to as [InkBar](/terms/inkbar), [Ink Bar](/terms/ink-bar), and [Ink Toolbar](/terms/ink-toolbar).
+
+<img src="/assets/images/ink-window-2x.gif" alt="Screenshot of the floating Ink Window toolbar in Mac OS X Jaguar" width="258" />
+
+### Additional Information
+
+[Ink Help: Learn About Ink](https://helposx.apple.com/InkHelpR3/English/pgs2/about.html)
+
+----
+
+Related:
+
+- /terms/handwriting-recognition
+- /terms/ink
+- /terms/ink-bar
+- /terms/ink-pad
+- /terms/ink-toolbar
+- /terms/ink-window
+- /terms/inkbar
+- /terms/inkwell
+
+----
+
+Source:
+
+- /sources/ink-help

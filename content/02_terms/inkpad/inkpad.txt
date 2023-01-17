@@ -8,20 +8,7 @@ Date:
 
 Text:
 
-A simple interface contained in a floating window where written input is converted into editable text when using the [Inkwell](/terms/inkwell) handwriting recognition system.
-
-_This entry requires a screenshot._
-
-----
-
-Related:
-
-- /terms/handwriting-recognition
-- /terms/ink
-- /terms/inkbar
-- /terms/inkwell
-- /terms/rosetta
-- /terms/rosetta-stone
+See [Ink Pad](/terms/ink-pad)
 
 ----
 

@@ -20,9 +20,9 @@ Related:
 - /terms/egg-freckles
 - /terms/handwriting-recognition
 - /terms/ink
-- /terms/inkbar
 - /terms/inker
-- /terms/inkpad
+- /terms/ink-pad
+- /terms/ink-window
 - /terms/inkwell
 - /terms/mondello
 - /terms/neuropen

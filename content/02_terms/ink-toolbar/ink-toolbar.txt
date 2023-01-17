@@ -1,8 +1,8 @@
-Title: InkBar
+Title: Ink Toolbar
 
 ----
 
-Date:
+Date: 15 January 2023
 
 ----
 
@@ -14,4 +14,4 @@ See [Ink Window](/terms/ink-window)
 
 Source:
 
-- /sources/zdnet
+- /sources/ink-help

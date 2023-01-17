@@ -1,8 +1,8 @@
-Title: InkBar
+Title: Ink Bar
 
 ----
 
-Date:
+Date: 15 January 2023
 
 ----
 

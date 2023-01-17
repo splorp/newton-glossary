@@ -1,0 +1,35 @@
+Title: Ink Pad
+
+----
+
+Date: 15 January 2023
+
+----
+
+Text:
+
+An area of the [Ink Window](/terms/ink-window) where written input is converted into editable text using the [Ink](/terms/ink) handwriting recognition system on certain versions of Mca OS X. The Ink Window can also be used to insert drawn sketches into documents.
+
+Also referred to as [InkPad](/terms/inkpad).
+
+_This entry requires a screenshot._
+
+### Additional Information
+
+[Ink Help: Learn About Ink](https://helposx.apple.com/InkHelpR3/English/pgs2/about.html)
+
+----
+
+Related:
+
+- /terms/handwriting-recognition
+- /terms/ink
+- /terms/inkpad
+- /terms/ink-window
+- /terms/inkwell
+
+----
+
+Source:
+
+- /sources/ink-help
