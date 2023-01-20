@@ -14,4 +14,5 @@ See [Ink Window](/terms/ink-window)
 
 Source:
 
+- /sources/ink-help
 - /sources/zdnet
