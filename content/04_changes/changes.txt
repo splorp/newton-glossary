@@ -18,14 +18,16 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
-### _$v
+### 3.0.6
 
-Terms: _$t
-Sources: _$s
+20 January 2022
+
+Terms: 1,300
+Sources: 137
 
 #### Summary of changes:
 
-+ Added 4 new terms
++ Added 5 new terms
 + Added 1 new source
 + Updated and expanded several existing entries
 + Updated all screenshots and images for HiDPI screens
