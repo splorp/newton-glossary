@@ -26,6 +26,7 @@ Sources: _$s
 #### Summary of changes:
 
 + Updated [Kirby](https://getkirby.com/) to version [3.9.0](https://github.com/getkirby/kirby/releases/tag/3.9.0)
++ Added term and source specific keywords to the page `<meta>`
 
 ### 3.0.6
 

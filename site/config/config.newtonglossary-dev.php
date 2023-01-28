@@ -84,7 +84,9 @@ return [
 						? $page->description()
 						: $page->text()->excerpt(175)
 					),
-				'keywords' => $site->keywords()
+				'keywords' => $page->isChildOf('terms') || $page->isChildOf('sources')
+					? $page->title()->lower() . ', ' . $site->keywords()
+					: $site->keywords()
 			],
 			'link' => [
 				'canonical' => $page->url()
