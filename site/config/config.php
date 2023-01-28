@@ -39,7 +39,7 @@ return [
 	'routes' => [
 		[
 			'pattern' => 'sitemap.xml',
-			'action'	=> function() {
+			'action' => function() {
 					$pages = site()->pages()->index();
 
 					// Fetch list of pages to ignore from the config file
@@ -54,14 +54,14 @@ return [
 		],
 		[
 			'pattern' => 'sitemap',
-			'action'	=> function() {
+			'action' => function() {
 				return go('sitemap.xml', 301);
 			}
 		],
 		[
 			'pattern' => 'sitemap.xsl',
-			'method'  => 'GET',
-			'action'  => function() {
+			'method' => 'GET',
+			'action' => function() {
 				$stylesheet = f::read(kirby()->root('snippets') . '/sitemap.xsl');
 				return new response($stylesheet, 'xsl');
 			}
