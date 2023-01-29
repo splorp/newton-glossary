@@ -15,9 +15,17 @@ A [view](/terms/view) in which a user specifies the sender, recipient, format, a
 Related:
 
 - /terms/action-picker
+- /terms/call-slip
+- /terms/confirmation-slip
+- /terms/find-slip
+- /terms/folder-slip
+- /terms/item-info-slip
+- /terms/memory-info-slip
+- /terms/notification-slip
 - /terms/routing
 - /terms/routing-format
 - /terms/slip
+- /terms/status-slip
 
 ----
 

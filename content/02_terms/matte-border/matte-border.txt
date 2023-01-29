@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A visually distinct [Newton user interface](/terms/newton-user-interface) element consisting of a thick grey border framed with black.
+A visually distinct [Newton user interface](/terms/newton-user-interface) element consisting of a thick grey border framed with black. A [slip](/terms/slip) will commonly use a matte border.
 
 ----
 

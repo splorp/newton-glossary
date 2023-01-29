@@ -17,6 +17,14 @@ A [view](/terms/view) displayed by an [application](/terms/application) when it 
 Related:
 
 - /terms/blinking-star
+- /terms/call-slip
+- /terms/confirmation-slip
+- /terms/find-slip
+- /terms/folder-slip
+- /terms/item-info-slip
+- /terms/memory-info-slip
+- /terms/notification-slip
+- /terms/routing-slip
 - /terms/slip
 - /terms/status-bar
 - /terms/status-box

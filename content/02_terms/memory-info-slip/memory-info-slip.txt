@@ -16,9 +16,17 @@ _This entry requires a screenshot._
 
 Related:
 
+- /terms/call-slip
+- /terms/confirmation-slip
 - /terms/container-view
+- /terms/find-slip
+- /terms/folder-slip
+- /terms/item-info-slip
+- /terms/notification-slip
 - /terms/ram
+- /terms/routing-slip
 - /terms/slip
+- /terms/status-slip
 - /terms/system-ram
 - /terms/user-interface
 

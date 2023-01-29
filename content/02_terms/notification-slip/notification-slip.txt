@@ -16,9 +16,17 @@ Related:
 
 - /terms/alert-box
 - /terms/alert-sound
+- /terms/call-slip
+- /terms/confirmation-slip
+- /terms/find-slip
+- /terms/folder-slip
+- /terms/item-info-slip
+- /terms/memory-info-slip
+- /terms/routing-slip
 - /terms/slip
-- /terms/view
+- /terms/status-slip
 - /terms/user-interface
+- /terms/view
 
 ----
 
