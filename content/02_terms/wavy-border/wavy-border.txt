@@ -10,6 +10,8 @@ Text:
 
 A visually distinct [Newton user interface](/terms/newton-user-interface) element consisting of an animated, undulating line bordering an [alert box](/terms/alert-box).
 
+<img src="/assets/images/wavy-border-2x.gif" alt="Screenshot of on Alert Box with a Wavy Border" width="208" />
+
 ----
 
 Related:

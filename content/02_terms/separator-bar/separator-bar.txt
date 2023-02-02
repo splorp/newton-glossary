@@ -12,7 +12,7 @@ A thick black [line](/terms/line) located at the top of each item in a [view](/t
 
 Also referred to as a [divider bar](/terms/divider-bar).
 
-_This entry requires a screenshot._
+<img src="/assets/images/separator-bar-2x.gif" alt="Screenshot of a Separator Bar in the Notepad application" width="316" />
 
 ----
 
