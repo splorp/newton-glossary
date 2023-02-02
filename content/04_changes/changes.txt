@@ -27,7 +27,7 @@ Sources: _$s
 
 + Added 1 new term
 + Updated and expanded dozens of existing entries
-+ Updated [Kirby](https://getkirby.com/) to version [3.9.0](https://github.com/getkirby/kirby/releases/tag/3.9.0)
++ Updated [Kirby](https://getkirby.com/) to version [3.9.1](https://github.com/getkirby/kirby/releases/tag/3.9.1)
 + Added term and source specific keywords to the page meta
 
 ### 3.0.6
