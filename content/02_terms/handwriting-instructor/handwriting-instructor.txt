@@ -8,7 +8,9 @@ Date: 03 September 2017
 
 Text:
 
-The built-in [application](/terms/application) which provides an interactive tutorial with information regarding [handwriting recognition](/terms/handwriting-recognition) and setting the various [preferences](/terms/preferences) related to writing and drawing on a Newton device. Also referred to as [HW Instructor](/terms/hw-instructor).
+The built-in [application](/terms/application) which provides an interactive tutorial with information regarding [handwriting recognition](/terms/handwriting-recognition) and setting the various [preferences](/terms/preferences) related to writing and drawing on a Newton device.
+
+Also referred to as [HW Instructor](/terms/hw-instructor).
 
 ----
 

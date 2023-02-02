@@ -8,7 +8,9 @@ Date:
 
 Text:
 
-The rules and conventions by which a device communicates and interacts with the person operating it. Commonly referred to as [UI](/terms/ui).
+The rules and conventions by which a device communicates and interacts with the person operating it.
+
+Commonly referred to as [UI](/terms/ui).
 
 ----
 

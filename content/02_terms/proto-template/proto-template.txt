@@ -8,7 +8,9 @@ Date:
 
 Text:
 
-A predefined [template](/terms/template) that defines the appearance and behaviour of standard [user interface](/terms/user-interface) elements, such as a [close box](/terms/close-box) or [status slip](/terms/status-slip). Also referred to as simply a [proto](/terms/proto).
+A predefined [template](/terms/template) that defines the appearance and behaviour of standard [user interface](/terms/user-interface) elements, such as a [close box](/terms/close-box) or [status slip](/terms/status-slip).
+
+Also referred to as simply a [proto](/terms/proto).
 
 ----
 

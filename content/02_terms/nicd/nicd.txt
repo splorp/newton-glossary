@@ -10,7 +10,9 @@ Text:
 
 Nickel Cadmium
 
-A rechargeable [battery](/terms/battery) technology that is susceptible to [memory effect](/terms/memory-effect), unlike [NiMH](/terms/nimh) batteries. Also referred to as a [NiCad](/terms/nicad) battery.
+A rechargeable [battery](/terms/battery) technology that is susceptible to [memory effect](/terms/memory-effect), unlike [NiMH](/terms/nimh) batteries.
+
+Also referred to as a [NiCad](/terms/nicad) battery.
 
 ----
 

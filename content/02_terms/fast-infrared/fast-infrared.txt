@@ -8,7 +8,9 @@ Date:
 
 Text:
 
-Transferring data using an [IrDA](/terms/irda)-compatible [infrared](/terms/infrared) connection at a rate up to 4 MBaud. As opposed to [Serial Infrared](/terms/serial-infrared) which only transfers data at a rate up to 115 kBaud. Fast Infrared is also referred to as [FIR](/terms/fir).
+Transferring data using an [IrDA](/terms/irda)-compatible [infrared](/terms/infrared) connection at a rate up to 4 MBaud. As opposed to [Serial Infrared](/terms/serial-infrared) which only transfers data at a rate up to 115 kBaud.
+
+Fast Infrared is also referred to as [FIR](/terms/fir).
 
 ### Additional Information
 

@@ -8,7 +8,9 @@ Date:
 
 Text:
 
-A hardware device that acts as a base station on a wireless network. Apple’s [Airport](/terms/airport) and the Digital Ocean [Grouper](/terms/grouper) are examples of such devices. Also referred to as a [WAP](/terms/wap).
+A hardware device that acts as a base station on a wireless network. Apple’s [Airport](/terms/airport) and the Digital Ocean [Grouper](/terms/grouper) are examples of such devices.
+
+Also referred to as a [WAP](/terms/wap).
 
 ----
 

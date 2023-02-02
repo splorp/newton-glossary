@@ -10,7 +10,9 @@ Text:
 
 The first Newton device to incorporate backlighting, the MessagePad 130 shares the same case styling as the [MessagePad 110](/terms/messagepad-110) and [MessagePad 120](/terms/messagepad-120). Improvements over the previous model included increased memory capacity, significantly larger [ROM](/terms/rom), a slightly textured [screen](/terms/screen) to better simulate a paper surface, and [Newton OS](/terms/newton-os) 2.0 installed as the standard [operating system](/terms/operating-system).
 
-The MessagePad 130 was code named [Dante](/terms/dante) in reference to the use of Newton OS 2.0 (also called Dante), as well as [Quark](/terms/quark). The MessagePad 130 is commonly referred to as an [MP130](/terms/mp130).
+The MessagePad 130 was code named [Dante](/terms/dante) in reference to the use of Newton OS 2.0 (also called Dante), as well as [Quark](/terms/quark).
+
+The MessagePad 130 is commonly referred to as an [MP130](/terms/mp130).
 
 ----
 

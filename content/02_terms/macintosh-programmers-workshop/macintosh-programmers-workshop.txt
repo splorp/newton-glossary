@@ -8,7 +8,9 @@ Date:
 
 Text:
 
-A comprehensive collection of core development tools from [Apple](https://www.apple.com/) designed to support C, C++, and assembly language programmers developing Mac OS software. Also referred to as [MPW](/terms/mpw).
+A comprehensive collection of core development tools from [Apple](https://www.apple.com/) designed to support C, C++, and assembly language programmers developing Mac OS software.
+
+Also referred to as [MPW](/terms/mpw).
 
 Macintosh Programmers Workshop is required by the [Newton C++ Toolbox](/terms/newton-c-toolbox) when creating C++ code for the Newton.
 

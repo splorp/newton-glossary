@@ -8,7 +8,9 @@ Date:
 
 Text:
 
-A complete [Macintosh Programmers Workshop](/terms/macintosh-programmers-workshop) development environment that facilitates creating C++ code for the Newton. Also referred to as [NCT](/terms/nct).
+A complete [Macintosh Programmers Workshop](/terms/macintosh-programmers-workshop) development environment that facilitates creating C++ code for the Newton.
+
+Also referred to as [NCT](/terms/nct).
 
 ----
 

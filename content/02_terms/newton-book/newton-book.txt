@@ -8,7 +8,9 @@ Date:
 
 Text:
 
-An electronic document designed to be viewed on a Newton device. A Newton book is created using software such as [Newton Press](/terms/newton-press) or [Newton Book Maker](/terms/newton-book-maker) and delivered as an installable [package](/terms/package). Also referred to as a [Newton Digital Book](/terms/newton-digital-book).
+An electronic document designed to be viewed on a Newton device. A Newton book is created using software such as [Newton Press](/terms/newton-press) or [Newton Book Maker](/terms/newton-book-maker) and delivered as an installable [package](/terms/package).
+
+Also referred to as a [Newton Digital Book](/terms/newton-digital-book).
 
 ----
 

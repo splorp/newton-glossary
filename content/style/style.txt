@@ -38,6 +38,8 @@ _Examples:_
 
 ### Referring to other terms
 
+Generally, “referred to” text should be set as its own paragraph, unless they are part of a longer, more detailed sentence and fit better with the main description text.
+
 _Examples:_
 
 + Also referred to as …

@@ -8,7 +8,9 @@ Date:
 
 Text:
 
-A sequence of numerically indexed [slots](/terms/slot) that contain [objects](/terms/object). The first element is indexed by zero. Like other nonimmediate objects, an array can have a user-specified [class](/terms/class), and can have its length changed dynamically. Also referred to as [Array Elements](/terms/array-elements).
+A sequence of numerically indexed [slots](/terms/slot) that contain [objects](/terms/object). The first element is indexed by zero. Like other nonimmediate objects, an array can have a user-specified [class](/terms/class), and can have its length changed dynamically.
+
+Also referred to as [Array Elements](/terms/array-elements).
 
 ----
 

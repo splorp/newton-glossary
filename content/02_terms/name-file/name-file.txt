@@ -8,7 +8,9 @@ Date:
 
 Text:
 
-The built-in [application](/terms/application) for storing and organizing information related to a list of contacts. The name, address, telephone number, and other information pertaining to a contact is displayed on a [view](/terms/view) known as a [card](/terms/card). Also referred to as [Names](/terms/names).
+The built-in [application](/terms/application) for storing and organizing information related to a list of contacts. The name, address, telephone number, and other information pertaining to a contact is displayed on a [view](/terms/view) known as a [card](/terms/card).
+
+Also referred to as [Names](/terms/names).
 
 ----
 
