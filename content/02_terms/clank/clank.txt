@@ -16,11 +16,14 @@ Also referred to as [Clanking](/terms/clanking) in the [NetHopper](/terms/nethop
 
 Related:
 
+- /terms/broink
 - /terms/clanking
 - /terms/local-scroll-arrows
+- /terms/poof
 - /terms/scroll
 - /terms/scroll-arrows
 - /terms/scrolling-list
+- /terms/squeak
 - /terms/universal-scroll-arrows
 
 ----

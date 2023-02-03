@@ -15,6 +15,7 @@ The sound made by a Newton device after pressing and holding the [pen](/terms/pe
 Related:
 
 - /terms/broink
+- /terms/clank
 - /terms/heavy-mark
 - /terms/highlight
 - /terms/pen

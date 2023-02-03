@@ -15,6 +15,7 @@ The distinct sound made by an [eMate](/terms/emate-300) when the hinge tension s
 Related:
 
 - /terms/clamshell
+- /terms/clank
 - /terms/dhp
 - /terms/display
 - /terms/emate-300
