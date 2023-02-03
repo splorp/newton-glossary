@@ -76,7 +76,9 @@ return [
 	'splorp.paperback-export.includeDatestamp' => true,
 	'pedroborges.meta-tags.default' => function ($page, $site) {
 		return [
-			'title' => $site->title() . ' — ' . $page->title(),
+			'title' => $page->isHomePage()
+					? $site->title() . ' — ' . $site->description()
+					: $site->title() . ' — ' . $page->title(),
 			'meta' => [
 				'description' => $page->isHomePage()
 					? $site->description()
