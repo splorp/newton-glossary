@@ -27,8 +27,8 @@ Sources: _$s
 
 + Added 1 new term
 + Updated and expanded dozens of existing entries
++ Removed keywords from the page meta because [SEO ruined everything](https://ahrefs.com/blog/meta-keywords/)
 + Updated [Kirby](https://getkirby.com/) to version [3.9.1](https://github.com/getkirby/kirby/releases/tag/3.9.1)
-+ Added term and source specific keywords to the page meta
 
 ### 3.0.6
 
@@ -57,10 +57,10 @@ Sources: 136
 
 + Added 1 new term
 + Updated and expanded several existing entries
++ Added a <a href="http://microformats.org/wiki/rel-me">rel="me"</a> link to the page meta for <a href="https://mastodon.social/@splorp">Mastodon</a> profile verification
 + Updated [Kirby](https://getkirby.com/) to version [3.8.2](https://github.com/getkirby/kirby/releases/tag/3.8.2)
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.1.2
 + Updated [Cachebuster](https://github.com/schnti/kirby3-cachebuster) plugin to version [1.0.3](https://github.com/schnti/kirby3-cachebuster/releases/tag/1.0.3)
-+ Added a <a href="http://microformats.org/wiki/rel-me">rel="me"</a> link to the page meta for <a href="https://mastodon.social/@splorp">Mastodon</a> profile verification
 
 ### 3.0.4
 
@@ -189,9 +189,9 @@ Sources: 128
 + Added 6 new sources
 + Updated and expanded dozens of existing entries
 + Improved heading and subheading hierarchy because semantics
-+ Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin to version [1.1.1](https://github.com/pedroborges/kirby-meta-tags/releases/tag/v1.1.1)
-+ Updated [Kirby](https://getkirby.com/) to version [2.5.12](https://web.archive.org/web/20180717154912/https://getkirby.com/changelog/kirby-2-5-12)
 + All page requests are now redirected to HTTPS
++ Updated [Kirby](https://getkirby.com/) to version [2.5.12](https://web.archive.org/web/20180717154912/https://getkirby.com/changelog/kirby-2-5-12)
++ Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin to version [1.1.1](https://github.com/pedroborges/kirby-meta-tags/releases/tag/v1.1.1)
 
 ### 2.4.3
 
@@ -219,9 +219,9 @@ Sources: 119
 + Added 59 new terms
 + Added 10 new sources
 + Updated and expanded dozens of existing entries
-+ Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin to version [1.0.0](https://github.com/pedroborges/kirby-meta-tags/releases/tag/v1.0.0)
 + Removed contextual header elements from page templates
 + Updated [Kirby](https://getkirby.com/) to version [2.5.7](https://getkirby.com/changelog/kirby-2-5-7)
++ Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin to version [1.0.0](https://github.com/pedroborges/kirby-meta-tags/releases/tag/v1.0.0)
 
 ### 2.4.1
 
@@ -239,8 +239,8 @@ Sources: 109
 + Added current version number to footer
 + Added title attributes to main navigational links
 + Improved handling of UTF-8 encoded characters in alphabetical listings
-+ Implemented [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin
 + Updated [Kirby](https://getkirby.com/) to version [2.5.6](https://web.archive.org/web/20180625101533/https://getkirby.com/changelog/kirby-2-5-6)
++ Implemented [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin
 
 ### 2.4.0
 
@@ -268,9 +268,9 @@ Sources: 106
 + Added 58 new terms
 + Added 8 new sources
 + Updated and expanded dozens of existing entries
++ Updated site and mobile device icons
 + Implemented [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin
 + Added [Open Graph](https://ogp.me/) and [Twitter Cards](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started) meta tag support
-+ Updated site and mobile device icons
 
 ### 2.3.0
 
@@ -304,10 +304,10 @@ Sources: 95
 + Added 36 new terms
 + Added 5 new sources
 + Updated and expanded dozens of existing entries
-+ Updated [Kirby](https://getkirby.com/) to version [2.4.1](https://web.archive.org/web/20181023132058/https://getkirby.com/changelog/kirby-2-4-1)
 + Tweaked image display on individual [terms](/terms) and [sources](/sources)
 + Changed lists to use contextual singular and plural subheads
 + [Search](/search) now returns more useful results based on the title field
++ Updated [Kirby](https://getkirby.com/) to version [2.4.1](https://web.archive.org/web/20181023132058/https://getkirby.com/changelog/kirby-2-4-1)
 
 ### 2.2.0
 
@@ -320,8 +320,8 @@ Sources: 90
 
 + Added 22 new terms
 + Updated and expanded dozens of existing entries
-+ Updated [Kirby](https://getkirby.com/) to version [2.4.0](https://web.archive.org/web/20170711044134/https://getkirby.com/changelog/kirby-2-4-0)
 + Fixed linespacing for inline code snippets
++ Updated [Kirby](https://getkirby.com/) to version [2.4.0](https://web.archive.org/web/20170711044134/https://getkirby.com/changelog/kirby-2-4-0)
 
 ### 2.1.1
 
@@ -335,9 +335,9 @@ Sources: 90
 + Added 30 new terms
 + Added 7 new sources
 + Updated and expanded dozens of existing entries
-+ Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.0.9
 + Numerical entries now appear at the top of the [terms](/terms) and [sources](/sources) pages
 + Focus is now automatically set on the [search](/search) field
++ Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.0.9
 
 ### 2.1.0
 
@@ -351,13 +351,13 @@ Sources: 83
 + Added 16 new terms
 + Added 2 new sources
 + Updated and expanded dozens of existing entries
++ Fixed outdated links on the [about](/about) page
++ Added rudimentary [search](/search) functionality
++ Simplified previous and next page navigation
 + Updated [Kirby](https://getkirby.com/) to version [2.3.2](https://web.archive.org/web/20170711105740/https://getkirby.com/changelog/kirby-2-3-2)
 + Updated [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) plugin to version 0.0.8
 + Implemented [Cachebuster](https://github.com/getkirby-v2/cachebuster-plugin) plugin to add timestamps to .css and .js files
 + Deprecated [Related Pages](https://github.com/getkirby-v1/plugins/tree/master/plugins/related) plugin
-+ Fixed outdated links on the [about](/about) page
-+ Added rudimentary [search](/search) functionality
-+ Simplified previous and next page navigation
 
 ### 2.0.0
 
