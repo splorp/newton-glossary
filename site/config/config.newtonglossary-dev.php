@@ -18,7 +18,7 @@ http://getkirby.com/license
 Kirby Configuration
 ---------------------------------------
 
-http://getkirby.com/docs/advanced/options
+https://getkirby.com/docs/reference/system/options
 
 */
 

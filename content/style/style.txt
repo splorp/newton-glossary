@@ -125,7 +125,7 @@ When linking to a specific article or resource on a website, use the full name o
 
 _For example:_
 
-+ [UNNA: The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf) (PDF)
++ [UNNA: The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf)
 + [Wikipedia: GeoPort](https://en.wikipedia.org/wiki/GeoPort)
 
 If the link points to an Internet Archive mirror of the original website, article, or resource, prefix the link text as such.
