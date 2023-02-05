@@ -12,11 +12,13 @@ A Newton device developed by [Schlumberger](http://www.slb.com/) as a dedicated,
 
 A third-party device that utilizes a licensed version of [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
 
-### Additional Information
+----
 
-[My Apple Newton: Schlumberger Watson: The Newton I Forgot](http://myapplenewton.blogspot.ca/2010/05/schlumberger-watson-newton-i-forgot.html)
-[Sylvain Pilet: Mon cher Watson, quel est votre secret?](http://message-pad.net/mon-cher-watson-quel-est-votre-secret/)
-[Internet Archive: Newton OS Computers from Licensees](https://web.archive.org/web/19980204042814/http://www.newton.apple.com/product_info/devices/devices.html)
+Resource:
+
+- [My Apple Newton: Schlumberger Watson: The Newton I Forgot](http://myapplenewton.blogspot.ca/2010/05/schlumberger-watson-newton-i-forgot.html)
+- [Sylvain Pilet: Mon cher Watson, quel est votre secret?](http://message-pad.net/mon-cher-watson-quel-est-votre-secret/)
+- [Internet Archive: Newton OS Computers from Licensees](https://web.archive.org/web/19980204042814/http://www.newton.apple.com/product_info/devices/devices.html)
 
 ----
 

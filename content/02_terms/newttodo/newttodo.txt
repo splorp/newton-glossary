@@ -12,9 +12,11 @@ An [application](/terms/application) developed by [Adam Tow](/sources/adam-tow) 
 
 <img src="/assets/images/newttodo-2x.gif" alt="Screenshot of newtToDo" width="288" />
 
-### Additional Information
+----
 
-[Adam Tow: Newton Software](https://tow.com/projects/newton/)
+Resource:
+
+- [Adam Tow: Newton Software](https://tow.com/projects/newton/)
 
 ----
 

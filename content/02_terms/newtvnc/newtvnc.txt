@@ -12,9 +12,11 @@ A [VNC](/terms/vnc) client and server for [Newton OS](/terms/newton-os) develope
 
 <img src="/assets/images/newtvnc-client-2x.gif" alt="Screenshot of newtVNC connected to a PC computer running Windows 95" width="322" />
 
-### Additional Information
+----
 
-[CommuniCrossings: NewtDevENnv Product Information](http://communicrossings.com/html/newton/vnc.htm)
+Resource:
+
+- [CommuniCrossings: NewtDevENnv Product Information](http://communicrossings.com/html/newton/vnc.htm)
 
 ----
 

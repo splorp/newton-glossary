@@ -10,10 +10,12 @@ Text:
 
 The document format (or [stationery](/terms/stationery)) used by the word processor component of the [Newton Works](/terms/newton-works) application. The Newton Works word processor does not utilize [handwriting recognition](/terms/handwriting-recognition), so text must be entered into the word processor using a keyboard.
 
-### Additional Information
+----
 
-[UNNA: Newton Works Word Processor User’s Manual](http://www.unna.org/unna/apple/documentation/software/NewtonWorksManual.pdf) (PDF)
-[UNNA: The eMate: Learning Works](http://www.unna.org/unna/apple/documentation/eMateISTE-Basics/works.pdf) (PDF)
+Resource:
+
+- [UNNA: Newton Works Word Processor User’s Manual](http://www.unna.org/unna/apple/documentation/software/NewtonWorksManual.pdf)
+- [UNNA: The eMate: Learning Works](http://www.unna.org/unna/apple/documentation/eMateISTE-Basics/works.pdf)
 
 ----
 

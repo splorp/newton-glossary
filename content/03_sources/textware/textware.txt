@@ -10,6 +10,8 @@ Text:
 
 A software development company specializing in text input software for Windows, Newton, and Palm platforms. Textware products include the [Instant Text](http://www.fitaly.com/product/version7.htm) text expansion utility and the [Fitaly](/terms/fitaly) onscreen keyboard.
 
-### Additional Information
+----
 
-[Textware Solutions Website](http://www.textware.com/)
+Resource:
+
+- [Textware Solutions Website](http://www.textware.com/)

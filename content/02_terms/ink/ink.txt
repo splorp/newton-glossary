@@ -12,9 +12,11 @@ The raw data created from user input drawn with the [pen](/terms/pen) on a Newto
 
 Ink is also the transplanted Newton [handwriting recognition](/terms/handwriting-recognition) system found in certain versions of Mac OS X. Originally known as [Inkwell](/terms/inkwell), the Ink interface consisted of a floating [Ink Window](/terms/ink-window) toolbar and the [Ink Pad](/terms/ink-pad) where the user could write and draw.
 
-### Additional Information
+----
 
-[Ink Help: Learn About Ink](https://helposx.apple.com/InkHelpR3/English/pgs2/about.html)
+Resource:
+
+- [Ink Help: Learn About Ink](https://helposx.apple.com/InkHelpR3/English/pgs2/about.html)
 
 ----
 

@@ -10,6 +10,8 @@ Text:
 
 Established in 1986 as a politically independent national newspaper, the print version of The Independant was published in London until March 2016. It continues today as an online publication.
 
-### Additional Information
+----
 
-[The Independant Website](https://www.independent.co.uk/)
+Resource:
+
+- [The Independant Website](https://www.independent.co.uk/)

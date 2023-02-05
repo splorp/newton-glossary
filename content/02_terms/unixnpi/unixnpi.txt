@@ -12,12 +12,14 @@ A command line utility for Unix [operating systems](/terms/operating-system) tha
 
 [NewTen](/terms/newten) is a version of UnixNPI that has been wrapped in a [graphical user interface](/terms/graphical-user-interface) for Mac OS X.
 
-### Additional Information
+----
 
-[UnixNPI Website](http://unixnpi.sourceforge.net/)
-[GitHub: UnixNPI](https://github.com/chuma/unixnpi)
-[Internet Archive: UnixNPI Product Information](https://web.archive.org/web/20121030074828/http://www.ee.cityu.edu.hk/~clli/unixnpi.html)
-[Linux PPC Archives: Newton and LinuxPPC](http://marc.info/?l=linux-ppc&m=99252770404113&w=2)
+Resource:
+
+- [UnixNPI Website](http://unixnpi.sourceforge.net/)
+- [GitHub: UnixNPI](https://github.com/chuma/unixnpi)
+- [Internet Archive: UnixNPI Product Information](https://web.archive.org/web/20121030074828/http://www.ee.cityu.edu.hk/~clli/unixnpi.html)
+- [Linux PPC Archives: Newton and LinuxPPC](http://marc.info/?l=linux-ppc&m=99252770404113&w=2)
 
 ----
 

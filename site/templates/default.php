@@ -10,6 +10,13 @@
 
 		<?php $page->isChildOf($pages->find('terms')) || $page->isChildOf($pages->find('sources')) ? '' : snippet('submenu'); ?>
 	
+		<?php if($page->resource()->exists()): ?>
+		<?php echo '<h3 class="src">Additional Information</h3>'; ?>
+		<?php $n=0; foreach($page->resource()->markdown() as $resource): $n++; ?>
+		<?php echo $resource; ?>
+		<?php endforeach ?>
+		<?php endif ?>
+
 		<?php if($page->source()->exists()): ?>
 		<?php if($page->source()->toPages()->count() > 1) { echo '<h3>Sources</h3>'; } else { echo '<h3>Source</h3>'; } ?>
 		<ul class="src">

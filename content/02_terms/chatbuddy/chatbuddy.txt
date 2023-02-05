@@ -12,9 +12,11 @@ An Internet Relay Chat (IRC) client for [Newton OS](/terms/newton-os) developed 
 
 <img src="/assets/images/chatbuddy-2x.gif" alt="Screenshot of ChatBuddy" width="240" />
 
-### Additional Information
+----
 
-[Internet Archive: ChatBuddy Product Information](https://web.archive.org/web/20101124134430/http://www.tactile.com/chatBuddy.html)
+Resource:
+
+- [Internet Archive: ChatBuddy Product Information](https://web.archive.org/web/20101124134430/http://www.tactile.com/chatBuddy.html)
 
 ----
 

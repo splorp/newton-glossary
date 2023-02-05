@@ -12,10 +12,12 @@ The conversion of text into spoken audio through some means of speech synthesis.
 
 Also referred to as [TTS](/terms/tts).
 
-### Additional Information
+----
 
-[Newton Underground: How to Work with the Text-to-Speech Extension](http://communicrossings.com/html/newton/newtscape/docs/a0000003.shtml)
-[Newton Underground: More Newton Text to Speech](http://communicrossings.com/html/newton/newtscape/docs/a0000004.shtml)
+Resource:
+
+- [Newton Underground: How to Work with the Text-to-Speech Extension](http://communicrossings.com/html/newton/newtscape/docs/a0000003.shtml)
+- [Newton Underground: More Newton Text to Speech](http://communicrossings.com/html/newton/newtscape/docs/a0000004.shtml)
 
 ----
 

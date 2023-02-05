@@ -10,10 +10,12 @@ Text:
 
 A [PC card](/terms/pc-card) peripheral by [EZShow Systems](/sources/ezshow-systems) that provides composite, S-Video, and VGA video output when used with a [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), or [eMate 300](/terms/emate-300) device. The EZ2TV is the more capable cousin of the [EZ2VGA](/terms/ez2vga) card, which can supply VGA output only.
 
-### Additional Information
+----
 
-[Internet Archive: EZ2TV Product Information](https://web.archive.org/web/19980201053229/http://ezshow.com/ez2tv.htm)
-[Internet Archive: Dr Clu’s EZ2TV Review Page](http://web.archive.org/web/20091021223950/http://geocities.com/doctor_clu/EZ2TV.html)
+Resource:
+
+- [Internet Archive: EZ2TV Product Information](https://web.archive.org/web/19980201053229/http://ezshow.com/ez2tv.htm)
+- [Internet Archive: Dr Clu’s EZ2TV Review Page](http://web.archive.org/web/20091021223950/http://geocities.com/doctor_clu/EZ2TV.html)
 
 ----
 

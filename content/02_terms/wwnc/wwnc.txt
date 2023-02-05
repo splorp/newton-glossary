@@ -12,9 +12,11 @@ Worldwide Newton Conference
 
 A sporadic gathering of Newton users, developers, and aficionados that featured presentations, workshops, demonstrations, and various social gatherings. The inaugural conference was held in Paris in 2004, presented by the now defunct Worldwide Newton Association ([WWNA](/terms/wwna)). Subsequent events took place in San Francisco (2006), Tokyo (2007), and Vancouver (2009).
 
-### Additional Information
+----
 
-[Worldwide Newton Conference Website](http://wwnc.newtontalk.net/)
+Resource:
+
+- [Worldwide Newton Conference Website](http://wwnc.newtontalk.net/)
 
 ----
 

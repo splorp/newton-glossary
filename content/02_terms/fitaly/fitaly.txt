@@ -14,10 +14,12 @@ Versions of Fitaly were also available for Windows and Palm platforms.
 
 <img src="/assets/images/fitaly-with-number-pad-2x.gif" alt="Screenshot of the Fitaly Keyboard" width="237" />
 
-### Additional Information
+----
 
-[Textware Solutions: The Fitaly One-Finger Keyboard](http://www.fitaly.com/fitaly/fitaly.htm)
-[Textware Solutions: The Fitaly Keyboard for the Newton](http://www.fitaly.com/newton/newtfitaly.htm)
+Resource:
+
+- [Textware Solutions: The Fitaly One-Finger Keyboard](http://www.fitaly.com/fitaly/fitaly.htm)
+- [Textware Solutions: The Fitaly Keyboard for the Newton](http://www.fitaly.com/newton/newtfitaly.htm)
 
 ----
 

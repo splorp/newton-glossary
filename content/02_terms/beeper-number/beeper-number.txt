@@ -10,10 +10,12 @@ Text:
 
 An alternate name for the seven-digit personal identification number or [PIN](/terms/pin) associated with an [Apple Wireless Messaging Service](/terms/apple-wireless-messaging-service) account. The term “beeper” is derived from the sound made by old school wireless paging devices when receiving a message.
 
-### Additional Information
+----
 
-[Internet Archive: Apple Wireless Messaging Service: How To Use](https://web.archive.org/web/20020220091441/http://karchive.info.apple.com/article.html?artnum=13646)
-[Apple Support: Apple Wireless Messaging Service: No Area Code In PIN](https://support.apple.com/kb/TA33418)
+Resource:
+
+- [Internet Archive: Apple Wireless Messaging Service: How To Use](https://web.archive.org/web/20020220091441/http://karchive.info.apple.com/article.html?artnum=13646)
+- [Apple Support: Apple Wireless Messaging Service: No Area Code In PIN](https://support.apple.com/kb/TA33418)
 
 ----
 

@@ -10,8 +10,10 @@ Text:
 
 Proprietor of [Logic Tools](https://web.archive.org/web/19990224041921/http://www.logictools.de/) and developer of several software titles for both Mac OS and [Newton OS](/terms/newton-os). Müller was partly responsible for writing software for the [Siemens Online Terminal](/terms/siemens-online-terminal) and was a founder of the Unabhängige Newton User Group München (UNUGMUC).
 
-### Additional Information
+----
 
-[Internet Archive: Logic Tools Newton](https://web.archive.org/web/20010412025527/http://www.logictools.de/newton/) (German)
-[Internet Archive: Logic Tools Newton](https://web.archive.org/web/20010420133600/http://www.logictools.de/newton/english/) (English)
-[NewtonTalk: Michael Homscheidt on the story of Nick](http://lists.newtontalk.net/pipermail/newtontalk/2021-April/000713.html)
+Resource:
+
+- [Internet Archive: Logic Tools Newton](https://web.archive.org/web/20010412025527/http://www.logictools.de/newton/) (German)
+- [Internet Archive: Logic Tools Newton](https://web.archive.org/web/20010420133600/http://www.logictools.de/newton/english/) (English)
+- [NewtonTalk: Michael Homscheidt on the story of Nick](http://lists.newtontalk.net/pipermail/newtontalk/2021-April/000713.html)

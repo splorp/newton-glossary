@@ -10,9 +10,11 @@ Text:
 
 An online service used by [Apple](https://www.apple.com/) between 1986 and 1994 to support and provide information to employees, dealers, developers, and end users. Newton devices could exchange messages with [AppleLink](/terms/applelink) using the [NewtonMail](/terms/newtonmail) service. AppleLink was eventually superseded by the short lived [eWorld](/terms/eworld) service in 1994.
 
-### Additional Information
+----
 
-[Wikipedia: AppleLink](https://en.wikipedia.org/wiki/AppleLink)
+Resource:
+
+- [Wikipedia: AppleLink](https://en.wikipedia.org/wiki/AppleLink)
 
 ----
 

@@ -12,9 +12,11 @@ Transferring data using an [IrDA](/terms/irda)-compatible [infrared](/terms/infr
 
 Fast Infrared is also referred to as [FIR](/terms/fir).
 
-### Additional Information
+----
 
-[Smart Dog Software: Newton IrDA White Paper](http://www.smartdogsw.com/backtalk/whitepaper.shtml)
+Resource:
+
+- [Smart Dog Software: Newton IrDA White Paper](http://www.smartdogsw.com/backtalk/whitepaper.shtml)
 
 ----
 

@@ -14,10 +14,12 @@ Also referred to as a [brain wipe](/terms/brain-wipe).
 
 Not to be confused with a [cold boot](/terms/cold-boot), which also removes any [system updates](/terms/system-update) that have been installed.
 
-### Additional Information
+----
 
-[Apple Support: Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
-[Newton Poetry: How To Reset Your Newton](http://newtonpoetry.com/2008/03/31/howto-reset-your-newton/)
+Resource:
+
+- [Apple Support: Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
+- [Newton Poetry: How To Reset Your Newton](http://newtonpoetry.com/2008/03/31/howto-reset-your-newton/)
 
 ----
 

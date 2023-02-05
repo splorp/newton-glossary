@@ -10,10 +10,12 @@ Text:
 
 A desktop [application](/terms/application) created by [John Del Pizzo](https://johndelpizzo.wordpress.com/) that allows a Newton device to [synchronize](/terms/synchronize) contact information between the [Name File](/terms/name-file) application and [Microsoft Entourage](https://en.wikipedia.org/wiki/Microsoft_Entourage).
 
-### Additional Information
+----
 
-[Internet Archive: Newtourage Product Information](https://web.archive.org/web/20040331135313/http://delcannsoftware.com/)
-[Internet Archive: Newtourage 0.7 User’s Guide](https://web.archive.org/web/20040327173743/http://www.delcannsoftware.com/downloads/Newtourage%20Users%20Guide.pdf) (PDF)
+Resource:
+
+- [Internet Archive: Newtourage Product Information](https://web.archive.org/web/20040331135313/http://delcannsoftware.com/)
+- [Internet Archive: Newtourage 0.7 User’s Guide](https://web.archive.org/web/20040327173743/http://www.delcannsoftware.com/downloads/Newtourage%20Users%20Guide.pdf)
 
 ----
 

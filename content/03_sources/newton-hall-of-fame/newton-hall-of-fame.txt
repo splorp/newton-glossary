@@ -10,6 +10,8 @@ Text:
 
 A page featuring prominent members of the Newton development, software, and evangelizing communities. Maintained by [Douglas B. Luckie](http://cf.psl.msu.edu/dluckie.html), the founder of the Michigan State Newton Users Group [MSNUG](/terms/msnug).
 
-### Additional Information
+----
 
-[MSNUG: Newton Hall of Fame](http://cf.psl.msu.edu/hallofame.htm)
+Resource:
+
+- [MSNUG: Newton Hall of Fame](http://cf.psl.msu.edu/hallofame.htm)

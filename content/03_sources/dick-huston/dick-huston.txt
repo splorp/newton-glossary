@@ -10,7 +10,9 @@ Text:
 
 One of the legendary Huston brothers, Apple employee #25, younger brother to [Cliff](/sources/cliff-huston). Often referred to as the “heroic” programmer who wrote the original Apple II floppy disc boot ROM, Dick returned to Apple as a member of Newton group where he worked on the [Newton Connection Kit](/terms/newton-connection-kit) and later iterations of the [Newton OS](/newton-os)
 
-### Additional Information
+----
 
-[Folklore: Scrooge McDuck](https://www.folklore.org/StoryView.py?project=Macintosh&story=Scrooge_McDuck.txt)
-[Internet Archive: Early Apple](https://web.archive.org/web/20120624223132/http://homepage.mac.com/cliff_huston/.public/Offering/Early_Apple.html)
+Resource:
+
+- [Folklore: Scrooge McDuck](https://www.folklore.org/StoryView.py?project=Macintosh&story=Scrooge_McDuck.txt)
+- [Internet Archive: Early Apple](https://web.archive.org/web/20120624223132/http://homepage.mac.com/cliff_huston/.public/Offering/Early_Apple.html)

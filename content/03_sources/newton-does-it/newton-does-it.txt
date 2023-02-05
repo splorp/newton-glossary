@@ -10,6 +10,8 @@ Text:
 
 A huge collection of links, resources, reviews, and other information pertaining to the Newton platform as compiled by Andree Dettmer.
 
-### Additional Information
+----
 
-[Newton Does It! Website](http://dettmer.maclab.org/newton/)
+Resource:
+
+- [Newton Does It! Website](http://dettmer.maclab.org/newton/)

@@ -10,6 +10,8 @@ Text:
 
 An established author, lecturer, and security technologist, Schneier is currently the Chief Technology Officer at [IBM Resilient](https://www.resilientsystems.com/) and a board member of the [Electronic Frontier Foundation](https://www.eff.org/). He is also the developer of the open source [Blowfish](/terms/blowfish) encryption algorithm.
 
-### Additional Information
+----
 
-[Schneier on Security Website](https://www.schneier.com/)
+Resource:
+
+- [Schneier on Security Website](https://www.schneier.com/)

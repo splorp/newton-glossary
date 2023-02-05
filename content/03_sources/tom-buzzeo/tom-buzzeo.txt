@@ -10,7 +10,9 @@ Text:
 
 Otherwise known by his online nom de plume “etherknot”, Tom is a self described “guardian of networks, acceptor of bribes” based in Canada.
 
-### Additional Information
+----
 
-[Keybase: Tom Buzzeo](https://keybase.io/etherkn0t)
-[Twitter: Etherknot](https://twitter.com/etherknot)
+Resource:
+
+- [Keybase: Tom Buzzeo](https://keybase.io/etherkn0t)
+- [Twitter: Etherknot](https://twitter.com/etherknot)

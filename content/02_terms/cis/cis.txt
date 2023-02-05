@@ -14,9 +14,11 @@ Information stored on a [PCMCIA](/terms/pcmcia) card that describes the formatti
 
 When a [PC card](/terms/pc-card) is unrecognized by a device, it is often due to the CIS information being missing or damaged.
 
-### Additional Information
+----
 
-[Wikipedia: Card Information Structure](https://en.wikipedia.org/wiki/PC_Card#Card_information_structure)
+Resource:
+
+- [Wikipedia: Card Information Structure](https://en.wikipedia.org/wiki/PC_Card#Card_information_structure)
 
 ----
 

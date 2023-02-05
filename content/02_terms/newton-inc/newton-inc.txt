@@ -10,10 +10,12 @@ Text:
 
 The short-lived subsidiary of [Apple](https://www.apple.com/) that was spun out of the [Newton Systems Group](/terms/newton-systems-group). Its focus was developing, marketing, and distributing products and technologies based on the [Newton OS](/terms/newton-os). The subsidiary was announced on May 22nd, 1997 and subsequently rolled back into Apple several months later, after the return of Steve Jobs.
 
-### Additional Information
+----
 
-[Internet Archive: Newton Inc. Website](https://web.archive.org/web/19980204041255/http://www.newton-inc.com/)
-[Internet Archive: Press Release: Apple Announces Newton Subsidiary](https://web.archive.org/web/19990117012938/http://product.info.apple.com/pr/press.releases/1997/q3/970522.pr.rel.newton.html)
+Resource:
+
+- [Internet Archive: Newton Inc. Website](https://web.archive.org/web/19980204041255/http://www.newton-inc.com/)
+- [Internet Archive: Press Release: Apple Announces Newton Subsidiary](https://web.archive.org/web/19990117012938/http://product.info.apple.com/pr/press.releases/1997/q3/970522.pr.rel.newton.html)
 
 ----
 

@@ -12,10 +12,12 @@ A method of [resetting](/terms/reset) the [Newton OS](/terms/newton-os) to its f
 
 Not to be confused with [hard reset](/terms/hard-reset) or [brain wipe](/terms/brain-wipe), which do not remove any [system updates](/terms/system-update).
 
-### Additional Information
+----
 
-[Apple Support: Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
-[Newton Poetry: How To Reset Your Newton](http://newtonpoetry.com/2008/03/31/howto-reset-your-newton/)
+Resource:
+
+- [Apple Support: Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
+- [Newton Poetry: How To Reset Your Newton](http://newtonpoetry.com/2008/03/31/howto-reset-your-newton/)
 
 ----
 

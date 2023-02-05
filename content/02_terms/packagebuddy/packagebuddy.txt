@@ -12,10 +12,12 @@ An application developed by [Tactile Systems](/sources/tactile) that allows the 
 
 <img src="/assets/images/packagebuddy-2x.gif" alt="Screenshot of PackageBuddy" width="214" />
 
-### Additional Information
+----
 
-[Internet Archive: PackageBuddy Product Information](https://web.archive.org/web/19980623090919/http://www.tactile.com/packageBuddy.html)
-[My Apple Newton: PackageBuddy is Your Friend](http://myapplenewton.blogspot.ca/2012/06/package-buddy-is-your-friend.html)
+Resource:
+
+- [Internet Archive: PackageBuddy Product Information](https://web.archive.org/web/19980623090919/http://www.tactile.com/packageBuddy.html)
+- [My Apple Newton: PackageBuddy is Your Friend](http://myapplenewton.blogspot.ca/2012/06/package-buddy-is-your-friend.html)
 
 ----
 

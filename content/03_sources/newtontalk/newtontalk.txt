@@ -12,9 +12,11 @@ A mailing list dedicated to the discussion of the Newton platform and other rela
 
 Founded in 1997 by Sean O’Shaughnessy, [NewtonTalk](/terms/newtontalk) was taken over by [Planet Newton](/terms/planet-newton) in 1999 until a catastrophic server failure in 2001. That same year, [Victor Rehorst](/sources/victor-rehorst) took over the list administration duties, subsequently [handing over the reigns](http://marc.info/?l=newtontalk&m=117493043507410&w=2) to [Grant Hutchinson](/sources/grant-hutchinson) in 2003.
 
-### Additional Information
+----
 
-[NewtonTalk Website](http://newtontalk.net/)
-[NewtonTalk FAQ](https://github.com/splorp/newtontalk-faq/blob/master/newtontalk-faq.md)
-[NewtonTalk Mailing List Archives](http://marc.info/?l=newtontalk)
-[Twitter: NewtonTalk](https://twitter.com/newtontalk)
+Resource:
+
+- [NewtonTalk Website](http://newtontalk.net/)
+- [NewtonTalk FAQ](https://github.com/splorp/newtontalk-faq/blob/master/newtontalk-faq.md)
+- [NewtonTalk Mailing List Archives](http://marc.info/?l=newtontalk)
+- [Twitter: NewtonTalk](https://twitter.com/newtontalk)

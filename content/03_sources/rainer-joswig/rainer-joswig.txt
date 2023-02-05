@@ -10,8 +10,10 @@ Text:
 
 A [Lisp](/terms/lisp) hacker and historian based in Germany.
 
-### Additional Information
+----
 
-[LispODROID Website](http://lispm.de/)
-[GitHub: Rainer Joswig](https://github.com/lispm)
-[Twitter: Rainer Joswig](https://twitter.com/rainerjoswig)
+Resource:
+
+- [LispODROID Website](http://lispm.de/)
+- [GitHub: Rainer Joswig](https://github.com/lispm)
+- [Twitter: Rainer Joswig](https://twitter.com/rainerjoswig)

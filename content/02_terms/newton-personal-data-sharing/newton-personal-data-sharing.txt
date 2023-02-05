@@ -12,10 +12,12 @@ A suite of software [packages](/terms/package) that will allow certain Newton de
 
 <img src="/assets/images/newton-personal-data-sharing-2x.gif" alt="Screenshot of the Newton Personal Data Sharing application" width="176" />
 
-### Additional Information
+----
 
-[Newton Personal Data Sharing Website](http://npds.free.fr/)
-[Twitter: Newton Personal Data Sharing](https://twitter.com/npds)
+Resource:
+
+- [Newton Personal Data Sharing Website](http://npds.free.fr/)
+- [Twitter: Newton Personal Data Sharing](https://twitter.com/npds)
 
 ----
 

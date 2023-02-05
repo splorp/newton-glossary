@@ -10,8 +10,10 @@ Text:
 
 A German software developer specializing in audio and music applications. Fritze is the creator of the [Newton Keyboard Enabler](/terms/Newton-keyboard-enabler).
 
-### Additional Information
+----
 
-[Sarnau Website](https://sarnau.com/)
-[GitHub: Markus Fritze](https://github.com/sarnau)
-[Twitter: Markus Fritze](https://github.com/sarnau)
+Resource:
+
+- [Sarnau Website](https://sarnau.com/)
+- [GitHub: Markus Fritze](https://github.com/sarnau)
+- [Twitter: Markus Fritze](https://github.com/sarnau)

@@ -12,9 +12,11 @@ Read The Fucking Manual
 
 A standard response when someone asks a question which could have easily answered if they had bothered to RTFM.
 
-### Additional Information
+----
 
-[WikiWikiWeb: RtFm](http://wiki.c2.com/?RtFm)
+Resource:
+
+- [WikiWikiWeb: RtFm](http://wiki.c2.com/?RtFm)
 
 ----
 

@@ -14,9 +14,11 @@ Also referred to as [InkPad](/terms/inkpad).
 
 <img src="/assets/images/ink-pad-jaguar-2x.gif" alt="Screenshot of the Ink Pad in Mac OS X Jaguar" width="337" />
 
-### Additional Information
+----
 
-[Ink Help: Learn About Ink](https://helposx.apple.com/InkHelpR3/English/pgs2/about.html)
+Resource:
+
+- [Ink Help: Learn About Ink](https://helposx.apple.com/InkHelpR3/English/pgs2/about.html)
 
 ----
 

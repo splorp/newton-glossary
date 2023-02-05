@@ -10,6 +10,8 @@ Text:
 
 Founded in 1994 by Don Vollum, PelicanWare developed and marketed Newton productivity applications, including [QuickFigure](/terms/quickfigure), [QuickFigure Works](/terms/quickfigure-works), and [PointPro](/terms/pointpro). They were also involved in the development and marketing of Eidetic’s [Notion](/terms/notion) and Avail Technology’s [AvailWorks](/terms/availworks) products.
 
-### Additional Information
+----
 
-[Internet Archive: PelicanWare Website](https://web.archive.org/web/20031031095851/http://pelicanware.com/)
+Resource:
+
+- [Internet Archive: PelicanWare Website](https://web.archive.org/web/20031031095851/http://pelicanware.com/)

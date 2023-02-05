@@ -12,7 +12,9 @@ A senior technical support engineer and developer in the [Newton Systems Group](
 
 According to Sharp, he is also the “Mo” in [Modeminos](/terms/modeminos).
 
-### Additional Information
+----
 
-[Maurice Sharp Website](http://www.mauricesharp.com/)
-[Folklore: LISP: The root of Newton Toolkit](https://www.folklore.org/StoryView.py?project=Newton&story=LISP:_The_root_of_Newton_Toolkit.txt)
+Resource:
+
+- [Maurice Sharp Website](http://www.mauricesharp.com/)
+- [Folklore: LISP: The root of Newton Toolkit](https://www.folklore.org/StoryView.py?project=Newton&story=LISP:_The_root_of_Newton_Toolkit.txt)

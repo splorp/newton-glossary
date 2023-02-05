@@ -10,9 +10,11 @@ Text:
 
 The [AppleTalk](/terms/appletalk) networking [protocol](/terms/protocol) delivered over [Ethernet](/terms/ethernet).
 
-### Additional Information
+----
 
-[Apple Support: Ethernet is not necessarily EtherTalk](https://support.apple.com/kb/TA33418)
+Resource:
+
+- [Apple Support: Ethernet is not necessarily EtherTalk](https://support.apple.com/kb/TA33418)
 
 ----
 

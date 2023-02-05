@@ -12,9 +12,11 @@ A handwritten mark that is recognized as having a special meaning by the [Newton
 
 The [Graffiti](/terms/graffiti) input system is also based on gestures.
 
-### Additional Information
+----
 
-[Internet Archive: Catamount: Handwriting Tips for Newton Power Users](https://web.archive.org/web/20160319221639/http://www.catamount.com/HWRTips/HWRTips.html)
+Resource:
+
+- [Internet Archive: Catamount: Handwriting Tips for Newton Power Users](https://web.archive.org/web/20160319221639/http://www.catamount.com/HWRTips/HWRTips.html)
 
 ----
 

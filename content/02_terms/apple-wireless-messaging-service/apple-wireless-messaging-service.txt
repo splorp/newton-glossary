@@ -10,11 +10,13 @@ Text:
 
 A defunct subscription-based electronic messaging service that allowed a Newton device equipped with a [Newton Messaging Card](/terms/newton-messaging-card) to send and receive text messages, as well as send and receive voice messages via telephone. A seven-digit personal identification number or [PIN](/terms/pin) was used to identify a user on the service. A separate four digit [PassCode](/terms/passcode) was used to securely access text messages, voicemail messages, and change various account settings.
 
-### Additional Information
+----
 
-[Internet Archive: Apple Wireless Messaging Service: How To Use](https://web.archive.org/web/20020220091441/http://karchive.info.apple.com/article.html?artnum=13646)
-[Apple Support: Apple Wireless Messaging Service: No Area Code In PIN](https://support.apple.com/kb/TA33418)
-[Apple Support: Newton Messaging Card: How to Setup](https://support.apple.com/kb/TA30360)
+Resource:
+
+- [Internet Archive: Apple Wireless Messaging Service: How To Use](https://web.archive.org/web/20020220091441/http://karchive.info.apple.com/article.html?artnum=13646)
+- [Apple Support: Apple Wireless Messaging Service: No Area Code In PIN](https://support.apple.com/kb/TA33418)
+- [Apple Support: Newton Messaging Card: How to Setup](https://support.apple.com/kb/TA30360)
 
 ----
 

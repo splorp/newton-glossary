@@ -10,6 +10,8 @@ Text:
 
 A previous incarnation of the [Apple](https://www.apple.com/) support information site. Commonly referred to as simply [TIL](/terms/til), it shouldn’t be confused with the [contemporary acronym](http://onlineslangdictionary.com/meaning-definition-of/til), although they do share some lineage.
 
-### Additional Information
+----
 
-[Internet Archive: Tech Info Library](https://web.archive.org/web/20000417131310/http://til.info.apple.com/techinfo.nsf)
+Resource:
+
+- [Internet Archive: Tech Info Library](https://web.archive.org/web/20000417131310/http://til.info.apple.com/techinfo.nsf)

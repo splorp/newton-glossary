@@ -12,10 +12,12 @@ A ruggedized Newton device developed by [Digital Ocean](https://web.archive.org/
 
 A third-party device that utilizes a licensed version of [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
 
-### Additional Information
+----
 
-[Internet Archive: Digital Ocean: Tarpon Product Information](https://web.archive.org/web/19970124001357/http://digitalocean.com/Tarpon.html)
-[Internet Archive: Digital Ocean: Tarpon Product Information](https://web.archive.org/web/19970124002207/http://digitalocean.com/p002.pdf) (PDF)
+Resource:
+
+- [Internet Archive: Digital Ocean: Tarpon Product Information](https://web.archive.org/web/19970124001357/http://digitalocean.com/Tarpon.html)
+- [Internet Archive: Digital Ocean: Tarpon Product Information](https://web.archive.org/web/19970124002207/http://digitalocean.com/p002.pdf)
 
 ----
 

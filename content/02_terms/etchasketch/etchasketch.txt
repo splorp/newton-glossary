@@ -14,10 +14,12 @@ Also referred to as [EaS](/terms/eas).
 
 <img src="/assets/images/etchasketch-2x.gif" alt="Screenshot of the EtchASketch project browser window" width="424" />
 
-### Additional Information
+----
 
-[Folklore: LISP: The root of Newton Toolkit](https://www.folklore.org/StoryView.py?project=Newton&story=LISP:_The_root_of_Newton_Toolkit.txt)
-[Flickr: EtchASketch 1.0a22 Screenshot](https://www.flickr.com/photos/pablo_marx/5306933667)
+Resource:
+
+- [Folklore: LISP: The root of Newton Toolkit](https://www.folklore.org/StoryView.py?project=Newton&story=LISP:_The_root_of_Newton_Toolkit.txt)
+- [Flickr: EtchASketch 1.0a22 Screenshot](https://www.flickr.com/photos/pablo_marx/5306933667)
 
 ----
 

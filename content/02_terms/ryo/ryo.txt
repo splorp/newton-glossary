@@ -12,9 +12,11 @@ A utility developed by Stephen Millman for adding [icons](/terms/icon) to the [b
 
 RYO is an acronym for “roll your own”.
 
-### Additional Information
+----
 
-[UNNA: RYO 4.2.0](http://www.unna.org/view.php?/utilites/menus/RollYourOwn4.2.0)
+Resource:
+
+- [UNNA: RYO 4.2.0](http://www.unna.org/view.php?/utilites/menus/RollYourOwn4.2.0)
 
 ----
 

@@ -14,9 +14,11 @@ Also referred to as [NewtICQ](/terms/newticq).
 
 <img src="/assets/images/ncq-2x.gif" alt="Screenshot of NCQ" width="230" />
 
-### Additional Information
+----
 
-[Internet Archive: NCQ 1.0a Product Information](https://web.archive.org/web/20030413200248/http://icebergtech.hypermart.net/NCQ/)
+Resource:
+
+- [Internet Archive: NCQ 1.0a Product Information](https://web.archive.org/web/20030413200248/http://icebergtech.hypermart.net/NCQ/)
 
 ----
 

@@ -14,11 +14,13 @@ Also referred to as [QF Works](/terms/qf-works).
 
 <img src="/assets/images/quickfigure-works-2x.gif" alt="Screenshot of QuickFigure Works" width="322" />
 
-### Additional Information
+----
 
-[Internet Archive: QuickFigure Product Information](https://web.archive.org/web/20031002141719/http://pelicanware.com/qfp.html)
-[UNNA: QuickFigure Works Version 1.0 User’s Manual](http://www.unna.org/unna/applications/NewtonWorks/qfworks101/qfworks.pdf) (PDF)
-[Newton Does It!: QuickFigure Works/Pro “Secret” Functions](http://dettmer.maclab.org/newton/qfprosecrets.html)
+Resource:
+
+- [Internet Archive: QuickFigure Product Information](https://web.archive.org/web/20031002141719/http://pelicanware.com/qfp.html)
+- [UNNA: QuickFigure Works Version 1.0 User’s Manual](http://www.unna.org/unna/applications/NewtonWorks/qfworks101/qfworks.pdf)
+- [Newton Does It!: QuickFigure Works/Pro “Secret” Functions](http://dettmer.maclab.org/newton/qfprosecrets.html)
 
 ----
 

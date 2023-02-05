@@ -10,6 +10,8 @@ Text:
 
 The [Apple](https://www.apple.com/) focused portion of Robert K. Morgan’s [Recon For Investors](https://web.archive.org/web/20000818061625/http://www.pelagius.com/rfi_98.html) (RFI) service, which provided trading information, special reports, industry analysis, and other news through the late 1990s.
 
-### Additional Information
+----
 
-[Internet Archive: Apple Recon Website](https://web.archive.org/web/20020403072756/http://www.pelagius.com/AppleRecon/index.html)
+Resource:
+
+- [Internet Archive: Apple Recon Website](https://web.archive.org/web/20020403072756/http://www.pelagius.com/AppleRecon/index.html)

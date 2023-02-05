@@ -16,13 +16,15 @@ Also referred to as [NCX](/terms/ncx).
 
 Backup files created by Newton Connection are identified by the `.nbku` file extension.
 
-### Additional Information
+----
 
-[Internet Archive: Newton Connection Kit 1.0 Description](https://web.archive.org/web/20011225150225/http://karchive.info.apple.com/article.html?artnum=12776)
-[Internet Archive: Newton Connection Kit 2.0 Description](https://web.archive.org/web/20011226141458/http://karchive.info.apple.com/article.html?artnum=14871)
-[The Newted Community: Newton Connection Kit for Windows User’s Guide](http://www.newted.org/download/manuals/0305277ANCNCTKITWINUG.PDF) (PDF)
-[The Newted Community: Newton Connection 2.0 Update Information](http://www.newted.org/download/manuals/0305272ANCNCT2UD.PDF) (PDF)
-[Newton Research: Newton Connection Product Information](http://newtonresearch.org/connection/)
+Resource:
+
+- [Internet Archive: Newton Connection Kit 1.0 Description](https://web.archive.org/web/20011225150225/http://karchive.info.apple.com/article.html?artnum=12776)
+- [Internet Archive: Newton Connection Kit 2.0 Description](https://web.archive.org/web/20011226141458/http://karchive.info.apple.com/article.html?artnum=14871)
+- [The Newted Community: Newton Connection Kit for Windows User’s Guide](http://www.newted.org/download/manuals/0305277ANCNCTKITWINUG.PDF)
+- [The Newted Community: Newton Connection 2.0 Update Information](http://www.newted.org/download/manuals/0305272ANCNCT2UD.PDF)
+- [Newton Research: Newton Connection Product Information](http://newtonresearch.org/connection/)
 
 ----
 

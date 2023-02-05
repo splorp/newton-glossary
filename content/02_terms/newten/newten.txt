@@ -12,9 +12,11 @@ An [application](/terms/application) for Mac OS X created by [Steven Frank](/sou
 
 <img src="/assets/images/newten-2x.gif" alt="Screenshot of NewTen" width="420" />
 
-### Additional Information
+----
 
-[GitHub: NewTen](https://github.com/panicsteve/NewTen/)
+Resource:
+
+- [GitHub: NewTen](https://github.com/panicsteve/NewTen/)
 
 ----
 

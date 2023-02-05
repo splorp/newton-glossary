@@ -10,6 +10,8 @@ Text:
 
 This supplement presents user interface guidelines for the enhanced keyboard features in [Newton OS](/terms/newton-os) 2.1.
 
-### Additional Information
+----
 
-[The Newted Community: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](http://www.newted.org/download/manuals/NewtonKeyboardUIGuide.pdf) (PDF)
+Resource:
+
+- [The Newted Community: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](http://www.newted.org/download/manuals/NewtonKeyboardUIGuide.pdf)

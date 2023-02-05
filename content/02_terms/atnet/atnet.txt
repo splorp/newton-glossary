@@ -10,10 +10,12 @@ Text:
 
 A prototype device developed by [Siemens](https://www.siemens.com/) that was positioned as an “all-in-one communication terminal” that combined several communication services including wireless telephony, fax, voice messaging, web access, and email. The @net was based on the [Siemens Online Terminal](/terms/siemens-online-terminal), but used a modified version of Windows CE instead of [Newton OS](/terms/newton-os) as the [operating system](/terms/operating-system).
 
-### Additional Information
+----
 
-[Internet Archive: Das “OAD”](https://web.archive.org/web/20010526162436/http://www.logictools.de/newton/german/oad/)
-[Internet Archive: Siemens @net Brochure](https://web.archive.org/web/20010608175331/http://www.logictools.de/newton/german/oad/OAD-2.gif) (GIF)
+Resource:
+
+- [Internet Archive: Das “OAD”](https://web.archive.org/web/20010526162436/http://www.logictools.de/newton/german/oad/)
+- [Internet Archive: Siemens @net Brochure](https://web.archive.org/web/20010608175331/http://www.logictools.de/newton/german/oad/OAD-2.gif)
 
 ----
 

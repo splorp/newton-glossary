@@ -12,10 +12,12 @@ A system [freeze](/terms/freeze) common in early [MessagePad](/terms/messagepad)
 
 Also referred to as [G.O.D.](/terms/GOD) and [The Grip](/terms/the-grip).
 
-### Additional Information
+----
 
-[UNNA: Newton Technology Journal: Surviving the Grip](http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal/NTJ_3_02.pdf) (PDF)
-[UNNA: Double Tap Magazine: Newton Still Needs the Card](http://www.unna.org/view.php?apple/documentation/developer/Articles/NewtonStillNeedsTheCard.rtf) (RTF)
+Resource:
+
+- [UNNA: Newton Technology Journal: Surviving the Grip](http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal/NTJ_3_02.pdf)
+- [UNNA: Double Tap Magazine: Newton Still Needs the Card](http://www.unna.org/view.php?apple/documentation/developer/Articles/NewtonStillNeedsTheCard.rtf)
 
 ----
 

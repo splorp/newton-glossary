@@ -10,7 +10,9 @@ Text:
 
 Published by [Apple](https://www.apple.com/) in 1997, this is the definitive reference for configuring and integrating the [eMate 300](/terms/emate-300) device into a classroom or educational setting.
 
-### Additional Information
+----
 
-[The Newted Community: eMate 300 Teacher’s Guide](http://www.newted.org/download/manuals/0340030EMATE300TG.PDF) (PDF)
-[UNNA: eMate 300 Teacher’s Guide](http://www.unna.org/unna/apple/documentation/eMate/eMateTeachersGuide.pdf) (PDF)
+Resource:
+
+- [The Newted Community: eMate 300 Teacher’s Guide](http://www.newted.org/download/manuals/0340030EMATE300TG.PDF)
+- [UNNA: eMate 300 Teacher’s Guide](http://www.unna.org/unna/apple/documentation/eMate/eMateTeachersGuide.pdf)

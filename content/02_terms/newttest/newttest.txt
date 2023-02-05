@@ -13,10 +13,12 @@ An [application](/terms/application) created by [Frank Gründel](/sources/frank-
 <img src="/assets/images/newttest-popup-2x.gif" alt="Screenshot of NewtTest" width="240" />
 
 
-### Additional Information
+----
 
-[PDA-Soft: NewtTest Product Information](http://www.pda-soft.de/newttest.html)
-[Newton Poetry: Get handy Newton info with NewtTest](http://newtonpoetry.com/2009/06/01/get-handy-newton-info-with-newttest/)
+Resource:
+
+- [PDA-Soft: NewtTest Product Information](http://www.pda-soft.de/newttest.html)
+- [Newton Poetry: Get handy Newton info with NewtTest](http://newtonpoetry.com/2009/06/01/get-handy-newton-info-with-newttest/)
 
 ----
 

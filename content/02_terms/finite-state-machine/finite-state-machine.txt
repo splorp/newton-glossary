@@ -12,9 +12,11 @@ A collection of states, events, actions, and transitions between states defined 
 
 Also referred to as [FSM](/terms/fsm) or [state machine](/terms/state-machine).
 
-### Addition Information
+----
 
-[Newton Technology Journal: Finite State Machines: A Model for Newton Communications](http://www.unna.org/unna/apple/documentation/developer/NewtonTechnologyJournal/NTJ_2_02.pdf) (PDF)
+Resource:
+
+- [Newton Technology Journal: Finite State Machines: A Model for Newton Communications](http://www.unna.org/unna/apple/documentation/developer/NewtonTechnologyJournal/NTJ_2_02.pdf)
 
 ----
 

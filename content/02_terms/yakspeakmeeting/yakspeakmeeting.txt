@@ -10,9 +10,11 @@ Text:
 
 A [package](/terms/package) that works in conjunction with [Yak](/terms/yak) to read [meeting](/terms/meeting) reminders aloud on a Newton device.
 
-### Additional Information
+----
 
-[Matej Horvat: Yak](http://matejhorvat.si/en/newton/yak/)
+Resource:
+
+- [Matej Horvat: Yak](http://matejhorvat.si/en/newton/yak/)
 
 ----
 

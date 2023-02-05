@@ -10,9 +10,11 @@ Text:
 
 An plain vanilla adaptation of the disassembly tool found in the [Einstein](/terms/einstein) emulation project. [Steven Frank](/sources/steven-frank) converted and modified the original C++ source created by [Paul Guyot](/sources/paul-guyot).
 
-### Additional Information
+----
 
-[GitHub: Unarmed](https://github.com/panicsteve/unarmed)
+Resource:
+
+- [GitHub: Unarmed](https://github.com/panicsteve/unarmed)
 
 ----
 

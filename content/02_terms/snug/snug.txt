@@ -10,9 +10,11 @@ Text:
 
 Stanford Newton Users Group
 
-### Additional Information
+----
 
-[SNUG Website](http://www.rahul.net/flash/snug/)
+Resource:
+
+- [SNUG Website](http://www.rahul.net/flash/snug/)
 
 ----
 

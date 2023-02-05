@@ -13,9 +13,11 @@ A standalone FTP client for [Newton OS](/terms/newton-os) developed by [Tactile 
 <img src="/assets/images/newtftp-2x.gif" alt="Screenshot of NewtFTP" width="320" />
 
 
-### Additional Information
+----
 
-[Internet Archive: NewtFTP Product Information](https://web.archive.org/web/19990417053833/http://www.tactile.com/newtFTP.html)
+Resource:
+
+- [Internet Archive: NewtFTP Product Information](https://web.archive.org/web/19990417053833/http://www.tactile.com/newtFTP.html)
 
 ----
 

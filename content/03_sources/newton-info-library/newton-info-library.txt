@@ -10,6 +10,8 @@ Text:
 
 A site that provided a simplified, alternative interface to the [Apple Tech Info Library](/sources/apple-tech-info-library). Created and maintained by [Joost van de Griek](https://twitter.com/gyorpb), the Newton info Library focused on [TIL](/terms/til) articles pertaining specifically to the Newton.
 
-### Additional Information
+----
 
-[Internet Archive: Newton Info Library](https://web.archive.org/web/20020422041555/http://newted.dyndns.org/users/alien/)
+Resource:
+
+- [Internet Archive: Newton Info Library](https://web.archive.org/web/20020422041555/http://newted.dyndns.org/users/alien/)

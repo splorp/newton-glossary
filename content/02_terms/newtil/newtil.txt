@@ -12,9 +12,11 @@ Newton Tech Info Library
 
 An alternative index of [Apple](https://www.apple.com/) support documents compiled and maintained by C.W. Otto Sohn. NewTIL was based on the defunct [Tech Info Library](/terms/til) and focused specifically on Newton-related topics.
 
-### Additional Information
+----
 
-[Internet Archive: NewTIL](https://web.archive.org/web/20071016060258/http://newted.dyndns.org/users/osohn/NewTIL/)
+Resource:
+
+- [Internet Archive: NewTIL](https://web.archive.org/web/20071016060258/http://newted.dyndns.org/users/osohn/NewTIL/)
 
 ----
 

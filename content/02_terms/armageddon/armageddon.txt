@@ -14,12 +14,14 @@ An ARMageddon card with an attached [daughterboard](/terms/daughterboard) was kn
 
 The ARMageddon card preceded the [ARMistice](/terms/armistice) and [ARMadillo](/terms/armadillo) cards. The cards were so named because of the [ARM](/terms/arm) processor used in the Newton hardware.
 
-### Additional Information
+----
 
-[Stories of Apple: ARMageddon and ARMistice](http://www.storiesofapple.net/armageddon-and-armistice.html)
-[Flickr: Apple Newton ARMageddon (Front)](https://www.flickr.com/photos/pablo_marx/4683061364/)
-[Flickr: Apple Newton ARMageddon (Back)](https://www.flickr.com/photos/pablo_marx/4683061542/)
-[Computer History Museum: ARMageddon Fat Man Board](http://www.computerhistory.org/collections/catalog/102633651)
+Resource:
+
+- [Stories of Apple: ARMageddon and ARMistice](http://www.storiesofapple.net/armageddon-and-armistice.html)
+- [Flickr: Apple Newton ARMageddon (Front)](https://www.flickr.com/photos/pablo_marx/4683061364/)
+- [Flickr: Apple Newton ARMageddon (Back)](https://www.flickr.com/photos/pablo_marx/4683061542/)
+- [Computer History Museum: ARMageddon Fat Man Board](http://www.computerhistory.org/collections/catalog/102633651)
 
 ----
 

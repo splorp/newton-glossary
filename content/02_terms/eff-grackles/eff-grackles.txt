@@ -10,11 +10,13 @@ Text:
 
 Apple alumni John Forstall’s attempt at writing “[egg freckles](/terms/egg-freckles)” on a prototype iPhone, as related in Ken Kocienda’s book _Creative Selection_.
 
-### Additional Information
+----
 
-[Creative Selection Website](http://creativeselection.io/)
-[Amazon: Creative Selection: Inside Apple’s Design Process](https://amzn.to/3lUTrz0)
-[Google Books: Creative Selection: The “eff grackles” Demo](https://books.google.ca/books?id=nntJDwAAQBAJ&lpg=PT106&ots=ldnbAvmXcK&dq=%22eff%20grackles%22&pg=PT105#v=onepage&q&f=false)
+Resource:
+
+- [Creative Selection Website](http://creativeselection.io/)
+- [Amazon: Creative Selection: Inside Apple’s Design Process](https://amzn.to/3lUTrz0)
+- [Google Books: Creative Selection: The “eff grackles” Demo](https://books.google.ca/books?id=nntJDwAAQBAJ&lpg=PT106&ots=ldnbAvmXcK&dq=%22eff%20grackles%22&pg=PT105#v=onepage&q&f=false)
 
 ----
 

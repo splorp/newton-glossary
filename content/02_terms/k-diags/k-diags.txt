@@ -10,9 +10,11 @@ Text:
 
 A suite of software diagnostic tools created specifically for the [eMate 300](/terms/emate-300) and supplied on a bootable PCMCIA card. The “K” is in reference to the eMate code name [Project K](/terms/project-k).
 
-### Additional Information
+----
 
-[Flickr: Newton K Diags](https://www.flickr.com/photos/pablo_marx/albums/72157632538904443)
+Resource:
+
+- [Flickr: Newton K Diags](https://www.flickr.com/photos/pablo_marx/albums/72157632538904443)
 
 ----
 

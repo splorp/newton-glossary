@@ -12,9 +12,11 @@ A chess program developed by [Joachim Bondo](/sources/joachim-bondo). [Deep Gree
 
 An updated version of [Deep Green for iOS](https://web.archive.org/web/20120925074001/http://cocoastuff.dk/products/deepgreen) was released in 2008.
 
-### Additional Information
+----
 
-[Internet Archive: Deep Green Product Information](https://web.archive.org/web/20141206191359/http://bondo.net/newton/deepgreen.html)
+Resource:
+
+- [Internet Archive: Deep Green Product Information](https://web.archive.org/web/20141206191359/http://bondo.net/newton/deepgreen.html)
 
 ----
 

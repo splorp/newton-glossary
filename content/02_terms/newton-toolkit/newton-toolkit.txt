@@ -14,16 +14,18 @@ Also referred to as [NTK](/terms/ntk).
 
 Newton Toolkit for Mac OS X ([NTX](/terms/ntx)) is a modern replacement for the classic Newton Toolkit being developed by [Simon Bell](/sources/simon-bell).
 
-### Additional Information
+----
 
-[MacTech: Newton Toolkit](http://www.mactech.com/articles/mactech/Vol.09/09.11/NewtonToolkit/index.html)
-[UNNA: Newton Toolkit](http://www.unna.org/view.php?/apple/development/NTK)
-[The Newted Community: Newton Toolkit User’s Guide](http://www.newted.org/download/manuals/NewtonToolkitUsersGuide.pdf) (PDF)
-[The Newted Community: Newton Toolkit Enhancements](http://www.newted.org/download/manuals/NewtonToolkitEnhancements164.pdf) (PDF)
-[The Newted Community: Newton Toolkit File Format](http://www.newted.org/download/manuals/NewtonToolkitFileFormats.pdf) (PDF)
-[Folklore: LISP: The root of Newton Toolkit](https://www.folklore.org/StoryView.py?project=Newton&story=LISP:_The_root_of_Newton_Toolkit.txt)
-[Newton Research: Newton Toolkit for Mac OS X](https://newtonresearch.org/toolkit/)
-[GitHub: Newton Toolkit for Mac OS X](https://newtonresearch.org/toolkit/)
+Resource:
+
+- [MacTech: Newton Toolkit](http://www.mactech.com/articles/mactech/Vol.09/09.11/NewtonToolkit/index.html)
+- [UNNA: Newton Toolkit](http://www.unna.org/view.php?/apple/development/NTK)
+- [The Newted Community: Newton Toolkit User’s Guide](http://www.newted.org/download/manuals/NewtonToolkitUsersGuide.pdf)
+- [The Newted Community: Newton Toolkit Enhancements](http://www.newted.org/download/manuals/NewtonToolkitEnhancements164.pdf)
+- [The Newted Community: Newton Toolkit File Format](http://www.newted.org/download/manuals/NewtonToolkitFileFormats.pdf)
+- [Folklore: LISP: The root of Newton Toolkit](https://www.folklore.org/StoryView.py?project=Newton&story=LISP:_The_root_of_Newton_Toolkit.txt)
+- [Newton Research: Newton Toolkit for Mac OS X](https://newtonresearch.org/toolkit/)
+- [GitHub: Newton Toolkit for Mac OS X](https://newtonresearch.org/toolkit/)
 
 ----
 

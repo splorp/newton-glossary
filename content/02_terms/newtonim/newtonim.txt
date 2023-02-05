@@ -14,10 +14,12 @@ Also referred to as [NIM](/terms/nim).
 
 <img src="/assets/images/newtonim-2x.gif" alt="Screenshot of NewtonIM" width="278" />
 
-### Additional Information
+----
 
-[All About Jake: NewtonIM Product Information](http://www.allaboutjake.com/newton/newtonim/)
-[Jabber.org Website](https://www.jabber.org/)
+Resource:
+
+- [All About Jake: NewtonIM Product Information](http://www.allaboutjake.com/newton/newtonim/)
+- [Jabber.org Website](https://www.jabber.org/)
 
 ----
 

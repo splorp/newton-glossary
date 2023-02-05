@@ -12,10 +12,12 @@ The unique 26-pin, subminiature connector manufactured by [JAE](/terms/jae) used
 
 Also referred to as the [NIC](/terms/nic).
 
-### Additional Information
+----
 
-[David Arnold: Newton Interconnect Resources](http://www.0x1.org/d/stuff/newton/interconnect/)
-[Internet Archive: PDAs: A Study in Contrasts](https://web.archive.org/web/20070207103847/http://pd.pennnet.com/Articles/Article_Display.cfm?Section=Archives&Subsection=Display&ARTICLE_ID=52439)
+Resource:
+
+- [David Arnold: Newton Interconnect Resources](http://www.0x1.org/d/stuff/newton/interconnect/)
+- [Internet Archive: PDAs: A Study in Contrasts](https://web.archive.org/web/20070207103847/http://pd.pennnet.com/Articles/Article_Display.cfm?Section=Archives&Subsection=Display&ARTICLE_ID=52439)
 
 ----
 

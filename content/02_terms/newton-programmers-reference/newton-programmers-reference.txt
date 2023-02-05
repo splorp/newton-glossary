@@ -12,10 +12,12 @@ A document which provides comprehensive documentation for the routines, system [
 
 Also referred to as [NPR](/terms/npr).
 
-### Additional Information
+----
 
-[UNNA: Newton Programmer’s Reference for Newton 2.0](http://www.unna.org/unna/apple/documentation/developer/ProgrammersReferenceOS2.0.pdf) (PDF)
-[The Newted Community: Newton Programmer’s Reference for Newton 2.0](http://www.newted.org/download/manuals/NewtonProgrammerRef20.pdf) (PDF)
+Resource:
+
+- [UNNA: Newton Programmer’s Reference for Newton 2.0](http://www.unna.org/unna/apple/documentation/developer/ProgrammersReferenceOS2.0.pdf)
+- [The Newted Community: Newton Programmer’s Reference for Newton 2.0](http://www.newted.org/download/manuals/NewtonProgrammerRef20.pdf)
 
 ----
 

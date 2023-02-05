@@ -12,9 +12,11 @@ A member of the [Grouper](/terms/grouper) family of devices developed by [Digita
 
 Also referred to as a [100MP](/terms/100mp).
 
-### Additional Information
+----
 
-[Internet Archive: Wire-Free Networking With Grouper](https://web.archive.org/web/19970124002055/http://digitalocean.com/p001.pdf) (PDF)
+Resource:
+
+- [Internet Archive: Wire-Free Networking With Grouper](https://web.archive.org/web/19970124002055/http://digitalocean.com/p001.pdf)
 
 ----
 

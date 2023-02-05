@@ -10,6 +10,8 @@ Text:
 
 Founded in January 1997 by Eldee Stephens III, ThessaSource provided commentary, analysis, and news related to [Apple](https://www.apple.com/) and the Mac OS community at large. The site was shuttered in September 1998.
 
-### Additional Information
+----
 
-[Internet Archive: ThessaSource Website](https://web.archive.org/web/19981212033422/http://www.thessasource.com/)
+Resource:
+
+- [Internet Archive: ThessaSource Website](https://web.archive.org/web/19981212033422/http://www.thessasource.com/)

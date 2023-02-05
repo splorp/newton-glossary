@@ -12,10 +12,12 @@ An implementation of the [Lisp](/terms/lisp) programming language for Mac OS com
 
 Also referred to as [MCL](/terms/mcl).
 
-### Additional Information
+----
 
-[Wikipedia: Macintosh Common Lisp](https://en.wikipedia.org/wiki/Macintosh_Common_Lisp)
-[Talking with Mikel Evins about the Lisp-based Newton OS](http://lispm.de/lisp-based-newton-os)
+Resource:
+
+- [Wikipedia: Macintosh Common Lisp](https://en.wikipedia.org/wiki/Macintosh_Common_Lisp)
+- [Talking with Mikel Evins about the Lisp-based Newton OS](http://lispm.de/lisp-based-newton-os)
 
 ----
 

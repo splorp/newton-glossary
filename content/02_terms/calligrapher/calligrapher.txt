@@ -10,9 +10,11 @@ Text:
 
 The cursive [handwriting recognition](/terms/handwriting-recognition) system developed by [ParaGraph International](/sources/paragraph) and found in all Newton devices except the [eMate](/terms/emate). CalliGrapher was also used as the [print recognizer](/terms/print-recognizer) in early [Newton OS](/terms/newton-os) devices such as the [MessagePad 100](/terms/messagepad-100).
 
-### Additional Information
+----
 
-[Internet Archive: CalliGrapher Product Informaton](https://web.archive.org/web/19970502173927/http://www.paragraph.com/products/internetink/calligrapher/)
+Resource:
+
+- [Internet Archive: CalliGrapher Product Informaton](https://web.archive.org/web/19970502173927/http://www.paragraph.com/products/internetink/calligrapher/)
 
 ----
 

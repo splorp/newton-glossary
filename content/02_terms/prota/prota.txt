@@ -10,9 +10,11 @@ Text:
 
 An implementation of [NewtonScript](/terms/newtonscript) written in the C programming language. Originally called [Proto](/terms/proto), Prota was created by [Walter Smith](/sources/walter-smith), the original designer of NewtonScript.
 
-### Additional Information
+----
 
-[GitHub: Prota](https://github.com/wrs/prota)
+Resource:
+
+- [GitHub: Prota](https://github.com/wrs/prota)
 
 ----
 

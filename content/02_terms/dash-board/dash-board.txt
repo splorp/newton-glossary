@@ -12,11 +12,13 @@ A [user interface](/terms/user-interface) enhancement [package](/terms/package) 
 
 <img src="/assets/images/dash-board-2x.gif" alt="Screenshot of Dash Board in action" width="322" />
 
-### Additional Information
+----
 
-[Five Speed Software: Dash Board](http://www.fivespeedsoftware.com/dashboard/)
-[Mason Mark: Dash Board, Revisted](http://masonmark.com/dash-board-revisited/)
-[GitHub: Dash Board 2013](https://github.com/masonmark/Dash-Board-for-Newton-OS)
+Resource:
+
+- [Five Speed Software: Dash Board](http://www.fivespeedsoftware.com/dashboard/)
+- [Mason Mark: Dash Board, Revisted](http://masonmark.com/dash-board-revisited/)
+- [GitHub: Dash Board 2013](https://github.com/masonmark/Dash-Board-for-Newton-OS)
 
 ----
 

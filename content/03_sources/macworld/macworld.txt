@@ -10,7 +10,9 @@ Text:
 
 Founded by David Bunnell and Andrew Fluegelman in 1984, Macworld was the longest running Mac OS-focused magazine until its parent company discontinued the print edition in September 2014.
 
-### Additional Information
+----
 
-[Macworld Website](https://www.macworld.com/)
-[Internet Archive: Macworld Magazine Collection](https://archive.org/details/macworld-magazine)
+Resource:
+
+- [Macworld Website](https://www.macworld.com/)
+- [Internet Archive: Macworld Magazine Collection](https://archive.org/details/macworld-magazine)

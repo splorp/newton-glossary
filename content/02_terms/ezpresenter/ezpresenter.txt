@@ -10,9 +10,11 @@ Text:
 
 An [application](/terms/application) developed by [EZShow Systems](/sources/ezshow-systems) that allows the user to view PowerPoint slides on [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate 300](/terms/emate-300) devices. EZPresenter requires that the PowerPoint slides be converted to a [package file](/terms/package-file) with the [EZXfer](/terms/ezxfer) utility.
 
-### Additional Information
+----
 
-[Internet Archive: EZPresenter Product Information](https://web.archive.org/web/19980201053411/http://ezshow.com/ezprenew.htm)
+Resource:
+
+- [Internet Archive: EZPresenter Product Information](https://web.archive.org/web/19980201053411/http://ezshow.com/ezprenew.htm)
 
 ----
 

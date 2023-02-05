@@ -10,7 +10,9 @@ Text:
 
 Published by [Apple](https://www.apple.com/) in 1997, this is the definitive reference for the [Newtsbug](/terms/newtsbug) low-level [debugger](/terms/debugger).
 
-### Additional Information
+----
 
-[UNNA: Planet Newton Mirror: Newton C++ Tools](http://mirrors.unna.org/download.planetnewton.com/download/programming/applec++tools.htm)
-[The Newted Community: Newtsbug User’s Guide](http://www.newted.org/download/manuals/NewtsbugUsersGuide.pdf) (PDF)
+Resource:
+
+- [UNNA: Planet Newton Mirror: Newton C++ Tools](http://mirrors.unna.org/download.planetnewton.com/download/programming/applec++tools.htm)
+- [The Newted Community: Newtsbug User’s Guide](http://www.newted.org/download/manuals/NewtsbugUsersGuide.pdf)

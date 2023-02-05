@@ -10,7 +10,9 @@ Text:
 
 Launched in January 1997 by David K. Every, MacKido set out to “debunk some of the myths about Macs” and provide a wide range of often opinionated resources pertaining to Apple and its products.
 
-### Additional Information
+----
 
-[MacKiDo: Code Names](http://www.mackido.com/CodeNames/)
-[MacKiDo: Easter Eggs](http://www.mackido.com/EasterEggs/)
+Resource:
+
+- [MacKiDo: Code Names](http://www.mackido.com/CodeNames/)
+- [MacKiDo: Easter Eggs](http://www.mackido.com/EasterEggs/)

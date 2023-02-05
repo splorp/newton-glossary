@@ -10,9 +10,11 @@ Text:
 
 The document format (or [stationery](/terms/stationery)) used by the [graphing calculator](/terms/graphing-calculator) component of the [Newton Works](/terms/newton-works) application.
 
-### Additional Information
+----
 
-[The Newted Community: Newton Works Graphing Calculator User’s Manual](http://www.newted.org/download/manuals/0340062ANWGRAFCALCUM.PDF) (PDF)
+Resource:
+
+- [The Newted Community: Newton Works Graphing Calculator User’s Manual](http://www.newted.org/download/manuals/0340062ANWGRAFCALCUM.PDF)
 
 ----
 

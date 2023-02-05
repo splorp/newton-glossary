@@ -12,9 +12,11 @@ A publication produced by [Apple](https://www.apple.com/) which supplied develop
 
 Commonly referred to as [NTJ](/terms/ntj).
 
-### Additional Information
+----
 
-[UNNA: Newton Technology Journal Archives](http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal)
+Resource:
+
+- [UNNA: Newton Technology Journal Archives](http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal)
 
 ----
 

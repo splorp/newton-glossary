@@ -12,9 +12,11 @@ An internal circuit board for [MessagePad 2000](/terms/messagepad-2000) and [Mes
 
 Also referred to as a [dongle destroyer](/terms/dongle-destroyer).
 
-### Additional Information
+----
 
-[Internet Archive: SER-001 Product Information](https://web.archive.org/web/20040611132321/http://mrpcbman.tripod.com/SER-001.htm)
+Resource:
+
+- [Internet Archive: SER-001 Product Information](https://web.archive.org/web/20040611132321/http://mrpcbman.tripod.com/SER-001.htm)
 
 ----
 

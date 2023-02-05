@@ -12,13 +12,15 @@ The [Lisp](/terms/lisp)-like dynamic programming language developed at [Apple](h
 
 Also referred to as [Denali](/terms/denali). An early version of Dylan was known as [Ralph](/terms/ralph).
 
-### Additional Information
+----
 
-[OpenDylan Website](https://opendylan.org/)
-[OpenDylan: Apple Dylan](https://opendylan.org/history/apple-dylan/)
-[Apple Dylan Preliminary Information](https://opendylan.org/_static/dylanwwdc94brochure.pdf) (PDF)
-[Dylan: An object-oriented dynamic language](http://lispm.de/docs/prefix-dylan/book.annotated/annotated-manual.html)
-[Dylan Design Notes](http://lispm.de/docs/prefix-dylan/book.annotated/contents.html)
+Resource:
+
+- [OpenDylan Website](https://opendylan.org/)
+- [OpenDylan: Apple Dylan](https://opendylan.org/history/apple-dylan/)
+- [Apple Dylan Preliminary Information](https://opendylan.org/_static/dylanwwdc94brochure.pdf)
+- [Dylan: An object-oriented dynamic language](http://lispm.de/docs/prefix-dylan/book.annotated/annotated-manual.html)
+- [Dylan Design Notes](http://lispm.de/docs/prefix-dylan/book.annotated/contents.html)
 
 ----
 

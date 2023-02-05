@@ -14,12 +14,14 @@ Founded in 1997 by Sean O’Shaughnessy, the list was taken over by [Planet Newt
 
 The list is commonly referred to as simply [NTLK](/terms/ntlk).
 
-### Additional Information
+----
 
-[NewtonTalk Website](http://newtontalk.net/)
-[NewtonTalk FAQ](https://github.com/splorp/newtontalk-faq/blob/master/newtontalk-faq.md)
-[NewtonTalk Mailing List Archives](http://marc.info/?l=newtontalk)
-[Twitter: NewtonTalk](https://twitter.com/newtontalk)
+Resource:
+
+- [NewtonTalk Website](http://newtontalk.net/)
+- [NewtonTalk FAQ](https://github.com/splorp/newtontalk-faq/blob/master/newtontalk-faq.md)
+- [NewtonTalk Mailing List Archives](http://marc.info/?l=newtontalk)
+- [Twitter: NewtonTalk](https://twitter.com/newtontalk)
 
 ----
 

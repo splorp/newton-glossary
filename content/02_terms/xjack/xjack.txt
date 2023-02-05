@@ -10,9 +10,11 @@ Text:
 
 An extendable [RJ-11](/terms/rj-11) connector found on [PC card](/terms/pc-card) modems.
 
-### Additional Information
+----
 
-[Wikipedia: XJACK](https://en.wikipedia.org/wiki/XJACK)
+Resource:
+
+- [Wikipedia: XJACK](https://en.wikipedia.org/wiki/XJACK)
 
 ----
 

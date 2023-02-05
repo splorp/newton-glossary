@@ -12,10 +12,12 @@ An early development environment for [Newton OS](/terms/newton-os) created by [A
 
 Leibniz is also an emulator for [Runt](/terms/runt)-based Newton devices currently being developed by [Steve White](/sources/steve-white).
 
-### Additional Information
+----
 
-[Talking with Mikel Evins about the Lisp-based Newton OS](http://lispm.de/lisp-based-newton-os)
-[GitHub: Leibniz](https://github.com/pablomarx/Leibniz)
+Resource:
+
+- [Talking with Mikel Evins about the Lisp-based Newton OS](http://lispm.de/lisp-based-newton-os)
+- [GitHub: Leibniz](https://github.com/pablomarx/Leibniz)
 
 ----
 

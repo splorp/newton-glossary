@@ -12,10 +12,12 @@ A suite of [Newton OS](/terms/newton-os) diagnostic and repair tools created by 
 
 <img src="/assets/images/sbm-utilities-2x.gif" alt="Screenshot of SBM Utilities" width="240" />
 
-### Additional Information
+----
 
-[Softwarebüro Müller: SBM Utilities Product Information](http://www.softwarebueromueller.de/englisch/newton/sbmutils/)
-[Newton Poetry: SBM Utilities Now Unlocked](http://newtonpoetry.com/2009/07/20/sbm-utilities-now-unlocked/)
+Resource:
+
+- [Softwarebüro Müller: SBM Utilities Product Information](http://www.softwarebueromueller.de/englisch/newton/sbmutils/)
+- [Newton Poetry: SBM Utilities Now Unlocked](http://newtonpoetry.com/2009/07/20/sbm-utilities-now-unlocked/)
 
 ----
 

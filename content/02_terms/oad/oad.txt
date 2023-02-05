@@ -12,9 +12,11 @@ Online Access Device
 
 An alternate name for the prototype Newton device developed by [Siemens](https://www.siemens.com/) known as the [Siemens Online Terminal](/terms/siemens-online-terminal).
 
-### Additional Information
+----
 
-[Internet Archive: Das “OAD”](https://web.archive.org/web/20010526162436/http://www.logictools.de/newton/german/oad/)
+Resource:
+
+- [Internet Archive: Das “OAD”](https://web.archive.org/web/20010526162436/http://www.logictools.de/newton/german/oad/)
 
 ----
 

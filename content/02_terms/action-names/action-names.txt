@@ -12,11 +12,13 @@ A contact management [application](/terms/application) created by [Iambic Softwa
 
 Also referred to as [AN](/terms/an).
 
-### Additional Information
+----
 
-[Internet Archive: Action Names 4.0 Product Information](https://web.archive.org/web/19980526094254/http://www.iambic.com/newton/an4details.html)
-[Internet Archive: Action Names 3.0 Product Information](https://web.archive.org/web/19980526100337/http://www.iambic.com/newton/actionsales.html)
-[Internet Archive: Action Names 1.2 Product Information](https://web.archive.org/web/19980526100834/http://www.iambic.com/newton/action12sales.html)
+Resource:
+
+- [Internet Archive: Action Names 4.0 Product Information](https://web.archive.org/web/19980526094254/http://www.iambic.com/newton/an4details.html)
+- [Internet Archive: Action Names 3.0 Product Information](https://web.archive.org/web/19980526100337/http://www.iambic.com/newton/actionsales.html)
+- [Internet Archive: Action Names 1.2 Product Information](https://web.archive.org/web/19980526100834/http://www.iambic.com/newton/action12sales.html)
 
 ----
 

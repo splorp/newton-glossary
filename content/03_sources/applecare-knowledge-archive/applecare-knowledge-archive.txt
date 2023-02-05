@@ -10,7 +10,9 @@ Text:
 
 A previous incarnation of the [Apple](https://www.apple.com/) support information site, commonly referred to as the _AppleCare Knowledge Base_ or [Kbase](/terms/kbase).
 
-### Additional Information
+----
 
-[Internet Archive: AppleCare Knowledge Archive](https://web.archive.org/web/20030321182310/http://karchive.info.apple.com/)
-[Internet Archive: Apple Knowledge Base zum Thema “Newton”](https://web.archive.org/web/20151024230734/http://www.mac3.de/sig/newton/til.html)
+Resource:
+
+- [Internet Archive: AppleCare Knowledge Archive](https://web.archive.org/web/20030321182310/http://karchive.info.apple.com/)
+- [Internet Archive: Apple Knowledge Base zum Thema “Newton”](https://web.archive.org/web/20151024230734/http://www.mac3.de/sig/newton/til.html)

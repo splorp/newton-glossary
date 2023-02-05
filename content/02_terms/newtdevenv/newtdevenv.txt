@@ -12,9 +12,11 @@ A development environment created by [Steve Weyer](/sources/steve-weyer) for cre
 
 Also referred to as [NDE](/terms/nde) and [Newt](/terms/newt).
 
-### Additional Information
+----
 
-[CommuniCrossings: NewtDevEnv Product Information](http://communicrossings.com/html/newton/newtdev.htm)
+Resource:
+
+- [CommuniCrossings: NewtDevEnv Product Information](http://communicrossings.com/html/newton/newtdev.htm)
 
 ----
 

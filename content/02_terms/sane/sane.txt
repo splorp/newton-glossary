@@ -10,9 +10,11 @@ Text:
 
 Seacoast Area Newton Enthusiasts
 
-### Additional Information
+----
 
-[Internet Archive: SANE Website](https://web.archive.org/web/*/http://www.bluefin.net/~gravity/sane.html)
+Resource:
+
+- [Internet Archive: SANE Website](https://web.archive.org/web/*/http://www.bluefin.net/~gravity/sane.html)
 
 ----
 

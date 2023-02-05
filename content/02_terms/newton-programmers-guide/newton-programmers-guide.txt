@@ -12,13 +12,15 @@ The definitive guide to programming for [Newton OS](/terms/newton-os), providing
 
 Also referred to as [NPG](/terms/npg).
 
-### Additional Information
+----
 
-[Amazon: Newton Programmer’s Guide for Newton 2.0](https://amzn.to/3GxjLsE)
-[UNNA: Newton Programmer’s Guide for Newton 2.0](http://www.unna.org/unna/apple/documentation/developer/ProgrammersGuideOS2.0.pdf) (PDF)
-[UNNA: Newton Programmer’s Guide: OS 2.1 Addendum](http://www.unna.org/unna/apple/documentation/developer/ProgrammersGuideOS2.1Addenum.pdf) (PDF)
-[The Newted Community: Newton Programmer’s Guide for Newton 2.0](http://www.newted.org/download/manuals/NewtonProgrammerGuide20.pdf) (PDF)
-[The Newted Community: Newton Programmer’s Guide: OS 2.1 Addendum](http://www.newted.org/download/manuals/NewtonProgrammerGuide21Add.pdf) (PDF)
+Resource:
+
+- [Amazon: Newton Programmer’s Guide for Newton 2.0](https://amzn.to/3GxjLsE)
+- [UNNA: Newton Programmer’s Guide for Newton 2.0](http://www.unna.org/unna/apple/documentation/developer/ProgrammersGuideOS2.0.pdf)
+- [UNNA: Newton Programmer’s Guide: OS 2.1 Addendum](http://www.unna.org/unna/apple/documentation/developer/ProgrammersGuideOS2.1Addenum.pdf)
+- [The Newted Community: Newton Programmer’s Guide for Newton 2.0](http://www.newted.org/download/manuals/NewtonProgrammerGuide20.pdf)
+- [The Newted Community: Newton Programmer’s Guide: OS 2.1 Addendum](http://www.newted.org/download/manuals/NewtonProgrammerGuide21Add.pdf)
 
 ----
 

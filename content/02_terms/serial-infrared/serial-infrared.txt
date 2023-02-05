@@ -12,9 +12,11 @@ Transferring data using an [IrDA](/terms/irda)-compatible [infrared](/terms/infr
 
 Also referred to as [Slow Infrared](/terms/slow-infrared) and [SIR](/terms/sir).
 
-### Additional Information
+----
 
-[Smart Dog Software: Newton IrDA White Paper](http://www.smartdogsw.com/backtalk/whitepaper.shtml)
+Resource:
+
+- [Smart Dog Software: Newton IrDA White Paper](http://www.smartdogsw.com/backtalk/whitepaper.shtml)
 
 ----
 

@@ -14,9 +14,11 @@ Deep Toast can also refer to a catastrophic hardware failure, such as a fatal ha
 
 <img src="/assets/images/deep-toast-2x.gif" alt="Screenshot of the Battery Statistics window in Avi’s Backdrop showing a deepToast charge state message" width="220" />
 
-### Additional Information
+----
 
-[This is splorp: Deep Toast](http://splorp.me/2008/02/1878)
+Resource:
+
+- [This is splorp: Deep Toast](http://splorp.me/2008/02/1878)
 
 ----
 

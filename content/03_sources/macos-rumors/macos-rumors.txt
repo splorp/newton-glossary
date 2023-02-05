@@ -9,7 +9,9 @@ Date: 12 August 2019
 Text:
 
 One of the very first insider news sites focused specifically on [Apple](https://www.apple.com/) news and rumours. Founded by Ethan C. Allen in 1995, the site was taken over by Ryan Meader two years later.
-### Additional Information
+----
 
-[Internet Archive: MacOS Rumors Website](https://web.archive.org/web/19980502130412/http://macosrumors.com/)
-[Wikipedia: Apple Community](https://en.wikipedia.org/wiki/Apple_community#MacOS_Rumors)
+Resource:
+
+- [Internet Archive: MacOS Rumors Website](https://web.archive.org/web/19980502130412/http://macosrumors.com/)
+- [Wikipedia: Apple Community](https://en.wikipedia.org/wiki/Apple_community#MacOS_Rumors)

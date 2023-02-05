@@ -10,9 +10,11 @@ Text:
 
 An [extension](/terms/extension) written by [Paul Guyot](/sources/paul-guyot) that improves the [handwriting recognition](/terms/handwriting-recognition) engine built into [Newton OS](/terms/newton-os). This rather awkwardly named software takes into account several parameters, including [dictionary](/terms/dictionary) contents, to change the weight of the suggestions made by the current [recognizer](/terms/recognizer) and makes alternate suggestions.
 
-### Additional Information
+----
 
-[Internet Archive: alt.rec...., The Alternative Recognizer](https://web.archive.org/web/20070814132830/http://www.kallisys.com/newton/alt.rec..../)
+Resource:
+
+- [Internet Archive: alt.rec...., The Alternative Recognizer](https://web.archive.org/web/20070814132830/http://www.kallisys.com/newton/alt.rec..../)
 
 ----
 

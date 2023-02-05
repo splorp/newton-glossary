@@ -10,9 +10,11 @@ Text:
 
 Published by [Apple](https://www.apple.com/) in 1996, this is the definitive reference for the [NewtonScript](/terms/newtonscript) programming language.
 
-### Additional Information
+----
 
-[UNNA: The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf) (PDF)
-[The Newted Community: The NewtonScript Programming Language](http://www.newted.org/download/manuals/NewtonScriptProgramLanguage.pdf) (PDF)
-[Internet Archive: プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation)
-[The Newted Community: プログラミング言語 NewtonScript](http://www.newted.org/download/manuals/NewtonScriptProgramLang_J.pdf) (Japanese Translation) (PDF)
+Resource:
+
+- [UNNA: The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf)
+- [The Newted Community: The NewtonScript Programming Language](http://www.newted.org/download/manuals/NewtonScriptProgramLanguage.pdf)
+- [Internet Archive: プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation)
+- [The Newted Community: プログラミング言語 NewtonScript](http://www.newted.org/download/manuals/NewtonScriptProgramLang_J.pdf) (Japanese Translation)

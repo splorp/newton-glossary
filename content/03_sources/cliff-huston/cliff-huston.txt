@@ -9,7 +9,9 @@ Date: 24 August 2020
 Text:
 
 One of the legendary Huston brothers, Apple employee #27, older brother to [Dick](/sources/dick-huston). Known as an incredibly experienced, if somewhat cynical technician, Cliff designed the analogue board for the original Apple II disk drive, amongst other contributions to the platform.
-### Additional Information
+----
 
-[Folklore: Scrooge McDuck](https://www.folklore.org/StoryView.py?project=Macintosh&story=Scrooge_McDuck.txt)
-[Internet Archive: Early Apple](https://web.archive.org/web/20120624223132/http://homepage.mac.com/cliff_huston/.public/Offering/Early_Apple.html)
+Resource:
+
+- [Folklore: Scrooge McDuck](https://www.folklore.org/StoryView.py?project=Macintosh&story=Scrooge_McDuck.txt)
+- [Internet Archive: Early Apple](https://web.archive.org/web/20120624223132/http://homepage.mac.com/cliff_huston/.public/Offering/Early_Apple.html)

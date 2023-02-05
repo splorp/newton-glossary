@@ -12,9 +12,11 @@ An event or behaviour that is triggered when a specific item is selected in an [
 
 For example, entering the “call” request word into the [assist drawer](/terms/assist-drawer) will trigger an action to dial a telephone number.
 
-### Additional Information
+----
 
-[Apple Support: Newton MessagePad: Using the Newton Assistant](https://support.apple.com/kb/TA29816)
+Resource:
+
+- [Apple Support: Newton MessagePad: Using the Newton Assistant](https://support.apple.com/kb/TA29816)
 
 ----
 

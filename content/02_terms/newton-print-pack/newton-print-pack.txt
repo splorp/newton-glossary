@@ -12,9 +12,11 @@ Developed by [Apple](https://www.apple.com/), the Newton Print Pack was original
 
 Also referred to as [Print Pack](/terms/print-pack) and [NPP](/terms/npp).
 
-### Additional Information
+----
 
-[The Newted Community: Using the Newton Print Pack](http://www.newted.org/download/manuals/0330870ANWTNPRPK.PDF) (PDF)
+Resource:
+
+- [The Newted Community: Using the Newton Print Pack](http://www.newted.org/download/manuals/0330870ANWTNPRPK.PDF)
 
 ----
 

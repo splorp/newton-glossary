@@ -10,7 +10,9 @@ Text:
 
 Co-founder of [Panic](https://panic.com/) and self-proclaimed technology enthusiast, Steve is the developer of the [NewTen](/terms/newten) package installer and the [Unarmed](/terms/unarmed) code disassembly tool.
 
-### Additional Information
+----
 
-[Steven Frank Website](http://stevenf.com/)
-[GitHub: Steven Frank](https://github.com/panicsteve)
+Resource:
+
+- [Steven Frank Website](http://stevenf.com/)
+- [GitHub: Steven Frank](https://github.com/panicsteve)

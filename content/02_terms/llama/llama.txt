@@ -12,9 +12,11 @@ The unofficial mascot of the Apple’s [Developer Technical Services](/terms/dev
 
 Llama is also used as an example of a valid [application](/terms/application) name and [application signature](/terms/application-signature) in the [Newton Programmer’s Guide](/terms/newton-programmers-guide).
 
-### Additional Information
+----
 
-[MacTech: Newton Q & A: Ask The Llama](http://www.mactech.com/articles/develop/issue_26/newtonqa.html)
+Resource:
+
+- [MacTech: Newton Q & A: Ask The Llama](http://www.mactech.com/articles/develop/issue_26/newtonqa.html)
 
 ----
 

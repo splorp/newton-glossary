@@ -12,10 +12,12 @@ A user-friendly [debugging](/terms/debugging) utility for [Newton OS](/terms/new
 
 <img src="/assets/images/bugtrap-2x.gif" alt="Screenshot of the BugTrap settings window" width="193" />
 
-### Additional Information
+----
 
-[BugTrap Read Me](http://npds.free.fr/modules/utilities/BugTrap_Read_Me.txt)
-[Internet Archive: BugTrap Product Information](https://web.archive.org/web/19981205133557/http://www.tactile.com/bugTrap.html)
+Resource:
+
+- [BugTrap Read Me](http://npds.free.fr/modules/utilities/BugTrap_Read_Me.txt)
+- [Internet Archive: BugTrap Product Information](https://web.archive.org/web/19981205133557/http://www.tactile.com/bugTrap.html)
 
 ----
 

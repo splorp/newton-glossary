@@ -10,6 +10,8 @@ Text:
 
 A designer, software developer, system administrator, and self-admitted addict to both technology and information based in Winooski, Vermont. Morgan is the founder of [NewtonScript.org](http://newtonscript.org/) and current caretaker of [UNNA](/terms/unna), the United Network of Newton Archives.
 
-### Additional Information
+----
 
-[Makkintosshu Website](http://www.makkintosshu.com/)
+Resource:
+
+- [Makkintosshu Website](http://www.makkintosshu.com/)

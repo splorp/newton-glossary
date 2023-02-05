@@ -12,9 +12,11 @@ An [application](/terms/application) developed by [Adam Tow](/sources/adam-tow) 
 
 <img src="/assets/images/hypernewt-2x.gif" alt="Screenshot of HyperNewt" width="436" />
 
-### Additional Information
+----
 
-[Tow.com: Newton Software](https://tow.com/projects/newton/)
+Resource:
+
+- [Tow.com: Newton Software](https://tow.com/projects/newton/)
 
 ----
 

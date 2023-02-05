@@ -10,9 +10,11 @@ Text:
 
 Marketing parlance for the [Newton OS](/terms/newton-os) technology that [assists](/terms/assist) users in completing repetitive tasks, such as those related to communication, scheduling events, searching for information, and setting reminders.
 
-### Additional Information
+----
 
-[Internet Archive: MessagePad 2000 Datasheet](https://web.archive.org/web/19980204042002/http://www.newton-inc.com/product_info/devices/MP2000/MP2000ds.html)
+Resource:
+
+- [Internet Archive: MessagePad 2000 Datasheet](https://web.archive.org/web/19980204042002/http://www.newton-inc.com/product_info/devices/MP2000/MP2000ds.html)
 
 ----
 

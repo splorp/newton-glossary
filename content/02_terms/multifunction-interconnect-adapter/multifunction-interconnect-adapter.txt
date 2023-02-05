@@ -10,9 +10,11 @@ Text:
 
 A prototype [dongle](/terms/dongle) developed by [Apple](https://www.apple.com/) that plugged into an [Newton Interconnect](/terms/newton-interconnect) port. The adapter provided standard connections for serial and [AppleTalk](/terms/appletalk) communication, audio input and output, as well as power.
 
-### Additional Information
+----
 
-[Internet Archive: Apple Multifunction Interconnect Adapter](https://web.archive.org/web/20161006201028/http://normalkid.com/collector/inter.html)
+Resource:
+
+- [Internet Archive: Apple Multifunction Interconnect Adapter](https://web.archive.org/web/20161006201028/http://normalkid.com/collector/inter.html)
 
 ----
 

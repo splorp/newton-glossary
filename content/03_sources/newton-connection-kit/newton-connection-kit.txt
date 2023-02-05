@@ -10,6 +10,8 @@ Text:
 
 The user manual for the [Newton Connection Kit](/terms/newton-connection-kit), a consumer product developed by [Apple](https://www.apple.com/) for connecting Newton devices running earlier versions of [Newton OS](/terms/newton-os) to Mac OS and Windows computers.
 
-### Additional Information
+----
 
-[The Newted Community: Newton Connection Kit for Windows User’s Guide](http://www.newted.org/download/manuals/0305277ANCNCTKITWINUG.PDF) (PDF)
+Resource:
+
+- [The Newted Community: Newton Connection Kit for Windows User’s Guide](http://www.newted.org/download/manuals/0305277ANCNCTKITWINUG.PDF)
