@@ -28,4 +28,4 @@ Related:
 
 Source:
 
-- /sources/newton-toolkit-user-guide
+- /sources/newton-toolkit-users-guide
