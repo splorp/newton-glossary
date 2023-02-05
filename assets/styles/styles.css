@@ -145,33 +145,33 @@ article ol {
 	margin-left: 40px;
 	}
 
-article ul.src,
-article ul.rslt {
+article h3.src + ul,
+article h3.rslt + ul {
 	margin-left: 0;
 	}
 
-article ul.src li,
-article ul.rslt li {
+article h3.src + ul li,
+article h3.rslt + ul li {
 	list-style: none;
 	}
 
-article ul.rslt li p {
+article h3.rslt + ul li p {
 	margin-bottom: 0;
 	}
 	
-article ul.rslt li {
+article h3.rslt + ul li {
 	border-bottom: 1px solid #CCC;
 	padding-bottom: 10px;
 	margin-bottom: 10px;
 	}
 
-article ul.rslt li:first-child {
+article h3.rslt + ul li:first-child {
 	border-top: 1px solid #CCC;
 	padding-top: 10px;
 	margin-top: 40px;
 	}
 
-article ul.rslt li:last-child {
+article h3.rslt + ul li:last-child {
 	border-bottom: none;
 	padding-bottom: 0;
 	margin-bottom: 0;

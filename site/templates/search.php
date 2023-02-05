@@ -12,8 +12,8 @@
 
 		<?php if($pagination->total() > 0) : ?>
 		<?php if($pagination->total() == 1) : go($results); endif ?>
-		<h3><?php echo $pagination->total() . ' item'; echo ($pagination->total() > 1) ? 's' : ''; echo ' found'; ?></h3>
-		<ul class="rslt">
+		<h3 class="rslt"><?php echo $pagination->total() . ' item'; echo ($pagination->total() > 1) ? 's' : ''; echo ' found'; ?></h3>
+		<ul>
 			<?php foreach($results as $result): ?>
 			<li><a href="/<?php echo $result ?>"><?php echo $result->title()->html() ?></a><br />
 			<?php echo $result->text()->excerpt(140) ?></li>
