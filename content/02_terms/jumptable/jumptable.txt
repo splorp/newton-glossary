@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Jump Table](/terms/jump-table)
+See: [Jump Table](/terms/jump-table)

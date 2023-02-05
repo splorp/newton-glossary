@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-See [Silkscreen Button](/terms/silkscreen-button)
+See: [Silkscreen Button](/terms/silkscreen-button)
 
 ----
 

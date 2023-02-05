@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-See [Ink Window](/terms/ink-window)
+See: [Ink Window](/terms/ink-window)
 
 ----
 

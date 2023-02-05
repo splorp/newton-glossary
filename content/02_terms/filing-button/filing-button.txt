@@ -8,7 +8,7 @@ Date: 06 December 2017
 
 Text:
 
-See [Folder Button](/terms/folder-button)
+See: [Folder Button](/terms/folder-button)
 
 ----
 

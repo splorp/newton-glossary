@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Personal Digital Assistant](/terms/personal-digital-assistant)
+See: [Personal Digital Assistant](/terms/personal-digital-assistant)

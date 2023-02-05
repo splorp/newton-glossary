@@ -8,4 +8,4 @@ Date: 01 February 2023
 
 Text:
 
-See [Classroom Exchange](/terms/classroom-exchange)
+See: [Classroom Exchange](/terms/classroom-exchange)

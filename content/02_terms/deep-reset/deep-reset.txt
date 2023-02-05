@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Power Reset](/terms/power-reset)
+See: [Power Reset](/terms/power-reset)

@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-See [Long Term Storage](/terms/long-term-storage)
+See: [Long Term Storage](/terms/long-term-storage)
 
 ----
 

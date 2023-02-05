@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-See [Book Maker Commands](/terms/book-maker-commands)
+See: [Book Maker Commands](/terms/book-maker-commands)
 
 ----
 

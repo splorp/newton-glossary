@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Date Book](/terms/date-book)
+See: [Date Book](/terms/date-book)

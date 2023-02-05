@@ -8,7 +8,7 @@ Date: 21 January 2018
 
 Text:
 
-See [External Store](/terms/external-store)
+See: [External Store](/terms/external-store)
 
 ----
 

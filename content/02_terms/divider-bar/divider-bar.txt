@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-See [Separator Bar](/terms/separator-bar)
+See: [Separator Bar](/terms/separator-bar)
 
 ----
 

@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Newton Internet Enabler](/terms/newton-internet-enabler)
+See: [Newton Internet Enabler](/terms/newton-internet-enabler)

@@ -8,7 +8,7 @@ Date: 25 October 2017
 
 Text:
 
-See [Hot Insertion](/terms/hot-insertion)
+See: [Hot Insertion](/terms/hot-insertion)
 
 ----
 

@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Freeze](/terms/freeze)
+See: [Freeze](/terms/freeze)

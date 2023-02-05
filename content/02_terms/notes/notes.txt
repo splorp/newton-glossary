@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Notepad](/terms/notepad)
+See: [Notepad](/terms/notepad)

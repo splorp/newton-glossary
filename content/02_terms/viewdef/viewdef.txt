@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-See [View Definition](/terms/view-definition)
+See: [View Definition](/terms/view-definition)
 
 ----
 

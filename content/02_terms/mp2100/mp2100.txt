@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [MessagePad 2100](/terms/messagepad-2100)
+See: [MessagePad 2100](/terms/messagepad-2100)

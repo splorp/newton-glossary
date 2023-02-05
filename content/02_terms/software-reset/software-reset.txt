@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Soft Reset](/terms/soft-reset)
+See: [Soft Reset](/terms/soft-reset)

@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Power Port](/terms/power-port)
+See: [Power Port](/terms/power-port)

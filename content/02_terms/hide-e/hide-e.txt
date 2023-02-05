@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [HideEworld](/terms/hideeworld)
+See: [HideEworld](/terms/hideeworld)

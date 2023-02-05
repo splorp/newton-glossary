@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Post MessagePad Syndrome](/terms/post-messagepad-syndrome)
+See: [Post MessagePad Syndrome](/terms/post-messagepad-syndrome)

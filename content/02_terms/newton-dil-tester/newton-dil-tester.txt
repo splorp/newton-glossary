@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-See [Newton Data Browser](/terms/newton-data-browser)
+See: [Newton Data Browser](/terms/newton-data-browser)
 
 ----
 

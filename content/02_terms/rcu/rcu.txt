@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-See [Revelar Connection Utility](/terms/revelar-connection-utility)
+See: [Revelar Connection Utility](/terms/revelar-connection-utility)
 
 ----
 

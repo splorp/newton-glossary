@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Device Driver](/terms/device-driver)
+See: [Device Driver](/terms/device-driver)

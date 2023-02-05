@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Application Definition Format](/terms/application-definition-format)
+See: [Application Definition Format](/terms/application-definition-format)

@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Thawed Package](/terms/thawed-package)
+See: [Thawed Package](/terms/thawed-package)

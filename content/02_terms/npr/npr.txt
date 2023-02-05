@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Newton Programmer’s Reference](/terms/newton-programmers-reference)
+See: [Newton Programmer’s Reference](/terms/newton-programmers-reference)

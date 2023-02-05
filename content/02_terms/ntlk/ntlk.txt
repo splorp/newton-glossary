@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [NewtonTalk](/terms/newtontalk)
+See: [NewtonTalk](/terms/newtontalk)

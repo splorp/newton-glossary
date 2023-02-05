@@ -8,7 +8,7 @@ Date: 21 November 2017
 
 Text:
 
-See [Unflattening](/terms/unflattening)
+See: [Unflattening](/terms/unflattening)
 
 ----
 

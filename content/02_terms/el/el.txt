@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Electroluminescent Panel](/terms/electroluminescent-panel)
+See: [Electroluminescent Panel](/terms/electroluminescent-panel)

@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Newton Backup Utility](/terms/newton-backup-utility)
+See: [Newton Backup Utility](/terms/newton-backup-utility)

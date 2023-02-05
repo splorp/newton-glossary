@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Newton Systems Group](/terms/newton-systems-group) and [Newton Solutions Guide](/terms/newton-solutions-guide)
+See: [Newton Systems Group](/terms/newton-systems-group) and [Newton Solutions Guide](/terms/newton-solutions-guide)

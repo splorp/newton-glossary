@@ -8,7 +8,7 @@ Date: 31 December 2017
 
 Text:
 
-See [Busy Cursor](/terms/busy-cursor)
+See: [Busy Cursor](/terms/busy-cursor)
 
 ----
 

@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Desktop Computer](/terms/desktop-computer)
+See: [Desktop Computer](/terms/desktop-computer)

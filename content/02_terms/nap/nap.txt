@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Newton Associates Program](/terms/newton-associates-program)
+See: [Newton Associates Program](/terms/newton-associates-program)

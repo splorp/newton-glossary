@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Touch Tone](/terms/touch-tone)
+See: [Touch Tone](/terms/touch-tone)

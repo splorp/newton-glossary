@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Screen](/terms/screen)
+See: [Screen](/terms/screen)

@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Handwriting Recognition](/terms/handwriting-recognition)
+See: [Handwriting Recognition](/terms/handwriting-recognition)

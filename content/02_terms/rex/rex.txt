@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [ROM Extension](/terms/rom-extension)
+See: [ROM Extension](/terms/rom-extension)

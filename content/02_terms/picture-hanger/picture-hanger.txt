@@ -8,7 +8,7 @@ Date: 05 September 2017
 
 Text:
 
-See [Drag Handle](/terms/drag-handle)
+See: [Drag Handle](/terms/drag-handle)
 
 ----
 

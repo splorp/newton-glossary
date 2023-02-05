@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Dr Llama](/terms/dr-llama)
+See: [Dr Llama](/terms/dr-llama)

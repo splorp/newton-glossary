@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Name File](/terms/name-file)
+See: [Name File](/terms/name-file)

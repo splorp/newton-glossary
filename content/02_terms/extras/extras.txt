@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Extras Drawer](/terms/extras-drawer)
+See: [Extras Drawer](/terms/extras-drawer)

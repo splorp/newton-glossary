@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Newton User Group](/terms/newton-user-group)
+See: [Newton User Group](/terms/newton-user-group)

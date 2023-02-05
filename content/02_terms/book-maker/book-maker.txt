@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See [Newton Book Maker](/terms/newton-book-maker)
+See: [Newton Book Maker](/terms/newton-book-maker)

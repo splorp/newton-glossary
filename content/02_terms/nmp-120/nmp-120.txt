@@ -10,7 +10,7 @@ Text:
 
 Newton MessagePad 120
 
-See [MessagePad 120](/terms/messagepad-120)
+See: [MessagePad 120](/terms/messagepad-120)
 
 ----
 
