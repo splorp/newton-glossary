@@ -16,7 +16,7 @@ Related:
 
 - /terms/battery-gauge
 - /terms/button
-- /terms/status-bar	
+- /terms/status-bar
 - /terms/time-date
 - /terms/user-interface
 

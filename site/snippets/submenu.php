@@ -1,8 +1,8 @@
-<?php 
+<?php
 
 // Determine which first level page in open
 $open  = $pages->findOpen();
-$items = ($open) ? $open->children() : false; 
+$items = ($open) ? $open->children() : false;
 
 // Sort pages by title
 $sorted = $page->children()->sortBy('title');
@@ -19,7 +19,7 @@ $alphabetise = alphabetise($sorted, array('key' => 'title', 'orderby'=>SORT_STRI
 	<ul>
 		<?php foreach($items as $item): ?>
 		<li><a href="/<?php echo $item ?>"><?php echo html($item->title()) ?></a></li>
-		<?php endforeach ?>            
+		<?php endforeach ?>
 	</ul>
 	<?php endforeach ?>
 </nav>

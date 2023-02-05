@@ -46,7 +46,7 @@ Kirby::plugin('splorp/paperback-export', [
 				if (! $includeUnlisted) {
 					$pages = $pages->listed();
 				}
-				
+
 				/* Include only the children of specified pages */
 
 				if ($includeChildren) {
@@ -60,7 +60,7 @@ Kirby::plugin('splorp/paperback-export', [
 				/* Check whether to include a datestamp */
 
 				if ($includeDatestamp) { $datestamp = date('Y-M-d'); } else { $datestamp = ''; }
-				
+
 				/* Define template and variables */
 
 				$template  = __DIR__ . '/snippets/export.php';

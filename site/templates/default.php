@@ -9,7 +9,7 @@
 		<?php echo $page->text()->kirbytext() ?>
 
 		<?php $page->isChildOf($pages->find('terms')) || $page->isChildOf($pages->find('sources')) ? '' : snippet('submenu'); ?>
-	
+
 		<?php if($page->resource()->exists()): ?>
 		<?php echo '<h3 class="src">Additional Information</h3>'; ?>
 		<?php $n=0; foreach($page->resource()->markdown() as $resource): $n++; ?>

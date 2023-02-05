@@ -56,7 +56,7 @@ Use if the referenced term is an commonly misspelled or mangled version of the s
 
 + Colloquially referred to as …
 
-Use if the referenced term is a quirky or derogatory name for the source term.	
+Use if the referenced term is a quirky or derogatory name for the source term.
 
 ### Capitalization of terms
 

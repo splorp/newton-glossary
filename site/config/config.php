@@ -65,7 +65,7 @@ return [
 				$stylesheet = f::read(kirby()->root('snippets') . '/sitemap.xsl');
 				return new response($stylesheet, 'xsl');
 			}
-		],		
+		],
 	],
 	'schnti.cachebuster.active' => false,
 	'splorp.paperback-export.prefix' => '@@TOC ',
