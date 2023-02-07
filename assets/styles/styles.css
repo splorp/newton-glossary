@@ -132,7 +132,7 @@ code {
 	border-radius: 3px;
 	border: 1px solid #CCC;
 	color: #333;
-	font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 	font-size: 15px;
 	line-height: initial;
 	padding: 2px 5px 1px 5px;
@@ -145,32 +145,38 @@ article ol {
 	margin-left: 40px;
 	}
 
+article h2.rslt + p + ul,
 article h3.src + ul,
 article h3.rslt + ul {
 	margin-left: 0;
 	}
 
+article h2.rslt + p + ul li,
 article h3.src + ul li,
 article h3.rslt + ul li {
 	list-style: none;
 	}
 
+article h2.rslt + p + ul li p,
 article h3.rslt + ul li p {
 	margin-bottom: 0;
 	}
 
+article h2.rslt + p + ul li,
 article h3.rslt + ul li {
 	border-bottom: 1px solid #CCC;
 	padding-bottom: 10px;
 	margin-bottom: 10px;
 	}
 
+article h2.rslt + p + ul li:first-child,
 article h3.rslt + ul li:first-child {
 	border-top: 1px solid #CCC;
 	padding-top: 10px;
 	margin-top: 40px;
 	}
 
+article h2.rslt + p + ul li:last-child,
 article h3.rslt + ul li:last-child {
 	border-bottom: none;
 	padding-bottom: 0;
