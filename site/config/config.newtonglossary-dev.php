@@ -38,24 +38,24 @@ return [
 	],
 	'routes' => [
 		[
-			'pattern' => 'sitemap.xml',
+			'pattern' => 'sitemap',
 			'action' => function() {
-					$pages = site()->pages()->index();
+				$pages = site()->pages()->index();
 
-					// Fetch list of pages to ignore from the config file
-					// If nothing is set in teh config file, ignore the error page
-					$ignore = kirby()->option('sitemap.ignore', ['error']);
+				// Fetch list of pages to ignore from the config file
+				// If nothing is set in the config file, ignore the error page
+				$ignore = kirby()->option('sitemap.ignore', ['error']);
 
-					$content = snippet('sitemap', compact('pages', 'ignore'), true);
+				$content = snippet('sitemap', compact('pages', 'ignore'), true);
 
-					// return response with correct header type
-					return new Kirby\Cms\Response($content, 'application/xml');
+				// return response with correct header type
+				return new Kirby\Cms\Response($content, 'application/xml');
 			}
 		],
 		[
-			'pattern' => 'sitemap',
+			'pattern' => 'sitemap.xml',
 			'action' => function() {
-				return go('sitemap.xml', 301);
+				return go('sitemap', 301);
 			}
 		],
 		[
@@ -64,6 +64,26 @@ return [
 			'action' => function() {
 				$stylesheet = f::read(kirby()->root('snippets') . '/sitemap.xsl');
 				return new response($stylesheet, 'xsl');
+			}
+		],
+		[
+			'pattern' => 'latest/feed',
+			'action' => function() {
+				$page = page('latest');
+				$site = site();
+				$pages = pages('terms', 'sources')->children()->filterBy('date', '!=', '')->sortBy(function ($pages) {
+					return $pages->date()->toDate();
+				}, 'desc')->limit(100);
+				$content = snippet('latest', compact('site', 'page', 'pages'), true);
+
+				// return response with correct header type
+				return new Kirby\Cms\Response($content, 'application/xml');
+			}
+		],
+		[
+			'pattern' => 'latest.xml',
+			'action' => function() {
+				return go('latest/feed', 301);
 			}
 		],
 	],
