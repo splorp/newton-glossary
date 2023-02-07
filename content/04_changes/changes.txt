@@ -27,7 +27,10 @@ Sources: _$s
 
 + Added 1 new term
 + Updated and expanded dozens of existing entries
++ Moved “Additional Information” links to their own field for flexibility
++ Added [RSS feed](/latest/feed) for the [Latest Additions](/latest) page
 + Removed keywords from the page meta because [SEO ruined everything](https://ahrefs.com/blog/meta-keywords/)
++ Deprecated [Cachebuster](https://github.com/schnti/kirby3-cachebuster) plugin
 + Updated [Kirby](https://getkirby.com/) to version [3.9.1](https://github.com/getkirby/kirby/releases/tag/3.9.1)
 
 ### 3.0.6
@@ -235,7 +238,7 @@ Sources: 109
 + Added 20 new terms
 + Added 2 new sources
 + Updated and expanded dozens of existing entries
-+ Added [sitemap](/sitemap.xml) link to footer
++ Added [Sitemap](/sitemap) link to footer
 + Added current version number to footer
 + Added title attributes to main navigational links
 + Improved handling of UTF-8 encoded characters in alphabetical listings
@@ -290,7 +293,7 @@ Sources: 98
 + Legacy domain links now redirect to [newtonglossary.com](https://newtonglossary.com/)
 + Implemented [Kirby GA](https://github.com/kirby-deprecated-plugins/kirby-ga) plugin for [Google Analytics](https://www.google.com/analytics/) integration
 + Implemented [Kirby XML Sitemap](https://github.com/pedroborges/kirby-xml-sitemap) plugin
-+ Added XML [sitemap](/sitemap.xml) for search engine indexing
++ Added XML [sitemap](/sitemap) for search engine indexing
 
 ### 2.2.1
 
