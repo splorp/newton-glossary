@@ -52,7 +52,7 @@ Redirect 301 /terms/personal-interactive-electronics https://newtonglossary.com/
 Redirect 301 /terms/public-jumptable https://newtonglossary.com/terms/public-jump-table
 Redirect 301 /terms/softwareburo-muller https://newtonglossary.com/sources/softwareburo-muller
 
-# Add modification timestamps to css and js files via Cachebuster plugin
+# Modification timestamp handling for css and js files via header snippet
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^(.+)\.(\d+)\.(js|css)$ $1.$3 [L]
 
