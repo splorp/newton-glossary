@@ -22,36 +22,6 @@ RewriteCond %{HTTP_HOST} !^newtonglossary.com$ [NC]
 # RewriteCond %{HTTPS} !=on
 # RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
 
-# Redirect legacy pages
-Redirect 301 /sources/ezshow https://newtonglossary.com/sources/ezshow-systems
-Redirect 301 /sources/newton-apple-messagepad-handbook https://newtonglossary.com/sources/messagepad-handbook-1993
-Redirect 301 /sources/newton-toolkit-user-guide https://newtonglossary.com/sources/newton-toolkit-users-guide
-Redirect 301 /terms/01-2k https://newtonglossary.com/terms/2k
-Redirect 301 /terms/01-2k1 https://newtonglossary.com/terms/2k1
-Redirect 301 /terms/01-21k https://newtonglossary.com/terms/21k
-Redirect 301 /terms/01-100lt https://newtonglossary.com/terms/100lt
-Redirect 301 /terms/01-100mp https://newtonglossary.com/terms/100mp
-Redirect 301 /terms/01-100mps https://newtonglossary.com/terms/100mps
-Redirect 301 /terms/01-100mps-plus https://newtonglossary.com/terms/100mps-plus
-Redirect 301 /terms/01-105mps https://newtonglossary.com/terms/105mps
-Redirect 301 /terms/01-110mp https://newtonglossary.com/terms/110mp
-Redirect 301 /terms/01-802-11 https://newtonglossary.com/terms/802-11
-Redirect 301 /terms/autoexpand https://newtonglossary.com/terms/auto-expand
-Redirect 301 /terms/autoexpansion https://newtonglossary.com/terms/auto-expansion
-Redirect 301 /terms/autoexpansion-dictionary https://newtonglossary.com/terms/auto-expansion-dictionary
-Redirect 301 /terms/central-processing-unit https://newtonglossary.com/terms/cpu
-Redirect 301 /terms/electro-luminescent-panel https://newtonglossary.com/terms/electroluminescent-panel
-Redirect 301 /terms/hidee https://newtonglossary.com/terms/hideeworld
-Redirect 301 /terms/in-out-box https://newtonglossary.com/terms/inout-box
-Redirect 301 /terms/llama-dos https://newtonglossary.com/terms/llamados
-Redirect 301 /terms/memory-management-unit https://newtonglossary.com/terms/mmu
-Redirect 301 /terms/nickel-cadmium https://newtonglossary.com/terms/nicd
-Redirect 301 /terms/nickel-metal-hydride https://newtonglossary.com/terms/nimh
-Redirect 301 /terms/patchable-jumptable https://newtonglossary.com/terms/patchable-jump-table
-Redirect 301 /terms/personal-interactive-electronics https://newtonglossary.com/terms/pie
-Redirect 301 /terms/public-jumptable https://newtonglossary.com/terms/public-jump-table
-Redirect 301 /terms/softwareburo-muller https://newtonglossary.com/sources/softwareburo-muller
-
 # Modification timestamp handling for css and js files via header snippet
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^(.+)\.(\d+)\.(js|css)$ $1.$3 [L]

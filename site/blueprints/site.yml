@@ -19,11 +19,15 @@ columns:
         type: pages
         create: default
         templates:
+          - about
           - changes
           - default
           - error
           - home
           - latest
           - search
+          - sources
+          - style
+          - terms
       redirects:
         extends: plugin-redirects3xx

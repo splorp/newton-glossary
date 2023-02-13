@@ -2,6 +2,124 @@ Title: Newton Glossary
 
 ----
 
+Redirects:
+
+- 
+  fromuri: /sources/ezshow
+  touri: /sources/ezshow-systems
+  code: _301
+- 
+  fromuri: >
+    /sources/newton-apple-messagepad-handbook
+  touri: /sources/messagepad-handbook-1993
+  code: _301
+- 
+  fromuri: /sources/newton-toolkit-user-guide
+  touri: /sources/newton-toolkit-users-guide
+  code: _301
+- 
+  fromuri: /terms/01-2k
+  touri: /terms/2k
+  code: _301
+- 
+  fromuri: /terms/01-2k1
+  touri: /terms/2k1
+  code: _301
+- 
+  fromuri: /terms/01-21k
+  touri: /terms/21k
+  code: _301
+- 
+  fromuri: /terms/01-100lt
+  touri: /terms/100lt
+  code: _301
+- 
+  fromuri: /terms/01-100mp
+  touri: /terms/100mp
+  code: _301
+- 
+  fromuri: /terms/01-100mps
+  touri: /terms/100mps
+  code: _301
+- 
+  fromuri: /terms/01-100mps-plus
+  touri: /terms/100mps-plus
+  code: _301
+- 
+  fromuri: /terms/01-105mps
+  touri: /terms/105mps
+  code: _301
+- 
+  fromuri: /terms/01-110mp
+  touri: /terms/110mp
+  code: _301
+- 
+  fromuri: /terms/01-802-11
+  touri: /terms/802-11
+  code: _301
+- 
+  fromuri: /terms/autoexpand
+  touri: /terms/auto-expand
+  code: _301
+- 
+  fromuri: /terms/autoexpansion
+  touri: /terms/auto-expansion
+  code: _301
+- 
+  fromuri: /terms/autoexpansion-dictionary
+  touri: /terms/auto-expansion-dictionary
+  code: _301
+- 
+  fromuri: /terms/central-processing-unit
+  touri: /terms/cpu
+  code: _301
+- 
+  fromuri: /terms/electro-luminescent-panel
+  touri: /terms/electroluminescent-panel
+  code: _301
+- 
+  fromuri: /terms/hidee
+  touri: /terms/hideeworld
+  code: _301
+- 
+  fromuri: /terms/in-out-box
+  touri: /terms/inout-box
+  code: _301
+- 
+  fromuri: /terms/llama-dos
+  touri: /terms/llamados
+  code: _301
+- 
+  fromuri: /terms/memory-management-unit
+  touri: /terms/mmu
+  code: _301
+- 
+  fromuri: /terms/nickel-cadmium
+  touri: /terms/nicd
+  code: _301
+- 
+  fromuri: /terms/nickel-metal-hydride
+  touri: /terms/nimh
+  code: _301
+- 
+  fromuri: /terms/patchable-jumptable
+  touri: /terms/patchable-jump-table
+  code: _301
+- 
+  fromuri: /terms/personal-interactive-electronics
+  touri: /terms/pie
+  code: _301
+- 
+  fromuri: /terms/public-jumptable
+  touri: /terms/public-jump-table
+  code: _301
+- 
+  fromuri: /terms/softwareburo-muller
+  touri: /sources/softwareburo-muller
+  code: _301
+
+----
+
 Author: Grant Hutchinson
 
 ----
