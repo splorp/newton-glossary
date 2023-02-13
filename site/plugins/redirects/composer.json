@@ -1,0 +1,77 @@
+{
+  "name": "bnomei/kirby3-redirects",
+  "type": "kirby-plugin",
+  "description": "Setup HTTP Status Code Redirects from within the Kirby Panel",
+  "version": "1.5.7",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bruno Meilick",
+      "email": "b@bnomei.com"
+    }
+  ],
+  "keywords": [
+    "kirby3",
+    "kirby3-cms",
+    "kirby3-plugin",
+    "redirect",
+    "301",
+    "302",
+    "307",
+    "308",
+    "status-codes",
+    "header",
+    "redirects"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Bnomei\\": "classes/"
+    }
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true,
+    "allow-plugins": {
+      "getkirby/composer-installer": true
+    }
+  },
+  "scripts": {
+    "analyze": "phpstan analyse classes",
+    "fix": "php-cs-fixer fix",
+    "test": [
+      "mkdir -p tests/logs",
+      "@putenv XDEBUG_MODE=coverage",
+      "phpunit --configuration ./phpunit.xml"
+    ],
+    "dist": [
+      "composer install --no-dev --optimize-autoloader",
+      "git rm -rf --cached .; git add .;"
+    ],
+    "kirby": [
+      "composer install",
+      "composer update",
+      "composer install --working-dir=tests/kirby --no-dev --optimize-autoloader",
+      "composer update --working-dir=tests/kirby"
+    ]
+  },
+  "require": {
+    "php": ">=8.0",
+    "getkirby/composer-installer": "^1.2"
+  },
+  "require-dev": {
+    "getkirby/cms": "^3.5",
+    "php-coveralls/php-coveralls": "^2.4",
+    "phpunit/phpunit": "^9.5"
+  },
+  "extra": {
+    "kirby-cms-path": "tests/kirby"
+  },
+  "suggest": {
+    "bnomei/kirby3-csv": "Adds functions to import and export data from structures (like the redirect table)",
+    "bnomei/kirby3-feed": "Add xml-rss and/or json feed",
+    "bnomei/kirby3-robots-txt": "Automatic robots.txt. Detects xmlsitemap.",
+    "bnomei/kirby3-security-headers": "CPS headers to make the the web a saver place. Sensible defaults with zero configuration.",
+    "omz13/kirby3-xmlsitemap": "Adds a xml sitemap",
+    "distantnative/retour-for-kirby": "Better choice than bnomei\\kirby3-redirects if you are porting a Kirby 2 website."
+  }
+}
