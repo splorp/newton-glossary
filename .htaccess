@@ -22,10 +22,6 @@ RewriteCond %{HTTP_HOST} !^newtonglossary.com$ [NC]
 # RewriteCond %{HTTPS} !=on
 # RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
 
-# Modification timestamp handling for css and js files via header snippet
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^(.+)\.(\d+)\.(js|css)$ $1.$3 [L]
-
 # Block files and folders beginning with a dot, such as .git
 # Except for the .well-known folder, which is used for Let’s Encrypt and security.txt
 RewriteRule (^|/)\.(?!well-known\/) index.php [L]

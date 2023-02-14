@@ -23,7 +23,7 @@
 			defined('DS') or define('DS', '/');
 			$url = 'assets/styles/styles.css';
 			$file = $kirby->roots()->index() . DS . $url;
-			echo '<link href="' . DS . F::dirname($url) . DS . F::name($url) . '.' . F::modified($file) . '.css" rel="stylesheet">' . PHP_EOL;
+			echo '<link href="' . DS . F::dirname($url) . DS . F::name($url) . '.css?' . F::modified($file) . '" rel="stylesheet" />' . PHP_EOL;
 		?>
 	</head>
 
