@@ -14,7 +14,7 @@ Text:
 
 The original idea behind the creation of the [Newton Glossary](/) was to provide a single, accessible resource for terminology related specifically to the Newton.
 
-A significant number of the terms found in the glossary were initially compiled between 2001 and 2004 by [Grant Hutchinson](https://splorp.me/). Numerous [sources](/sources) were used, along with help from knowledgable folks such as [Paul Guyot](https://www.kallisys.com/), [Victor Rehorst](https://www.chuma.org/), and countless members of the [NewtonTalk](http://newtontalk.net/) community.
+A significant number of the terms found in the glossary were initially compiled between 2001 and 2004 by [Grant Hutchinson](https://splorp.com/). Numerous [sources](/sources) were used, along with help from knowledgable folks such as [Paul Guyot](https://www.kallisys.com/), [Victor Rehorst](https://www.chuma.org/), and countless members of the [NewtonTalk](http://newtontalk.net/) community.
 
 Although it’s quite out of date, [Morgan Aldridge](http://www.makkintosshu.com/) has maintained a [searchable version](http://tools.unna.org/glossary/) of the glossary as part of the [United Network of Newton Archives](http://www.unna.org/).
 
@@ -61,7 +61,8 @@ To add a bit of spit and polish to our Kirby experience, we use the following ha
 + [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) _by [Russ Baldwin](https://shoesforindustry.net/)_
 + [Kirby Clear Cache](https://owebstudio.com/kirby/plugins/clear-cache) _by [Oweb Studio](https://owebstudio.com/)_
 + [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) _by [Pedro Borges](https://pedroborg.es/)_
-+ [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) _by [Grant Hutchinson](https://splorp.me/)_
++ [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) _by [Grant Hutchinson](https://splorp.com/)_
++ [Kirby Redirects](https://github.com/bnomei/kirby3-redirects) _by [Bruno Meilick](https://bnomei.github.io/)_
 + [XML Sitemap Stylesheet](https://github.com/pedroborges/xml-sitemap-stylesheet) _by [Pedro Borges](https://pedroborg.es/)_
 
 And finally, god bless [BBEdit](https://www.barebones.com/products/bbedit/).
