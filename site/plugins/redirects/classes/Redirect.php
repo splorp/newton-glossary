@@ -31,10 +31,27 @@ final class Redirect
     public function matches(string $url): bool
     {
         $from = rtrim($this->from(), '/');
-        return in_array($url, [
+
+        // plain string
+        if (in_array($url, [
             $from,
             $from . '/', // issue #10
-        ]);
+        ])) {
+            return true;
+        }
+
+        // regex
+        $pattern = '~^' . $from . '$~'; // regex delimiters
+        if (preg_match($pattern, $url, $matches) === 1) {
+            if (count($matches) > 1) {
+                foreach ($matches as $key => $value) {
+                    $this->touri = str_replace('$' . $key, $value, $this->touri);
+                }
+            }
+            return true;
+        }
+
+        return false;
     }
 
     public function from(): string

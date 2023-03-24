@@ -8,9 +8,9 @@
 [![Twitter](https://flat.badgen.net/badge/twitter/bnomei?color=66d9ef)](https://twitter.com/bnomei)
 
 
-Setup [HTTP Status Code](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#3xx_Redirection)  Redirects from within the Kirby Panel.
+Setup performant [HTTP Status Code](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#3xx_Redirection) Redirects from within the Kirby Panel.
 
-Kirby 3 Redirects can handle Request-URIs like `projects?id=123`, `project/cool.html` and send Response-URIs like `https://exter.nal`. This makes it the ideal choice when porting a non Kirby project.
+Kirby 3 Redirects can redirect any request URI to any response URI. It can also handle querystrings and regex.
 
 ## Similar Plugin
 
@@ -52,9 +52,27 @@ sections:
     extends: plugin-redirects3xx
 ```
 
-> If you need all http codes you can use `extends: plugin-redirects` instead which calls the api to retrieve them (once for each redirect). This is not advised if you have a lot of redirects.
+> If you need all http codes you can use `extends: plugin-redirects` instead.
 
-> Since v1.1.0 the plugin will register itself with a `route:before`-hook and take care of the redirecting automatically. Many thanks to _Sebastian Aschenbach_ for suggesting this solution.
+## Usage
+
+In the structure field or using the provided site methods add Request-URIs `fromuri` like 
+
+- `projects/cool`
+- `projects?id=123`
+- `projects/cool.html`
+- `projects\/.*\.html`
+- `blog/(?P<year>\d{4})_(?P<slug>.*)\.html`
+
+and set Response-URIs `touri` like 
+
+- `projects/changed-slug`
+- `https://exter.nal`
+- `blog/$year/$slug`
+
+as well as a HTTP Status Code `code` like `301` or `302`.
+
+This makes it the ideal choice when porting a non Kirby project.
 
 ## Site Methods
 
