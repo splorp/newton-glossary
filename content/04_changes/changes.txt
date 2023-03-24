@@ -30,13 +30,14 @@ Sources: _$s
 + Moved “Additional Information” links to their own field for flexibility
 + Added [RSS feed](/latest/feed) for the [Latest Additions](/latest) page
 + Removed keywords from the page meta because [SEO ruined everything](https://ahrefs.com/blog/meta-keywords/)
-+ Deprecated [Cachebuster](https://github.com/schnti/kirby3-cachebuster) plugin
++ Simplified the way the stylesheet is timestamped when modified
++ Updated [Kirby](https://getkirby.com/) to version [3.9.2](https://github.com/getkirby/kirby/releases/tag/3.9.2)
 + Implemented [Kirby Redirects](https://github.com/bnomei/kirby3-redirects) plugin
-+ Updated [Kirby](https://getkirby.com/) to version [3.9.1](https://github.com/getkirby/kirby/releases/tag/3.9.1)
++ Deprecated [Cachebuster](https://github.com/schnti/kirby3-cachebuster) plugin
 
 ### 3.0.6
 
-20 January 2022
+20 January 2023
 
 Terms: 1,300
 Sources: 137
