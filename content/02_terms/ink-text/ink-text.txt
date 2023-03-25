@@ -23,6 +23,7 @@ Related:
 - /terms/inker
 - /terms/raw-ink
 - /terms/recognition-button
+- /terms/recognized-text
 - /terms/sketch-ink
 
 ----

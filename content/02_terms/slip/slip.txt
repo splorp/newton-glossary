@@ -8,9 +8,7 @@ Date:
 
 Text:
 
-A [container view](/terms/container-view) designated with a [matte border](/terms/matte-border) that an [application](/terms/application) displays to obtain detailed user [input](/terms/input), or to present alternatives which a user may choose to determine the outcome of a task that has been started.
-
-_This entry requires a screenshot._
+A [container view](/terms/container-view) with a [matte border](/terms/matte-border) displayed by an [application](/terms/application) in order to obtain user [input](/terms/input), or to present alternatives which a user may choose to determine the outcome of a task that has been started.
 
 ----
 
