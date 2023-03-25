@@ -10,7 +10,7 @@ Text:
 
 A [view](/terms/view) that appears onscreen as part of the [user interface](/terms/user-interface), warning the user or reporting an error. A notification slip may or may not be accompanied by an [alert sound](/terms/alert-sound).
 
-<img src="/assets/images/notification-slip-2X.gif" alt="Screenshot of a Notification Slip" width="208" />
+<img src="/assets/images/notification-slip-2x.gif" alt="Screenshot of a Notification Slip" width="208" />
 
 ----
 
