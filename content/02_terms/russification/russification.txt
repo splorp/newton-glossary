@@ -16,8 +16,8 @@ Once a Newton device has gone through this process, it is said to have been [Rus
 
 Resource:
 
-- [Internet Archive: Ньютон в России](https://web.archive.org/web/20020807203309/http://www.worklogic.com/russian-newton/) (Newton in Russia)
-- [Internet Archive: Русификация](https://web.archive.org/web/20020809090452/http://www.worklogic.com/russian-newton/russian.htm) (Russification)
+- [Ньютон в России](https://web.archive.org/web/20020807203309/http://www.worklogic.com/russian-newton/) (Newton in Russia)
+- [Ньютон в России: Русификация](https://web.archive.org/web/20020809090452/http://www.worklogic.com/russian-newton/russian.htm) (Russification)
 
 ----
 

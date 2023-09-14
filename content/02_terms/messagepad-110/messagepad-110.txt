@@ -19,8 +19,8 @@ The MessagePad 110 is commonly referred to as an [MP110](/terms/mp110).
 Resource:
 
 - [Apple Support: Newton MessagePad: Comparison to other Models](https://support.apple.com/kb/TA31252)
-- [Internet Archive: Newton MessagePad 110: Description](https://web.archive.org/web/20020220091529/http://karchive.info.apple.com/article.html?artnum=14759)
-- [Internet Archive: Newton MessagePad 110: Specifications](https://web.archive.org/web/20020220091539/http://karchive.info.apple.com/article.html?artnum=14760)
+- [Apple Support: Newton MessagePad 110: Description](https://web.archive.org/web/20020220091529/http://karchive.info.apple.com/article.html?artnum=14759)
+- [Apple Support: Newton MessagePad 110: Specifications](https://web.archive.org/web/20020220091539/http://karchive.info.apple.com/article.html?artnum=14760)
 
 ----
 

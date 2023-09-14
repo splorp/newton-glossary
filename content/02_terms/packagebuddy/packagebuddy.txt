@@ -16,7 +16,7 @@ An application developed by [Tactile Systems](/sources/tactile) that allows the 
 
 Resource:
 
-- [Internet Archive: PackageBuddy Product Information](https://web.archive.org/web/19980623090919/http://www.tactile.com/packageBuddy.html)
+- [Tactile: PackageBuddy Product Information](https://web.archive.org/web/19980623090919/http://www.tactile.com/packageBuddy.html)
 - [My Apple Newton: PackageBuddy is Your Friend](http://myapplenewton.blogspot.ca/2012/06/package-buddy-is-your-friend.html)
 
 ----

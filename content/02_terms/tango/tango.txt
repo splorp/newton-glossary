@@ -14,7 +14,7 @@ A two-way wireless pager developed by [Motorola](http://www.motorola.com/) that 
 
 Resource:
 
-- [Internet Archive: Tango Two-Way Pager](https://web.archive.org/web/19970719145257/http://www.mot.com/MIMS/MSPG/Products/Two-way/tango/desc.html)
+- [Motorola: Tango Two-Way Pager](https://web.archive.org/web/19970719145257/http://www.mot.com/MIMS/MSPG/Products/Two-way/tango/desc.html)
 
 ----
 

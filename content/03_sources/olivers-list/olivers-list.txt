@@ -15,4 +15,4 @@ A voluminous list of [Newton OS](/terms/newton-os) and application specific [eas
 Resource:
 
 - [Oliver O. Fross Website](http://www.oliverfross.com/)
-- [Internet Archive: Oliver’s List of Newton Easter Eggs](https://web.archive.org/web/20090215012820/http://oof.org/newton/)
+- [Oliver’s List of Newton Easter Eggs](https://web.archive.org/web/20090215012820/http://oof.org/newton/)

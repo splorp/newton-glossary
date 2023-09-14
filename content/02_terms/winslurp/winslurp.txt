@@ -14,7 +14,7 @@ A user-friendly frontend for the [Slurpee](/terms/slurpee) data transfer utility
 
 Resource:
 
-- [Internet Archive: WinSlurp Product Information](https://web.archive.org/web/20030205233206/http://ourworld.compuserve.com/homepages/heringermr/winslurp.htm)
+- [Rare White Tiger: WinSlurp Product Information](https://web.archive.org/web/20030205233206/http://ourworld.compuserve.com/homepages/heringermr/winslurp.htm)
 
 ----
 

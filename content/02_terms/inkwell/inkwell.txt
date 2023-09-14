@@ -16,9 +16,9 @@ The initial name given to the Mac OS version of the Newton [handwriting recognit
 
 Resource:
 
-- [Internet Archive: Mac OS X: Inkwell](https://web.archive.org/web/20030603163016/http://www.apple.com/macosx/jaguar/inkwell.html)
-- [Internet Archive: ZDNet: Writing’s on wall for Mac OS X](https://web.archive.org/web/20010701185506/http://www.zdnet.com/zdnn/stories/news/0,4586,2607921,00.html)
-- [Ink Help: Learn About Ink](https://helposx.apple.com/InkHelpR3/English/pgs2/about.html)
+- [Apple: Mac OS X: Inkwell](https://web.archive.org/web/20030603163016/http://www.apple.com/macosx/jaguar/inkwell.html)
+- [ZDNet: Writing’s on wall for Mac OS X](https://web.archive.org/web/20010701185506/http://www.zdnet.com/zdnn/stories/news/0,4586,2607921,00.html)
+- [Apple: Ink Help: Learn About Ink](https://helposx.apple.com/InkHelpR3/English/pgs2/about.html)
 
 ----
 

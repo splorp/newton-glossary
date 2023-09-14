@@ -16,5 +16,5 @@ Resource:
 
 - [UNNA: The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf)
 - [The Newted Community: The NewtonScript Programming Language](http://www.newted.org/download/manuals/NewtonScriptProgramLanguage.pdf)
-- [Internet Archive: プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation)
+- [Kunihiro Saito: プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation)
 - [The Newted Community: プログラミング言語 NewtonScript](http://www.newted.org/download/manuals/NewtonScriptProgramLang_J.pdf) (Japanese Translation)

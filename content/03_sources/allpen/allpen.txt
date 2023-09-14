@@ -14,4 +14,4 @@ A software development company founded by Ivan and Wayne Yurtin in 1993. AllPen 
 
 Resource:
 
-- [Internet Archive: AllPen Software Website](https://web.archive.org/web/19971010171711/http://www.allpen.com/)
+- [AllPen Software Website](https://web.archive.org/web/19971010171711/http://www.allpen.com/)

@@ -18,7 +18,7 @@ Resource:
 
 - [UnixNPI Website](http://unixnpi.sourceforge.net/)
 - [GitHub: UnixNPI](https://github.com/chuma/unixnpi)
-- [Internet Archive: UnixNPI Product Information](https://web.archive.org/web/20121030074828/http://www.ee.cityu.edu.hk/~clli/unixnpi.html)
+- [Richard Li: UnixNPI Product Information](https://web.archive.org/web/20121030074828/http://www.ee.cityu.edu.hk/~clli/unixnpi.html)
 - [Linux PPC Archives: Newton and LinuxPPC](http://marc.info/?l=linux-ppc&m=99252770404113&w=2)
 
 ----

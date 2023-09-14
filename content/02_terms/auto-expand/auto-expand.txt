@@ -14,7 +14,7 @@ The action of automatically substituting or expanding an abbreviation into a use
 
 Resource:
 
-- [Internet Archive: Catamount: Handwriting Tips for Newton Power Users](https://web.archive.org/web/20160319221639/http://www.catamount.com/HWRTips/HWRTips.html)
+- [Catamount: Handwriting Tips for Newton Power Users](https://web.archive.org/web/20160319221639/http://www.catamount.com/HWRTips/HWRTips.html)
 
 ----
 

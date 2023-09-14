@@ -14,7 +14,7 @@ An [extension](/terms/extension) written by [Paul Guyot](/sources/paul-guyot) th
 
 Resource:
 
-- [Internet Archive: alt.rec...., The Alternative Recognizer](https://web.archive.org/web/20070814132830/http://www.kallisys.com/newton/alt.rec..../)
+- [Kallisys: alt.rec...., The Alternative Recognizer](https://web.archive.org/web/20070814132830/http://www.kallisys.com/newton/alt.rec..../)
 
 ----
 

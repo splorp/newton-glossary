@@ -14,7 +14,7 @@ The cursive [handwriting recognition](/terms/handwriting-recognition) system dev
 
 Resource:
 
-- [Internet Archive: CalliGrapher Product Informaton](https://web.archive.org/web/19970502173927/http://www.paragraph.com/products/internetink/calligrapher/)
+- [Paragraph: CalliGrapher Product Informaton](https://web.archive.org/web/19970502173927/http://www.paragraph.com/products/internetink/calligrapher/)
 
 ----
 

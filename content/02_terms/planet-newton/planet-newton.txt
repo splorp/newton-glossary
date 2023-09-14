@@ -14,7 +14,7 @@ A defunct website which at one time was home to a popular, annotated Newton soft
 
 Resource:
 
-- [Internet Archive: Planet Newton Website](https://web.archive.org/web/20050310015435/http://www.planetnewton.com/home.htm)
+- [Planet Newton Website](https://web.archive.org/web/20050310015435/http://www.planetnewton.com/home.htm)
 - [UNNA: download.planetnewton.com](http://mirrors.unna.org/download.planetnewton.com/downindex.asp)
 
 ----

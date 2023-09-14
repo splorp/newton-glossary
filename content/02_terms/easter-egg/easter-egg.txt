@@ -16,8 +16,8 @@ Examples of [Newton OS](/terms/newton-os) easter eggs include [Area 51](/terms/a
 
 Resource:
 
-- [Internet Archive: Oliver’s List of Newton Easter Eggs](https://web.archive.org/web/20090215012820/http://oof.org/newton/)
-- [Internet Archive: Alex Bogdanov’s Newton 2.0 Eggs](https://web.archive.org/web/19991003182357/http://www.univ.uzhgorod.ua/~timecracker/newton_eggs.html)
+- [Oliver’s List of Newton Easter Eggs](https://web.archive.org/web/20090215012820/http://oof.org/newton/)
+- [Alex Bogdanov’s Newton 2.0 Eggs](https://web.archive.org/web/19991003182357/http://www.univ.uzhgorod.ua/~timecracker/newton_eggs.html)
 
 ----
 

@@ -15,4 +15,4 @@ Author of a fairly thorough tutorial on Newton data storage and programmatic int
 Resource:
 
 - [Canicula: Ian Robinson’s Soapbox](http://canicula.com/wp/)
-- [Internet Archive: Newton Data Storage](https://web.archive.org/web/20160206045037/http://www.canicula.com/newton/prog/soups.htm)
+- [Canicula: Newton Data Storage](https://web.archive.org/web/20160206045037/http://www.canicula.com/newton/prog/soups.htm)

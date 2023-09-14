@@ -14,6 +14,6 @@ A trade magazine focused on providing engineering solutions and problem solving 
 
 Resource:
 
-- [Internet Archive: Portable Design Website](https://web.archive.org/web/20051129014023/http://pd.pennnet.com/home.cfm)
+- [Portable Design Website](https://web.archive.org/web/20051129014023/http://pd.pennnet.com/home.cfm)
 - [Press Release: Portable Design Closed Its Doors](http://www.portabledesign.com/pd_closure.pdf)
 - [PennWell Website](http://www.pennwell.com/)

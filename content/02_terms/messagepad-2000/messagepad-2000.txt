@@ -20,8 +20,8 @@ It is commonly referred to as an [MP2000](/terms/mp2000).
 
 Resource:
 
-- [Internet Archive: Press Release: Apple Ships MessagePad 2000](https://web.archive.org/web/19990117034343/http://product.info.apple.com/pr/press.releases/1997/q2/970324.pr.rel.msgpad.html)
-- [Internet Archive: MessagePad 2000 Product Information](https://web.archive.org/web/19980204041606/http://www.newton-inc.com/product_info/devices/MP2000/MP2000.html)
+- [Apple: MessagePad 2000 Product Information](https://web.archive.org/web/19980204041606/http://www.newton-inc.com/product_info/devices/MP2000/MP2000.html)
+- [Press Release: Apple Ships MessagePad 2000](https://web.archive.org/web/19990117034343/http://product.info.apple.com/pr/press.releases/1997/q2/970324.pr.rel.msgpad.html)
 
 ----
 

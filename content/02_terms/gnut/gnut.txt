@@ -18,7 +18,7 @@ GNUT is pronounced “Newt”.
 
 Resource:
 
-- [Internet Archive: GNUT Website](https://web.archive.org/web/19990204030411/http://www.interlog.com/~skendall/gnut.html)
+- [GNUT Website](https://web.archive.org/web/19990204030411/http://www.interlog.com/~skendall/gnut.html)
 
 ----
 

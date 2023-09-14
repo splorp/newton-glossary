@@ -14,4 +14,4 @@ A software development company based in Salt Lake City, UT. They created several
 
 Resource:
 
-- [Internet Archive: Revelar Website](https://web.archive.org/web/19991012104357/http://www.revelar.com/)
+- [Revelar Website](https://web.archive.org/web/19991012104357/http://www.revelar.com/)

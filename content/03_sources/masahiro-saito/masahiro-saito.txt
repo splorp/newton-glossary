@@ -14,4 +14,4 @@ Produced the unofficial Japanese translation of [The NewtonScript Programming La
 
 Resource:
 
-- [Internet Archive: プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation)
+- [Kunihiro Saito: プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation)

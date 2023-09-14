@@ -14,7 +14,7 @@ A four-digit security code used to access text messages, voicemail messages, and
 
 Resource:
 
-- [Internet Archive: Apple Wireless Messaging Service: How To Use](https://web.archive.org/web/20020220091441/http://karchive.info.apple.com/article.html?artnum=13646)
+- [Apple Support: Apple Wireless Messaging Service: How To Use](https://web.archive.org/web/20020220091441/http://karchive.info.apple.com/article.html?artnum=13646)
 - [Apple Support: Newton Messaging Card: How to Setup](https://web.archive.org/web/20020220091124/https://karchive.info.apple.com/article.html?artnum=13645)
 
 ----

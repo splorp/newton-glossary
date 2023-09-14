@@ -14,4 +14,4 @@ A site that provided a simplified, alternative interface to the [Apple Tech Info
 
 Resource:
 
-- [Internet Archive: Newton Info Library](https://web.archive.org/web/20020422041555/http://newted.dyndns.org/users/alien/)
+- [Joost van de Griek: Newton Info Library](https://web.archive.org/web/20020422041555/http://newted.dyndns.org/users/alien/)

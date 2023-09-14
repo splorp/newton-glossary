@@ -14,4 +14,4 @@ A software development company formed by Scott Harker and Jorj Bauer. Known for 
 
 Resource:
 
-- [Internet Archive: DejaVu Software Website](https://web.archive.org/web/20061018021253/http://www.dejavusoftware.com/)
+- [DejaVu Software Website](https://web.archive.org/web/20061018021253/http://www.dejavusoftware.com/)

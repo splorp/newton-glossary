@@ -14,7 +14,7 @@ An [extension](/terms/extension) installed alongside the [Newton Messaging Enabl
 
 Resource:
 
-- [Internet Archive: Newton Messaging Enabler](https://web.archive.org/web/19980204051938/http://www.newton-inc.com/dev/sysenablrs.html)
+- [Newton Inc.: Newton Messaging Enabler](https://web.archive.org/web/19980204051938/http://www.newton-inc.com/dev/sysenablrs.html)
 
 ----
 

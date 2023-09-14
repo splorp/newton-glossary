@@ -16,5 +16,5 @@ Not to be confused with [DigitalOcean](https://www.digitalocean.com/), the web h
 
 Resource:
 
-- [Internet Archive: Digital Ocean Website](https://web.archive.org/web/19970124001013/http://digitalocean.com/)
-- [Internet Archive: Wire-Free Networking With Grouper](https://web.archive.org/web/19970124002055/http://digitalocean.com/p001.pdf)
+- [Digital Ocean Website](https://web.archive.org/web/19970124001013/http://digitalocean.com/)
+- [Digital Ocean: Wire-Free Networking With Grouper](https://web.archive.org/web/19970124002055/http://digitalocean.com/p001.pdf)

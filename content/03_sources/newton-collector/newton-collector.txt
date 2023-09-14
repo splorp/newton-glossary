@@ -15,4 +15,4 @@ A hodge-podge of information and trivia compiled by Arnold Kim aimed at collecto
 Resource:
 
 - [Normalkid Website](https://blog.normalkid.com/)
-- [Internet Archive: The Newton Collector](https://web.archive.org/web/20190221184712/http://normalkid.com/collector/)
+- [The Newton Collector Website](https://web.archive.org/web/20190221184712/http://normalkid.com/collector/)

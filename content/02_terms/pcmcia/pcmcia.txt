@@ -18,7 +18,7 @@ Colloquially referred to as _People Can’t Remember Computer Industry Acronyms_
 
 Resource:
 
-- [Internet Archive: PCMCIA Website](https://web.archive.org/web/20081225064415/http://pcmcia.org/)
+- [PCMCIA Website](https://web.archive.org/web/20081225064415/http://pcmcia.org/)
 
 ----
 

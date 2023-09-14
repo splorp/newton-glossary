@@ -14,8 +14,8 @@ A prototype device developed by [Siemens](https://www.siemens.com/) that was pos
 
 Resource:
 
-- [Internet Archive: Das “OAD”](https://web.archive.org/web/20010526162436/http://www.logictools.de/newton/german/oad/)
-- [Internet Archive: Siemens @net Brochure](https://web.archive.org/web/20010608175331/http://www.logictools.de/newton/german/oad/OAD-2.gif)
+- [Logic Tools: Das “OAD”](https://web.archive.org/web/20010526162436/http://www.logictools.de/newton/german/oad/)
+- [Logic Tools: Siemens @net Brochure](https://web.archive.org/web/20010608175331/http://www.logictools.de/newton/german/oad/OAD-2.gif)
 
 ----
 

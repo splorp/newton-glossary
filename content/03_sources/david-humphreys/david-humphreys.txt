@@ -14,4 +14,4 @@ The famous “PCBMan” was the creator of several Newton hardware enhancements,
 
 Resource:
 
-- [Internet Archive: PCBman Website](https://web.archive.org/web/20040415092044/http://mrpcbman.tripod.com/)
+- [PCBman Website](https://web.archive.org/web/20040415092044/http://mrpcbman.tripod.com/)

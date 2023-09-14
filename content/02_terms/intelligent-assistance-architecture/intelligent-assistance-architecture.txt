@@ -14,7 +14,7 @@ Marketing parlance for the [Newton OS](/terms/newton-os) technology that [assist
 
 Resource:
 
-- [Internet Archive: MessagePad 2000 Datasheet](https://web.archive.org/web/19980204042002/http://www.newton-inc.com/product_info/devices/MP2000/MP2000ds.html)
+- [Newton Inc.: MessagePad 2000 Datasheet](https://web.archive.org/web/19980204042002/http://www.newton-inc.com/product_info/devices/MP2000/MP2000ds.html)
 
 ----
 

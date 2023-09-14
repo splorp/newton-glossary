@@ -16,8 +16,8 @@ Also referred to as [NCK](/terms/nck).
 
 Resource:
 
-- [Internet Archive: Newton Connection Kit 1.0 Description](https://web.archive.org/web/20011225150225/http://karchive.info.apple.com/article.html?artnum=12776)
-- [Internet Archive: Newton Connection Kit 2.0 Description](https://web.archive.org/web/20011226141458/http://karchive.info.apple.com/article.html?artnum=14871)
+- [Apple Support: Newton Connection Kit 1.0 Description](https://web.archive.org/web/20011225150225/http://karchive.info.apple.com/article.html?artnum=12776)
+- [Apple Support: Newton Connection Kit 2.0 Description](https://web.archive.org/web/20011226141458/http://karchive.info.apple.com/article.html?artnum=14871)
 - [The Newted Community: Newton Connection Kit for Windows User’s Guide](http://www.newted.org/download/manuals/0305277ANCNCTKITWINUG.PDF)
 
 ----

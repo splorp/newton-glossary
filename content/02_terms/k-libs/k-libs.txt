@@ -14,7 +14,7 @@ A collection of multi-platform C++ class libraries created by [Paul Guyot](/sour
 
 Resource:
 
-- [Internet Archive: Desktop Connection Library](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
+- [Kallisys: Desktop Connection Library](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
 - [SourceForge: K Libs](https://sourceforge.net/projects/klibs/)
 
 ----

@@ -16,7 +16,7 @@ An alternate name for the prototype Newton device developed by [Siemens](https:/
 
 Resource:
 
-- [Internet Archive: Das “OAD”](https://web.archive.org/web/20010526162436/http://www.logictools.de/newton/german/oad/)
+- [Logic Tools: Das “OAD”](https://web.archive.org/web/20010526162436/http://www.logictools.de/newton/german/oad/)
 
 ----
 

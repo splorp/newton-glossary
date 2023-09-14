@@ -115,11 +115,14 @@ _Example:_
 
 ### Links to additional information
 
+These guidelines apply whether linking to a live resource or an Internet Archive mirror of the original information.
+
 When linking to the main page of a website, include both the website name and “Website” as part of the link text.
 
 _For example:_
 
 + [Catamount Software Website](http://catamount.com/)
++ [DNUG Website](https://web.archive.org/web/19990422085721/http://www.dnug.dk/)
 
 When linking to a specific article or resource on a website, use the full name or title of the article or resource — prefixed with the source website — as the link text.
 
@@ -127,10 +130,11 @@ _For example:_
 
 + [UNNA: The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf)
 + [Wikipedia: GeoPort](https://en.wikipedia.org/wiki/GeoPort)
++ [Kunihiro Saito: プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation)
 
-If the link points to an Internet Archive mirror of the original website, article, or resource, prefix the link text as such.
+If the link points to a press release, prefix the link text as such.
 
 _For example:_
 
-+ [Internet Archive: DNUG Website](https://web.archive.org/web/19990422085721/http://www.dnug.dk/)
-+ [Internet Archive: プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation)
+- [Press Release: Cirrus Logic Debuts Voyager Chipset](https://web.archive.org/web/19980111224604/http://www.cirrus.com/news/archive/fy1997/96.1028p.voyager.html)
+- [Press Release: Apple’s New MessagePad 2100](https://web.archive.org/web/19980204041523/http://www.newton-inc.com/press_releases/19971020mp2100.html)

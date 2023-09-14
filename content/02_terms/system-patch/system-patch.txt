@@ -18,7 +18,7 @@ System Patch is also the rather generic name of a software [extension](/terms/ex
 
 Resource:
 
-- [Internet Archive: System Patch Product Information](https://web.archive.org/web/20120311060701/http://www.ee.cityu.edu.hk/~clli/syspatch.html)
+- [Richard Li: System Patch Product Information](https://web.archive.org/web/20120311060701/http://www.ee.cityu.edu.hk/~clli/syspatch.html)
 
 ----
 

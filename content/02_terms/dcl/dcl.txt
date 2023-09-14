@@ -18,7 +18,7 @@ Resource:
 
 - [Kallisys: DCL](http://www.kallisys.com/files/newton/DCL/)
 - [SourceForge: DCL](http://sourceforge.net/projects/newton-dcl)
-- [Internet Archive: Desktop Connection Library](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
+- [Kallisys: Desktop Connection Library](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
 
 ----
 

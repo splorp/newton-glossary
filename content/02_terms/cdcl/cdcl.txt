@@ -17,7 +17,7 @@ A experimental distribution of the [DCL](/terms/dcl) communication framework and
 Resource:
 
 - [GitHub: cDCL](https://github.com/ekoeppen/cDCL)
-- [Internet Archive: Desktop Connection Library](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
+- [Kallisys: Desktop Connection Library](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
 
 ----
 

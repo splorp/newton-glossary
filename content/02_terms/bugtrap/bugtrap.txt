@@ -17,7 +17,7 @@ A user-friendly [debugging](/terms/debugging) utility for [Newton OS](/terms/new
 Resource:
 
 - [BugTrap Read Me](http://npds.free.fr/modules/utilities/BugTrap_Read_Me.txt)
-- [Internet Archive: BugTrap Product Information](https://web.archive.org/web/19981205133557/http://www.tactile.com/bugTrap.html)
+- [Tactile: BugTrap Product Information](https://web.archive.org/web/19981205133557/http://www.tactile.com/bugTrap.html)
 
 ----
 

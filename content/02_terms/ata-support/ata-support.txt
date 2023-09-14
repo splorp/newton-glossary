@@ -14,7 +14,7 @@ A [device driver](/terms/device-driver) developed by [Paul Guyot](/sources/paul-
 
 Resource:
 
-- [Internet Archive: Kallisys: ATA Support 1.0](https://web.archive.org/web/20080619050446/http://www.kallisys.com/newton/ata/)
+- [Kallisys: ATA Support 1.0](https://web.archive.org/web/20080619050446/http://www.kallisys.com/newton/ata/)
 
 ----
 

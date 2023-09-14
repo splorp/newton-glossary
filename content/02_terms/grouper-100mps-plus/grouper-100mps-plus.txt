@@ -16,9 +16,9 @@ Also referred to as a [100MPS+](/terms/100mps-plus).
 
 Resource:
 
-- [Internet Archive: Wire-Free Networking With Grouper](https://web.archive.org/web/19970124002055/http://digitalocean.com/p001.pdf)
-- [Internet Archive: Grouper Product Information](https://web.archive.org/web/19970124001750/http://digitalocean.com/groupert.html)
-- [Internet Archive: Grouper Product Information](https://web.archive.org/web/19970124002540/http://digitalocean.com/p004.pdf)
+- [Digital Ocean: Wire-Free Networking With Grouper](https://web.archive.org/web/19970124002055/http://digitalocean.com/p001.pdf)
+- [Digital Ocean: Grouper Product Information](https://web.archive.org/web/19970124001750/http://digitalocean.com/groupert.html)
+- [Digital Ocean: Grouper Product Information](https://web.archive.org/web/19970124002540/http://digitalocean.com/p004.pdf)
 
 ----
 

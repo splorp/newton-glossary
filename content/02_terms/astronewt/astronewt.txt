@@ -14,7 +14,7 @@ A [Newton book](/terms/newton-book) created by Steven Sande containing detailed 
 
 Resource:
 
-- [Internet Archive: AstroNewt Product Information](https://web.archive.org/web/19980214140452/http://pdantic.com/Astro.htm)
+- [PDAntic: AstroNewt Product Information](https://web.archive.org/web/19980214140452/http://pdantic.com/Astro.htm)
 
 
 ----

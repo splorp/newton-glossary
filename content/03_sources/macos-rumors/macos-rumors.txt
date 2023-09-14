@@ -13,5 +13,5 @@ One of the very first insider news sites focused specifically on [Apple](https:/
 
 Resource:
 
-- [Internet Archive: MacOS Rumors Website](https://web.archive.org/web/19980502130412/http://macosrumors.com/)
+- [MacOS Rumors Website](https://web.archive.org/web/19980502130412/http://macosrumors.com/)
 - [Wikipedia: Apple Community](https://en.wikipedia.org/wiki/Apple_community#MacOS_Rumors)

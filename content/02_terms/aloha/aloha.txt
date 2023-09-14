@@ -14,7 +14,7 @@ An email package for [Newton OS](/terms/newton-os) developed by [Catamount Softw
 
 Resource:
 
-- [Internet Archive: Aloha Product Information](https://web.archive.org/web/20000420120058/http://www.catamount.com/Aloha2.html)
+- [Catamount: Aloha Product Information](https://web.archive.org/web/20000420120058/http://www.catamount.com/Aloha2.html)
 
 ----
 

@@ -15,4 +15,4 @@ Founded by David Bunnell and Andrew Fluegelman in 1984, Macworld was the longest
 Resource:
 
 - [Macworld Website](https://www.macworld.com/)
-- [Internet Archive: Macworld Magazine Collection](https://archive.org/details/macworld-magazine)
+- [Macworld Magazine Collection](https://archive.org/details/macworld-magazine)

@@ -14,7 +14,7 @@ A word or phrase that is automatically substituted in place of a user-defined ab
 
 Resource:
 
-- [Internet Archive: Catamount: Handwriting Tips for Newton Power Users](https://web.archive.org/web/20160319221639/http://www.catamount.com/HWRTips/HWRTips.html)
+- [Catamount: Handwriting Tips for Newton Power Users](https://web.archive.org/web/20160319221639/http://www.catamount.com/HWRTips/HWRTips.html)
 
 ----
 

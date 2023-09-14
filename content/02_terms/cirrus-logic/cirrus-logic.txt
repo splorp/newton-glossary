@@ -15,7 +15,7 @@ The company that developed the [Voyager](/terms/voyager) chipset used in the [Me
 Resource:
 
 - [Cirrus Logic Website](https://www.cirrus.com/)
-- [Internet Archive: Cirrus Logic Debuts Voyager Chipset](https://web.archive.org/web/19980111224604/http://www.cirrus.com/news/archive/fy1997/96.1028p.voyager.html)
+- [Press Release: Cirrus Logic Debuts Voyager Chipset](https://web.archive.org/web/19980111224604/http://www.cirrus.com/news/archive/fy1997/96.1028p.voyager.html)
 
 ----
 

@@ -14,5 +14,5 @@ A previous incarnation of the [Apple](https://www.apple.com/) support informatio
 
 Resource:
 
-- [Internet Archive: AppleCare Knowledge Archive](https://web.archive.org/web/20030321182310/http://karchive.info.apple.com/)
-- [Internet Archive: Apple Knowledge Base zum Thema “Newton”](https://web.archive.org/web/20151024230734/http://www.mac3.de/sig/newton/til.html)
+- [AppleCare Knowledge Archive](https://web.archive.org/web/20030321182310/http://karchive.info.apple.com/)
+- [Apple Knowledge Base zum Thema “Newton”](https://web.archive.org/web/20151024230734/http://www.mac3.de/sig/newton/til.html)

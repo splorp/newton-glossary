@@ -14,7 +14,7 @@ Providing [AppleTalk](/terms/appletalk) networking to devices over an [infrared]
 
 Resource:
 
-- [Internet Archive: Macworld Magazine: Cooperative Adpater](https://archive.org/stream/MacWorld_9412_December_1994#page/n71/mode/2up/search/Photonics+Cooperative)
+- [Macworld Magazine: Cooperative Adpater](https://archive.org/stream/MacWorld_9412_December_1994#page/n71/mode/2up/search/Photonics+Cooperative)
 
 ----
 

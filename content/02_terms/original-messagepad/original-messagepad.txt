@@ -18,8 +18,8 @@ The term “Original MessagePad” can also refer to any non-upgraded MessagePad
 
 Resource:
 
-- [Internet Archive: Newton MessagePad: Description](https://web.archive.org/web/20020220091750/http://karchive.info.apple.com/article.html?artnum=12789)
-- [Internet Archive: Newton MessagePad: Technical Specifications](https://web.archive.org/web/20020719130342/http://docs.info.apple.com/article.html?artnum=12790)
+- [Apple Support: Newton MessagePad: Description](https://web.archive.org/web/20020220091750/http://karchive.info.apple.com/article.html?artnum=12789)
+- [Apple Support: Newton MessagePad: Technical Specifications](https://web.archive.org/web/20020719130342/http://docs.info.apple.com/article.html?artnum=12790)
 
 ----
 

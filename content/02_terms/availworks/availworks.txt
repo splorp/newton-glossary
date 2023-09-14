@@ -16,8 +16,8 @@ An integrated, multi-function [application](/terms/application) for Newton devic
 
 Resource:
 
-- [Internet Archive: AvailWorks 3.0 Product Information](https://web.archive.org/web/20031205010441/http://www.pelicanware.com/aw.html)
-- [Internet Archive: AvailWorks 3.0 User Manual](https://web.archive.org/web/20031206033359/http://www.pelicanware.com/download/AW3Man.pdf)
+- [Pelicanware: AvailWorks 3.0 Product Information](https://web.archive.org/web/20031205010441/http://www.pelicanware.com/aw.html)
+- [Pelicanware: AvailWorks 3.0 User Manual](https://web.archive.org/web/20031206033359/http://www.pelicanware.com/download/AW3Man.pdf)
 
 ----
 

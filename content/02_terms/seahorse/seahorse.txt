@@ -16,7 +16,7 @@ A third-party device that utilizes a licensed version of [Newton OS](/terms/newt
 
 Resource:
 
-- [Internet Archive: Digital Ocean: Seahorse Product Information](https://web.archive.org/web/19970124001314/http://digitalocean.com/seahorse.html)
+- [Digital Ocean: Seahorse Product Information](https://web.archive.org/web/19970124001314/http://digitalocean.com/seahorse.html)
 
 ----
 

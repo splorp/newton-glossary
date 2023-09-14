@@ -14,7 +14,7 @@ Another name for the cursive (or connected) recognizer according to the [Catamou
 
 Resource:
 
-- [Internet Archive: Catamount: Handwriting Tips for Newton Power Users](https://web.archive.org/web/20160319221639/http://www.catamount.com/HWRTips/HWRTips.html)
+- [Catamount: Handwriting Tips for Newton Power Users](https://web.archive.org/web/20160319221639/http://www.catamount.com/HWRTips/HWRTips.html)
 
 ----
 

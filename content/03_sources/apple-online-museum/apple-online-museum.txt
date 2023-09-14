@@ -16,5 +16,5 @@ Not to be confused with Andy Mesa’s similarly named [The Apple Museum](/source
 
 Resource:
 
-- [Internet Archive: The Apple Museum Website](https://web.archive.org/web/20111213005851/http://www.theapplemuseum.com/)
-- [Internet Archive: The Apple Museum: Codenames: Newton PDAs](https://web.archive.org/web/20111213010745/http://www.theapplemuseum.com/index.php?id=25)
+- [The Apple Museum Website](https://web.archive.org/web/20111213005851/http://www.theapplemuseum.com/)
+- [The Apple Museum: Codenames: Newton PDAs](https://web.archive.org/web/20111213010745/http://www.theapplemuseum.com/index.php?id=25)

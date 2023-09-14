@@ -14,4 +14,4 @@ Developers of the [CalliGrapher](/terms/calligrapher) handwriting recognition en
 
 Resource:
 
-- [Internet Archive: ParaGraph International Website](https://web.archive.org/web/19961113111157/http://www.paragraph.com/)
+- [ParaGraph International Website](https://web.archive.org/web/19961113111157/http://www.paragraph.com/)

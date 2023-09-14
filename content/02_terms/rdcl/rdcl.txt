@@ -17,7 +17,7 @@ A Ruby-based communication framework created by [Eckhart Köppen](/sources/eckha
 Resource:
 
 - [GitHub: RDCL](https://github.com/ekoeppen/RDCL)
-- [Internet Archive: Desktop Connection Library](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
+- [Kallisys: Desktop Connection Library](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
 
 ----
 

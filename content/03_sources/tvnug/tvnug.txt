@@ -14,5 +14,5 @@ Founded in August 1995, the Tennessee Valley Newton Users Group ([TVNUG](/terms/
 
 Resource:
 
-- [Internet Archive: TVNUG Website](https://web.archive.org/web/20000619170507/http://newton.uah.edu/)
-- [Internet Archive: Reference to “Jellyfish”](https://web.archive.org/web/19990429013627/http://newton.uah.edu/UniqueNewtons/ClearMP110.html)
+- [TVNUG Website](https://web.archive.org/web/20000619170507/http://newton.uah.edu/)
+- [TVNUG: Reference to “Jellyfish”](https://web.archive.org/web/19990429013627/http://newton.uah.edu/UniqueNewtons/ClearMP110.html)

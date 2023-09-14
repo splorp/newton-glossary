@@ -14,6 +14,6 @@ Frequently asked questions compiled by Daniel Domberger relating to memory, heap
 
 Resource:
 
-- [Internet Archive: The Newton Heap Mini-FAQ](https://web.archive.org/web/20091023231241/http://geocities.com/Paris/8382/FAQ.html)
-- [Internet Archive: The Newton Heap Mini-FAQ](https://web.archive.org/web/20091023143745/http://geocities.com/Paris/8382/HeapFAQ.txt) (Plain Text Version)
-- [Internet Archive: When a Garbage Collection is Necessary](https://web.archive.org/web/20090830071220/http://geocities.com/Paris/8382/garbage.html)
+- [Daniel Domberger: The Newton Heap Mini-FAQ](https://web.archive.org/web/20091023231241/http://geocities.com/Paris/8382/FAQ.html)
+- [Daniel Domberger: The Newton Heap Mini-FAQ](https://web.archive.org/web/20091023143745/http://geocities.com/Paris/8382/HeapFAQ.txt) (Plain Text Version)
+- [Daniel Domberger: When a Garbage Collection is Necessary](https://web.archive.org/web/20090830071220/http://geocities.com/Paris/8382/garbage.html)
