@@ -14,8 +14,8 @@ A defunct subscription-based electronic messaging service that allowed a Newton 
 
 Resource:
 
-- [Apple Support: Newton Messaging Card: How to Setup](https://support.apple.com/kb/TA30360)
 - [Apple Support: Apple Wireless Messaging Service: How To Use](https://web.archive.org/web/20020220091441/http://karchive.info.apple.com/article.html?artnum=13646)
+- [Apple Support: Newton Messaging Card: How to Setup](https://web.archive.org/web/20020220091124/http://karchive.info.apple.com/article.html?artnum=13645)
 
 ----
 
