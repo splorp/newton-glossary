@@ -14,7 +14,7 @@ The [AppleTalk](/terms/appletalk) networking [protocol](/terms/protocol) deliver
 
 Resource:
 
-- [Apple Support: Ethernet is not necessarily EtherTalk](https://support.apple.com/kb/TA33418)
+- [Apple Support: Ethernet is not necessarily EtherTalk](https://web.archive.org/web/20020223110837/http://karchive.info.apple.com/article.html?artnum=30297)
 
 ----
 

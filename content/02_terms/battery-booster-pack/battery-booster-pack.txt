@@ -14,7 +14,7 @@ A portable [battery pack](/terms/battery-pack) that plugs into the [power port](
 
 Resource:
 
-- [Newton Battery Booster Pack: When To Change Batteries](https://support.apple.com/kb/TA30563)
+- [Apple Support: Newton Battery Booster Pack: When To Change Batteries](https://web.archive.org/web/20011226133923/http://karchive.info.apple.com/article.html?artnum=13948)
 - [Flickr: Newton Battery Booster Pack](https://www.flickr.com/photos/scottyhoffo/3023344222/)
 
 ----

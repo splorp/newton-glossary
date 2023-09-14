@@ -14,12 +14,6 @@ A technical support [database](/terms/database) maintained by [Apple](https://ww
 
 ----
 
-Resource:
-
-- [Apple Support: Tech Info Library: Basic Search Techniques](http://support.apple.com/kb/TA36884)
-
-----
-
 Related:
 
 - /terms/database

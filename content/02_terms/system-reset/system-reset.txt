@@ -14,7 +14,7 @@ A method of [resetting](/terms/reset) a Newton device by removing the batteries 
 
 Resource:
 
-- [Apple Support: Newton MessagePad: Different Types of Reset](https://support.apple.com/kb/TA33869)
+- [Apple Support: Newton MessagePad: Different Types of Reset](https://web.archive.org/web/20020221185237/http://karchive.info.apple.com/article.html?artnum=17908)
 - [Newton Poetry: How To Reset Your Newton](http://newtonpoetry.com/2008/03/31/howto-reset-your-newton/)
 
 ----

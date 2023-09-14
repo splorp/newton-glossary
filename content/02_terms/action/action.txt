@@ -16,7 +16,7 @@ For example, entering the “call” request word into the [assist drawer](/term
 
 Resource:
 
-- [Apple Support: Newton MessagePad: Using the Newton Assistant](https://support.apple.com/kb/TA29816)
+- [Apple Support: Newton MessagePad: Using the Newton Assistant](https://web.archive.org/web/20020220091929/http://karchive.info.apple.com/article.html?artnum=12784)
 
 ----
 
