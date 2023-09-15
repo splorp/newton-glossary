@@ -49,3 +49,13 @@ AddOutputFilterByType DEFLATE application/json
 AddOutputFilterByType DEFLATE application/javascript
 AddOutputFilterByType DEFLATE application/x-javascript
 </IfModule>
+
+# Set security headers in all responses
+<IfModule mod_headers.c>
+
+# Serve files as plain text if the actual content type is not known
+# Hardens against attacks from malicious file uploads
+Header set Content-Type "text/plain" "expr=-z %{CONTENT_TYPE}"
+Header set X-Content-Type-Options "nosniff"
+
+</IfModule>
