@@ -31,7 +31,7 @@ Sources: _$s
 + Added [RSS feed](/latest/feed) for the [Latest Additions](/latest) page
 + Removed keywords from the page meta because [SEO ruined everything](https://ahrefs.com/blog/meta-keywords/)
 + Simplified the way the stylesheet is timestamped when modified
-+ Updated [Kirby](https://getkirby.com/) to version [3.9.6](https://github.com/getkirby/kirby/releases/tag/3.9.6)
++ Updated [Kirby](https://getkirby.com/) to version [3.9.7](https://github.com/getkirby/kirby/releases/tag/3.9.7)
 + Implemented [Kirby Redirects](https://github.com/bnomei/kirby3-redirects) plugin
 + Deprecated [Cachebuster](https://github.com/schnti/kirby3-cachebuster) plugin
 
