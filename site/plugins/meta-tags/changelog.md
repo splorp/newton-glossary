@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.1.1] - 2023-09-28
+### Fixed
+- Now compatible with PHP 8.2, thanks to @JanKoll.
+
 ## [2.1.0] - 2021-07-19
 ### Fixed
 - Instance cache. It now caches one instance per page.

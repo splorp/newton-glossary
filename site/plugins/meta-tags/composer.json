@@ -4,6 +4,7 @@
     "keywords": ["kirby-plugin", "meta-tags", "open-graph", "twitter-cards", "json-ld"],
     "license": "MIT",
     "homepage": "https://github.com/pedroborges/kirby-meta-tags",
+	"version": "2.1.1",
     "type": "kirby-plugin",
     "authors": [
         {
