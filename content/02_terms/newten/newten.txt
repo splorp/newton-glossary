@@ -16,7 +16,9 @@ An [application](/terms/application) for Mac OS X created by [Steven Frank](/sou
 
 Resource:
 
-- [GitHub: NewTen](https://github.com/panicsteve/NewTen/)
+- [GitHub: NewTen](https://github.com/panicsteve/NewTen/) (for PowerPC)
+- [GitHub: NewTen](https://github.com/pablomarx/NewTen) (for Intel)
+- [UNNA: NewTen](http://www.unna.org/unnasearch/entry.php?pkey=12690)
 
 ----
 

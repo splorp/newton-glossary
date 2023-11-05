@@ -15,5 +15,5 @@ Bordens is a tinkerer, software developer, technology enthusiast, and the propri
 Resource:
 
 - [All About Jake Website](http://www.allaboutjake.com/)
-- [Retro-Newton Website](http://retronewton.blogspot.ca/)
+- [Retro-Newton Website](https://retronewton.blogspot.com/)
 - [GitHub: Jake Bordens](https://github.com/jake-b)
