@@ -1,0 +1,38 @@
+Title: The Incredible Shrinking Newt
+
+----
+
+Date: 04 November 2023
+
+----
+
+Text:
+
+An experimental project by [Igor Boris Bertolucci](/sources/igor-boris-bertolucci), where he attempted to reduce the overall physical size of a [MessagePad 2000](/terms/messagepad-2000). The project involved removing the casing, replacing the original power source with a modern Lithium Polymer battery and charging system, as well as a FTDI-compliant serial to USB converter.
+
+Also referred to as simply [Shrinking Newt](/terms/shrinking-newt).
+
+----
+
+Resource:
+
+- [Flickr: Shrinking Newt](https://www.flickr.com/photos/40558080@N04/albums/72157704713572242/)
+- [My Apple Newton: The Incredible Shrinking Newton!](http://myapplenewton.blogspot.com/2019/04/the-incredible-shrinking-newton.html)
+- [NewtonTalk: The Incredible Shrinking Newton](https://marc.info/?t=155499665200001&r=1&w=2)
+
+----
+
+Related:
+
+- /terms/blueberry-frozen
+- /terms/frozen-ghost
+- /terms/frozen-newton
+- /terms/messagepad-2000
+- /terms/newton-aluminum-shell-project
+- /terms/shrinking-newt
+
+----
+
+Source:
+
+- /sources/igor-boris-bertolucci

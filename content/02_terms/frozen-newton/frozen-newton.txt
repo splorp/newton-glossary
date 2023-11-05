@@ -29,3 +29,4 @@ Related:
 - /terms/frozen-ghost
 - /terms/messagepad-2100
 - /terms/newton-aluminum-shell-project
+- /terms/the-incredible-shrinking-newt

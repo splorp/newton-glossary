@@ -21,6 +21,7 @@ Related:
 - /terms/frozen-newton
 - /terms/messagepad-2100
 - /terms/nasp
+- /terms/the-incredible-shrinking-newt
 
 ----
 
