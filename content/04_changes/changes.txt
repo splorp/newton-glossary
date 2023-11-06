@@ -25,7 +25,8 @@ Sources: _$s
 
 #### Summary of changes:
 
-+ Added 1 new term
++ Added 5 new terms
++ Added 1 new source
 + Updated and expanded dozens of existing entries
 + Moved “Additional Information” links to their own field for flexibility
 + Added [RSS feed](/latest/feed) for the [Latest Additions](/latest) page
