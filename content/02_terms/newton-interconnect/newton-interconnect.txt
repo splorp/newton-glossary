@@ -27,6 +27,7 @@ Related:
 - /terms/auto-dock
 - /terms/dongle
 - /terms/dongle-destroyer
+- /terms/ftdi
 - /terms/jae
 - /terms/multifunction-interconnect-adapter
 - /terms/newton-serial-adapter

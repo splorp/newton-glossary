@@ -1,0 +1,11 @@
+Title: FTDI Chip
+
+----
+
+Date: 05 November 2023
+
+----
+
+Text:
+
+See: [FTDI](/terms/ftdi)

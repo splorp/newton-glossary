@@ -14,8 +14,10 @@ A standard for serial communication between computers and peripheral devices tha
 
 Related:
 
+- /terms/ftdi
 - /terms/geoport
 - /terms/mini-din
+- /terms/newton-interconnect
 - /terms/rs-232
 - /terms/usb
 

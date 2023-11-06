@@ -14,8 +14,12 @@ A standard for serial communication between computers and peripheral devices suc
 
 Related:
 
+- /terms/ftdi
 - /terms/geoport
+- /terms/mini-din
+- /terms/newton-interconnect
 - /terms/rs-422
+- /terms/usb
 
 ----
 

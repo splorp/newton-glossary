@@ -1,0 +1,32 @@
+Title: FTDI
+
+----
+
+Date: 05 November 2023
+
+----
+
+Text:
+
+Future Technology Devices International
+
+A semiconductor company whose objective is to create “bridge technologies”, specifically USB to serial adapters, cables, and other chip-based connectivity solutions.
+
+Also known as [FTDI Chip](/terms/ftdi-chip).
+
+----
+
+Resource:
+
+- [FTDI Chip Website](https://ftdichip.com/)
+
+----
+
+Related:
+
+- /terms/ftdi-chip
+- /terms/geoport
+- /terms/newton-interconnect
+- /terms/rs-232
+- /terms/rs-422
+- /terms/usb
