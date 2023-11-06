@@ -10,7 +10,7 @@ Text:
 
 Future Technology Devices International
 
-A semiconductor company whose objective is to create “bridge technologies”, specifically USB to serial adapters, cables, and other chip-based connectivity solutions.
+A Glasgow-based semiconductor company whose objective is to create “bridge technologies”, specifically USB to serial adapters, cables, and other chip-based connectivity solutions.
 
 Also known as [FTDI Chip](/terms/ftdi-chip).
 
@@ -19,6 +19,7 @@ Also known as [FTDI Chip](/terms/ftdi-chip).
 Resource:
 
 - [FTDI Chip Website](https://ftdichip.com/)
+- [FTDI Chip: USB RS232 Cable Series](https://ftdichip.com/product-category/products/cables/?series_products=57)
 
 ----
 
