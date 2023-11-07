@@ -25,6 +25,17 @@ Sources: _$s
 
 #### Summary of changes:
 
++ Updated and expanded several existing entries
+
+### 3.1.0
+
+04 November 2013
+
+Terms: 1,305
+Sources: 138
+
+#### Summary of changes:
+
 + Added 5 new terms
 + Added 1 new source
 + Updated and expanded dozens of existing entries
