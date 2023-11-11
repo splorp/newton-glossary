@@ -26,6 +26,7 @@ Related:
 - /terms/junior
 - /terms/leibniz
 - /terms/lisp
+- /terms/littlelisp
 - /terms/macintosh-common-lisp
 - /terms/newton-os
 - /terms/operating-system

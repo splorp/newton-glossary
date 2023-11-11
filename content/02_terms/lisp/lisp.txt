@@ -27,6 +27,7 @@ Related:
 - /terms/encyclopedia
 - /terms/etchasketch
 - /terms/leibniz
+- /terms/littlelisp
 - /terms/macintosh-common-lisp
 - /terms/newtonscript
 - /terms/ralph

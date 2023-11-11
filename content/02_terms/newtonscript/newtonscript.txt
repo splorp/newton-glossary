@@ -21,6 +21,7 @@ Related:
 - /terms/denali
 - /terms/dylan
 - /terms/lisp
+- /terms/littlelisp
 - /terms/macintosh-common-lisp
 - /terms/newton-toolkit
 - /terms/newtonscript-heap

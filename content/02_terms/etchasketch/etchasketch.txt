@@ -27,6 +27,7 @@ Related:
 
 - /terms/eas
 - /terms/lisp
+- /terms/littlelisp
 - /terms/macintosh-common-lisp
 - /terms/newton-toolkit
 - /terms/newtonscript

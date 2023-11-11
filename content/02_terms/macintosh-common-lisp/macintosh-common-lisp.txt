@@ -30,6 +30,7 @@ Related:
 - /terms/etchasketch
 - /terms/leibniz
 - /terms/lisp
+- /terms/littlelisp
 - /terms/mcl
 - /terms/newton-toolkit
 - /terms/newtonscript

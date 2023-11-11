@@ -30,6 +30,7 @@ Related:
 - /terms/dynamic-language
 - /terms/encyclopedia
 - /terms/lisp
+- /terms/littlelisp
 - /terms/macintosh-common-lisp
 - /terms/newton-os
 - /terms/newtonscript

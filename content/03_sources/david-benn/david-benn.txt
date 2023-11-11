@@ -1,0 +1,19 @@
+Title: David Benn
+
+----
+
+Date: 11 November 2023
+
+----
+
+Text:
+
+Benn is an Australian software developer and engineer, best known within the Newton community for his [LittleLisp](/terms/littlelisp) interpreter.
+
+----
+
+Resource:
+
+- [David Benn Website](https://web.archive.org/web/20220807212526/http://www.users.on.net/~dbenn/)
+- [Strange Quarks Website](https://strangequark.me/)
+- [LinkedIn: David Benn](https://www.linkedin.com/in/david-benn-8789501/)

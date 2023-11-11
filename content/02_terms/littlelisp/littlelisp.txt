@@ -1,0 +1,37 @@
+Title: LittleLisp
+
+----
+
+Date: 11 November 2023
+
+----
+
+Text:
+
+A [Lisp](/terms/lisp) interpreter for [Newton OS](/terms/newton-os) developed by [David Benn](/sources/david-benn) that includes graphics extensions and the ability to invoke [NewtonScript](/terms/newtonscript) functions.
+
+----
+
+Resource:
+
+- [LittleLisp Documentation](https://web.archive.org/web/20220807212528/http://www.users.on.net/~dbenn/LittleLisp/LittleLispDocs/)
+- [My Apple Newton: The Little Lisp That Could](https://myapplenewton.blogspot.com/2011/07/little-lisp-that-could.html)
+
+----
+
+Related:
+
+- /terms/bauhaus
+- /terms/dylan
+- /terms/etchasketch
+- /terms/leibniz
+- /terms/lisp
+- /terms/macintosh-common-lisp
+- /terms/newtonscript
+- /terms/ralph
+
+----
+
+Sources:
+
+- /sources/david-benn
