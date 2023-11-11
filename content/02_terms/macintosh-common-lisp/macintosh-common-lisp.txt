@@ -17,6 +17,7 @@ Also referred to as [MCL](/terms/mcl).
 Resource:
 
 - [Wikipedia: Macintosh Common Lisp](https://en.wikipedia.org/wiki/Macintosh_Common_Lisp)
+- [NIST: Macintosh Common Lisp (MCL)](https://web.archive.org/web/20160303204314/http://www.nist.gov/lispix/MLxDoc/miscl/macintosh_common_lisp.html)
 - [Talking with Mikel Evins about the Lisp-based Newton OS](http://lispm.de/lisp-based-newton-os)
 
 ----
