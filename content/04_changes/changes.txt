@@ -41,7 +41,7 @@ Sources: 138
 + Added 1 new source
 + Updated and expanded dozens of existing entries
 + Moved “Additional Information” links to their own field for flexibility
-+ Added [RSS feed](/latest/feed) for the [Latest Additions](/latest) page
++ Added [RSS feed](/latest/feed) for the [latest additions](/latest) page
 + Removed keywords from the page meta because [SEO ruined everything](https://ahrefs.com/blog/meta-keywords/)
 + Simplified the way the stylesheet is timestamped when modified
 + Updated [Kirby](https://getkirby.com/) to version [3.9.7](https://github.com/getkirby/kirby/releases/tag/3.9.7)

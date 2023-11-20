@@ -15,6 +15,7 @@ A [Lisp](/terms/lisp) interpreter for [Newton OS](/terms/newton-os) developed by
 Resource:
 
 - [LittleLisp Documentation](https://web.archive.org/web/20220807212528/http://www.users.on.net/~dbenn/LittleLisp/LittleLispDocs/)
+- [UNNA: LittleLisp](http://www.unna.org/view.php?/development/languages/Lisp/LittleLisp1.01)
 - [My Apple Newton: The Little Lisp That Could](https://myapplenewton.blogspot.com/2011/07/little-lisp-that-could.html)
 
 ----
