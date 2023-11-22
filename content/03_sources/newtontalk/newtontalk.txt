@@ -19,4 +19,5 @@ Resource:
 - [NewtonTalk Website](http://newtontalk.net/)
 - [NewtonTalk FAQ](https://github.com/splorp/newtontalk-faq/blob/master/newtontalk-faq.md)
 - [NewtonTalk Mailing List Archives](http://marc.info/?l=newtontalk)
+- [Mastodon: NewtonTalk](https://bitbang.social/@newtontalk)
 - [Twitter: NewtonTalk](https://twitter.com/newtontalk)
