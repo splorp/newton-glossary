@@ -16,14 +16,8 @@ An input [container view](/terms/container-view) that allows the user to enter a
 
 Related:
 
-- /terms/call-slip
-- /terms/confirmation-slip
 - /terms/container-view
 - /terms/finder
-- /terms/folder-slip
-- /terms/item-info-slip
-- /terms/memory-info-slip
-- /terms/notification-slip
-- /terms/routing-slip
 - /terms/slip
-- /terms/status-slip
+- /terms/user-interface
+- /terms/view

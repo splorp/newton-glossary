@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-An [info slip](/terms/info-slip) that reports statistics on the amount of memory installed and available to a Newton device.
+An [item info slip](/terms/item-info-slip) that reports statistics on the amount of memory installed and available to a Newton device.
 
 <img src="/assets/images/memory-info-slip-2x.gif" alt="Screenshot of the Memory Info Slip" width="320" />
 
@@ -16,19 +16,13 @@ An [info slip](/terms/info-slip) that reports statistics on the amount of memory
 
 Related:
 
-- /terms/call-slip
-- /terms/confirmation-slip
 - /terms/container-view
-- /terms/find-slip
-- /terms/folder-slip
 - /terms/item-info-slip
-- /terms/notification-slip
 - /terms/ram
-- /terms/routing-slip
 - /terms/slip
-- /terms/status-slip
 - /terms/system-ram
 - /terms/user-interface
+- /terms/view
 
 ----
 

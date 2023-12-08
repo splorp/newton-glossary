@@ -18,27 +18,21 @@ Also referred to as a [filing slip](/terms/filing-slip).
 
 Related:
 
-- /terms/call-slip
-- /terms/confirmation-slip
+- /terms/container-view
 - /terms/external-store
 - /terms/filing-slip
-- /terms/find-slip
 - /terms/folder
 - /terms/folder-button
 - /terms/folder-tab
 - /terms/global-folder
 - /terms/internal-store
-- /terms/item-info-slip
 - /terms/local-folder
-- /terms/memory-info-slip
-- /terms/notification-slip
-- /terms/routing-slip
 - /terms/slip
-- /terms/status-slip
 - /terms/store
 - /terms/unfiled
 - /terms/unfiled-icons
 - /terms/user-interface
+- /terms/view
 
 ----
 

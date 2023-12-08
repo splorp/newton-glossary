@@ -18,17 +18,10 @@ Also known simply as an [info slip](/terms/info-slip).
 
 Related:
 
-- /terms/call-slip
-- /terms/confirmation-slip
 - /terms/container-view
-- /terms/find-slip
-- /terms/folder-slip
 - /terms/info-slip
 - /terms/memory-info-slip
-- /terms/notification-slip
-- /terms/routing-slip
 - /terms/slip
-- /terms/status-slip
 - /terms/user-interface
 
 ----
