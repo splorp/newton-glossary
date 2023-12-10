@@ -23,8 +23,6 @@ Resource:
 Related:
 
 - /terms/action
-- /terms/action-button
-- /terms/action-picker
 - /terms/assist
 - /terms/assist-drawer
 - /terms/intelligent-assistance-architecture
