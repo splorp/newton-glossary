@@ -29,6 +29,6 @@ Related:
 
 ----
 
- Source:
+Source:
 
 - /sources/newton-book-maker

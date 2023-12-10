@@ -134,9 +134,9 @@ Keywords: apple, newton, pda, messagepad, emate, handheld, computer, technology,
 
 Colophon:
 
-Copyright © 2001–(date: Year) (link: https://splorp.me/ text: Grant Hutchinson title: Interface considerations. Gadget accumulation. Typography.) & Co.
+Copyright © 2001–(date: Year) (link: https://splorp.me/ title: Grant Hutchinson title: Interface considerations. Gadget accumulation. Typography.) & Co.
 Follow (twitter: newtonglossary title: Follow us on Twitter for occasional glossary updates.)
-Powered by (link: https://getkirby.com/ text: Kirby title: The CMS that adapts to you.)
+Powered by (link: https://getkirby.com/ title: Kirby title: The CMS that adapts to you.)
 
 ----
 

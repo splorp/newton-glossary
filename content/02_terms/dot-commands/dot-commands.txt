@@ -12,6 +12,6 @@ See: [Book Maker Commands](/terms/book-maker-commands)
 
 ----
 
- Source:
+Source:
 
 - /sources/newton-book-maker
