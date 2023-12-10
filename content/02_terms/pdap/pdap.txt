@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-Shorthand for [PDA Panache](https://www.pdapanache.com/), a supplier of [styli](/terms/styli) for Newton [MessagePad](/terms/messagepad) and other handheld devices.
+Shorthand for [PDA Panache](/sources/pda-panache), a defunct company that supplied [pens](/terms/pen) for Newton [MessagePad](/terms/messagepad), [eMate 300](/terms/emate-300), and other handheld devices.
 
 ----
 

@@ -17,3 +17,9 @@ Related:
 - /terms/pdap
 - /terms/pen
 - /terms/stylus
+
+----
+
+Source:
+
+- /sources/pda-panache
