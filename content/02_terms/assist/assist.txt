@@ -27,7 +27,9 @@ Related:
 - /terms/assistant
 - /terms/intelligent-assistance-architecture
 - /terms/newton-assistant
+- /terms/please-picker
 - /terms/request-word
+- /terms/synonyms
 
 ----
 

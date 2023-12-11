@@ -25,6 +25,7 @@ Related:
 - /terms/assist-slip
 - /terms/how-do-i
 - /terms/request-word
+- /terms/synonyms
 
 ----
 

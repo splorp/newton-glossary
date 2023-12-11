@@ -30,6 +30,7 @@ Related:
 - /terms/intelligent-assistance-architecture
 - /terms/please-picker
 - /terms/request-word
+- /terms/synonyms
 
 ----
 

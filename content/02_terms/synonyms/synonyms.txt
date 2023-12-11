@@ -1,0 +1,37 @@
+Title: Synonyms
+
+----
+
+Date: 10 December 2023
+
+----
+
+Text:
+
+Alternate [request words](/terms/request-word) that trigger an [action](/terms/action) when processed by the [Assist](/terms/assist) function.
+
+For example, the request word “call” has several synonyms, including “ring”, “dial”, and “phone”.
+
+----
+
+Resource:
+
+- [Apple Support: Newton MessagePad: Using the Newton Assistant](https://web.archive.org/web/20020220091929/http://karchive.info.apple.com/article.html?artnum=12784)
+- [TidBits: Newton Synonyms](https://tidbits.com/article/2390)
+
+----
+
+Related:
+
+- /terms/action
+- /terms/assist
+- /terms/assist-slip
+- /terms/intelligent-assistance-architecture
+- /terms/request-word
+
+----
+
+Source:
+
+- /sources/applecare-knowledge-archive
+- /sources/messagepad-handbook-1995

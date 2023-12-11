@@ -12,11 +12,14 @@ A term or phrase that triggers an [action](/terms/action) when processed by the 
 
 For example, entering the “call” request word into the [assist slip](/terms/assist-slip) will trigger an action to dial a telephone number.
 
+Request words can have [synonyms](/terms/synonyms) for a action. For example, “ring”, “dial”, and “phone” are synonyms for the request word “call”.
+
 ----
 
 Resource:
 
 - [Apple Support: Newton MessagePad: Using the Newton Assistant](https://web.archive.org/web/20020220091929/http://karchive.info.apple.com/article.html?artnum=12784)
+- [TidBits: Newton Synonyms](https://tidbits.com/article/2390)
 
 ----
 
@@ -26,9 +29,11 @@ Related:
 - /terms/assist
 - /terms/assist-slip
 - /terms/intelligent-assistance-architecture
+- /terms/synonyms
 
 ----
 
 Source:
 
 - /sources/applecare-knowledge-archive
+- /sources/messagepad-handbook-1995
