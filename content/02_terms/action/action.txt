@@ -29,6 +29,7 @@ Related:
 - /terms/assist-slip
 - /terms/command-key
 - /terms/intelligent-assistance-architecture
+- /terms/please-picker
 - /terms/request-word
 
 ----

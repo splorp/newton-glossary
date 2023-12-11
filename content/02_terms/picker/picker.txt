@@ -23,6 +23,7 @@ Related:
 - /terms/new-picker
 - /terms/people-picker
 - /terms/picker-list
+- /terms/please-picker
 - /terms/show-picker
 - /terms/tag-picker
 - /terms/user-interface

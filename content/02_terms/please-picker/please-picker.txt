@@ -1,0 +1,36 @@
+Title: Please Picker
+
+----
+
+Date: 10 December 2023
+
+----
+
+Text:
+
+A [picker](/terms/picker) in the [assist slip](/terms/assist-slip) that displays a list of [actions](/terms/action) that have been registered by [applications](/terms/application), as well as recent phrases that the [Assist](/terms/assist) function has attempted to interpret.
+
+<img src="/assets/images/please-picker-2x.gif" alt="Screenshot of the Please Picker in the Assist Slip" width="240" />
+
+Tasks listed in the Please picker include calling, faxing, finding, mailing, printing, remembering [To Do List](/terms/to-do-list) items, scheduling meetings, and getting time information from the [Time Zones](/terms/time-zones) application.
+
+If an application registers additional actions with the Assist function, they automatically appear in the picker.
+
+
+----
+
+Related:
+
+- /terms/action
+- /terms/assist
+- /terms/assist-drawer
+- /terms/assist-slip
+- /terms/intelligent-assistance-architecture
+- /terms/picker
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines
