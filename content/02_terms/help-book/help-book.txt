@@ -15,6 +15,7 @@ The electronic document produced by [Newton Book Maker](/terms/newton-book-maker
 Related:
 
 - /terms/help-browser
+- /terms/how-do-i
 - /terms/newton-book
 - /terms/newton-book-maker
 - /terms/newton-book-reader
