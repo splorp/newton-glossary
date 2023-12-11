@@ -15,6 +15,8 @@ Shorthand for [PDA Panache](/sources/pda-panache), a defunct company that suppli
 Related:
 
 - /terms/pen
+- /terms/pen-holder
+- /terms/pen-tray
 - /terms/styli
 - /terms/stylus
 

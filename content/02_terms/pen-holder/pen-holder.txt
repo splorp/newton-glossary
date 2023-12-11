@@ -1,0 +1,20 @@
+Title: Pen Holder
+
+----
+
+Date: 10 December 2023
+
+----
+
+Text:
+
+A slot or well built into a Newton device to store or hold the [pen](/terms/pen) when not in use. Along with a pair of wells on either side of the keyboard, the [eMate 300](/terms/emate-300) also has a recessed [pen tray](/terms/pen-tray) to store the pen when the lid is closed.
+
+----
+
+Related:
+
+- /terms/pen
+- /terms/pen-tray
+- /terms/styli
+- /terms/stylus

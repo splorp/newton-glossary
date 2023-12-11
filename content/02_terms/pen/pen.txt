@@ -18,6 +18,8 @@ Related:
 
 - /terms/double-tap
 - /terms/pdap
+- /terms/pen-holder
+- /terms/pen-tray
 - /terms/styli
 - /terms/stylus
 - /terms/tap

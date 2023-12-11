@@ -1,0 +1,20 @@
+Title: Pen Tray
+
+----
+
+Date: 10 December 2023
+
+----
+
+Text:
+
+A recessed area located above the keyboard on the [eMate 300](/terms/emate-300) for storing the pen when the lid is closed.
+
+----
+
+Related:
+
+- /terms/pen
+- /terms/pen-holder
+- /terms/styli
+- /terms/stylus
