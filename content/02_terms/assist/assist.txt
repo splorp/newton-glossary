@@ -24,6 +24,7 @@ Related:
 
 - /terms/action
 - /terms/assist-drawer
+- /terms/assist-slip
 - /terms/assistant
 - /terms/intelligent-assistance-architecture
 - /terms/newton-assistant

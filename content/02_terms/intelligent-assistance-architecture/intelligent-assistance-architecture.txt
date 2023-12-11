@@ -23,6 +23,7 @@ Related:
 - /terms/action
 - /terms/assist
 - /terms/assist-drawer
+- /terms/assist-slip
 - /terms/request-word
 
 ----

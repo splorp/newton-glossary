@@ -14,6 +14,7 @@ A [container view](/terms/container-view) with a [matte border](/terms/matte-bor
 
 Related:
 
+- /terms/assist-slip
 - /terms/call-slip
 - /terms/confirmation-slip
 - /terms/container-view
