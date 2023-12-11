@@ -23,7 +23,6 @@ Related:
 
 - /terms/action
 - /terms/assist
-- /terms/assist-drawer
 - /terms/assist-slip
 - /terms/intelligent-assistance-architecture
 - /terms/picker

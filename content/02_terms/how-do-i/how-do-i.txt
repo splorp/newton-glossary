@@ -16,7 +16,6 @@ The [Newton OS](/terms/newton-os) includes a [help browser](help-browser) for bu
 
 Related:
 
-- /terms/assist-drawer
 - /terms/assist-slip
 - /terms/button
 - /terms/help-book

@@ -22,7 +22,6 @@ Related:
 
 - /terms/action
 - /terms/assist
-- /terms/assist-drawer
 - /terms/assist-slip
 - /terms/how-do-i
 - /terms/request-word

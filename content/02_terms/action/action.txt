@@ -8,9 +8,9 @@ Date: 24 March 2017
 
 Text:
 
-An event or behaviour that is triggered when a specific item is selected in an [action picker](/terms/action-picker), a [key combination](/terms/key-combination) is pressed, or a [request word](/terms/request-word) is processed by the [assist](/terms/assist) function.
+An event or behaviour that is triggered when a specific item is selected in an [action picker](/terms/action-picker), a [key combination](/terms/key-combination) is pressed, or a [request word](/terms/request-word) is processed by the [Assist](/terms/assist) function.
 
-For example, entering the “call” [request word](/terms/request-word) into the [assist drawer](/terms/assist-drawer) will trigger an action to dial a telephone number.
+For example, entering the “call” [request word](/terms/request-word) into the [assist slip](/terms/assist-slip) will trigger an action to dial a telephone number.
 
 ----
 
@@ -25,7 +25,6 @@ Related:
 - /terms/action-button
 - /terms/action-picker
 - /terms/assist
-- /terms/assist-drawer
 - /terms/assist-slip
 - /terms/command-key
 - /terms/intelligent-assistance-architecture

@@ -8,9 +8,9 @@ Date: 24 March 2017
 
 Text:
 
-A term or phrase that triggers an [action](/terms/action) when processed by the [assist](/terms/assist) function.
+A term or phrase that triggers an [action](/terms/action) when processed by the [Assist](/terms/assist) function.
 
-For example, entering the “call” request word into the [assist drawer](/terms/assist-drawer) will trigger an action to dial a telephone number.
+For example, entering the “call” request word into the [assist slip](/terms/assist-slip) will trigger an action to dial a telephone number.
 
 ----
 
@@ -24,7 +24,6 @@ Related:
 
 - /terms/action
 - /terms/assist
-- /terms/assist-drawer
 - /terms/assist-slip
 - /terms/intelligent-assistance-architecture
 
