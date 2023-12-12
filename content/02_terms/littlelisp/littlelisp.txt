@@ -33,6 +33,6 @@ Related:
 
 ----
 
-Sources:
+Source:
 
 - /sources/david-benn

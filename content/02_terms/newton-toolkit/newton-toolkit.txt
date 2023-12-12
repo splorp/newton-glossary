@@ -12,7 +12,7 @@ A development environment created by [Apple](https://www.apple.com/) for writing
 
 Also referred to as [NTK](/terms/ntk).
 
-Newton Toolkit for Mac OS X ([NTX](/terms/ntx)) is a modern replacement for the classic Newton Toolkit being developed by [Simon Bell](/sources/simon-bell).
+Newton Toolkit for Mac OS X (also known as [NTX](/terms/ntx)) is a modern replacement for the classic Newton Toolkit being developed by [Simon Bell](/sources/simon-bell).
 
 ----
 
