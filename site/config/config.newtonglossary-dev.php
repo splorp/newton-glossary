@@ -27,7 +27,7 @@ return [
 	'content.uuid' => false,
 	'cache' => [
 		'pages' => [
-			'active' => false
+			'active' => true
 		]
 	],
 	'markdown' => [
