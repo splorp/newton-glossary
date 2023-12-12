@@ -1,7 +1,7 @@
 
 # Newton Glossary
 
-### An almost definitive guide to Newton-related terms and trivia.
+### An almost definitive guide to terms and trivia related to the Apple Newton.
 
 [newtonglossary.com](http://newtonglossary.com/)
 
