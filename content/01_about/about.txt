@@ -12,7 +12,7 @@ Description: How this whole thing works, plus a little bit of history surroundin
 
 Text:
 
-The original idea behind the creation of the [Newton Glossary](/) was to provide a single, accessible resource for terminology related specifically to the Newton.
+The original idea behind the creation of the [Newton Glossary](/) was to provide a single, accessible resource for terminology related to the [Apple Newton](https://en.wikipedia.org/wiki/Apple_Newton) platform.
 
 A significant number of the terms found in the glossary were initially compiled between 2001 and 2004 by [Grant Hutchinson](https://splorp.com/). Numerous [sources](/sources) were used, along with help from knowledgable folks such as [Paul Guyot](https://www.kallisys.com/), [Victor Rehorst](https://www.chuma.org/), and countless members of the [NewtonTalk](http://newtontalk.net/) community.
 

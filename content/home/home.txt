@@ -12,6 +12,6 @@ Description:
 
 Text:
 
-Since its humble beginnings in 2001, the Newton Glossary has grown into one of most comprehensive collections of terms, definitions, acronyms, colloquialisms, and bits of trivia relating specifically to the Apple Newton.
+Since its humble beginnings in 2001, the Newton Glossary has grown into one of most comprehensive collections of terms, definitions, acronyms, colloquialisms, and other bits of trivia relating to the Apple Newton.
 
 This is a work in progress. Mind your head.
