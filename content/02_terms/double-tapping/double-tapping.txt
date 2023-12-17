@@ -1,0 +1,28 @@
+Title: Double-Tapping
+
+----
+
+Date: 17 December 2023
+
+----
+
+Text:
+
+The action of briefly touching or [tapping](/terms/tapping) the same spot on the [screen](/terms/screen), or nearly the same spot, twice in rapid succession with the [pen](/terms/pen). Essentially the same action as double clicking a mouse button on a [desktop computer](/terms/desktop-computer), [laptop](/terms/laptop-computer), or equivalent device.
+
+----
+
+Related:
+
+- /terms/pen
+- /terms/double-tap
+- /terms/tap
+- /terms/tap-and-a-half
+- /terms/tapped
+- /terms/tapping
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

@@ -15,6 +15,7 @@ To touch or [tap](/terms/tap) the same spot on the [screen](/terms/screen), or n
 Related:
 
 - /terms/pen
+- /terms/double-tapping
 - /terms/tap
 - /terms/tap-and-a-half
 - /terms/tapped

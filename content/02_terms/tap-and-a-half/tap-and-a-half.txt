@@ -15,6 +15,7 @@ To [tap](/terms/tap), then quickly lift, touch, and hold the [pen](/terms/pen) i
 Related:
 
 - /terms/double-tap
+- /terms/double-tapping
 - /terms/pen
 - /terms/tap
 - /terms/tapped

@@ -15,6 +15,7 @@ When the [screen](/terms/screen) has been touched briefly with the [pen](/terms/
 Related:
 
 - /terms/double-tap
+- /terms/double-tapping
 - /terms/pen
 - /terms/tap
 - /terms/tap-and-a-half

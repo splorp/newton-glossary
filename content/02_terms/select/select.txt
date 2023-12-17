@@ -8,13 +8,14 @@ Date:
 
 Text:
 
-To designate a [user interface](/terms/user-interface) object by [tapping](/terms/tapping), [double-tapping](/terms/double-tap), or [dragging](/terms/drag) across it. The next action that happens is applied to the selected object.
+To designate a [user interface](/terms/user-interface) object by [tapping](/terms/tapping), [double-tapping](/terms/double-tapping), or [dragging](/terms/drag) across it. The next action that happens is applied to the selected object.
 
 ----
 
 Related:
 
 - /terms/double-tap
+- /terms/double-tapping
 - /terms/drag
 - /terms/selection
 - /terms/tap

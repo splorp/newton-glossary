@@ -15,6 +15,7 @@ To touch the [screen](/terms/screen) briefly with the [pen](/terms/pen). Essenti
 Related:
 
 - /terms/double-tap
+- /terms/double-tapping
 - /terms/pen
 - /terms/tap-and-a-half
 - /terms/tapped

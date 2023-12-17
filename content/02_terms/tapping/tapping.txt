@@ -15,6 +15,7 @@ The action of briefly touching the [screen](/terms/screen) with the [pen](/terms
 Related:
 
 - /terms/double-tap
+- /terms/double-tapping
 - /terms/pen
 - /terms/tap
 - /terms/tapped
