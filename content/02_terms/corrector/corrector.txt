@@ -1,0 +1,17 @@
+Title: Corrector
+
+----
+
+Date: 18 December 2023
+
+----
+
+Text:
+
+See: [Corrector View](/terms/corrector-view)
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

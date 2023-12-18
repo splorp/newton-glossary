@@ -20,6 +20,7 @@ Related:
 - /terms/button-host
 - /terms/button-provider
 - /terms/close-box
+- /terms/corrector-button
 - /terms/dictionary-button
 - /terms/envelope-button
 - /terms/folder-button

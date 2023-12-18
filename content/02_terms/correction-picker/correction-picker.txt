@@ -1,0 +1,35 @@
+Title: Correction Picker
+
+----
+
+Date: 18 December 2023
+
+----
+
+Text:
+
+[Double-tapping](/terms/double-tapping) a word pops up the correction picker, displaying a list of alternate words the user can select as a replacement. The bottom of the correction picker contains a [Keyboard button](/terms/keyboard-button), a [corrector button](/terms/corrector-button), and a [Try Letters](/terms/try-letters) button.
+
+Tapping “Try Letters” causes the Newton system to ignore the recognition dictionaries and try to recognize the word [letter-by-letter](/terms/letter-by-letter). Tapping the keyboard button displays a [typewriter](/terms/typewriter) keyboard, to allow the user to type corrections. Tapping the [corrector button](/terms/corrector-button) brings up a [corrector view](/terms/corrector-view), in which the user can make corrections to individual letters.
+
+<img src="/assets/images/correction-picker-2x.gif" alt="Screenshot of the Correction Picker" width="79" />
+
+Tapping a letter in the corrector view pops up a different correction picker, listing alternate letters as well as commands to insert and delete individual characters.
+
+----
+
+Related:
+
+- /terms/corrector
+- /terms/corrector-button
+- /terms/corrector-view
+- /terms/handwriting-recognition
+- /terms/keyboard-button
+- /terms/letter-by-letter
+- /terms/try-letters
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

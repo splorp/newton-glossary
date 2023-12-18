@@ -1,0 +1,37 @@
+Title: Corrector View
+
+----
+
+Date: 18 December 2023
+
+----
+
+Text:
+
+[Tapping](/terms/tapping) the [corrector button](/terms/corrector-button) in the [correction picker](/terms/correction-picker) brings up a corrector view, in which the user can make corrections to individual letters. The user can write over a letter to replace it, delete a letter by scrubbing it, or insert a space in which to write an additional letter.
+
+Tapping a letter in the corrector view pops up a different correction picker, listing alternate letters as well as commands to insert and delete individual characters.
+
+<img src="/assets/images/corrector-view-2x.gif" alt="Screenshot of the Corrector View with a Correction Picker" width="237" />
+
+Also referred to as simply a [corrector](/terms/corrector).
+
+----
+
+Related:
+
+- /terms/container-view
+- /terms/correction-picker
+- /terms/corrector
+- /terms/corrector-button
+- /terms/handwriting-recognition
+- /terms/keyboard-button
+- /terms/letter-by-letter
+- /terms/try-letters
+- /terms/view
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

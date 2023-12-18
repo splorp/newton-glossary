@@ -1,0 +1,29 @@
+Title: Corrector Button
+
+----
+
+Date: 18 December 2023
+
+----
+
+Text:
+
+[Tapping](/terms/tapping)) the corrector button in the [correction picker](/terms/correction-picker) brings up a [corrector view](/terms/corrector-view), in which the user can make corrections to individual letters.
+
+----
+
+Related:
+
+- /terms/button
+- /terms/correction-picker
+- /terms/corrector
+- /terms/corrector-view
+- /terms/handwriting-recognition
+- /terms/try-letters
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

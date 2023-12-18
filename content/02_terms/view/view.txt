@@ -17,6 +17,7 @@ Related:
 - /terms/application-base-view
 - /terms/child-view
 - /terms/container-view
+- /terms/corrector-view
 - /terms/floating-container-view
 - /terms/glance
 - /terms/key-view

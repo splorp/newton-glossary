@@ -15,6 +15,7 @@ A [button](/terms/button) that displays an onscreen [keyboard](/terms/keyboard) 
 Related:
 
 - /terms/button
+- /terms/correction-picker
 - /terms/fitaly
 - /terms/keyboard
 - /terms/numeric
