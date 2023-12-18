@@ -1,0 +1,32 @@
+Title: View Border
+
+----
+
+Date: 18 December 2023
+
+----
+
+Text:
+
+Every [container view](/terms/container-view) is framed by a border. A view border serves to demarcate what is contained within the [view](/terms/view) and what is not. If a view fills the entire screen, its border is not visible.
+
+Different border styles identify special types of container views. For example, a [wavy border](/terms/wavy-border) is associated with an [alert box](/terms/alert-box), whereas a [striped border](/terms/striped-border) is used to indicate a [routing slip](/terms/routing-slip).
+
+----
+
+Related:
+
+- /terms/container-view
+- /terms/matte-border
+- /terms/main-view
+- /terms/plain-border
+- /terms/striped-border
+- /terms/user-interface
+- /terms/view
+- /terms/wavy-border
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

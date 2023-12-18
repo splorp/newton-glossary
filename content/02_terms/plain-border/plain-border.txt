@@ -1,0 +1,31 @@
+Title: Plain Border
+
+----
+
+Date: 18 December 2023
+
+----
+
+Text:
+
+A simple black border made up of medium weight lines surrounding a [container view](/terms/container-view).
+
+----
+
+Related:
+
+- /terms/container-view
+- /terms/main-view
+- /terms/matte-border
+- /terms/slip
+- /terms/striped-border
+- /terms/user-interface
+- /terms/view
+- /terms/view-border
+- /terms/wavy-border
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

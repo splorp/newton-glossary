@@ -10,6 +10,10 @@ Text:
 
 A principal [container view](/terms/container-view) that serves as a center of user operations for an [application](/terms/application).
 
+Every main view must have a [view border](/terms/view-border), even if the border is not visible because the [view](/terms/view) fills the entire screen. 
+
+Generally, the main view of an application will have either a [matte border](/terms/matte-border) or a [plain border](/terms/plain-border).
+
 ----
 
 Related:
@@ -21,10 +25,13 @@ Related:
 - /terms/floating-container-view
 - /terms/key-view
 - /terms/layout-view
+- /terms/matte-border
 - /terms/parent-view
+- /terms/plain-border
 - /terms/root-view
 - /terms/sibling-view
 - /terms/view
+- /terms/view-border
 - /terms/view-class
 - /terms/view-definition
 

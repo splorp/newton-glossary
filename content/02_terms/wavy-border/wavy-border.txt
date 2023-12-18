@@ -17,12 +17,17 @@ A visually distinct [Newton user interface](/terms/newton-user-interface) elemen
 Related:
 
 - /terms/alert-box
+- /terms/container-view
 - /terms/matte-border
+- /terms/plain-border
 - /terms/puff-of-smoke
+- /terms/striped-border
 - /terms/user-interface
+- /terms/view
+- /terms/view-border
 
 ----
 
 Source:
 
-- /sources/grant-hutchinson
+- /sources/newton-user-interface-guidelines
