@@ -47,6 +47,7 @@ Related:
 - /terms/status-bar
 - /terms/tag-button
 - /terms/text-button
+- /terms/try-letters
 - /terms/universal-scroll-arrows
 - /terms/user-interface
 

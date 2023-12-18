@@ -14,16 +14,18 @@ A [handwriting recognition](/terms/handwriting-recognition) option that uses [le
 
 Related:
 
+- /terms/button
 - /terms/calligrapher
 - /terms/cursive
 - /terms/cursive-recognizer
-- /terms/dictionary
 - /terms/handwriting-recognition
 - /terms/letter-by-letter
 - /terms/letter-shapes
+- /terms/user-interface
 
 ----
 
 Source:
 
 - /sources/messagepad-2000-user-manual
+- /sources/newton-user-interface-guidelines

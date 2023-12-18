@@ -17,3 +17,4 @@ Related:
 - /terms/calligrapher
 - /terms/cursive-recognizer
 - /terms/handwriting-recognition
+- /terms/try-letters
