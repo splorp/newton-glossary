@@ -44,6 +44,7 @@ Related:
 - /terms/show-button
 - /terms/silk-button
 - /terms/silkscreen-button
+- /terms/snooze-button
 - /terms/soft-button
 - /terms/status-bar
 - /terms/tag-button

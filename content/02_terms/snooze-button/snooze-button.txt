@@ -1,0 +1,31 @@
+Title: Snooze Button
+
+----
+
+Date: 20 December 2023
+
+----
+
+Text:
+
+Some [notification alerts](/terms/notification-alert) include a “Snooze” button, which enables the user to temporarily dismiss the alert.  For example, if an alarm or reminder [alert box](/terms/alert-box) is displayed, the user can postpone the alarm for a specific number of minutes. Tapping the “Snooze” button displays a list of times in the [snooze picker](/terms/snooze-picker). Selecting a time from the list will dismiss the alert for that amount of time.
+
+<img src="/assets/images/alert-box-reminder.gif" alt="Screenshot of a Reminder Alert with Snooze Button" width="208" />
+
+----
+
+Related:
+
+- /terms/alert-box
+- /terms/alert-sound
+- /terms/button
+- /terms/notification-alert
+- /terms/notification-slip
+- /terms/snooze-picker
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

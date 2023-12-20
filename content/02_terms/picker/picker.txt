@@ -25,6 +25,7 @@ Related:
 - /terms/picker-list
 - /terms/please-picker
 - /terms/show-picker
+- /terms/snooze-picker
 - /terms/tag-picker
 - /terms/user-interface
 

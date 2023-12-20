@@ -1,0 +1,31 @@
+Title: Snooze Picker
+
+----
+
+Date: 20 December 2023
+
+----
+
+Text:
+
+A list of times in minutes that a [notification alert](/terms/notification-alert) can be postponed. Activated by [tapping](/terms/tapping) on the [snooze button](/terms/snooze-button) in a [notification alerts](/terms/notification-alert).
+
+<img src="/assets/images/alert-box-reminder-with-snooze-picker-2x.gif" alt="Screenshot of a Reminder Alert with Snooze Picker" width="208" />
+
+----
+
+Related:
+
+- /terms/alert-box
+- /terms/alert-sound
+- /terms/button
+- /terms/notification-alert
+- /terms/notification-slip
+- /terms/snooze-button
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines
