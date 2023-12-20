@@ -17,8 +17,10 @@ A visually distinct [Newton user interface](/terms/newton-user-interface) elemen
 Related:
 
 - /terms/alert-box
+- /terms/confirmation-alert
 - /terms/container-view
 - /terms/matte-border
+- /terms/notification-alert
 - /terms/plain-border
 - /terms/puff-of-smoke
 - /terms/striped-border

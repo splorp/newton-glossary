@@ -1,0 +1,37 @@
+Title: Confirmation Alert
+
+----
+
+Date: 20 December 2023
+
+----
+
+Text:
+
+An [alert box](/terms/alert-box) that appears on the [screen](/terms/screen) requiring the user confirm or cancel an action that may have “far-reaching” consequences. For example, a confirmation alert appears before erasing the data on a [storage card](/terms/storage-card).
+
+A confirmation alert has no [close box](/terms/close-box). Instead, it has labeled buttons, usually named “Cancel” and “OK”.
+
+Also referred to as a [confirmation slip](/terms/confirmation-slip).
+
+<img src="/assets/images/confirmation-alert-2x.gif" alt="Screenshot of a Confirmation Alert" width="208" />
+
+----
+
+Related:
+
+- /terms/alert-box
+- /terms/alert-sound
+- /terms/confirmation-slip
+- /terms/notification-alert
+- /terms/notification-slip
+- /terms/status-box
+- /terms/status-slip
+- /terms/user-interface
+- /terms/wavy-border
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

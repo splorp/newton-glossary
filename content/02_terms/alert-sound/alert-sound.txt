@@ -8,13 +8,14 @@ Date:
 
 Text:
 
-An audible warning from the Newton’s speaker that warns the user of an unusual or potentially undesirable situation. An alert sound may or may not be accompanied by an [alert box](/terms/alert-box) or [notification slip](/terms/notification-slip).
+An audible warning from the Newton’s speaker that warns the user of an unusual or potentially undesirable situation. An alert sound may or may not be accompanied by an [alert box](/terms/alert-box) or [notification alert](/terms/notification-alert).
 
 ----
 
 Related:
 
 - /terms/alert-box
+- /terms/notification-alert
 - /terms/notification-slip
 
 ----
