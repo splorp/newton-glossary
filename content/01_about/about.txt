@@ -14,7 +14,7 @@ Text:
 
 The original idea behind the creation of the [Newton Glossary](/) was to provide a single, accessible resource for terminology related to the [Apple Newton](https://en.wikipedia.org/wiki/Apple_Newton) platform.
 
-A significant number of the terms found in the glossary were initially compiled between 2001 and 2004 by [Grant Hutchinson](https://splorp.com/). Numerous [sources](/sources) were used, along with help from knowledgable folks such as [Paul Guyot](https://www.kallisys.com/), [Victor Rehorst](https://www.chuma.org/), and countless members of the [NewtonTalk](http://newtontalk.net/) community.
+A significant number of the terms found in the glossary were initially compiled between 2001 and 2004 by [Grant Hutchinson](https://splorp.com/). Numerous [sources](/sources) were used, along with help from knowledgable folks such as [Paul Guyot](https://www.kallisys.com/), [Victor Rehorst](https://www.chuma.org/), and countless members of the [NewtonTalk](https://newtontalk.net/) community.
 
 Although it’s quite out of date, [Morgan Aldridge](http://www.makkintosshu.com/) has maintained a [searchable version](http://tools.unna.org/glossary/) of the glossary as part of the [United Network of Newton Archives](http://www.unna.org/).
 
