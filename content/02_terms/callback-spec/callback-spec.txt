@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A [frame](/terms/frame) passed as an argument to an [endpoint](/terms/endpoint) [method](/terms/method). The callback spec frame contains [slots](/terms/slot) that control how the endpoint method executes, along with a completion method that is called when the endpoint operation completes.
+A [frame](/terms/frame) passed as an argument to an [endpoint](/terms/endpoint) method. The callback spec frame contains [slots](/terms/slot) that control how the endpoint [method](/terms/method) executes, along with a completion method that is called when the endpoint operation completes.
 
 ----
 

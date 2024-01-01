@@ -8,7 +8,7 @@ Date: 29 December 2023
 
 Text:
 
-A group of settings specified using the [Teacher Setup](/terms/teacher-setup) [application](/terms/application) that are common to all [eMate 300](/terms/emate-300) devices in a classroom. These settings can include a default printer, whether spell-checking is enabled, whether multiple users can log into an eMate, as well as which applications users are able to access. Once you set a base classroom state on a single eMate, you can transfer those settings to other eMate devices using a [storage card](/terms/storage-card).
+A group of settings specified using the [Teacher Setup](/terms/teacher-setup) application that are common to all [eMate 300](/terms/emate-300) devices in a classroom. These settings can include a default printer, whether spell-checking is enabled, whether multiple users can log into an eMate, as well as which [applications](/terms/application) users are able to access. Once you set a base classroom state on a single eMate, you can transfer those settings to other eMate devices using a [storage card](/terms/storage-card).
 
 ----
 
