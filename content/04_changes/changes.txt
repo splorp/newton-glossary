@@ -18,14 +18,18 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
-### _$v
+### 3.1.1
 
-Terms: _$t
-Sources: _$s
+01 January 2024
+
+Terms: 1,330
+Sources: 140
 
 #### Summary of changes:
 
-+ Updated and expanded several existing entries
++ Added 25 new terms
++ Added 2 new sources
++ Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version [3.9.8](https://github.com/getkirby/kirby/releases/tag/3.9.8)
 
 ### 3.1.0
