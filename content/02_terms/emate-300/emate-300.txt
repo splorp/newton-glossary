@@ -27,13 +27,16 @@ Related:
 
 - /terms/backlight
 - /terms/backlit
+- /terms/base-classroom-state
 - /terms/batnewt
 - /terms/bizmate
 - /terms/bmate
 - /terms/broink
 - /terms/business-emate
 - /terms/clamshell
+- /terms/classroom-dock
 - /terms/classroom-exchange
+- /terms/classroom-mode
 - /terms/dhp
 - /terms/em300
 - /terms/emate
@@ -50,3 +53,4 @@ Related:
 - /terms/schoolbook
 - /terms/shay
 - /terms/spring-issue
+- /terms/teacher-setup

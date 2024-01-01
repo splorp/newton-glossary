@@ -10,7 +10,7 @@ Text:
 
 Software developed by [Apple](https://www.apple.com/) that facilitates the connection of one or more [eMate 300](/terms/emate-300) devices to a Mac OS computer and the simultaneous transferring of information between those devices.
 
-Also referred to as [eMate Classroom Exchange](/terms/emate-classroom-exchange)
+Also referred to as [eMate Classroom Exchange](/terms/emate-classroom-exchange).
 
 <img src="/assets/images/classroom-exchange-2x.gif" alt="Screenshot of the eMate Classroom Exchange Status window" width="398" />
 
@@ -18,9 +18,12 @@ Also referred to as [eMate Classroom Exchange](/terms/emate-classroom-exchange)
 
 Related:
 
+- /terms/base-classroom-state
 - /terms/classroom-dock
+- /terms/classroom-mode
 - /terms/connection
 - /terms/dock
+- /terms/dock-options
 - /terms/docking
 - /terms/emate-300
 - /terms/emate-classroom-exchange

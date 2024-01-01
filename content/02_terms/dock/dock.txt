@@ -24,5 +24,6 @@ Related:
 - /terms/classroom-exchange
 - /terms/connection
 - /terms/dcl
+- /terms/dock-options
 - /terms/docking
 - /terms/rdcl

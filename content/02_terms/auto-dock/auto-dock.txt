@@ -14,7 +14,9 @@ The automatic transfer of data between a Newton device to another computer once 
 
 Related:
 
+- /terms/classroom-dock
 - /terms/connection
 - /terms/dock
+- /terms/dock-options
 - /terms/docking
 - /terms/newton-interconnect
