@@ -8,20 +8,9 @@ Date: 29 December 2023
 
 Text:
 
-The eMate can operate in one of two modes:
+A mode of operation on an [eMate 300](/terms/emate-300) typically used in a classroom or multiuser situation. Classroom Mode is specified using the [Teacher Setup](/terms/teacher-setup) application and provides a simplified Newton interface, limiting which features and [applications](/terms/application) students may access.
 
-To provide a simplified interface and prevent students from using features they don’t need, you can put the eMates into Classroom Mode and choose exactly which applications they have access to.
-
-In this mode, students can open only those applications that you choose to make available to them. Also, you can create a separate user name for each user of the eMate, so each student’s documents are stored separately. As an option, you can also protect each user’s work by setting passwords.
-
-
-Classroom Mode is typically used in a classroom situation or any multiple-user environment where you want to provide access to certain applications only.
-
-Classroom Mode is the more appropriate mode because it separates and protects individual students’ work, can make available as many or as few applications as you want, and is easy to use for students of all levels.
-
-
-
-A group of settings specified using the [Teacher Setup](/terms/teacher-setup) [application](/terms/application) that are common to all [eMate 300](/terms/emate-300) devices in a classroom. These settings can include a default printer, whether spell-checking is enabled, whether multiple users can log into an eMate, as well as which applications users are able to access. Once you set a base classroom state on a single eMate, you can transfer those settings to other eMate devices using a [storage card](/terms/storage-card).
+<img src="/assets/images/teacher-setup-2x.gif" alt="Screenshot of the Teacher Setup application" width="236" />
 
 ----
 
