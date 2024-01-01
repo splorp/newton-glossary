@@ -16,6 +16,7 @@ Related:
 
 - /terms/checklist
 - /terms/notable
+- /terms/notelinker
 - /terms/notepad
 - /terms/notes
 - /terms/notes2notes

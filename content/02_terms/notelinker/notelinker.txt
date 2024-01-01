@@ -1,0 +1,31 @@
+Title: NoteLinker
+
+----
+
+Date: 01 January 2024
+
+----
+
+Text:
+
+A utility by [Matej Horvat](/sources/matej-horvat) allows the user to create links in [notes](/terms/note) that point to other notes.
+
+----
+
+Resource:
+
+- [Matej Horvat: NoteLinker Product Information](https://matejhorvat.si/en/newton/notelink/)
+
+----
+
+Related:
+
+- /terms/hypernewt
+- /terms/note
+- /terms/notepad
+
+----
+
+Source:
+
+- /sources/matej-horvat

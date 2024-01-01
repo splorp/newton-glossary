@@ -29,6 +29,7 @@ Related:
 - /terms/checklist
 - /terms/notable
 - /terms/note
+- /terms/notelinker
 - /terms/notes
 - /terms/notes2notes
 - /terms/outline

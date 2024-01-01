@@ -26,6 +26,7 @@ Related:
 - /terms/folder-tab
 - /terms/global-folder
 - /terms/local-folder
+- /terms/notelinker
 
 ----
 
