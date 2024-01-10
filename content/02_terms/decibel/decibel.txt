@@ -1,0 +1,26 @@
+Title: Decibel
+
+----
+
+Date: 10 January 2024
+
+----
+
+Text:
+
+A unit of measurement of the relative loudness of a sound.
+
+Commonly abbreviated as [dB](/terms/db).
+
+----
+
+Related:
+
+- /terms/db
+- /terms/volume
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
