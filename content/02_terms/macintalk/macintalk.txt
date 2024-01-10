@@ -30,8 +30,8 @@ Related:
 - /terms/speaktext
 - /terms/text-to-speech
 - /terms/yak
-- /terms/yakspeaknote
 - /terms/yakspeakmeeting
+- /terms/yakspeaknote
 
 ----
 

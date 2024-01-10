@@ -18,7 +18,6 @@ Related:
 - /terms/function-object
 - /terms/object
 - /terms/reference
-- /terms/vbo
 - /terms/virtual-binary-object
 
 ----

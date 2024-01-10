@@ -23,7 +23,6 @@ Related:
 - /terms/object
 - /terms/receiver
 - /terms/script-icon
-- /terms/vbo
 - /terms/virtual-binary-object
 
 ----

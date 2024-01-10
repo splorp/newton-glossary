@@ -19,7 +19,6 @@ Related:
 - /terms/object
 - /terms/script
 - /terms/template
-- /terms/vbo
 - /terms/view
 - /terms/virtual-binary-object
 

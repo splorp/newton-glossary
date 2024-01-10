@@ -42,7 +42,6 @@ Related:
 - /terms/unflatten
 - /terms/unflattenation
 - /terms/unflattening
-- /terms/vbo
 - /terms/virtual-binary-object
 
 ----
