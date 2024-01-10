@@ -14,9 +14,11 @@ A sequence of bytes that can represent any kind of data, can be adjusted dynamic
 
 Related:
 
+- /terms/bitmap
 - /terms/class
 - /terms/function-object
 - /terms/object
+- /terms/sound-frame
 - /terms/reference
 - /terms/virtual-binary-object
 

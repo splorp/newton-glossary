@@ -1,0 +1,29 @@
+Title: Sample
+
+----
+
+Date: 10 January 2024
+
+----
+
+Text:
+
+A [binary object](/terms/binary-object) stored in a [slot](/terms/slot) of a [sound frame](/terms/sound-frame) consisting of a sound supplied through the use of an analog to digital converter.
+
+----
+
+Related:
+
+- /terms/binary-object
+- /terms/channel
+- /terms/codec
+- /terms/nr404
+- /terms/slot
+- /terms/sound-frame
+- /terms/volume
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

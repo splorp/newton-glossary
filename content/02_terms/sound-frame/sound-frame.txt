@@ -1,0 +1,33 @@
+Title: Sound Frame
+
+----
+
+Date: 10 January 2024
+
+----
+
+Text:
+
+The [frame](/terms/frame) that defines a sound. The sound frame stores sound [sample](/terms/sample) data and additional information used internally by the system in one or more [slots](/terms/slot) defining various parameters. This information can include [binary objects](/terms/binary-object) of the sound samples, the number of samples, the sampling rate, and how many times the sound should be repeated or looped.
+
+----
+
+Related:
+
+- /terms/binary-object
+- /terms/channel
+- /terms/codec
+- /terms/frame
+- /terms/item-frame
+- /terms/option-frame
+- /terms/part-frame
+- /terms/sample
+- /terms/slot
+- /terms/volume
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference

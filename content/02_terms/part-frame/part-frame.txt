@@ -16,7 +16,10 @@ Related:
 
 - /terms/auto-part
 - /terms/frame
+- /terms/item-frame
+- /terms/option-frame
 - /terms/part
+- /terms/sound-frame
 - /terms/store-part
 
 ----

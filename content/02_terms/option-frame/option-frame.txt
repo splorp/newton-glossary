@@ -19,7 +19,7 @@ Related:
 - /terms/item-frame
 - /terms/object
 - /terms/part-frame
-- /terms/viewframe
+- /terms/sound-frame
 
 ----
 

@@ -18,6 +18,7 @@ Related:
 - /terms/object
 - /terms/option-frame
 - /terms/part-frame
+- /terms/sound-frame
 
 ----
 
