@@ -29,6 +29,7 @@ Related:
 - /terms/ezxfer
 - /terms/pc-card
 - /terms/pcmcia
+- /terms/pointpro
 
 ----
 

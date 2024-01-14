@@ -20,6 +20,7 @@ Related:
 - /terms/ezpresenter
 - /terms/ezshowcard
 - /terms/ezxfer
+- /terms/pointpro
 
 ----
 

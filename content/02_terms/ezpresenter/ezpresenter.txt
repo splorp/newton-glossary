@@ -26,6 +26,7 @@ Related:
 - /terms/ezshow
 - /terms/ezshowcard
 - /terms/ezxfer
+- /terms/pointpro
 
 ----
 

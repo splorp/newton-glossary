@@ -1,0 +1,17 @@
+Title: Avail PointPro
+
+----
+
+Date: 14 January 2024
+
+----
+
+Text:
+
+See: [PointPro](/terms/pointpro)
+
+----
+
+Source:
+
+- /sources/pelicanware
