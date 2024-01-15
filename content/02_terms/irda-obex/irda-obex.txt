@@ -1,0 +1,11 @@
+Title: IrDA-OBEX
+
+----
+
+Date: 14 January 2024
+
+----
+
+Text:
+
+See: [OBEX](/terms/obex)

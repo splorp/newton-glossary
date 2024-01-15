@@ -21,6 +21,7 @@ Related:
 - /terms/irda-sir
 - /terms/irlap
 - /terms/irlmp
+- /terms/obex
 - /terms/protocol
 - /terms/squirting
 - /terms/tinytp

@@ -8,7 +8,7 @@ Date: 27 May 2018
 
 Text:
 
-Software developed by [Smart Dog Software](/sources/smartdog) that provides updated [infrared](/terms/infrared) communications [protocols](/terms/protocol) for certain Newton devices. BackTalk is comprised of several system level components including a beam [transport](/terms/transport) and [IrDA](/terms/irda) object exchange stack, providing the ability to exchange information with other devices such as Palm OS-based handhelds.
+Software developed by [Smart Dog Software](/sources/smartdog) that provides updated [infrared](/terms/infrared) communications [protocols](/terms/protocol) for certain Newton devices. BackTalk is comprised of several system level components including a beam [transport](/terms/transport) and [infrared](/terms/infrared) object exchange ([OBEX](/terms/obex)) stack, providing the ability to exchange information with other devices such as Palm OS-based handhelds.
 
 ----
 
@@ -23,7 +23,7 @@ Related:
 - /terms/beaming
 - /terms/infrared
 - /terms/irda
-- /terms/irobex
+- /terms/obex
 - /terms/transport
 
 ----

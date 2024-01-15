@@ -1,0 +1,13 @@
+Title: IrOBEX
+
+----
+
+Date: 14 January 2024
+
+----
+
+Text:
+
+Infrared Object Exchange
+
+See: [OBEX](/terms/obex)

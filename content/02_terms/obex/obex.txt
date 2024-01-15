@@ -1,0 +1,46 @@
+Title: OBEX
+
+----
+
+Date: 14 January 2024
+
+----
+
+Text:
+
+Object Exchange
+
+A communications [protocol](/terms/protocol) that facilitates the exchange of [binary objects](/terms/binary-object) such as contact information or applications between devices over [infrared](/terms/infrared). Although initially designed for infrared, OBEX has also been adopted for use over Bluetooth and other serial connections.
+
+Also referred to as [IrOBEX](/terms/irobex) and [IrDA OBEX](/terms/irda-obex).
+
+----
+
+Resource:
+
+- [Infrared Data Association: OBEX (Object Exchange) Protocol](https://web.archive.org/web/20120705102347/http://www.irdajp.info/obex.html)
+- [Infrared Data Association: Object Exchange Protocol Version 1.3](https://web.archive.org/web/20031215094133/http://www.irda.org/standards/pubs/OBEX13.pdf)
+- [Wikipedia: OBject EXchange](https://en.wikipedia.org/wiki/OBject_EXchange)
+
+----
+
+Related:
+
+- /terms/backtalk
+- /terms/beaming
+- /terms/ircomm
+- /terms/irda
+- /terms/irda-obex
+- /terms/irlap
+- /terms/irlmp
+- /terms/irobex
+- /terms/protocol
+- /terms/squirting
+- /terms/tinytp
+
+----
+
+Source:
+
+- /sources/smartdog
+- /sources/wikipedia

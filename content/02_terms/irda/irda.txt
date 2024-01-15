@@ -31,6 +31,7 @@ Related:
 - /terms/irlap
 - /terms/irlmp
 - /terms/ircomm
+- /terms/obex
 - /terms/protocol
 - /terms/serial-infrared
 - /terms/squirting

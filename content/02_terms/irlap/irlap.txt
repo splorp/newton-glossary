@@ -22,6 +22,7 @@ Related:
 - /terms/irda
 - /terms/irda-lap
 - /terms/irlmp
+- /terms/obex
 - /terms/protocol
 - /terms/serial-infrared
 - /terms/squirting
