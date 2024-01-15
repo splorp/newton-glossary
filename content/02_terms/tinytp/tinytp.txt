@@ -1,0 +1,43 @@
+Title: TinyTP
+
+----
+
+Date: 14 January 2024
+
+----
+
+Text:
+
+Tiny Transport Protocol
+
+A lightweight communications [protocol](/terms/protocol) that lies on top of the [IrLMP](/terms/irlmp) layer. It provides transportation for large messages using flow control and a packet handling process known as segmentation and reassembly. The [IrCOMM](/terms/ircomm) communications protocol layer is built on the [TinyTP](/terms/tinytp) transport.
+
+Also referred to as [IrTinyTP](/terms/irtinytp).
+
+----
+
+Resource:
+
+- [Infrared Data Association: Tiny TP: A Flow-Control Mechanism for use with IrLMP](https://web.archive.org/web/20000917211025/http://www.irda.org/standards/pubs/Tinytp11.pdf)
+- [Wikipedia: Tiny TP](https://en.wikipedia.org/wiki/Infrared_Data_Association#Tiny_TP)
+
+----
+
+Related:
+
+- /terms/beaming
+- /terms/ircomm
+- /terms/irda
+- /terms/irlap
+- /terms/irlmp
+- /terms/irtinytp
+- /terms/obex
+- /terms/protocol
+- /terms/squirting
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/wikipedia

@@ -1,0 +1,17 @@
+Title: IrTinyTP
+
+----
+
+Date: 14 January 2024
+
+----
+
+Text:
+
+See: [TinyTP](/terms/tinytp)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
