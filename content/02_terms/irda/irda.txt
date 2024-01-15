@@ -28,9 +28,9 @@ Related:
 - /terms/fast-infrared
 - /terms/infrared
 - /terms/infrared-window
+- /terms/ircomm
 - /terms/irlap
 - /terms/irlmp
-- /terms/ircomm
 - /terms/obex
 - /terms/protocol
 - /terms/serial-infrared

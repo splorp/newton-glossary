@@ -25,6 +25,7 @@ Related:
 - /terms/irda
 - /terms/obex
 - /terms/transport
+- /terms/squirting
 
 ----
 

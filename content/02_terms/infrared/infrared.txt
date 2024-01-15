@@ -17,6 +17,7 @@ Related:
 - /terms/ask
 - /terms/beaming
 - /terms/fast-infrared
+- /terms/infrared-appletalk
 - /terms/ir
 - /terms/ircomm
 - /terms/irda
