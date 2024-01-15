@@ -10,13 +10,15 @@ Text:
 
 Infrared Data Association
 
-An industry body developing standards for [infrared](/terms/infrared) data transfer. Also the [infrared](/terms/infrared) communications [protocol](/terms/protocol) standard used in later Newton devices.
+An industry body developing standards for [infrared](/terms/infrared) data transfer.
+
+IrDA is also the infrared communications [protocol](/terms/protocol) used in later Newton devices.
 
 ----
 
 Resource:
 
-- [Infrared Data Association Website](http://www.irda.org/)
+- [Infrared Data Association Website](https://web.archive.org/web/20050702030729/http://www.irda.org/)
 
 ----
 
