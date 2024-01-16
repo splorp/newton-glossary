@@ -28,15 +28,12 @@ Related:
 
 - /terms/backtalk
 - /terms/beaming
-- /terms/ircomm
+- /terms/infrared
 - /terms/irda
 - /terms/irda-obex
-- /terms/irlap
-- /terms/irlmp
 - /terms/irobex
 - /terms/protocol
 - /terms/squirting
-- /terms/tinytp
 
 ----
 

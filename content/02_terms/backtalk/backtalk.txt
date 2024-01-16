@@ -24,8 +24,8 @@ Related:
 - /terms/infrared
 - /terms/irda
 - /terms/obex
-- /terms/transport
 - /terms/squirting
+- /terms/transport
 
 ----
 
