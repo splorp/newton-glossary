@@ -1,0 +1,35 @@
+Title: Notion
+
+----
+
+Date: 16 January 2024
+
+----
+
+Text:
+
+An [application](/terms/application) known as “The Newton List Manager”. Lists created using Notion may be printed, faxed, emailed, or [beamed](/terms/beaming) to other Notion users. Originally developed by <a href="https://web.archive.org/web/19961103202800/http://eidetic.com/">Eidetic</a> and bundled with Newton devices, the development and marketing of Notion was eventually taken over by [PelicanWare](/sources/pelicanware).
+
+----
+
+Resource:
+
+- [The Newted Community: Notion 1.5 Manual](http://www.newted.org/download/manuals/NotionManual15.pdf)
+- [The Newted Community: Notion 2.0 User Guide](http://www.newted.org/download/manuals/NotionUserGuide20.pdf)
+- [Bitsavers: Notion: The Newton List Manager](http://www.bitsavers.org/pdf/apple/brochures/brochures/AppleNewtonNotion.pdf)
+- [Pen Computing: Notion: Newton’s List Manager](http://www.pencomputing.com/Newton/NewtonNotes12.html)
+
+----
+
+Related:
+
+- /terms/checklist
+- /terms/date-book
+- /terms/newttodo
+- /terms/to-do-list
+
+----
+
+Source:
+
+- /sources/pelicanware

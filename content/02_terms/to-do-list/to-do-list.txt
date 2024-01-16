@@ -17,6 +17,7 @@ Related:
 - /terms/checklist
 - /terms/date-book
 - /terms/newttodo
+- /terms/notion
 
 ----
 

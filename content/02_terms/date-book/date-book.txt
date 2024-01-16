@@ -20,6 +20,8 @@ Related:
 - /terms/event
 - /terms/meeting
 - /terms/moreinfo
+- /terms/newttodo
+- /terms/notion
 - /terms/personal-information-manager
 - /terms/to-do-list
 

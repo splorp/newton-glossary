@@ -18,6 +18,7 @@ Related:
 - /terms/newttodo
 - /terms/note
 - /terms/notepad
+- /terms/notion
 - /terms/outline
 - /terms/recording
 - /terms/stationery

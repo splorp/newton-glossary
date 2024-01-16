@@ -24,6 +24,7 @@ Related:
 
 - /terms/checklist
 - /terms/date-book
+- /terms/notion
 - /terms/to-do-list
 
 ----
