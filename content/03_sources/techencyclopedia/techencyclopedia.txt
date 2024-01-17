@@ -8,4 +8,10 @@ Date:
 
 Text:
 
-The TechEncyclopedia was originally part of CMP Media’s [TechWeb](https://web.archive.org/web/19961119045519/http://techweb.com/) site, using information provided by [The Computer Language Company](http://www.computerlanguage.com/). The current iteration can be found on the [PCMag](http://www.pcmag.com/encyclopedia) site.
+The TechEncyclopedia was originally part of CMP Media’s [TechWeb](https://web.archive.org/web/19961119045519/http://techweb.com/) site, using information provided by [The Computer Language Company](https://www.computerlanguage.com/). The current iteration can be found on the [PCMag](http://www.pcmag.com/encyclopedia) site.
+
+----
+
+Resource:
+
+- [PCMag: Encyclopedia](https://www.pcmag.com/encyclopedia)
