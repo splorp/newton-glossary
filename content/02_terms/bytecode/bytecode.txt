@@ -12,16 +12,9 @@ An intermediate language that requires a runtime program for execution. For exam
 
 ----
 
-Resource:
-
-- [Matej Horvat: NoteLinker Product Information](https://web.archive.org/web/20190415082717/http://matejhorvat.si/en/software/nsm/)
-
-----
-
 Related:
 
-- /terms/bytecode
-- /terms/newtonscript
+- /terms/nsm
 - /terms/waba
 
 ----
