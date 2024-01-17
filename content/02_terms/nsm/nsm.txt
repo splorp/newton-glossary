@@ -1,0 +1,31 @@
+Title: NSM
+
+----
+
+Date: 16 January 2024
+
+----
+
+Text:
+
+An implementation of a portable [NewtonScript](/terms/newtonscript) virtual machine developed by [Matej Horvat](/sources/matej-horvat). NSM does not interpret NewtonScript source code directly, instead it executes NewtonScript [bytecode](/terms/bytecode) contained within Newton [packages](/terms/package).
+
+----
+
+Resource:
+
+- [Matej Horvat: NoteLinker Product Information](https://web.archive.org/web/20190415082717/http://matejhorvat.si/en/software/nsm/)
+- [NewtonTalk: NSM - a NewtonScript virtual machine](http://newtontalk.net/archive/newtontalk/2014-January/050053.html)
+----
+
+Related:
+
+- /terms/bytecode
+- /terms/newtonscript
+- /terms/waba
+
+----
+
+Source:
+
+- /sources/matej-horvat

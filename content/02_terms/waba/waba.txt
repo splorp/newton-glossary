@@ -18,6 +18,13 @@ Resource:
 
 ----
 
+Related:
+
+- /terms/bytecode
+- /terms/nsm
+
+----
+
 Source:
 
 - /sources/sean-luke
