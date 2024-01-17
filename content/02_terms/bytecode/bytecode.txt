@@ -8,12 +8,17 @@ Date: 17 January 2024
 
 Text:
 
-An intermediate language that requires a runtime program for execution. For example, [NewtonScript](/terms/newtonscript) is compiled into bytecode before being interpreted and executed by the [NSM](/terms/nsm) virtual machine.
+The hardware independent instructions that are interpreted when a [NewtonScript](/terms/newtonscript) function executes.
+
+Also defined as an intermediate language that requires a runtime program for execution. For example, NewtonScript is compiled into bytecode before being interpreted and executed by the [NSM](/terms/nsm) virtual machine.
+
+Also referred to as [Byte Code](/terms/byte-code) in some Newton programming documentation.
 
 ----
 
 Related:
 
+- /terms/byte-code
 - /terms/nsm
 - /terms/waba
 
@@ -21,4 +26,5 @@ Related:
 
 Source:
 
+- /sources/newton-programmers-guide
 - /sources/techencyclopedia

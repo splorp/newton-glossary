@@ -8,18 +8,11 @@ Date:
 
 Text:
 
-The hardware independent instructions that are interpreted when a [NewtonScript](/terms/newtonscript) function executes.
-
-----
-
-Related:
-
-- /terms/function
-- /terms/newtonscript
-- /terms/script
+See: [Bytecode](/terms/bytecode)
 
 ----
 
 Source:
 
+- /sources/newton-programmers-guide
 - /sources/newton-toolkit-users-guide
