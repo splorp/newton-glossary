@@ -24,8 +24,10 @@ Related:
 - /terms/apple-mobile-message-system
 - /terms/apple-wireless-messaging-service
 - /terms/card
+- /terms/message-module
 - /terms/messaging-card
 - /terms/newton-messaging-card
+- /terms/newton-messaging-enabler
 - /terms/pagecard
 - /terms/pc-card
 - /terms/pcmcia

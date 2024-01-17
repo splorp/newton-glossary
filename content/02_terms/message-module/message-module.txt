@@ -24,6 +24,7 @@ Related:
 - /terms/apple-wireless-messaging-service
 - /terms/newton-messaging-card
 - /terms/newton-messaging-enabler
+- /terms/newscard
 - /terms/pagecard
 - /terms/tango
 

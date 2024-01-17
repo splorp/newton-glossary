@@ -1,0 +1,37 @@
+Title: PageCard
+
+----
+
+Date: 17 January 2024
+
+----
+
+Text:
+
+A [PC card](/terms/pc-card) developed by [Socket Communications](https://web.archive.org/web/19980208233349/http://www.socketcom.com/) that allowed a computer or handheld device to receive and store wireless messages, essentially a pager with an alphanumeric display. The PageCard was included as part of the [Apple Mobile Message System](/terms/apple-mobile-message-system).
+
+----
+
+Resource:
+
+- [Apple Mobile Messaging System: Description](https://web.archive.org/web/20091128135011/http://support.apple.com/kb/TA33229)
+- [Socket Communications: Paging Products](https://web.archive.org/web/19981203123559/http://www.socketcom.com/pagprods.htm)
+- [Press Release: Socket Adds Newton Support to Wireless Software Developers Kit](https://web.archive.org/web/19981203061628/http://www.socketcom.com/press/nwtsdkpr.htm)
+- [Press Release: Socket Introduces PageCard Wireless Messaging System for Apple PowerBooks and MessagePads](https://web.archive.org/web/19991007064519/http://product.info.apple.com:80/pr/press.releases/1996/q1/951011.pr.rel.socket.html)
+----
+
+Related:
+
+- /terms/apple-mobile-message-system
+- /terms/apple-wireless-messaging-service
+- /terms/card
+- /terms/message-module
+- /terms/messaging-card
+- /terms/newscard
+- /terms/newton-messaging-card
+- /terms/newton-messaging-enabler
+- /terms/pc-card
+- /terms/pcmcia
+- /terms/slot
+- /terms/slot-jam
+- /terms/tango
