@@ -1,0 +1,17 @@
+Title: ANS
+
+----
+
+Date: 18 January 2024
+
+----
+
+Text:
+
+See: [Apple Notification Service](/terms/apple-notification-service)
+
+----
+
+Source:
+
+- [Press Release: Socket Introduces PageCard Wireless Messaging System](https://web.archive.org/web/19991007064519/http://product.info.apple.com/pr/press.releases/1996/q1/951011.pr.rel.socket.html)

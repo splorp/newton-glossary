@@ -10,6 +10,8 @@ Text:
 
 A defunct subscription-based electronic messaging service that allowed a Newton device equipped with a [Newton Messaging Card](/terms/newton-messaging-card) to send and receive text messages, as well as send and receive voice messages via telephone. A seven-digit personal identification number or [PIN](/terms/pin) was used to identify a user on the service. A separate four digit [PassCode](/terms/passcode) was used to securely access text messages, voicemail messages, and change various account settings.
 
+Also referred to as [AWMS](/terms/awms) and [WMS](/terms/wms).
+
 ----
 
 Resource:
@@ -22,6 +24,7 @@ Resource:
 Related:
 
 - /terms/apple-mobile-message-system
+- /terms/apple-notification-service
 - /terms/ardis
 - /terms/awms
 - /terms/beeper-number
@@ -33,6 +36,7 @@ Related:
 - /terms/passcode
 - /terms/pin
 - /terms/tango
+- /terms/swims
 
 ----
 

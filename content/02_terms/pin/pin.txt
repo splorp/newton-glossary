@@ -16,6 +16,5 @@ A unique series of numerals that allows secure access to a system or device. Sim
 
 Related:
 
-- /terms/apple-wireless-messaging-service
 - /terms/beeper-number
 - /terms/passcode

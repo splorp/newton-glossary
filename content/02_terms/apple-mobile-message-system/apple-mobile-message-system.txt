@@ -1,0 +1,45 @@
+Title: Apple Mobile Message System
+
+----
+
+Date: 18 January 2024
+
+----
+
+Text:
+
+A multi-platform, integrated wireless communications service that supported Newton devices, PowerBook laptops, and certain computers running Microsoft Windows. The system combined the [PageCard](/terms/pagecard) hardware with software that allowed sending and receiving email over the now defunct PageNet wireless network.
+
+Apple Mobile Message System was replaced by the [SWiMS](/terms/swims) service provided by [Socket Communications](https://web.archive.org/web/19980208233349/http://www.socketcom.com/), makers of the PageCard.
+
+Also referred to as [AMMS](/terms/amms).
+
+----
+
+Resource:
+
+- [Apple Support: Apple Mobile Messaging System: Description](https://web.archive.org/web/20091128135011/http://support.apple.com/kb/TA33229)
+- [Press Release: Socket Introduces PageCard Wireless Messaging System](https://web.archive.org/web/19991007064519/http://product.info.apple.com/pr/press.releases/1996/q1/951011.pr.rel.socket.html)
+- [Drexel University: Graphical User Interfaces: Current Systems and Products](https://www.cs.drexel.edu/~dds26/courses/cs338-s03/BK/Readings/Newton/Currentsystems.html)
+
+----
+
+Related:
+
+- /terms/amms
+- /terms/apple-notification-service
+- /terms/apple-wireless-messaging-service
+- /terms/ardis
+- /terms/message-module
+- /terms/newscard
+- /terms/newton-messaging-card
+- /terms/newton-messaging-enabler
+- /terms/pagecard
+- /terms/tango
+- /terms/swims
+
+----
+
+Source:
+
+- /sources/apple-tech-info-library

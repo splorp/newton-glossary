@@ -1,0 +1,19 @@
+Title: WMS
+
+----
+
+Date: 18 January 2024
+
+----
+
+Text:
+
+Wireless Messaging Service
+
+See: [Apple Wireless Messaging Service](/terms/apple-wireless-messaging-service), [Apple Mobile Message System](/terms/apple-mobile-message-system), and [SWiMS](/terms/swims).
+
+----
+
+Source:
+
+- [Press Release: Socket Introduces PageCard Wireless Messaging System](https://web.archive.org/web/19991007064519/http://product.info.apple.com/pr/press.releases/1996/q1/951011.pr.rel.socket.html)

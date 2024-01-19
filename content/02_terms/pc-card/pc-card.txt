@@ -28,9 +28,10 @@ Related:
 - /terms/hot-removal
 - /terms/hot-remove
 - /terms/memory-card
-- /terms/messaging-card
 - /terms/network-interface-card
+- /terms/newscard
 - /terms/newton-messaging-card
+- /terms/pagecard
 - /terms/pcmcia
 - /terms/protection-card
 - /terms/slot

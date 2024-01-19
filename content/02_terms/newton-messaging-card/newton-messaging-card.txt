@@ -22,6 +22,7 @@ Resource:
 Related:
 
 - /terms/apple-mobile-message-system
+- /terms/apple-notification-service
 - /terms/apple-wireless-messaging-service
 - /terms/beeper-number
 - /terms/card
