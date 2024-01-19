@@ -1,0 +1,37 @@
+Title: ERS
+
+----
+
+Date: 18 January 2024
+
+----
+
+Text:
+
+Engineering Requirements Specification
+
+A shorthand term produced by Apple’s product marketing team that represented the defining of features required by the end user of a Newton product.
+
+ERS is mentioned in the Newton OS 2.1 Engineering Documents and the Newton Font Specifications.
+
+----
+
+Resource:
+
+- [The Newted Community: Newton OS 2.1 Engineering Documents](http://www.newted.org/download/manuals/NewtonOS21EngDoc.pdf)
+- [The Newted Community: Newton Font Specifications](http://www.newted.org/download/manuals/NewtonFontSpecifications.pdf)
+
+----
+
+Related:
+
+- /terms/developer-technical-services
+- /terms/dr-llama
+- /terms/newton-developer-support
+- /terms/pie-developer-info
+
+----
+
+Source:
+
+- /sources/maurice-sharp

@@ -15,6 +15,7 @@ A Newton focused “bulletin board” found in the Developer Support area of the
 Related:
 
 - /terms/applelink
+- /terms/ers
 - /terms/newton-associates-program
 - /terms/newton-developer-cd
 - /terms/newton-developer-support
