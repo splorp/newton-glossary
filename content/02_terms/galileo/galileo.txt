@@ -1,0 +1,34 @@
+Title: Galileo
+
+----
+
+Date: 19 January 2024
+
+----
+
+Text:
+
+The code name of the unreleased Japanese version of the [ExpertPad](/terms/expertpad), a Newton device developed by Sharp Electronics.
+
+A third-party device that utilizes a licensed version of [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
+
+----
+
+Resource:
+
+- [Ulrich Plate: Ending the Confusion: The Definitive Guide to Sharp’s Zaurus Models](http://mahagonny.net/zaurus.html)
+- [ZDNet Japan: ガリレオ【がりれお】](https://web.archive.org/web/20021021172634/http://www.zdnet.co.jp/mobile/keywords/0202/04/n_keyword2.html)
+- [Newton Space: Galileo](https://www.waveformlab.com/Newton/index.php3-mode=keyword&id=63983.html)
+
+----
+
+Related:
+
+- /terms/clone
+- /terms/expertpad
+
+----
+
+Source:
+
+- /sources/ulrich-plate

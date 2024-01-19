@@ -16,6 +16,7 @@ Related:
 
 - /terms/access-device-2000
 - /terms/expertpad
+- /terms/galileo
 - /terms/marco
 - /terms/notephone
 - /terms/rom-extension
