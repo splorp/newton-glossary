@@ -9,9 +9,3 @@ Date: 18 January 2024
 Text:
 
 See: [Apple Mobile Message System](/terms/apple-mobile-message-system)
-
-----
-
-Source:
-
-- [Apple Support: Apple Mobile Messaging System: Description](https://web.archive.org/web/20091128135011/http://support.apple.com/kb/TA33229)
