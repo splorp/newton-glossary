@@ -1,0 +1,23 @@
+Title: Gyro
+
+----
+
+Date: 27 January 2024
+
+----
+
+Text:
+
+The code name for [Newton Connection Utilities](/terms/newton-connection-utilities).
+
+----
+
+Related:
+
+- /terms/newton-connection-utilities
+
+----
+
+Source:
+
+- /sources/maurice-sharp
