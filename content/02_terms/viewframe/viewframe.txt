@@ -17,7 +17,7 @@ A [NewtonScript](/terms/newtonscript) inspection and [debugging](/terms/debuggin
 Resource:
 
 - [Creative Digital: ViewFrame 1.2 Product Information](https://web.archive.org/web/19970414045512/http://www.cdpubs.com/VFrame.html)
-- [Jason Harper’s Website](http://nixietube.info/)
+- [Jason Harper Website](http://nixietube.info/)
 
 ----
 
