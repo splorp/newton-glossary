@@ -21,7 +21,9 @@ Related:
 - /terms/font-spec
 - /terms/font-style
 - /terms/point
+- /terms/quick-sketch
 - /terms/shapes
+- /terms/sketch
 - /terms/sketches
 - /terms/text-run
 

@@ -36,12 +36,14 @@ Related:
 - /terms/mondello
 - /terms/neuropen
 - /terms/pen
+- /terms/quick-sketch
 - /terms/raw-ink
 - /terms/recognized-text
 - /terms/rich-string
 - /terms/rich-string-format
 - /terms/rosetta
 - /terms/rosetta-stone
+- /terms/sketch
 - /terms/sketch-ink
 - /terms/sketches
 

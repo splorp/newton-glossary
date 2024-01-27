@@ -22,8 +22,10 @@ Related:
 - /terms/icon
 - /terms/ink-text
 - /terms/picture-button
+- /terms/quick-sketch
 - /terms/recognizer-button
 - /terms/shapes
+- /terms/sketch
 - /terms/sketches
 - /terms/status-bar
 - /terms/text

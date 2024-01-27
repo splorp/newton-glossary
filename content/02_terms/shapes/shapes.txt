@@ -15,8 +15,12 @@ A [handwriting recognition](/terms/handwriting-recognition) setting selected by 
 Related:
 
 - /terms/handwriting-recognition
+- /terms/picture
+- /terms/quick-sketch
 - /terms/recognition-button
 - /terms/shape
+- /terms/sketch
+- /terms/sketches
 
 ----
 

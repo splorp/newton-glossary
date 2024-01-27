@@ -1,0 +1,32 @@
+Title: Quick Sketch
+
+----
+
+Date: 27 January 2024
+
+----
+
+Text:
+
+A feature found in [Newton Works](/terms/newton-works) that allows the user to easily create and insert a hand drawn image into a word processing document. [Tapping](/terms/tapping) the [recognition button](/terms/recognition-button) in the Quick Sketch [slip](/terms/slip), lets the user select whether the [sketch](/terms/sketch) is converted to [shapes](/terms/shapes) or stored the way it was originally drawn as [electronic ink](/terms/electronic-ink).
+
+<img src="/assets/images/quick-sketch-2x.gif" alt="Screenshot of the Quick Sketch slip in Newton Works" width="316" />
+
+----
+
+Related:
+
+- /terms/electronic-ink
+- /terms/newton-works
+- /terms/picture
+- /terms/recognition-button
+- /terms/shape
+- /terms/shapes
+- /terms/sketch
+- /terms/sketches
+
+----
+
+Source:
+
+- /sources/newton-works-word-processor

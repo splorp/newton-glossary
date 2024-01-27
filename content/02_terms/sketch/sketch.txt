@@ -1,0 +1,28 @@
+Title: Sketch
+
+----
+
+Date: 27 January 2024
+
+----
+
+Text:
+
+A hand drawn image created on a Newton device using the [pen](/terms/pen).
+
+----
+
+Related:
+
+- /terms/electronic-ink
+- /terms/ink
+- /terms/picture
+- /terms/shape
+- /terms/shapes
+- /terms/sketches
+
+----
+
+Source:
+
+- /sources/newton-works-word-processor

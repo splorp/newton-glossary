@@ -16,8 +16,12 @@ Related:
 
 - /terms/electronic-ink
 - /terms/handwriting-recognition
+- /terms/quick-sketch
+- /terms/picture
 - /terms/recognition-button
-- /terms/sketch-ink
+- /terms/shape
+- /terms/shapes
+- /terms/sketch
 
 ----
 

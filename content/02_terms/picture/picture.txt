@@ -18,6 +18,7 @@ Related:
 - /terms/line
 - /terms/oval
 - /terms/polygon
+- /terms/quick-sketch
 - /terms/rectangle
 - /terms/rounded-rectangle
 - /terms/shape
