@@ -8,12 +8,11 @@ Date: 29 January 2024
 
 Text:
 
-At one point the largest and most active Newton site in Japan.
-
-Also known by its English name, Newton Space.
+At one time, the largest Newton information site and discussion forum in Japan. Also known as Newton Space, it launched in February 2002 and was active until early 2007.
 
 ----
 
 Resource:
 
-- [Newton 空間 Website](https://www.waveformlab.com/Newton/)
+- [Newton 空間 Website](https://web.archive.org/web/20160413084255/http://www.kanshin.jp/newton/)
+- [Newton 空間 Archive](https://www.waveformlab.com/Newton/)
