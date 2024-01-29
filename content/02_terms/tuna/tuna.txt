@@ -25,6 +25,7 @@ Related:
 - /terms/anug
 - /terms/dang
 - /terms/dnug
+- /terms/fnewton
 - /terms/gfun
 - /terms/gnut
 - /terms/hknug

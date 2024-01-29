@@ -17,6 +17,7 @@ Related:
 - /terms/anug
 - /terms/dang
 - /terms/dnug
+- /terms/fnewton
 - /terms/gfun
 - /terms/gnut
 - /terms/hknug
@@ -31,7 +32,6 @@ Related:
 - /terms/ngn
 - /terms/nose
 - /terms/nug
-- /terms/nug-central
 - /terms/nug-central
 - /terms/nugom
 - /terms/oznug

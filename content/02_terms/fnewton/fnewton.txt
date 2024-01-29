@@ -1,14 +1,26 @@
-Title: INUG
+Title: FNEWTON
 
 ----
 
-Date:
+Date: 29 January 2024
 
 ----
 
 Text:
 
-Italian Newton User Group
+A forum for Newton users who were members of NiftyServe, the largest online service provider in Japan. The forum folded in March 2002.
+
+----
+
+Resource:
+
+- [Newton Space: FNEWTON](https://www.waveformlab.com/Newton/index.php3-mode=keyword&id=48682.html)
+
+----
+
+Source:
+
+- /sources/newton-space
 
 ----
 
@@ -17,10 +29,10 @@ Related:
 - /terms/anug
 - /terms/dang
 - /terms/dnug
-- /terms/fnewton
 - /terms/gfun
 - /terms/gnut
 - /terms/hknug
+- /terms/inug
 - /terms/knug
 - /terms/lanug
 - /terms/misnic
@@ -43,9 +55,3 @@ Related:
 - /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
-
-----
-
-Source:
-
-- /sources/newton-faq
