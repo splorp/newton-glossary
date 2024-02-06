@@ -33,6 +33,7 @@ Related:
 - /terms/anug
 - /terms/dang
 - /terms/dnug
+- /terms/fnewton
 - /terms/gfun
 - /terms/hknug
 - /terms/inug
