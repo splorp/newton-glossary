@@ -1,0 +1,17 @@
+Title: NTEncoding
+
+----
+
+Date: 04 February 2024
+
+----
+
+Text:
+
+See: [Newton Text Encoding](/terms/newton-text-encoding)
+
+----
+
+Source:
+
+- /sources/gnue

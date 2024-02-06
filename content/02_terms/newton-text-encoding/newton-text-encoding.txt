@@ -1,0 +1,44 @@
+Title: Newton Text Encoding
+
+----
+
+Date: 04 February 2024
+
+----
+
+Text:
+
+Software developed by [Makoto “Gnue” Nukui](/sources/gnue) to translate between Unicode and other text encoding schemes used by various languages and computer platforms.
+
+[Newton OS](/terms/newton-os) stores text as UTF-16 (16-bit Unicode Transformation Format) which may need to be translated to another encoding scheme in order for the text to be exchanged with other systems.
+
+Newton Text Encoding provides a modular approach for extending the language support of an [application](/terms/application).
+
+For example, [SimpleMail](/terms/simplemail) uses optional text encoding modules to natively support languages such as Albanian, Bosnian, Croatian, Czech, Finnish, Hungarian, German, Polish, and Russian.
+
+Also referred to as [NTE](/terms/nte) and [NTEncoding](/terms/ntencoding).
+
+----
+
+Resource:
+
+- [GNUE(鵺): NTEncoding](https://so-kukan.com/gnue/newton/NTEncoding/)
+- [Newton Research: SimpleMail Text Encoding](http://newtonresearch.org/simplemail/NTE/)
+
+----
+
+Source:
+
+- /sources/gnue
+- /sources/simon-bell
+
+----
+
+Related:
+
+- /terms/k-libs
+- /terms/nte
+- /terms/ntencoding
+- /terms/russification
+- /terms/unicode
+- /terms/unifep

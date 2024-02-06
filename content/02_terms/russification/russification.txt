@@ -23,6 +23,7 @@ Resource:
 
 Related:
 
+- /terms/newton-text-enocding
 - /terms/russified
 
 ----
