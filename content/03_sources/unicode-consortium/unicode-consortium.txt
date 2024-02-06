@@ -1,0 +1,17 @@
+Title: The Unicode Consortium
+
+----
+
+Date: 04 February 2024
+
+----
+
+Text:
+
+A non-profit corporation devoted to developing, maintaining, and promoting software internationalization standards and data, specifically the [Unicode](/terms/unicode) character encoding standard.
+
+----
+
+Resource:
+
+- [Unicode Website](https://www.unicode.org/)

@@ -1,0 +1,34 @@
+Title: Unicode
+
+----
+
+Date: 04 February 2024
+
+----
+
+Text:
+
+A universal character encoding standard maintained by the [Unicode Consortium](/sources/unicode-consortium) that provides the basis for processing, storage, and exchange of text data in any language, using various software and information technology protocols.
+
+The [Newton OS](/terms/newton-os) stores text as UTF-16 (16-bit Unicode Transformation Format).
+
+----
+
+Resource:
+
+- [Unicode Website](https://www.unicode.org/)
+
+----
+
+Source:
+
+- /sources/unicode-consortium
+
+----
+
+Related:
+
+- /terms/k-libs
+- /terms/newton-text-encoding
+- /terms/russification
+- /terms/unifep
