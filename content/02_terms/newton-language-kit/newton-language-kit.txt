@@ -1,0 +1,36 @@
+Title: Newton Language Kit
+
+----
+
+Date: 06 February 2024
+
+----
+
+Text:
+
+Software developed by [Enfour](/sources/enfour) that provided a Japanese language environment for devices running [Newton OS](/terms/newton-os) 2.1. Although focused on Japanese, Newton Language Kit was designed to support multiple languages.
+
+Also abbreviated as [NLK](/terms/nlk).
+
+----
+
+Resource:
+
+- [Enfour: Newton Language Kit News Release](https://web.archive.org/web/19981206221059/http://www.enfour.co.jp/newton/news/nlk.html) (Japanese)
+
+----
+
+Source:
+
+- /sources/enfour
+
+----
+
+Related:
+
+- /terms/hwcr
+- /terms/nlk
+- /terms/newton-text-encoding
+- /terms/russification
+- /terms/unicode
+- /terms/unifep

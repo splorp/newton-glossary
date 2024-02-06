@@ -1,0 +1,35 @@
+Title: HWCR
+
+----
+
+Date: 06 February 2024
+
+----
+
+Text:
+
+Hand Writing Character Recognition
+
+A Japanese [handwriting recognition](/terms/handwriting-recognition) module developed by [Enfour](/sources/enfour) for use with the [Newton Language Kit](/terms/newton-language-kit) and the [UniFEP](/terms/unifep) multilingual software environments.
+
+----
+
+Resource:
+
+- [Enfour: HWCR Product Information](https://web.archive.org/web/19981202103102/http://www.enfour.co.jp/newton/software/hwcr/index.html) (Japanese)
+
+----
+
+Source:
+
+- /sources/enfour
+
+----
+
+Related:
+
+- /terms/handwriting-recognition
+- /terms/newton-language-kit
+- /terms/newton-text-encoding
+- /terms/unicode
+- /terms/unifep

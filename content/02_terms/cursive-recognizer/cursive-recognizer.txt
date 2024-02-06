@@ -28,6 +28,7 @@ Related:
 - /terms/cursive
 - /terms/handwriting-instructor
 - /terms/handwriting-recognition
+- /terms/hwcr
 - /terms/ink
 - /terms/inkwell
 - /terms/letter-by-letter

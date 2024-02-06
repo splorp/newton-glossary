@@ -1,0 +1,39 @@
+Title: UniFEP
+
+----
+
+Date: 06 February 2024
+
+----
+
+Text:
+
+A series of modular software products developed by [Enfour](/sources/enfour) that enabled multilingual input on various computing platforms. The [Newton OS](/terms/newton-os) version of UniFEP supported Japanese input and output on a English langauge Newton device.
+
+The name is derived from [Unicode](/terms/unicode) and Front-End Processor.
+
+<img src="/assets/images/unifep-2x.gif" alt="Screenshot of the Japanese UniFEP floating palette and keyboard" width="242" />
+
+----
+
+Resource:
+
+- [Enfour: What is UniFEP?](https://www.enfour.com/unifep/)
+- [Enfour: UniFEP Product Infomation](https://web.archive.org/web/19990507162517/http://www.enfour.co.jp/newton/software/unifep/index.html) (Japanese)
+- [Enfour: UniFEP Pro Product Infomation](https://web.archive.org/web/19991103232138/http://www.enfour.co.jp/newton/software/unifep_p/index.html) (Japanese)
+
+----
+
+Source:
+
+- /sources/enfour
+
+----
+
+Related:
+
+- /terms/hwcr
+- /terms/k-libs
+- /terms/newton-text-encoding
+- /terms/russification
+- /terms/unicode

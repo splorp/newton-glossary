@@ -26,6 +26,7 @@ Related:
 - /terms/guest-user
 - /terms/handwriting-instructor
 - /terms/hwr
+- /terms/hwcr
 - /terms/ink
 - /terms/inkwell
 - /terms/letter-shapes
