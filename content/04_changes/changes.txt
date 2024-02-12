@@ -26,7 +26,7 @@ Sources: _$s
 #### Summary of changes:
 
 + Updated and expanded dozens of existing entries
-+ Updated the robots.txt file to exclude machine learning bots
++ Updated the [robots.txt](/robots.txt) file to exclude machine learning bots
 + Updated [Kirby](https://getkirby.com/) to version [3.10.0](https://github.com/getkirby/kirby/releases/tag/3.10.0) for PHP 8.3 support
 
 ### 3.1.1

@@ -14,4 +14,4 @@ An extensively researched Newton site authored and maintained by Tony Kan.
 
 Resource:
 
-- [My Apple Newton Website](http://myapplenewton.blogspot.com/)
+- [My Apple Newton Website](https://myapplenewton.blogspot.com/)
