@@ -10,7 +10,11 @@ Text:
 
 Personal Identification Number
 
-A unique series of numerals that allows secure access to a system or device. Similar to a password.
+A unique series of numerals that allows secure access to a system or device.
+
+To prevent unauthorized people from using a [Newton OS](/terms/newton-os) device, you can set a [password](/terms/password) in the form of a PIN using the [Prefs](/terms/prefs) application.
+
+Also referred to as a [system password](/terms/system-password) in the [Owner Info](/terms/owner-info) preferences [slip](/terms/slip).
 
 ----
 
@@ -18,3 +22,12 @@ Related:
 
 - /terms/beeper-number
 - /terms/passcode
+- /terms/password
+- /terms/system-password
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
+- /sources/messagepad-handbook-1995
