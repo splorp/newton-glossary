@@ -23,3 +23,5 @@ Resource:
 Related:
 
 - /terms/actfaq
+- /terms/faq
+- /terms/newtledge

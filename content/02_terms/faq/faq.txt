@@ -17,6 +17,8 @@ A moderated and frequently updated document containing answers to common questio
 Related:
 
 - /terms/actfaq
+- /terms/newtledge
+- /terms/rtfm
 
 ----
 

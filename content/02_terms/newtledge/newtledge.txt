@@ -1,0 +1,31 @@
+Title: Newtledge
+
+----
+
+Date: 15 February 2024
+
+----
+
+Text:
+
+A portmanteau of “Newton” and “knowledge” referring to a large amount of information related to the Newton platform. Originally [coined by Gregory J. Wayman](https://newtontalk.net/archive/newtontalk/2001-August/2491.html) on the [NewtonTalk](/terms/newtontalk) mailing list and subsequently mentioned in the [Newton FAQ](/sources/newton-faq).
+
+----
+
+Resource:
+
+- [NewtonTalk: Dumb install question…](https://newtontalk.net/archive/newtontalk/2001-August/2491.html)
+
+----
+
+Related:
+
+- /terms/actfaq
+- /terms/faq
+- /terms/rtfm
+
+----
+
+Source:
+
+- /sources/newtontalk
