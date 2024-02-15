@@ -15,7 +15,7 @@ An implementation of a portable [NewtonScript](/terms/newtonscript) virtual mach
 Resource:
 
 - [Matej Horvat: NSM](https://web.archive.org/web/20190415082717/http://matejhorvat.si/en/software/nsm/)
-- [NewtonTalk: NSM - a NewtonScript virtual machine](http://newtontalk.net/archive/newtontalk/2014-January/050053.html)
+- [NewtonTalk: NSM - a NewtonScript virtual machine](https://newtontalk.net/archive/newtontalk/2014-January/050053.html)
 ----
 
 Related:

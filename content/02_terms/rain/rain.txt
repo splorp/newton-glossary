@@ -10,7 +10,7 @@ Text:
 
 Redundant Array of Inexpensive Newtons
 
-Originally [coined by Ed Kummel](https://newtontalk.net/archive/newtontalk/2002-February/0446.html), the acronym is a play on RAID or “Redundant Array of Inexpensive Disks”, a storage system which makes use of multiple disk drives. RAIN can also refer to any collection of Newton devices where multiple copies of the same model exist.
+Originally [coined by Ed Kummel](https://newtontalk.net/archive/newtontalk/2002-February/0446.html) on the [NewtonTalk](/sources/newtontalk) mailing list, the acronym is a play on RAID or “Redundant Array of Inexpensive Disks”, a storage system which makes use of multiple disk drives. RAIN can also refer to any collection of Newton devices where multiple copies of the same model exist.
 
 ----
 
