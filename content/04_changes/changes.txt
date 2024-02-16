@@ -18,13 +18,17 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
-### _$v
+### 3.1.2
 
-Terms: _$t
-Sources: _$s
+16 February 2024
+
+Terms: 1,372
+Sources: 146
 
 #### Summary of changes:
 
++ Added 42 new terms
++ Added 6 new sources
 + Updated and expanded dozens of existing entries
 + Added descriptions to the [RSS feed](/latest/feed) for the [latest additions](/latest) page
 + Updated the [robots.txt](/robots.txt) file to exclude machine learning bots
