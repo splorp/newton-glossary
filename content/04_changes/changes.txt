@@ -26,6 +26,7 @@ Sources: _$s
 #### Summary of changes:
 
 + Updated and expanded dozens of existing entries
++ Added descriptions to the [RSS feed](/latest/feed) for the [latest additions](/latest) page
 + Updated the [robots.txt](/robots.txt) file to exclude machine learning bots
 + Updated [Kirby](https://getkirby.com/) to version [3.10.0](https://github.com/getkirby/kirby/releases/tag/3.10.0) for PHP 8.3 support
 
