@@ -18,6 +18,7 @@ Related:
 
 - /terms/an
 - /terms/andante
+- /terms/newton-pie
 
 ----
 

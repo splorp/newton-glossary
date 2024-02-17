@@ -21,6 +21,7 @@ Related:
 - /terms/action-names
 - /terms/bn
 - /terms/dn
+- /terms/newton-pie
 - /terms/steved
 
 ----
