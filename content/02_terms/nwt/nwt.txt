@@ -10,7 +10,7 @@ Text:
 
 The file extension used to identify attachments sent using [Newton OS](/terms/newton-os) email [applications](/terms/application) such as [SimpleMail](/terms/simplemail) or [EnRoute](/terms/enroute), as well as a [Newton Connection](/terms/newton-connection) data synchronization [workfile](/terms/workfile). Each workfile has a set of associated [backup files](/terms/backup-file) with the extension `.nb#`, where `#` represents a number from 1 to 9.
 
-`nwt` is also a command line [application](/terms/application) created by [Eckhart Köppen](/sources/eckhart-koppen) that provides package management, data synchronization, and data export for a Newton device. This utility is part of the [RDCL](/terms/rdcl) (Ruby Desktop Connection Library) framework.
+`nwt` is also a command line [application](/terms/application) created by [Eckhart Köppen](/sources/eckhart-koppen) that provides [package](/terms/package) management, data synchronization, and data export for a Newton device. This utility is part of the [RDCL](/terms/rdcl) (Ruby Desktop Connection Library) framework.
 
 ----
 

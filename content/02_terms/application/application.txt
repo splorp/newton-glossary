@@ -14,7 +14,12 @@ Software that performs a specific task, such as the [Notepad](/terms/notepad), [
 
 Related:
 
+- /terms/application-base-view
+- /terms/application-card
+- /terms/application-signature
 - /terms/backdrop
+- /terms/package
+- /terms/package-file
 
 ----
 
