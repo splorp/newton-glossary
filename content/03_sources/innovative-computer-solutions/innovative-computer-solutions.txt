@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A software development and consulting company formed by Tom Collins and Dan Rowley in 1993. ICS specialized in [Newton OS](/terms/newton-os) and Palm OS [applications](/terms/application), including X-Port, NewtCase, [Twerx](/terms/twerx), SoupKitchen, [BarKeep](/terms/barkeep), and GestureLaunch.
+A software development and consulting company formed by Tom Collins and Dan Rowley in 1993. ICS specialized in [Newton OS](/terms/newton-os) and Palm OS [applications](/terms/application), including X-Port, [NewtCase](/terms/newtcase), [Twerx](/terms/twerx), SoupKitchen, [BarKeep](/terms/barkeep), and GestureLaunch.
 
 ----
 
