@@ -26,6 +26,7 @@ Sources: _$s
 #### Summary of changes:
 
 + Updated and expanded several existing entries
++ Updated [Kirby](https://getkirby.com/) to version [3.10.0.1](https://github.com/getkirby/kirby/releases/tag/3.10.0.1) for security patches
 
 ### 3.1.2
 
@@ -205,8 +206,8 @@ Sources: 135
 + Added 2 new terms
 + Added 2 new sources
 + Updated and expanded several existing entries
-+ Updated [Kirby](https://getkirby.com/) to version [2.5.14](https://github.com/getkirby-v2/kirby/releases/tag/2.5.14) for security patch
-+ Updated [Parsedown](https://github.com/erusev/parsedown) to version [1.7.2](https://github.com/erusev/parsedown/releases/tag/1.7.2) for security patch
++ Updated [Kirby](https://getkirby.com/) to version [2.5.14](https://github.com/getkirby-v2/kirby/releases/tag/2.5.14) for security patches
++ Updated [Parsedown](https://github.com/erusev/parsedown) to version [1.7.2](https://github.com/erusev/parsedown/releases/tag/1.7.2) for security patches
 
 ### 2.4.5
 
