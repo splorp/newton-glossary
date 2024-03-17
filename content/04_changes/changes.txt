@@ -42,7 +42,7 @@ Sources: 146
 + Updated and expanded dozens of existing entries
 + Added descriptions to the [RSS feed](/latest/feed) for the [latest additions](/latest) page
 + Updated the [robots.txt](/robots.txt) file to exclude machine learning bots
-+ Updated [Kirby](https://getkirby.com/) to version [3.10.0](https://github.com/getkirby/kirby/releases/tag/3.10.0) for PHP 8.3 support
++ Updated [Kirby](https://getkirby.com/) to version [3.10.0](https://github.com/getkirby/kirby/releases/tag/3.10.0) for [PHP 8.3](https://www.php.net/releases/8.3/en.php) support
 
 ### 3.1.1
 
@@ -222,7 +222,7 @@ Sources: 133
 + Added 5 new sources
 + Updated and expanded dozens of existing entries
 + Moved device and meta images into their own directories
-+ Updated [Kirby](https://getkirby.com/) to version [2.5.13](https://github.com/getkirby-v2/kirby/releases/tag/2.5.13) for PHP 7.4 support
++ Updated [Kirby](https://getkirby.com/) to version [2.5.13](https://github.com/getkirby-v2/kirby/releases/tag/2.5.13) for [PHP 7.4](https://www.php.net/releases/7_4_0.php) support
 
 ### 2.4.4
 
