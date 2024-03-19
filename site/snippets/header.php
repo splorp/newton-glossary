@@ -20,10 +20,9 @@
 		<meta name="msapplication-TileImage" content="/assets/devices/msapplication-tileimage-144x144.png" />
 		<meta name="msapplication-TileColor" content="#009900" />
 		<?php
-			defined('DS') or define('DS', '/');
 			$url = 'assets/styles/styles.css';
-			$file = $kirby->roots()->index() . DS . $url;
-			echo '<link href="' . DS . F::dirname($url) . DS . F::name($url) . '.css?' . F::modified($file) . '" rel="stylesheet" />' . PHP_EOL;
+			$file = $kirby->roots()->index() . '/' . $url;
+			echo '<link href="/' . F::dirname($url) . '/' . F::name($url) . '.css?' . F::modified($file) . '" rel="stylesheet" />' . PHP_EOL;
 		?>
 	</head>
 
