@@ -26,6 +26,7 @@ Sources: _$s
 #### Summary of changes:
 
 + Updated [Kirby](https://getkirby.com/) to version [4.1.2](https://github.com/getkirby/kirby/releases/tag/4.1.2)
++ Updated [Kirby Redirects](https://github.com/bnomei/kirby3-redirects) plugin to version [4.2.0](https://github.com/bnomei/kirby3-redirects/releases/tag/v4.2.0)
 
 ### 3.1.3
 

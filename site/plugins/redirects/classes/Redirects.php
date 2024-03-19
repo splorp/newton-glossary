@@ -5,15 +5,18 @@ declare(strict_types=1);
 namespace Bnomei;
 
 use Closure;
-use Kirby\Cms\Field;
+use Exception;
 use Kirby\Cms\Page;
 use Kirby\Cms\Site;
+use Kirby\Content\Field;
 use Kirby\Data\Yaml;
 use Kirby\Filesystem\Dir;
 use Kirby\Filesystem\F;
 use Kirby\Http\Header;
 use Kirby\Http\Url;
 use Kirby\Toolkit\A;
+
+use Kirby\Toolkit\Str;
 
 use function option;
 
@@ -30,6 +33,12 @@ final class Redirects
             'code' => option('bnomei.redirects.code'),
             'querystring' => option('bnomei.redirects.querystring'),
             'map' => option('bnomei.redirects.map'),
+            'block.enabled' => option('bnomei.redirects.block.enabled'),
+            'block.wordpress' => option('bnomei.redirects.block.wordpress'),
+            'block.joomla' => option('bnomei.redirects.block.joomla'),
+            'block.drupal' => option('bnomei.redirects.block.drupal'),
+            'block.magento' => option('bnomei.redirects.block.magento'),
+            'block.shopify' => option('bnomei.redirects.block.shopify'),
             'site.url' => site()->url(), // a) www.example.com or b) www.example.com/subfolder
             'request.uri' => A::get($options, 'request.uri', $this->getRequestURI()),
         ];
@@ -40,7 +49,12 @@ final class Redirects
                 $this->options[$key] = $call();
             }
         }
+
+        // make sure the request.uri starts with a /
+        $this->options['request.uri'] = '/' . ltrim($this->options['request.uri'], '/');
+
         $this->options['parent'] = is_object($this->options['map']) ? $this->options['map']->parent() : null;
+
         $this->options['redirects'] = $this->map($this->options['map']);
         //$this->options['map'] = null; // free memory
     }
@@ -126,7 +140,7 @@ final class Redirects
                     $this->flush();
                     return true;
                     // @codeCoverageIgnoreStart
-                } catch (\Exception $ex) {
+                } catch (Exception $ex) {
                 }
                 // @codeCoverageIgnoreEnd
             }
@@ -162,6 +176,19 @@ final class Redirects
     public function checkForRedirect(): ?Redirect
     {
         $map = $this->option('redirects');
+
+        // add block to map
+        if ($this->options['block.enabled']) {
+            $map = array_merge(
+                $this->options['block.wordpress'],
+                $this->options['block.joomla'],
+                $this->options['block.drupal'],
+                $this->options['block.magento'],
+                $this->options['block.shopify'],
+                $map ?? []
+            );
+        }
+
         if (! $map || count($map) === 0) {
             return null;
         }
@@ -171,6 +198,7 @@ final class Redirects
         if ($this->isKnownValidRoute($requesturi)) {
             return null;
         }
+
 
         foreach ($map as $redirect) {
             if (!array_key_exists('fromuri', $redirect) ||
