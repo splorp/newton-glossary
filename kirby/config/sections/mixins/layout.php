@@ -1,5 +1,6 @@
 <?php
 
+use Kirby\Cms\ModelWithContent;
 use Kirby\Toolkit\I18n;
 use Kirby\Toolkit\Str;
 
@@ -20,7 +21,7 @@ return [
 			return in_array($layout, $layouts) ? $layout : 'list';
 		},
 		/**
-		 * The size option controls the size of cards. By default cards are auto-sized and the cards grid will always fill the full width. With a size you can disable auto-sizing. Available sizes: `tiny`, `small`, `medium`, `large`, `huge`
+		 * The size option controls the size of cards. By default cards are auto-sized and the cards grid will always fill the full width. With a size you can disable auto-sizing. Available sizes: `tiny`, `small`, `medium`, `large`, `huge`, `full`
 		 */
 		'size' => function (string $size = 'auto') {
 			return $size;
@@ -28,7 +29,7 @@ return [
 	],
 	'computed' => [
 		'columns' => function () {
-			$columns = [];
+			$columns   = [];
 
 			if ($this->layout !== 'table') {
 				return [];
@@ -94,7 +95,27 @@ return [
 		},
 	],
 	'methods' => [
-		'columnsValues' => function (array $item, $model) {
+		'columnsWithTypes' => function () {
+			$columns = $this->columns;
+
+			// add the type to the columns for the table layout
+			if ($this->layout === 'table') {
+				$blueprint = $this->models->first()?->blueprint();
+
+				if ($blueprint === null) {
+					return $columns;
+				}
+
+				foreach ($columns as $columnName => $column) {
+					if ($id = $column['id'] ?? null) {
+						$columns[$columnName]['type'] ??= $blueprint->field($id)['type'] ?? null;
+					}
+				}
+			}
+
+			return $columns;
+		},
+		'columnsValues' => function (array $item, ModelWithContent $model) {
 			$item['title'] = [
 				// override toSafeString() coming from `$item`
 				// because the table cells don't use v-html

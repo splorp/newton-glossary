@@ -2,6 +2,9 @@
 
 use Kirby\Cms\Html;
 use Kirby\Cms\Url;
+use Kirby\Exception\NotFoundException;
+use Kirby\Text\KirbyTag;
+use Kirby\Toolkit\A;
 use Kirby\Toolkit\Str;
 use Kirby\Uuid\Uuid;
 
@@ -15,8 +18,12 @@ return [
 	 */
 	'date' => [
 		'attr' => [],
-		'html' => function ($tag) {
-			return strtolower($tag->date) === 'year' ? date('Y') : date($tag->date);
+		'html' => function (KirbyTag $tag): string {
+			if (strtolower($tag->date) === 'year') {
+				return date('Y');
+			}
+
+			return date($tag->date);
 		}
 	],
 
@@ -31,7 +38,7 @@ return [
 			'text',
 			'title'
 		],
-		'html' => function ($tag) {
+		'html' => function (KirbyTag $tag): string {
 			return Html::email($tag->value, $tag->text, [
 				'class'  => $tag->class,
 				'rel'    => $tag->rel,
@@ -53,9 +60,9 @@ return [
 			'text',
 			'title'
 		],
-		'html' => function ($tag) {
+		'html' => function (KirbyTag $tag): string {
 			if (!$file = $tag->file($tag->value)) {
-				return $tag->text;
+				return $tag->text ?? $tag->value;
 			}
 
 			// use filename if the text is empty and make sure to
@@ -81,7 +88,7 @@ return [
 		'attr' => [
 			'file'
 		],
-		'html' => function ($tag) {
+		'html' => function (KirbyTag $tag): string {
 			return Html::gist($tag->value, $tag->file);
 		}
 	],
@@ -99,16 +106,29 @@ return [
 			'link',
 			'linkclass',
 			'rel',
+			'srcset',
 			'target',
 			'title',
 			'width'
 		],
-		'html' => function ($tag) {
+		'html' => function (KirbyTag $tag): string {
 			if ($tag->file = $tag->file($tag->value)) {
-				$tag->src     = $tag->file->url();
-				$tag->alt     = $tag->alt     ?? $tag->file->alt()->or(' ')->value();
-				$tag->title   = $tag->title   ?? $tag->file->title()->value();
-				$tag->caption = $tag->caption ?? $tag->file->caption()->value();
+				$tag->src       = $tag->file->url();
+				$tag->alt     ??= $tag->file->alt()->or('')->value();
+				$tag->title   ??= $tag->file->title()->value();
+				$tag->caption ??= $tag->file->caption()->value();
+
+				if ($srcset = $tag->srcset) {
+					$srcset = Str::split($srcset);
+					$srcset = match (count($srcset) > 1) {
+						// comma-separated list of sizes
+						true => A::map($srcset, fn ($size) => (int)trim($size)),
+						// srcset config name
+						default => $srcset[0]
+					};
+
+					$tag->srcset = $tag->file->srcset($srcset);
+				}
 			} else {
 				$tag->src = Url::to($tag->value);
 			}
@@ -129,11 +149,12 @@ return [
 			};
 
 			$image = Html::img($tag->src, [
+				'srcset' => $tag->srcset,
 				'width'  => $tag->width,
 				'height' => $tag->height,
 				'class'  => $tag->imgclass,
 				'title'  => $tag->title,
-				'alt'    => $tag->alt ?? ' '
+				'alt'    => $tag->alt ?? ''
 			]);
 
 			if ($tag->kirby()->option('kirbytext.image.figure', true) === false) {
@@ -147,7 +168,7 @@ return [
 				$tag->caption = [$caption];
 			}
 
-			return Html::figure([ $link($image) ], $tag->caption, [
+			return Html::figure([$link($image)], $tag->caption, [
 				'class' => $tag->class
 			]);
 		}
@@ -166,7 +187,7 @@ return [
 			'title',
 			'text',
 		],
-		'html' => function ($tag) {
+		'html' => function (KirbyTag $tag): string {
 			if (empty($tag->lang) === false) {
 				$tag->value = Url::to($tag->value, $tag->lang);
 			}
@@ -177,7 +198,20 @@ return [
 				Uuid::is($tag->value, 'page') === true ||
 				Uuid::is($tag->value, 'file') === true
 			) {
-				$tag->value = Uuid::for($tag->value)->model()->url();
+				$tag->value = Uuid::for($tag->value)->model()?->url();
+			}
+
+			// if url is empty, throw exception or link to the error page
+			if ($tag->value === null) {
+				if ($tag->kirby()->option('debug', false) === true) {
+					if (empty($tag->text) === false) {
+						throw new NotFoundException('The linked page cannot be found for the link text "' . $tag->text . '"');
+					} else {
+						throw new NotFoundException('The linked page cannot be found');
+					}
+				} else {
+					$tag->value = Url::to($tag->kirby()->site()->errorPageId());
+				}
 			}
 
 			return Html::a($tag->value, $tag->text, [
@@ -200,42 +234,11 @@ return [
 			'text',
 			'title'
 		],
-		'html' => function ($tag) {
+		'html' => function (KirbyTag $tag): string {
 			return Html::tel($tag->value, $tag->text, [
 				'class' => $tag->class,
 				'rel'   => $tag->rel,
 				'title' => $tag->title
-			]);
-		}
-	],
-
-	/**
-	 * Twitter
-	 */
-	'twitter' => [
-		'attr' => [
-			'class',
-			'rel',
-			'target',
-			'text',
-			'title'
-		],
-		'html' => function ($tag) {
-			// get and sanitize the username
-			$username = str_replace('@', '', $tag->value);
-
-			// build the profile url
-			$url = 'https://twitter.com/' . $username;
-
-			// sanitize the link text
-			$text = $tag->text ?? '@' . $username;
-
-			// build the final link
-			return Html::a($url, $text, [
-				'class'  => $tag->class,
-				'rel'    => $tag->rel,
-				'target' => $tag->target,
-				'title'  => $tag->title,
 			]);
 		}
 	],
@@ -258,7 +261,7 @@ return [
 			'style',
 			'width',
 		],
-		'html' => function ($tag) {
+		'html' => function (KirbyTag $tag): string {
 			// checks and gets if poster is local file
 			if (
 				empty($tag->poster) === false &&

@@ -23,14 +23,12 @@ trait SiteActions
 	 * 3. commits the store action
 	 * 4. sends the after hook
 	 * 5. returns the result
-	 *
-	 * @param string $action
-	 * @param mixed ...$arguments
-	 * @param Closure $callback
-	 * @return mixed
 	 */
-	protected function commit(string $action, array $arguments, Closure $callback)
-	{
+	protected function commit(
+		string $action,
+		array $arguments,
+		Closure $callback
+	): mixed {
 		$old            = $this->hardcopy();
 		$kirby          = $this->kirby();
 		$argumentValues = array_values($arguments);
@@ -48,29 +46,35 @@ trait SiteActions
 
 	/**
 	 * Change the site title
-	 *
-	 * @param string $title
-	 * @param string|null $languageCode
-	 * @return static
 	 */
-	public function changeTitle(string $title, string $languageCode = null)
-	{
-		$site     = $this;
-		$title     = trim($title);
-		$arguments = compact('site', 'title', 'languageCode');
+	public function changeTitle(
+		string $title,
+		string|null $languageCode = null
+	): static {
+		// if the `$languageCode` argument is not set and is not the default language
+		// the `$languageCode` argument is sent as the current language
+		if (
+			$languageCode === null &&
+			$language = $this->kirby()->language()
+		) {
+			if ($language->isDefault() === false) {
+				$languageCode = $language->code();
+			}
+		}
 
-		return $this->commit('changeTitle', $arguments, function ($site, $title, $languageCode) {
-			return $site->save(['title' => $title], $languageCode);
-		});
+		$arguments = ['site' => $this, 'title' => trim($title), 'languageCode' => $languageCode];
+
+		return $this->commit(
+			'changeTitle',
+			$arguments,
+			fn ($site, $title, $languageCode) => $site->save(['title' => $title], $languageCode)
+		);
 	}
 
 	/**
 	 * Creates a main page
-	 *
-	 * @param array $props
-	 * @return \Kirby\Cms\Page
 	 */
-	public function createChild(array $props)
+	public function createChild(array $props): Page
 	{
 		$props = array_merge($props, [
 			'url'    => null,
@@ -87,14 +91,16 @@ trait SiteActions
 	 *
 	 * @return $this
 	 */
-	public function purge()
+	public function purge(): static
 	{
-		$this->blueprint    = null;
-		$this->children     = null;
-		$this->content      = null;
-		$this->files        = null;
-		$this->inventory    = null;
-		$this->translations = null;
+		parent::purge();
+
+		$this->blueprint         = null;
+		$this->children          = null;
+		$this->childrenAndDrafts = null;
+		$this->drafts            = null;
+		$this->files             = null;
+		$this->inventory         = null;
 
 		return $this;
 	}

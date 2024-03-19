@@ -8,7 +8,7 @@ return [
 	],
 	'props' => [
 		/**
-		 * Array or query string for reports. Each report needs a `label` and `value` and can have additional `info`, `link` and `theme` settings.
+		 * Array or query string for reports. Each report needs a `label` and `value` and can have additional `info`, `link`, `icon` and `theme` settings.
 		 */
 		'reports' => function ($reports = null) {
 			if ($reports === null) {
@@ -53,6 +53,7 @@ return [
 				$value = $report['value'] ?? null;
 
 				$reports[] = [
+					'icon'  => $toString($report['icon'] ?? null),
 					'info'  => $toString(I18n::translate($info, $info)),
 					'label' => $toString(I18n::translate($label, $label)),
 					'link'  => $toString(I18n::translate($link, $link)),

@@ -6,7 +6,6 @@ use Closure;
 use Exception;
 use Kirby\Exception\LogicException;
 use Kirby\Filesystem\F;
-use Throwable;
 
 /**
  * Representation of an Http response,
@@ -82,6 +81,7 @@ class Response
 
 	/**
 	 * Improved `var_dump` output
+	 * @codeCoverageIgnore
 	 */
 	public function __debugInfo(): array
 	{
@@ -95,11 +95,7 @@ class Response
 	 */
 	public function __toString(): string
 	{
-		try {
-			return $this->send();
-		} catch (Throwable) {
-			return '';
-		}
+		return $this->send();
 	}
 
 	/**
@@ -250,7 +246,7 @@ class Response
 		array $headers = []
 	): static {
 		if (is_array($body) === true) {
-			$body = json_encode($body, $pretty === true ? JSON_PRETTY_PRINT|JSON_UNESCAPED_SLASHES : 0);
+			$body = json_encode($body, $pretty === true ? JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES : 0);
 		}
 
 		return new static([

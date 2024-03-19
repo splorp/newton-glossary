@@ -1,8 +1,8 @@
 <?php return array(
     'root' => array(
         'name' => 'getkirby/cms',
-        'pretty_version' => '3.10.0.1',
-        'version' => '3.10.0.1',
+        'pretty_version' => '4.1.2',
+        'version' => '4.1.2.0',
         'reference' => null,
         'type' => 'kirby-cms',
         'install_path' => __DIR__ . '/../../',
@@ -10,6 +10,15 @@
         'dev' => true,
     ),
     'versions' => array(
+        'christian-riesen/base32' => array(
+            'pretty_version' => '1.6.0',
+            'version' => '1.6.0.0',
+            'reference' => '2e82dab3baa008e24a505649b0d583c31d31e894',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../christian-riesen/base32',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'claviska/simpleimage' => array(
             'pretty_version' => '4.0.6',
             'version' => '4.0.6.0',
@@ -38,8 +47,8 @@
             'dev_requirement' => false,
         ),
         'getkirby/cms' => array(
-            'pretty_version' => '3.10.0.1',
-            'version' => '3.10.0.1',
+            'pretty_version' => '4.1.2',
+            'version' => '4.1.2.0',
             'reference' => null,
             'type' => 'kirby-cms',
             'install_path' => __DIR__ . '/../../',
@@ -89,9 +98,9 @@
             'dev_requirement' => false,
         ),
         'phpmailer/phpmailer' => array(
-            'pretty_version' => 'v6.8.1',
-            'version' => '6.8.1.0',
-            'reference' => 'e88da8d679acc3824ff231fdc553565b802ac016',
+            'pretty_version' => 'v6.9.1',
+            'version' => '6.9.1.0',
+            'reference' => '039de174cd9c17a8389754d3b877a2ed22743e18',
             'type' => 'library',
             'install_path' => __DIR__ . '/../phpmailer/phpmailer',
             'aliases' => array(),
@@ -158,9 +167,9 @@
             ),
         ),
         'symfony/yaml' => array(
-            'pretty_version' => 'v5.4.30',
-            'version' => '5.4.30.0',
-            'reference' => 'c6980e82a6656f6ebfabfd82f7585794cb122554',
+            'pretty_version' => 'v6.4.0',
+            'version' => '6.4.0.0',
+            'reference' => '4f9237a1bb42455d609e6687d2613dde5b41a587',
             'type' => 'library',
             'install_path' => __DIR__ . '/../symfony/yaml',
             'aliases' => array(),
