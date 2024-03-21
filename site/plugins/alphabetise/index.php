@@ -1,15 +1,15 @@
 <?php
+// This plugin will alphabetise a given page array or tag array
 Kirby::plugin('shoesforindustry/alphabetise', []);
-// The Alphabetise plugin for Kirby CMS will Alphabetise a given page array or tag array
 function alphabetise($items, $options = array())
 {
-  // default key values
-  // As we are using ksort the default 'orderby' is SORT_REGULAR
-  // To sort with number first you can use 'orderby' set to SORT_STRING
+  // Default key and orderby values
+  // To sort letters listed first, set 'orderby' to SORT_REGULAR
+  // To sort numbers listed first, set 'orderby' to SORT_STRING
   // Other ksort sort_flags may be usuable but not tested!
   $defaults = array('key' => 'title', 'orderby' => SORT_REGULAR);
 
-  // merge defaults and options
+  // Merge defaults and options
   $options = array_merge($defaults, $options);
 
   //Gets the input into a two dimensional array - uses '~' as separator;
