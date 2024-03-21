@@ -21,7 +21,9 @@ Related:
 - /terms/ethernet
 - /terms/ip
 - /terms/newton-internet-enabler
+- /terms/ppp
 - /terms/protocol
+- /terms/slip-protocol
 - /terms/tcp
 
 ----

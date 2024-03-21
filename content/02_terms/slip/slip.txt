@@ -10,6 +10,8 @@ Text:
 
 A [container view](/terms/container-view) with a [matte border](/terms/matte-border) displayed by an [application](/terms/application) in order to obtain user [input](/terms/input), or to present alternatives which a user may choose to determine the outcome of a task that has been started.
 
+For the protocol, see [SLIP](/terms/slip-protocol).
+
 ----
 
 Related:

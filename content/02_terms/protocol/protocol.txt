@@ -25,6 +25,8 @@ Related:
 - /terms/irda
 - /terms/localtalk
 - /terms/newtir
+- /terms/ppp
+- /terms/slip-protocol
 - /terms/tcp
 - /terms/tcp-ip
 - /terms/wep

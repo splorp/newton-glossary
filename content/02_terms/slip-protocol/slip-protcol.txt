@@ -1,0 +1,43 @@
+Title: SLIP
+
+----
+
+Date: 20-Mar-2024
+
+----
+
+Text:
+
+Serial Line Internet Protocol
+
+Software that allows the [IP](/terms/ip) network layer, commonly used over [ethernet](/terms/ethernet), to be used over a serial connection such as a modem.
+
+SLIP was superceded by [PPP](/terms/ppp).
+
+For the user interface element, see [Slip](/terms/slip).
+
+----
+
+Resource:
+
+- [Wikipedia: Serial Line Internet Protocol](https://en.wikipedia.org/wiki/Serial_Line_Internet_Protocol)
+- [A Nonstandard for Transmission of IP Datagrams Over Serial Lines: SLIP](https://datatracker.ietf.org/doc/html/rfc1055)
+
+----
+
+Related:
+
+- /terms/dhcp
+- /terms/dns
+- /terms/ethernet
+- /terms/ip
+- /terms/ppp
+- /terms/protocol
+- /terms/tcp
+- /terms/tcp-ip
+
+----
+
+Source:
+
+- /sources/foldoc

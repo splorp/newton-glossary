@@ -20,6 +20,8 @@ Related:
 - /terms/nethopper
 - /terms/nie
 - /terms/pocketweb
+- /terms/ppp
 - /terms/protocol
+- /terms/slip-protocol
 - /terms/tcp
 - /terms/tcp-ip

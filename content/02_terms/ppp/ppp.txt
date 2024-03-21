@@ -1,0 +1,42 @@
+Title: PPP
+
+----
+
+Date: 20-Mar-2024
+
+----
+
+Text:
+
+Point-to-Point Protocol
+
+A communication [protocol](/terms/protocol) used for both synchronous and asynchronous serial connections between physical networks. It can be configured to encapsulate different networking protocols such [IP](/terms/ip) or [AppleTalk](/terms/appletalk).
+
+PPP superseded [SLIP](/terms/slip-protocol).
+
+----
+
+Resource:
+
+- [Wikipedia: https://en.wikipedia.org/wiki/Point-to-Point_Protocol](https://en.wikipedia.org/wiki/Point-to-Point_Protocol)
+- [The Point-to-Point Protocol (PPP)](https://datatracker.ietf.org/doc/html/rfc1661)
+
+----
+
+Related:
+
+- /terms/appletalk
+- /terms/dhcp
+- /terms/dns
+- /terms/ethernet
+- /terms/ip
+- /terms/protocol
+- /terms/slip-protocol
+- /terms/tcp
+- /terms/tcp-ip
+
+----
+
+Source:
+
+- /sources/foldoc
