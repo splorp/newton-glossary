@@ -8,8 +8,7 @@ $items = ($open) ? $open->children() : false;
 $sorted = $page->children()->sortBy('title');
 
 // Alphabetize pages by title
-$alphabetise = alphabetise($sorted, array('key' => 'title', 'orderby'=>SORT_STRING));
-
+$alphabetise = alphabetise($sorted, array('key' => 'title', 'orderby' => SORT_STRING));
 ?>
 
 <?php if($items && $items->count()): ?>
