@@ -12,13 +12,28 @@ function alphabetise($items, $options = array())
   // Merge default and options arrays
   $options = array_merge($defaults, $options);
 
+  // Set the initial case check variable
+  $case = '';
+
   // Put the input into a two dimensional array, using '~' as separator
   
   foreach ($items as $item) {
 
     $temp = explode('~', $item->{$options['key']}());
-    $temp = $temp[0];
+    
+    // Check whether two sequential items share the same spelling
+    // for the value located in the 'key' field (eg: Bob vs BOB)
+    // Prefix the array index so the two values are not merged
+
+    if (strtolower($temp[0]) == $case) {
+        $temp = substr($temp[0], 0, 1) . $temp[0];
+      } else {
+        $temp = $temp[0];
+    }
+
     $temp = strtolower($temp);
+    $case = $temp;
+  
     $array[$temp][] = $item;
   }
 
