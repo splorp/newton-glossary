@@ -14,6 +14,7 @@ The sound made by a Newton device after pressing and holding the [pen](/terms/pe
 
 Related:
 
+- /terms/alert-sound
 - /terms/broink
 - /terms/clank
 - /terms/heavy-mark
@@ -23,6 +24,7 @@ Related:
 - /terms/select
 - /terms/selection
 - /terms/user-interface
+- /terms/volume
 
 ----
 

@@ -16,6 +16,7 @@ Also referred to as [Clanking](/terms/clanking) in the [NetHopper](/terms/nethop
 
 Related:
 
+- /terms/alert-sound
 - /terms/broink
 - /terms/clanking
 - /terms/local-scroll-arrows
@@ -25,6 +26,7 @@ Related:
 - /terms/scrolling-list
 - /terms/squeak
 - /terms/universal-scroll-arrows
+- /terms/volume
 
 ----
 

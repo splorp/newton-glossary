@@ -15,8 +15,12 @@ An audible warning from the Newton’s speaker that warns the user of an unusual
 Related:
 
 - /terms/alert-box
+- /terms/clank
 - /terms/notification-alert
 - /terms/notification-slip
+- /terms/poof
+- /terms/squeak
+- /terms/volume
 
 ----
 

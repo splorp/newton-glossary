@@ -14,6 +14,7 @@ The sound that accompanies the “[puff of smoke](/terms/puff-of-smoke)” anima
 
 Related:
 
+- /terms/alert-sound
 - /terms/broink
 - /terms/clank
 - /terms/poof
@@ -22,6 +23,7 @@ Related:
 - /terms/scrub
 - /terms/scrubbing
 - /terms/squeak
+- /terms/volume
 - /terms/zig-zag
 
 ----
