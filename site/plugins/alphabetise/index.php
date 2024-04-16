@@ -1,12 +1,11 @@
 <?php
 // This plugin will alphabetise a given page array or tag array
-Kirby::plugin('shoesforindustry/alphabetise', []);
+Kirby::plugin('splorp/alphabetise', []);
 function alphabetise($items, $options = array())
 {
   // Default key and orderby values
-  // To sort letters listed first, set 'orderby' to SORT_REGULAR
-  // To sort numbers listed first, set 'orderby' to SORT_STRING
-  // Other ksort sort_flags may be usuable but not tested!
+  // To sort letters listed first, set 'orderby' to SORT_NUMERIC
+  // To sort numbers listed first, set 'orderby' to SORT_REGULAR or SORT_STRING
   $defaults = array('key' => 'title', 'orderby' => SORT_REGULAR);
 
   // Merge default and options arrays
@@ -42,7 +41,7 @@ function alphabetise($items, $options = array())
     //Make an array of key and data
     foreach ($array as $temp => $item) {
       if (strlen($temp) < 2) {
-        $temp = $temp . $temp;
+        $temp = $temp . '_';
         $array[substr($temp, 0, 2)][] = $item[0];
       } else {
         $array[substr($temp, 0, 1)][] = $item[0];
