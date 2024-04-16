@@ -17,6 +17,7 @@ Related:
 - /terms/alert-sound
 - /terms/broink
 - /terms/clank
+- /terms/hot-dog-song
 - /terms/poof
 - /terms/poof-it
 - /terms/scribble

@@ -16,6 +16,7 @@ Related:
 
 - /terms/alert-box
 - /terms/clank
+- /terms/hot-dog-song
 - /terms/notification-alert
 - /terms/notification-slip
 - /terms/poof

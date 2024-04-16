@@ -19,6 +19,7 @@ Related:
 - /terms/clank
 - /terms/heavy-mark
 - /terms/highlight
+- /terms/hot-dog-song
 - /terms/pen
 - /terms/poof
 - /terms/select

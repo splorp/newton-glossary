@@ -19,6 +19,7 @@ Related:
 - /terms/alert-sound
 - /terms/broink
 - /terms/clanking
+- /terms/hot-dog-song
 - /terms/local-scroll-arrows
 - /terms/poof
 - /terms/scroll

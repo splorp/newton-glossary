@@ -34,5 +34,6 @@ Related:
 - /terms/eat-up-martha
 - /terms/eff-grackles
 - /terms/handwriting-recognition
+- /terms/hot-dog-song
 - /terms/serious-bandwidth
 - /terms/tablespoons

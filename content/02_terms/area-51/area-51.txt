@@ -30,6 +30,7 @@ Related:
 - /terms/easter-egg
 - /terms/egg-freckles
 - /terms/groom-lake
+- /terms/hot-dog-song
 - /terms/icon
 - /terms/time-zones
 - /terms/to-do-list

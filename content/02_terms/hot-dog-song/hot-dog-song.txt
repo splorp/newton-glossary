@@ -1,0 +1,44 @@
+Title: Hot Dog Song
+
+----
+
+Date: 16 April 2024
+
+----
+
+Text:
+
+The sequence of sounds made by a Newton device when [tapping](/terms/tapping) several times in a succesion. Although these sounds seem random, it has been documented that they are actually a repeating sequence, likely an intentional [easter egg](/terms/easter-egg).
+
+According to some people, the sequence is similar to the [Oscar Meyer Theme](/terms/oscar-meyer-theme), the same company famous for its [Wienermobile](https://en.wikipedia.org/wiki/Wienermobile). While this might explain the reference to a hot dog, the name of this easter egg should really be the “Bologna Song”.
+
+Others think the sequence sounds more like the instrumental song “Popcorn” popularized by the band [Hot Butter](https://en.wikipedia.org/wiki/Hot_Butter) in 1972.
+
+----
+
+Resource:
+
+- [Oliver’s List: Newton Easter Egg Song](https://web.archive.org/web/20080820051449/http://oof.org/newton/2page.html)
+- [NewtonTalk: The hot dog song?](https://newtontalk.net/archive/newtontalk/2003-October/1241.html)
+- [NewtonTalk: New (?) Easter Egg](https://newtontalk.net/archive/newtontalk/2002-October/1135.html)
+
+----
+
+Related:
+
+- /terms/alert-sound
+- /terms/broink
+- /terms/clank
+- /terms/easter-egg
+- /terms/oscar-meyer-theme
+- /terms/poof
+- /terms/popcorn
+- /terms/squeak
+- /terms/volume
+
+----
+
+Source:
+
+- /sources/newtontalk
+- /sources/olivers-list
