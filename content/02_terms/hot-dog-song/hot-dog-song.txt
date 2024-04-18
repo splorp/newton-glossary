@@ -8,7 +8,7 @@ Date: 16 April 2024
 
 Text:
 
-The sequence of sounds made by a Newton device when [tapping](/terms/tapping) several times in a succesion. Although these sounds seem random, it has been documented that they are actually a repeating sequence, likely an intentional [easter egg](/terms/easter-egg).
+The sequence of sounds made by a Newton device when [tapping](/terms/tapping) several times in succession. Although these sounds seem random, it has been documented that they are actually a repeating sequence, likely an intentional [easter egg](/terms/easter-egg).
 
 According to some people, the sequence is similar to the [Oscar Meyer Theme](/terms/oscar-meyer-theme), the same company famous for its [Wienermobile](https://en.wikipedia.org/wiki/Wienermobile). While this might explain the reference to a hot dog, the name of this easter egg should really be the “Bologna Song”.
 
