@@ -37,6 +37,7 @@ Related:
 - /terms/classroom-dock
 - /terms/classroom-exchange
 - /terms/classroom-mode
+- /terms/clockwork-emate
 - /terms/dhp
 - /terms/em300
 - /terms/emate

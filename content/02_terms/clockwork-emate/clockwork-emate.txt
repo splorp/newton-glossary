@@ -1,0 +1,32 @@
+Title: Clockwork eMate
+
+----
+
+Date: 18 April 2024
+
+----
+
+Text:
+
+An [eMate 300](/terms/emate-300) that uses a windup generator as a power source to recharge the internal [battery](/terms/battery). A prototype of a clockwork-powered eMate device was developed and demonstrated by inventor [Trevor Bayliss](https://web.archive.org/web/20110924092817/http://windupradio.com/trevor.htm) in 1997.
+
+----
+
+Resource:
+
+- [ABC News: A World Run on Windup](https://web.archive.org/web/20001202090500/http://abcnews.go.com/sections/tech/CuttingEdge/cuttingedge990107.html)
+- [NewtonTalk: Clockwork eMate](http://newtontalk.net/archive/newtontalk/2014-December/050959.html)
+- [The Register: Clockwork computer power planned for next year](https://www.theregister.com/1999/03/15/clockwork_computer_power_planned/)
+- [Windup Radio: Windup technology powers Apple eMate 300 Educational Computer](https://web.archive.org/web/19991117231229/http://windupradio.com/apple.htm)
+
+----
+
+Related:
+
+- /terms/emate-300
+
+----
+
+Source:
+
+- /sources/newtontalk
