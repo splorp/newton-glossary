@@ -1,0 +1,30 @@
+Title: Green
+
+----
+
+Date: 18 April 2024
+
+----
+
+Text:
+
+A self-described "meta-project" created by [Steven Frank](/sources/steven-frank) to explore [Newton OS](/terms/newton-os) software and hardware through basic emulation. The  primary goal of Green was to help understand and document the way that the [Einstein](/terms/einstein) emulator behaved, then using that information to hopefully help contribute to the existing open source project.
+
+----
+
+Resource:
+
+- [GitHub: Green](https://web.archive.org/web/20180611022236/https://github.com/panicsteve/green)
+
+----
+
+Related:
+
+- /terms/einstein
+- /terms/leibniz
+
+----
+
+Source:
+
+- /sources/steven-frank
