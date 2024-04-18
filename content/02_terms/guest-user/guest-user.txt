@@ -17,6 +17,7 @@ Also referred to as [guest mode](/terms/guest-mode).
 Related:
 
 - /terms/guest-mode
+- /terms/guester
 - /terms/handwriting-recognition
 
 ----

@@ -1,0 +1,30 @@
+Title: Guester
+
+----
+
+Date: 18 April 2024
+
+----
+
+Text:
+
+An [application](/terms/application) developed by [Ray Rischpater](/sources/ray-rischpater) that provides a simple means to switch a Newton device into [guest mode](/terms/guest-mode) and back.
+
+----
+
+Resource:
+
+- [UNNA: Guester 1.3](http://www.unna.org/view.php?/utilites/hwr_enhancements/Guester-1.3)
+
+----
+
+Related:
+
+- /terms/guest-user
+- /terms/handwriting-recognition
+
+----
+
+Source:
+
+- /sources/ray-rischpater

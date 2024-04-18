@@ -24,9 +24,10 @@ Related:
 - /terms/eat-up-martha
 - /terms/egg-freckles
 - /terms/guest-user
+- /terms/guester
 - /terms/handwriting-instructor
-- /terms/hwr
 - /terms/hwcr
+- /terms/hwr
 - /terms/ink
 - /terms/inkwell
 - /terms/letter-shapes
