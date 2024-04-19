@@ -2,10 +2,38 @@ Title: WAP
 
 ----
 
-Date:
+Date: 19 April 2024
 
 ----
 
 Text:
 
-See: [Wireless Access Point](/terms/wireless-access-point)
+Wireless Application Protocol
+
+A technical standard introduced in 1999 that provided mobile phones, pagers, and other handheld devices with secure, wireless access to various types of information such as email and lightweight web pages.
+
+[Eric Schneck](/sources/eric-schneck) developed a WAP client for [Newton OS](/terms/newton-os) called [NewtWap](/terms/newtwap).
+
+WAP also refers to a [Wireless Access Point](/terms/wireless-access-point).
+
+----
+
+Resource:
+
+- [Wikipedia: Wireless Application Protocol](https://en.wikipedia.org/wiki/Wireless_Application_Protocol)
+
+----
+
+Related:
+
+- /terms/courier
+- /terms/nethopper
+- /terms/newtwap
+- /terms/pocketweb
+- /terms/wireless-access-point
+
+----
+
+Source:
+
+- /sources/techencyclopedia
