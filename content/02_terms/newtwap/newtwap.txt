@@ -1,0 +1,35 @@
+Title: NewtWap
+
+----
+
+Date: 19 April 2024
+
+----
+
+Text:
+
+A [WAP](/terms/wap) (Wireless Access Protocol) client for [Newton OS](/terms/newton-os) developed by [Eric Schneck](/sources/eric-schneck).
+
+<img src="/assets/images/newtwap-2x.gif" alt="Screenshot of NewtWap" width="320" />
+
+----
+
+Resource:
+
+- [Guhl.net: NewtWap 1.2 for Newton MessagePad](https://web.archive.org/web/20030202024455/http://newton.guhl.net/newton/NewtWap/)
+- [UNNA: NewtWap](http://www.unna.org/view.php?/internet/NewtWAP)
+
+----
+
+Related:
+
+- /terms/wap
+- /terms/courier
+- /terms/newts-cape
+- /terms/pocketweb
+
+----
+
+Source:
+
+- /sources/eric-schneck

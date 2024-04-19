@@ -23,6 +23,7 @@ Resource:
 Related:
 
 - /terms/ncq
+- /terms/newtjab
 - /terms/newtonim
 
 ----

@@ -27,6 +27,8 @@ Related:
 
 - /terms/chatbuddy
 - /terms/ncq
+- /terms/newtjab
+- /terms/nim
 
 ----
 

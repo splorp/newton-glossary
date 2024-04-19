@@ -22,8 +22,9 @@ Related:
 
 - /terms/nethopper
 - /terms/newts-cape
-- /terms/pocketweb
+- /terms/newtwap
 - /terms/ntox
+- /terms/pocketweb
 - /terms/raissa
 - /terms/rss
 

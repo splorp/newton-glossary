@@ -1,0 +1,17 @@
+Title: NewtJabber
+
+----
+
+Date: 19 April 2024
+
+----
+
+Text:
+
+See: [NewtJab](/terms/newtjab)
+
+----
+
+Source:
+
+- /sources/eric-schneck

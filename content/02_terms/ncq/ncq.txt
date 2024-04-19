@@ -26,6 +26,7 @@ Related:
 
 - /terms/chatbuddy
 - /terms/newticq
+- /terms/newtjab
 - /terms/newtonim
 
 ----
