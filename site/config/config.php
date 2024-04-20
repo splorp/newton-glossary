@@ -105,29 +105,28 @@ return [
 						? $page->description()
 						: $page->text()->excerpt(175)
 					),
+				'author' => $site->author()
 			],
 			'link' => [
 				'canonical' => $page->url()
 			],
 			'og' => [
+				'type' => $page->isHomePage()
+					? 'website'
+					: 'article',
+				'article:author' => $page->isHomePage()
+					? ''
+					: $site->author(),
 				'title' => $page->title(),
-				'type' => 'website',
 				'site_name' => $site->title(),
-				'url' => $page->url()
-			],
-			'twitter' => [
-				'card' => 'summary',
-				'site' => '@newtonglossary',
-				'creator' => '@splorp',
 				'url' => $page->url(),
-				'title' => $page->title(),
+				'image' => $site->url() . '/assets/meta/og-image-800x800.png',
 				'description' => $page->isHomePage()
 					? $site->description()
 					: ($page->description() != ''
 						? $page->description()
 						: $page->text()->excerpt(175)
-					),
-				'image' => $site->url() . '/assets/meta/twitter-image-800x800.png'
+					)
 			]
 		];
 	}
