@@ -35,8 +35,8 @@ Related:
 - /terms/build
 - /terms/etchasketch
 - /terms/global-data-file
-- /terms/layout-file
 - /terms/inspector
+- /terms/layout-file
 - /terms/macintosh-common-lisp
 - /terms/minspector
 - /terms/newtapp
@@ -54,7 +54,8 @@ Related:
 - /terms/script
 - /terms/stream-file
 - /terms/text-file
-= /terms/toolkit
+- /terms/toolkit
+- /terms/viewframe
 
 ----
 

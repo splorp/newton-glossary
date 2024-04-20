@@ -30,6 +30,8 @@ Related:
 - /terms/egger
 - /terms/frame
 - /terms/hammer
+- /terms/inspector
+- /terms/minspector
 - /terms/newtonscript
 - /terms/newtrtfm
 - /terms/newtsbug

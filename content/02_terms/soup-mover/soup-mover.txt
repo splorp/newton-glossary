@@ -25,7 +25,6 @@ Related:
 - /terms/ragout
 - /terms/soup
 - /terms/soup-icon
-- /terms/soup-mover
 - /terms/soupervisor-mechanism
 - /terms/store
 - /terms/union-soup

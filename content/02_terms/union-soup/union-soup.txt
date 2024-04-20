@@ -20,6 +20,7 @@ Related:
 - /terms/flattened-soup
 - /terms/internal-store
 - /terms/member-soup
+- /terms/newtcase
 - /terms/package
 - /terms/package-store
 - /terms/part
@@ -30,6 +31,7 @@ Related:
 - /terms/soupervisor-mechanism
 - /terms/store
 - /terms/store-part
+- /terms/viewframe
 
 ----
 

@@ -10,6 +10,8 @@ Text:
 
 NewtJab is a [Jabber](https://www.jabber.org/) instant messaging client for [Newton OS](/terms/newton-os) developed by [Eric Schneck](/sources/eric-schneck).
 
+Also referred to as [NewtJabber](/terms/newtjabber).
+
 ----
 
 Resource:
