@@ -3,8 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="robots" content="index, follow">
-		<meta name="robots" content="noimageai">
-		<meta name="robots" content="noai">
+		<meta name="robots" content="noai, noimageai">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<?php echo $page->metaTags() ?>
 		<link rel="me" href="https://mastodon.social/@splorp">
