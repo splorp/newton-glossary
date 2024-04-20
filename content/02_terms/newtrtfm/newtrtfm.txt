@@ -1,0 +1,31 @@
+Title: NewtRTFM
+
+----
+
+Date: 19 April 2024
+
+----
+
+Text:
+
+A programming reference for [Newton OS](/terms/newton-os) created by Sandeep Shah and published by [Creative Digital Publishing](/sources/creative-digital-publishing). NewtRTFM provides a concise, searchable summary of the [Newton Toolkit](/terms/newton-toolkit) documentation, including the [Newton Toolkit User’s Guide](/sources/newton-toolkit-users-guide).
+
+----
+
+Resource:
+
+- [NewtRTFM Read Me](https://stuff.mit.edu/afs/net.mit.edu/software/newton/apps/NEWT-RTF/README)
+- [Pen Based Computing: NewtRTFM Advertisement](https://www.penbasedcomputing.com/wp-content/uploads/2018/05/PIE-Developers-Volume-2-4-July-1994-Back.png)
+----
+
+Related:
+
+- /terms/newton-toolkit
+- /terms/newtonscript
+- /terms/viewframe
+
+----
+
+Source:
+
+- /sources/creative-digital-publishing
