@@ -15,7 +15,7 @@
 		<h3 class="rslt"><?php echo $pagination->total() . ' item'; echo ($pagination->total() > 1) ? 's' : ''; echo ' found'; ?></h3>
 		<ul>
 			<?php foreach($results as $result): ?>
-			<li><a href="/<?php echo $result ?>"><?php echo $result->title()->html() ?></a><br />
+			<li><a href="/<?php echo $result ?>"><?php echo $result->title()->html() ?></a><br>
 			<?php echo $result->text()->excerpt(140) ?></li>
 			<?php endforeach ?>
 		</ul>
