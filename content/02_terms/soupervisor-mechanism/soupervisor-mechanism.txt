@@ -18,6 +18,7 @@ Related:
 - /terms/extras-drawer
 - /terms/icon
 - /terms/member-soup
+- /terms/ragout
 - /terms/soup
 - /terms/soup-icon
 - /terms/soup-mover

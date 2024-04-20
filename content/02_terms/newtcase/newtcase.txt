@@ -23,6 +23,7 @@ Resource:
 Related:
 
 - /terms/application
+- /terms/ragout
 - /terms/soup
 - /terms/soup-mover
 - /terms/package

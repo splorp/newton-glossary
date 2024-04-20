@@ -1,0 +1,38 @@
+Title: Ragout
+
+----
+
+Date: 19 April 2024
+
+----
+
+Text:
+
+A developer utility for [Newton OS](/terms/newton-os) for inspecting, manipulating, and editing [soup](/terms/soup) data. Ragout was developed by [Jason Harper](http://nixietube.info/) and distributed by [Creative Digital Publishing](/sources/creative-digital-publishing).
+
+<img src="/assets/images/ragout-2x.gif" alt="Screenshot of Ragout" width="242" />
+
+----
+
+Resource:
+
+- [Creative Digital: Ragout Product Information](https://web.archive.org/web/19970710163421/http://www.cdpubs.com:80/ragout.new.html)
+
+----
+
+Related:
+
+- /terms/member-soup
+- /terms/newtcase
+- /terms/soup
+- /terms/soup-icon
+- /terms/soup-mover
+- /terms/soupervisor-mechanism
+- /terms/union-soup
+- /terms/viewframe
+
+----
+
+Source:
+
+- /sources/creative-digital-publishing

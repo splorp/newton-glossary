@@ -23,6 +23,7 @@ Related:
 - /terms/package
 - /terms/package-store
 - /terms/part
+- /terms/ragout
 - /terms/soup
 - /terms/soup-icon
 - /terms/soup-mover

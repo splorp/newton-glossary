@@ -20,6 +20,7 @@ Related:
 - /terms/internal-store
 - /terms/package-store
 - /terms/part
+- /terms/ragout
 - /terms/soup
 - /terms/soup-mover
 - /terms/soupervisor-mechanism
