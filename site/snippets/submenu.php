@@ -7,7 +7,7 @@ $items = ($open) ? $open->children() : false;
 
 // Sort child pages by title, then group alphabetically
 
-$alphabetise = $page->children()->sortBy('title', 'asc', SORT_REGULAR)->group(fn ($item) => str::upper($item->title()->value()[0]));
+$alphabetise = $page->children()->sortBy('title', 'asc')->group(fn ($item) => str::upper($item->title()->value()[0]));
 
 // Create alphabetical list of pages, with subheadings
 
