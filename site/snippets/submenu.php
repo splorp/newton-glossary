@@ -1,14 +1,16 @@
 <?php
 
-// Determine which first level page in open
+// Determine the current page and whether it has child pages
+
 $open  = $pages->findOpen();
 $items = ($open) ? $open->children() : false;
 
-// Sort pages by title
-$sorted = $page->children()->sortBy('title');
+// Sort child pages by title, then group alphabetically
 
-// Alphabetize pages by title
-$alphabetise = alphabetise($sorted, array('key' => 'title', 'orderby' => SORT_REGULAR));
+$alphabetise = $page->children()->sortBy('title', 'asc', SORT_REGULAR)->group(fn ($item) => str::upper($item->title()->value()[0]));
+
+// Create alphabetical list of pages, with subheadings
+
 ?>
 
 <?php if($items && $items->count()): ?>
