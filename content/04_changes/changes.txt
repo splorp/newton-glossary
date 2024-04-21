@@ -22,8 +22,8 @@ Recently added terms and sources can be found on the [latest additions](/latest)
 
 21 April 2024
 
-Terms: 1,374
-Sources: 146
+Terms: 1,387
+Sources: 149
 
 #### Summary of changes:
 
