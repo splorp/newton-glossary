@@ -1,0 +1,17 @@
+Title: Loaner Card
+
+----
+
+Date: 22 April 2024
+
+----
+
+Text:
+
+See: [Bootstrap Card](/terms/bootstrap-card)
+
+----
+
+Source:
+
+- /sources/newtontalk

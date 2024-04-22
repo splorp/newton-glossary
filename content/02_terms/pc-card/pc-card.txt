@@ -16,6 +16,7 @@ Related:
 
 - /terms/accessory-card
 - /terms/application-card
+- /terms/bootstrap-card
 - /terms/card
 - /terms/card-latch
 - /terms/card-slot

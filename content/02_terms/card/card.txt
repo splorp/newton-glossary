@@ -18,7 +18,9 @@ Card can also refer to a [PC card](/terms/pc-card) or [CompactFlash](/terms/comp
 
 Related:
 
+- /terms/accessory-card
 - /terms/application-card
+- /terms/bootstrap-card
 - /terms/card-latch
 - /terms/card-slot
 - /terms/cis
@@ -33,6 +35,8 @@ Related:
 - /terms/memory-card
 - /terms/name-card
 - /terms/name-file
+- /terms/newscard
+- /terms/newton-messaging-card
 - /terms/owner-card
 - /terms/pc-card
 - /terms/pcmcia

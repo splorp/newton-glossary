@@ -1,0 +1,11 @@
+Title: Boostrap
+
+----
+
+Date: 22 April 2024
+
+----
+
+Text:
+
+See: [Bootstrapping](/terms/bootstrapping)

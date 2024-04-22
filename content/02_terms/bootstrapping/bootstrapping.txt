@@ -1,0 +1,33 @@
+Title: Bootstrapping
+
+----
+
+Date: 22 April 2024
+
+----
+
+Text:
+
+The process of installing [packages](/terms/package) on a Newton device without a serial or network connection. Usually performed using a [bootstrap card](/terms/bootstrap-card).
+
+The term “bootstrap” refers to using the straps attached to boots in order to help put them on.
+
+----
+
+Resource:
+
+- [Ron A. Parker: Y2010 Lender Card and Readme v1.01](https://www.newted.org/raparker/Y2010/readme.html)
+
+----
+
+Related:
+
+- /terms/bootstrap
+- /terms/bootstrap-card
+- /terms/package
+
+----
+
+Source:
+
+- /sources/newtontalk

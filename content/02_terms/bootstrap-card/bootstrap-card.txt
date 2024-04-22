@@ -1,0 +1,48 @@
+Title: Bootstrap Card
+
+----
+
+Date: 22 April 2024
+
+----
+
+Text:
+
+A [storage card](/terms/storage-card) that allows a user to update a Newton device with essential [packages](/terms/package), [drivers](/terms/driver), and [system patches](/terms/system-patch) without the need for a serial connection to another computer. A bootstrap card facilitates the installation of these packages by [restoring](/terms/restore) information from the card, replacing information on the destination Newton. Packages are retrieved by accessing the [InOut Box](/terms/inout-box) application located in the [Extras Drawer](/terms/extras-drawer) and then selecting [put away](/terms/put-away) using the [tag picker](/terms/tag-picker).
+
+This process is known as [bootstrapping](/terms/bootstrapping).
+
+Also referred to as a [lender card](/terms/lender-card) or [loaner card](/terms/loaner-card).
+
+----
+
+Resource:
+
+- [Ron A. Parker: Y2010 Lender Card and Readme v1.01](https://www.newted.org/raparker/Y2010/readme.html)
+
+----
+
+Related:
+
+- /terms/bootstrap
+- /terms/bootstrapping
+- /terms/card
+- /terms/external-store
+- /terms/inout-box
+- /terms/lender-card
+- /terms/loaner-card
+- /terms/package
+- /terms/pc-card
+- /terms/pcmcia
+- /terms/put-away
+- /terms/restore
+- /terms/slot
+- /terms/slot-jam
+- /terms/storage-card
+- /terms/store
+
+----
+
+Source:
+
+- /sources/newtontalk
