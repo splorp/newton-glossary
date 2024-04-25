@@ -20,11 +20,14 @@ Colloquially known as the [lightbulb icon](/terms/lightbulb-icon) or the [someth
 
 Related:
 
+- /terms/blinking-star
 - /terms/cursor
 - /terms/icon
 - /terms/lightbulb-icon
 - /terms/lightbulb-noodles
 - /terms/somethings-happening-icon
+- /terms/status-slip
+- /terms/user-interface
 
 ----
 

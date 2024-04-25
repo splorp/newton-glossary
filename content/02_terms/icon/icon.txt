@@ -14,6 +14,8 @@ A symbol that graphically represents an object or a concept. For example, icons 
 
 Related:
 
+- /terms/blinking-star
+- /terms/busy-cursor
 - /terms/button
 - /terms/button-bar
 - /terms/hard-button

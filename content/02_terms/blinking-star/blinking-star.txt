@@ -17,9 +17,8 @@ The blinking star will also appear if a [status slip](/terms/status-slip) is hid
 Related:
 
 - /terms/blinking-line
+- /terms/busy-cursor
 - /terms/icon
-- /terms/inout-box
-- /terms/recently-written-words
 - /terms/star
 - /terms/status-slip
 - /terms/user-interface
@@ -29,3 +28,4 @@ Related:
 Source:
 
 - /sources/messagepad-2000-user-manual
+- /sources/newton-user-interface-guidelines

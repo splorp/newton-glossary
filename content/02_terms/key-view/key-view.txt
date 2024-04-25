@@ -19,6 +19,7 @@ Related:
 - /terms/caret
 - /terms/child-view
 - /terms/container-view
+- /terms/cursor
 - /terms/default-action
 - /terms/floating-container-view
 - /terms/keyboard
