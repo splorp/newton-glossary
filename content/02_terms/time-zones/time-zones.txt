@@ -14,7 +14,11 @@ An [application](/terms/application) used for setting the user’s current locat
 
 Related:
 
+- /terms/analog-clock-button
 - /terms/area-51
 - /terms/away-city
+- /terms/clock
+- /terms/dotclock
 - /terms/emporium
 - /terms/home-city
+- /terms/time-date

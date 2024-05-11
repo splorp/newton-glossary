@@ -17,10 +17,13 @@ An onscreen [keyboard](/terms/keyboard) that appears when the [keyboard button](
 Related:
 
 - /terms/analog-clock-button
+- /terms/clock
+- /terms/dotclock
 - /terms/keyboard
 - /terms/keyboard-button
 - /terms/numeric
 - /terms/phone
+- /terms/time-zones
 - /terms/typewriter
 
 ----
