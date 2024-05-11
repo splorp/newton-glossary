@@ -14,7 +14,7 @@ An [application](/terms/application) used for setting the user’s current locat
 
 Related:
 
-- /terms/away-city
 - /terms/area-51
+- /terms/away-city
 - /terms/emporium
 - /terms/home-city
