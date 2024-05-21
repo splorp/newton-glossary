@@ -33,6 +33,8 @@ Related:
 - /terms/macintosh-common-lisp
 - /terms/ralph
 - /terms/runt
+- /terms/undo-overview
+- /terms/wilma
 
 ----
 

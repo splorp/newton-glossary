@@ -1,0 +1,18 @@
+Title: Matthias Melcher
+
+----
+
+Date: 20 May 2024
+
+----
+
+Text: A software developer and hardware hacker based in Germany, Melcher’s interests range from robotics and electric vehicle conversion to 3D printing and microcontrollers. He is a significant contributor to the [Einstein](/terms/einstein) emulation project and the author of [UNDO](/terms/undo-overview).
+
+
+----
+
+Resource:
+
+- [Matthias Melcher Website](http://www.elektriktrick.com/)
+- [Elektriktrick Website](http://www.matthiasm.com/)
+- [GitHub: Matthias Melcher Website](https://github.com/matthiaswm)

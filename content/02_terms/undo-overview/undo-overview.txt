@@ -1,0 +1,36 @@
+Title: UNDO
+
+----
+
+Date: 20 May 2024
+
+----
+
+Text:
+
+Unified Newton Development Overview
+
+A document created by [Matthias Melcher](/sources/matthias-melcher) that attempts to unify the concepts of [Newton OS](/terms/newton-os) development, including data creation, data synchronization, and data exchange across modern computing platforms.
+
+----
+
+Resource:
+
+- [Matthias Melcher: UNDO: Unified Newton Development Overview](https://docs.google.com/document/d/1hvTmWsSLyRBn27Xtq1lqhPiW0xJTnElVxh7DkVHf0IA/)
+
+----
+
+Related:
+
+- /terms/einstein
+- /terms/lantern
+- /terms/leibniz
+- /terms/newton-toolkit
+- /terms/newtonscript
+- /terms/wilma
+
+----
+
+Source:
+
+- /sources/matthias-melcher
