@@ -19,6 +19,7 @@ WILMA is also an acronym for the phrase “Will It Live (on my) Machine Also”.
 Resource:
 
 - [Matthias Melcher: UNDO: Unified Newton Development Overview](https://docs.google.com/document/d/1hvTmWsSLyRBn27Xtq1lqhPiW0xJTnElVxh7DkVHf0IA/)
+- [NewtonTalk: UNDO: Unified Newton Development Overview](https://newtontalk.net/archive/newtontalk/2020-March/018309.html)
 
 ----
 
