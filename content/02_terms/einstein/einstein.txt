@@ -26,7 +26,7 @@ Related:
 - /terms/green
 - /terms/leibniz
 - /terms/unarmed
-- /terms/undo-documentation
+- /terms/undo-overview
 - /terms/wilma
 
 ----

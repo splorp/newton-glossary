@@ -15,7 +15,7 @@ An [eMate 300](/terms/emate-300) that uses a windup generator as a power source 
 Resource:
 
 - [ABC News: A World Run on Windup](https://web.archive.org/web/20001202090500/http://abcnews.go.com/sections/tech/CuttingEdge/cuttingedge990107.html)
-- [NewtonTalk: Clockwork eMate](http://newtontalk.net/archive/newtontalk/2014-December/050959.html)
+- [NewtonTalk: Clockwork eMate](https://newtontalk.net/archive/newtontalk/2014-December/050959.html)
 - [The Register: Clockwork computer power planned for next year](https://www.theregister.com/1999/03/15/clockwork_computer_power_planned/)
 - [Windup Radio: Windup technology powers Apple eMate 300 Educational Computer](https://web.archive.org/web/19991117231229/http://windupradio.com/apple.htm)
 
