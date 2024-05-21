@@ -32,6 +32,7 @@ Related:
 - /terms/leibniz
 - /terms/lisp
 - /terms/littlelisp
+- /terms/macintosh-programmers-workshop
 - /terms/mcl
 - /terms/newton-toolkit
 - /terms/newtonscript

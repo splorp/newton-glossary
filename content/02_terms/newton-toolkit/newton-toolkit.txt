@@ -38,6 +38,7 @@ Related:
 - /terms/inspector
 - /terms/layout-file
 - /terms/macintosh-common-lisp
+- /terms/macintosh-programmers-workshop
 - /terms/minspector
 - /terms/newtapp
 - /terms/newtdevenv

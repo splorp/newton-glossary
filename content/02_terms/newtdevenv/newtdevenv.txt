@@ -23,6 +23,7 @@ Resource:
 Related:
 
 - /terms/nde
+- /terms/macintosh-programmers-workshop
 - /terms/newt
 - /terms/newtapp
 - /terms/newton-c-toolbox
