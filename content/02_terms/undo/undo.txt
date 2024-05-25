@@ -10,7 +10,7 @@ Text:
 
 A system wide feature built into [Newton OS](/terms/newton-os) for cancelling the last action performed by a user. In most situations, [tapping](/terms/tapping) the Undo [icon](/terms/icon) in the [button bar](/terms/button-bar) will revert the most recent action, such as entering text or erasing a [sketch](/terms/sketch).
 
-Tapping the Undo icon multiple times behaves differently depending on which version of Newton OS your device is running. On Newton 1.0 devices, tapping the Undo icon a second time will undo the second most recent action. On Newton OS 2.0 devices, tapping the Undo icon again will [redo](/icon/redo) the original action.
+Tapping the Undo icon repeatedly produces different behaviour depending on which version of Newton OS your device is running. On Newton 1.0 devices, tapping the Undo icon a second time will undo the second most recent action. On Newton OS 2.0 devices, tapping the Undo icon again will [redo](/terms/redo) the original action.
 
 ----
 
