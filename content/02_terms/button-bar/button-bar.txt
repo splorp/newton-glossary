@@ -28,6 +28,7 @@ Related:
 - /terms/hard-button
 - /terms/icon
 - /terms/killbb
+- /terms/redo
 - /terms/ryo
 - /terms/separator-bar
 - /terms/silk-button
