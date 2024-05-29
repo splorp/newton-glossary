@@ -25,6 +25,7 @@ Resource:
 
 Related:
 
+- /terms/amiganpi
 - /terms/newten
 - /terms/newton-connection
 - /terms/newton-connection-kit

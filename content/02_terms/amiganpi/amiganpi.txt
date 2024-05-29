@@ -1,0 +1,37 @@
+Title: AmigaNPI
+
+----
+
+Date: 28 May 2024
+
+----
+
+Text:
+
+Software developed by Dr David Fong that allows the user to install [packages](/terms/package) on a Newton device using a computer running Amiga OS without the need of a Mac OS emulator.
+
+----
+
+Resource:
+
+- [Aminet: AmigaNPI](http://aminet.net/package/misc/emu/AmigaNPI)
+
+----
+
+Related:
+
+- /terms/newten
+- /terms/newton-backup-express
+- /terms/newton-backup-utility
+- /terms/newton-connection
+- /terms/newton-connection-kit
+- /terms/newton-connection-utilities
+- /terms/newton-package-installer
+- /terms/package-installer
+- /terms/unixnpi
+
+----
+
+Source:
+
+- /sources/aminet

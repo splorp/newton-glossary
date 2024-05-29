@@ -16,6 +16,7 @@ Also referred to as [NPI](/terms/npi).
 
 Related:
 
+- /terms/amiganpi
 - /terms/newten
 - /terms/newton-backup-express
 - /terms/newton-backup-utility

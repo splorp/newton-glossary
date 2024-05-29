@@ -1,0 +1,17 @@
+Title: Aminet
+
+----
+
+Date: 28 May 2024
+
+----
+
+Text:
+
+Founded in 1992, Aminet is an interconnected collection of volunteer run servers that host software and other information related to the Amiga computing platform.
+
+----
+
+Resource:
+
+- [Aminet Website](https://aminet.net/)

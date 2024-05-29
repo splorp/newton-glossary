@@ -24,6 +24,7 @@ Resource:
 
 Related:
 
+- /terms/amiganpi
 - /terms/nck
 - /terms/newten
 - /terms/newton-backup-express

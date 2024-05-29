@@ -18,6 +18,7 @@ Also referred to as [NCU](/terms/ncu).
 
 Related:
 
+- /terms/amiganpi
 - /terms/gyro
 - /terms/nbk
 - /terms/ncu

@@ -30,6 +30,7 @@ Resource:
 
 Related:
 
+- /terms/amiganpi
 - /terms/backup
 - /terms/backup-file
 - /terms/nbk
