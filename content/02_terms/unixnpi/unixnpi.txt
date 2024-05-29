@@ -27,6 +27,8 @@ Related:
 
 - /terms/amiganpi
 - /terms/newten
+- /terms/newton-backup-express
+- /terms/newton-backup-utility
 - /terms/newton-connection
 - /terms/newton-connection-kit
 - /terms/newton-connection-utilities
