@@ -16,6 +16,7 @@ Related:
 
 - /terms/beam
 - /terms/beam-window
+- /terms/burrito-beamer
 - /terms/endpoint
 - /terms/infrared
 - /terms/infrared-window

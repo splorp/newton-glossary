@@ -1,0 +1,27 @@
+Title: Burrito Beamer
+
+----
+
+Date: 30 May 2024
+
+----
+
+Text:
+
+An [application](/terms/application) created by [Flash Sheridan](http://flash-sheridan.name/) which facilitated ordering custom burritos from [La Costena](https://web.archive.org/web/19981206120424/http://www.costena.com/) located in Mountain View, California. The user would specify various options for their burrito using a [Newton OS](/terms/newton-os) device and then [beam](/terms/beam), email, or fax the order to the restaurant.
+
+Burrito Beamer was reverse engineered from the original “burrito” PostScript program written by Ross Thompson of Adobe Systems.
+
+----
+
+Resource:
+
+- [UNNA: Burrito Beamer](http://www.unna.org/view.php?/utilites/beaming/BurritoBeamer)
+- [Steve's Tech Talk: I’m Old, Part XVII: Burritos and Acrobat](https://web.archive.org/web/20210613170039/http://plinth.org/techtalk?p=81)
+- [Curtis Jackson: Ordering burritos from my SPARC](https://web.archive.org/web/20230203144713/http://www.mit.edu/afs.new/sipb/user/marthag/postscript/burritos)
+
+----
+
+Related:
+
+- /terms/beaming
