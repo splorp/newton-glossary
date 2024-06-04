@@ -26,6 +26,7 @@ Related:
 - /terms/apple-mobile-message-system
 - /terms/apple-notification-service
 - /terms/ardis
+- /terms/ardis-personal-messaging
 - /terms/awms
 - /terms/beeper-number
 - /terms/message-module

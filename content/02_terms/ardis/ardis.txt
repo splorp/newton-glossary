@@ -17,6 +17,7 @@ A defunct wireless data network based in the United States developed by [Motorol
 Resource:
 
 - [Signal Harbor: Advanced Radio Data Information Service](http://www.signalharbor.com/ardis.html)
+- [Press Release: ARDIS Announces Wireless E-mail Software for Apple MessagePad 130](https://web.archive.org/web/19980113074648/http://www.ardis.com/motr2.html)
 - [ARDIS Website](https://web.archive.org/web/19990429042153/http://www.ardis.com/)
 
 ----
@@ -26,11 +27,6 @@ Related:
 - /terms/apple-mobile-message-system
 - /terms/apple-notification-service
 - /terms/apple-wireless-messaging-service
+- /terms/ardis-personal-messaging
 - /terms/marco
 - /terms/swims
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

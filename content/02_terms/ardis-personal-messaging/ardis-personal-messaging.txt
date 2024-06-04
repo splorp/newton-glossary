@@ -1,0 +1,30 @@
+Title: ARDIS Personal Messaging
+
+----
+
+Date: 04 June 2024
+
+----
+
+Text:
+
+A service based on the [ARDIS](/terms/ardis) wireless data network that provided peer-to-peer messaging, fax services, notifications, and dialup connectivity.
+
+Also referred to as [ARDIS PM](/terms/ardis-pm) in the [Newton Technology Journal](/terms/newton-technology-journal).
+
+----
+
+Resource:
+
+- [Press Release: ARDIS Announces Wireless E-mail Software for Apple MessagePad 130](https://web.archive.org/web/19980113074648/http://www.ardis.com/motr2.html)
+
+----
+
+Related:
+
+- /terms/ardis
+- /terms/apple-mobile-message-system
+- /terms/apple-notification-service
+- /terms/apple-wireless-messaging-service
+- /terms/marco
+- /terms/swims

@@ -28,6 +28,7 @@ Related:
 - /terms/apple-notification-service
 - /terms/apple-wireless-messaging-service
 - /terms/ardis
+- /terms/ardis-personal-messaging
 - /terms/message-module
 - /terms/newscard
 - /terms/newton-messaging-card
