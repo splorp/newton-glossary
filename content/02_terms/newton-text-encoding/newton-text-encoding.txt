@@ -8,7 +8,7 @@ Date: 04 February 2024
 
 Text:
 
-Software developed by [Makoto “Gnue” Nukui](/sources/gnue) to translate between Unicode and other text encoding schemes used by various languages and computer platforms.
+Software developed by [Makoto “Gnue” Nukui](/sources/gnue) to translate between Unicode and other text encoding schemes used by various languages and computing platforms.
 
 [Newton OS](/terms/newton-os) stores text as UTF-16 (16-bit Unicode Transformation Format) which may need to be translated to another encoding scheme in order for the text to be exchanged with other systems.
 

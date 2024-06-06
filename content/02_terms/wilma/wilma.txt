@@ -28,6 +28,8 @@ Related:
 - /terms/einstein
 - /terms/lantern
 - /terms/leibniz
+- /terms/newt0
+- /terms/newt64
 - /terms/newton-toolkit
 - /terms/newtonscript
 - /terms/undo-overview
