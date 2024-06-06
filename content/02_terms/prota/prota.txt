@@ -20,7 +20,10 @@ Resource:
 
 Related:
 
+- /terms/newt0
+- /terms/newt64
 - /terms/newtonscript
+- /terms/nsm
 - /terms/proto
 - /terms/script
 - /terms/wallyscript

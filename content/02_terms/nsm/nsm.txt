@@ -22,6 +22,9 @@ Related:
 
 - /terms/bytecode
 - /terms/newtonscript
+- /terms/newt0
+- /terms/newt64
+- /terms/prota
 - /terms/waba
 
 ----

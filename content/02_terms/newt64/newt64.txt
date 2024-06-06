@@ -1,0 +1,32 @@
+Title: NEWT/64
+
+----
+
+Date: 05 June 2024
+
+----
+
+Text:
+
+A prototype-oriented [NewtonScript](/terms/newtonscript) interpreter and compiler designed to run on 64-bit processors.
+
+NEWT/64 was developed by [Matthias Melcher](/sources/matthias-melcher) and is based on the [Newt/0](/terms/newt0) code originally released by [Makoto “gnue” Nukui](/sources/gnue)..
+
+----
+
+Resource:
+
+- [GitHub: NEWT/64](https://github.com/MatthiasWM/NEWT64)
+- [NewtonTalk: Newt/64 and NewtonScript internals](http://newtontalk.net/archive/newtontalk/2020-June/018815.html)
+
+
+----
+
+Related:
+
+- /terms/newt0
+- /terms/newtonscript
+- /terms/nsm
+- /terms/prota
+- /terms/undo-overview
+- /terms/wilma
