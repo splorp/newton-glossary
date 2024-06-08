@@ -27,6 +27,7 @@ Related:
 - /terms/ryo
 - /terms/soft-button
 - /terms/user-interface
+- /terms/vitamin-a
 
 ----
 

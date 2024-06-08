@@ -35,6 +35,7 @@ Related:
 - /terms/soft-button
 - /terms/status-bar
 - /terms/user-interface
+- /terms/vitamin-a
 
 ----
 

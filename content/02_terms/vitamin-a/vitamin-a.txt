@@ -1,0 +1,41 @@
+Title: Vitamin A
+
+----
+
+Date: 08 June 2024
+
+----
+
+Text:
+
+A [user interface](/terms/user-interface) enhancement [package](/terms/package) developed by [Stand Alone](https://standalone.com/) and published by [Power Media](/sources/power-media) that facilitates the creation of custom menus providing quick access to various user-defined actions. A menu can be assigned to each corner of the [screen](/terms/screen), the areas below each of the [soft buttons](/terms/soft-button) in the [button bar](/terms/button-bar) the bottom of the screen, or [caret picker](/terms/caret-picker).
+
+<img src="/assets/images/vitamin-a-2x.gif" alt="Screenshot of the Vitamin A menu builder" width="242" />
+
+----
+
+Resource:
+
+- [Power Media: Vitamin A](https://web.archive.org/web/20040516232559/http://www.powermedia.com/newton/APPLICATIONS/VITA/VITA.HTML)
+- [UNNA: Vitamin A](http://www.unna.org/unna/utilites/menus/VitaminA/)
+
+----
+
+Related:
+
+- /terms/barkeep
+- /terms/button
+- /terms/button-bar
+- /terms/caret
+- /terms/caret-picker
+- /terms/dash-board
+- /terms/killbb
+- /terms/ryo
+- /terms/soft-button
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/power-media
