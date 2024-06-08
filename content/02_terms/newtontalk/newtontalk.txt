@@ -29,7 +29,7 @@ Resource:
 
 Related:
 
-- /terms/actfaq
+- /terms/newtledge
 - /terms/newtontalking
 - /terms/ntlk
 - /terms/planet-newton

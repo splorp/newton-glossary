@@ -22,6 +22,8 @@ Related:
 
 - /terms/actfaq
 - /terms/faq
+- /terms/newtontalk
+- /terms/newtontalking
 - /terms/rtfm
 - /terms/wikiwikinewt
 

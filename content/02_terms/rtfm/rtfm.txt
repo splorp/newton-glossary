@@ -25,3 +25,4 @@ Related:
 - /terms/actfaq
 - /terms/faq
 - /terms/newtledge
+- /terms/newtontalking
