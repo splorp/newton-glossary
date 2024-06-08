@@ -23,6 +23,7 @@ Related:
 - /terms/actfaq
 - /terms/faq
 - /terms/rtfm
+- /terms/wikiwikinewt
 
 ----
 
