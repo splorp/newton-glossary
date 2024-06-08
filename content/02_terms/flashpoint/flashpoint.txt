@@ -10,6 +10,8 @@ Text:
 
 An [application](/terms/application) created by [Eckhart Köppen](/sources/eckhart-koppen) that facilitates the organization of projects, subprojects, and associated actions or tasks based on the [Getting Things Done](/terms/getting-things-done) productivity system. Whereas Köppen’s [Nitch](/terms/nitch) makes use of the built-in [Notepad](/terms/notepad) to provide similar functionality, Flashpoint is a self-contained application.
 
+<img src="/assets/images/flashpoint-2x.gif" alt="Screenshot of the Project Structure view in the Flashpoint application" width="322" />
+
 ----
 
 Resource:
