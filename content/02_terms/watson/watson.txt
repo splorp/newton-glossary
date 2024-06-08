@@ -26,6 +26,7 @@ Related:
 
 - /terms/clone
 - /terms/cradle
+- /terms/watsonenabler
 
 ----
 

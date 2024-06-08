@@ -1,0 +1,35 @@
+Title: WatsonEnabler
+
+----
+
+Date: 08 June 2024
+
+----
+
+Text:
+
+A tool based on the Desktop Connection Library or [DCL](/terms/dcl), which appends the appropriate [application signature](/terms/application-signature) required to install [packages](/terms/package) on a [Watson](/terms/watson) device. The Watson was a [Newton OS](/terms/newton-os) device based on the [MessagePad 2000](/terms/messagepad-2000) platform with a custom French language [ROM](/terms/rom).
+
+----
+
+Resource:
+
+- [NewtonTalk: [ANN] New DCL tools: WatsonEnabler & Rex](http://newtontalk.net/archive/newtontalk/2020-July/057756.html)
+- [My Apple Newton: Schlumberger Watson: The Newton I Forgot](http://myapplenewton.blogspot.ca/2010/05/schlumberger-watson-newton-i-forgot.html)
+- [Sylvain Pilet: Mon cher Watson, quel est votre secret?](http://message-pad.net/mon-cher-watson-quel-est-votre-secret/)
+- [Newton Inc.: Newton OS Computers from Licensees](https://web.archive.org/web/19980204042814/http://www.newton.apple.com/product_info/devices/devices.html)
+
+----
+
+Related:
+
+- /terms/application-signature
+- /terms/clone
+- /terms/dcl
+- /terms/watson
+
+----
+
+Source:
+
+- /sources/paul-guyot

@@ -16,8 +16,9 @@ A multi-platform communication framework created by [Paul Guyot](/sources/paul-g
 
 Resource:
 
-- [Kallisys: DCL](http://www.kallisys.com/files/newton/DCL/)
+- [GitHub: DCL](https://github.com/pguyot/DCL)
 - [SourceForge: DCL](http://sourceforge.net/projects/newton-dcl)
+- [Kallisys: DCL](http://www.kallisys.com/files/newton/DCL/)
 - [Kallisys: Desktop Connection Library](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
 
 ----
@@ -33,6 +34,7 @@ Related:
 - /terms/nwt
 - /terms/protocol
 - /terms/rdcl
+- /terms/watsonenabler
 
 ----
 
