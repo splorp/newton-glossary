@@ -22,7 +22,6 @@ Related:
 - /terms/picture-button
 - /terms/picture-radio-button
 - /terms/script-icon
-- /terms/silk-button
 - /terms/silkscreen-button
 - /terms/snowflake
 - /terms/soft-button

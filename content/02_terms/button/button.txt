@@ -42,7 +42,6 @@ Related:
 - /terms/scroll-arrows
 - /terms/scroller
 - /terms/show-button
-- /terms/silk-button
 - /terms/silkscreen-button
 - /terms/snooze-button
 - /terms/soft-button

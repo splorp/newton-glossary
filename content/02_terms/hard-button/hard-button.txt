@@ -23,7 +23,6 @@ Related:
 - /terms/ryo
 - /terms/scroll-arrows
 - /terms/silk
-- /terms/silk-button
 - /terms/silkscreen-button
 - /terms/soft-button
 - /terms/universal-scroll-arrows
