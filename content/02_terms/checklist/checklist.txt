@@ -15,7 +15,10 @@ A type of [stationery](/terms/stationery) in the [Notepad](/terms/notepad) appli
 Related:
 
 - /terms/checkbox
+- /terms/flashpoint
+- /terms/getting-things-done
 - /terms/newttodo
+- /terms/nitch
 - /terms/note
 - /terms/notepad
 - /terms/notion

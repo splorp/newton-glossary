@@ -26,6 +26,7 @@ Related:
 - /terms/hideeworld
 - /terms/name-file
 - /terms/newton-works
+- /terms/nitch
 - /terms/note
 - /terms/notepad
 - /terms/outline

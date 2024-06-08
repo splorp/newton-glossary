@@ -1,0 +1,37 @@
+Title: Nitch
+
+----
+
+Date: 08 June 2024
+
+----
+
+Text:
+
+An [application](/terms/application) created by [Eckhart Köppen](/sources/eckhart-koppen) that facilitates the organization of goals and the selection of next actions or tasks base on the [Getting Things Done](/terms/getting-things-done) productivity system. Whereas Köppen’s [Flashpoint](/terms/flashpoint) is a self-contained application that provides similar functionality, Nitch makes use of the built-in [Notepad](/terms/notepad), offering a custom view of goals and their associated actions using custom [stationery](/terms/stationery).
+
+----
+
+Resource:
+
+- [40Hz: Nitch Product Information](https://40hz.org/Pages/newton/packages/nitch/)
+- [40Hz: Getting Things Done on the Newton](https://40hz.org/Pages/newton/gtd/)
+
+----
+
+Related:
+
+- /terms/checklist
+- /terms/flashpoint
+- /terms/getting-things-done
+- /terms/newttodo
+- /terms/notepad
+- /terms/notion
+- /terms/to-do-list
+- /terms/stationery
+
+----
+
+Source:
+
+- /sources/eckhart-koppen

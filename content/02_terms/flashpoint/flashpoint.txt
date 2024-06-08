@@ -1,0 +1,37 @@
+Title: Flashpoint
+
+----
+
+Date: 08 June 2024
+
+----
+
+Text:
+
+An [application](/terms/application) created by [Eckhart Köppen](/sources/eckhart-koppen) that facilitates the organization of projects, subprojects, and associated actions or tasks based on the [Getting Things Done](/terms/getting-things-done) productivity system. Whereas Köppen’s [Nitch](/terms/nitch) makes use of the built-in [Notepad](/terms/notepad) to provide similar functionality, Flashpoint is a self-contained application.
+
+----
+
+Resource:
+
+- [40Hz: Flashpoint Product Information](https://40hz.org/Pages/newton/packages/flashpoint/)
+- [40Hz: Getting Things Done on the Newton](https://40hz.org/Pages/newton/gtd/)
+
+----
+
+Related:
+
+- /terms/checklist
+- /terms/getting-things-done
+- /terms/newttodo
+- /terms/nitch
+- /terms/notepad
+- /terms/notion
+- /terms/stationery
+- /terms/to-do-list
+
+----
+
+Source:
+
+- /sources/eckhart-koppen

@@ -24,6 +24,9 @@ Related:
 
 - /terms/checklist
 - /terms/date-book
+- /terms/flashpoint
+- /terms/getting-things-done
+- /terms/nitch
 - /terms/notion
 - /terms/to-do-list
 
