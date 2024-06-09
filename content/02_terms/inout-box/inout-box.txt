@@ -10,18 +10,18 @@ Text:
 
 An [application](/terms/application) serving as a central repository for all incoming and outgoing data handled by the [routing](/terms/routing) and [transport](/terms/transport) interfaces. The InOut Box application is specifically part of [Newton OS](/terms/newton-os) 2.0 and later, whereas earlier versions of Newton OS utilize separate applications for the [In Box](/terms/in-box) and [Out Box](/terms/out-box).
 
-If the InOut Box application is hidden and new items are received, a [blinking star](/terms/blinking-star) icon will appear at the top of the screen. [Tapping](/terms/tapping) the [star](/terms/star) allows the user to open the InOut Box.
+If the InOut Box application is hidden and new items are received, a [notify button](/terms/notify-button) that looks like a [blinking star](/terms/blinking-star) will appear at the top of the screen. [Tapping](/terms/tapping) the [star](/terms/star) allows the user to open the InOut Box.
 
 ----
 
 Related:
 
-- /terms/blinking-star
 - /terms/enroute
 - /terms/in-box
 - /terms/mail-v
 - /terms/newtdump
 - /terms/newtonmail
+- /terms/notify-button
 - /terms/out-box
 - /terms/routing
 - /terms/simplemail

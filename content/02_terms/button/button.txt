@@ -31,6 +31,7 @@ Related:
 - /terms/large-close-box
 - /terms/local-scroll-arrows
 - /terms/new-button
+- /terms/notify-button
 - /terms/picker
 - /terms/picture-button
 - /terms/picture-radio-button
