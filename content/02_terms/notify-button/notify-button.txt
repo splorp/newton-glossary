@@ -8,7 +8,7 @@ Date: 09 June 2024
 
 Text:
 
-A small [icon](/terms/icon) in the form of a [blinking star](/terms/blinking-star) that appears at the top of the [screen](/terms/screen) to remind the user that an operation is in progress or that something needs their attention. For example, the [button](/terms/button) will appear when an unknown word has been added to the [Recently Written Words](/terms/recently-written-words) list, indicating that the user should review the list. The notify button will also appear if a [status slip](/terms/status-slip) is hidden or when new items have been received in the [InOut Box](/terms/inout-box).
+A small [icon](/terms/icon) in the form of a [blinking star](/terms/blinking-star) that appears at the top of the [screen](/terms/screen) to remind the user that an operation is in progress or that something needs their attention. For example, the notify [button](/terms/button) will appear when an unknown word has been added to the [Recently Written Words](/terms/recently-written-words) list, indicating that the user should review the list. The notify button will also appear if a [status slip](/terms/status-slip) is hidden or when new items have been received in the [InOut Box](/terms/inout-box).
 
 [Tapping](/terms/tapping) the notify button will display a [status slip](/terms/status-slip) relavant to the current operation.
 
