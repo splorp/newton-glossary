@@ -19,6 +19,8 @@ Related:
 - /terms/hot-dog-song
 - /terms/notification-alert
 - /terms/notification-slip
+- /terms/notify-button
+- /terms/notify-picker
 - /terms/poof
 - /terms/squeak
 - /terms/volume

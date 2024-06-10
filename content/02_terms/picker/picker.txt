@@ -21,6 +21,7 @@ Related:
 - /terms/info-picker
 - /terms/list
 - /terms/new-picker
+- /terms/notify-picker
 - /terms/people-picker
 - /terms/picker-list
 - /terms/please-picker

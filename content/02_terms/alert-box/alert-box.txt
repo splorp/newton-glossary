@@ -28,12 +28,14 @@ Related:
 - /terms/container-view
 - /terms/notification-alert
 - /terms/notification-slip
+- /terms/notify-button
+- /terms/notify-picker
 - /terms/snooze-button
 - /terms/snooze-picker
 - /terms/status-box
+- /terms/user-interface
 - /terms/view
 - /terms/wavy-border
-- /terms/user-interface
 
 ----
 

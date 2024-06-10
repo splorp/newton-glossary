@@ -25,6 +25,8 @@ Related:
 - /terms/confirmation-alert
 - /terms/confirmation-slip
 - /terms/notification-slip
+- /terms/notify-button
+- /terms/notify-picker
 - /terms/snooze-button
 - /terms/snooze-picker
 - /terms/status-box

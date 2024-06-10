@@ -1,0 +1,28 @@
+Title: Notify Picker
+
+----
+
+Date: 10 June 2024
+
+----
+
+Text:
+
+A list of ongoing [actions](/terms/action) and deferred notification alerts that appears when a user [taps](/terms/tap) the [notify button](/terms/notify-button). Selecting an item in the [picker](/terms/picker) displays a [status slip](/terms/status-slip) corresponding to that item. Once an item is chosen from the picker, it is removed from the list.
+
+----
+
+Related:
+
+- /terms/action
+- /terms/alert-box
+- /terms/notify-button
+- /terms/slip
+- /terms/status-slip
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

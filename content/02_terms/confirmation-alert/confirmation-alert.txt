@@ -25,6 +25,8 @@ Related:
 - /terms/confirmation-slip
 - /terms/notification-alert
 - /terms/notification-slip
+- /terms/notify-button
+- /terms/notify-picker
 - /terms/status-box
 - /terms/status-slip
 - /terms/user-interface

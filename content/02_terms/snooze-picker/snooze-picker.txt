@@ -21,6 +21,8 @@ Related:
 - /terms/button
 - /terms/notification-alert
 - /terms/notification-slip
+- /terms/notify-button
+- /terms/notify-picker
 - /terms/snooze-button
 - /terms/user-interface
 
