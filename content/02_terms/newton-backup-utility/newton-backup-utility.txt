@@ -24,6 +24,7 @@ Related:
 - /terms/newton-backup-express
 - /terms/newton-connection
 - /terms/newton-connection-kit
+- /terms/newton-connection-pro-kit
 - /terms/newton-connection-utilities
 - /terms/restore
 

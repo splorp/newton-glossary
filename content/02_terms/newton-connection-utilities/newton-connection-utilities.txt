@@ -27,6 +27,7 @@ Related:
 - /terms/newton-backup-utility
 - /terms/newton-connection
 - /terms/newton-connection-kit
+- /terms/newton-connection-pro-kit
 - /terms/newton-package-installer
 - /terms/package-installer
 - /terms/synchronize

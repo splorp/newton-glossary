@@ -22,6 +22,7 @@ Related:
 - /terms/enroute
 - /terms/newton-connection
 - /terms/newton-connection-kit
+- /terms/newton-connection-pro-kit
 - /terms/nsof
 - /terms/rdcl
 - /terms/simplemail

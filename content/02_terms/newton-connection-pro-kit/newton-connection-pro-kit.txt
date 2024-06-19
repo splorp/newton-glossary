@@ -1,0 +1,47 @@
+Title: Newton Connection Pro Kit
+
+----
+
+Date: 19 June 2024
+
+----
+
+Text:
+
+A short lived version of the [Newton Connection Kit](/terms/newton-connection-kit) product developed by [Apple](https://www.apple.com/) for connecting Newton devices to Mac OS and Windows computers.
+
+Whereas the original Newton Connection Kit was designed to simply backup data and install software [packages](/terms/package), the Newton Connection Pro Kit also provided support for data import and export. The two products were later combined into a single kit to eliminate confusion.
+
+----
+
+Resource:
+
+- [Apple Support: Newton Connection Kit 1.0 Description](https://web.archive.org/web/20011225150225/http://karchive.info.apple.com/article.html?artnum=12776)
+- [Apple Support: Newton Connection Kit 2.0 Description](https://web.archive.org/web/20011226141458/http://karchive.info.apple.com/article.html?artnum=14871)
+- [The Newted Community: Newton Connection Kit for Windows User’s Guide](http://www.newted.org/download/manuals/0305277ANCNCTKITWINUG.PDF)
+- [The Newted Community: Newton Connection 2.0 Update](http://www.newted.org/download/manuals/0305272ANCNCT2UD.PDF)
+- [TidBITS: Connection Kits Combined](https://tidbits.com/1993/09/20/connection-kits-combined/)
+
+----
+
+Related:
+
+- /terms/amiganpi
+- /terms/newten
+- /terms/newton-backup-express
+- /terms/newton-backup-utility
+- /terms/newton-connection
+- /terms/newton-connection-kit
+- /terms/newton-connection-utilities
+- /terms/newton-package-installer
+- /terms/package-installer
+- /terms/synchronize
+- /terms/unixnpi
+- /terms/workfile
+
+----
+
+Source:
+
+- /sources/newton-connection-kit
+- /sources/tidbits

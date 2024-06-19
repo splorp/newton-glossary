@@ -16,6 +16,7 @@ Related:
 
 - /terms/newton-connection
 - /terms/newton-connection-kit
+- /terms/newton-connection-pro-kit
 - /terms/nwt
 - /terms/synchronize
 
