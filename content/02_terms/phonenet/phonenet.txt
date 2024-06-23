@@ -1,0 +1,37 @@
+Title: PhoneNET
+
+----
+
+Date: 23 June 2024
+
+----
+
+Text:
+
+An implementation of [AppleTalk](/terms/appletalk) networking developed by Farallon Communications. PhoneNET used [Mini-DIN](/terms/mini-din) connectors to connect to [LocalTalk](/terms/localtalk) ports found on printers and Mac OS computers combined with standard [RJ-11](/terms/rj-11) jacks and four-conductor telephone wire, enabling it share the same cable used by existing telephone wiring.
+
+----
+
+Resource:
+
+- [Farallon Communications: PhoneNET LocalTalk Solutions](https://web.archive.org/web/19990225162026/http://www.farallon.com/products/localtalk/)
+- [Farallon PhoneNET User’s Guide](https://archive.org/details/1987-farallon-phonenet)
+
+----
+
+Related:
+
+- /terms/appletalk
+- /terms/ethernet
+- /terms/infrared-appletalk
+- /terms/local-area-network
+- /terms/localtalk
+- /terms/mini-din
+- /terms/rj-11
+- /terms/wireless-appletalk
+
+----
+
+Source:
+
+- /sources/wikipedia

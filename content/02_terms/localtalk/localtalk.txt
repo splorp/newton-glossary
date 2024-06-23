@@ -18,6 +18,7 @@ Related:
 - /terms/ethernet
 - /terms/ethertalk
 - /terms/local-area-network
+- /terms/phonenet
 - /terms/protocol
 
 ----

@@ -26,6 +26,7 @@ Related:
 - /terms/infrared
 - /terms/local-area-network
 - /terms/localtalk
+- /terms/phonenet
 - /terms/wireless-appletalk
 
 ----

@@ -24,6 +24,7 @@ Related:
 - /terms/ethernet
 - /terms/local-area-network
 - /terms/localtalk
+- /terms/phonenet
 - /terms/protocol
 - /terms/rj-45
 

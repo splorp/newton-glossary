@@ -19,6 +19,7 @@ Related:
 - /terms/ethertalk
 - /terms/lan
 - /terms/localtalk
+- /terms/phonenet
 - /terms/protocol
 - /terms/rj-45
 
