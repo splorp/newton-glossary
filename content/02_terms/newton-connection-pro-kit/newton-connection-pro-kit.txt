@@ -8,9 +8,9 @@ Date: 19 June 2024
 
 Text:
 
-A short lived version of the [Newton Connection Kit](/terms/newton-connection-kit) product developed by [Apple](https://www.apple.com/) for connecting Newton devices to Mac OS and Windows computers.
+A short lived version of the [Newton Connection Kit](/terms/newton-connection-kit) developed by [Apple](https://www.apple.com/) for connecting Newton devices to Mac OS and Windows computers.
 
-Whereas the original Newton Connection Kit was designed to simply backup data and install software [packages](/terms/package), the Newton Connection Pro Kit also provided support for data import and export. The two products were later combined into a single kit to eliminate confusion.
+Whereas the original Newton Connection Kit was designed to simply backup data and install software [packages](/terms/package), the Newton Connection Pro Kit also provided support for data import and export. The two products were later combined into a single kit to eliminate some confusion.
 
 ----
 
