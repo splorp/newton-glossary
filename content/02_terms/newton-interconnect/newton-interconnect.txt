@@ -25,6 +25,7 @@ Related:
 
 - /terms/appletalk
 - /terms/auto-dock
+- /terms/communication-port
 - /terms/dongle
 - /terms/dongle-destroyer
 - /terms/ftdi

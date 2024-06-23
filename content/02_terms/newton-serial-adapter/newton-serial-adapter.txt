@@ -16,6 +16,7 @@ Colloquially referred to as a [dongle](/terms/dongle).
 
 Related:
 
+- /terms/communication-port
 - /terms/din
 - /terms/dongle
 - /terms/dongle-destroyer

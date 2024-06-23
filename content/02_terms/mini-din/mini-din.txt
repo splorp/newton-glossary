@@ -14,6 +14,7 @@ A standard [DIN](/terms/din) type of connector, generally used to connect periph
 
 Related:
 
+- /terms/communication-port
 - /terms/din
 - /terms/din-8
 - /terms/dongle

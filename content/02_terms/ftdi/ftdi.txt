@@ -25,6 +25,7 @@ Resource:
 
 Related:
 
+- /terms/communication-port
 - /terms/ftdi-chip
 - /terms/geoport
 - /terms/newton-interconnect

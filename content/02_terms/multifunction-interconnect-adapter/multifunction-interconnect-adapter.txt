@@ -21,6 +21,7 @@ Resource:
 Related:
 
 - /terms/appletalk
+- /terms/communication-port
 - /terms/dongle
 - /terms/dongle-destroyer
 - /terms/newton-interconnect

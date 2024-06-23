@@ -20,6 +20,7 @@ Resource:
 
 Related:
 
+- /terms/communication-port
 - /terms/rs-232
 - /terms/rs-422
 
