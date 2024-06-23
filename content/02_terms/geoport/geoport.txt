@@ -20,7 +20,10 @@ Resource:
 
 Related:
 
+- /terms/appletalk
 - /terms/communication-port
+- /terms/din
+- /terms/mini-din
 - /terms/rs-232
 - /terms/rs-422
 

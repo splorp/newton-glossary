@@ -14,7 +14,9 @@ A standard for serial communication between computers and peripheral devices tha
 
 Related:
 
+- /terms/appletalk
 - /terms/communication-port
+- /terms/din
 - /terms/ftdi
 - /terms/geoport
 - /terms/mini-din
