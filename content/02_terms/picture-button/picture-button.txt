@@ -10,6 +10,8 @@ Text:
 
 A control that when [tapped](/terms/tapped) by the user, performs or confirms the action implied by the [icon](/terms/icon) displayed on the [button](/terms/button).
 
+For example, [tapping](/terms/tapping) the small picture button in the top left corner of a [note](/terms/note) will open an [item info slip](/terms/item-info-slip), containing the title of the note, and date and time the note was created, the amount of space the note uses, and where the note is [stored](/terms/store).
+
 ----
 
 Related:
@@ -24,3 +26,4 @@ Related:
 Source:
 
 - /sources/newton-user-interface-guidelines
+- /sources/messagepad-handbook-1995
