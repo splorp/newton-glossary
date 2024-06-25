@@ -1,0 +1,32 @@
+Title: piMate 300
+
+----
+
+Date: 26 June 2024
+
+----
+
+Text:
+
+_“I bet I could cram a Raspberry Pi in there if I could find one.”_
+
+An intriguing (if not slightly disturbing) conversion of an [eMate 300](/terms/emate-300) into a Raspberry Pi-powered laptop computer.
+
+----
+
+Resource:
+
+- [Deninet: The piMate 300](https://deninet.com/creation/2020/12/06/pimate-300)
+
+----
+
+Related:
+
+- /terms/emate-300
+- /terms/clockwork-emate
+
+----
+
+Source:
+
+- /sources/socketwench

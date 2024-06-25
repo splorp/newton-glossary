@@ -24,6 +24,7 @@ Resource:
 Related:
 
 - /terms/emate-300
+- /terms/pimate-300
 
 ----
 

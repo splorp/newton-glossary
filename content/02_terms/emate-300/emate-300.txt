@@ -49,6 +49,7 @@ Related:
 - /terms/k-diags
 - /terms/newton-interconnect
 - /terms/newton-works
+- /terms/pimate-300
 - /terms/project-k
 - /terms/santa-fe
 - /terms/schoolbook
