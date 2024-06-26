@@ -10,7 +10,7 @@ Text:
 
 Socket Wireless Messaging Services
 
-A set of services developed by [Socket Communications](https://web.archive.org/web/19980208233349/http://www.socketcom.com/) which included voicemail, operator dispatch, an email gateway, and a modem access line for computer based messaging. SWiMS replaced the [Apple Mobile Message System](/terms/apple-mobile-message-system) and its related [Apple Notification Service](/terms/apple-notification-service).
+A set of services developed by [Socket Communications](https://web.archive.org/web/19980208233349/http://www.socketcom.com/) which included voicemail, operator dispatch, an email gateway, and a modem access line for computer-based messaging. SWiMS replaced the [Apple Mobile Message System](/terms/apple-mobile-message-system) and its related [Apple Notification Service](/terms/apple-notification-service).
 
 Also referred to as [WMS](/terms/wms).
 

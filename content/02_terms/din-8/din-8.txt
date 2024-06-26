@@ -9,9 +9,3 @@ Date:
 Text:
 
 See: [Mini-DIN](/terms/mini-din)
-
-----
-
-Source:
-
-- /sources/techencyclopedia

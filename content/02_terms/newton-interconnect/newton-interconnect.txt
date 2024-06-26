@@ -18,6 +18,7 @@ Resource:
 
 - [David Arnold: Newton Interconnect Resources](http://www.0x1.org/d/stuff/newton/interconnect/)
 - [Portable Design Magazine: PDAs: A Study in Contrasts](https://web.archive.org/web/20070207103847/http://pd.pennnet.com/Articles/Article_Display.cfm?Section=Archives&Subsection=Display&ARTICLE_ID=52439)
+- [UNNA: Newton Interconnect Port Hardware Specification for the MessagePad](http://www.unna.org/unna/development/documentation/interconnect/newton_i.pdf)
 
 ----
 
