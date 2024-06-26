@@ -22,6 +22,7 @@ Related:
 - /terms/dongle-destroyer
 - /terms/ftdi
 - /terms/geoport
+- /terms/geoport-telecom-adapter
 - /terms/mini-din
 - /terms/newton-interconnect
 - /terms/newton-serial-adapter

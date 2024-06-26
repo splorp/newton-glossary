@@ -19,6 +19,7 @@ Related:
 - /terms/communication-port
 - /terms/din
 - /terms/dongle-destroyer
+- /terms/geoport-telecom-adapter
 - /terms/mini-din
 - /terms/multifunction-interconnect-adapter
 - /terms/newton-interconnect

@@ -1,0 +1,17 @@
+Title: Low End Mac
+
+----
+
+Date: 26 June 2024
+
+----
+
+Text:
+
+Started as a hobby project by Dan Knight in April 1997, Low End Mac is an independent, user supported online resource covering almost everything related to Apple, including the Newton.
+
+----
+
+Resource:
+
+- [Low End Mac Website](https://lowendmac.com/)

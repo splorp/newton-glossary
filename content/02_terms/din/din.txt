@@ -15,6 +15,7 @@ A type of connector defined by the German standards institute, [Deutsches Instit
 Related:
 
 - /terms/din-8
+- /terms/din-9
 - /terms/mini-din
 
 ----

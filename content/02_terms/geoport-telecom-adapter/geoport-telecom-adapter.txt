@@ -1,0 +1,35 @@
+Title: GeoPort Telecom Adapter
+
+----
+
+Date: 26 June 2024
+
+----
+
+Text:
+
+A external hardware device manufactured by [Apple](https://www.apple.com/) based on the [GeoPort](/terms/geoport) serial data standard. Essentially a large [dongle](/terms/dongle), the adapter provided high speed modem, telephony, and fax functionality through software.
+
+The GeoPort Telecom Adapter was designed to work specifically with certain PowerPC-based Mac OS computers. Although the [eMate 300](/terms/emate-300) is equipped with a GeoPort connector, but it is unknown whether it is actually compatible with the adapter.
+
+----
+
+Resource:
+
+- [Low End Mac: GeoPort Guide](https://lowendmac.com/2018/low-end-macs-geoport-guide/)
+- [Higher Intellect Vintage Computing Wiki: Apple GeoPort Telecom Adapter Kit](https://wiki.preterhuman.net/Apple_GeoPort_Telecom_Adapter_Kit)
+- [Wikipedia: GeoPort](https://en.wikipedia.org/wiki/GeoPort)
+
+----
+
+Related:
+
+- /terms/communication-port
+- /terms/dongle
+- /terms/geoport
+
+----
+
+Source:
+
+- /sources/low-end-mac
