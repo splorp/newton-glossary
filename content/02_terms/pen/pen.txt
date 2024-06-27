@@ -16,9 +16,11 @@ Also referred to as a [stylus](/terms/stylus).
 
 Related:
 
+- /terms/align-pen
 - /terms/double-tap
 - /terms/double-tapping
 - /terms/pdap
+- /terms/pen-alignment
 - /terms/pen-holder
 - /terms/pen-tray
 - /terms/styli

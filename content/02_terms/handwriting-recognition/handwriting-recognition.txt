@@ -17,6 +17,7 @@ Also referred to as [text recognition](/terms/text-recognition) and [HWR](/terms
 Related:
 
 - /terms/alt-rec
+- /terms/align-pen
 - /terms/calligrapher
 - /terms/casual
 - /terms/cursive
@@ -33,6 +34,8 @@ Related:
 - /terms/letter-shapes
 - /terms/mondello
 - /terms/neuropen
+- /terms/pen-alignment
+- /terms/prefs
 - /terms/print-recognizer
 - /terms/recognized-text
 - /terms/recognizer

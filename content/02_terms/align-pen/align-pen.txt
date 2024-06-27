@@ -1,0 +1,28 @@
+Title: Align Pen
+
+----
+
+Date: 26 June 2024
+
+----
+
+Text:
+
+An option located in the [Handwriting Recognition](/terms/handwriting-recognition) section of the [Prefs](/terms/prefs) application which guides the user on how to [realign](/terms/realign) the [pen](/terms/pen) by [tapping](/terms/tapping) specific locations on the [screen](/terms/screen).
+
+----
+
+Related:
+
+- /terms/handwriting-recognition
+- /terms/pen
+- /terms/pen-alignment
+- /terms/prefs
+- /terms/tap
+- /terms/tapping
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
