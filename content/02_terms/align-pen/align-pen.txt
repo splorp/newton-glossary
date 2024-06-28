@@ -14,10 +14,12 @@ An option located in the [Handwriting Recognition](/terms/handwriting-recognitio
 
 Related:
 
+- /terms/align
 - /terms/handwriting-recognition
 - /terms/pen
 - /terms/pen-alignment
 - /terms/prefs
+- /terms/realign
 - /terms/tap
 - /terms/tapping
 

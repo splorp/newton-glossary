@@ -8,4 +8,26 @@ Date: 26 June 2024
 
 Text:
 
-See: [Realign](/terms/realign)
+To make sure that two things are in appropriate relative positions.
+
+For example, a [Mini-DIN](/term/mini-din) serial connector should match the port it is being plugged into and it should be aligned properly before attaching it to your Newton device.
+
+Also, when using the [pen](/terms/pen) on a Newton device, the [pen alignment](/terms/pen-alignment) must be accurate for [tapping](/terms/terms/tapping) the [screen](/terms/screen) and [handwriting recognition](/terms/handwriting-recognition) to operate correctly.
+
+----
+
+Related:
+
+- /terms/align-pen
+- /terms/handwriting-recognition
+- /terms/pen
+- /terms/pen-alignment
+- /terms/realign
+- /terms/tap
+- /terms/tapping
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

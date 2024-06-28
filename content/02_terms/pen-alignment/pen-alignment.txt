@@ -16,9 +16,12 @@ Also referred to as [alignment](/terms/alignment).
 
 Related:
 
+- /terms/align
 - /terms/align-pen
 - /terms/alignment
+- /terms/handwriting-recognition
 - /terms/pen
+- /terms/realign
 - /terms/tap
 - /terms/tapping
 

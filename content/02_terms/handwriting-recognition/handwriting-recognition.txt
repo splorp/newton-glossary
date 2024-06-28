@@ -21,6 +21,7 @@ Handwriting Recognition is also a section found in the [Prefs](/terms/prefs) app
 Related:
 
 - /terms/alt-rec
+- /terms/align
 - /terms/align-pen
 - /terms/calligrapher
 - /terms/casual
@@ -38,9 +39,11 @@ Related:
 - /terms/letter-shapes
 - /terms/mondello
 - /terms/neuropen
+- /terms/pen
 - /terms/pen-alignment
 - /terms/prefs
 - /terms/print-recognizer
+- /terms/realign
 - /terms/recognized-text
 - /terms/recognizer
 - /terms/rosetta
