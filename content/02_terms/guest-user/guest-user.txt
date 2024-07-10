@@ -10,7 +10,7 @@ Text:
 
 An option in the [handwriting recognition](/terms/handwriting-recognition) preferences which provides temporary settings for another user. When selected, any [preferences](/terms/preferences) changed by the guest user will not affect the preferences previously set by the [owner](/terms/owner) of the Newton device.
 
-Also referred to as [guest mode](/terms/guest-mode).
+Also referred to as [Guest Mode](/terms/guest-mode).
 
 ----
 

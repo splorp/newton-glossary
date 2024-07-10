@@ -10,7 +10,7 @@ Text:
 
 The portion of memory used by a Newton device in which programs run and any intermediate data created by those programs is stored. System memory is often confused with [system RAM](/terms/system-ram), which is the amount of physical [RAM](/terms/ram) installed in a Newton device.
 
-Also referred to as [heap space](/terms/heap-space).
+Also referred to as [Heap Space](/terms/heap-space).
 
 ----
 
