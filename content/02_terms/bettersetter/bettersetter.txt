@@ -1,0 +1,38 @@
+Title: BetterSetter
+
+----
+
+Date: 10 July 2024
+
+----
+
+Text:
+
+An [application](/terms/application) developed by [Frank Gründel](/sources/frank-grundel) that provides an alternative [user interface](/terms/user-interface) for setting the time. BetterSetter replaces the analog clock interface found in Newton OS 1.x with a more intuitive [number picker](/terms/number-picker).
+
+<img src="/assets/images/bettersetter-2x.gif" alt="Screenshot of the BetterSetter application" width="186" />
+
+----
+
+Resource:
+
+- [PDA-Soft: BetterSetter](https://www.pda-soft.de/bettersetter.html) (English)
+- [PDA-Soft: DotClock](https://www.pda-soft.de/ge_bettersetter.html) (Deutsche)
+
+----
+
+Related:
+
+- /terms/analog-clock-button
+- /terms/clock
+- /terms/dot-clock
+- /terms/number-picker
+- /terms/time-date
+- /terms/time-zones
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/frank-grundel

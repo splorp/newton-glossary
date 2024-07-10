@@ -17,6 +17,7 @@ An onscreen [keyboard](/terms/keyboard) that appears when the [keyboard button](
 Related:
 
 - /terms/analog-clock-button
+- /terms/bettersetter
 - /terms/clock
 - /terms/dotclock
 - /terms/keyboard

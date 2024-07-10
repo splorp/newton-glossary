@@ -22,6 +22,7 @@ Related:
 - /terms/list
 - /terms/new-picker
 - /terms/notify-picker
+- /terms/number-picker
 - /terms/people-picker
 - /terms/picker-list
 - /terms/please-picker

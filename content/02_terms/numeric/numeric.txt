@@ -18,6 +18,7 @@ Related:
 
 - /terms/keyboard
 - /terms/keyboard-button
+- /terms/number-picker
 - /terms/phone
 - /terms/time-date
 - /terms/typewriter

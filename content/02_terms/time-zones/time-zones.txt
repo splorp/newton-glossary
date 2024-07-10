@@ -17,6 +17,7 @@ Related:
 - /terms/analog-clock-button
 - /terms/area-51
 - /terms/away-city
+- /terms/bettersetter
 - /terms/clock
 - /terms/dotclock
 - /terms/emporium

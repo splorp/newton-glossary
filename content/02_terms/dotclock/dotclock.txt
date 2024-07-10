@@ -24,6 +24,7 @@ Resource:
 Related:
 
 - /terms/analog-clock-button
+- /terms/bettersetter
 - /terms/clock
 - /terms/time-date
 - /terms/time-zones

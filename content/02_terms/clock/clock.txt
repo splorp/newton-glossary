@@ -17,6 +17,7 @@ The built-in [application](/terms/application) that displays the current time us
 Related:
 
 - /terms/analog-clock-button
+- /terms/bettersetter
 - /terms/dotclock
 - /terms/notepad
 - /terms/time-date
