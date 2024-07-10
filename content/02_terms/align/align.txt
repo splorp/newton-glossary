@@ -10,7 +10,7 @@ Text:
 
 To make sure that two things are in appropriate relative positions.
 
-For example, a [Mini-DIN](/term/mini-din) serial connector should match the port it is being plugged into and it should be aligned properly before attaching it to your Newton device.
+For example, a connector should match the [communication port](/term/communication-port) it is being plugged into and it should be properly aligned before attaching it to your Newton device.
 
 Also, when using the [pen](/terms/pen) on a Newton device, the [pen alignment](/terms/pen-alignment) must be accurate for [tapping](/terms/terms/tapping) the [screen](/terms/screen) and [handwriting recognition](/terms/handwriting-recognition) to operate correctly.
 

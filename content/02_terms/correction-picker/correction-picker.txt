@@ -26,7 +26,9 @@ Related:
 - /terms/handwriting-recognition
 - /terms/keyboard-button
 - /terms/letter-by-letter
+- /terms/picker
 - /terms/try-letters
+- /terms/user-interface
 
 ----
 

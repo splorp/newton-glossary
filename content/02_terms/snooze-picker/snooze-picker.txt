@@ -23,6 +23,7 @@ Related:
 - /terms/notification-slip
 - /terms/notify-button
 - /terms/notify-picker
+- /terms/picker
 - /terms/snooze-button
 - /terms/user-interface
 

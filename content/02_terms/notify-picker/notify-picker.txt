@@ -17,6 +17,7 @@ Related:
 - /terms/action
 - /terms/alert-box
 - /terms/notify-button
+- /terms/picker
 - /terms/slip
 - /terms/status-slip
 - /terms/user-interface
