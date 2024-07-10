@@ -24,7 +24,9 @@ Related:
 
 - /terms/ask
 - /terms/beaming
+- /terms/diffuse-infrared
 - /terms/infrared
+- /terms/infrared-appletalk
 - /terms/irda
 - /terms/irlap
 - /terms/newtir

@@ -17,6 +17,7 @@ Related:
 - /terms/ask
 - /terms/beam-window
 - /terms/beaming
+- /terms/diffuse-infrared
 - /terms/infrared
 - /terms/irda
 - /terms/squirting

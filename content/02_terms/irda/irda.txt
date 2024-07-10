@@ -27,6 +27,7 @@ Related:
 - /terms/ask
 - /terms/backtalk
 - /terms/beaming
+- /terms/diffuse-infrared
 - /terms/fast-infrared
 - /terms/infrared
 - /terms/infrared-window

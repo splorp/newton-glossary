@@ -15,6 +15,7 @@ Providing [AppleTalk](/terms/appletalk) networking to devices over a wireless co
 Related:
 
 - /terms/appletalk
+- /terms/diffuse-appletalk
 - /terms/ethernet
 - /terms/ethertalk
 - /terms/grouper

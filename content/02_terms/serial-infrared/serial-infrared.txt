@@ -24,12 +24,14 @@ Related:
 
 - /terms/ask
 - /terms/beaming
+- /terms/diffuse-infrared
 - /terms/fast-infrared
-- /terms/slow-infrared
 - /terms/infrared
+- /terms/infrared-appletalk
 - /terms/irda
 - /terms/irlap
 - /terms/newtir
+- /terms/slow-infrared
 - /terms/squirting
 
 -----
