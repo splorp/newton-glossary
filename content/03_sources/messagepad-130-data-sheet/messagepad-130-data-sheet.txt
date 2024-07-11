@@ -1,0 +1,17 @@
+Title: MessagePad 130 Data Sheet
+
+----
+
+Date: 11 July 2024
+
+----
+
+Text:
+
+Published by [Apple](https://www.apple.com/) in February 1996, this document describes the features, technical specifications, and ordering information for the [MessagePad 130](/terms/messagepad-1300) device.
+
+----
+
+Resource:
+
+- [The Newted Community: MessagePad 130 with Newton 2.0 Operating System](http://www.newted.org/download/manuals/MessagePad_130.pdf)

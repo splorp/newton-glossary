@@ -16,6 +16,12 @@ The MessagePad 130 is commonly referred to as an [MP130](/terms/mp130).
 
 ----
 
+Resource:
+
+- [The Newted Community: MessagePad 130 with Newton 2.0 Operating System](http://www.newted.org/download/manuals/MessagePad_130.pdf)
+
+----
+
 Related:
 
 - /terms/backlit

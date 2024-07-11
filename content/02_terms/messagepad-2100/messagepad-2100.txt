@@ -21,6 +21,7 @@ Resource:
 - [Apple: MessagePad 2100 Product Information](https://web.archive.org/web/19980204041510/http://www.newton-inc.com/product_info/devices/MP2100/MP2100.html)
 - [Press Release: Apple’s New MessagePad 2100](https://web.archive.org/web/19980204041523/http://www.newton-inc.com/press_releases/19971020mp2100.html)
 - [Cult of Mac: Newton MessagePad makes its last stand](https://www.cultofmac.com/452611/newton-messagepad-2100/)
+- [The Newted Community: MessagePad 2100 with Newton 2.1 Operating System](http://www.newted.org/download/manuals/MessagePad_2100.pdf)
 
 ----
 

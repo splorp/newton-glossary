@@ -1,0 +1,17 @@
+Title: MessagePad 2000 Data Sheet
+
+----
+
+Date: 11 July 2024
+
+----
+
+Text:
+
+Published by [Apple](https://www.apple.com/) in February 1997, this document describes the features, technical specifications, and ordering information for the [MessagePad 2000](/terms/messagepad-2000) device.
+
+----
+
+Resource:
+
+- [The Newted Community: MessagePad 2000 with Newton 2.1 Operating System](http://www.newted.org/download/manuals/MessagePad_2000.pdf)
