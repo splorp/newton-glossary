@@ -21,6 +21,7 @@ Related:
 - /terms/infrared
 - /terms/irda
 - /terms/squirting
+- /terms/transceiver
 
 ----
 

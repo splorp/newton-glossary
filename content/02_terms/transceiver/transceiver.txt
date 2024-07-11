@@ -1,0 +1,30 @@
+Title: Transceiver
+
+----
+
+Date: 11 July 2024
+
+----
+
+Text:
+
+Any device that performs the function of both a transmitter and receiver.
+
+For example, all [Newton OS](/terms/newton-os) devices include an [infrared](/terms/infrared) transceiver for [beaming](/terms/beaming) information to other devices.
+
+----
+
+Related:
+
+- /terms/beaming
+- /terms/diffuse-infrared
+- /terms/dual-mode-infrared
+- /terms/infrared
+- /terms/infrared-window
+- /terms/squirting
+
+----
+
+Source:
+
+- /sources/foldoc

@@ -25,6 +25,7 @@ Related:
 - /terms/ask
 - /terms/beaming
 - /terms/diffuse-infrared
+- /terms/dual-mode-infrared
 - /terms/infrared
 - /terms/infrared-appletalk
 - /terms/irda

@@ -28,6 +28,7 @@ Related:
 - /terms/backtalk
 - /terms/beaming
 - /terms/diffuse-infrared
+- /terms/dual-mode-infrared
 - /terms/fast-infrared
 - /terms/infrared
 - /terms/infrared-window

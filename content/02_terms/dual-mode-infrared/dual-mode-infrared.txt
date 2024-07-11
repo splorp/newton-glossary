@@ -1,0 +1,43 @@
+Title: Dual-Mode Infrared
+
+----
+
+Date: 10 July 2024
+
+----
+
+Text:
+
+A method of supporting different modes of [infrared](/terms/infrared) communication between devices using a single [transceiver](/terms/transceiver).
+
+The [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate 300](/terms/emate-300) utilize dual-mode infrared transceivers, allowing them to support wireless data transfer using both [IrDA](/terms/irda) and [ASK](/terms/ask) protocols.
+
+----
+
+Resource:
+
+- [Smart Dog Software: Newton IrDA White Paper](http://www.smartdogsw.com/backtalk/whitepaper.shtml)
+
+----
+
+Related:
+
+- /terms/ask
+- /terms/beaming
+- /terms/diffuse-infrared
+- /terms/fast-infrared
+- /terms/infrared
+- /terms/infrared-appletalk
+- /terms/irda
+- /terms/newtir
+- /terms/serial-infrared
+- /terms/slow-infrared
+- /terms/squirting
+- /terms/transceiver
+
+-----
+
+Source:
+
+- /sources/messagepad-2000-data-sheet
+- /sources/messagepad-2100-data-sheet
