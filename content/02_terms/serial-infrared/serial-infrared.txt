@@ -24,7 +24,6 @@ Related:
 - /terms/infrared
 - /terms/infrared-appletalk
 - /terms/irda
-- /terms/irlap
 - /terms/newtir
 - /terms/sir
 - /terms/slow-infrared

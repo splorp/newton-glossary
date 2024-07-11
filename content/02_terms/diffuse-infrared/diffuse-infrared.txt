@@ -27,11 +27,13 @@ Resource:
 Related:
 
 - /terms/appletalk
+- /terms/ask
 - /terms/diffuse-ir
 - /terms/dual-mode-infrared
 - /terms/fast-infrared
 - /terms/infrared
 - /terms/infrared-appletalk
+- /terms/irda
 - /terms/local-area-network
 - /terms/serial-infrared
 - /terms/slow-infrared

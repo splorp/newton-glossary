@@ -19,9 +19,11 @@ Also referred to as [SharpIR](/terms/sharpir) and [Sharp ASK](/terms/sharp-ask).
 Related:
 
 - /terms/beaming
+- /terms/diffuse-infrared
 - /terms/dual-mode-infrared
 - /terms/fast-infrared
 - /terms/infrared
+- /terms/infrared-appletalk
 - /terms/irda
 - /terms/newtir
 - /terms/protocol
