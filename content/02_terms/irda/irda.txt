@@ -12,7 +12,9 @@ Infrared Data Association
 
 An industry body developing standards for [infrared](/terms/infrared) data transfer.
 
-IrDA is also the infrared communications [protocol](/terms/protocol) used in later Newton devices.
+IrDA is also the infrared communications [protocol](/terms/protocol) used in later Newton devices, including the [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate 300](/terms/emate-300).
+
+The IrDA standard consists of a hardware [serial infrared](/terms/serial-infrared) (SIR) interface specification, a link access protocol specification ([IrLAP](/terms/irlap)), a link management protocol specification ([IrLMP](/terms/irlmp)) and a transport protocol specification ([TinyTP](/terms/tinytp)).
 
 ----
 
@@ -38,6 +40,7 @@ Related:
 - /terms/obex
 - /terms/protocol
 - /terms/serial-infrared
+- /terms/slow-infrared
 - /terms/squirting
 - /terms/tinytp
 

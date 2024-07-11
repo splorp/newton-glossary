@@ -29,6 +29,7 @@ Related:
 - /terms/serial-infrared
 - /terms/sharp-ask
 - /terms/sharpir
+- /terms/slow-infrared
 - /terms/squirting
 - /terms/tinytp
 - /terms/transceiver

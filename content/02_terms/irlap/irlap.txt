@@ -10,7 +10,7 @@ Text:
 
 Infrared Link Access Protocol
 
-The mandatory link access layer of the [IrDA](/terms/irda) communications [protocol](/terms/protocol) specification. IrLAP is built on top of [Serial Infrared](/terms/serial-infrared) (SIR) and/or [Fast Infrared](/terms/fast-infrared) (FIR).
+The mandatory link access layer of the [IrDA](/terms/irda) communications [protocol](/terms/protocol) specification. IrLAP is built on top of either [Slow Infrared](/terms/slow-infrared) (SIR) and [Fast Infrared](/terms/fast-infrared) (FIR).
 
 ----
 
@@ -25,6 +25,7 @@ Related:
 - /terms/obex
 - /terms/protocol
 - /terms/serial-infrared
+- /terms/slow-infrared
 - /terms/squirting
 - /terms/tinytp
 

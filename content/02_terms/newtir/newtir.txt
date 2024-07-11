@@ -24,6 +24,7 @@ Related:
 - /terms/irda
 - /terms/protocol
 - /terms/serial-infrared
+- /terms/slow-infrared
 - /terms/squirting
 
 ----

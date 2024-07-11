@@ -34,6 +34,7 @@ Related:
 - /terms/infrared-appletalk
 - /terms/local-area-network
 - /terms/serial-infrared
+- /terms/slow-infrared
 - /terms/transceiver
 - /terms/wireless-appletalk
 

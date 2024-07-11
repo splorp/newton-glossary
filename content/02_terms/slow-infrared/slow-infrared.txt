@@ -8,7 +8,31 @@ Date:
 
 Text:
 
-See: [Serial Infrared](/terms/serial-infrared)
+Transferring data using an [IrDA](/terms/irda)-compatible [infrared](/terms/infrared) connection at a rate up to 115 Kbps. As opposed to [Fast Infrared](/terms/fast-infrared) which only transfers data at a rate up to 4 Mbps.
+
+Slow Infrared is also referred to as [SIR](/terms/sir).
+
+----
+
+Resource:
+
+- [Smart Dog Software: Newton IrDA White Paper](http://www.smartdogsw.com/backtalk/whitepaper.shtml)
+
+----
+
+Related:
+
+- /terms/ask
+- /terms/beaming
+- /terms/diffuse-infrared
+- /terms/dual-mode-infrared
+- /terms/fast-infrared
+- /terms/infrared
+- /terms/infrared-appletalk
+- /terms/irda
+- /terms/newtir
+- /terms/serial-infrared
+- /terms/squirting
 
 -----
 
