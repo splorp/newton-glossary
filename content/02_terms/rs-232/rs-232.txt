@@ -21,8 +21,10 @@ Related:
 - /terms/geoport
 - /terms/mini-din
 - /terms/newton-interconnect
+- /terms/pt100
 - /terms/rs-422
 - /terms/usb
+- /terms/vt100
 
 ----
 

@@ -22,6 +22,7 @@ Related:
 - /terms/pocketweb
 - /terms/ppp
 - /terms/protocol
+- /terms/pt100
 - /terms/slip-protocol
 - /terms/tcp
 - /terms/tcp-ip

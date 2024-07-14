@@ -1,0 +1,17 @@
+Title: Scrawl Software
+
+----
+
+Date: 14 July 2024
+
+----
+
+Text:
+
+Founded in 1996 by George Madrid, Sanjay Vakil, and Sally Buta, Scrawl Software specialized in developing “lean” applications and games for [Newton OS](/terms/newton-os), including the [PT100](/terms/pt100) terminal emulator, the [YAZI](/terms/yazi) text adventure engine, and [Chiral](/terms/chiral).
+
+----
+
+Resource:
+
+- [Scrawl Software Website](https://web.archive.org/web/19991013051304/http://scrawlsoft.com/)

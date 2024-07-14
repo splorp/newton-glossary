@@ -20,6 +20,7 @@ Related:
 - /terms/package
 - /terms/package-file
 - /terms/pkg
+- /terms/pt100
 
 ----
 
