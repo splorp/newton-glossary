@@ -21,6 +21,7 @@ Related:
 - /terms/byte-code
 - /terms/nsm
 - /terms/waba
+- /terms/yazi
 
 ----
 

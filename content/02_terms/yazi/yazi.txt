@@ -1,0 +1,37 @@
+Title: YAZI
+
+----
+
+Date: 15 July 2024
+
+----
+
+Text:
+
+Yet Another Z Interpreter
+
+A text adventure engine developed by [Scrawl Software](/sources/scrawl-software) which reads [packages](/terms/package) containing source data, allowing you to play classic games such as Zork, Planetfall, and Enchanter on a Newton device.
+
+The YAZI [application](/terms/application) is a [bytecode](/terms/bytecode) interpreter for games written using the Zork Implementation Language (ZIL) which shares similarities with the [LISP](/terms/lisp) programming language.
+
+<img src="/assets/images/yazi-2x.gif" alt="Screenshot of YAZI" width="242" />
+
+----
+
+Related:
+
+- /terms/bytecode
+- /terms/lisp
+
+----
+
+Resource:
+
+- [Scrawl Software: YAZI Product Information](https://web.archive.org/web/20060829065901/http://www.scrawlsoft.com/products/yazi/info.html)
+- [Inform: A short history of the Z-machine](http://inform-fiction.org/zmachine/standards/z1point1/appd.html)
+
+----
+
+Source:
+
+- /sources/scrawl-software

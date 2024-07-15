@@ -33,6 +33,7 @@ Related:
 - /terms/macintosh-common-lisp
 - /terms/newtonscript
 - /terms/ralph
+- /terms/yazi
 
 ----
 
