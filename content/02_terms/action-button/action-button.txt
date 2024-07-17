@@ -26,6 +26,7 @@ Related:
 - /terms/routing
 - /terms/routing-button
 - /terms/routing-slip
+- /terms/separator-bar
 - /terms/status-bar
 - /terms/user-interface
 

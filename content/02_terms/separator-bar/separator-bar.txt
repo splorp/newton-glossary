@@ -20,8 +20,10 @@ Also referred to as a [divider bar](/terms/divider-bar).
 
 Related:
 
+- /terms/action-button
 - /terms/button-bar
 - /terms/divider-bar
+- /terms/folder-button
 - /terms/item-info-button
 - /terms/status-bar
 - /terms/user-interface

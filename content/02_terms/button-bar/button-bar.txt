@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A thick black [line](/terms/line) with graphical [buttons](/terms/button) on it. The [separator bar](/terms/separator-bar) and [status bar](/terms/status-bar) found in most [applications](/terms/application) are both examples of buttons bars.
+A thick black [line](/terms/line) with graphical [buttons](/terms/button) on it. The [separator bar](/terms/separator-bar) and [status bar](/terms/status-bar) found in most [applications](/terms/application) are both examples of button bars.
 
 <img src="/assets/images/status-bar-2x.gif" alt="Screenshot of the Status Bar" width="237" />
 
