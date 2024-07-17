@@ -23,3 +23,9 @@ Related:
 - /terms/pcmcia
 - /terms/protection-switch
 - /terms/storage-card
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
