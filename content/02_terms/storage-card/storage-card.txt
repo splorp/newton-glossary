@@ -28,3 +28,4 @@ Related:
 - /terms/pcmcia
 - /terms/slot
 - /terms/slot-jam
+- /terms/write-protection-switch

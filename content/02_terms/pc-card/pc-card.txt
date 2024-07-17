@@ -37,3 +37,4 @@ Related:
 - /terms/slot
 - /terms/slot-jam
 - /terms/storage-card
+- /terms/write-protection-switch

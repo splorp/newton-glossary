@@ -29,3 +29,4 @@ Related:
 - /terms/storage-card
 - /terms/store
 - /terms/user-storage
+- /terms/write-protection-switch

@@ -1,0 +1,25 @@
+Title: Write Protection Switch
+
+----
+
+Date: 17 July 2024
+
+----
+
+Text:
+
+A small, sliding lever located on a [storage card](/terms/storage-card) used to prevent storing, moving, deleting, or changing information on the card.
+
+Also referred to as simply a [protection switch](/terms/protection-switch).
+
+----
+
+Related:
+
+- /terms/card
+- /terms/external-store
+- /terms/flash-card
+- /terms/pc-card
+- /terms/pcmcia
+- /terms/protection-switch
+- /terms/storage-card
