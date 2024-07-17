@@ -27,6 +27,7 @@ Related:
 - /terms/hard-button
 - /terms/how-do-i
 - /terms/info-button
+- /terms/item-info-button
 - /terms/keyboard-button
 - /terms/large-close-box
 - /terms/local-scroll-arrows

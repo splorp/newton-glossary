@@ -10,6 +10,8 @@ Text:
 
 A [container view](/terms/container-view) that displays statistics and related information for an item. This information includes the title, type, creation date, size, and [store](/terms/store) location of the item. A user can [edit](/terms/edit) an item’s title in the [slip](/terms/slip).
 
+The item info slip is accessed by [tapping](/terms/tapping) the [item info button](/terms/item-info-button) located in the [separator bar](/terms/separator-bar).
+
 Also known simply as an [info slip](/terms/info-slip).
 
 <img src="/assets/images/item-info-slip-2x.gif" alt="Screenshot of on Item Info Slip for a note" width="318" />
@@ -20,6 +22,7 @@ Related:
 
 - /terms/container-view
 - /terms/info-slip
+- /terms/item-info-button
 - /terms/memory-info-slip
 - /terms/slip
 - /terms/user-interface

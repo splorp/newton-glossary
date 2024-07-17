@@ -8,7 +8,9 @@ Date:
 
 Text:
 
-A thick black [line](/terms/line) located at the top of each item in a [view](/terms/view) that is displaying multiple items at once. The separator bar contains information related to the item appearing directly below it and includes controls which allow the user to interact with the item. For example, the separator bar in the [Notepad](/terms/application) contains the date when the [note](/terms/note) was created, an [action button](/terms/action-button), and a [folder button](/terms/folder-button).
+A thick black [line](/terms/line) located at the top of each item in a [view](/terms/view) that is displaying multiple items at once. The separator bar contains information related to the item appearing directly below it and includes controls which allow the user to interact with the item.
+
+For example, the separator bar in the [Notepad](/terms/application) contains an [item info button](/terms/item-info-button), the date when the [note](/terms/note) was created, an [action button](/terms/action-button), and a [folder button](/terms/folder-button).
 
 Also referred to as a [divider bar](/terms/divider-bar).
 
@@ -20,6 +22,7 @@ Related:
 
 - /terms/button-bar
 - /terms/divider-bar
+- /terms/item-info-button
 - /terms/status-bar
 - /terms/user-interface
 
