@@ -28,7 +28,6 @@ Related:
 - /terms/hot-insertion
 - /terms/hot-removal
 - /terms/hot-remove
-- /terms/memory-card
 - /terms/network-interface-card
 - /terms/newscard
 - /terms/newton-messaging-card

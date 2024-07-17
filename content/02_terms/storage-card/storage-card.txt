@@ -10,13 +10,14 @@ Text:
 
 Any type of removable [PC card](/terms/pc-card) used for storing data. A storage card can contain [applications](/terms/application), [packages](/terms/package), [soups](/terms/soup), or [backup](/terms/backup) data.
 
+Also referred to as a [memory card](/terms/memory-card).
+
 ----
 
 Related:
 
 - /terms/backup
 - /terms/card
-- /terms/cf-card
 - /terms/combo-card
 - /terms/compactflash
 - /terms/external-store

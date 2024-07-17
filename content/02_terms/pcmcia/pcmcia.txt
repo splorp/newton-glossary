@@ -38,7 +38,6 @@ Related:
 - /terms/hot-insertion
 - /terms/hot-removal
 - /terms/hot-remove
-- /terms/memory-card
 - /terms/pc-card
 - /terms/protection-card
 - /terms/slot

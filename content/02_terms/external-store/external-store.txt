@@ -22,7 +22,6 @@ Related:
 - /terms/default-store
 - /terms/flash-card
 - /terms/internal-store
-- /terms/memory-card
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/slot

@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A [memory card](/terms/memory-card) using [flash RAM](/terms/flash-ram) chips that can be rewritten and maintain the storage of information when power is removed. Commonly referred to as a [storage card](/terms/storage-card). Not to be confused with a [CompactFlash](/terms/compactflash) (CF) card, which is similar in function but different in size and implementation.
+A memory [card](/terms/card) using [flash RAM](/terms/flash-ram) chips that can be rewritten and maintain the storage of information when power is removed. Commonly referred to as a [storage card](/terms/storage-card). Not to be confused with a [CompactFlash](/terms/compactflash) (CF) card, which is similar in function but different in size and implementation.
 
 ----
 
@@ -19,7 +19,6 @@ Related:
 - /terms/external-store
 - /terms/flash-memory
 - /terms/flash-ram
-- /terms/memory-card
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/slot
