@@ -27,7 +27,6 @@ Related:
 - /terms/card-slot
 - /terms/hot-insert
 - /terms/hot-removal
-- /terms/hot-remove
 - /terms/locking-tab
 - /terms/pc-card
 - /terms/pcmcia

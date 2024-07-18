@@ -25,7 +25,6 @@ Related:
 
 - /terms/card
 - /terms/card-slot
-- /terms/hot-insert
 - /terms/hot-insertion
 - /terms/hot-remove
 - /terms/locking-tab
