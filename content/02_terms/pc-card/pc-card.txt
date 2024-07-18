@@ -18,7 +18,6 @@ Related:
 - /terms/application-card
 - /terms/bootstrap-card
 - /terms/card
-- /terms/card-latch
 - /terms/card-slot
 - /terms/cis
 - /terms/combo-card
@@ -28,6 +27,7 @@ Related:
 - /terms/hot-insertion
 - /terms/hot-removal
 - /terms/hot-remove
+- /terms/locking-tab
 - /terms/network-interface-card
 - /terms/newscard
 - /terms/newton-messaging-card

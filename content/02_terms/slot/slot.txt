@@ -18,13 +18,13 @@ Related:
 
 - /terms/array
 - /terms/card-slot
-- /terms/card-latch
 - /terms/evaluate-slot
 - /terms/frame
 - /terms/hot-insert
 - /terms/hot-insertion
 - /terms/hot-removal
 - /terms/hot-remove
+- /terms/locking-tab
 - /terms/immediate
 - /terms/pc-card
 - /terms/pcmcia

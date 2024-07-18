@@ -16,6 +16,7 @@ Related:
 
 - /terms/card
 - /terms/card-slot
+- /terms/locking-tab
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/slot

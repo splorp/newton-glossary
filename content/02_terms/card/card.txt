@@ -21,7 +21,6 @@ Related:
 - /terms/accessory-card
 - /terms/application-card
 - /terms/bootstrap-card
-- /terms/card-latch
 - /terms/card-slot
 - /terms/cis
 - /terms/combo-card
@@ -32,6 +31,7 @@ Related:
 - /terms/hot-insertion
 - /terms/hot-removal
 - /terms/hot-remove
+- /terms/locking-tab
 - /terms/name-card
 - /terms/name-file
 - /terms/newscard

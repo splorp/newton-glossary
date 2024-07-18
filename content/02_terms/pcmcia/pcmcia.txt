@@ -28,7 +28,6 @@ Related:
 - /terms/ata
 - /terms/ata-support
 - /terms/card
-- /terms/card-latch
 - /terms/card-slot
 - /terms/cis
 - /terms/combo-card
@@ -38,6 +37,7 @@ Related:
 - /terms/hot-insertion
 - /terms/hot-removal
 - /terms/hot-remove
+- /terms/locking-tab
 - /terms/pc-card
 - /terms/protection-card
 - /terms/slot

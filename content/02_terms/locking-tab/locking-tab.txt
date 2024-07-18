@@ -1,0 +1,37 @@
+Title: Locking Tab
+
+----
+
+Date: 18 July 2024
+
+----
+
+Text:
+
+A mechanism found on [Original MessagePad](/terms/original-messagepad), [MessagePad 100](/terms/messagepad-100), [MessagePad 110](/terms/messagepad-110), [MessagePad 110](/terms/messagepad-110), [MessagePad 120](/terms/messagepad-120), and [MessagePad 130](/terms/messagepad-130) devices which prevents the [PC card](/terms/pc-card) from being inadvertently ejected from the [card slot](/terms/card-slot).
+
+Also referred to as a [Card Latch](/terms/card-latch).
+
+The [Newton Internet Enabler User’s Guide](/sources/newton-internet-enabler-users-manual) erroneously refers to the locking tab as [card lock switch](/terms/card-lock-switch) which is actually a [write-protection switch](/terms/write-protection-switch) found on a [storage card](/terms/storage-card).
+
+The button which releases the lid on an [eMate 300](/terms/emate-300) is also called a locking tab.
+
+----
+
+Related:
+
+- /terms/card
+- /terms/card-latch
+- /terms/card-lock-switch
+- /terms/card-slot
+- /terms/pc-card
+- /terms/pcmcia
+- /terms/slot
+- /terms/slot-jam
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/messagepad-handbook-1995

@@ -28,6 +28,7 @@ Related:
 - /terms/hot-insert
 - /terms/hot-insertion
 - /terms/hot-remove
+- /terms/locking-tab
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/slot

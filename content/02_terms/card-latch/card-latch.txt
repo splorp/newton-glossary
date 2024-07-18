@@ -8,18 +8,7 @@ Date: 23 April 2017
 
 Text:
 
-A small locking mechanism found on [Original MessagePad](/terms/original-messagepad) and [MessagePad 100](/terms/messagepad-100) devices which prevents the [PC card](/terms/pc-card) from being inadvertently ejected from the [card slot](/terms/card-slot).
-
-----
-
-Related:
-
-- /terms/card
-- /terms/card-slot
-- /terms/pc-card
-- /terms/pcmcia
-- /terms/slot
-- /terms/slot-jam
+See: [Locking Tab](/terms/locking-tab)
 
 ----
 
