@@ -12,7 +12,7 @@ Amplitude Shift Keying
 
 An [infrared](/terms/infrared) communication [protocol](/terms/protocol) developed by Sharp and used in early Newton devices, including the [Original MessagePad](/terms/original-messagepad), [MessagePad 100](/terms/messagepad-100), [MessagePad 110](/terms/messagepad-110), [MessagePad 120](/terms/messagepad-120), and [MessagePad 130](/terms/messagepad-130). The ASK protocol is not compatible with the more common [IrDA](/terms/irda) standard, which was implemented in the [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate 300](/terms/emate-300).
 
-Also referred to as [SharpIR](/terms/sharpir) and [Sharp ASK](/terms/sharp-ask).
+Also referred to as [Sharp ASK](/terms/sharp-ask) and [SharpIR](/terms/sharpir).
 
 ----
 

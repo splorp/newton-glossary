@@ -8,7 +8,7 @@ Date: 17 July 2024
 
 Text:
 
-See: [Write Protection Switch](/terms/write-protection-switch)
+See: [Write-Protection Switch](/terms/write-protection-switch)
 
 ----
 

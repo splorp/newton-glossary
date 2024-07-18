@@ -1,4 +1,4 @@
-Title: Write Protection Switch
+Title: Write-Protection Switch
 
 ----
 
