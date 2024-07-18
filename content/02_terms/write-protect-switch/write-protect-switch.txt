@@ -1,0 +1,17 @@
+Title: Write-Protect Switch
+
+----
+
+Date: 18 July 2024
+
+----
+
+Text:
+
+See: [Write-Protection Switch](/terms/write-protection-switch)
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

@@ -1,0 +1,18 @@
+Title: Card Lock Switch
+
+----
+
+Date: 17 July 2024
+
+----
+
+Text:
+
+See: [Locking Tab](/terms/locking-tab) and [Write-Protection Switch](/terms/write-protection-switch).
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
+- /sources/newton-internet-enabler-users-manual
