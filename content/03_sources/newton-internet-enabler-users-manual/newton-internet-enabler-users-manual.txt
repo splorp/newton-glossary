@@ -1,14 +1,14 @@
-Title: Newton Internet Enabler
+Title: Newton Internet Enabler User’s Manual
 
 ----
 
-Date:
+Date: 18 July 2024
 
 ----
 
 Text:
 
-Software that runs in the background of [Newton OS](/terms/newton-os), enabling access to the internet and other information services using standard communication protocols such as [TCP/IP](/terms/tcp-ip).
+Published by [Apple](https://www.apple.com/) in 1997 as a guide for installing, configuring, and troubleshooting the [Newton Internet Enabler](/terms/newton-internet-enabler) software.
 
 ----
 
@@ -18,26 +18,3 @@ Resource:
 - [The Newted Community: Newton Internet Enabler 2.0 User’s Manual](http://www.newted.org/download/manuals/NIE20USE.pdf)
 - [UNNA: Newton Internet Enabler User’s Manual](http://www.unna.org/unna/apple/documentation/software/NIE1.1UsersManual.pdf)
 - [UNNA: Newton Internet Enabler 2.0 User’s Manual](http://www.unna.org/unna/apple/documentation/software/NIE2.0UsersManual.pdf)
-
-----
-
-Related:
-
-- /terms/dhcp
-- /terms/dns
-- /terms/ip
-- /terms/nethopper
-- /terms/nie
-- /terms/pocketweb
-- /terms/ppp
-- /terms/protocol
-- /terms/pt100
-- /terms/slip-protocol
-- /terms/tcp
-- /terms/tcp-ip
-
-----
-
-Source:
-
-- /sources/newton-internet-enabler-users-manual
