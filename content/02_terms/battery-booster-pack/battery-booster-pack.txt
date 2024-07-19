@@ -38,6 +38,7 @@ Related:
 - /terms/recell
 - /terms/recelled
 - /terms/receller
+- /terms/rmp
 - /terms/rhythm-method
 
 ----

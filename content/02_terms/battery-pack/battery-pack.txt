@@ -35,6 +35,7 @@ Related:
 - /terms/sled
 - /terms/tray
 - /terms/rhythm-method
+- /terms/rmp
 
 ----
 

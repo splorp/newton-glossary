@@ -36,6 +36,7 @@ Related:
 - /terms/recelled
 - /terms/receller
 - /terms/rhythm-method
+- /terms/rmp
 - /terms/status-bar
 - /terms/user-interface
 

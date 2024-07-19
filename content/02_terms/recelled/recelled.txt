@@ -30,6 +30,7 @@ Related:
 - /terms/recell
 - /terms/receller
 - /terms/rhythm-method
+- /terms/rmp
 
 ----
 

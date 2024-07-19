@@ -1,0 +1,47 @@
+Title: RMP
+
+----
+
+Date: 19 July 2024
+
+----
+
+Text:
+
+Round Metal Piece
+
+According to [Frank Gründel](/sources/frank-grundel), a component found in a [MessagePad 2000](/terms/messagepad-2000) or [MessagePad 2100](/terms/messagepad-2100) MP2x00 battery pack when being refurbished or [recelled](/terms/recelled).
+
+As known as the [krM](/terms/krm) or “kleines rundes Metallstück” in German.
+
+----
+
+Resource:
+
+- [PDA-Soft: How to rebuild an Newton 2000/2100 battery pack](https://www.pda-soft.de/mp2k_battery_pack.html)
+- [PDA-Soft: Wiederaufarbeitung eines Newton MessagePad 2000/2100 Batteriepacks](https://www.pda-soft.de/ge_mp2k_battery_pack.html)
+
+----
+
+Related:
+
+- /terms/battery
+- /terms/battery-pack
+- /terms/cell
+- /terms/charge-state
+- /terms/deep-toast
+- /terms/long-term-storage
+- /terms/krm
+- /terms/memory-effect
+- /terms/nicd
+- /terms/nimh
+- /terms/recell
+- /terms/recelled
+- /terms/receller
+- /terms/rhythm-method
+
+----
+
+Source:
+
+- /sources/frank-grundel
