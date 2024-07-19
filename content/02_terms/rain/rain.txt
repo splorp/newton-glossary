@@ -23,6 +23,7 @@ Resource:
 Related:
 
 - /terms/newton-farm
+- /terms/supernewt
 
 ----
 
