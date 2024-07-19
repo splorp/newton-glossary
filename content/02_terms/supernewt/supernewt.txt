@@ -8,8 +8,6 @@ Date: 19 July 2024
 
 Text:
 
-Redundant Array of Inexpensive Newtons
-
 Originally [proposed by Anna Woo](https://newtontalk.net/archive/newtontalk/2002-February/0439.html) on the [NewtonTalk](/sources/newtontalk) mailing list as the name for a hypothetical parallel processing array using multiple Newton devices.
 
 ----
