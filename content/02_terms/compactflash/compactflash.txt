@@ -16,6 +16,8 @@ Related:
 
 - /terms/ata
 - /terms/ata-support
+- /terms/card
+- /terms/card-slip
 - /terms/cf
 - /terms/cf-card
 - /terms/external-store
@@ -23,7 +25,9 @@ Related:
 - /terms/flash-ram
 - /terms/pc-card
 - /terms/pcmcia
+- /terms/storage-card
 - /terms/write-protected
+- /terms/write-protection-switch
 
 ----
 

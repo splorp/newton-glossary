@@ -45,6 +45,7 @@ Related:
 - /terms/storage-card
 - /terms/view
 - /terms/write-protected
+- /terms/write-protection-switch
 
 ----
 

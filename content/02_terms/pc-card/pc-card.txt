@@ -27,7 +27,6 @@ Related:
 - /terms/hot-insertion
 - /terms/hot-removal
 - /terms/locking-tab
-- /terms/write-protection-switch
 - /terms/network-interface-card
 - /terms/newscard
 - /terms/newton-messaging-card
