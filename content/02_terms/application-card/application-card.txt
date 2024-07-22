@@ -16,6 +16,7 @@ Related:
 
 - /terms/application
 - /terms/card
+- /terms/card-slip
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/slot

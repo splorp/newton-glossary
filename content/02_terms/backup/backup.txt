@@ -19,6 +19,7 @@ Backup can also refer to the [backup battery](/terms/backup-battery) found in ea
 Related:
 
 - /terms/backup-file
+- /terms/card-slip
 - /terms/nbk
 - /terms/nbku
 - /terms/newton-backup-express

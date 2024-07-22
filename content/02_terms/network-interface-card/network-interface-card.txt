@@ -17,6 +17,7 @@ Also referred to as a [NIC](/terms/nic) or [network adapter](/terms/network-adap
 Related:
 
 - /terms/card
+- /terms/card-slip
 - /terms/ethernet
 - /terms/network-adapter
 - /terms/nic

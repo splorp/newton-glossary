@@ -22,6 +22,7 @@ Related:
 
 - /terms/ata
 - /terms/card
+- /terms/card-slip
 - /terms/compactflash
 - /terms/external-store
 - /terms/pc-card

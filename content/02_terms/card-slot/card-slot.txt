@@ -15,6 +15,7 @@ An opening where a [PC card](/terms/pc-card) is inserted into a Newton device.
 Related:
 
 - /terms/card
+- /terms/card-slip
 - /terms/hot-insertion
 - /terms/hot-removal
 - /terms/locking-tab

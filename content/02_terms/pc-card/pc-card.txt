@@ -18,6 +18,7 @@ Related:
 - /terms/application-card
 - /terms/bootstrap-card
 - /terms/card
+- /terms/card-slip
 - /terms/card-slot
 - /terms/cis
 - /terms/combo-card

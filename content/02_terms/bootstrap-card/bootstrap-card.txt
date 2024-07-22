@@ -27,6 +27,7 @@ Related:
 - /terms/bootstrap
 - /terms/bootstrapping
 - /terms/card
+- /terms/card-slip
 - /terms/external-store
 - /terms/inout-box
 - /terms/lender-card

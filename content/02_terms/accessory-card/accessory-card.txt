@@ -15,6 +15,7 @@ A removable [PC card](/terms/pc-card) that provides additional functionality, su
 Related:
 
 - /terms/card
+- /terms/card-slip
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/slot

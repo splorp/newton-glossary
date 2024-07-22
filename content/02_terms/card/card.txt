@@ -10,7 +10,7 @@ Text:
 
 A [view](/terms/view) of information pertaining to an entry in the [Name File](/terms/name-file) application [soup](/terms/soup), graphically formatted as a business card. A card can display names, addresses, telephone numbers, email addresses, notes, and other information [fields](/terms/field) created by the user. Also referred to as a [name card](/terms/name-card).
 
-Card is also an [application](/terms/application) that allows the user to retrieve information about a PC card inserted into a Newton device. If the PC card is an [external store](/terms/external-store), the Card application can be used to rename, [backup](/terms/backup), [restore](/terms/restore), and erase information stored on the card.
+Card is also an [application](/terms/application) that allows the user to retrieve information about a PC card inserted into a Newton device, displaying that information in a [card slip](/terms/card-slip).
 
 Card can also refer to a [PC card](/terms/pc-card) or [CompactFlash](/terms/compactflash) card.
 
@@ -21,6 +21,7 @@ Related:
 - /terms/accessory-card
 - /terms/application-card
 - /terms/bootstrap-card
+- /terms/card-slip
 - /terms/card-slot
 - /terms/cis
 - /terms/combo-card

@@ -25,6 +25,7 @@ Resource:
 Related:
 
 - /terms/card
+- /terms/card-slip
 - /terms/pc-card
 - /terms/pcmcia
 

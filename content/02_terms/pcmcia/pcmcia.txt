@@ -28,6 +28,7 @@ Related:
 - /terms/ata
 - /terms/ata-support
 - /terms/card
+- /terms/card-slip
 - /terms/card-slot
 - /terms/cis
 - /terms/combo-card

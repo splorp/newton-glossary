@@ -15,6 +15,7 @@ A memory [card](/terms/card) using [flash RAM](/terms/flash-ram) chips that can 
 Related:
 
 - /terms/card
+- /terms/card-slip
 - /terms/compactflash
 - /terms/external-store
 - /terms/flash-memory

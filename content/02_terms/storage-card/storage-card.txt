@@ -18,6 +18,7 @@ Related:
 
 - /terms/backup
 - /terms/card
+- /terms/card-slip
 - /terms/combo-card
 - /terms/compactflash
 - /terms/external-store

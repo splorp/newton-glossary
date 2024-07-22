@@ -17,6 +17,7 @@ Also referred to as a [card store](/terms/card-store).
 Related:
 
 - /terms/card
+- /terms/card-slip
 - /terms/card-store
 - /terms/compactflash
 - /terms/default-store

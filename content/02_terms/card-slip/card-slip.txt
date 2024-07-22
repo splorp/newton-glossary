@@ -1,0 +1,45 @@
+Title: Card Slip
+
+----
+
+Date: 22 July 2024
+
+----
+
+Text:
+
+A [container view](/terms/container-view) that displays information about a [PC card](/terms/pc-card) that has been inserted into a Newton device.
+
+This information includes the name of the card and what type of card it is, such as a [storage card](/terms/storage-card) or modem. If the card is a storage card, additional information is displayed including used storage space, available storage space, whether or not there is a [backup](/terms/backup) stored on the card, and whether or not the card is locked or [write-protected](/terms/write-protected).
+
+The card slip can also be used to rename a storage card, as well as [backup](/terms/backup), [restore](/terms/restore), and erase information stored on the card, providing the card’s [write protection switch](/terms/write-protection-switch) is in the unlocked position.
+
+<img src="/assets/images/card-slip-2x.gif" alt="Screenshot of a Card Slip displaying information about a flash storage card" width="216" />
+
+A card slip is displayed when a PC card is inserted into a [card slot](/terms/card-slot). It can also be accessed by [tapping](/terms/tapping) the [Card](/terms/card) application in the [Extras Drawer](/terms/extras-drawer).
+
+----
+
+Related:
+
+- /terms/card
+- /terms/container-view
+- /terms/external-store
+- /terms/locked-icon
+- /terms/locked-switch-icon
+- /terms/pc-card
+- /terms/pcmcia
+- /terms/slip
+- /terms/storage-card
+- /terms/unlocked-icon
+- /terms/unlocked-switch-icon
+- /terms/user-interface
+- /terms/write-protected
+- /terms/write-protection-switch
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
+- /sources/newton-programmers-guide

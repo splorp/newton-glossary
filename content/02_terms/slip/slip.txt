@@ -18,6 +18,7 @@ Related:
 
 - /terms/assist-slip
 - /terms/call-slip
+- /terms/card-slip
 - /terms/confirmation-slip
 - /terms/container-view
 - /terms/find-slip

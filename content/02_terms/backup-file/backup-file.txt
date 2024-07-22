@@ -15,6 +15,7 @@ A file residing on a [storage card](/terms/storage-card), [desktop computer](/te
 Related:
 
 - /terms/backup
+- /terms/card-slip
 - /terms/nbk
 - /terms/nbku
 - /terms/newton-backup-express

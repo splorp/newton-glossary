@@ -15,6 +15,7 @@ A [PC card](/terms/pc-card) that combines the functionality of two separate card
 Related:
 
 - /terms/card
+- /terms/card-slip
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/slot

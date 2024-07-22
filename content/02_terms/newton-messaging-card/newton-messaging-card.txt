@@ -26,6 +26,7 @@ Related:
 - /terms/apple-wireless-messaging-service
 - /terms/beeper-number
 - /terms/card
+- /terms/card-slip
 - /terms/message-module
 - /terms/messaging-card
 - /terms/newscard

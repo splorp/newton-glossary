@@ -25,6 +25,7 @@ Related:
 - /terms/apple-notification-service
 - /terms/apple-wireless-messaging-service
 - /terms/card
+- /terms/card-slip
 - /terms/message-module
 - /terms/newton-messaging-card
 - /terms/newton-messaging-enabler

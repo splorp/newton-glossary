@@ -18,6 +18,7 @@ Related:
 
 - /terms/card
 - /terms/card-lock-switch
+- /terms/card-slip
 - /terms/external-store
 - /terms/flash-card
 - /terms/pc-card

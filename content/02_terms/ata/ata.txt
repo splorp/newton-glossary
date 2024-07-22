@@ -18,6 +18,7 @@ Related:
 
 - /terms/ata-support
 - /terms/card
+- /terms/card-slip
 - /terms/compactflash
 - /terms/external-card
 - /terms/pc-card
