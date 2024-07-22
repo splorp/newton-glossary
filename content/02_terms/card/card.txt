@@ -44,6 +44,7 @@ Related:
 - /terms/soup
 - /terms/storage-card
 - /terms/view
+- /terms/write-protected
 
 ----
 

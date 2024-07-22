@@ -26,6 +26,7 @@ Related:
 - /terms/protection-switch
 - /terms/storage-card
 - /terms/write-protect-switch
+- /terms/write-protected
 
 ----
 

@@ -29,4 +29,5 @@ Related:
 - /terms/pcmcia
 - /terms/slot
 - /terms/slot-jam
+- /terms/write-protected
 - /terms/write-protection-switch

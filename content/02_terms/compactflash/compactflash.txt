@@ -23,6 +23,7 @@ Related:
 - /terms/flash-ram
 - /terms/pc-card
 - /terms/pcmcia
+- /terms/write-protected
 
 ----
 

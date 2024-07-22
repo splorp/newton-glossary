@@ -1,0 +1,30 @@
+Title: Write-Protected
+
+----
+
+Date: 22 July 2024
+
+----
+
+Text:
+
+The state of a [storage card](/terms/storage-card) that has been locked using the [write-protection switch](/terms/write-protection-switch). This indicates to the [operating system](/terms/operating-system) that data on the [card](/terms/card) cannot be modified, thus preventing the accidental overwriting or deletion of data.
+
+----
+
+Related:
+
+- /terms/card
+- /terms/card-slip
+- /terms/external-store
+- /terms/flash-card
+- /terms/pc-card
+- /terms/pcmcia
+- /terms/storage-card
+- /terms/write-protection-switch
+
+----
+
+Source:
+
+- /sources/foldoc
