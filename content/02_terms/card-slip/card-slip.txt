@@ -8,15 +8,15 @@ Date: 22 July 2024
 
 Text:
 
-A [container view](/terms/container-view) that displays information about a [PC card](/terms/pc-card) that has been inserted into a Newton device.
+A [container view](/terms/container-view) that displays information about a [PC card](/terms/pc-card) that is inserted into the [card slot](/terms/card-slot) of a Newton device.
 
 This information includes the name of the card and what type of card it is, such as a [storage card](/terms/storage-card) or modem. If the card is a storage card, additional information is displayed including used storage space, available storage space, whether or not there is a [backup](/terms/backup) stored on the card, and whether or not the card is locked or [write-protected](/terms/write-protected).
 
-The card slip can also be used to rename a storage card, as well as [backup](/terms/backup), [restore](/terms/restore), and erase information stored on the card, providing the card’s [write protection switch](/terms/write-protection-switch) is in the unlocked position.
+When viewing the information for a storage card, the [slip](/terms/slip) can be used to rename the card. The user is also able to [backup](/terms/backup) information to the card, and [restore](/terms/restore) or erase information that has been previously stored on the card, providing the card’s [write protection switch](/terms/write-protection-switch) is in the unlocked position.
 
 <img src="/assets/images/card-slip-2x.gif" alt="Screenshot of a Card Slip displaying information about a flash storage card" width="216" />
 
-A card slip is displayed when a PC card is inserted into a [card slot](/terms/card-slot). It can also be accessed by [tapping](/terms/tapping) the [Card](/terms/card) application in the [Extras Drawer](/terms/extras-drawer).
+A card slip is displayed automatically when a PC card is inserted. It can also be accessed by [tapping](/terms/tapping) the [Card](/terms/card) application in the [Extras Drawer](/terms/extras-drawer).
 
 ----
 
