@@ -8,9 +8,16 @@ Date:
 
 Text:
 
-A project that explored the possibility of creating a machined aluminum replacement casing for the [MessagePad 2100](/terms/messagepad-2100) device.
+An idea initially proposed by Justin D’Onofrio on the [NewtonTalk](/terms/newtontalk) mailing list that explored the possibility of creating a machined aluminum replacement casing for the [MessagePad 2100](/terms/messagepad-2100) device.
 
 Also referred to as [NASP](/terms/nasp).
+
+----
+
+Resource:
+
+- [NASP Website](https://web.archive.org/web/20000817071654/http://fishbulb.net/nasp/)
+- [NewtonTalk: NTLK Official NASP Update](http://www.newtontalk.net/archive/newtontalk/2000-August/2308.html)
 
 ----
 
