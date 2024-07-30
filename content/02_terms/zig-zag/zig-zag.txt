@@ -15,10 +15,10 @@ A back and forth [gesture](/terms/gesture) made with the [pen](/terms/pen). This
 Related:
 
 - /terms/gesture
+- /terms/going-up-in-smoke
 - /terms/pen
 - /terms/poof
 - /terms/poof-it
-- /terms/puff-of-smoke
 - /terms/scribble
 - /terms/scrub
 - /terms/scrubbing

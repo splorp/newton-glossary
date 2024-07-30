@@ -15,10 +15,10 @@ To erase or delete words or images using a [zig zag](/terms/zig-zag) gesture wit
 Related:
 
 - /terms/gesture
+- /terms/going-up-in-smoke
 - /terms/pen
 - /terms/poof
 - /terms/poof-it
-- /terms/puff-of-smoke
 - /terms/scribble
 - /terms/scrubbing
 - /terms/zig-zag

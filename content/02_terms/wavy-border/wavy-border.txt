@@ -19,10 +19,10 @@ Related:
 - /terms/alert-box
 - /terms/confirmation-alert
 - /terms/container-view
+- /terms/going-up-in-smoke
 - /terms/matte-border
 - /terms/notification-alert
 - /terms/plain-border
-- /terms/puff-of-smoke
 - /terms/striped-border
 - /terms/user-interface
 - /terms/view

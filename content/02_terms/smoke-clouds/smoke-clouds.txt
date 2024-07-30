@@ -1,8 +1,8 @@
-Title: Puff of Smoke
+Title: Smoke Clouds
 
 ----
 
-Date: 28 August 2017
+Date: 30 July 2024
 
 ----
 
@@ -14,4 +14,4 @@ See: [Going Up In Smoke](/terms/going-up-in-smoke)
 
 Source:
 
-- /sources/grant-hutchinson
+- /sources/newton-user-interface-guidelines

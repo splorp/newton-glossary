@@ -1,0 +1,33 @@
+Title: Going Up In Smoke
+
+----
+
+Date: 30 July 2024
+
+----
+
+Text:
+
+The animation which appears after deleting text or ink drawings by [scrubbing](/terms/scrubbing) with the [pen](/terms/pen) on the [screen](/terms/screen) of a Newton device. The “dissipating smoke” is accompanied by a “[poof](/terms/poof)” sound.
+
+Also referred to the [puff of smoke](/terms/puff-of-smoke) and [smoke clouds](/terms/smoke-clouds).
+
+----
+
+Related:
+
+- /terms/poof
+- /terms/poof-it
+- /terms/puff-of-smoke
+- /terms/scribble
+- /terms/scrub
+- /terms/scrubbing
+- /terms/smoke-clouds
+- /terms/wavy-border
+- /terms/zig-zag
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference
