@@ -1,0 +1,33 @@
+Title: Unlocked Icon
+
+----
+
+Date: 29 July 2024
+
+----
+
+Text:
+
+An image of a open lock used to indicate that data contained on a [store](/terms/store) or in a [soup](/terms/soup) entry is located on writable [storage card](/terms/storage-card).
+
+For example, a [card slip](/terms/card-slip) will display an unlocked icon if the [write-protection switch](/terms/write-protection-switch) on a storage card is in the unlocked position.
+
+Also referred to as an [unlocked switch icon](/terms/unlocked-switch-icon).
+
+----
+
+Related:
+
+- /terms/card-slip
+- /terms/icon
+- /terms/locked-icon
+- /terms/locked-switch-icon
+- /terms/unlocked-switch-icon
+- /terms/user-interface
+- /terms/write-protection-switch
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference

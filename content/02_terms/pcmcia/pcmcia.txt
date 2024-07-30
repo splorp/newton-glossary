@@ -36,12 +36,16 @@ Related:
 - /terms/flash-card
 - /terms/hot-insertion
 - /terms/hot-removal
+- /terms/locked-icon
+- /terms/locked-switch-icon
 - /terms/locking-tab
 - /terms/pc-card
 - /terms/protection-card
 - /terms/slot
 - /terms/slot-jam
 - /terms/storage-card
+- /terms/unlocked-icon
+- /terms/unlocked-switch-icon
 - /terms/write-protected
 - /terms/write-protection-switch
 

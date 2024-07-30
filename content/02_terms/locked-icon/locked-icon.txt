@@ -1,0 +1,33 @@
+Title: Locked Icon
+
+----
+
+Date: 29 July 2024
+
+----
+
+Text:
+
+An image of a closed lock used to indicate that data contained on a [store](/terms/store) or in a [soup](/terms/soup) entry is located on a write-protected [storage card](/terms/storage-card), [application card](/terms/application-card), or is being displayed in a read-only [view](/terms/view).
+
+For example, a [card slip](/terms/card-slip) will display a locked icon if the [write-protection switch](/terms/write-protection-switch) on a storage card is in the locked position.
+
+Also referred to as a [locked switch icon](/terms/locked-switch-icon).
+
+----
+
+Related:
+
+- /terms/card-slip
+- /terms/icon
+- /terms/locked-switch-icon
+- /terms/unlocked-icon
+- /terms/unlocked-switch-icon
+- /terms/user-interface
+- /terms/write-protection-switch
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference

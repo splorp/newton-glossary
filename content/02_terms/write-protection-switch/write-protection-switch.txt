@@ -21,10 +21,14 @@ Related:
 - /terms/card-slip
 - /terms/external-store
 - /terms/flash-card
+- /terms/locked-icon
+- /terms/locked-switch-icon
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/protection-switch
 - /terms/storage-card
+- /terms/unlocked-icon
+- /terms/unlocked-switch-icon
 - /terms/write-protect-switch
 - /terms/write-protected
 

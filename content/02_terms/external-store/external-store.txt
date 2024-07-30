@@ -23,12 +23,16 @@ Related:
 - /terms/default-store
 - /terms/flash-card
 - /terms/internal-store
+- /terms/locked-icon
+- /terms/locked-switch-icon
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/slot
 - /terms/slot-jam
 - /terms/storage-card
 - /terms/store
+- /terms/unlocked-icon
+- /terms/unlocked-switch-icon
 - /terms/user-storage
 - /terms/write-protected
 - /terms/write-protection-switch
