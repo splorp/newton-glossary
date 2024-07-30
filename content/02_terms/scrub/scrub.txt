@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-To erase or delete words or images using a [zig zag](/terms/zig-zag) gesture with the [pen](/terms/pen). Also referred to as a [scribble](/terms/scribble) gesture in the beta version of [Newton OS](/terms/newton-os) included on the [Newton Notepad](/terms/notepad) device.
+To erase or delete words or images using a [zig-zag](/terms/zig-zag) gesture with the [pen](/terms/pen). Also referred to as a [scribble](/terms/scribble) gesture in the beta version of [Newton OS](/terms/newton-os) included on the [Newton Notepad](/terms/notepad) device.
 
 ----
 

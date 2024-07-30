@@ -1,4 +1,4 @@
-Title: Zig Zag
+Title: Zig-Zag
 
 ----
 
@@ -9,6 +9,8 @@ Date:
 Text:
 
 A back and forth [gesture](/terms/gesture) made with the [pen](/terms/pen). This gesture is usually performed in order to erase or delete words or images on the [screen](/terms/screen) of a Newton device.
+
+Also referred to as [Zigzag](/terms/zigzag).
 
 ----
 
@@ -22,6 +24,7 @@ Related:
 - /terms/scribble
 - /terms/scrub
 - /terms/scrubbing
+- /terms/zigzag
 
 ----
 
