@@ -16,6 +16,7 @@ A moderated and frequently updated document containing answers to common questio
 
 Resource:
 
+- [Russ Hersch: FAQs About FAQs](http://www.faqs.org/faqs/faqs/about-faqs/)
 - [Newton FAQ](https://newtonfaq.com/)
 
 ----
