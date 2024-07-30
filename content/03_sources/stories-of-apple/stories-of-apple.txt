@@ -1,0 +1,18 @@
+Title: Stories of Apple
+
+----
+
+Date: 29 July 2024
+
+----
+
+Text:
+
+An English language companion to Nicola D’Agostino’s [Storie di Apple](https://www.storiediapple.it/) website, featuring curated tales about [Apple](https://www.apple.com/) and its products.
+
+----
+
+Resource:
+
+- [Storie di Apple Website](https://www.storiediapple.it/)
+- [Stories of Apple Website](https://www.storiesofapple.net/)
