@@ -29,9 +29,3 @@ Related:
 - /terms/pie-developer-info
 - /terms/pie-developer-talk
 - /terms/pie-partners-program
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

@@ -24,9 +24,3 @@ Related:
 - /terms/newtsbug
 - /terms/senior
 - /terms/viewframe
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

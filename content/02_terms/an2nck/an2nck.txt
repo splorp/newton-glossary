@@ -17,9 +17,3 @@ Related:
 - /terms/action-names
 - /terms/name-file
 - /terms/newton-connection
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

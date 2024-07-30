@@ -15,9 +15,3 @@ Software developed by Russell Tait of [Compass Information Systems](https://web.
 Resource:
 
 - [Compass: Tibet Product Information](https://web.archive.org/web/20010805072031/http://www.compassinfo.com/tibet/)
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

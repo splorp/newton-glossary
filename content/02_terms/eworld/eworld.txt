@@ -27,9 +27,3 @@ Related:
 - /terms/simplemail
 - /terms/stationery
 - /terms/transport
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

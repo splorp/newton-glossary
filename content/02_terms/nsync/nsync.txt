@@ -25,9 +25,3 @@ Related:
 - /terms/now-up-to-date
 - /terms/sync
 - /terms/synchronization
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

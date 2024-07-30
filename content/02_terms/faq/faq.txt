@@ -26,9 +26,3 @@ Related:
 - /terms/newtledge
 - /terms/rtfm
 - /terms/wikiwikinewt
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

@@ -25,9 +25,3 @@ Related:
 - /terms/supertech-2000
 - /terms/tarpon
 - /terms/watson
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

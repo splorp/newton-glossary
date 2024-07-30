@@ -25,9 +25,3 @@ Related:
 - /terms/pcmcia
 - /terms/storage-card
 - /terms/store
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

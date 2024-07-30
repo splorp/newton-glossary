@@ -9,9 +9,3 @@ Date:
 Text:
 
 See: [Tag Button](/terms/tag-button)
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

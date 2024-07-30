@@ -16,8 +16,7 @@ The ARMadillo card was preceded by the [ARMageddon](/terms/armageddon) and [ARMi
 
 Resource:
 
-- [Stories of Apple: ARMageddon and ARMistice](http://www.storiesofapple.net/armageddon-and-armistice.html)
-- [Twitter: ARMadillo](https://twitter.com/i/moments/919601694589075456)
+- [Stories of Apple: ARMageddon and ARMistice](https://www.storiesofapple.net/armageddon-and-armistice.html)
 
 ----
 
@@ -33,4 +32,4 @@ Related:
 
 Source:
 
-- /sources/grant-hutchinson
+- /sources/stories-of-apple

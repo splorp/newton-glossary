@@ -25,9 +25,3 @@ Resource:
 Related:
 
 - /terms/wwnc
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

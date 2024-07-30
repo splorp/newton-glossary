@@ -24,9 +24,3 @@ Related:
 - /terms/mi
 - /terms/name-file
 - /terms/personal-information-manager
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

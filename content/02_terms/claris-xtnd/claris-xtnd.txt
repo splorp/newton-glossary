@@ -9,9 +9,3 @@ Date:
 Text:
 
 See: [XTND](/terms/xtnd)
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

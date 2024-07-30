@@ -25,9 +25,3 @@ Related:
 - /terms/newton-developer-conference
 - /terms/wonc
 - /terms/wwna
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

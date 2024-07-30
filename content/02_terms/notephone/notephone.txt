@@ -31,9 +31,3 @@ Related:
 - /terms/notephone-ii
 - /terms/oad
 - /terms/siemens-online-terminal
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

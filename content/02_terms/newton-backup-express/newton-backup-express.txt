@@ -30,9 +30,3 @@ Related:
 - /terms/package-installer
 - /terms/restore
 - /terms/unixnpi
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

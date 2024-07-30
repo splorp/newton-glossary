@@ -9,9 +9,3 @@ Date:
 Text:
 
 See: [Bunwarmer](/terms/bunwarmer)
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

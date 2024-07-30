@@ -27,9 +27,3 @@ Related:
 - /terms/newton-connection-pro-kit
 - /terms/newton-connection-utilities
 - /terms/restore
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

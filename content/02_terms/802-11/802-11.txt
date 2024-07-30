@@ -20,9 +20,3 @@ Related:
 - /terms/wavelan
 - /terms/wep
 - /terms/wireless-access-point
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

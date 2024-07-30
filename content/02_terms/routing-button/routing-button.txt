@@ -14,4 +14,4 @@ See: [Action Button](/terms/action-button)
 
 Source:
 
-- /sources/grant-hutchinson
+- /sources/messagepad-2000-user-manual

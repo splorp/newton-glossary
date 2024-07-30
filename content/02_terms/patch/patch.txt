@@ -22,9 +22,3 @@ Related:
 - /terms/system-patch
 - /terms/system-patch-pages
 - /terms/system-update
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

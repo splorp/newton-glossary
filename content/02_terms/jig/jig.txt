@@ -17,9 +17,3 @@ Related:
 - /terms/jigsaw-strategy-game
 - /terms/pie
 - /terms/starcore
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

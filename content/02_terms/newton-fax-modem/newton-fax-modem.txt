@@ -22,9 +22,3 @@ Related:
 
 - /terms/cigarette-pack
 - /terms/modeminos
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

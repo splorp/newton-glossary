@@ -9,9 +9,3 @@ Date:
 Text:
 
 See: [System](/terms/system)
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

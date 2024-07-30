@@ -44,9 +44,3 @@ Related:
 - /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

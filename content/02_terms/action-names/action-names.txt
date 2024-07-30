@@ -33,9 +33,3 @@ Related:
 - /terms/moreinfo
 - /terms/name-file
 - /terms/personal-information-manager
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

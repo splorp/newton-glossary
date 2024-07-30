@@ -22,9 +22,3 @@ Related:
 
 - /terms/claris-xtnd
 - /terms/newton-press
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

@@ -37,5 +37,4 @@ Related:
 
 Source:
 
-- /sources/grant-hutchinson
 - /sources/maurice-sharp

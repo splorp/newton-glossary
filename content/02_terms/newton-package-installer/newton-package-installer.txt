@@ -27,9 +27,3 @@ Related:
 - /terms/npi
 - /terms/package-installer
 - /terms/unixnpi
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

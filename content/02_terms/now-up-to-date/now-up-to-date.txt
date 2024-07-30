@@ -22,9 +22,3 @@ Related:
 - /terms/nud
 - /terms/personal-information-manager
 - /terms/synchronize
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

@@ -18,9 +18,3 @@ Related:
 
 - /terms/rss
 - /terms/xml
-
-----
-
-Source:
-
-- /sources/grant-hutchinson

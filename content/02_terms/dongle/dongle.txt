@@ -24,9 +24,3 @@ Related:
 - /terms/multifunction-interconnect-adapter
 - /terms/newton-interconnect
 - /terms/newton-serial-adapter
-
-----
-
-Source:
-
-- /sources/grant-hutchinson
