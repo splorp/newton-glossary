@@ -1,4 +1,4 @@
-Title: Declaring A Template
+Title: Declaring a Template
 
 ----
 

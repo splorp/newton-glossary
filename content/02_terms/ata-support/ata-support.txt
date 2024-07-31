@@ -29,7 +29,6 @@ Related:
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/storage-card
-- /terms/store
 
 ----
 
