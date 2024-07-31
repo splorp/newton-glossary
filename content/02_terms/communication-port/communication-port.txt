@@ -8,7 +8,7 @@ Date: 23 June 2024
 
 Text:
 
-A [Mini-DIN](/terms/mini-din) style connector, generally used to connect peripherals such as mice, modems, and keyboards to computing devices. The [MessagePad 100](/terms/messagepad-100), [MessagePad 110](/terms/messagepad-110), [MessagePad 120](/terms/messagepad-120), [MessagePad 130](/terms/messagepad-130), and [eMate 300](/terms/emate-300) devices use this type of communication port.
+A [Mini-DIN](/terms/mini-din) style connector, generally used to connect peripherals such as mice, [modems](/terms/modem), and keyboards to computing devices. The [MessagePad 100](/terms/messagepad-100), [MessagePad 110](/terms/messagepad-110), [MessagePad 120](/terms/messagepad-120), [MessagePad 130](/terms/messagepad-130), and [eMate 300](/terms/emate-300) devices use this type of communication port.
 
 The [Newton Interconnect](/terms/newton-interconnect) port found on [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices provides the functionality of a communication port, along with other connections such as audio and power.
 
@@ -24,6 +24,7 @@ Related:
 - /terms/geoport
 - /terms/geoport-telecom-adapter
 - /terms/mini-din
+- /terms/modem
 - /terms/newton-interconnect
 - /terms/newton-serial-adapter
 - /terms/ser-001

@@ -10,7 +10,7 @@ Text:
 
 Serial Line Internet Protocol
 
-Software that allows the [IP](/terms/ip) network layer, commonly used over [ethernet](/terms/ethernet), to be used over a serial connection such as a modem.
+Software that allows the [IP](/terms/ip) network layer, commonly used over [ethernet](/terms/ethernet), to be used over a serial connection such as a [modem](/terms/modem).
 
 SLIP was superceded by [PPP](/terms/ppp).
 
@@ -31,6 +31,7 @@ Related:
 - /terms/dns
 - /terms/ethernet
 - /terms/ip
+- /terms/modem
 - /terms/ppp
 - /terms/protocol
 - /terms/tcp

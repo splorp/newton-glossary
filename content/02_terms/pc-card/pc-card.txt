@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A small, removable peripheral [card](/terms/card) based on the [PCMCIA](/terms/pcmcia) standard, primarily used for memory expansion and [application](/terms/application) storage. Other peripherals based on the PC card form factor are networking cards, modems, hard disk drives, and [video adapters](/terms/ez2tv).
+A small, removable peripheral [card](/terms/card) based on the [PCMCIA](/terms/pcmcia) standard, primarily used for memory expansion and [application](/terms/application) storage. Other peripherals based on the PC card form factor are networking cards, [modems](/terms/modem), hard disk drives, and [video adapters](/terms/ez2tv).
 
 ----
 

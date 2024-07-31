@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A Newton device developed by [Motorola](http://www.motorola.com/). The Marco featured a wireless modem that used the [ARDIS](/terms/ardis) wireless networking service.
+A Newton device developed by [Motorola](http://www.motorola.com/). The Marco featured a wireless [modem](/terms/modem) that used the [ARDIS](/terms/ardis) wireless networking service.
 
 A third-party device that utilizes a licensed version of [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
 

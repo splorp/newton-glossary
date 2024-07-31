@@ -20,6 +20,7 @@ Resource:
 
 Related:
 
+- /terms/modem
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/rj-11

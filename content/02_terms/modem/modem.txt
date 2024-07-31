@@ -1,0 +1,28 @@
+Title: Modem
+
+----
+
+Date: 31 July 2024
+
+----
+
+Text:
+
+A portmanteau of modulator and demodulator, describing any electronic device that converts serial data originating from one computer into an audio signal suitable for transmission over a telephone line to another modem.
+
+----
+
+Related:
+
+- /terms/cigarette-pack
+- /terms/modem
+- /terms/modeminos
+- /terms/newton-fax-modem
+- /terms/rs-232
+- /terms/xjack
+
+----
+
+Source:
+
+- /sources/foldoc

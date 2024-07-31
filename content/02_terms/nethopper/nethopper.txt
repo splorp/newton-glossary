@@ -10,7 +10,7 @@ Text:
 
 The first commercial web browser for [Newton OS](/terms/newton-os) developed by [AllPen Software](/sources/allpen) and released in August 1996.
 
-NetHopper began as an [application](/terms/application) that allowed Newton devices to access the web through a Mac OS computer running as an internet [gateway](/terms/gateway). Subsequent versions of NetHopper used Apple’s [Newton Internet Enabler](/terms/newton-internet-enabler) (NIE) software to connect directly to the internet through a modem or other network connection.
+NetHopper began as an [application](/terms/application) that allowed Newton devices to access the web through a Mac OS computer running as an internet [gateway](/terms/gateway). Subsequent versions of NetHopper used Apple’s [Newton Internet Enabler](/terms/newton-internet-enabler) (NIE) software to connect directly to the internet through a [modem](/terms/modem) or other network connection.
 
 ----
 
