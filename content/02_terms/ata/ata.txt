@@ -21,6 +21,7 @@ Related:
 - /terms/card-slip
 - /terms/compactflash
 - /terms/external-card
+- /terms/microdrive
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/storage-card

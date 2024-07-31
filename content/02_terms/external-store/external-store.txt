@@ -25,6 +25,7 @@ Related:
 - /terms/internal-store
 - /terms/locked-icon
 - /terms/locked-switch-icon
+- /terms/microdrive
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/slot

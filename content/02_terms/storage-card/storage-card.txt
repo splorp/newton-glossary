@@ -27,6 +27,7 @@ Related:
 - /terms/locked-icon
 - /terms/locked-switch-icon
 - /terms/memory-card
+- /terms/microdrive
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/slot

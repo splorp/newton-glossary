@@ -33,6 +33,7 @@ Related:
 - /terms/locked-icon
 - /terms/locked-switch-icon
 - /terms/locking-tab
+- /terms/microdrive
 - /terms/name-card
 - /terms/name-file
 - /terms/newscard
