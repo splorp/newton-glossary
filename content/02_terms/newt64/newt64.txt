@@ -17,7 +17,7 @@ NEWT/64 was developed by [Matthias Melcher](/sources/matthias-melcher) and is ba
 Resource:
 
 - [GitHub: NEWT/64](https://github.com/MatthiasWM/NEWT64)
-- [NewtonTalk: Newt/64 and NewtonScript internals](http://newtontalk.net/archive/newtontalk/2020-June/018815.html)
+- [NewtonTalk: Newt/64 and NewtonScript internals](https://newtontalk.net/archive/newtontalk/2020-June/018815.html)
 
 
 ----

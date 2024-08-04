@@ -14,7 +14,7 @@ A defunct wiki-based reference site for the Newton platform created by [Victor R
 
 Resource:
 
-- [NewtonTalk: [ANN] WikiWikiNewt](http://newtontalk.net/archive/newtontalk/2002-September/0635.html)
+- [NewtonTalk: [ANN] WikiWikiNewt](https://newtontalk.net/archive/newtontalk/2002-September/0635.html)
 - [WikiWikiNewt Home Page](http://web.archive.org/web/20071011135437/http://tools.unna.org/wikiwikinewt/index.php/HomePage)
 
 ----
