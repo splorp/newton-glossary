@@ -1,0 +1,32 @@
+Title: Door Clip Jedi
+
+----
+
+Date: 02 August 2024
+
+----
+
+Text:
+
+A term coined by Mark Ross on the [NewtonTalk](/terms/newtontalk) mailing list describing person who has developed a solution for repairing or replacing a [lid clip](/terms/lid-clip) on a [MessagePad 2000](/terms/messagepad-2000) or [MessagePad 2100](/terms/messagepad-2100) device.
+
+For some reason, the hinged [lid](/terms/lid) found on most Newton devices is regularly (and mistakenly) referred to as a [door](/terms/door) on the [NewtonTalk](/terms/newtontalk) mailing list, hence the use of the phrase “door clip”.
+
+----
+
+Resource:
+
+- [NewtonTalk: MP2x00 Door Clasp](https://newtontalk.net/archive/newtontalk/2002-April/3550.html)
+
+----
+
+Related:
+
+- /terms/lid
+- /terms/lid-clip
+
+----
+
+Source:
+
+- /sources/newtontalk

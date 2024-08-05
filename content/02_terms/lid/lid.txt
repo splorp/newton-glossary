@@ -30,6 +30,7 @@ Related:
 - /terms/display-lid
 - /terms/door
 - /terms/door-clip
+- /terms/door-clip-jedi
 - /terms/floppy-lid
 - /terms/locking-tab
 - /terms/screen-Lid

@@ -24,6 +24,7 @@ Related:
 
 - /terms/door-clasp
 - /terms/door-clip
+- /terms/door-clip-jedi
 - /terms/lid
 - /terms/lid-clasp
 
