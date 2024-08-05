@@ -8,7 +8,7 @@ Date: 29 August 2018
 
 Text:
 
-The built-in [application](/terms/application) which provides an interactive tutorial for teaching how to use the word processing and drawing components of [Newton Works](/terms/newton-works) on an [eMate](/terms/emate-300) device.
+The built-in [application](/terms/application) which provides an interactive tutorial for teaching how to use the word processing and drawing components of [Newton Works](/terms/newton-works) on an [eMate 300](/terms/emate-300) device.
 
 ----
 
