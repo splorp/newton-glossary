@@ -62,11 +62,17 @@ Use if the referenced term is a quirky or derogatory name for the source term.
 
 ### Indicating menu items, windows, slips, and other named user interface elements
 
-Other than using their proper capitalized names, should these items be wrapped in quotes or styled in some other way?
+When referring to other terms, as decribed above, if the reference is set in its own paragraph, the term should be capitalized.
 
 _Example:_
 
-+ Ink words are created when the user has selected [Ink Text](/terms/ink-text) in the “Recognition Preferences” slip.
++ Also referred to as a [Silk Button](/terms/silk-button).
+
+Other than using their proper capitalized names, such as menu items or buttons, terms can appear in lowercase when set as part of a longer sentence.
+
+_Example:_
+
++ Ink words are created when the user has selected [Ink Text](/terms/ink-text) in the “Recognition Preferences” [slip](/terms/slip).
 
 ### Introducing descriptive elements of a term
 
