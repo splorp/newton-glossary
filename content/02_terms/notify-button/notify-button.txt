@@ -12,7 +12,7 @@ A small [icon](/terms/icon) in the form of a [blinking star](/terms/blinking-sta
 
 [Tapping](/terms/tapping) the notify button will display a [notify picker](/terms/notify-picker) containing a list of ongoing [actions](/terms/action) and deferred notification alerts. Selecting an item in the [picker](/terms/picker) displays a [status slip](/terms/status-slip) corresponding to that item.
 
-Also referred to as the [notify icon](/terms/notify-icon) or [star](/terms/star).
+Also referred to as the [Notify Icon](/terms/notify-icon) or [Star](/terms/star).
 
 ----
 

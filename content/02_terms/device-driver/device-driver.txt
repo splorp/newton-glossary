@@ -10,7 +10,7 @@ Text:
 
 A software program that facilitates the connection of a peripheral device to an [operating system](/terms/operating-system).
 
-Commonly referred to as simply a [driver](/terms/driver).
+Commonly referred to as simply a [Driver](/terms/driver).
 
 ----
 

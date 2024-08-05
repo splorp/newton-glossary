@@ -10,7 +10,7 @@ Text:
 
 The handheld instrument used to enter data into a Newton device via the [screen](/terms/screen).
 
-Also referred to as a [stylus](/terms/stylus).
+Also referred to as a [Stylus](/terms/stylus).
 
 ----
 

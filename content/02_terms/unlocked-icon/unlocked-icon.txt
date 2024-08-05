@@ -12,7 +12,7 @@ An image of a open lock used to indicate that data contained on a [store](/terms
 
 For example, a [card slip](/terms/card-slip) will display an unlocked icon if the [write-protection switch](/terms/write-protection-switch) on a storage card is in the unlocked position.
 
-Also referred to as an [unlocked switch icon](/terms/unlocked-switch-icon).
+Also referred to as an [Unlocked Switch Icon](/terms/unlocked-switch-icon).
 
 ----
 

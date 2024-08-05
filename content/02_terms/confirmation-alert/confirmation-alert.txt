@@ -12,7 +12,7 @@ An [alert box](/terms/alert-box) that appears on the [screen](/terms/screen) req
 
 A confirmation alert has no [close box](/terms/close-box). Instead, it has labeled buttons, usually named “Cancel” and “OK”.
 
-Also referred to as a [confirmation slip](/terms/confirmation-slip).
+Also referred to as a [Confirmation Slip](/terms/confirmation-slip).
 
 <img src="/assets/images/confirmation-alert-2x.gif" alt="Screenshot of a Confirmation Alert" width="208" />
 

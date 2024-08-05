@@ -14,7 +14,7 @@ Tapping a letter in the corrector view pops up a different correction picker, li
 
 <img src="/assets/images/corrector-view-with-correction-picker-2x.gif" alt="Screenshot of the Corrector View with a Correction Picker" width="237" />
 
-Also referred to as simply a [corrector](/terms/corrector).
+Also referred to as simply a [Corrector](/terms/corrector).
 
 ----
 

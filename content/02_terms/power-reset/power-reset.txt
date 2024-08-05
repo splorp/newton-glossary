@@ -10,7 +10,7 @@ Text:
 
 A method of [resetting](/terms/reset) the [Newton OS](/terms/newton-os) by pressing the [reset button](/terms/reset-button) and holding down the power switch. A power reset does not erase any user data, [applications](/terms/application), packages, [handwriting recognition](/terms/handwriting-recognition) training, or [preferences](/terms/preferences). However, it does reset the power manager.
 
-Also referred to as a [deep reset](/terms/deep-reset) or [hardware reset](/terms/hardware-reset).
+Also referred to as a [Deep Reset](/terms/deep-reset) or [Hardware Reset](/terms/hardware-reset).
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 A method of [resetting](/terms/reset) the [Newton OS](/terms/newton-os) by pressing the [reset button](/terms/reset-button). A soft reset does not erase any user data, [applications](/terms/application), packages, [handwriting recognition](/terms/handwriting-recognition) training, or [preferences](/terms/preferences).
 
-Also referred to as a [warm boot](/terms/warm-boot) or [software reset](/terms/software-reset).
+Also referred to as a [Warm Boot](/terms/warm-boot) or [Software Reset](/terms/software-reset).
 
 ----
 

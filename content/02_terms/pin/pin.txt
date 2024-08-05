@@ -14,7 +14,7 @@ A unique series of numerals that allows secure access to a system or device.
 
 To prevent unauthorized people from using a [Newton OS](/terms/newton-os) device, you can set a [password](/terms/password) in the form of a PIN using the [Prefs](/terms/prefs) application.
 
-Also referred to as a [system password](/terms/system-password) in the [Owner Info](/terms/owner-info) preferences [slip](/terms/slip).
+Also referred to as a [System Password](/terms/system-password) in the [Owner Info](/terms/owner-info) preferences [slip](/terms/slip).
 
 ----
 

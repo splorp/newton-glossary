@@ -10,7 +10,7 @@ Text:
 
 An internal circuit board for [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices developed by [David Humphreys](/sources/david-humphreys). When installed, it provides a standard [Mini-DIN](/terms/mini-din) port, eliminating the need for a [Newton Serial Adapter](/terms/newton-serial-adapter) plugged into the proprietary [Newton InterConnect](/terms/newton-interconnect).
 
-Also referred to as a [dongle destroyer](/terms/dongle-destroyer).
+Also referred to as a [Dongle Destroyer](/terms/dongle-destroyer).
 
 ----
 

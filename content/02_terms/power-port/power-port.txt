@@ -10,7 +10,7 @@ Text:
 
 A connector on a Newton device which accepts a plug from an AC adapter or other external power source such as a [battery booster pack](/terms/battery-booster-pack).
 
-Also referred to as an [AC port](/terms/ac-port).
+Also referred to as an [AC Port](/terms/ac-port).
 
 ----
 

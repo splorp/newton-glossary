@@ -10,7 +10,7 @@ Text:
 
 A small software [patch](/terms/patch) that is installed on a Newton device to modify or update certain aspects of the [ROM](/terms/rom)-based [operating system](/terms/operating-system).
 
-Also referred to as a [system patch](/terms/system-patch).
+Also referred to as a [System Patch](/terms/system-patch).
 
 ----
 

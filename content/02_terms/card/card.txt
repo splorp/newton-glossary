@@ -12,7 +12,7 @@ A [view](/terms/view) of information pertaining to an entry in the [Name File](/
 
 Card is also an [application](/terms/application) that allows the user to retrieve information about a PC card inserted into a Newton device, displaying that information in a [card slip](/terms/card-slip).
 
-Card can also refer to a [PC card](/terms/pc-card) or [CompactFlash](/terms/compactflash) card.
+Card can also refer to a [PC Card](/terms/pc-card) or [CompactFlash](/terms/compactflash) card.
 
 ----
 

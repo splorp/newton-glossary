@@ -10,7 +10,7 @@ Text:
 
 A small, sliding lever located on a [storage card](/terms/storage-card) used to prevent storing, moving, deleting, or changing information on the card.
 
-Also referred to as a [card lock switch](/terms/card-lock-switch), [protection switch](/terms/protection-switch) or [write-protect switch](/terms/write-protect-switch).
+Also referred to as a [Card Lock Switch](/terms/card-lock-switch), [Protection Switch](/terms/protection-switch), or [Write-Protect Switch](/terms/write-protect-switch).
 
 ----
 

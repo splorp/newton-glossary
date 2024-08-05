@@ -12,7 +12,7 @@ A [storage card](/terms/storage-card) that allows a user to update a Newton devi
 
 This process is known as [bootstrapping](/terms/bootstrapping).
 
-Also referred to as a [lender card](/terms/lender-card) or [loaner card](/terms/loaner-card).
+Also referred to as a [Lender Card](/terms/lender-card) or [Loaner Card](/terms/loaner-card).
 
 ----
 

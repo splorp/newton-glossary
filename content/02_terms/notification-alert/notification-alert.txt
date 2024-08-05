@@ -12,7 +12,7 @@ An [alert box](/terms/alert-box) that appears on the [screen](/terms/screen) con
 
 A notification alert includes a [close box](/terms/close-box) and may or may not be accompanied by an [alert sound](/terms/alert-sound).
 
-Also referred to as a [notification slip](/terms/notification-slip).
+Also referred to as a [Notification Slip](/terms/notification-slip).
 
 <img src="/assets/images/notification-alert-2x.gif" alt="Screenshot of a Notification Alert" width="208" />
 

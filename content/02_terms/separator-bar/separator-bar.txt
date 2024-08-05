@@ -12,7 +12,7 @@ A thick black [line](/terms/line) located at the top of each item in a [view](/t
 
 For example, the separator bar in the [Notepad](/terms/application) contains an [item info button](/terms/item-info-button), the date when the [note](/terms/note) was created, an [action button](/terms/action-button), and a [folder button](/terms/folder-button).
 
-Also referred to as a [divider bar](/terms/divider-bar).
+Also referred to as a [Divider Bar](/terms/divider-bar).
 
 <img src="/assets/images/separator-bar-2x.gif" alt="Screenshot of a Separator Bar in the Notepad application" width="316" />
 

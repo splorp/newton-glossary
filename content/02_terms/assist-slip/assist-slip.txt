@@ -14,7 +14,7 @@ An input [container view](/terms/container-view) that is displayed if the [Assis
 
 If the user wrote something before [tapping](/terms/tapping) the Assist button, such as a [request word](/terms/request-word], but did not provide enough information to clearly specify an action, the Assist slip displays those words and includes a message prompting the user to provide additional information.
 
-The Assist slip is also referred to as the [Assist drawer](/terms/assist-drawer) in some Apple documentation, even though it is not technically a [drawer](/terms/drawer).
+The Assist slip is also referred to as the [Assist Drawer](/terms/assist-drawer) in some Apple documentation, even though it is not technically a [drawer](/terms/drawer).
 
 ----
 
