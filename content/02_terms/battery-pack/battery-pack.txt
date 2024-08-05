@@ -17,10 +17,8 @@ Related:
 - /terms/backup-battery
 - /terms/battery
 - /terms/battery-booster-pack
-- /terms/battery-cage
 - /terms/battery-contact-bounce
 - /terms/battery-gauge
-- /terms/battery-sled
 - /terms/battery-tray
 - /terms/cell
 - /terms/charge-state
@@ -32,8 +30,6 @@ Related:
 - /terms/recell
 - /terms/recelled
 - /terms/receller
-- /terms/sled
-- /terms/tray
 - /terms/rhythm-method
 - /terms/rmp
 
