@@ -1,0 +1,34 @@
+Title: Lid Clip
+
+----
+
+Date: 04 August 2024
+
+----
+
+Text:
+
+A small, spring-loaded protuberance located on the back of [MessagePad 2000](/terms/messagepad-2000), and [MessagePad 2100](/terms/messagepad-2100) devices. A pair of clips hold the [lid](/terms/lid) in place when it has been folded over to expose the [screen](/terms/screen).
+
+Also referred to as a [Door Clip](/terms/door-clip), [Door Clasp](/terms/door-clasp), or [Lid Clasp](/terms/lid-clasp).
+
+----
+
+Reference:
+
+- [J & K Sales: MessagePad 2100/2000 Screen Lid Clips](https://web.archive.org/web/20050313132048/http://www.jksalesinc.com/catalog/product_info.php?cPath=25_37_273&products_id=106)
+
+----
+
+Related:
+
+- /terms/door-clasp
+- /terms/door-clip
+- /terms/lid
+- /terms/lid-clasp
+
+----
+
+Source:
+
+- /sources/newtontalk

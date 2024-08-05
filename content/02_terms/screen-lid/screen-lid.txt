@@ -1,0 +1,18 @@
+Title: Screen Lid
+
+----
+
+Date: 04 August 2024
+
+----
+
+Text:
+
+See: [Lid](/terms/lid)
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
+- /sources/messagepad-handbook-1995

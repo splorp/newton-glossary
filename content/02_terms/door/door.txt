@@ -1,0 +1,31 @@
+Title: Door
+
+----
+
+Date: 05 August 2024
+
+----
+
+Text:
+
+A movable [cover](/terms/cover) that protects various ports when not in use.
+
+On [MessagePad 2000](/terms/messagepad-2000] and [MessagePad 2100](/terms/messagepad-2100] devices, a hinged door on the top of the case opens to reveal the [power port](/terms/power-port) and [InterConnect](/terms/interconnect) ports.
+
+On an eMate 300, a [sliding door](/terms/sliding-door) covers the [communication ports](/terms/communication-port).
+
+----
+
+Related:
+
+- /terms/communication-port
+- /terms/cover
+- /terms/lid
+- /terms/sliding-cover
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/messagepad-2000-getting-started

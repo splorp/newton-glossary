@@ -1,0 +1,44 @@
+Title: Lid
+
+----
+
+Date: 04 August 2024
+
+----
+
+Text:
+
+A removable, protective [screen](/terms/screen) cover found on [MessagePad 110](/terms/messagepad-110), [MessagePad 120](/terms/messagepad-120), [MessagePad 130](/terms/messagepad-130), [MessagePad 2000](/terms/messagepad-2000), and [MessagePad 2100](/terms/messagepad-2100) devices.
+
+The lid is hinged in such a way that it can be flipped over and snapped into place on the back on the device.
+
+The adjustable, hinged lid on an [eMate 300](/terms/emate-300) device houses the screen and covers the keyboard when closed. The eMate lid also controls power to the device. For example, opening the lid turns on the power and closing the lid shuts off the power.
+
+Also referred to as a [Display Lid](/terms/display-lid), [Screen Lid](/terms/screen-lid), or [Cover](/terms/cover).
+
+----
+
+Related:
+
+- /terms/batman
+- /terms/battery-cover
+- /terms/broink
+- /terms/clamshell
+- /terms/cover
+- /terms/cover-release
+- /terms/dhp
+- /terms/display-lid
+- /terms/door
+- /terms/door-clip
+- /terms/floppy-lid
+- /terms/locking-tab
+- /terms/screen-Lid
+- /terms/spring-issue
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/messagepad-2000-user-manual
+- /sources/messagepad-handbook-1995

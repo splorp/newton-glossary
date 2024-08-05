@@ -1,0 +1,17 @@
+Title: Display Lid
+
+----
+
+Date: 04 August 2024
+
+----
+
+Text:
+
+See: [Lid](/terms/lid)
+
+----
+
+Source:
+
+- /sources/apple-service-source
