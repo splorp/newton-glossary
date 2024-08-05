@@ -228,7 +228,7 @@ Sources: 135
 + Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin to version [2.1.0](https://github.com/pedroborges/kirby-meta-tags/releases/tag/v2.1.0)
 + Updated [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin to version [2.0.0](https://github.com/splorp/kirby-paperback-export/releases/tag/2.0.0)
 + Removed [Kirby GA](https://github.com/jenstornell/kirby-ga) plugin because Google
-+ Replaced [Kirby XML Sitemap](https://github.com/pedroborges/kirby-xml-sitemap) plugin with a <a href="https://getkirby.com/docs/cookbook/content/sitemap">built in version</a>
++ Replaced [Kirby XML Sitemap](https://github.com/pedroborges/kirby-xml-sitemap) plugin with a <a href="https://getkirby.com/docs/cookbook/content/sitemap">built-in version</a>
 
 ### 2.4.7
 
