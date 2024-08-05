@@ -1,0 +1,33 @@
+Title: Battery Cover
+
+----
+
+Date: 05 August 2024
+
+----
+
+Text:
+
+A removable part on a [MessagePad](/terms/messagepad) device or [eMate 300](/terms/emate-300) which covers the area where individual [batteries](/terms/battery) or a [battery pack](/terms/battery-pack) are stored.
+
+Also referred to as an [Access Cover](/terms/access-cover), [Access Door](/terms/access-door), [Battery Access Cover](/terms/battery-access-cover), [Battery Compartment Cover](/terms/battery-compartment-cover), or [Cover](/terms/cover).
+
+----
+
+Related:
+
+- /terms/access-cover
+- /terms/access-door
+- /terms/backup-battery
+- /terms/battery
+- /terms/battery-access-cover
+- /terms/battery-compartment-cover
+- /terms/battery-pack
+- /terms/battery-tray
+- /terms/cover
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995

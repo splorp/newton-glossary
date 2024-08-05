@@ -1,0 +1,17 @@
+Title: Battery Access Cover
+
+----
+
+Date: 05 August 2024
+
+----
+
+Text:
+
+See: [Battery Cover](/terms/battery-cover)
+
+----
+
+Source:
+
+- /sources/apple-service-source
