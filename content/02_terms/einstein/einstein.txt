@@ -23,6 +23,7 @@ Resource:
 
 Related:
 
+- /terms/gnuton
 - /terms/green
 - /terms/leibniz
 - /terms/unarmed

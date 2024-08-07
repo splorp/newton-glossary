@@ -21,6 +21,7 @@ Resource:
 Related:
 
 - /terms/einstein
+- /terms/gnuton
 - /terms/leibniz
 
 ----

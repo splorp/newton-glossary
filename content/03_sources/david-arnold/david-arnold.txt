@@ -1,0 +1,19 @@
+Title: David Arnold
+
+----
+
+Date: 07 August 2024
+
+----
+
+Text:
+
+Based in Australia, Arnold is a software developer and long-time member of the [NewtonTalk](/terms/newtontalk) mailing list. He is the author of the [Newton Infrared FAQ](https://0x1.org/d/stuff/newton/ir-faq.html) and was the instigator of the [GNUton](/terms/gnuton) emulator.
+
+----
+
+Resource:
+
+- [David Arnold Website](https://0x1.org/d/)
+- [GitHub: David Arnold](https://github.com/da4089)
+- [SourceForge: David Arnold](https://sourceforge.net/u/dja/profile/)

@@ -28,6 +28,7 @@ Related:
 - /terms/dylan
 - /terms/einstein
 - /terms/encyclopedia
+- /terms/gnuton
 - /terms/green
 - /terms/lisp
 - /terms/macintosh-common-lisp
