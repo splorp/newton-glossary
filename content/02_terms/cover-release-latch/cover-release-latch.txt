@@ -1,0 +1,29 @@
+Title: Cover Release Latch
+
+----
+
+Date: 07 August 2024
+
+----
+
+Text:
+
+A [latch](/terms/latch) located on [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices which releases the protective [lid](/terms/lid) or [screen](/terms/screen) cover, allowing it to be opened.
+
+----
+
+Related:
+
+- /terms/battery-latch
+- /terms/cover
+- /terms/door
+- /terms/latch
+- /terms/locking-tab
+- /terms/lid
+- /terms/small-latch
+
+----
+
+Source:
+
+- /sources/messagepad-2000-getting-started

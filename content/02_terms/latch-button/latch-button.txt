@@ -1,0 +1,17 @@
+Title: Latch Button
+
+----
+
+Date: 07 August 2024
+
+----
+
+Text:
+
+See: [Small Latch](/terms/small-latch)
+
+----
+
+Source:
+
+- /sources/messagepad-2000-getting-started

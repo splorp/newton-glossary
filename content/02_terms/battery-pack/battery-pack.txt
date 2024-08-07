@@ -19,6 +19,7 @@ Related:
 - /terms/battery-booster-pack
 - /terms/battery-contact-bounce
 - /terms/battery-gauge
+- /terms/battery-latch
 - /terms/battery-tray
 - /terms/cell
 - /terms/charge-state

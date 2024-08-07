@@ -22,6 +22,7 @@ Related:
 - /terms/battery-cage
 - /terms/battery-contact-bounce
 - /terms/battery-gauge
+- /terms/battery-latch
 - /terms/battery-pack
 - /terms/battery-sled
 - /terms/cell
@@ -34,9 +35,9 @@ Related:
 - /terms/recell
 - /terms/recelled
 - /terms/receller
+- /terms/rhythm-method
 - /terms/sled
 - /terms/tray
-- /terms/rhythm-method
 
 ----
 

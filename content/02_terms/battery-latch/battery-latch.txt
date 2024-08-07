@@ -1,0 +1,32 @@
+Title: Battery Latch
+
+----
+
+Date: 07 August 2024
+
+----
+
+Text:
+
+A [latch](/terms/latch) located on [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices which releases the [battery pack](/terms/battery-pack) or [battery tray](/terms/battery-tray), allowing it to be removed.
+
+Also referred to as a [battery compartment latch](/terms/battery-compartment-latch).
+
+----
+
+Related:
+
+- /terms/battery-cover
+- /terms/battery-compartment-latch
+- /terms/battery-pack
+- /terms/battery-tray
+- /terms/cover-release-latch
+- /terms/latch
+- /terms/locking-tab
+- /terms/small-latch
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

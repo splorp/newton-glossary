@@ -20,6 +20,7 @@ Related:
 
 - /terms/communication-port
 - /terms/cover
+- /terms/latch
 - /terms/lid
 - /terms/sliding-cover
 

@@ -1,0 +1,32 @@
+Title: Latch
+
+----
+
+Date: 07 August 2024
+
+----
+
+Text:
+
+A mechanism which secures or releases a component located on a Newton device such as a [battery](/terms/battery), [PC card](/terms/pc-card), or [lid](/terms/lid).
+
+On an [eMate 300](/terms/emate-300), the [screen lid](/terms/screen-lid) latch is referred to as a [locking tab](/terms/locking-tab).
+
+----
+
+Related:
+
+- /terms/battery-latch
+- /terms/cover
+- /terms/cover-release-latch
+- /terms/door
+- /terms/lid
+- /terms/locking-tab
+- /terms/small-latch
+
+----
+
+Source:
+
+- /sources/apple-service-source
+- /sources/messagepad-handbook-1995

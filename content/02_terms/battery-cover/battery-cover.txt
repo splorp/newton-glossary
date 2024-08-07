@@ -25,6 +25,7 @@ Related:
 - /terms/battery-pack
 - /terms/battery-tray
 - /terms/cover
+- /terms/latch
 
 ----
 

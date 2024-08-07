@@ -25,15 +25,16 @@ Related:
 - /terms/broink
 - /terms/clamshell
 - /terms/cover
-- /terms/cover-release
+- /terms/cover-release-latch
 - /terms/dhp
 - /terms/display-lid
 - /terms/door
 - /terms/door-clip
 - /terms/door-clip-jedi
 - /terms/floppy-lid
+- /terms/latch
 - /terms/locking-tab
-- /terms/screen-Lid
+- /terms/screen-lid
 - /terms/spring-issue
 
 ----

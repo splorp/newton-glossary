@@ -1,0 +1,31 @@
+Title: Small Latch
+
+----
+
+Date: 07 August 2024
+
+----
+
+Text:
+
+A [latch](/terms/latch) located on the [lid](/terms/lid) of [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices which unfastens the hinge, allowing the lid to be removed.
+
+Also referred to as a [Latch Button](/terms/latch-button).
+
+----
+
+Related:
+
+- /terms/battery-latch
+- /terms/cover
+- /terms/door
+- /terms/latch
+- /terms/latch-button
+- /terms/locking-tab
+- /terms/lid
+
+----
+
+Source:
+
+- /sources/messagepad-2000-getting-started

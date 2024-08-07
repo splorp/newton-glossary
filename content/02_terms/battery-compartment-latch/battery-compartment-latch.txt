@@ -1,0 +1,17 @@
+Title: Battery Compartment Latch
+
+----
+
+Date: 07 August 2024
+
+----
+
+Text:
+
+See: [Battery Latch](/terms/battery-latch)
+
+----
+
+Source:
+
+- /sources/messagepad-2000-getting-started
