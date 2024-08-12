@@ -16,6 +16,7 @@ In programming, an event is an [action](/terms/action) of significance occurring
 
 Related:
 
+- /terms/action
 - /terms/date-book
 - /terms/dateman
 - /terms/keystroke-events
