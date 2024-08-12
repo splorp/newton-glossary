@@ -1,0 +1,36 @@
+Title: Hawking
+
+----
+
+Date: 12 August 2024
+
+----
+
+Text:
+
+A collective noun referring to a group of Newton devices.
+
+Originally [suggested by Karel Jansens](https://newtontalk.net/archive/newtontalk/2002-January/3074.html) on the [NewtonTalk](/terms/newtontalk) mailing list.
+
+Also referred to as a [Greening](/terms/greening) of Newton devices.
+
+----
+
+Resource:
+
+- [NewtonTalk: Connecting MPs with LocalTalk](https://newtontalk.net/archive/newtontalk/2002-January/3074.html)
+
+----
+
+Related:
+
+- /terms/greening
+- /terms/newton-farm
+- /terms/rain
+- /terms/supernewt
+
+----
+
+Source:
+
+- /sources/newtontalk

@@ -20,6 +20,8 @@ Resource:
 
 Related:
 
+- /terms/greening
+- /terms/hawking
 - /terms/newton-farm
 - /terms/rain
 
