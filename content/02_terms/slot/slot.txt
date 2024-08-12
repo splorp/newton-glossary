@@ -22,8 +22,8 @@ Related:
 - /terms/frame
 - /terms/hot-insertion
 - /terms/hot-removal
-- /terms/locking-tab
 - /terms/immediate
+- /terms/locking-tab
 - /terms/newtonscript
 - /terms/pc-card
 - /terms/pcmcia

@@ -27,9 +27,9 @@ Related:
 - /terms/grip-of-death
 - /terms/grips
 - /terms/inspector
-- /terms/object
 - /terms/newton-toolkit
 - /terms/newtonscript
+- /terms/object
 - /terms/the-grip
 
 ----

@@ -29,6 +29,7 @@ Related:
 - /terms/letter-by-letter
 - /terms/newtonscript
 - /terms/try-letters
+- /terms/user-interface
 - /terms/view
 
 ----

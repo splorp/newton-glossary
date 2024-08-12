@@ -26,6 +26,7 @@ Related:
 - /terms/parent-view
 - /terms/root-view
 - /terms/sibling-view
+- /terms/user-interface
 - /terms/view
 - /terms/view-class
 - /terms/view-definition

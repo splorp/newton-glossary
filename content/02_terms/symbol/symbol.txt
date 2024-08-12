@@ -14,13 +14,13 @@ An [object](/terms/object) used as an identifier. [NewtonScript](/terms/newtonsc
 
 Related:
 
-- /terms/object
-- /terms/variable
 - /terms/class
-- /terms/message
 - /terms/frame
+- /terms/message
 - /terms/newtonscript
+- /terms/object
 - /terms/slot
+- /terms/variable
 
 ----
 
