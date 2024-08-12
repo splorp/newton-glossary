@@ -14,7 +14,6 @@ An instruction to execute a [method](/terms/method), as in a programmed [functio
 
 Related:
 
-- /terms/command-key
 - /terms/frame
 - /terms/function
 - /terms/method

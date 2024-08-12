@@ -16,11 +16,9 @@ The command key is also the name of a modifier key found on a keyboard.
 
 Related:
 
-- /terms/action
 - /terms/auto-repeat
 - /terms/key-combination
 - /terms/keyboard-equivalent
-- /terms/message
 - /terms/modifier-key
 - /terms/type-ahead
 - /terms/typewriter
