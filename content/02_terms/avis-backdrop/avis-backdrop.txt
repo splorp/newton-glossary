@@ -8,7 +8,7 @@ Date: 08 November 2017
 
 Text:
 
-Software created by [Avi Drissman](/sources/avi-drissman) to be used as a [backdrop](/terms/backdrop) application on a Newton device. Avi’s Backdrop provides a wide range of features, including easy access to recent [applications](/terms/application), display of upcoming events from the [Date Book](/terms/date-book), extensive [battery](/terms/battery) statistics, toggling the [backlight](/terms/backlight), and a free-form input area called the [Scribble Pad](/terms/scribble-pad).
+Software created by [Avi Drissman](/sources/avi-drissman) to be used as a [backdrop](/terms/backdrop) application on a Newton device. Avi’s Backdrop provides a wide range of features, including easy access to recent [applications](/terms/application), display of upcoming [events](/terms/event) from the [Date Book](/terms/date-book), extensive [battery](/terms/battery) statistics, toggling the [backlight](/terms/backlight), and a free-form input area called the [Scribble Pad](/terms/scribble-pad).
 
 Arguably the most popular feature of Avi’s Backdrop is the ability to set a [background picture](/terms/background-picture).
 
