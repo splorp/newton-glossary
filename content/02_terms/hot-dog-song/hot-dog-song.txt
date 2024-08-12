@@ -32,6 +32,7 @@ Related:
 - /terms/clank
 - /terms/easter-egg
 - /terms/oscar-meyer-theme
+- /terms/newton-jingle
 - /terms/poof
 - /terms/popcorn
 - /terms/squeak
