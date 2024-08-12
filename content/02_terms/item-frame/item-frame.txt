@@ -15,6 +15,7 @@ The [frame](/terms/frame) that encapsulates a routed (sent or received) [object]
 Related:
 
 - /terms/frame
+- /terms/newtonscript
 - /terms/object
 - /terms/option-frame
 - /terms/part-frame

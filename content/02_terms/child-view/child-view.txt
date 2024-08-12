@@ -15,6 +15,7 @@ A [child view](/terms/child-view) is a visual object represented on the [screen]
 Related:
 
 - /terms/child
+- /terms/newtonscript
 - /terms/parent
 - /terms/parent-view
 - /terms/sibling

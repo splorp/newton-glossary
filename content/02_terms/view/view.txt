@@ -23,6 +23,7 @@ Related:
 - /terms/key-view
 - /terms/layout-view
 - /terms/main-view
+- /terms/newtonscript
 - /terms/object
 - /terms/origin
 - /terms/overview

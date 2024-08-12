@@ -17,6 +17,7 @@ Related:
 - /terms/bitmap
 - /terms/build
 - /terms/newton-toolkit
+- /terms/newtonscript
 - /terms/project
 - /terms/project-build
 - /terms/project-file

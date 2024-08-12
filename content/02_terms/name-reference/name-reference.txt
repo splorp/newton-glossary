@@ -17,6 +17,7 @@ Related:
 - /terms/alias
 - /terms/entry
 - /terms/frame
+- /terms/newtonscript
 - /terms/reference
 - /terms/slot
 - /terms/soup

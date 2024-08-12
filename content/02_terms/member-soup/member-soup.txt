@@ -19,6 +19,7 @@ Related:
 - /terms/flattened-soup
 - /terms/internal-store
 - /terms/newtcase
+- /terms/newtonscript
 - /terms/package-store
 - /terms/part
 - /terms/ragout

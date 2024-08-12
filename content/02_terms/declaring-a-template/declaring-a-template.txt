@@ -15,6 +15,7 @@ Registering a [template](/terms/template) in another [view](/terms/view) (usuall
 Related:
 
 - /terms/method
+- /terms/newtonscript
 - /terms/parent
 - /terms/proto-template
 - /terms/slot

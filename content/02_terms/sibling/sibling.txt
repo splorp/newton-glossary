@@ -16,6 +16,7 @@ Related:
 
 - /terms/child
 - /terms/frame
+- /terms/newtonscript
 - /terms/parent
 - /terms/sibling-view
 - /terms/view

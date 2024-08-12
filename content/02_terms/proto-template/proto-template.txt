@@ -17,6 +17,7 @@ Also referred to as simply a [Proto](/terms/proto).
 Related:
 
 - /terms/declaring-a-template
+- /terms/newtonscript
 - /terms/proto
 - /terms/prototype
 - /terms/system-proto

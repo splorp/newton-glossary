@@ -14,6 +14,7 @@ A [slot](/terms/slot) that is evaluated when [Newton Toolkit](/terms/newton-tool
 
 Related:
 
+- /terms/newtonscript
 - /terms/slot
 
 ----

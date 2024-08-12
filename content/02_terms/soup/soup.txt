@@ -27,6 +27,7 @@ Related:
 - /terms/item-frame
 - /terms/member-soup
 - /terms/name-reference
+- /terms/newtonscript
 - /terms/object
 - /terms/reference
 - /terms/ragout

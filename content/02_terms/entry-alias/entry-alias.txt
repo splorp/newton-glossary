@@ -17,6 +17,7 @@ Related:
 - /terms/alias
 - /terms/entry
 - /terms/name-reference
+- /terms/newtonscript
 - /terms/object
 - /terms/reference
 - /terms/soup

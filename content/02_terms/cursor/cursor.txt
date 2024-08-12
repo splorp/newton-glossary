@@ -24,6 +24,7 @@ Related:
 - /terms/field
 - /terms/input-line
 - /terms/method
+- /terms/newtonscript
 - /terms/object
 - /terms/soup
 - /terms/key-view

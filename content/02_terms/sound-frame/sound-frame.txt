@@ -19,6 +19,7 @@ Related:
 - /terms/codec
 - /terms/frame
 - /terms/item-frame
+- /terms/newtonscript
 - /terms/option-frame
 - /terms/part-frame
 - /terms/sample

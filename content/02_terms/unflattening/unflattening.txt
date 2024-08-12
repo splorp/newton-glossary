@@ -21,6 +21,7 @@ Related:
 - /terms/flattened-soup
 - /terms/flattening
 - /terms/frame
+- /terms/newtonscript
 - /terms/object
 - /terms/soup
 - /terms/unflatten

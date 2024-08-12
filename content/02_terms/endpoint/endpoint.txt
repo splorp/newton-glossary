@@ -19,6 +19,7 @@ Related:
 - /terms/finite-state-machine
 - /terms/input
 - /terms/input-spec
+- /terms/newtonscript
 - /terms/option-frame
 - /terms/output
 - /terms/output-spec

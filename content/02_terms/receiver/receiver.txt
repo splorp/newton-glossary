@@ -18,6 +18,7 @@ Related:
 - /terms/implementor
 - /terms/message
 - /terms/method
+- /terms/newtonscript
 - /terms/object
 - /terms/self
 

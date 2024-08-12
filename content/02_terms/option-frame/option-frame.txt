@@ -17,6 +17,7 @@ Related:
 - /terms/endpoint
 - /terms/frame
 - /terms/item-frame
+- /terms/newtonscript
 - /terms/object
 - /terms/part-frame
 - /terms/sound-frame

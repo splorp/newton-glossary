@@ -16,6 +16,7 @@ Related:
 
 - /terms/auto-part
 - /terms/frame
+- /terms/newtonscript
 - /terms/part-code
 - /terms/part-frame
 - /terms/store-part

@@ -15,6 +15,7 @@ The topmost [parent](/terms/view) of all other [views](/terms/view) in a single 
 Related:
 
 - /terms/layout-file
+- /terms/newtonscript
 - /terms/parent
 - /terms/view
 - /terms/view-class

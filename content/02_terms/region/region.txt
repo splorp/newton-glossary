@@ -15,6 +15,7 @@ An arbitrary area or set of areas on the coordinate plane, specifically when ref
 Related:
 
 - /terms/origin
+- /terms/newtonscript
 - /terms/view
 
 ----

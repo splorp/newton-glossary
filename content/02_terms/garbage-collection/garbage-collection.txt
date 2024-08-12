@@ -17,6 +17,7 @@ Related:
 - /terms/c-heap
 - /terms/heap
 - /terms/object
+- /terms/newtonscript
 - /terms/newtonscript-heap
 - /terms/system-heap
 - /terms/system-memory

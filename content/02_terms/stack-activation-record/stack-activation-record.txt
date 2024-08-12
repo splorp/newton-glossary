@@ -18,6 +18,7 @@ Related:
 - /terms/function
 - /terms/function-call-stack
 - /terms/implementor
+- /terms/newtonscript
 - /terms/pointer
 - /terms/receiver
 - /terms/stack

@@ -20,6 +20,7 @@ Related:
 - /terms/frame
 - /terms/input-spec
 - /terms/method
+- /terms/newtonscript
 - /terms/protocol
 - /terms/slot
 

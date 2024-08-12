@@ -27,6 +27,7 @@ Related:
 - /terms/handwriting-recognition
 - /terms/keyboard-button
 - /terms/letter-by-letter
+- /terms/newtonscript
 - /terms/try-letters
 - /terms/view
 

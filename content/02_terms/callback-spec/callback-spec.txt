@@ -19,6 +19,7 @@ Related:
 - /terms/frame
 - /terms/input-spec
 - /terms/method
+- /terms/newtonscript
 - /terms/output-spec
 - /terms/slot
 

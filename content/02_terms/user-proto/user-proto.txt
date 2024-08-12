@@ -14,6 +14,7 @@ A [proto](/terms/proto) defined by a developer in an [application](/terms/applic
 
 Related:
 
+- /terms/newtonscript
 - /terms/proto
 - /terms/proto-template
 - /terms/prototype

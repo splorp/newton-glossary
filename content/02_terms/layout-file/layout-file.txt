@@ -15,6 +15,7 @@ A file that contains [templates](/terms/template) for the [views](/terms/view) t
 Related:
 
 - /terms/layout-view
+- /terms/newtonscript
 - /terms/template
 - /terms/view
 

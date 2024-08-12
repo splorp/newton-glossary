@@ -23,6 +23,7 @@ Related:
 - /terms/keyboard-equivalent
 - /terms/keystrings
 - /terms/modifier-key
+- /terms/newtonscript
 - /terms/type-ahead
 - /terms/typewriter
 

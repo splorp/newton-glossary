@@ -16,6 +16,7 @@ Related:
 
 - /terms/build
 - /terms/newton-toolkit
+- /terms/newtonscript
 - /terms/package
 - /terms/project-build
 - /terms/project-file

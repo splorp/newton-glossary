@@ -32,6 +32,7 @@ Related:
 - /terms/magic-pointers-table
 - /terms/message
 - /terms/method
+- /terms/newtonscript
 - /terms/nsof
 - /terms/object-stream-file
 - /terms/path-expression

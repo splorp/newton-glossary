@@ -20,6 +20,7 @@ Related:
 - /terms/frame
 - /terms/function
 - /terms/function-stack-call
+- /terms/newtonscript
 - /terms/object
 - /terms/receiver
 - /terms/script-icon

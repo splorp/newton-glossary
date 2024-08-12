@@ -19,6 +19,7 @@ Related:
 - /terms/class
 - /terms/message
 - /terms/frame
+- /terms/newtonscript
 - /terms/slot
 
 ----

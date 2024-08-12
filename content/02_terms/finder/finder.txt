@@ -18,6 +18,7 @@ Related:
 
 - /terms/find-slip
 - /terms/frame
+- /terms/newtonscript
 
 ----
 

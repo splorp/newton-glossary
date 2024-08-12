@@ -17,6 +17,7 @@ Related:
 - /terms/array
 - /terms/binary-object
 - /terms/frame
+- /terms/newtonscript
 - /terms/object
 - /terms/symbol
 - /terms/view-class

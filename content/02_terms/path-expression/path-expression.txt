@@ -16,6 +16,7 @@ Related:
 
 - /terms/array
 - /terms/frame
+- /terms/newtonscript
 - /terms/object
 
 ----

@@ -17,6 +17,7 @@ Related:
 - /terms/frame
 - /terms/function
 - /terms/method
+- /terms/newtonscript
 - /terms/receiver
 - /terms/symbol
 

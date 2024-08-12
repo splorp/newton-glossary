@@ -15,6 +15,7 @@ An [endpoint](/terms/endpoint) option is specified in an [option frame](/terms/o
 Related:
 
 - /terms/endpoint
+- /terms/newtonscript
 - /terms/option-frame
 
 ----

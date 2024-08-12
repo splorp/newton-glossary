@@ -15,6 +15,7 @@ A value that indicates nothing, none, no, or anything negative or empty. Whereas
 Related:
 
 - /terms/boolean
+- /terms/newtonscript
 
 ----
 

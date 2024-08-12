@@ -16,6 +16,7 @@ Related:
 
 - /terms/declaring-a-template
 - /terms/method
+- /terms/newtonscript
 - /terms/parent
 - /terms/proto-template
 - /terms/slot

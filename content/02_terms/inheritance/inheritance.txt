@@ -15,6 +15,7 @@ The mechanism by which attributes ([slots](/terms/slot) or data) and behaviours 
 Related:
 
 - /terms/method
+- /terms/newtonscript
 - /terms/object
 - /terms/parent
 - /terms/proto

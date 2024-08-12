@@ -24,6 +24,7 @@ Related:
 - /terms/hot-removal
 - /terms/locking-tab
 - /terms/immediate
+- /terms/newtonscript
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/protection-card

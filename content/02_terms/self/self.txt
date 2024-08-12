@@ -15,6 +15,7 @@ A pseudo-[variable](/terms/variable) that is set to the current [receiver](/term
 Related:
 
 - /terms/frame
+- /terms/newtonscript
 - /terms/receiver
 - /terms/variable
 

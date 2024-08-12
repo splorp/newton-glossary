@@ -17,6 +17,7 @@ Related:
 - /terms/child
 - /terms/frame
 - /terms/inheritance
+- /terms/newtonscript
 - /terms/parent-view
 - /terms/sibling
 - /terms/slot

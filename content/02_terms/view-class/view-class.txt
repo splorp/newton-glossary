@@ -15,6 +15,7 @@ A primitive building block on which a [view](/terms/view) is based. All view [pr
 Related:
 
 - /terms/class
+- /terms/newtonscript
 - /terms/proto
 - /terms/slot
 - /terms/template

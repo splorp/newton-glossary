@@ -17,6 +17,7 @@ Related:
 - /terms/font
 - /terms/font-size
 - /terms/font-style
+- /terms/newtonscript
 - /terms/point
 - /terms/styles
 - /terms/text-run

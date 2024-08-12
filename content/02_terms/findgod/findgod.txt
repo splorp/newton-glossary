@@ -29,6 +29,7 @@ Related:
 - /terms/inspector
 - /terms/object
 - /terms/newton-toolkit
+- /terms/newtonscript
 - /terms/the-grip
 
 ----

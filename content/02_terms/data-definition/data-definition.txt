@@ -17,6 +17,7 @@ Related:
 - /terms/datadef
 - /terms/frame
 - /terms/method
+- /terms/newtonscript
 - /terms/slot
 - /terms/soup
 - /terms/stationery

@@ -17,6 +17,7 @@ Related:
 - /terms/bitmap
 - /terms/class
 - /terms/function-object
+- /terms/newtonscript
 - /terms/object
 - /terms/sound-frame
 - /terms/reference

@@ -21,6 +21,7 @@ Related:
 - /terms/key-view
 - /terms/layout-view
 - /terms/main-view
+- /terms/newtonscript
 - /terms/parent-view
 - /terms/root-view
 - /terms/sibling-view

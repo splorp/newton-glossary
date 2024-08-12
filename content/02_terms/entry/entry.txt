@@ -22,6 +22,7 @@ Related:
 - /terms/frame
 - /terms/member-soup
 - /terms/name-reference
+- /terms/newtonscript
 - /terms/reference
 - /terms/slot
 - /terms/soup
