@@ -10,6 +10,17 @@ Text:
 
 The item being acted upon. In a [user interface](/terms/user-interface), the target may consist of multiple items. For example, when more than one item is [selected](/terms/select) in the [InOut Box](/terms/inout-box) for [beaming](/terms/beaming).
 
+In [NewtonScript](/terms/newtonscript), the target can be a [frame](/terms/frame) containing the data being routed from an [application](/terms/application), which is usually the current or selected [object](/terms/object).
+
+----
+
+Related:
+
+- /terms/frame
+- /terms/newtonscript
+- /terms/object
+- /terms/user-interface
+
 ----
 
 Source:
