@@ -21,6 +21,9 @@ Related:
 - /terms/auto-repeat
 - /terms/command-key
 - /terms/key-combination
+- /terms/keyboard
+- /terms/keystrings
+- /terms/keystroke-events
 - /terms/modifier-key
 - /terms/type-ahead
 - /terms/typewriter

@@ -23,6 +23,8 @@ Related:
 - /terms/default-action
 - /terms/floating-container-view
 - /terms/keyboard
+- /terms/keystrings
+- /terms/keystroke-events
 - /terms/layout-view
 - /terms/main-view
 - /terms/parent-view

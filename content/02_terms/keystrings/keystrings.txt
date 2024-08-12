@@ -1,14 +1,14 @@
-Title: Key Combination
+Title: Keystrings
 
 ----
 
-Date: 24 January 2018
+Date: 12 August 2024
 
 ----
 
 Text:
 
-A series of keys that are typed at the same time on a keyboard, usually consisting of an alphanumeric character combined with one or more [modifier keys](/terms/modifier-key).
+Groups of individual key presses collected by [Newton OS](/terms/newton-os) that are batch processed, improving performance and user response times.
 
 ----
 
@@ -16,9 +16,10 @@ Related:
 
 - /terms/auto-repeat
 - /terms/command-key
+- /terms/key-combination
+- /terms/key-view
 - /terms/keyboard
 - /terms/keyboard-equivalent
-- /terms/keystrings
 - /terms/keystroke-events
 - /terms/modifier-key
 - /terms/type-ahead

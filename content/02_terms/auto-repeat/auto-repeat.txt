@@ -16,7 +16,10 @@ Related:
 
 - /terms/command-key
 - /terms/key-combination
+- /terms/keyboard
 - /terms/keyboard-equivalent
+- /terms/keystrings
+- /terms/keystroke-events
 - /terms/modifier-key
 - /terms/type-ahead
 - /terms/typewriter

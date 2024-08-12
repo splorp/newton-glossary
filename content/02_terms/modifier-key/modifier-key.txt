@@ -17,7 +17,10 @@ Related:
 - /terms/auto-repeat
 - /terms/command-key
 - /terms/key-combination
+- /terms/keyboard
 - /terms/keyboard-equivalent
+- /terms/keystrings
+- /terms/keystroke-events
 - /terms/type-ahead
 - /terms/typewriter
 
