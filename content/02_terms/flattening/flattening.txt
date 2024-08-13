@@ -8,7 +8,7 @@ Date: 21 November 2017
 
 Text:
 
-The process of converting a frame [object](/terms/object) into a stream of bytes before an [entry](/terms/entry) is added to a [soup](/terms/soup). The reverse of this process is [unflattening](/terms/unflattening).
+In [NewtonScript](/terms/newtonscript), the process of converting a frame [object](/terms/object) into a stream of bytes before an [entry](/terms/entry) is added to a [soup](/terms/soup). The reverse of this process is [unflattening](/terms/unflattening).
 
 ----
 

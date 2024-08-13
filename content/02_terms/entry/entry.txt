@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A [frame](/terms/frame) stored in a [soup](/terms/soup) and accessed through a [cursor](/terms/cursor). An entry frame contains special [slots](/terms/slot) that identify it as belonging to a soup.
+In [NewtonScript](/terms/newtonscript), a [frame](/terms/frame) stored in a [soup](/terms/soup) and accessed through a [cursor](/terms/cursor). An entry frame contains special [slots](/terms/slot) that identify it as belonging to a soup.
 
 ----
 

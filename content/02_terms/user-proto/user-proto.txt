@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A [proto](/terms/proto) defined by a developer in an [application](/terms/application), as opposed to a proto supplied by the [operating system](/terms/operating-system) as a [proto template](/terms/proto-template).
+In [NewtonScript](/terms/newtonscript), a [proto](/terms/proto) defined by a developer in an [application](/terms/application), as opposed to a proto supplied by the [operating system](/terms/operating-system) as a [proto template](/terms/proto-template).
 
 ----
 

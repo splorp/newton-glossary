@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A structure used to store information about a [font](/terms/font), including the font family, style, and [point](/terms/point) size.
+In [NewtonScript](/terms/newtonscript), a structure used to store information about a [font](/terms/font), including the font family, style, and [point](/terms/point) size.
 
 ----
 

@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A programmed [function](/terms/function). Each method contained in a [template](/terms/template) processes a particular [message](/terms/message) for the [view](/terms/view) that the template defines. When a view [receives](/terms/receiver) a message for which it has a method, the Newton executes that method. Also referred to as a function in a [frame](/terms/frame) slot that is invoked in response to a message.
+In [NewtonScript](/terms/newtonscript), a programmed [function](/terms/function). Each method contained in a [template](/terms/template) processes a particular [message](/terms/message) for the [view](/terms/view) that the template defines. When a view [receives](/terms/receiver) a message for which it has a method, the Newton executes that method. Also referred to as a function in a [frame](/terms/frame) slot that is invoked in response to a message.
 
 ----
 

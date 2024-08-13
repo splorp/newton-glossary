@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A small [container view](/terms/container-view) that automatically closes after it has been displayed for a brief period. Also, if a user [taps](/terms/tap) the [view](/terms/view), it closes immediately.
+In [NewtonScript](/terms/newtonscript), a small [container view](/terms/container-view) that automatically closes after it has been displayed for a brief period. Also, if a user [taps](/terms/tap) the [view](/terms/view), it closes immediately.
 
 ----
 

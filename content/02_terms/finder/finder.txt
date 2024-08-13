@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A [frame](/terms/frame) containing [methods](/terms/method) or [objects](/terms/method) that enumerate data items found to match criteria specified via the [find slip](/terms/find-slip).
+In [NewtonScript](/terms/newtonscript), a [frame](/terms/frame) containing [methods](/terms/method) or [objects](/terms/method) that enumerate data items found to match criteria specified via the [find slip](/terms/find-slip).
 
 Not to be confused with the [Finder](https://en.wikipedia.org/wiki/Finder_(software)), the default file manager found in the various iterations of Mac OS.
 

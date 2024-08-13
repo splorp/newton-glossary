@@ -8,7 +8,7 @@ Date: 21 November 2017
 
 Text:
 
-A [soup](/terms/soup) that has gone through the process of [flattening](/terms/flattening) where [entries](/terms/entry) are converted from frame [objects](/terms/object) into a stream of bytes. Tools such as [Newton Connection Utilities](/terms/newton-connection-utilities) and the [Desktop Integration Library](/terms/desktop-integration-library) transfer soup data in a flattened soup format.
+In [NewtonScript](/terms/newtonscript), a [soup](/terms/soup) that has gone through the process of [flattening](/terms/flattening) where [entries](/terms/entry) are converted from frame [objects](/terms/object) into a stream of bytes. Tools such as [Newton Connection Utilities](/terms/newton-connection-utilities) and the [Desktop Integration Library](/terms/desktop-integration-library) transfer soup data in a flattened soup format.
 
 ----
 

@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A [container view](/terms/container-view) that initially appears in front of all open [sibling views](/terms/sibling-view).
+In [NewtonScript](/terms/newtonscript), a [container view](/terms/container-view) that initially appears in front of all open [sibling views](/terms/sibling-view).
 
 ----
 

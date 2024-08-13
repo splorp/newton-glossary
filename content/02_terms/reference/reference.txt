@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A value that indirectly refers to an [array](/terms/array), [frame](/terms/frame), or [binary object](/terms/binary-object).
+In [NewtonScript](/terms/newtonscript), a value that indirectly refers to an [array](/terms/array), [frame](/terms/frame), or [binary object](/terms/binary-object).
 
 ----
 

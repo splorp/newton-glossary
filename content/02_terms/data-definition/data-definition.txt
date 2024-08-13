@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A [frame](/terms/frame) containing [slots](/terms/slot) that define a particular type of data and the [methods](/terms/method) that operate on it. The [entries](/terms/entry) defined are used by an [application](/terms/application) and stored in its [soup](/terms/soup). A data definition is registered with the system. The shortened term [dataDef](/terms/datadef) is sometimes used.
+In [NewtonScript](/terms/newtonscript), a [frame](/terms/frame) containing [slots](/terms/slot) that define a particular type of data and the [methods](/terms/method) that operate on it. The [entries](/terms/entry) defined are used by an [application](/terms/application) and stored in its [soup](/terms/soup). A data definition is registered with the system. The shortened term [dataDef](/terms/datadef) is sometimes used.
 
 ----
 

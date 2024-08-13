@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A [slot](/terms/slot) that is evaluated when [Newton Toolkit](/terms/newton-toolkit) compiles an [application](/terms/application).
+In [NewtonScript](/terms/newtonscript), a [slot](/terms/slot) that is evaluated when [Newton Toolkit](/terms/newton-toolkit) compiles an [application](/terms/application).
 
 ----
 

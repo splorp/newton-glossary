@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A [frame](/terms/frame) containing executable code. Function [objects](/terms/object) are created by the [function](/terms/function) constructor `func(args) funcBody`.
+In [NewtonScript](/terms/newtonscript), a [frame](/terms/frame) containing executable code. Function [objects](/terms/object) are created by the [function](/terms/function) constructor `func(args) funcBody`.
 
 An executable function object includes values for its lexical and message environment, as well as code. This information is captured when the function constructor is evaluated at run time.
 

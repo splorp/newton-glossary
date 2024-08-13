@@ -8,7 +8,9 @@ Date:
 
 Text:
 
-A type of communications connection such as a serial connection, [modem](/terms/modem), [infrared](/terms/infrared) beam, or [AppleTalk](/terms/appletalk) network. Also an [object](/terms/object) created from `protoBasicEndpoint`, or one of its derivative [protos](/terms/proto), that controls a real-time communication session. This object encapsulates and maintains the details of the specific connection, and allows you to control the underlying communication tool.
+A type of communications connection such as a serial connection, [modem](/terms/modem), [infrared](/terms/infrared) beam, or [AppleTalk](/terms/appletalk) network.
+
+In [NewtonScript](/terms/newtonscript), an endpoint is also [object](/terms/object) created from `protoBasicEndpoint`, or one of its derivative [protos](/terms/proto), that controls a real-time communication session. This object encapsulates and maintains the details of the specific connection, and allows you to control the underlying communication tool.
 
 ----
 
@@ -20,6 +22,7 @@ Related:
 - /terms/input
 - /terms/input-spec
 - /terms/newtonscript
+- /terms/object
 - /terms/option-frame
 - /terms/output
 - /terms/output-spec

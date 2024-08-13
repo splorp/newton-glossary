@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A [frame](/terms/frame) that references another frame — its [parent](/terms/parent) — from a `_parent` slot. With regard to [views](/terms/view), a [child view](/terms/child-view) is enclosed by its [parent view](/terms/parent-view).
+In [NewtonScript](/terms/newtonscript), a [frame](/terms/frame) that references another frame — its [parent](/terms/parent) — from a `_parent` slot. With regard to [views](/terms/view), a [child view](/terms/child-view) is enclosed by its [parent view](/terms/parent-view).
 
 ----
 

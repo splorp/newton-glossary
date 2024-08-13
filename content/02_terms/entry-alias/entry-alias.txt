@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-An [object](/terms/object) that provides a standard way to save a [reference](/terms/reference) to a soup [entry](/terms/entry). Entry aliases themselves can be stored in [soups](/terms/soup).
+In [NewtonScript](/terms/newtonscript), an [object](/terms/object) that provides a standard way to save a [reference](/terms/reference) to a soup [entry](/terms/entry). Entry aliases themselves can be stored in [soups](/terms/soup).
 
 ----
 

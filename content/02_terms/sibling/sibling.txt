@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A [child](/terms/child) frame that has the same [parent](/terms/parent) frame.
+In [NewtonScript](/terms/newtonscript), a [child](/terms/child) frame that has the same [parent](/terms/parent) frame.
 
 ----
 

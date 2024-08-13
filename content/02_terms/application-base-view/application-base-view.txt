@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The topmost [parent view](/terms/parent-view) in an [application](/terms/application). The application base view typically encloses all other [views](/terms/view) that make up the application.
+In [NewtonScript](/terms/newtonscript), the topmost [parent view](/terms/parent-view) in an [application](/terms/application). The application base view typically encloses all other [views](/terms/view) that make up the application.
 
 ----
 

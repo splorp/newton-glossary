@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A principal [container view](/terms/container-view) that serves as a center of user operations for an [application](/terms/application).
+In [NewtonScript](/terms/newtonscript), the principal [container view](/terms/container-view) that serves as a center of user operations for an [application](/terms/application).
 
 Every main view must have a [view border](/terms/view-border), even if the border is not visible because the [view](/terms/view) fills the entire screen. 
 

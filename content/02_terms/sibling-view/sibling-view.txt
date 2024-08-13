@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A [child view](/terms/child-view) accompanied by one or more additional [views](/terms/view) contained by a single [parent view](/terms/parent-view).
+In [NewtonScript](/terms/newtonscript), a [child view](/terms/child-view) accompanied by one or more additional [views](/terms/view) contained by a single [parent view](/terms/parent-view).
 
 ----
 

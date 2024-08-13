@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A pseudo-[variable](/terms/variable) that is set to the current [receiver](/terms/receiver).
+In [NewtonScript](/terms/newtonscript), a pseudo-[variable](/terms/variable) that is set to the current [receiver](/terms/receiver).
 
 ----
 

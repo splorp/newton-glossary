@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A special type of [callback spec](/terms/callback-spec) used with an [endpoint](/terms/endpoint) method. An output spec contains additional [slots](/terms/slot) that allow you to pass special [protocol](/terms/protocol) flags and define how the data being sent is translated.
+In [NewtonScript](/terms/newtonscript), a special type of [callback spec](/terms/callback-spec) used with an [endpoint](/terms/endpoint) method. An output spec contains additional [slots](/terms/slot) that allow you to pass special [protocol](/terms/protocol) flags and define how the data being sent is translated.
 
 ----
 

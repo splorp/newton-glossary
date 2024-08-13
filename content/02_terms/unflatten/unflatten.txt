@@ -8,7 +8,7 @@ Date: 21 November 2017
 
 Text:
 
-To convert a stream of bytes from a soup [entry](/terms/entry) into a frame [object](/terms/object). To reverse this process, you would [flatten](/terms/flatten) the [soup](/terms/soup) entry.
+In [NewtonScript](/terms/newtonscript), to convert a stream of bytes from a soup [entry](/terms/entry) into a frame [object](/terms/object). To reverse this process, you would [flatten](/terms/flatten) the [soup](/terms/soup) entry.
 
 ----
 

@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A read-only data structure that precisely specifies a [view](/terms/view), encapsulating all the view’s attributes and behaviours.
+In [NewtonScript](/terms/newtonscript), a read-only data structure that precisely specifies a [view](/terms/view), encapsulating all the view’s attributes and behaviours.
 
 ----
 

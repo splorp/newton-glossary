@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The [frame](/terms/frame) that encapsulates a routed (sent or received) [object](/terms/object) and that is stored in the [InOut Box](/terms/inout-box) soup.
+In [NewtonScript](/terms/newtonscript), the [frame](/terms/frame) that encapsulates a routed (sent or received) [object](/terms/object) and that is stored in the [InOut Box](/terms/inout-box) soup.
 
 ----
 
