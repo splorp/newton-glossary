@@ -18,6 +18,8 @@ Related:
 
 - /terms/align
 - /terms/align-pen
+- /terms/centroid
+- /terms/digitizer
 - /terms/double-tap
 - /terms/double-tapping
 - /terms/handwriting-recognition

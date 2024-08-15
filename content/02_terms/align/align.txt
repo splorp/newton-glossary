@@ -19,6 +19,8 @@ Also, when using the [pen](/terms/pen) on a Newton device, the [pen alignment](/
 Related:
 
 - /terms/align-pen
+- /terms/centroid
+- /terms/digitizer
 - /terms/handwriting-recognition
 - /terms/pen
 - /terms/pen-alignment

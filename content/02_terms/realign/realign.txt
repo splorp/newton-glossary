@@ -12,11 +12,19 @@ The process of resetting the [pen alignment](/terms/pen-alignment) or the accura
 
 ----
 
+Resource:
+
+- [NewtonTalk: Why are pen alignments needed?](https://newtontalk.net/archive/newtontalk/2018-December/055573.html)
+
+----
+
 Related:
 
 - /terms/align
 - /terms/align-pen
 - /terms/alignment
+- /terms/centroid
+- /terms/digitizer
 - /terms/handwriting-recognition
 - /terms/pen
 - /terms/tap

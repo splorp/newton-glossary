@@ -1,0 +1,35 @@
+Title: Centroid
+
+----
+
+Date: 15 August 2024
+
+----
+
+Text:
+
+The geometric center of a plane or volumetric object.
+
+On a Newton device, the [digitizer](/terms/digitizer) can only process one point on the [touch screen](/terms/touch-screen) at a time. For example, if you [tap](/terms/tap) the screen in two places at the same time, the tap will be registered at the centroid, or the point that is exactly in between the two places where the screen was tapped.
+
+----
+
+Resource:
+
+- [NewtonTalk: Why are pen alignments needed?](https://newtontalk.net/archive/newtontalk/2018-December/055573.html)
+
+----
+
+Related:
+
+- /terms/align
+- /terms/align-pen
+- /terms/digitizer
+- /terms/handwriting-recognition
+- /terms/pen
+- /terms/pen-alignment
+- /terms/realign
+- /terms/screen
+- /terms/tap
+- /terms/tapping
+- /terms/touch-screen

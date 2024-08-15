@@ -1,0 +1,29 @@
+Title: Digitizer
+
+----
+
+Date: 15 August 2024
+
+----
+
+Text:
+
+An electronic device that obtains, processes, and records digital information originating from an analog source, such as light, sound, touch, or pressure.
+
+For example, when the [touch screen](/terms/touch-screen) display on a Newton device is [tapped](/terms/tapped) with a [pen](/terms/pen), the integrated digitizer senses the change in resistance between two conductive sheets of plastic. That change in resistance indicates the position of the pen on the [screen](/terms/screen) which is then processed by the [operating system](/terms/operating-system).
+
+----
+
+Related:
+
+- /terms/align
+- /terms/align-pen
+- /terms/centroid
+- /terms/handwriting-recognition
+- /terms/pen
+- /terms/pen-alignment
+- /terms/realign
+- /terms/screen
+- /terms/tap
+- /terms/tapping
+- /terms/touch-screen
