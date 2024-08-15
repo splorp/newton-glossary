@@ -8,7 +8,7 @@ Date: 27 August 2018
 
 Text:
 
-A [view](/terms/view) that displays a summarized list of multiple items. From an overview, a user can either [tap](/terms/tap) an item to see more detailed information or select, view, and interact with multiple items by [tapping](/terms/tapping) a [checkbox](/terms/checkbox) beside each item and performing an action, such as [routing](/terms/routing).
+A [roll view](/terms/roll-view) that displays a summarized list of multiple items. From an overview, a user can either [tap](/terms/tap) an item to see more detailed information or select, view, and interact with multiple items by [tapping](/terms/tapping) a [checkbox](/terms/checkbox) beside each item and performing an action, such as [routing](/terms/routing).
 
 An overview is displayed by tapping the [overview button](/terms/overview-button) in an [application](/terms/application) such as [Notepad](/terms/notepad) or the [Extras Drawer](/terms/extras-drawer).
 
@@ -17,6 +17,7 @@ An overview is displayed by tapping the [overview button](/terms/overview-button
 Related:
 
 - /terms/overview-button
+- /terms/roll-view
 - /terms/user-interface
 - /terms/view
 

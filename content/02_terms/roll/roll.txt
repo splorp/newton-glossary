@@ -1,0 +1,17 @@
+Title: Roll
+
+----
+
+Date: 15 August 2024
+
+----
+
+Text:
+
+See: [Roll View](/terms/roll-view)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

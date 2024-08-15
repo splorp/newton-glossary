@@ -17,6 +17,7 @@ Related:
 - /terms/clank
 - /terms/clanking
 - /terms/local-scroll-arrows
+- /terms/roll-view
 - /terms/scroll-arrows
 - /terms/scroller
 - /terms/scrolling

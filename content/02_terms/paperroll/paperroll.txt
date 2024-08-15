@@ -1,0 +1,26 @@
+Title: paperroll
+
+----
+
+Date: 15 August 2024
+
+----
+
+Text:
+
+In [NewtonScript](/terms/newtonscript), the internal programmatic name referencing the built-in [Notepad](/terms/notepad) application.
+
+----
+
+Related:
+
+- /terms/newtonscript
+- /terms/notepad
+- /terms/overview
+- /terms/roll-view
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

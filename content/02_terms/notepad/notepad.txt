@@ -10,6 +10,8 @@ Text:
 
 The built-in [application](/terms/application) for creating and organizing items containing various types information. Items can be in the form of a [note](/terms/note), checklist, outline, or audio recording using different types of [stationery](/terms/stationery). On a [MessagePad](/terms/messagepad) device, Notepad is the default [backdrop](/terms/backdrop) application.
 
+In [NewtonScript](/terms/newtonscript), the [Notepad](/terms/notepad) is referenced programmatically as `paperroll`.
+
 Also referred to as [Notes](/terms/notes).
 
 Notepad is also the original name of the first Newton device, later changed to [MessagePad](/terms/messagepad) to better reflect its communication capabilities.
@@ -33,6 +35,7 @@ Related:
 - /terms/notes
 - /terms/notes2notes
 - /terms/outline
+- /terms/paperroll
 - /terms/recording
 - /terms/scribble-pad
 - /terms/stationery
