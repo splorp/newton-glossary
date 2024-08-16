@@ -31,6 +31,7 @@ Related:
 - /terms/knug
 - /terms/lanug
 - /terms/misnic
+- /terms/mpadclub
 - /terms/msnug
 - /terms/nanug
 - /terms/nenug

@@ -1,0 +1,29 @@
+Title: InfoNote
+
+----
+
+Date: 16 August 2024
+
+----
+
+Text:
+
+A French-language electronic newsletter published by the [MPadClub](/terms/mpadclub) user group in Lyon, France.
+
+InfoNote is also a software [package](/terms/package) developed by Pierre Vettier which provided a simple means to connect to the MPadClub server via [modem](/terms/modem) and automatically download the latest news to a [Newton OS](/terms/newton-os) device.
+
+----
+
+Resource:
+
+- [UNNA: InfoNote Read Me](http://mirrors.unna.org/ftp.newted.org/NOS1.x/Communications/InfoNote%201.1/ReadMe.txt)
+
+----
+
+Related:
+
+- /terms/mpadclub
+- /terms/newtnews
+- /terms/newton-user-group
+- /terms/protoreality
+- /terms/tapped-in

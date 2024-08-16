@@ -20,6 +20,7 @@ Resource:
 
 Related:
 
+- /terms/infonote
 - /terms/nanug
 - /terms/newtnews
 - /terms/tapped-in

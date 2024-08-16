@@ -1,22 +1,22 @@
-Title: TUNA
+Title: MPadClub
 
 ----
 
-Date:
+Date: 16 August 2024
 
 ----
 
 Text:
 
-Teachers Using Newtons Alliance
+A French-language Newton user group based in Lyon, France.
 
-A defunct online forum aimed at educators integrating the Newton platform into the practice of teaching.
+MPadClub published an electronic newsletter called [InfoNote](/terms/infonote) which could be downloaded directly to a [Newton OS](/terms/newton-os) device using their own software [package](/terms/package).
 
 ----
 
 Resource:
 
-- [TUNA Website](https://web.archive.org/web/19991003023001/http://www.govmail.com/newton/teacher/)
+- [UNNA: InfoNote Read Me](http://mirrors.unna.org/ftp.newted.org/NOS1.x/Communications/InfoNote%201.1/ReadMe.txt)
 
 ----
 
@@ -29,11 +29,11 @@ Related:
 - /terms/gfun
 - /terms/gnut
 - /terms/hknug
+- /terms/infonote
 - /terms/inug
 - /terms/knug
 - /terms/lanug
 - /terms/misnic
-- /terms/mpadclub
 - /terms/msnug
 - /terms/nanug
 - /terms/nenug
@@ -51,10 +51,5 @@ Related:
 - /terms/sonug
 - /terms/special-interest-group
 - /terms/tcnug
+- /terms/tuna
 - /terms/tvnug
-
-----
-
-Source:
-
-- /sources/newton-faq

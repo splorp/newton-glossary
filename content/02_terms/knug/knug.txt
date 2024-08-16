@@ -30,6 +30,7 @@ Related:
 - /terms/inug
 - /terms/lanug
 - /terms/misnic
+- /terms/mpadclub
 - /terms/msnug
 - /terms/nanug
 - /terms/nenug
