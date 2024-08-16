@@ -49,7 +49,6 @@ Related:
 - /terms/snug
 - /terms/sonug
 - /terms/special-interest-group
-- /terms/special-interest-group
 - /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
