@@ -12,6 +12,6 @@ A site created by [Clay Irving](https://www.panix.com/~clay/) in 1996 as an info
 
 ----
 
-Reference:
+Resource:
 
-[Newton Reference Website]https://www.panix.com/~clay/newton/
+- [Newton Reference Website](https://www.panix.com/~clay/newton/)
