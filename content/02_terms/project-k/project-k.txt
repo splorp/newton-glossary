@@ -15,7 +15,8 @@ One of the code names for the [eMate 300](/terms/emate-300) device, often shorte
 Related:
 
 - /terms/batnewt
-- /terms/emate
+- /terms/clamshell
+- /terms/clamshell-newton
 - /terms/emate-300
 - /terms/k
 - /terms/schoolbook

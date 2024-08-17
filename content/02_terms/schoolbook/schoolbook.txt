@@ -17,7 +17,8 @@ Also referred to as [K](/terms/k), [Project K](/terms/project-k), and [Shay](/te
 Related:
 
 - /terms/batnewt
-- /terms/emate
+- /terms/clamshell
+- /terms/clamshell-newton
 - /terms/emate-300
 - /terms/k
 - /terms/project-k

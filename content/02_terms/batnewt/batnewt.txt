@@ -21,7 +21,8 @@ Resource:
 
 Related:
 
-- /terms/emate
+- /terms/clamshell
+- /terms/clamshell-newton
 - /terms/emate-300
 - /terms/k
 - /terms/project-k

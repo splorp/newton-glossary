@@ -1,0 +1,25 @@
+Title: MacWEEK
+
+----
+
+Date: 17 August 2024
+
+----
+
+Text:
+
+A weekly trade journal founded in 1987, acquired by Ziff-Davis in 1988, and finally shuttered in 2001. MacWEEK was focused on Apple, MacOS, and other related industry information, including the Newton platform.
+
+----
+
+Resource:
+
+- [MacWEEK Online Website](https://web.archive.org/web/19970502171030/http://www.macweek.com/)
+- [TidBits: MacWEEK to Roll into MacCentral](https://tidbits.com/2001/03/05/macweek-to-roll-into-maccentral-2/)
+- [CNET: End of an Era: MacWEEK publication ends](https://www.cnet.com/tech/computing/end-of-an-era-macweek-publication-ends/)
+
+----
+
+Source:
+
+- /sources/tidbits
