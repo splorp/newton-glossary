@@ -10,10 +10,13 @@ Text:
 
 Code name of the [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices.
 
+Also the code name of the rumoured [MessagePad 150](/terms/messagepad-150) according to the [Makido](/sources/makido) website.
+
 ----
 
 Related:
 
+- /terms/messagepad-150
 - /terms/messagepad-2000
 - /terms/messagepad-2100
 - /terms/n2

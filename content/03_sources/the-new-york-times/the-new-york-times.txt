@@ -1,0 +1,17 @@
+Title: The New York Times
+
+----
+
+Date: 19 August 2024
+
+----
+
+Text:
+
+A long-running, large circulation daily newspaper based in New York City.
+
+----
+
+Resource:
+
+- [The New York Times Website](https://www.nytimes.com/)
