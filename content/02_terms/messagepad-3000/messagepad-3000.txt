@@ -1,0 +1,34 @@
+Title: MessagePad 3000
+
+----
+
+Date: 20 August 2024
+
+----
+
+Text:
+
+A “humourous” reference to the Newton displayed on early iPhone prototypes.
+
+----
+
+Reference:
+
+- [PCWorld: iPhone Prototypes Hit eBay](https://www.pcworld.com/article/527808/iphone_prototypes_ebay.html)
+- [TechRadar: iPhone originally called the Newton Messagepad 3000?](https://www.techradar.com/news/phone-and-communications/mobile-phones/iphone-originally-called-the-newton-messagepad-3000-576046)
+- [Flickr: iPhone 4 Prototype](https://www.flickr.com/photos/sonnyhung/52582705587/)
+
+----
+
+Related:
+
+- /terms/messagepad
+- /terms/messagepad-150
+- /terms/messagepad-200
+
+----
+
+Source:
+
+- /sources/mackido
+- /sources/the-new-york-times

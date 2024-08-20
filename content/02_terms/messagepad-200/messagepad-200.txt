@@ -1,0 +1,39 @@
+Title: MessagePad 200
+
+----
+
+Date: 18 August 2024
+
+----
+
+Text:
+
+A common typographic error made when referring to the [MessagePad 2000](/terms/messagepad-2000).
+
+Also a rumoured successor to the [MessagePad 120](/terms/messagepad-120).
+
+Not to be confused with Matthew B. McRae’s proposed [Newton 200](/terms/newton-200) design concept.
+
+----
+
+Resource:
+
+- [Computerworld: Nowa generacja osobistych asystentów](https://www.computerworld.pl/news/Nowa-generacja-osobistych-asystentow,297277.html) (Polski)
+- [The Age: The Evolution of Apple](https://www.theage.com.au/technology/the-evolution-of-apple-20100826-13tdw.html)
+- [Wired: Remembering the Apple Newton’s Prophetic Failure and Lasting Impact](https://www.wired.com/2013/08/remembering-the-apple-newtons-prophetic-failure-and-lasting-ideals/)
+
+----
+
+Related:
+
+- /terms/messagepad
+- /terms/messagepad-150
+- /terms/messagepad-2000
+- /terms/messagepad-3000
+- /terms/newton-200
+
+----
+
+Source:
+
+- /sources/wired
