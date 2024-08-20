@@ -1,0 +1,34 @@
+Title: Newton 200
+
+----
+
+Date: 18 August 2024
+
+----
+
+Text:
+
+A conceptual Newton device proposed by Matthew B. McRae that utilized a PowerPC processor. The [Newton 200c](/terms/newton-200c) variation of the hardware implemented an 8-bit colour [display](/terms/display). The [Newton 200i](/terms/newton-200i) variation utilized an Indiglo [backlight](/terms/backlight).
+
+Not to be confused with the rumoured [MessagePad 200](/terms/messagepad-200) device.
+
+----
+
+Resource:
+
+- [Macintosh Evangelist: Newton 200c, 200i](https://web.archive.org/web/19970807060327/http://www.seas.upenn.edu/~mcrae/macevan/ideas/newt.html)
+
+----
+
+Related:
+
+/terms/indiglo-newton
+/terms/messagepad-200
+/terms/newton-200c
+/terms/newton-200i
+
+----
+
+Source:
+
+- /sources/macintosh-evangelist
