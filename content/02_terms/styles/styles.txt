@@ -29,4 +29,6 @@ Related:
 
 ----
 
+Source:
+
 - /sources/messagepad-2000-user-manual
