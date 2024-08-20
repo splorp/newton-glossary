@@ -378,7 +378,7 @@ Sources: 106
 + Added 58 new terms
 + Added 8 new sources
 + Updated and expanded dozens of existing entries
-+ Updated site and mobile device icons
++ Updated website and mobile device icons
 + Implemented [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin
 + Added [Open Graph](https://ogp.me/) and [Twitter Cards](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started) meta tag support
 
