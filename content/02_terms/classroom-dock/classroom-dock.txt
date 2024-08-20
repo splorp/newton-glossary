@@ -12,7 +12,7 @@ An [application](/terms/application) on the [eMate 300](/terms/emate-300) used f
 
 <img src="/assets/images/classroom-dock-2x.gif" alt="Screenshot of the Classroom Dock application" width="196" />
 
-Classroom Dock can be selected as the default [docking](terms/docking) application by [tapping](/terms/tapping) the [Dock Options](/terms/dock-options) button in the [Teacher Setup](/terms/teacher-setup) slip.
+Classroom Dock can be selected as the default [docking](/terms/docking) application by [tapping](/terms/tapping) the [Dock Options](/terms/dock-options) button in the [Teacher Setup](/terms/teacher-setup) slip.
 
 ----
 

@@ -14,7 +14,7 @@ A [slip](/terms/slip) in the [Teacher Setup](/terms/teacher-setup) application t
 
 Dock Options allows you to set the default [application](/terms/application) used to connect to another computer and the default computer that the eMate will connect to.
 
-Selecting [Classroom Dock](/terms/classroom-dock) as the default [docking](terms/docking) application allows you to connect to the [Classroom Exchange](/terms/classroom-exchange) software running on another computer.
+Selecting [Classroom Dock](/terms/classroom-dock) as the default [docking](/terms/docking) application allows you to connect to the [Classroom Exchange](/terms/classroom-exchange) software running on another computer.
 
 Selecting [Dock](/terms/dock) as the default allows you to connect to [Newton Connection Utilities](/terms/newton-connection-utilities) or similar software.
 
