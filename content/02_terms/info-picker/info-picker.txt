@@ -8,7 +8,7 @@ Date: 29 December 2017
 
 Text:
 
-A list of items pertaining to the current [application](/terms/application) that can include [preferences](/terms/preferences), on-screen help, or general information about the application. Activated by [tapping](/terms/tapping) on the [info button](/terms/info-button).
+A list of items pertaining to the current [application](/terms/application) that can include [preferences](/terms/preferences), onscreen help, or general information about the application. Activated by [tapping](/terms/tapping) on the [info button](/terms/info-button).
 
 ----
 

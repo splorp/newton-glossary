@@ -8,7 +8,7 @@ Date: 14 January 2024
 
 Text:
 
-A presentation [application](/terms/application) for the Newton developed by [PelicanWare](/sources/pelicanware). PointPro allows the user to create full-color, full-screen slide presentations that can be displayed on external monitors, televisions, and video projectors using a [PC card](/terms/pc-card) such as the [EZ2TV](/terms/ez2tv) or [EZ2VGA](/terms/ez2vga) products from [EZShow Systems](/sources/ezshow-systems).
+A presentation [application](/terms/application) for the Newton developed by [PelicanWare](/sources/pelicanware). PointPro allows the user to create full-colour, full-screen slide presentations that can be displayed on external monitors, televisions, and video projectors using a [PC card](/terms/pc-card) such as the [EZ2TV](/terms/ez2tv) or [EZ2VGA](/terms/ez2vga) products from [EZShow Systems](/sources/ezshow-systems).
 
 Also referred to as [Avail PointPro](/terms/avail-pointpro).
 

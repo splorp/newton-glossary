@@ -8,7 +8,7 @@ Date: 06 December 2017
 
 Text:
 
-A small square [button](/terms/button) an “I” character, located in the [status bar](/terms/status-bar) of an [application](/terms/application). When [tapped](/terms/tapped), the button displays a [picker](/terms/picker) which gives the user access to [preferences](/terms/preferences), on-screen help, or general information about the application.
+A small square [button](/terms/button) an “I” character, located in the [status bar](/terms/status-bar) of an [application](/terms/application). When [tapped](/terms/tapped), the button displays a [picker](/terms/picker) which gives the user access to [preferences](/terms/preferences), onscreen help, or general information about the application.
 
 Also known as the [information button](/terms/information-button) in earlier versions of [Newton OS](/terms/newton-os).
 

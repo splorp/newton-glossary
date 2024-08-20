@@ -8,7 +8,7 @@ Date: 10 December 2023
 
 Text:
 
-The [Newton OS](/terms/newton-os) includes a [help browser](help-browser) for built-in applications and system services. Users can view the on-screen help by [tapping](/terms/tapping) the “How Do I?” [button](/terms/button) in the [Assist slip](/terms/assist-slip). When a user taps the button, an outline-like overview of help topics is displayed. Tapping a topic expands the outline to display that topic’s subtopics or, if that topic has no subtopics, it will display instructions for that topic.
+The [Newton OS](/terms/newton-os) includes a [help browser](help-browser) for built-in applications and system services. Users can view the onscreen help by [tapping](/terms/tapping) the “How Do I?” [button](/terms/button) in the [Assist slip](/terms/assist-slip). When a user taps the button, an outline-like overview of help topics is displayed. Tapping a topic expands the outline to display that topic’s subtopics or, if that topic has no subtopics, it will display instructions for that topic.
 
 <img src="/assets/images/how-do-i-2x.gif" alt="Screenshot of the How Do I? help browser" width="223" />
 
