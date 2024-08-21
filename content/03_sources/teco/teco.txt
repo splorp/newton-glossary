@@ -1,4 +1,4 @@
-Title: TECO
+Title: TecO
 
 ----
 
@@ -8,13 +8,13 @@ Date:
 
 Text:
 
-Originally named _The Telecoöperation Office_, TECO was founded in 1993 at the University of Karlsruhe (now the [Karlsruhe Institute of Technology](https://www.kit.edu/english/)) by [Gerhard Krüger](https://de.wikipedia.org/wiki/Gerhard_Kr%C3%BCger_%28Informatiker%29) and Digital Equipment Corporation’s Campus Engineering Center (CEC). The mission of TECO is the research and development of technology relating to ubiquitous computing, mobile applications, human computer interaction, and the “Internet of Things”.
+Originally named _The Telecoöperation Office_, TecO was founded in 1993 at the University of Karlsruhe (now the [Karlsruhe Institute of Technology](https://www.kit.edu/english/)) by [Gerhard Krüger](https://de.wikipedia.org/wiki/Gerhard_Kr%C3%BCger_%28Informatiker%29) and Digital Equipment Corporation’s Campus Engineering Center (CEC). The mission of TecO is the research and development of technology relating to ubiquitous computing, mobile applications, human computer interaction, and the “Internet of Things”.
 
-In 1994, TECO developed [PocketWeb](/terms/pocketweb), the first web browser for handheld devices.
+In 1994, TecO developed [PocketWeb](/terms/pocketweb), the first web browser for handheld devices.
 
 ----
 
 Resource:
 
-- [TECO Website](http://www.teco.edu/)
-- [Wikipedia: TECO](https://de.wikipedia.org/wiki/TecO)
+- [TecO Website](http://www.teco.edu/)
+- [Wikipedia: TecO](https://de.wikipedia.org/wiki/TecO)
