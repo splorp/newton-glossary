@@ -29,6 +29,7 @@ Related:
 - /terms/messagepad-130
 - /terms/messagepad-200
 - /terms/messagepad-2000
+- /terms/messagepad-3000
 - /terms/newton-150
 - /terms/q
 
