@@ -18,14 +18,19 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the [latest additions](/latest) page.
 
-### _$v
+### 4.2.1
 
-Terms: _$t
-Sources: _$s
+21 August 2024
+
+Terms: 1,502
+Sources: 170
 
 #### Summary of changes:
 
-+
++ Added 22 new terms
++ Added 5 new sources
++ Updated and expanded dozens of existing entries
++ Added specific cross-references to all [NewtonScript](/terms/newtonscript) programming terms
 
 ### 4.2.0
 
