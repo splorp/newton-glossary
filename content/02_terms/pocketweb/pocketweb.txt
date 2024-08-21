@@ -12,11 +12,16 @@ The first web browser available for use on a handheld device. PocketWeb was spec
 
 PocketWeb was initially (and rather awkwardly) known as [NewtonWWW](/terms/newtonwww).
 
+<img src="/assets/images/pocketweb-2x.gif" alt="Screenshot of PocketWeb" width="322" />
+
 ----
 
 Resource:
 
-- [TECO: PocketWeb 2.4 Product Information](http://www.teco.edu/pocketweb/)
+- [TecO: Demos: PocketWeb](https://www.teco.edu/demos/pocketweb/)
+- [TecO: PocketWeb 2.4 Product Information](https://web.archive.org/web/20210413053629/http://www.teco.edu/static/research/pda/pocketweb/)
+- [TecO: PDAs as Mobile WWW Browsers](https://www.teco.edu/~stefan/papers/wwwf94/www_pda.html)
+- [TecO: The Newton Webbrowser PocketWeb](https://www.teco.edu/~stefan/pda.html)
 - [Matej Horvat: PocketWeb](http://matejhorvat.si/en/newton/pw/)
 
 ----
