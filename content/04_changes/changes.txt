@@ -25,7 +25,8 @@ Sources: _$s
 
 #### Summary of changes:
 
-+
++ Added new terms
++ Updated and expanded several existing entries
 
 ### 4.2.1
 
@@ -571,12 +572,12 @@ Sources: 34
 
 25 June 2001
 
-Terms: 617
+Terms: 616
 Sources: 31
 
 #### Summary of changes:
 
-+ Added 10 new terms
++ Added 9 new terms
 + Updated and expanded numerous existing entries
 
 ### 1.0.0b3
@@ -590,7 +591,8 @@ Sources: 31
 
 + Added 37 new terms
 + Added 6 new sources
-+ Unreleased
++ Updated and expanded numerous existing entries
++ Not released publicly
 
 ### 1.0.0b2
 
@@ -603,6 +605,7 @@ Sources: 25
 
 + Added 42 new terms
 + Added 2 new sources
++ Updated and expanded numerous existing entries
 + First public release
 
 ### 1.0.0b1
@@ -614,4 +617,4 @@ Sources: 23
 
 #### Summary of changes:
 
-+ Unreleased
++ Not released publicly
