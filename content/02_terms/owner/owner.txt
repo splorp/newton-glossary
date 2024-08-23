@@ -22,4 +22,4 @@ Related:
 
 Source:
 
-- /sources/messagepad-2000-user-manual
+- /sources/messagepad-handbook-1995
