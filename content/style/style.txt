@@ -60,11 +60,12 @@ Use if the referenced term is a quirky or derogatory name for the source term.
 
 ### Capitalization of terms
 
-When referring to other terms such as brands, languages, menu items, windows, slips, or other named user interface elements, if the reference is set in its own paragraph, the term should be capitalized.
+When referring to menu items, windows, slips, or other named user interface elements, if the reference is set in its own paragraph, the term should be capitalized.
 
-_Example:_
+_Examples:_
 
 + Also referred to as a [Silk Button](/terms/silk-button).
++ See: [Beaming](/terms/beaming)
 
 Other than using their proper capitalized names, such as menu items or buttons, terms can appear in lowercase when set as part of a longer sentence.
 
