@@ -2,7 +2,7 @@ Title: The NewtonScript Programming Language
 
 ----
 
-Date:
+Date: 24 May 2001
 
 ----
 
