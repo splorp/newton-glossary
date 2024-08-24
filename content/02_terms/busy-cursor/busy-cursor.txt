@@ -12,7 +12,7 @@ A graphical indicator automatically displayed by the system while it is temporar
 
 <img src="/assets/images/busy-cursor-2x.gif" alt="Screenshot of the Busy Cursor" width="30" />
 
-The busy cursor is not meant to provide complete feedback during a lengthy operation. If an [application](/terms/application) or [transport](/terms/transport) begins an operation that may take more than a few seconds to complete, it will usually display a [status slip](/terms/status-slip) instead.
+The busy cursor is not meant to provide complete feedback during a lengthy operation. If an [application](/terms/application) or [transport](/terms/transport) begins an operation that can take more than a few seconds to complete, it will usually display a [status slip](/terms/status-slip) instead.
 
 Colloquially known as the [lightbulb icon](/terms/lightbulb-icon) or the [something’s happening icon](/terms/somethings-happening-icon).
 

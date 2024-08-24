@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A editable list of words that the [Newton OS](/terms/newton-os) uses in addition to the built-in [system dictionary](/terms/system-dictionary). Word lists are used to evaluate text entered by the user when [handwriting recognition](/terms/handwriting-recognition) is enabled. The personal word list is also known as a [user dictionary](/terms/user-dictionary) and may contain [recently written words](/terms/recently-written-words) from the [auto add dictionary](/terms/auto-add-dictionary).
+A editable list of words that the [Newton OS](/terms/newton-os) uses in addition to the built-in [system dictionary](/terms/system-dictionary). Word lists are used to evaluate text entered by the user when [handwriting recognition](/terms/handwriting-recognition) is enabled. The personal word list is also known as a [user dictionary](/terms/user-dictionary) and can contain [recently written words](/terms/recently-written-words) from the [auto add dictionary](/terms/auto-add-dictionary).
 
 The Personal Word List is displayed by [tapping](/terms/tapping) the [dictionary button](/terms/dictionary-button).
 

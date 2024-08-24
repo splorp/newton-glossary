@@ -8,7 +8,7 @@ Date: 18 March 2021
 
 Text:
 
-The potential and almost inevitable failure of the tension spring in the hinge of an eMate [clamshell](/terms/clamshell) lid. The constant opening and closing of the lid may cause the spring to unseat and puncture the ribbon cable connected to the [display](/terms/display). Failure of the spring often results in a case of [floppy lid](/terms/floppy-lid).
+The potential and almost inevitable failure of the tension spring in the hinge of an eMate [clamshell](/terms/clamshell) lid. The constant opening and closing of the lid can cause the spring to unseat and puncture the ribbon cable connected to the [display](/terms/display). Failure of the spring often results in a case of [floppy lid](/terms/floppy-lid).
 
 ----
 

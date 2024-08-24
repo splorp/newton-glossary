@@ -16,7 +16,7 @@ Tasks listed in the Please picker include calling, faxing, finding, mailing, pri
 
 If an application registers additional actions with the Assist function, they automatically appear in the picker.
 
-If [synonyms](/terms/synonyms) are available for an action, they do not appear directly in the picker. For example, the word “call” appears but the synonyms “ring”, “dial”, and “phone” do not. However, synonyms may appear in the bottom half of the picker along with other recently used phrases.
+If [synonyms](/terms/synonyms) are available for an action, they do not appear directly in the picker. For example, the word “call” appears but the synonyms “ring”, “dial”, and “phone” do not. However, synonyms can appear in the bottom half of the picker along with other recently used phrases.
 
 ----
 

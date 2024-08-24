@@ -10,7 +10,7 @@ Text:
 
 An [alert box](/terms/alert-box) that appears on the [screen](/terms/screen) conveying information that is useful to the user but does not present any “far-reaching” consequences such as a loss of data. Some notification alerts have a [snooze button](/terms/snooze-button), which enables a user to temporarily dismiss the alert.
 
-A notification alert includes a [close box](/terms/close-box) and may or may not be accompanied by an [alert sound](/terms/alert-sound).
+A notification alert includes a [close box](/terms/close-box) and can be accompanied by an [alert sound](/terms/alert-sound).
 
 Also referred to as a [Notification Slip](/terms/notification-slip).
 

@@ -16,7 +16,7 @@ There are two types of alert boxes.
 
 A [notification alert](/terms/notification-alert) conveys information that is useful to the user but does not present any “far-reaching” consequences such as a loss of data. Some notification alerts have a [snooze button](/terms/snooze-button), which enables a user to temporarily dismiss the alert.
 
-A [confirmation alert](/terms/confirmation-alert) requires the user confirm or cancel an action that may have “far-reaching” consequences. For example, a confirmation alert appears before erasing the data on a [storage card](/terms/storage-card).
+A [confirmation alert](/terms/confirmation-alert) requires the user confirm or cancel an action that can have “far-reaching” consequences. For example, a confirmation alert appears before erasing the data on a [storage card](/terms/storage-card).
 
 ----
 

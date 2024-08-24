@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A named section of a computer program that performs a specific task and may or may not return a value.
+A named section of a computer program that performs a specific task and can return a value.
 
 ----
 

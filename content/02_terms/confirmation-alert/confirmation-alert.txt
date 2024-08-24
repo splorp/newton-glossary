@@ -8,7 +8,7 @@ Date: 20 December 2023
 
 Text:
 
-An [alert box](/terms/alert-box) that appears on the [screen](/terms/screen) requiring the user confirm or cancel an action that may have “far-reaching” consequences. For example, a confirmation alert appears before erasing the data on a [storage card](/terms/storage-card).
+An [alert box](/terms/alert-box) that appears on the [screen](/terms/screen) requiring the user confirm or cancel an action that can have “far-reaching” consequences. For example, a confirmation alert appears before erasing the data on a [storage card](/terms/storage-card).
 
 A confirmation alert has no [close box](/terms/close-box). Instead, it has labeled buttons, usually named “Cancel” and “OK”.
 

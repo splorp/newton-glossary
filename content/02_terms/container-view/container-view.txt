@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a framed [object](/terms/object) that displays information (text, graphics, or both) and may contain controls that the user operates by [tapping](/terms/tapping), as well as areas where the user can write and draw.
+In [NewtonScript](/terms/newtonscript), a framed [object](/terms/object) that displays information (text, graphics, or both) and can contain controls that the user operates by [tapping](/terms/tapping), as well as areas where the user can write and draw.
 
 ----
 
