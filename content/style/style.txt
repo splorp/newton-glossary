@@ -12,7 +12,7 @@ Description: Helpful guidelines on how to write entries for the Newton Glossary.
 
 Text:
 
-### Abbreviations (used as a “see also” pointing at expanded term)
+### Abbreviations
 
 Only include the abbreviated term in the related terms of the expanded term. Do not include the abbreviated term in other terms.
 
@@ -20,7 +20,7 @@ For example, [Newton Toolkit](/terms/newton-toolkit) should list [NTK](/terms/nt
 
 However, [project build](/terms/project-build) should list [Newton Toolkit](/terms/newton-toolkit), not [NTK](/terms/ntk).
 
-### Abbreviations (more common than the expanded term)
+When an abbreviation is more commonly used than the expanded term, the abbreviated term should be the primary term.
 
 For example, [PCMCIA](/terms/pcmcia) is an acronym that is more commonly used than its expanded variation — _Personal Computer Memory Card International Association_. In this case, the expanded term would be included as the first part of the abbreviation’s entry.
 
@@ -60,9 +60,7 @@ Use if the referenced term is a quirky or derogatory name for the source term.
 
 ### Capitalization of terms
 
-### Indicating menu items, windows, slips, and other named user interface elements
-
-When referring to other terms, as decribed above, if the reference is set in its own paragraph, the term should be capitalized.
+When referring to other terms such as brands, languages, menu items, windows, slips, or other named user interface elements, if the reference is set in its own paragraph, the term should be capitalized.
 
 _Example:_
 
@@ -80,15 +78,15 @@ Do not use generic nouns such as “kind” when introducing a descriptive eleme
 
 _Example:_
 
-+ A kind of flash memory.
++ a kind of flash memory
 
 Instead, use a more specific noun.
 
 _Examples:_
 
-+ A type of flash memory
-+ A method of handwriting recognition
-+ A style of font
++ a type of flash memory
++ a method of handwriting recognition
++ a style of font
 
 ### Hyphenated terms
 
