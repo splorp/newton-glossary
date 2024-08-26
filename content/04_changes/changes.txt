@@ -520,12 +520,12 @@ Sources: 49
 
 06 October 2002
 
-Terms: 704
+Terms: 705
 Sources: 45
 
 #### Summary of changes:
 
-+ Added 31 new terms
++ Added 32 new terms
 + Added 5 new sources
 + Updated and expanded numerous existing entries
 
