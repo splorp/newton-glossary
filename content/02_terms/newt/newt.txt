@@ -10,10 +10,25 @@ Text:
 
 An affectionate nickname for a Newton device.
 
-Also, an alternate name for Steve Weyer’s [NewtDevEnv](/terms/newtdevenv) application development framework.
+Newt was also the nickname of the scaled back development project that formed after the [Dylan](/terms/dylan) programming language failed to be a viable means to develop the Newton [operating system](/terms/operating-system).
+
+Steve Weyer’s [NewtDevEnv](/terms/newtdevenv) application development framework also goes by the name of Newt.
+
+----
+
+Resource:
+
+- [The New York Times: Marketer’s Dream, Engineer’s Nightmare](https://web.archive.org/web/20090803141244/http://www.nytimes.com/1993/12/12/business/marketer-s-dream-engineer-s-nightmare.html?pagewanted=all)
 
 ----
 
 Related:
 
+- /terms/dylan
 - /terms/newtdevenv
+- /terms/newton-os
+- /terms/operating-system
+
+----
+
+- /sources/the-new-york-times
