@@ -473,8 +473,8 @@ Sources: 83
 
 #### Summary of changes:
 
-+ Added 16 new terms
-+ Added 2 new sources
++ Added 19 new terms
++ Added 6 new sources
 + Updated and expanded dozens of existing entries
 + Fixed outdated links on the [about](/about) page
 + Added rudimentary [search](/search) functionality
@@ -488,13 +488,13 @@ Sources: 83
 
 24 August 2016
 
-Terms: 903
-Sources: 81
+Terms: 900
+Sources: 77
 
 #### Summary of changes:
 
-+ Added 147 new terms
-+ Added 32 new sources
++ Added 144 new terms
++ Added 28 new sources
 + Updated and expanded literally hundreds of existing terms
 + Migrated project to [GitHub](https://github.com/)
 + Content now published using [Kirby](http://getkirby.com/)
