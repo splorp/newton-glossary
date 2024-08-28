@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-An [easter egg](/terms/easter-egg) found in [Newton OS](/terms/newton-os) 2.0 which when activated displays an image from a [Doonesbury comic strip](http://doonesbury.washingtonpost.com/strip/set/24) lampooning the accuracy of the early Newton [handwriting recognition](/terms/handwriting-recognition).
+An [easter egg](/terms/easter-egg) found in [Newton OS](/terms/newton-os) 2.0 which when activated displays an image from a [Doonesbury comic strip](https://web.archive.org/web/20170629100722/http://doonesbury.washingtonpost.com/strip/set/24) lampooning the accuracy of the early Newton [handwriting recognition](/terms/handwriting-recognition).
 
 <img src="/assets/images/egg-freckles-2x.gif" alt="Egg Freckles from Doonesbury — August 27th, 1993" />
 
@@ -21,7 +21,7 @@ Egg Freckles is also the name of Newton-themed weblog written by [Thomas Brand](
 Resource:
 
 - [Doonesbury: The Newton](https://web.archive.org/web/20170629100722/http://doonesbury.washingtonpost.com/strip/set/24)
-- [The New York Times: Doonesbury and Apple Hatch a Comic Surprise](https://www.nytimes.com/1995/12/18/business/doonesbury-and-apple-hatch-a-comic-surprise.html)
+- [The New York Times: Doonesbury and Apple Hatch a Comic Surprise](https://web.archive.org/web/20090718084616/http://www.nytimes.com/1995/12/18/business/doonesbury-and-apple-hatch-a-comic-surprise.html)
 - [My Apple Newton: Dilbert Compares Smartphones](http://myapplenewton.blogspot.ca/2011/08/dilbert-compares-smartphones.html)
 - [Avi Drissman: Egg Freckles Enabler](http://www.drissman.com/avi/newton/EggFrecklesEnabler/)
 
@@ -37,3 +37,9 @@ Related:
 - /terms/hot-dog-song
 - /terms/serious-bandwidth
 - /terms/tablespoons
+
+----
+
+Source:
+
+- /sources/garry-trudeau
