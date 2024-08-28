@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-Extensible Markup Language
+eXtensible Markup Language
 
 A set of structural rules for encoding documents in a format which is both human-readable and machine-readable. For example, XML is used to publish frequently updated feeds of information on websites using [RSS](/terms/rss).
 

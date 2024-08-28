@@ -17,6 +17,7 @@ Related:
 - /terms/bauhaus
 - /terms/denali
 - /terms/dylan
+- /terms/newt
 - /terms/newton-plus
 - /terms/ralph
 - /terms/senior

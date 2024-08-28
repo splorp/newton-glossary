@@ -32,6 +32,7 @@ Related:
 - /terms/lisp
 - /terms/littlelisp
 - /terms/macintosh-common-lisp
+- /terms/newt
 - /terms/newton-os
 - /terms/newtonscript
 - /terms/ralph
