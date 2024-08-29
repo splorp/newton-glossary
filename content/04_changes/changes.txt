@@ -511,7 +511,7 @@ Sources: 49
 
 #### Summary of changes:
 
-+ Added 52 new terms
++ Added 51 new terms
 + Added 4 new sources
 + Updated and expanded numerous existing entries
 + Not released publicly
@@ -564,7 +564,7 @@ Sources: 34
 
 #### Summary of changes:
 
-+ Added 15 new terms
++ Added 16 new terms
 + Added 3 new sources
 + Updated and expanded numerous existing entries
 
@@ -589,7 +589,7 @@ Sources: 31
 
 #### Summary of changes:
 
-+ Added 37 new terms
++ Added 38 new terms
 + Added 6 new sources
 + Updated and expanded numerous existing entries
 + Not released publicly
@@ -598,7 +598,7 @@ Sources: 31
 
 31 May 2001
 
-Terms: 570
+Terms: 569
 Sources: 25
 
 #### Summary of changes:
@@ -612,7 +612,7 @@ Sources: 25
 
 24 May 2001
 
-Terms: 528
+Terms: 527
 Sources: 23
 
 #### Summary of changes:
