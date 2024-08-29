@@ -2,7 +2,7 @@ Title: Newton Programmer’s Reference
 
 ----
 
-Date:
+Date: 24 August 2016
 
 ----
 
