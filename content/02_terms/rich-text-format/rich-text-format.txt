@@ -8,12 +8,13 @@ Date:
 
 Text:
 
-A document format originally developed by [Microsoft](http://www.microsoft.com/) for encoding formatted text and graphics. Denoted by the [.rtf](/terms/rtf) file extension.
+A document format originally developed by [Microsoft](http://www.microsoft.com/) for encoding formatted text and graphics. Denoted by the [.rtf](/terms/rtf) filename extension.
 
 ----
 
 Related:
 
+- /terms/filename-extension
 - /terms/rtf
 
 ----

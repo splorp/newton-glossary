@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A file that contains software, such as an [application](/terms/application) program or [extension](/terms/extension), which can be transferred to a Newton device using a [package installer](/terms/package-installer). Denoted by the [.pkg](/terms/pkg) or [.newtonpkg](/terms/newtonpkg) file extension.
+A file that contains software, such as an [application](/terms/application) program or [extension](/terms/extension), which can be transferred to a Newton device using a [package installer](/terms/package-installer). Denoted by the [.pkg](/terms/pkg) or [.newtonpkg](/terms/newtonpkg) filename extension.
 
 ----
 
@@ -16,6 +16,7 @@ Related:
 
 - /terms/application
 - /terms/extension
+- /terms/filename-extension
 - /terms/newtonpkg
 - /terms/package
 - /terms/package-installer

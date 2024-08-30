@@ -8,7 +8,7 @@ Date: 21 November 2004
 
 Text:
 
-The file extension used to identify [backup files](/terms/backup-file) created by the Windows versions of the [Newton Backup Utility](/terms/newton-backup-utility) and [Newton Connection Utilities](/terms/newton-connection-utilities) applications.
+The [filename extension](/terms/filename-extension) used to identify [backup files](/terms/backup-file) created by the Windows versions of the [Newton Backup Utility](/terms/newton-backup-utility) and [Newton Connection Utilities](/terms/newton-connection-utilities) applications.
 
 ----
 
@@ -16,6 +16,7 @@ Related:
 
 - /terms/backup
 - /terms/backup-file
+- /terms/filename-extension
 - /terms/nbku
 - /terms/newton-backup-utility
 - /terms/newton-connection-utilities

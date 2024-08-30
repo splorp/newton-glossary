@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The unit in which an [application](/terms/application) or [extension](/terms/extension) can be installed to or removed from a Newton device. A package consists of a header containing the package name and other information, and one or more parts containing the software. Denoted by the [.pkg](/terms/pkg) or [.newtonpkg](/terms/newtonpkg) file extension.
+The unit in which an [application](/terms/application) or [extension](/terms/extension) can be installed to or removed from a Newton device. A package consists of a header containing the package name and other information, and one or more parts containing the software. Denoted by the [.pkg](/terms/pkg) or [.newtonpkg](/terms/newtonpkg) filename extension.
 
 ----
 
@@ -16,6 +16,7 @@ Related:
 
 - /terms/application
 - /terms/extension
+- /terms/filename-extension
 - /terms/freeze
 - /terms/frozen-package
 - /terms/newtonpkg

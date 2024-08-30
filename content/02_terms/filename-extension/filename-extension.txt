@@ -1,0 +1,33 @@
+Title: Filename Extension
+
+----
+
+Date: 30 August 2024
+
+----
+
+Text:
+
+The portion of the name of a file that follows the final point (or “.” character) that indicates the type of data stored in the file.
+
+For example, a Newton [package](/terms/package) file is denoted by either the [.pkg](/terms/pkg) or [.newtonpkg](/terms/newtonpkg) filename extension.
+
+Also referred to as a [File Extension](/terms/file-extension) or [Extension](/terms/extension).
+
+----
+
+Related:
+
+- /terms/extension
+- /terms/file-extension
+- /terms/nbk
+- /terms/nbku
+- /terms/newtonpkg
+- /terms/pkg
+- /terms/rtf
+
+----
+
+Source:
+
+- /sources/foldoc

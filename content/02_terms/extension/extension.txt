@@ -10,10 +10,13 @@ Text:
 
 A [package](/terms/package) that adds some sort of functionality to the [operating system](/terms/operating-system) or other packages.
 
+The [filename extension](/terms/filename-extension) of a file is also referred to as simply an extension.
+
 ----
 
 Related:
 
+- /terms/filename-extension
 - /terms/package
 - /terms/patch
 - /terms/system-patch

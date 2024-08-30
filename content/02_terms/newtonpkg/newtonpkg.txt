@@ -8,12 +8,13 @@ Date:
 
 Text:
 
-The recommended file extension used to identify Newton [package files](/terms/package-file) on current [operating systems](/terms/operating-system) such as Solaris, BeOS, Mac OS X, and iOS which use the [.pkg](/terms/pkg) extension to denote installable software packages.
+The recommended [filename extension](/terms/filename-extension) used to identify Newton [package files](/terms/package-file) on current [operating systems](/terms/operating-system) such as Solaris, BeOS, Mac OS X, and iOS which use the [.pkg](/terms/pkg) extension to denote installable software packages.
 
 ----
 
 Related:
 
+- /terms/filename-extension
 - /terms/package
 - /terms/package-file
 - /terms/package-installer

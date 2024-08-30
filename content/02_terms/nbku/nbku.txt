@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The file extension used to identify [backup files](/terms/backup-file) created by the [Newton Connection](/terms/newton-connection) application.
+The [filename extension](/terms/filename-extension) used to identify [backup files](/terms/backup-file) created by the [Newton Connection](/terms/newton-connection) application.
 
 ----
 
@@ -16,6 +16,7 @@ Related:
 
 - /terms/backup
 - /terms/backup-file
+- /terms/filename-extension
 - /terms/nbk
 - /terms/newton-connection
 - /terms/restore
