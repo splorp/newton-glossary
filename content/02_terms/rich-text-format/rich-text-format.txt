@@ -16,6 +16,7 @@ Related:
 
 - /terms/filename-extension
 - /terms/rtf
+- /terms/text-file
 
 ----
 

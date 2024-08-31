@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A file containing text-based data that is compiled by [Newton Toolkit](/terms/newton-toolkit) during a [project build](/terms/project-build).
+A file containing text-based data that is compiled by [Newton Toolkit](/terms/newton-toolkit) during a [project build](/terms/project-build). Usually denoted by the [.txt](/terms/txt) filename extension.
 
 ----
 
@@ -16,12 +16,15 @@ Related:
 
 - /terms/bitmap
 - /terms/build
+- /terms/filename-extension
 - /terms/newton-toolkit
 - /terms/project
 - /terms/project-build
 - /terms/project-file
 - /terms/resource
 - /terms/resource-file
+- /terms/rich-text-format
+- /terms/txt
 
 ----
 

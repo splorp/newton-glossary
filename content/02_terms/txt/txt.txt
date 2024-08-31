@@ -1,0 +1,11 @@
+Title: TXT
+
+----
+
+Date: 30 August 2024
+
+----
+
+Text:
+
+See: [Text File](/terms/text-file)

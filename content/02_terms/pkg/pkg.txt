@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The [filename extension](/terms/filename-extension) used to identify Newton [package files](/terms/package-file). Confusingly, a number of other [operating systems](/terms/operating-system) including Solaris, BeOS, Mac OS X, and iOS also use the `.pkg` extension to denote installable software packages. To avoid interoperability issues, it has been suggested that Newton package files use the `.newtonpkg` filename extension on current operating systems.
+The [filename extension](/terms/filename-extension) used to identify Newton [package files](/terms/package-file). Confusingly, a number of other [operating systems](/terms/operating-system) including Solaris, BeOS, Mac OS X, and iOS also use the .pkg extension to denote installable software packages. To avoid interoperability issues, it has been suggested that Newton package files use the [.newtonpkg](/terms/newtonpkg) filename extension on current operating systems.
 
 ----
 

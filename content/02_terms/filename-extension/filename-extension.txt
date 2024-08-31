@@ -25,6 +25,7 @@ Related:
 - /terms/newtonpkg
 - /terms/pkg
 - /terms/rtf
+- /terms/txt
 
 ----
 
