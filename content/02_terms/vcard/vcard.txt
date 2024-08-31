@@ -8,12 +8,13 @@ Date:
 
 Text:
 
-A standardized data format for electronic business cards. Information is typically contained in a file denoted by the [.vcf](/terms/vcf) extension, which can be exchanged via email, instant messaging, or other file transfer mechanism. A vCard that has been transferred to a Newton device can be converted into a [Name File](/terms/name-file) record using an [application](/terms/application) such as [SimpleMail](/terms/simplemail), [Mail V](/terms/mail-v), or [NewtDump](/terms/newtdump).
+A standardized data format for electronic business cards. Information is typically contained in a file identified by the [.vcf](/terms/vcf) filename extension, which can be exchanged via email, instant messaging, or other file transfer mechanism. A vCard that has been transferred to a Newton device can be converted into a [Name File](/terms/name-file) record using an [application](/terms/application) such as [SimpleMail](/terms/simplemail), [Mail V](/terms/mail-v), or [NewtDump](/terms/newtdump).
 
 ----
 
 Related:
 
+- /terms/filename-extension
 - /terms/mail-v
 - /terms/name-file
 - /terms/newtdump
