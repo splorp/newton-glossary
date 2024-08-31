@@ -10,6 +10,8 @@ Text:
 
 A defunct group within [Apple](https://www.apple.com/) which supplied technical information and support for companies and individuals developing product for the Newton platform.
 
+Also referred to as [NDS](/terms/nds).
+
 ----
 
 Related:
@@ -19,6 +21,7 @@ Related:
 - /terms/dr-llama
 - /terms/ers
 - /terms/llama
+- /terms/nds
 - /terms/newton-associates-program
 - /terms/newton-developer-cd
 - /terms/newton-developer-conference

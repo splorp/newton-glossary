@@ -12,6 +12,8 @@ Software developed by [Apple](https://www.apple.com/) for creating sophisticated
 
 [Book maker commands](/terms/book-maker-commands) allow the developer to provide additional functionality or control over the page layout of a book. Newton Book Maker also provides a means to attach other data, [methods](/terms/method), and view [templates](/terms/template) to book content.
 
+Also referred to as [NBM](/terms/nbm).
+
 ----
 
 Related:

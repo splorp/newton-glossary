@@ -8,7 +8,9 @@ Date: 06 October 2002
 
 Text:
 
-Software developed by an elusive fellow named Bob Anderson as an alternative to Apple’s own [Newton Connection Utilities](/terms/newton-connection-utilities) (NCU). It allowed users to [backup](/terms/backup), [restore](/terms/restore), browse data, and install [packages](/terms/package) on their Newton devices. The software was never officially released and the author has subsequently disappeared. Also known variously as [NBE](/terms/nbe), [NBX](/terms/nbx), and [NewtBX](/terms/newtbx).
+Software developed by an elusive fellow named Bob Anderson as an alternative to Apple’s own [Newton Connection Utilities](/terms/newton-connection-utilities) (NCU). It allowed users to [backup](/terms/backup), [restore](/terms/restore), browse data, and install [packages](/terms/package) on their Newton devices. The software was never officially released and the author has subsequently disappeared.
+
+Also known variously as [NBE](/terms/nbe), [NBX](/terms/nbx), and [NewtBX](/terms/newtbx).
 
 ----
 

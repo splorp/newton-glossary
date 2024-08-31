@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-A previous incarnation of the [Apple](https://www.apple.com/) support information website. Commonly referred to as simply [TIL](/terms/til), it shouldn’t be confused with the [contemporary acronym](http://onlineslangdictionary.com/meaning-definition-of/til), although they do share some lineage.
+A previous incarnation of the [Apple](https://www.apple.com/) support information website. Commonly referred to as [TIL](/terms/til), it shouldn’t be confused with the [contemporary acronym](http://onlineslangdictionary.com/meaning-definition-of/til), although they do share some lineage.
 
 ----
 

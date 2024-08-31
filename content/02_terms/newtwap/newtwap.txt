@@ -23,10 +23,10 @@ Resource:
 
 Related:
 
-- /terms/wap
 - /terms/courier
 - /terms/newts-cape
 - /terms/pocketweb
+- /terms/wap
 
 ----
 

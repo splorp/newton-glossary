@@ -10,7 +10,7 @@ Text:
 
 An experimental project by [Igor Boris Bertolucci](/sources/igor-boris-bertolucci), where he attempted to reduce the overall physical size of a [MessagePad 2000](/terms/messagepad-2000). The project involved removing the casing, replacing the original power source with a modern Lithium Polymer battery and charging system, as well as a [FTDI](/terms/ftdi)-compliant USB to serial converter.
 
-Also referred to as simply [Shrinking Newt](/terms/shrinking-newt).
+Also referred to as the [Shrinking Newt](/terms/shrinking-newt).
 
 ----
 

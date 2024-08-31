@@ -10,6 +10,8 @@ Text:
 
 An [application](/terms/application) built into the [Newton OS](/terms/newton-os) as a system-wide service, facilitating the display and navigation of interactive, digital [books](/terms/newton-book).
 
+Also referred to as [NBR](/terms/nbr).
+
 ----
 
 Related:

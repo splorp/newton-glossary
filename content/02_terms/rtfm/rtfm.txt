@@ -26,3 +26,4 @@ Related:
 - /terms/faq
 - /terms/newtledge
 - /terms/newtontalking
+- /terms/newtrtfm

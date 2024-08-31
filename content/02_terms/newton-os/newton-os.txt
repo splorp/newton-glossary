@@ -10,7 +10,7 @@ Text:
 
 The [operating system](/terms/operating-system) that controls a Newton device.
 
-Also referred to as simply [NOS](/terms/nos).
+Also referred to as [NOS](/terms/nos).
 
 ----
 
