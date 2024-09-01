@@ -10,7 +10,7 @@ Text:
 
 An entry in the [Date Book](/terms/date-book) application corresponding to a day, but not a particular time during that day.
 
-In programming, an event is an [action](/terms/action) of significance occurring during a task or within an [application](/terms/application) program, such as a key being pressed on a [keyboard](/terms/keyboard) or a [button](/terms/button) being [tapped](/terms/tapped) on the [screen](/terms/screen).
+In [NewtonScript](/terms/newtonscript), an event is an [action](/terms/action) of significance occurring during a task or within an [application](/terms/application) program, such as a key being pressed on a [keyboard](/terms/keyboard) or a [button](/terms/button) being [tapped](/terms/tapped) on the [screen](/terms/screen).
 
 ----
 
@@ -22,6 +22,7 @@ Related:
 - /terms/keystroke-events
 - /terms/meeting
 - /terms/moreinfo
+- /terms/newtonscript
 
 ----
 

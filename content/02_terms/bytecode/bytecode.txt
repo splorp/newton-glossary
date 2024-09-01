@@ -20,6 +20,7 @@ Related:
 
 - /terms/byte-code
 - /terms/nsm
+- /terms/newtonscript
 - /terms/waba
 - /terms/yazi
 
