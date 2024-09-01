@@ -21,7 +21,7 @@
             <body class="ph3 pb3 mid-gray">
                 <header class="mw8 pv4 center">
                     <div class="flex items-center">
-                        <h1 class="ma0 mr2 f2 blue">Sitemap</h1>
+                        <h1 class="ma0 mr2 f2 dark-gray">Sitemap</h1>
                         <xsl:if test="sitemap:sitemapindex">
                             <span class="dib mr2 ph3 pv1 f6 normal mid-gray bg-light-blue br-pill">Index</span>
                         </xsl:if>
@@ -35,30 +35,29 @@
                             <span class="dib mr2 ph3 pv1 f6 normal mid-gray bg-light-blue br-pill">Xhtml</span>
                         </xsl:if>
                     </div>
-                    <h2 class="ma0 mt4 f4 normal">
+                    <p>
+                        This is an XML sitemap, an index designed specifically for search engines. <a href="https://sitemaps.org/" title="Additional information about sitemaps" class="link blue hover-navy">What’s a sitemap?</a>
+                    </p>
+                    <p>
                         <xsl:choose>
                             <xsl:when test="sitemap:sitemapindex">
                                 This index contains
-                                <strong class="blue"><xsl:value-of select="count(sitemap:sitemapindex/sitemap:sitemap)"/></strong>
+                                <strong><xsl:value-of select="count(sitemap:sitemapindex/sitemap:sitemap)"/></strong>
                                 sitemaps.
                             </xsl:when>
                             <xsl:otherwise>
-                                This index contains
-                                <strong class="blue"><xsl:value-of select="count(sitemap:urlset/sitemap:url)"/></strong>
+                                This sitemap contains
+                                <strong><xsl:value-of select="count(sitemap:urlset/sitemap:url)"/></strong>
                                 URLs.
                             </xsl:otherwise>
                         </xsl:choose>
-                    </h2>
-                    <p>
-                        This is an XML sitemap, meant for consumption by search engines.<br/>
-                        You can find more information about XML sitemaps at <a href="https://sitemaps.org/" class="link blue">sitemaps.org</a>.
                     </p>
                 </header>
 
                 <xsl:apply-templates/>
 
                 <footer class="mw8 center pv4 tc">
-                    This is an open source <a href="https://github.com/pedroborges/xml-sitemap-stylesheet" title="Go to Github" class="link blue">XML Sitemap Stylesheet</a> created by <a href="https://pedroborg.es" title="Pedro Borges" class="link blue">pedroborg.es</a>
+                    This is an open source <a href="https://github.com/pedroborges/xml-sitemap-stylesheet" title="View this project on Github" class="link blue hover-navy">XML Sitemap Stylesheet</a> created by <a href="https://github.com/pedroborges/" title="View Pedro’s profile on Github" class="link blue hover-navy">Pedro Borges</a>
                 </footer>
 
             </body>
