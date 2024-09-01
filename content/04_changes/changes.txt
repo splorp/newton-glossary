@@ -26,7 +26,9 @@ Sources: _$s
 #### Summary of changes:
 
 + Added new terms
++ Added new sources
 + Updated and expanded several existing entries
++ Updated [Kirby](https://getkirby.com/) to version [4.3.1](https://github.com/getkirby/kirby/releases/tag/4.3.1) for security patch
 
 ### 4.2.1
 
