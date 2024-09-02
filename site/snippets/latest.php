@@ -7,7 +7,7 @@
 		<?php foreach($pages as $page): ?>
 		<item>
 			<title><?= $page->title()->xml() ?></title>
-			<description><?= $page->text()->kirbytext()->xml() ?></description>
+			<description><![CDATA[<?= $page->text()->kirbytext() ?>]]></description>
 			<pubDate><?= $page->date()->toDate('r') ?></pubDate>
 			<link><?= $page->url() ?></link>
 			<guid isPermaLink="true"><?= $page->url() ?></guid>
