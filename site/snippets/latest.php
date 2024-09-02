@@ -1,5 +1,4 @@
 <?= '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">'; ?>
-<?= '<?xml-stylesheet type="text/xsl" href="' . url('sitemap.xsl') . '"?>'; ?>
 	<channel>
 		<title><?= $site->title() ?> — Latest Additions</title>
 		<description>Recent terms and sources added to the glossary.</description>
@@ -13,6 +12,6 @@
 			<link><?= $page->url() ?></link>
 			<guid isPermaLink="true"><?= $page->url() ?></guid>
 		</item>
-		<?php endforeach ?>
+		<?php endforeach; ?>
 	</channel>
 </rss>
