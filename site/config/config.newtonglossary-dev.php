@@ -30,6 +30,11 @@ return [
 			'active' => false
 		]
 	],
+	'kirbytext' => [
+		'image' => [
+			'figure' => false
+		]
+	],
 	'markdown' => [
 		'breaks' => true
 	],
