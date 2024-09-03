@@ -8,9 +8,9 @@ Date: 24 August 2016
 
 Text:
 
-A message, image, inside joke, or feature that has been intentional hidden in an [application](/terms/application), [operating system](/terms/operating-system), or other media. Easter eggs are generally activated by a series of undocumented commands or actions.
+A message, image, inside joke, or feature that has been intentional hidden in an (link: /terms/application text: application), (link: /terms/operating-system text: operating system), or other media. Easter eggs are generally activated by a series of undocumented commands or actions.
 
-Examples of [Newton OS](/terms/newton-os) easter eggs include [Area 51](/terms/area-51) and [Egg Freckles](/terms/egg-freckles).
+Examples of (link: /terms/newton-os text: Newton OS) easter eggs include (link: /terms/area-51 text: Area 51) and (link: /terms/egg-freckles text: Egg Freckles).
 
 ----
 
@@ -25,6 +25,7 @@ Related:
 
 - /terms/area-51
 - /terms/egg-freckles
+- /terms/egg-freckles-enabler
 
 ----
 
