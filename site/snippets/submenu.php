@@ -19,7 +19,7 @@ $alphabetise = $page->children()->sortBy('title', 'asc')->group(fn ($item) => st
 	<h3><?php echo str::upper($letter) ?></h3>
 	<ul>
 		<?php foreach($items as $item): ?>
-		<li><a href="/<?php echo $item ?>"><?php echo html($item->title()) ?></a></li>
+		<li><a href="<?php echo $site->url() . '/' . $item ?>"><?php echo html($item->title()) ?></a></li>
 		<?php endforeach ?>
 	</ul>
 	<?php endforeach ?>

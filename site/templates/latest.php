@@ -11,7 +11,7 @@
 		<?php echo $page->text()->kirbytext() ?>
 		<ul>
 			<?php foreach($latest_pages as $latest): ?>
-			<li><a href="/<?php echo $latest ?>"><?php echo $latest->title()->html() ?></a><br>
+			<li><a href="<?php echo $site->url() . '/' . $latest ?>"><?php echo $latest->title()->html() ?></a><br>
 			<span class="mouseprint">New <?php echo rtrim($latest->parent()->slug(), "s") ?> added <?php echo $latest->date('d F Y') ?></span></li>
 			<?php endforeach ?>
 		</ul>
