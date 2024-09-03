@@ -10,7 +10,7 @@ Text:
 
 [Ink words](/terms/ink-word) processed by the [handwriting recognition](/terms/handwriting-recognition) system. [Ink](/terms/ink) drawn by the user is converted into recognized text when the user has selected [Text](/terms/text) in the “Recognition Preferences” [slip](/terms/slip) or after [deferred recognition](/terms/deferred-recognition) takes place.
 
-<img src="/assets/images/recognized-text-2x.gif" alt="Screenshot of Recognized Text in the Notepad application" width="186" />
+(image: /assets/images/recognized-text-2x.gif alt: Screenshot of Recognized Text in the Notepad application width: 186)
 
 ----
 

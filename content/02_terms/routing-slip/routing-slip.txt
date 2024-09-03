@@ -10,7 +10,7 @@ Text:
 
 A [view](/terms/view) in which a user specifies the sender, recipient, format, and other information needed to send data by the method chosen in the [action picker](/terms/action-picker). Routing slips are visually identified by a [striped border](/terms/striped-border).
 
-<img src="/assets/images/routing-slip-2x.gif" alt="Screenshot of a Routing Slip displayed when faxing an item" width="230" />
+(image: /assets/images/routing-slip-2x.gif alt: Screenshot of a Routing Slip displayed when faxing an item width: 230)
 
 ----
 

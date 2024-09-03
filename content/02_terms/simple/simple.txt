@@ -10,7 +10,7 @@ Text:
 
 One of the default bitmap [fonts](/terms/font) on the Newton. Simple is a proportionally spaced sans serif typeface based on [Geneva](https://en.wikipedia.org/wiki/Geneva_(typeface)).
 
-<img src="/assets/images/simple-2x.gif" alt="Screenshot showing various sizes of the Simple bitmap font" width="246" />
+(image: /assets/images/simple-2x.gif alt: Screenshot showing various sizes of the Simple bitmap font width: 246)
 
 ----
 

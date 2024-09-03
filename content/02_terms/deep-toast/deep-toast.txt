@@ -12,7 +12,7 @@ The status or [charge state](/terms/charge-state) of a rechargeable [battery](/t
 
 Deep Toast can also refer to a catastrophic hardware failure, such as a fatal hard drive crash.
 
-<img src="/assets/images/deep-toast-2x.gif" alt="Screenshot of the Battery Statistics window in Avi’s Backdrop showing a deepToast charge state message" width="220" />
+(image: /assets/images/deep-toast-2x.gif alt: Screenshot of the Battery Statistics window in Avi’s Backdrop showing a deepToast charge state message width: 220)
 
 ----
 

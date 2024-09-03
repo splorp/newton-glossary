@@ -12,7 +12,7 @@ A toolbar interface for the [Ink](/terms/inkwell) handwriting recognition system
 
 Also referred to as [InkBar](/terms/inkbar), [Ink Bar](/terms/ink-bar), and [Ink Toolbar](/terms/ink-toolbar).
 
-<img src="/assets/images/ink-window-jaguar-2x.gif" alt="Screenshot of the Ink Window toolbar in Mac OS X Jaguar" width="337" />
+(image: /assets/images/ink-window-jaguar-2x.gif alt: Screenshot of the Ink Window toolbar in Mac OS X Jaguar width: 337)
 
 ----
 

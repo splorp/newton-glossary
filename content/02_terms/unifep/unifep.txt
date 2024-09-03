@@ -12,7 +12,7 @@ A series of modular software products developed by [Enfour](/sources/enfour) tha
 
 The name is derived from [Unicode](/terms/unicode) and Front-End Processor.
 
-<img src="/assets/images/unifep-2x.gif" alt="Screenshot of the Japanese UniFEP floating palette and keyboard" width="242" />
+(image: /assets/images/unifep-2x.gif alt: Screenshot of the Japanese UniFEP floating palette and keyboard width: 242)
 
 ----
 

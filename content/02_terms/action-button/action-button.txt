@@ -12,7 +12,7 @@ A button used in [applications](/terms/application) to invoke [routing](/terms/r
 
 Also referred to as an [Envelope Button](/terms/envelope-button) or [Routing Button](/terms/routing-button).
 
-<img src="/assets/images/action-picker-2x.gif" alt="Screenshot of an Action Button with Picker" width="113" />
+(image: /assets/images/action-picker-2x.gif alt: Screenshot of an Action Button with Picker width: 113)
 
 ----
 

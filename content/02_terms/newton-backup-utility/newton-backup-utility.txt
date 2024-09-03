@@ -12,7 +12,7 @@ Software developed by [Apple](https://www.apple.com/) that allows you to [backup
 
 Also referred to as [NBU](/terms/nbu).
 
-<img src="/assets/images/newton-backup-utility-2x.gif" alt="Screenshot of the Newton Backup Utility application" width="513" />
+(image: /assets/images/newton-backup-utility-2x.gif alt: Screenshot of the Newton Backup Utility application width: 513)
 
 ----
 

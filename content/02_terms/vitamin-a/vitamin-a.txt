@@ -10,7 +10,7 @@ Text:
 
 A [user interface](/terms/user-interface) enhancement [package](/terms/package) developed by [Stand Alone](https://standalone.com/) and published by [Power Media](/sources/power-media) that facilitates the creation of custom menus providing quick access to various user-defined actions. A menu can be assigned to each corner of the [screen](/terms/screen), the areas below each of the [soft buttons](/terms/soft-button) in the [button bar](/terms/button-bar) the bottom of the screen, or [caret picker](/terms/caret-picker).
 
-<img src="/assets/images/vitamin-a-2x.gif" alt="Screenshot of the Vitamin A menu builder" width="242" />
+(image: /assets/images/vitamin-a-2x.gif alt: Screenshot of the Vitamin A menu builder width: 242)
 
 ----
 

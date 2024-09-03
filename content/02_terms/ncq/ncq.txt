@@ -12,7 +12,7 @@ An instant messaging [application](/terms/application) for [Newton OS](/terms/ne
 
 Also referred to as [NewtICQ](/terms/newticq).
 
-<img src="/assets/images/ncq-2x.gif" alt="Screenshot of NCQ" width="230" />
+(image: /assets/images/ncq-2x.gif alt: Screenshot of NCQ width: 230)
 
 ----
 

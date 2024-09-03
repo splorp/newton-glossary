@@ -10,7 +10,7 @@ Text:
 
 An [item info slip](/terms/item-info-slip) that reports statistics on the amount of memory installed and available to a Newton device.
 
-<img src="/assets/images/memory-info-slip-2x.gif" alt="Screenshot of the Memory Info Slip" width="320" />
+(image: /assets/images/memory-info-slip-2x.gif alt: Screenshot of the Memory Info Slip width: 320)
 
 ----
 

@@ -12,7 +12,7 @@ Text:
 
 Tapping “Try Letters” causes the Newton system to ignore the recognition dictionaries and try to recognize the word [letter-by-letter](/terms/letter-by-letter). Tapping the keyboard button displays a [typewriter](/terms/typewriter) keyboard, to allow the user to type corrections. Tapping the [corrector button](/terms/corrector-button) brings up a [corrector view](/terms/corrector-view), in which the user can make corrections to individual letters.
 
-<img src="/assets/images/correction-picker-2x.gif" alt="Screenshot of the Correction Picker" width="79" />
+(image: /assets/images/correction-picker-2x.gif alt: Screenshot of the Correction Picker width: 79)
 
 Tapping a letter in the corrector view pops up a different correction picker, listing alternate letters as well as commands to insert and delete individual characters.
 

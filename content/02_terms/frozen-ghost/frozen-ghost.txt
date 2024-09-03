@@ -12,7 +12,7 @@ An alternate name for the clear case [Frozen Newton](/terms/frozen-newton) proje
 
 Definitely not a reference to the [Canadian rock band](https://en.wikipedia.org/wiki/Frozen_Ghost) from the 1980s.
 
-<img src="/assets/images/frozen-ghost-2x.jpg" alt="Frozen Ghost Album Cover" width="500" />
+(image: /assets/images/frozen-ghost-2x.jpg alt: Frozen Ghost Album Cover width: 500)
 
 ----
 

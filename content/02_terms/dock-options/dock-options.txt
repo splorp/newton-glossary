@@ -10,7 +10,7 @@ Text:
 
 A [slip](/terms/slip) in the [Teacher Setup](/terms/teacher-setup) application that determines how an [eMate 300](/terms/emate-300) will connect to another computer.
 
-<img src="/assets/images/dock-options-2x.gif" alt="Screenshot of the Dock Options slip" width="236" />
+(image: /assets/images/dock-options-2x.gif alt: Screenshot of the Dock Options slip width: 236)
 
 Dock Options allows you to set the default [application](/terms/application) used to connect to another computer and the default computer that the eMate will connect to.
 

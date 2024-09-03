@@ -12,7 +12,7 @@ A [debugging](/terms/debugging) window in the [Newton Toolkit](/terms/newton-too
 
 The Inspector communicates with the [Toolkit](/terms/toolkit) application installed on a Newton device connected to a [desktop computer](/terms/desktop-computer) or [laptop computer](/terms/laptop-computer) via a serial cable or [AppleTalk](/terms/appletalk) network.
 
-<img src="/assets/images/inspector-2x.gif" alt="Screenshot of the Inspector window" width="516" />
+(image: /assets/images/inspector-2x.gif alt: Screenshot of the Inspector window width: 516)
 
 ----
 

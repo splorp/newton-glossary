@@ -12,7 +12,7 @@ A prototype version of the [Newton Toolkit](/terms/newton-toolkit) development e
 
 Also referred to as [EaS](/terms/eas).
 
-<img src="/assets/images/etchasketch-2x.gif" alt="Screenshot of the EtchASketch project browser window" width="424" />
+(image: /assets/images/etchasketch-2x.gif alt: Screenshot of the EtchASketch project browser window width: 424)
 
 ----
 

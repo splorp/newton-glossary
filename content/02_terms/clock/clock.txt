@@ -10,7 +10,7 @@ Text:
 
 The built-in [application](/terms/application) that displays the current time using an analog style clock face. The application allows the user to change the time and date, set daily alarms, and set minute timers. The clock also can be accessed by [tapping](/terms/tapping) the time and date that appears in the upper left corner of the [Notepad](/terms/notepad) application.
 
-<img src="/assets/images/clock-2x.gif" alt="Screenshot of the Clock application" width="109" />
+(image: /assets/images/clock-2x.gif alt: Screenshot of the Clock application width: 109)
 
 ----
 

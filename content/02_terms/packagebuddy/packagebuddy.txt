@@ -10,7 +10,7 @@ Text:
 
 An application developed by [Tactile Systems](/sources/tactile) that allows the user to export [packages](/terms/package) from a Newton device to a Mac OS or Windows computer.
 
-<img src="/assets/images/packagebuddy-2x.gif" alt="Screenshot of PackageBuddy" width="214" />
+(image: /assets/images/packagebuddy-2x.gif alt: Screenshot of PackageBuddy width: 214)
 
 ----
 

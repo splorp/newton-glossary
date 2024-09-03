@@ -12,7 +12,7 @@ The [button](/terms/button) found in an [application](/terms/application) that a
 
 For example, creating a new [note](/terms/note) or [checklist](/terms/checklist) in the [Notepad](/terms/notepad), a new [card](/terms/card) for a person or group in the [Name File](/terms/name-file), or a new [meeting](/terms/meeting) in the [Date Book](/terms/date-book).
 
-<img src="/assets/images/new-picker-2x.gif" alt="Screenshot of a New Button with Picker" width="127" />
+(image: /assets/images/new-picker-2x.gif alt: Screenshot of a New Button with Picker width: 127)
 
 ----
 

@@ -12,7 +12,7 @@ A simplified version of the [QuickFigure Pro](/terms/quickfigure-pro) applicatio
 
 Also referred to as [QF Works](/terms/qf-works).
 
-<img src="/assets/images/quickfigure-works-2x.gif" alt="Screenshot of QuickFigure Works" width="322" />
+(image: /assets/images/quickfigure-works-2x.gif alt: Screenshot of QuickFigure Works width: 322)
 
 ----
 

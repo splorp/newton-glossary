@@ -10,7 +10,7 @@ Text:
 
 A developer utility for [Newton OS](/terms/newton-os) for inspecting, manipulating, and editing [soup](/terms/soup) data. Ragout was developed by [Jason Harper](http://nixietube.info/) and distributed by [Creative Digital Publishing](/sources/creative-digital-publishing).
 
-<img src="/assets/images/ragout-2x.gif" alt="Screenshot of Ragout" width="242" />
+(image: /assets/images/ragout-2x.gif alt: Screenshot of Ragout width: 242)
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 An [application](/terms/application) created by [Frank Gründel](/sources/frank-grundel) to perform various hardware and software tests on Newton devices. NewtTest can be run on every [MessagePad](/terms/messagepad) or [eMate 300](/terms/emate-300) model ever built and can automatically adjust its suite of tests according to the capabilities of the device being tested.
 
-<img src="/assets/images/newttest-popup-2x.gif" alt="Screenshot of NewtTest" width="240" />
+(image: /assets/images/newttest-popup-2x.gif alt: Screenshot of NewtTest width: 240)
 
 
 ----

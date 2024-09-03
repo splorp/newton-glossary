@@ -10,7 +10,7 @@ Text:
 
 A [view](/terms/view) with a heavy, black [wavy border](/terms/wavy-border) that appears on the [screen](/terms/screen) to notify the user, display a reminder, or report an error.
 
-<img src="/assets/images/alert-box-2x.gif" alt="Screenshot of an Alert Box" width="208" />
+(image: /assets/images/alert-box-2x.gif alt: Screenshot of an Alert Box width: 208)
 
 There are two types of alert boxes.
 

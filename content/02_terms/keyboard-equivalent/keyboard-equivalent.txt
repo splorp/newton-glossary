@@ -12,7 +12,7 @@ A command entered using a physical keyboard that produces the same action as [ta
 
 Holding down the “Command” key on a keyboard connected to a [Newton OS](/terms/newton-os) 2.1 device displays a [slip](/terms/slip) listing all of the keyboard equivalents available for the current application.
 
-<img src="/assets/images/keyboard-equivalent-2x.gif" alt="Screenshot of the Keyboard Equivalent slip" width="218" />
+(image: /assets/images/keyboard-equivalent-2x.gif alt: Screenshot of the Keyboard Equivalent slip width: 218)
 
 ----
 

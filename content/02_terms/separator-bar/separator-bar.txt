@@ -14,7 +14,7 @@ For example, the separator bar in the [Notepad](/terms/application) contains an 
 
 Also referred to as a [Divider Bar](/terms/divider-bar).
 
-<img src="/assets/images/separator-bar-2x.gif" alt="Screenshot of a Separator Bar in the Notepad application" width="316" />
+(image: /assets/images/separator-bar-2x.gif alt: Screenshot of a Separator Bar in the Notepad application width: 316)
 
 ----
 

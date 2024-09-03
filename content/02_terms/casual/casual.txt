@@ -10,7 +10,7 @@ Text:
 
 One of the default bitmap [fonts](/terms/font) on the Newton. Casual is used when the [handwriting recognition](/terms/handwriting-recognition) engine converts printed text into [recognized text](/terms/recognized-text).
 
-<img src="/assets/images/casual-2x.gif" alt="Screenshot showing various sizes of the Casual bitmap font" width="299" />
+(image: /assets/images/casual-2x.gif alt: Screenshot showing various sizes of the Casual bitmap font width: 299)
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 A list of times in minutes that an alert or reminder can be postponed. Activated by [tapping](/terms/tapping) on the [snooze button](/terms/snooze-button) in a [notification alert](/terms/notification-alert).
 
-<img src="/assets/images/alert-box-reminder-with-snooze-picker-2x.gif" alt="Screenshot of a Reminder Alert with Snooze Picker" width="208" />
+(image: /assets/images/alert-box-reminder-with-snooze-picker-2x.gif alt: Screenshot of a Reminder Alert with Snooze Picker width: 208)
 
 ----
 

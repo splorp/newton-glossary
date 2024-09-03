@@ -14,7 +14,7 @@ A text adventure engine developed by [Scrawl Software](/sources/scrawl-software)
 
 The YAZI [application](/terms/application) is a [bytecode](/terms/bytecode) interpreter for games written using the Zork Implementation Language (ZIL) which shares similarities with the [LISP](/terms/lisp) programming language.
 
-<img src="/assets/images/yazi-2x.gif" alt="Screenshot of YAZI" width="242" />
+(image: /assets/images/yazi-2x.gif alt: Screenshot of YAZI width: 242)
 
 ----
 

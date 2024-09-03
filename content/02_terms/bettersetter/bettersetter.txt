@@ -10,7 +10,7 @@ Text:
 
 An [application](/terms/application) developed by [Frank Gründel](/sources/frank-grundel) that provides an alternative [user interface](/terms/user-interface) for setting the time. BetterSetter replaces the analog clock interface found in [Newton OS](/terms/newton-os) 1.x with a more intuitive [number picker](/terms/number-picker).
 
-<img src="/assets/images/bettersetter-2x.gif" alt="Screenshot of the BetterSetter application" width="186" />
+(image: /assets/images/bettersetter-2x.gif alt: Screenshot of the BetterSetter application width: 186)
 
 ----
 

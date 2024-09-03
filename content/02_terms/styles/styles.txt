@@ -10,7 +10,7 @@ Text:
 
 An [application](/terms/application) in the form of a floating [palette](/terms/palette) that is used to modify various attributes of the currently [selected](/terms/select) text. Attributes include the [font](/terms/font) family, [font style](/terms/font-style), and [point](/terms/point) size. Styles is also used to adjust the pen width when drawing [shapes](/terms/shapes) and [sketches](/terms/sketches).
 
-<img src="/assets/images/styles-2x.gif" alt="Screenshot of the Styles Palette" width="240" />
+(image: /assets/images/styles-2x.gif alt: Screenshot of the Styles Palette width: 240)
 
 ----
 

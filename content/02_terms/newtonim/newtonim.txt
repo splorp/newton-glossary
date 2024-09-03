@@ -12,7 +12,7 @@ An instant messaging client for [Newton OS](/terms/newton-os) developed by [Jake
 
 Also referred to as [NIM](/terms/nim).
 
-<img src="/assets/images/newtonim-2x.gif" alt="Screenshot of NewtonIM" width="278" />
+(image: /assets/images/newtonim-2x.gif alt: Screenshot of NewtonIM width: 278)
 
 ----
 

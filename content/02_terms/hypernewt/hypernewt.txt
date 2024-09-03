@@ -10,7 +10,7 @@ Text:
 
 An [application](/terms/application) developed by [Adam Tow](/sources/adam-tow) that extends the built-in [folder](/terms/folder) filing system of [Newton OS](/terms/newton-os). HyperNewt provides flexible data management, hierarchical organization, and hyperlinking of items created by most Newton applications.
 
-<img src="/assets/images/hypernewt-2x.gif" alt="Screenshot of HyperNewt" width="436" />
+(image: /assets/images/hypernewt-2x.gif alt: Screenshot of HyperNewt width: 436)
 
 ----
 

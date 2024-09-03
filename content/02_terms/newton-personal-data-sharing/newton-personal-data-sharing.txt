@@ -12,7 +12,7 @@ A suite of software [packages](/terms/package) that will allow certain Newton de
 
 Also referred to as [NPDS](/terms/npds).
 
-<img src="/assets/images/newton-personal-data-sharing-2x.gif" alt="Screenshot of the Newton Personal Data Sharing application" width="176" />
+(image: /assets/images/newton-personal-data-sharing-2x.gif alt: Screenshot of the Newton Personal Data Sharing application width: 176)
 
 ----
 

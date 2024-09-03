@@ -12,7 +12,7 @@ An area of the [Ink Window](/terms/ink-window) where written input is converted 
 
 Also referred to as [InkPad](/terms/inkpad).
 
-<img src="/assets/images/ink-pad-jaguar-2x.gif" alt="Screenshot of the Ink Pad in Mac OS X Jaguar" width="337" />
+(image: /assets/images/ink-pad-jaguar-2x.gif alt: Screenshot of the Ink Pad in Mac OS X Jaguar width: 337)
 
 ----
 

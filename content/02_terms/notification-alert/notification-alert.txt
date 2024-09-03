@@ -14,7 +14,7 @@ A notification alert includes a [close box](/terms/close-box) and can be accompa
 
 Also referred to as a [Notification Slip](/terms/notification-slip).
 
-<img src="/assets/images/notification-alert-2x.gif" alt="Screenshot of a Notification Alert" width="208" />
+(image: /assets/images/notification-alert-2x.gif alt: Screenshot of a Notification Alert width: 208)
 
 ----
 

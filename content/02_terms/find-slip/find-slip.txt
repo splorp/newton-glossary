@@ -10,7 +10,7 @@ Text:
 
 An input [container view](/terms/container-view) that allows the user to enter a term or phrase to be located within the data stored on a Newton device.
 
-<img src="/assets/images/find-slip-2x.gif" alt="Screenshot of the Find Slip" width="320" />
+(image: /assets/images/find-slip-2x.gif alt: Screenshot of the Find Slip width: 320)
 
 ----
 

@@ -12,7 +12,7 @@ Text:
 
 Tapping a letter in the corrector view pops up a different correction picker, listing alternate letters as well as commands to insert and delete individual characters.
 
-<img src="/assets/images/corrector-view-with-correction-picker-2x.gif" alt="Screenshot of the Corrector View with a Correction Picker" width="237" />
+(image: /assets/images/corrector-view-with-correction-picker-2x.gif alt: Screenshot of the Corrector View with a Correction Picker width: 237)
 
 Also referred to as a [Corrector](/terms/corrector).
 

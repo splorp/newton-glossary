@@ -14,7 +14,7 @@ A confirmation alert has no [close box](/terms/close-box). Instead, it has label
 
 Also referred to as a [Confirmation Slip](/terms/confirmation-slip).
 
-<img src="/assets/images/confirmation-alert-2x.gif" alt="Screenshot of a Confirmation Alert" width="208" />
+(image: /assets/images/confirmation-alert-2x.gif alt: Screenshot of a Confirmation Alert width: 208)
 
 ----
 

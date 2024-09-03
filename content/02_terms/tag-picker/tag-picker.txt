@@ -10,7 +10,7 @@ Text:
 
 A list of various actions available to facilitate editing or tagging of information related to the current item. Activated by [tapping](/terms/tapping) on the [tag button](/terms/tag-button).
 
-<img src="/assets/images/tag-picker-2x.gif" alt="Screenshot of a Tag Button with Picker" width="134" />
+(image: /assets/images/tag-picker-2x.gif alt: Screenshot of a Tag Button with Picker width: 134)
 
 ----
 

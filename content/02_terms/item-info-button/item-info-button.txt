@@ -12,7 +12,7 @@ A [picture button](/terms/picture-button) located on the left side of a [separat
 
 For example, in the [Notepad](/terms/notepad) application, [tapping](/terms/tapping) an item info [button](/terms/button) displays an [item info slip](/terms/item-info-slip), that displays statistics and related information for an item.
 
-<img src="/assets/images/separator-bar-2x.gif" alt="Screenshot of a Separator Bar with an Item Info Button" width="316" />
+(image: /assets/images/separator-bar-2x.gif alt: Screenshot of a Separator Bar with an Item Info Button width: 316)
 
 ----
 

@@ -12,7 +12,7 @@ A [slip](/terms/slip) listing currently available storage locations, such as the
 
 Also referred to as a [Filing Slip](/terms/filing-slip).
 
-<img src="/assets/images/folder-slip-stores-folders-2x.gif" alt="Screenshot of a Folder Slip" width="236" />
+(image: /assets/images/folder-slip-stores-folders-2x.gif alt: Screenshot of a Folder Slip width: 236)
 
 ----
 

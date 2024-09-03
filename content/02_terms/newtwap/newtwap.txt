@@ -10,7 +10,7 @@ Text:
 
 A [WAP](/terms/wap) (Wireless Access Protocol) client for [Newton OS](/terms/newton-os) developed by [Eric Schneck](/sources/eric-schneck).
 
-<img src="/assets/images/newtwap-2x.gif" alt="Screenshot of NewtWap" width="320" />
+(image: /assets/images/newtwap-2x.gif alt: Screenshot of NewtWap width: 320)
 
 ----
 

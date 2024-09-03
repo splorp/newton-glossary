@@ -10,7 +10,7 @@ Text:
 
 An input [container view](/terms/container-view) that is displayed if the [Assist](/terms/assist) function can’t interpret a user’s written request, allowing the user to provide more information. The user can choose an [action](/terms/action) from the slip’s [Please picker](/terms/please-picker) and can write on the slip’s [input line](/terms/input-line).
 
-<img src="/assets/images/assist-slip-2x.gif" alt="Screenshot of the Assist Slip" width="240" />
+(image: /assets/images/assist-slip-2x.gif alt: Screenshot of the Assist Slip width: 240)
 
 If the user wrote something before [tapping](/terms/tapping) the Assist button, such as a [request word](/terms/request-word], but did not provide enough information to clearly specify an action, the Assist slip displays those words and includes a message prompting the user to provide additional information.
 

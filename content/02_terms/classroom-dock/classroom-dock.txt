@@ -10,7 +10,7 @@ Text:
 
 An [application](/terms/application) on the [eMate 300](/terms/emate-300) used for connecting to the [Classroom Exchange](/terms/classroom-exchange) software running on another computer.
 
-<img src="/assets/images/classroom-dock-2x.gif" alt="Screenshot of the Classroom Dock application" width="196" />
+(image: /assets/images/classroom-dock-2x.gif alt: Screenshot of the Classroom Dock application width: 196)
 
 Classroom Dock can be selected as the default [docking](/terms/docking) application by [tapping](/terms/tapping) the [Dock Options](/terms/dock-options) button in the [Teacher Setup](/terms/teacher-setup) slip.
 

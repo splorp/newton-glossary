@@ -12,7 +12,7 @@ An [application](/terms/application) used to control various settings on an [eMa
 
 The settings specified using Teacher Setup can be used to make up a [base classroom state](/terms/base-classroom-state), settings that are common to all eMate devices in a classroom. Once you set a base classroom state on a single eMate, you can transfer those settings to other eMate devices using a [storage card](/terms/storage-card).
 
-<img src="/assets/images/teacher-setup-2x.gif" alt="Screenshot of the Teacher Setup application" width="236" />
+(image: /assets/images/teacher-setup-2x.gif alt: Screenshot of the Teacher Setup application width: 236)
 
 ----
 

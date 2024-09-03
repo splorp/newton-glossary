@@ -10,7 +10,7 @@ Text:
 
 The small [button](/terms/button) found in an [application](/terms/application) that facilitates the editing or tagging of information related to the currently [selected](/terms/select) item. When [tapped](/terms/tapped), the tag button displays a [picker](/terms/picker) listing available tagging options, otherwise known as a [tag picker](/terms/tag-picker). Depending on the type of item selected, the tag button can be used to reply to a fax, change the recipient of an email, or [put away](/terms/put-away) a [package](/terms/package).
 
-<img src="/assets/images/tag-picker-2x.gif" alt="Screenshot of a Tag Button with Picker" width="134" />
+(image: /assets/images/tag-picker-2x.gif alt: Screenshot of a Tag Button with Picker width: 134)
 
 ----
 

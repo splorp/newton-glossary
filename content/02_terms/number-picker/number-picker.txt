@@ -10,7 +10,7 @@ Text:
 
 A [picker](/terms/picker) designed to simplify the process of specifying a numerical value by [tapping](/terms/tapping) the digits of the number itself. Tapping the top half of a digit increases the numerical value and tapping the bottom half of a digit decreases the value.
 
-<img src="/assets/images/number-picker-2x.gif" alt="Screenshot of a Number Picker" width="121" />
+(image: /assets/images/number-picker-2x.gif alt: Screenshot of a Number Picker width: 121)
 
 The number picker was designed to replicate a “mechanical digital” alarm clock with its “flipping digits”.
 

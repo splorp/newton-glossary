@@ -10,9 +10,9 @@ Text:
 
 An [easter egg](/terms/easter-egg) found in [Newton OS](/terms/newton-os) 2.0 which when activated displays an image from a [Doonesbury comic strip](https://web.archive.org/web/20170629100722/http://doonesbury.washingtonpost.com/strip/set/24) lampooning the accuracy of the early Newton [handwriting recognition](/terms/handwriting-recognition).
 
-<img src="/assets/images/egg-freckles-2x.gif" alt="Egg Freckles from Doonesbury — August 27th, 1993" />
+(image: /assets/images/egg-freckles-2x.gif alt: Egg Freckles from Doonesbury — August 27th, 1993 width: 900)
 
-The easter egg was removed from Newton OS 2.1, it can be restored using Avi Drissman’s [Egg Freckles Enabler](http://www.drissman.com/avi/newton/EggFrecklesEnabler/) package.
+The easter egg was removed from Newton OS 2.1, it can be restored using Avi Drissman’s [Egg Freckles Enabler](/terms/egg-freckles-enabler) package.
 
 Egg Freckles is also the name of Newton-themed weblog written by [Thomas Brand](http://eggfreckles.net/).
 
@@ -33,6 +33,7 @@ Related:
 - /terms/easter-egg
 - /terms/eat-up-martha
 - /terms/eff-grackles
+- /terms/egg-freckles-enabler
 - /terms/handwriting-recognition
 - /terms/hot-dog-song
 - /terms/serious-bandwidth
