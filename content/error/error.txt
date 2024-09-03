@@ -12,4 +12,4 @@ Description: Oh, dear. Something went amiss.
 
 Text:
 
-<img src="/assets/images/tapping-this-does-nothing-2x.gif" alt="Tapping this does nothing." width="208" />
+(image: assets/images/tapping-this-does-nothing-2x.gif alt: Tapping this does nothing. width: 208)

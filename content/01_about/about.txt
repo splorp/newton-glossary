@@ -12,19 +12,19 @@ Description: How this whole thing works, plus a little bit of history surroundin
 
 Text:
 
-The original idea behind the creation of the [Newton Glossary](/) was to provide a single, accessible resource for terminology related to the [Apple Newton](https://en.wikipedia.org/wiki/Apple_Newton) platform.
+The original idea behind the creation of the (link: / text: Newton Glossary) was to provide a single, accessible resource for terminology related to the [Apple Newton](https://en.wikipedia.org/wiki/Apple_Newton) platform.
 
-A significant number of the terms found in the glossary were initially compiled between 2001 and 2004 by [Grant Hutchinson](https://splorp.com/). Numerous [sources](/sources) were used, along with help from knowledgable folks such as [Paul Guyot](https://www.kallisys.com/), [Victor Rehorst](https://www.chuma.org/), and countless members of the [NewtonTalk](https://newtontalk.net/) community.
+A significant number of the terms found in the glossary were initially compiled between 2001 and 2004 by [Grant Hutchinson](https://splorp.com/). Numerous (link: /sources text: sources) were used, along with help from knowledgable folks such as [Paul Guyot](https://www.kallisys.com/), [Victor Rehorst](https://www.chuma.org/), and countless members of the [NewtonTalk](https://newtontalk.net/) community.
 
 Although it’s quite out of date, [Morgan Aldridge](http://www.makkintosshu.com/) has maintained a [searchable version](http://tools.unna.org/glossary/) of the glossary as part of the [United Network of Newton Archives](http://www.unna.org/).
 
-At one point there was also a [Newton Book](/terms/newton-book) version of the glossary. We’ll see if we can make that happen again.
+At one point there was also a (link: /terms/newton-book text: Newton Book) version of the glossary. We’ll see if we can make that happen again.
 
 ### Join The Fun!
 
 As with any specialized compendium, the contents are never completely finished. All suggestions, corrections, complaints, and [pull requests](https://github.com/splorp/newton-glossary/pulls) will be happily accepted. If possible, please use the project’s [issue tracker](https://github.com/splorp/newton-glossary/issues) for any input you might have.
 
-Before submitting new terms or suggestion corrections to existing entries, please take a moment to familiarize yourself with the official [style guide](/style) (which itself is a work in progress).
+Before submitting new terms or suggestion corrections to existing entries, please take a moment to familiarize yourself with the official (link: /style text: style guide) (which itself is a work in progress).
 
 ### We &hearts; Words
 
