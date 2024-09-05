@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [System](/terms/system)
+See: (link: /terms/system text: System)

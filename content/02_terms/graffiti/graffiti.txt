@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A software-based input system that converts predefined [pen](/terms/pen) strokes and [gestures](/terms/gesture) into digital text. Graffiti was originally developed by [Palm Computing](https://en.wikipedia.org/wiki/Palm,_Inc.) as the recognition system for GEOS and Magic Cap devices, later adapted to the Palm and [Newton OS](/terms/newton-os) platforms.
+A software-based input system that converts predefined (link: /terms/pen text: pen) strokes and (link: /terms/gesture text: gestures) into digital text. Graffiti was originally developed by [Palm Computing](https://en.wikipedia.org/wiki/Palm,_Inc.) as the recognition system for GEOS and Magic Cap devices, later adapted to the Palm and (link: /terms/newton-os text: Newton OS) platforms.
 
 ----
 

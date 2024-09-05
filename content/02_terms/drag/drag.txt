@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-To place the [pen](/terms/pen) on a movable object — such as a [slider](/terms/slider) control or [container view](/terms/container-view) — then slide the pen to move the object and finally lift the pen to stop moving the object.
+To place the (link: /terms/pen text: pen) on a movable object — such as a (link: /terms/slider text: slider) control or (link: /terms/container-view text: container view) — then slide the pen to move the object and finally lift the pen to stop moving the object.
 
 ----
 

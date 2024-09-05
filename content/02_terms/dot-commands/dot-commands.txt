@@ -8,7 +8,7 @@ Date: 18 December 2001
 
 Text:
 
-See: [Book Maker Commands](/terms/book-maker-commands)
+See: (link: /terms/book-maker-commands text: Book Maker Commands)
 
 ----
 

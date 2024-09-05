@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Newton Technology Journal](/terms/newton-technology-journal)
+See: (link: /terms/newton-technology-journal text: Newton Technology Journal)

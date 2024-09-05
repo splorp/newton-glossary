@@ -10,7 +10,7 @@ Text:
 
 Application Programming Interface
 
-A language and message format used by an [application](/terms/application) to communicate with the [operating system](/terms/operating-system) or another program.
+A language and message format used by an (link: /terms/application text: application) to communicate with the (link: /terms/operating-system text: operating system) or another program.
 
 ----
 

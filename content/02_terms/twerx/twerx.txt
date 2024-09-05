@@ -8,9 +8,9 @@ Date: 24 August 2016
 
 Text:
 
-A utility by [Innovative Computer Solutions](/sources/innovative-computer-solutions) which allows the user to import documents from [Notepad](/terms/notepad) and other [applications](/terms/application) into [Newton Works](/terms/newton-works) using the [action picker](/terms/action-picker).
+A utility by (link: /sources/innovative-computer-solutions text: Innovative Computer Solutions) which allows the user to import documents from (link: /terms/notepad text: Notepad) and other (link: /terms/application text: applications) into (link: /terms/newton-works text: Newton Works) using the (link: /terms/action-picker text: action picker).
 
-Also referred to as [Twerks](/terms/twerks) on the [NewtonTalk](/terms/newtontalk) mailing list.
+Also referred to as (link: /terms/twerks text: Twerks) on the (link: /terms/newtontalk text: NewtonTalk) mailing list.
 
 ----
 

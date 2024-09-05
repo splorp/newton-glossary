@@ -8,7 +8,7 @@ Date: 07 November 2017
 
 Text:
 
-A [handwriting recognition](/terms/handwriting-recognition) option that uses [letter-by-letter](/terms/letter-by-letter) recognition instead of the [dictionary](/terms/dictionary) to interpret a word when [Cursive](/terms/cursive) is selected as the writing style. The “Try Letters” [button](/terms/button) appears in the [correction picker](/terms/correction-picker) when the user [double taps](/terms/double-tap) a word.
+A (link: /terms/handwriting-recognition text: handwriting recognition) option that uses (link: /terms/letter-by-letter text: letter-by-letter) recognition instead of the (link: /terms/dictionary text: dictionary) to interpret a word when (link: /terms/cursive text: Cursive) is selected as the writing style. The “Try Letters” (link: /terms/button text: button) appears in the (link: /terms/correction-picker text: correction picker) when the user (link: /terms/double-tap text: double taps) a word.
 
 (image: /assets/images/correction-picker-2x.gif alt: Screenshot of the Correction Picker with the “Try Letters” button width: 79)
 

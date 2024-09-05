@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A portable computer system that fits comfortably within the confines of a user’s lap, as opposed to a [desktop](/terms/laptop-computer) or [tablet computer](/terms/tablet-computer). In terms of a [Newton OS](/terms/newton-os) environment, the laptop computer would likely be running either the Mac OS or Windows [operating system](/terms/operating-system).
+A portable computer system that fits comfortably within the confines of a user’s lap, as opposed to a (link: /terms/laptop-computer text: desktop) or (link: /terms/tablet-computer text: tablet computer). In terms of a (link: /terms/newton-os text: Newton OS) environment, the laptop computer would likely be running either the Mac OS or Windows (link: /terms/operating-system text: operating system).
 
 ----
 

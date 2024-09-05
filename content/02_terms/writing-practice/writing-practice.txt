@@ -8,7 +8,7 @@ Date: 29 August 2018
 
 Text:
 
-The built-in [application](/terms/application) which provides an interactive means to practice and adapt your writing style in order to improve [handwriting recognition](/terms/handwriting-recognition).
+The built-in (link: /terms/application text: application) which provides an interactive means to practice and adapt your writing style in order to improve (link: /terms/handwriting-recognition text: handwriting recognition).
 
 ----
 

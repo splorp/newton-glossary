@@ -8,4 +8,4 @@ Date: 18 January 2024
 
 Text:
 
-See: [Apple Notification Service](/terms/apple-notification-service)
+See: (link: /terms/apple-notification-service text: Apple Notification Service)

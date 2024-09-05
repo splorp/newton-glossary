@@ -8,7 +8,7 @@ Date: 21 January 2018
 
 Text:
 
-See: [Folder Slip](/terms/folder-slip)
+See: (link: /terms/folder-slip text: Folder Slip)
 
 ----
 

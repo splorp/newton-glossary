@@ -8,7 +8,7 @@ Date: 25 September 2001
 
 Text:
 
-A virtual [soup](/terms/soup) maintained by the [operating system](/terms/operating-system) that exists on multiple [stores](/terms/store), each containing a [member soup](/terms/member-soup). A union soup contains all [entries](/terms/entry) of a specifically named soup, no matter where those entries are stored. New entries to the union soup are added to the member soup residing on the [default store](/terms/default-store).
+A virtual (link: /terms/soup text: soup) maintained by the (link: /terms/operating-system text: operating system) that exists on multiple (link: /terms/store text: stores), each containing a (link: /terms/member-soup text: member soup). A union soup contains all (link: /terms/entry text: entries) of a specifically named soup, no matter where those entries are stored. New entries to the union soup are added to the member soup residing on the (link: /terms/default-store text: default store).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 09 November 2017
 
 Text:
 
-A daily [checklist](/terms/checklist) in the [Date Book](/terms/date-book) application which allows the user to create and prioritize tasks. Tasks are marked as completed by [tapping](/terms/tapping) a [checkbox](/terms/checkbox). Uncompleted tasks are carried over to the next day.
+A daily (link: /terms/checklist text: checklist) in the (link: /terms/date-book text: Date Book) application which allows the user to create and prioritize tasks. Tasks are marked as completed by (link: /terms/tapping text: tapping) a (link: /terms/checkbox text: checkbox). Uncompleted tasks are carried over to the next day.
 
 ----
 

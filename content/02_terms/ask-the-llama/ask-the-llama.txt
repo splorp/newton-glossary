@@ -8,7 +8,7 @@ Date: 24 January 2017
 
 Text:
 
-A technical question and answer column written by [Maurice Sharp](/sources/maurice-sharp), otherwise known as [Dr Llama](/terms/dr-llama), for Apple’s developer publications.
+A technical question and answer column written by (link: /sources/maurice-sharp text: Maurice Sharp), otherwise known as (link: /terms/dr-llama text: Dr Llama), for Apple’s developer publications.
 
 ----
 

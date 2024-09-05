@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Newton Press](/terms/newton-press)
+See: (link: /terms/newton-press text: Newton Press)

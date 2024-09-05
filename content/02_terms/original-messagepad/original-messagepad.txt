@@ -8,11 +8,11 @@ Date: 24 August 2016
 
 Text:
 
-The first commercially released Newton model. Not to be confused with the [MessagePad 100](/terms/messagepad-100) which shares the same model number ([H1000](/terms/h1000)) and form factor. The prerelease version of the device was originally called the [Notepad](/terms/notepad). The name was changed to [MessagePad](/terms/messagepad) to better reflect its communication capabilities.
+The first commercially released Newton model. Not to be confused with the (link: /terms/messagepad-100 text: MessagePad 100) which shares the same model number ((link: /terms/h1000 text: H1000)) and form factor. The prerelease version of the device was originally called the (link: /terms/notepad text: Notepad). The name was changed to (link: /terms/messagepad text: MessagePad) to better reflect its communication capabilities.
 
-The Original MessagePad is commonly referred to as [OMP](/terms/omp).
+The Original MessagePad is commonly referred to as (link: /terms/omp text: OMP).
 
-The term “Original MessagePad” can also refer to any non-upgraded MessagePad, such as a [MessagePad 2000](/terms/messagepad-2000) without the optional memory expansion.
+The term “Original MessagePad” can also refer to any non-upgraded MessagePad, such as a (link: /terms/messagepad-2000 text: MessagePad 2000) without the optional memory expansion.
 
 ----
 

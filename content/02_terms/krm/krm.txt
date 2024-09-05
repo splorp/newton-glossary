@@ -10,7 +10,7 @@ Text:
 
 Kleines Rundes Metallstück
 
-See: [RMP](/terms/RMP)
+See: (link: /terms/RMP text: RMP)
 
 ----
 

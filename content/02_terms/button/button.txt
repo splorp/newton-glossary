@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A small [graphical user interface](/terms/graphical-user-interface) object that performs an action when [tapped](/terms/tapped). Also, a physical button that performs a hardware action on the device. For example, pressing the the [reset button](/terms/reset-button) on a Newton device performs a [soft reset](/terms/soft-reset).
+A small (link: /terms/graphical-user-interface text: graphical user interface) object that performs an action when (link: /terms/tapped text: tapped). Also, a physical button that performs a hardware action on the device. For example, pressing the the (link: /terms/reset-button text: reset button) on a Newton device performs a (link: /terms/soft-reset text: soft reset).
 
 ----
 

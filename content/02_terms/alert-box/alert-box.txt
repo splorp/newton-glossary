@@ -8,15 +8,15 @@ Date: 24 May 2001
 
 Text:
 
-A [view](/terms/view) with a heavy, black [wavy border](/terms/wavy-border) that appears on the [screen](/terms/screen) to notify the user, display a reminder, or report an error.
+A (link: /terms/view text: view) with a heavy, black (link: /terms/wavy-border text: wavy border) that appears on the (link: /terms/screen text: screen) to notify the user, display a reminder, or report an error.
 
 (image: /assets/images/alert-box-2x.gif alt: Screenshot of an Alert Box width: 208)
 
 There are two types of alert boxes.
 
-A [notification alert](/terms/notification-alert) conveys information that is useful to the user but does not present any “far-reaching” consequences such as a loss of data. Some notification alerts have a [snooze button](/terms/snooze-button), which enables a user to temporarily dismiss the alert.
+A (link: /terms/notification-alert text: notification alert) conveys information that is useful to the user but does not present any “far-reaching” consequences such as a loss of data. Some notification alerts have a (link: /terms/snooze-button text: snooze button), which enables a user to temporarily dismiss the alert.
 
-A [confirmation alert](/terms/confirmation-alert) requires the user confirm or cancel an action that can have “far-reaching” consequences. For example, a confirmation alert appears before erasing the data on a [storage card](/terms/storage-card).
+A (link: /terms/confirmation-alert text: confirmation alert) requires the user confirm or cancel an action that can have “far-reaching” consequences. For example, a confirmation alert appears before erasing the data on a (link: /terms/storage-card text: storage card).
 
 ----
 

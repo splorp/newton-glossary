@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-See: [Store Part](/terms/store-part)
+See: (link: /terms/store-part text: Store Part)
 
 ----
 

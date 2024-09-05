@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A special type of [immediate](/terms/immediate) value. In [NewtonScript](/terms/newtonscript), there is only one boolean, called `true`. [Functions](/terms/function) and control structures use [nil](/terms/nil) to represent `false`. When testing for a value, `nil` represents `false`, and any other value is equivalent to `true`.
+A special type of (link: /terms/immediate text: immediate) value. In (link: /terms/newtonscript text: NewtonScript), there is only one boolean, called `true`. (link: /terms/function text: Functions) and control structures use (link: /terms/nil text: nil) to represent `false`. When testing for a value, `nil` represents `false`, and any other value is equivalent to `true`.
 
 ----
 

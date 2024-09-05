@@ -8,7 +8,7 @@ Date: 08 February 2020
 
 Text:
 
-A [folder](/terms/folder) in the [Notepad](/terms/notepad) application containing items which have not been filed in another folder.
+A (link: /terms/folder text: folder) in the (link: /terms/notepad text: Notepad) application containing items which have not been filed in another folder.
 
 ----
 

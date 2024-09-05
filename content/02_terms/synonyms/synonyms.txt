@@ -8,7 +8,7 @@ Date: 10 December 2023
 
 Text:
 
-Alternate [request words](/terms/request-word) that trigger an [action](/terms/action) when processed by the [Assist](/terms/assist) function.
+Alternate (link: /terms/request-word text: request words) that trigger an (link: /terms/action text: action) when processed by the (link: /terms/assist text: Assist) function.
 
 For example, the request word “call” has several synonyms, including “ring”, “dial”, and “phone”.
 

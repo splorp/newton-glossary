@@ -8,11 +8,11 @@ Date: 15 August 2024
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a [container view](/terms/container-view) that presents several discrete subviews arranged vertically, one above the other. The [roll](/terms/roll) can be viewed in [overview](/terms/overview) mode, where each subview is represented by a single-line description. Any single subview or all subviews can be expanded to full size.
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/container-view text: container view) that presents several discrete subviews arranged vertically, one above the other. The (link: /terms/roll text: roll) can be viewed in (link: /terms/overview text: overview) mode, where each subview is represented by a single-line description. Any single subview or all subviews can be expanded to full size.
 
-The built-in [Notepad](/terms/notepad) application uses a roll view, allowing users to [scroll](/terms/scroll) through multiple items.
+The built-in (link: /terms/notepad text: Notepad) application uses a roll view, allowing users to (link: /terms/scroll text: scroll) through multiple items.
 
-Also referred to as a [Paper Roll](/terms/paper-roll) and [Roll](/terms/roll).
+Also referred to as a (link: /terms/paper-roll text: Paper Roll) and (link: /terms/roll text: Roll).
 
 ----
 

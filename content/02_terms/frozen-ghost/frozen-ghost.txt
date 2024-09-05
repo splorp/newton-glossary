@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-An alternate name for the clear case [Frozen Newton](/terms/frozen-newton) project, which involved the creation of a clear case [MessagePad 2100](/terms/messagepad-2100).
+An alternate name for the clear case (link: /terms/frozen-newton text: Frozen Newton) project, which involved the creation of a clear case (link: /terms/messagepad-2100 text: MessagePad 2100).
 
 Definitely not a reference to the [Canadian rock band](https://en.wikipedia.org/wiki/Frozen_Ghost) from the 1980s.
 

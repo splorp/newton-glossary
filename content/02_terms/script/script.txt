@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A program written in a programming language (such as [NewtonScript](/terms/newtonscript)) that generally uses untyped [variables](/terms/variable) — that is, variables that can hold values of any data type — and seldom supports complex data structures.
+A program written in a programming language (such as (link: /terms/newtonscript text: NewtonScript)) that generally uses untyped (link: /terms/variable text: variables) — that is, variables that can hold values of any data type — and seldom supports complex data structures.
 
 ----
 

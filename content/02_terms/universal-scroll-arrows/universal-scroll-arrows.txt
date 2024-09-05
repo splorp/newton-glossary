@@ -8,7 +8,7 @@ Date: 30 October 2001
 
 Text:
 
-A pair of icon-based [buttons](/terms/button) used to [scroll](/terms/scroll) an area of content displayed on the [screen](/terms/screen). Universal scroll arrows are located above and below the [overview button](/terms/overview-button) in the standard [button bar](/terms/button-bar) found on all Newton devices.
+A pair of icon-based (link: /terms/button text: buttons) used to (link: /terms/scroll text: scroll) an area of content displayed on the (link: /terms/screen text: screen). Universal scroll arrows are located above and below the (link: /terms/overview-button text: overview button) in the standard (link: /terms/button-bar text: button bar) found on all Newton devices.
 
 ----
 

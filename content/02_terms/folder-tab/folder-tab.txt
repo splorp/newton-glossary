@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [control](/terms/control) that allows the user to [select](/terms/select) which folder’s contents are currently displayed in a [container view](container-view), such as the [Extras Drawer](/terms/extras-drawer). The folder tab is found at the top of the container view and displays the name of the currently selected [folder](/terms/folder).
+A (link: /terms/control text: control) that allows the user to (link: /terms/select text: select) which folder’s contents are currently displayed in a [container view](container-view), such as the (link: /terms/extras-drawer text: Extras Drawer). The folder tab is found at the top of the container view and displays the name of the currently selected (link: /terms/folder text: folder).
 
 ----
 

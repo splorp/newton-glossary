@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A family of standards developed by the [IEEE](/terms/ieee) for wireless networking.
+A family of standards developed by the (link: /terms/ieee text: IEEE) for wireless networking.
 
 ----
 

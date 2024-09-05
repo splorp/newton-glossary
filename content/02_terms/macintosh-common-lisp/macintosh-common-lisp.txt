@@ -8,9 +8,9 @@ Date: 29 June 2017
 
 Text:
 
-An implementation of the [Lisp](/terms/lisp) programming language for Mac OS computers, it was also a development environment that provided tight integration with the Mac OS toolbox.
+An implementation of the (link: /terms/lisp text: Lisp) programming language for Mac OS computers, it was also a development environment that provided tight integration with the Mac OS toolbox.
 
-Also referred to as [MCL](/terms/mcl).
+Also referred to as (link: /terms/mcl text: MCL).
 
 ----
 

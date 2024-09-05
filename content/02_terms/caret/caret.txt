@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A [cursor](/terms/cursor) symbol (^) that indicates where the Newton will insert text written, printed, or typed by the user. When [tapped](/terms/tapped), a [caret picker](/terms/caret-picker) is displayed allowing the user to insert punctuation marks, spaces, paragraph breaks, or other special characters. The caret is only used in [Newton OS](/terms/newton-os) 2.0 and later. Earlier versions of Newton OS use a [blinking line](/terms/blinking-line) cursor to indicate where new text will be inserted.
+A (link: /terms/cursor text: cursor) symbol (^) that indicates where the Newton will insert text written, printed, or typed by the user. When (link: /terms/tapped text: tapped), a (link: /terms/caret-picker text: caret picker) is displayed allowing the user to insert punctuation marks, spaces, paragraph breaks, or other special characters. The caret is only used in (link: /terms/newton-os text: Newton OS) 2.0 and later. Earlier versions of Newton OS use a (link: /terms/blinking-line text: blinking line) cursor to indicate where new text will be inserted.
 
-A caret shaped [gesture](/terms/gesture) can be used to indicate where a new [insertion point](/terms/insertion-point) should be placed when editing text.
+A caret shaped (link: /terms/gesture text: gesture) can be used to indicate where a new (link: /terms/insertion-point text: insertion point) should be placed when editing text.
 
 ----
 

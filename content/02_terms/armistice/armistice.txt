@@ -8,9 +8,9 @@ Date: 06 October 2002
 
 Text:
 
-A later version of the NuBus-based card that facilitated the running of a Newton development environment on a Mac OS [desktop computer](/terms/desktop-computer). Whereas the previous [ARMageddon](/terms/armageddon) card connected to an external circuit board that replicated the physical Newton hardware, the ARMistice card was a self-contained “Newton on a board.”
+A later version of the NuBus-based card that facilitated the running of a Newton development environment on a Mac OS (link: /terms/desktop-computer text: desktop computer). Whereas the previous (link: /terms/armageddon text: ARMageddon) card connected to an external circuit board that replicated the physical Newton hardware, the ARMistice card was a self-contained “Newton on a board.”
 
-Produced in 1993, the ARMistice card preceded the [ARMadillo](/terms/armadillo) card. The cards were so named because of the [ARM](/terms/arm) processor used in the Newton hardware.
+Produced in 1993, the ARMistice card preceded the (link: /terms/armadillo text: ARMadillo) card. The cards were so named because of the (link: /terms/arm text: ARM) processor used in the Newton hardware.
 
 ----
 

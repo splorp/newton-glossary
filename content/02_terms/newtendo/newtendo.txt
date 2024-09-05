@@ -8,7 +8,7 @@ Date: 05 November 2017
 
 Text:
 
-An emulator [application](/terms/application) developed by [Eagan Rackley](/sources/eagan-rackley) that allows [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) (NES) games to be played on a Newton device. To do this, an NES [ROM](/terms/rom) image is converted into a [package](/terms/package) using the [NES Packager](/terms/nes-packager) utility.
+An emulator (link: /terms/application text: application) developed by (link: /sources/eagan-rackley text: Eagan Rackley) that allows [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) (NES) games to be played on a Newton device. To do this, an NES (link: /terms/rom text: ROM) image is converted into a (link: /terms/package text: package) using the (link: /terms/nes-packager text: NES Packager) utility.
 
 ----
 

@@ -10,9 +10,9 @@ Text:
 
 Point-to-Point Protocol
 
-A communication [protocol](/terms/protocol) used for both synchronous and asynchronous serial connections between physical networks. It can be configured to encapsulate different networking protocols such [IP](/terms/ip) or [AppleTalk](/terms/appletalk).
+A communication (link: /terms/protocol text: protocol) used for both synchronous and asynchronous serial connections between physical networks. It can be configured to encapsulate different networking protocols such (link: /terms/ip text: IP) or (link: /terms/appletalk text: AppleTalk).
 
-PPP superseded [SLIP](/terms/slip-protocol).
+PPP superseded (link: /terms/slip-protocol text: SLIP).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 06 October 2002
 
 Text:
 
-See: [Long Term Storage](/terms/long-term-storage)
+See: (link: /terms/long-term-storage text: Long Term Storage)
 
 ----
 

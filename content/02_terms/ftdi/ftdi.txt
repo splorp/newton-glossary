@@ -12,7 +12,7 @@ Future Technology Devices International
 
 A Glasgow-based semiconductor company whose objective is to create “bridge technologies”, specifically USB to serial adapters, cables, and other chip-based connectivity solutions.
 
-Also referred to as [FTDI Chip](/terms/ftdi-chip).
+Also referred to as (link: /terms/ftdi-chip text: FTDI Chip).
 
 ----
 

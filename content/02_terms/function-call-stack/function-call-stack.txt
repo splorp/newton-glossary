@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A virtual [stack](/terms/stack) that contains an [activation record](/terms/stack-activation-record) for each active [function](/terms/function).
+A virtual (link: /terms/stack text: stack) that contains an (link: /terms/stack-activation-record text: activation record) for each active (link: /terms/function text: function).
 
 ----
 

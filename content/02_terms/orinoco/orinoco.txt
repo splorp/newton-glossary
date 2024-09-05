@@ -8,4 +8,4 @@ Date: 24 August 2016
 
 Text:
 
-See: [WaveLan](/terms/wavelan)
+See: (link: /terms/wavelan text: WaveLan)

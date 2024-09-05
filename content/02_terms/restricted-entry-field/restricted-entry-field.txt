@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [field](/terms/field) of a [view](/terms/view) that only accepts user [input](/terms/input) values as specified in the view’s [template](/terms/template) slot. For example, a field for entering a telephone number would likely restrict acceptable user input to numerals.
+A (link: /terms/field text: field) of a (link: /terms/view text: view) that only accepts user (link: /terms/input text: input) values as specified in the view’s (link: /terms/template text: template) slot. For example, a field for entering a telephone number would likely restrict acceptable user input to numerals.
 
 ----
 

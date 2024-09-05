@@ -8,7 +8,7 @@ Date: 30 October 2001
 
 Text:
 
-The code name of [Dylan](/terms/dylan), the dynamic programming language developed at [Apple](https://www.apple.com/) and used to develop portions of the original [Newton OS](/terms/newton-os) and its [user interface](/terms/user-interface).
+The code name of (link: /terms/dylan text: Dylan), the dynamic programming language developed at [Apple](https://www.apple.com/) and used to develop portions of the original (link: /terms/newton-os text: Newton OS) and its (link: /terms/user-interface text: user interface).
 
 ----
 

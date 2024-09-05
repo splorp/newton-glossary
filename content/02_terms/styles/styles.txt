@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An [application](/terms/application) in the form of a floating [palette](/terms/palette) that is used to modify various attributes of the currently [selected](/terms/select) text. Attributes include the [font](/terms/font) family, [font style](/terms/font-style), and [point](/terms/point) size. Styles is also used to adjust the pen width when drawing [shapes](/terms/shapes) and [sketches](/terms/sketches).
+An (link: /terms/application text: application) in the form of a floating (link: /terms/palette text: palette) that is used to modify various attributes of the currently (link: /terms/select text: selected) text. Attributes include the (link: /terms/font text: font) family, (link: /terms/font-style text: font style), and (link: /terms/point text: point) size. Styles is also used to adjust the pen width when drawing (link: /terms/shapes text: shapes) and (link: /terms/sketches text: sketches).
 
 (image: /assets/images/styles-2x.gif alt: Screenshot of the Styles Palette width: 240)
 

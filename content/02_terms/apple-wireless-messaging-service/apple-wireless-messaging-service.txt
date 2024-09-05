@@ -8,9 +8,9 @@ Date:
 
 Text:
 
-A defunct subscription-based electronic messaging service that allowed a Newton device equipped with a [Newton Messaging Card](/terms/newton-messaging-card) to send and receive text messages, as well as send and receive voice messages via telephone. A seven-digit personal identification number or [PIN](/terms/pin) was used to identify a user on the service. A separate four digit [PassCode](/terms/passcode) was used to securely access text messages, voicemail messages, and change various account settings.
+A defunct subscription-based electronic messaging service that allowed a Newton device equipped with a (link: /terms/newton-messaging-card text: Newton Messaging Card) to send and receive text messages, as well as send and receive voice messages via telephone. A seven-digit personal identification number or (link: /terms/pin text: PIN) was used to identify a user on the service. A separate four digit (link: /terms/passcode text: PassCode) was used to securely access text messages, voicemail messages, and change various account settings.
 
-Also referred to as [AWMS](/terms/awms) and [WMS](/terms/wms).
+Also referred to as (link: /terms/awms text: AWMS) and (link: /terms/wms text: WMS).
 
 ----
 

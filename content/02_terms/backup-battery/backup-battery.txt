@@ -8,7 +8,7 @@ Date: 03 April 2017
 
 Text:
 
-A small [battery](/terms/battery) that supplies power to a Newton device when the main batteries are removed. Without a backup battery, early Newton devices such as the [MessagePad 100](/terms/messagepad-100) will lose any information stored in [RAM](/terms/ram).
+A small (link: /terms/battery text: battery) that supplies power to a Newton device when the main batteries are removed. Without a backup battery, early Newton devices such as the (link: /terms/messagepad-100 text: MessagePad 100) will lose any information stored in (link: /terms/ram text: RAM).
 
 ----
 

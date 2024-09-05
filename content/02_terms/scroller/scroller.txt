@@ -8,9 +8,9 @@ Date: 03 December 2017
 
 Text:
 
-A set of icon-based [buttons](/terms/button) that allow the user to [scroll](/terms/scroll) horizontally or vertically through an area of content that is larger than the current [view](/terms/view). Several different scroller configurations are used in [Newton OS](/terms/newton-os), generally consisting of up/down and left/right arrows.
+A set of icon-based (link: /terms/button text: buttons) that allow the user to (link: /terms/scroll text: scroll) horizontally or vertically through an area of content that is larger than the current (link: /terms/view text: view). Several different scroller configurations are used in (link: /terms/newton-os text: Newton OS), generally consisting of up/down and left/right arrows.
 
-The function of a scroller is not connected to the function of the [scroll arrows](/terms/scroll-arrows) located on the [button bar](/terms/button-bar).
+The function of a scroller is not connected to the function of the (link: /terms/scroll-arrows text: scroll arrows) located on the (link: /terms/button-bar text: button bar).
 
 ----
 

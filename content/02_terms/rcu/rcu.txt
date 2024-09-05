@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-See: [Revelar Connection Utility](/terms/revelar-connection-utility)
+See: (link: /terms/revelar-connection-utility text: Revelar Connection Utility)
 
 ----
 

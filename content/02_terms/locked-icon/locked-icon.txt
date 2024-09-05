@@ -8,11 +8,11 @@ Date: 29 July 2024
 
 Text:
 
-An image of a closed lock used to indicate that data contained on a [store](/terms/store) or in a [soup](/terms/soup) entry is located on a write-protected [storage card](/terms/storage-card), [application card](/terms/application-card), or is being displayed in a read-only [view](/terms/view).
+An image of a closed lock used to indicate that data contained on a (link: /terms/store text: store) or in a (link: /terms/soup text: soup) entry is located on a write-protected (link: /terms/storage-card text: storage card), (link: /terms/application-card text: application card), or is being displayed in a read-only (link: /terms/view text: view).
 
-For example, a [card slip](/terms/card-slip) will display a locked icon if the [write-protection switch](/terms/write-protection-switch) on a storage card is in the locked position.
+For example, a (link: /terms/card-slip text: card slip) will display a locked icon if the (link: /terms/write-protection-switch text: write-protection switch) on a storage card is in the locked position.
 
-Also referred to as a [Locked Switch Icon](/terms/locked-switch-icon).
+Also referred to as a (link: /terms/locked-switch-icon text: Locked Switch Icon).
 
 ----
 

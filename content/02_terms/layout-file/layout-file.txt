@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A file that contains [templates](/terms/template) for the [views](/terms/view) that are compiled by [Newton Toolkit](/terms/newton-toolkit).
+A file that contains (link: /terms/template text: templates) for the (link: /terms/view text: views) that are compiled by (link: /terms/newton-toolkit text: Newton Toolkit).
 
 ----
 

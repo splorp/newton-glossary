@@ -8,7 +8,7 @@ Date: 04 August 2024
 
 Text:
 
-See: [Lid Clip](/terms/lid-clip)
+See: (link: /terms/lid-clip text: Lid Clip)
 
 ----
 

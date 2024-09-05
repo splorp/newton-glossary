@@ -8,4 +8,4 @@ Date: 24 August 2016
 
 Text:
 
-See: [Apple Wireless Messaging Service](/terms/apple-wireless-messaging-service)
+See: (link: /terms/apple-wireless-messaging-service text: Apple Wireless Messaging Service)

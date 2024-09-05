@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a [symbol](/terms/symbol) that describes the transformations that must occur when data is exchanged with other environments. When you send data or set [endpoint options](/terms/endpoint-option), the data form defines how to convert the data from its NewtonScript format. When you receive data or get endpoint options, the data form defines the type of data expected.
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/symbol text: symbol) that describes the transformations that must occur when data is exchanged with other environments. When you send data or set (link: /terms/endpoint-option text: endpoint options), the data form defines how to convert the data from its NewtonScript format. When you receive data or get endpoint options, the data form defines the type of data expected.
 
 ----
 

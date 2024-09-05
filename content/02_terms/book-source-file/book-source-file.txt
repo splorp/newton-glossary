@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A word processor file containing content items tagged with [Newton Book Maker](/terms/newton-book-maker) commands.
+A word processor file containing content items tagged with (link: /terms/newton-book-maker text: Newton Book Maker) commands.
 
 ----
 

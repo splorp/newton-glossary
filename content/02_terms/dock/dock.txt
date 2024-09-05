@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-To connect a Newton device to another computer over a physical, wireless, or [infrared](/terms/infrared) connection in order to transfer data between the two devices.
+To connect a Newton device to another computer over a physical, wireless, or (link: /terms/infrared text: infrared) connection in order to transfer data between the two devices.
 
-Dock is also the name of an [application](/terms/application) in [Newton OS](/terms/newton-os) 2.0 and later specifically used to connect to another computer.
+Dock is also the name of an (link: /terms/application text: application) in (link: /terms/newton-os text: Newton OS) 2.0 and later specifically used to connect to another computer.
 
 (image: /assets/images/dock-2x.gif alt: Screenshot of the Dock application width: 196)
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A file containing text-based data that is compiled by [Newton Toolkit](/terms/newton-toolkit) during a [project build](/terms/project-build). Usually identified by the [.txt](/terms/txt) filename extension.
+A file containing text-based data that is compiled by (link: /terms/newton-toolkit text: Newton Toolkit) during a (link: /terms/project-build text: project build). Usually identified by the [.txt](/terms/txt) filename extension.
 
 ----
 

@@ -8,9 +8,9 @@ Date: 12 June 2001
 
 Text:
 
-One of the code names for the [MessagePad 130](/terms/messagepad-130) device, also known as [Quark](/terms/quark).
+One of the code names for the (link: /terms/messagepad-130 text: MessagePad 130) device, also known as (link: /terms/quark text: Quark).
 
-Dante also refers to version 2.0 of [Newton OS](/terms/newton-os), as well as the connection [protocol](/terms/protocol) used to communicate between a Newton device and another computer.
+Dante also refers to version 2.0 of (link: /terms/newton-os text: Newton OS), as well as the connection (link: /terms/protocol text: protocol) used to communicate between a Newton device and another computer.
 
 ----
 

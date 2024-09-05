@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), one of the constituent [soups](/terms/soup) which comprise a [union soup](/terms/union-soup). Each member soup resides on a different [store](/terms/store).
+In (link: /terms/newtonscript text: NewtonScript), one of the constituent (link: /terms/soup text: soups) which comprise a (link: /terms/union-soup text: union soup). Each member soup resides on a different (link: /terms/store text: store).
 
 ----
 

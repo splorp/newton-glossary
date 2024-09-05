@@ -8,7 +8,7 @@ Date: 25 June 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a [constant](/terms/constant) that represents a special type of [reference](/terms/reference) to an [object](/terms/object) in the Newton [ROM](/terms/rom). Magic pointer references are resolved at run time by the [operating system](/terms/operating-system), which substitutes the actual [address](/terms/address) of the object in ROM for the magic pointer reference.
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/constant text: constant) that represents a special type of (link: /terms/reference text: reference) to an (link: /terms/object text: object) in the Newton (link: /terms/rom text: ROM). Magic pointer references are resolved at run time by the (link: /terms/operating-system text: operating system), which substitutes the actual (link: /terms/address text: address) of the object in ROM for the magic pointer reference.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 05 August 2024
 
 Text:
 
-See: [Battery Cover](/terms/battery-cover)
+See: (link: /terms/battery-cover text: Battery Cover)
 
 ----
 

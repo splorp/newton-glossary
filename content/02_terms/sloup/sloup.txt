@@ -8,9 +8,9 @@ Date:
 
 Text:
 
-A utility [application](/terms/application) created by [Steve Weyer](/sources/steve-weyer) to facilitate the transfer of data between files located on a [desktop](/terms/desktop-computer) or [laptop](/terms/laptop-computer) computer and [soups](/terms/soup) residing on a Newton device. Sloup can also be used to inspect and report on the values contained in various data [fields](/terms/field).
+A utility (link: /terms/application text: application) created by (link: /sources/steve-weyer text: Steve Weyer) to facilitate the transfer of data between files located on a (link: /terms/desktop-computer text: desktop) or (link: /terms/laptop-computer text: laptop) computer and (link: /terms/soup text: soups) residing on a Newton device. Sloup can also be used to inspect and report on the values contained in various data (link: /terms/field text: fields).
 
-Sloup was previously known as [Slurpee](/terms/slurpee).
+Sloup was previously known as (link: /terms/slurpee text: Slurpee).
 
 ----
 

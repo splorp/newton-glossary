@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [MessagePad 110](/terms/messagepad-110)
+See: (link: /terms/messagepad-110 text: MessagePad 110)

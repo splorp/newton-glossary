@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-The code name of the [MessagePad 120](/terms/messagepad-120) device. The name Gelato was chosen because the device came in two “flavours” — 1MB and 2MB memory configurations.
+The code name of the (link: /terms/messagepad-120 text: MessagePad 120) device. The name Gelato was chosen because the device came in two “flavours” — 1MB and 2MB memory configurations.
 
 ----
 

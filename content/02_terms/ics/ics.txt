@@ -8,4 +8,4 @@ Date: 26 November 2017
 
 Text:
 
-See: [Innovative Computer Solutions](/sources/innovative-computer-solutions)
+See: (link: /sources/innovative-computer-solutions text: Innovative Computer Solutions)

@@ -8,7 +8,7 @@ Date: 25 June 2001
 
 Text:
 
-A [shape](/terms/shape) defined by two points — the current x and y location of the [pen](/terms/pen) and the x and y location of the pen’s destination.
+A (link: /terms/shape text: shape) defined by two points — the current x and y location of the (link: /terms/pen text: pen) and the x and y location of the pen’s destination.
 
 ----
 

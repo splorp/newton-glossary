@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A [package](/terms/package) that adds some sort of functionality to the [operating system](/terms/operating-system) or other packages.
+A (link: /terms/package text: package) that adds some sort of functionality to the (link: /terms/operating-system text: operating system) or other packages.
 
-The [filename extension](/terms/filename-extension) of a file is also referred to as an extension.
+The (link: /terms/filename-extension text: filename extension) of a file is also referred to as an extension.
 
 ----
 

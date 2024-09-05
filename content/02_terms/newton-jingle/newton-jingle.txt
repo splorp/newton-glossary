@@ -8,7 +8,7 @@ Date: 12 August 2024
 
 Text:
 
-See: [Hot Dog Song](/terms/hot-dog-song)
+See: (link: /terms/hot-dog-song text: Hot Dog Song)
 
 ----
 

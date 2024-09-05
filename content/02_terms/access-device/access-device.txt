@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See: [Access Device 2000](/terms/access-device-2000)
+See: (link: /terms/access-device-2000 text: Access Device 2000)

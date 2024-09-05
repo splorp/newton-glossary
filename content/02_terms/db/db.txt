@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Database](/terms/database) and [Decibel](/terms/decibel)
+See: (link: /terms/database text: Database) and (link: /terms/decibel text: Decibel)

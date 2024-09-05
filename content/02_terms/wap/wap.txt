@@ -12,9 +12,9 @@ Wireless Application Protocol
 
 A technical standard introduced in 1999 that provided mobile phones, pagers, and other handheld devices with secure, wireless access to various types of information such as email and lightweight web pages.
 
-[Eric Schneck](/sources/eric-schneck) developed a WAP client for [Newton OS](/terms/newton-os) called [NewtWap](/terms/newtwap).
+(link: /sources/eric-schneck text: Eric Schneck) developed a WAP client for (link: /terms/newton-os text: Newton OS) called (link: /terms/newtwap text: NewtWap).
 
-WAP also refers to a [Wireless Access Point](/terms/wireless-access-point).
+WAP also refers to a (link: /terms/wireless-access-point text: Wireless Access Point).
 
 ----
 

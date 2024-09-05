@@ -10,7 +10,7 @@ Text:
 
 Data that describes other data.
 
-For example, keyword metadata can be used to describe the visual content and dimensional metadata can be used to describe the resolution and physical dimensions of an image. In an [RSS](/terms/rss) feed, metadata relating to an article or blog post can include a headline, a summary, the name of the author, and the publication date.
+For example, keyword metadata can be used to describe the visual content and dimensional metadata can be used to describe the resolution and physical dimensions of an image. In an (link: /terms/rss text: RSS) feed, metadata relating to an article or blog post can include a headline, a summary, the name of the author, and the publication date.
 
 ----
 

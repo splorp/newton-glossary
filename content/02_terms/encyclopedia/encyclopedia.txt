@@ -8,7 +8,7 @@ Date: 16 July 2017
 
 Text:
 
-A [frame](/terms/frame)-based database [application](/terms/application) developed by [Apple](https://www.apple.com/) and written in the [Ralph](/terms/ralph) programming language for [Bauhaus](/terms/bauhaus), an early version of [Newton OS](/terms/newton-os).
+A (link: /terms/frame text: frame)-based database (link: /terms/application text: application) developed by [Apple](https://www.apple.com/) and written in the (link: /terms/ralph text: Ralph) programming language for (link: /terms/bauhaus text: Bauhaus), an early version of (link: /terms/newton-os text: Newton OS).
 
 ----
 

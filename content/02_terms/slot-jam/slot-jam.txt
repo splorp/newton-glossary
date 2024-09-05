@@ -8,9 +8,9 @@ Date:
 
 Text:
 
-A mechanical condition where a [PC card](/terms/pc-card) cannot be ejected from a Newton device.
+A mechanical condition where a (link: /terms/pc-card text: PC card) cannot be ejected from a Newton device.
 
-Slot jam can also refer to the schmutz that collects in a PC card [slot](/terms/slot) over time.
+Slot jam can also refer to the schmutz that collects in a PC card (link: /terms/slot text: slot) over time.
 
 ----
 

@@ -8,11 +8,11 @@ Date: 18 January 2024
 
 Text:
 
-A service that provided the ability to send messages via telephone, fax, or computer equipped with a [modem](/terms/modem) using a personal 800 number. The user would receive notification of incoming faxes, voicemail, email, and text messages on a [PageCard](/terms/pagecard) inserted into their Newton device, PowerBook laptop, or other compatible computer.
+A service that provided the ability to send messages via telephone, fax, or computer equipped with a (link: /terms/modem text: modem) using a personal 800 number. The user would receive notification of incoming faxes, voicemail, email, and text messages on a (link: /terms/pagecard text: PageCard) inserted into their Newton device, PowerBook laptop, or other compatible computer.
 
-The Apple Notification Service was part of the [Apple Mobile Message System](/terms/apple-mobile-message-system) and was replaced by the [SWiMS](/terms/swims) service provided by [Socket Communications](https://web.archive.org/web/19980208233349/http://www.socketcom.com/), makers of the PageCard.
+The Apple Notification Service was part of the (link: /terms/apple-mobile-message-system text: Apple Mobile Message System) and was replaced by the (link: /terms/swims text: SWiMS) service provided by [Socket Communications](https://web.archive.org/web/19980208233349/http://www.socketcom.com/), makers of the PageCard.
 
-Also referred to as [ANS](/terms/ans).
+Also referred to as (link: /terms/ans text: ANS).
 
 ----
 

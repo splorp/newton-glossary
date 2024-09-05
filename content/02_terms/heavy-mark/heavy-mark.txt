@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-A large dot that appears when you hold the [pen](/terms/pen) down in one place on the Newton [screen](/terms/screen). Used to start the action of [selecting](/terms/select) a block of text or a [shape](/terms/shape). A Newton device will audibly [squeak](/terms/squeak) when the dot appears.
+A large dot that appears when you hold the (link: /terms/pen text: pen) down in one place on the Newton (link: /terms/screen text: screen). Used to start the action of (link: /terms/select text: selecting) a block of text or a (link: /terms/shape text: shape). A Newton device will audibly (link: /terms/squeak text: squeak) when the dot appears.
 
 ----
 

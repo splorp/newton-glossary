@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [package](/terms/package) that is no longer [frozen](/terms/frozen) and has been activated. When you [thaw](/terms/thaw) a package, the [icon](/terms/icon) changes from a [snowflake](/terms/snowflake) back to it’s original image.
+A (link: /terms/package text: package) that is no longer (link: /terms/frozen text: frozen) and has been activated. When you (link: /terms/thaw text: thaw) a package, the (link: /terms/icon text: icon) changes from a (link: /terms/snowflake text: snowflake) back to it’s original image.
 
 ----
 

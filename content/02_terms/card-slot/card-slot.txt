@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-An opening where a [PC card](/terms/pc-card) is inserted into a Newton device.
+An opening where a (link: /terms/pc-card text: PC card) is inserted into a Newton device.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-See: [Batman](/terms/batman)
+See: (link: /terms/batman text: Batman)
 
 ----
 

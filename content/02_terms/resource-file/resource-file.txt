@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A file containing Mac OS [resources](/terms/resource) — such as sounds, icons, bitmaps, or strings — used by [Newton Toolkit](/terms/newton-toolkit) during a [project build](/terms/project-build).
+A file containing Mac OS (link: /terms/resource text: resources) — such as sounds, icons, bitmaps, or strings — used by (link: /terms/newton-toolkit text: Newton Toolkit) during a (link: /terms/project-build text: project build).
 
 ----
 

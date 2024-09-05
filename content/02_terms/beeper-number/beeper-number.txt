@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-An alternate name for the seven-digit personal identification number or [PIN](/terms/pin) associated with an [Apple Wireless Messaging Service](/terms/apple-wireless-messaging-service) account. The term “beeper” is derived from the sound made by old school wireless paging devices when receiving a message.
+An alternate name for the seven-digit personal identification number or (link: /terms/pin text: PIN) associated with an (link: /terms/apple-wireless-messaging-service text: Apple Wireless Messaging Service) account. The term “beeper” is derived from the sound made by old school wireless paging devices when receiving a message.
 
 ----
 

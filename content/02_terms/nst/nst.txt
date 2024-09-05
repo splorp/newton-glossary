@@ -8,4 +8,4 @@ Date: 31 May 2001
 
 Text:
 
-See: [Newton Software Technology](/terms/newton-software-technology)
+See: (link: /terms/newton-software-technology text: Newton Software Technology)

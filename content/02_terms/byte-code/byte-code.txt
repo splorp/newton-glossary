@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-See: [Bytecode](/terms/bytecode)
+See: (link: /terms/bytecode text: Bytecode)
 
 ----
 

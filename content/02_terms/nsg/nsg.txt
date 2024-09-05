@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Newton Systems Group](/terms/newton-systems-group) and [Newton Solutions Guide](/terms/newton-solutions-guide)
+See: (link: /terms/newton-systems-group text: Newton Systems Group) and (link: /terms/newton-solutions-guide text: Newton Solutions Guide)

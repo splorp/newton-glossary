@@ -8,4 +8,4 @@ Date: 12 June 2001
 
 Text:
 
-See: [Implant-130](/terms/implant-130) and [Implant-2000](/terms/implant-2000)
+See: (link: /terms/implant-130 text: Implant-130) and (link: /terms/implant-2000 text: Implant-2000)

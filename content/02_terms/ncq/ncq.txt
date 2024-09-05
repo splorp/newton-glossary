@@ -8,9 +8,9 @@ Date: 06 October 2002
 
 Text:
 
-An instant messaging [application](/terms/application) for [Newton OS](/terms/newton-os). NCQ is compatible with the standard [ICQ protocol](https://web.archive.org/web/20140703194702/http://www.ihse.net/icq/), but only implements a subset of its features.
+An instant messaging (link: /terms/application text: application) for (link: /terms/newton-os text: Newton OS). NCQ is compatible with the standard [ICQ protocol](https://web.archive.org/web/20140703194702/http://www.ihse.net/icq/), but only implements a subset of its features.
 
-Also referred to as [NewtICQ](/terms/newticq).
+Also referred to as (link: /terms/newticq text: NewtICQ).
 
 (image: /assets/images/ncq-2x.gif alt: Screenshot of NCQ width: 230)
 

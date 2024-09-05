@@ -10,7 +10,7 @@ Text:
 
 A unit of measurement of the relative loudness of a sound.
 
-Commonly abbreviated as [dB](/terms/db).
+Commonly abbreviated as (link: /terms/db text: dB).
 
 ----
 

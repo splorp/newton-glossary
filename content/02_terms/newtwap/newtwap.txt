@@ -8,7 +8,7 @@ Date: 19 April 2024
 
 Text:
 
-A [WAP](/terms/wap) (Wireless Access Protocol) client for [Newton OS](/terms/newton-os) developed by [Eric Schneck](/sources/eric-schneck).
+A (link: /terms/wap text: WAP) (Wireless Access Protocol) client for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/eric-schneck text: Eric Schneck).
 
 (image: /assets/images/newtwap-2x.gif alt: Screenshot of NewtWap width: 320)
 

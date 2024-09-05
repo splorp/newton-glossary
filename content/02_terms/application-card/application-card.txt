@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-A [PCMCIA](/terms/pcmcia) card that contains an [application](/terms/application) geared towards a specific use. Application cards are usually ROM-based, and therefore the user cannot modify or delete the data contained on them.
+A (link: /terms/pcmcia text: PCMCIA) card that contains an (link: /terms/application text: application) geared towards a specific use. Application cards are usually ROM-based, and therefore the user cannot modify or delete the data contained on them.
 
 ----
 

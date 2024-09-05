@@ -8,15 +8,15 @@ Date: 10 December 2023
 
 Text:
 
-A [picker](/terms/picker) in the [assist slip](/terms/assist-slip) that displays a list of [actions](/terms/action) that have been registered by [applications](/terms/application), as well as recent phrases that the [Assist](/terms/assist) function has attempted to interpret.
+A (link: /terms/picker text: picker) in the (link: /terms/assist-slip text: assist slip) that displays a list of (link: /terms/action text: actions) that have been registered by (link: /terms/application text: applications), as well as recent phrases that the (link: /terms/assist text: Assist) function has attempted to interpret.
 
 (image: /assets/images/please-picker-2x.gif alt: Screenshot of the Please Picker in the Assist Slip width: 240)
 
-Tasks listed in the Please picker include calling, faxing, finding, mailing, printing, remembering [To Do List](/terms/to-do-list) items, scheduling meetings, and getting time information from the [Time Zones](/terms/time-zones) application.
+Tasks listed in the Please picker include calling, faxing, finding, mailing, printing, remembering (link: /terms/to-do-list text: To Do List) items, scheduling meetings, and getting time information from the (link: /terms/time-zones text: Time Zones) application.
 
 If an application registers additional actions with the Assist function, they automatically appear in the picker.
 
-If [synonyms](/terms/synonyms) are available for an action, they do not appear directly in the picker. For example, the word “call” appears but the synonyms “ring”, “dial”, and “phone” do not. However, synonyms can appear in the bottom half of the picker along with other recently used phrases.
+If (link: /terms/synonyms text: synonyms) are available for an action, they do not appear directly in the picker. For example, the word “call” appears but the synonyms “ring”, “dial”, and “phone” do not. However, synonyms can appear in the bottom half of the picker along with other recently used phrases.
 
 ----
 

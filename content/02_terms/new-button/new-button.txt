@@ -8,9 +8,9 @@ Date: 02 December 2017
 
 Text:
 
-The [button](/terms/button) found in an [application](/terms/application) that allows the user to create a new item. When [tapped](/terms/tapped), the button displays a [picker](/terms/picker) listing the various types of items available for the current application.
+The (link: /terms/button text: button) found in an (link: /terms/application text: application) that allows the user to create a new item. When (link: /terms/tapped text: tapped), the button displays a (link: /terms/picker text: picker) listing the various types of items available for the current application.
 
-For example, creating a new [note](/terms/note) or [checklist](/terms/checklist) in the [Notepad](/terms/notepad), a new [card](/terms/card) for a person or group in the [Name File](/terms/name-file), or a new [meeting](/terms/meeting) in the [Date Book](/terms/date-book).
+For example, creating a new (link: /terms/note text: note) or (link: /terms/checklist text: checklist) in the (link: /terms/notepad text: Notepad), a new (link: /terms/card text: card) for a person or group in the (link: /terms/name-file text: Name File), or a new (link: /terms/meeting text: meeting) in the (link: /terms/date-book text: Date Book).
 
 (image: /assets/images/new-picker-2x.gif alt: Screenshot of a New Button with Picker width: 127)
 

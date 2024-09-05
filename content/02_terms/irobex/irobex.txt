@@ -10,4 +10,4 @@ Text:
 
 Infrared Object Exchange
 
-See: [OBEX](/terms/obex)
+See: (link: /terms/obex text: OBEX)

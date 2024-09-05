@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a view [template](/terms/template) that defines how to display data from a particular [data definition](/terms/data-definition). A view definition is registered with the system under the name of the data definition to which it applies. The shortened term [viewDef](/terms/viewdef) is sometimes used.
+In (link: /terms/newtonscript text: NewtonScript), a view (link: /terms/template text: template) that defines how to display data from a particular (link: /terms/data-definition text: data definition). A view definition is registered with the system under the name of the data definition to which it applies. The shortened term (link: /terms/viewdef text: viewDef) is sometimes used.
 
 ----
 

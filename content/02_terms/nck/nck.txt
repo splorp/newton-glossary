@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Newton Connection Kit](/terms/newton-connection-kit)
+See: (link: /terms/newton-connection-kit text: Newton Connection Kit)

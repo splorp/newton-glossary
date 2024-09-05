@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The size of a font measured in [points](/terms/point), also referred to as [point size](/terms/point-size).
+The size of a font measured in (link: /terms/point text: points), also referred to as (link: /terms/point-size text: point size).
 
 ----
 

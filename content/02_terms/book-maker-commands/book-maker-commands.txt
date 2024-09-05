@@ -8,9 +8,9 @@ Date: 18 December 2001
 
 Text:
 
-A set of text-based [Newton Book Maker](/terms/newton-book-maker) instructions used to tag and differentiate specific content items, such as text or graphics, in a Newton [book source file](/terms/book-source-file). For example, specifying the title and layout of a [Newton book](/terms/newton-book) require different commands.
+A set of text-based (link: /terms/newton-book-maker text: Newton Book Maker) instructions used to tag and differentiate specific content items, such as text or graphics, in a Newton (link: /terms/book-source-file text: book source file). For example, specifying the title and layout of a (link: /terms/newton-book text: Newton book) require different commands.
 
-Also referred to as [Dot Commands](/terms/dot-commands) because the commands must begin with a period or dot.
+Also referred to as (link: /terms/dot-commands text: Dot Commands) because the commands must begin with a period or dot.
 
 ----
 

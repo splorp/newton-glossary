@@ -10,7 +10,7 @@ Text:
 
 Driver Development Kit
 
-A cohesive set of code samples, templates, tools, libraries, and other utilities to facilitate the creation of [device drivers](/terms/device-driver).
+A cohesive set of code samples, templates, tools, libraries, and other utilities to facilitate the creation of (link: /terms/device-driver text: device drivers).
 
 ----
 

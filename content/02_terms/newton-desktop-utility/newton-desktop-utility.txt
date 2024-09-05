@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-See: [Newton Data Browser](/terms/newton-data-browser)
+See: (link: /terms/newton-data-browser text: Newton Data Browser)
 
 ----
 

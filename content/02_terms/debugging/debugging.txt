@@ -8,7 +8,7 @@ Date: 09 October 2017
 
 Text:
 
-The process of using a tool known as a [debugger](/terms/debugger) to locate and fix unintended behaviour in a piece of software or code.
+The process of using a tool known as a (link: /terms/debugger text: debugger) to locate and fix unintended behaviour in a piece of software or code.
 
 ----
 

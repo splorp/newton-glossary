@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [control](/terms/control) bordered by a [rounded rectangle](/terms/rounded-rectangle) that the user [taps](/terms/tap) to designate, confirm, or cancel an action described by a text label inside the border.
+A (link: /terms/control text: control) bordered by a (link: /terms/rounded-rectangle text: rounded rectangle) that the user (link: /terms/tap text: taps) to designate, confirm, or cancel an action described by a text label inside the border.
 
 ----
 

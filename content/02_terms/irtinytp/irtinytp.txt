@@ -8,7 +8,7 @@ Date: 14 January 2024
 
 Text:
 
-See: [TinyTP](/terms/tinytp)
+See: (link: /terms/tinytp text: TinyTP)
 
 ----
 

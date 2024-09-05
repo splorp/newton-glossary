@@ -8,4 +8,4 @@ Date: 24 August 2016
 
 Text:
 
-See: [Newton User Interface](/terms/newton-user-interface)
+See: (link: /terms/newton-user-interface text: Newton User Interface)

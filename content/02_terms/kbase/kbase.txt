@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A nickname for the AppleCare Knowledge Base or [AppleCare Knowledge Archive](/sources/applecare-knowledge-archive), a technical support [database](/terms/database) consisting of thousands of documents related to [Apple](https://www.apple.com/) products and services. Each document in the library could be referenced by a unique identification number. The Knowledge Archive was preceded by the Apple Tech Info Library ([TIL](/terms/til)) and superseded by the current [Apple Support](https://support.apple.com/) website.
+A nickname for the AppleCare Knowledge Base or (link: /sources/applecare-knowledge-archive text: AppleCare Knowledge Archive), a technical support (link: /terms/database text: database) consisting of thousands of documents related to [Apple](https://www.apple.com/) products and services. Each document in the library could be referenced by a unique identification number. The Knowledge Archive was preceded by the Apple Tech Info Library ((link: /terms/til text: TIL)) and superseded by the current [Apple Support](https://support.apple.com/) website.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-See: [Ink Window](/terms/ink-window)
+See: (link: /terms/ink-window text: Ink Window)
 
 ----
 

@@ -8,7 +8,7 @@ Date: 17 July 2017
 
 Text:
 
-See: [Grouper 100MP](/terms/grouper-100mp)
+See: (link: /terms/grouper-100mp text: Grouper 100MP)
 
 ----
 

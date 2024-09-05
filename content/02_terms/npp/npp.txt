@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Newton Partners Program](/terms/newton-partners-program) and [Newton Print Pack](/terms/newton-print-pack)
+See: (link: /terms/newton-partners-program text: Newton Partners Program) and (link: /terms/newton-print-pack text: Newton Print Pack)

@@ -8,7 +8,7 @@ Date: 25 June 2001
 
 Text:
 
-A [shape](/terms/shape) defined by a sequence of points representing the polygon’s vertices, connected by straight [lines](/terms/line) from one point to the next.
+A (link: /terms/shape text: shape) defined by a sequence of points representing the polygon’s vertices, connected by straight (link: /terms/line text: lines) from one point to the next.
 
 ----
 

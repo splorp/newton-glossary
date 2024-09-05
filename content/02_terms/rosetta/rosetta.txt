@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The code name of the software-based [print recognizer](print-recognizer) system developed by [Apple](https://www.apple.com/). Rosetta first shipped in the second revision of the [MessagePad 120](/terms/messagepad-120) device. The name was eventually changed to [Mondello](/terms/mondello) for legal reasons. Although never used publicly, the official product name for the print recognizer was [Neuropen](/terms/neuropen).
+The code name of the software-based [print recognizer](print-recognizer) system developed by [Apple](https://www.apple.com/). Rosetta first shipped in the second revision of the (link: /terms/messagepad-120 text: MessagePad 120) device. The name was eventually changed to (link: /terms/mondello text: Mondello) for legal reasons. Although never used publicly, the official product name for the print recognizer was (link: /terms/neuropen text: Neuropen).
 
 ----
 

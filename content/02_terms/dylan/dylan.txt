@@ -8,9 +8,9 @@ Date: 12 June 2001
 
 Text:
 
-The [Lisp](/terms/lisp)-like dynamic programming language developed at [Apple](https://www.apple.com/) and used to develop portions of the original [Newton OS](/terms/newton-os) and its [user interface](/terms/user-interface).
+The (link: /terms/lisp text: Lisp)-like dynamic programming language developed at [Apple](https://www.apple.com/) and used to develop portions of the original (link: /terms/newton-os text: Newton OS) and its (link: /terms/user-interface text: user interface).
 
-Also referred to as [Denali](/terms/denali). An early version of Dylan was known as [Ralph](/terms/ralph).
+Also referred to as (link: /terms/denali text: Denali). An early version of Dylan was known as (link: /terms/ralph text: Ralph).
 
 ----
 

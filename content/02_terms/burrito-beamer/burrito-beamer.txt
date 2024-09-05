@@ -8,7 +8,7 @@ Date: 30 May 2024
 
 Text:
 
-An [application](/terms/application) created by [Flash Sheridan](http://flash-sheridan.name/) which facilitated ordering custom burritos from [La Costena](https://web.archive.org/web/19981206120424/http://www.costena.com/) located in Mountain View, California. The user would specify various options for their burrito using a [Newton OS](/terms/newton-os) device and then [beam](/terms/beam), email, or fax the order to the restaurant.
+An (link: /terms/application text: application) created by [Flash Sheridan](http://flash-sheridan.name/) which facilitated ordering custom burritos from [La Costena](https://web.archive.org/web/19981206120424/http://www.costena.com/) located in Mountain View, California. The user would specify various options for their burrito using a (link: /terms/newton-os text: Newton OS) device and then (link: /terms/beam text: beam), email, or fax the order to the restaurant.
 
 Burrito Beamer was reverse engineered from the original “burrito” PostScript program written by Ross Thompson of Adobe Systems.
 

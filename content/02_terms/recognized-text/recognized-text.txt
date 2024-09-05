@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-[Ink words](/terms/ink-word) processed by the [handwriting recognition](/terms/handwriting-recognition) system. [Ink](/terms/ink) drawn by the user is converted into recognized text when the user has selected [Text](/terms/text) in the “Recognition Preferences” [slip](/terms/slip) or after [deferred recognition](/terms/deferred-recognition) takes place.
+(link: /terms/ink-word text: Ink words) processed by the (link: /terms/handwriting-recognition text: handwriting recognition) system. (link: /terms/ink text: Ink) drawn by the user is converted into recognized text when the user has selected (link: /terms/text text: Text) in the “Recognition Preferences” (link: /terms/slip text: slip) or after (link: /terms/deferred-recognition text: deferred recognition) takes place.
 
 (image: /assets/images/recognized-text-2x.gif alt: Screenshot of Recognized Text in the Notepad application width: 186)
 

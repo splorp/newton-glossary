@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A built-in [container view](/terms/container-view) that displays named [picture buttons](/terms/picture-button) or [icons](/terms/icon) which a user [taps](/terms/tap) to open [applications](/terms/application). The Extras Drawer is also used to set the default [backdrop](/terms/backdrop) application.
+A built-in (link: /terms/container-view text: container view) that displays named (link: /terms/picture-button text: picture buttons) or (link: /terms/icon text: icons) which a user (link: /terms/tap text: taps) to open (link: /terms/application text: applications). The Extras Drawer is also used to set the default (link: /terms/backdrop text: backdrop) application.
 
 ----
 

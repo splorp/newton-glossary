@@ -8,11 +8,11 @@ Date: 24 May 2001
 
 Text:
 
-A development environment created by [Apple](https://www.apple.com/) for writing [NewtonScript](/terms/newtonscript) programs for [Newton OS](/terms/newton-os). A prototype for Newton Toolkit called [EtchASketch](/terms/etchasketch) was written using [Macintosh Common Lisp](/terms/macintosh-common-lisp).
+A development environment created by [Apple](https://www.apple.com/) for writing (link: /terms/newtonscript text: NewtonScript) programs for (link: /terms/newton-os text: Newton OS). A prototype for Newton Toolkit called (link: /terms/etchasketch text: EtchASketch) was written using (link: /terms/macintosh-common-lisp text: Macintosh Common Lisp).
 
-Also referred to as [NTK](/terms/ntk).
+Also referred to as (link: /terms/ntk text: NTK).
 
-Newton Toolkit for Mac OS X (also referred to as [NTX](/terms/ntx)) is a modern replacement for the classic Newton Toolkit being developed by [Simon Bell](/sources/simon-bell).
+Newton Toolkit for Mac OS X (also referred to as (link: /terms/ntx text: NTX)) is a modern replacement for the classic Newton Toolkit being developed by (link: /sources/simon-bell text: Simon Bell).
 
 ----
 

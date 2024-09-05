@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An [application](/terms/application) that can add a [button](/terms/button) to another application or [button host](/terms/button-host).
+An (link: /terms/application text: application) that can add a (link: /terms/button text: button) to another application or (link: /terms/button-host text: button host).
 
 ----
 

@@ -8,13 +8,13 @@ Date: 04 August 2024
 
 Text:
 
-A removable, protective [screen](/terms/screen) cover found on [MessagePad 110](/terms/messagepad-110), [MessagePad 120](/terms/messagepad-120), [MessagePad 130](/terms/messagepad-130), [MessagePad 2000](/terms/messagepad-2000), and [MessagePad 2100](/terms/messagepad-2100) devices.
+A removable, protective (link: /terms/screen text: screen) cover found on (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), (link: /terms/messagepad-130 text: MessagePad 130), (link: /terms/messagepad-2000 text: MessagePad 2000), and (link: /terms/messagepad-2100 text: MessagePad 2100) devices.
 
 The lid is hinged in such a way that it can be flipped over and snapped into place on the back on the device.
 
-The adjustable, hinged lid on an [eMate 300](/terms/emate-300) device houses the screen and covers the keyboard when closed. The eMate lid also controls power to the device. For example, opening the lid turns on the power and closing the lid shuts off the power.
+The adjustable, hinged lid on an (link: /terms/emate-300 text: eMate 300) device houses the screen and covers the keyboard when closed. The eMate lid also controls power to the device. For example, opening the lid turns on the power and closing the lid shuts off the power.
 
-Also referred to as a [Display Lid](/terms/display-lid), [Screen Lid](/terms/screen-lid), or [Cover](/terms/cover).
+Also referred to as a (link: /terms/display-lid text: Display Lid), (link: /terms/screen-lid text: Screen Lid), or (link: /terms/cover text: Cover).
 
 ----
 

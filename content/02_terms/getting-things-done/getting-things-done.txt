@@ -8,9 +8,9 @@ Date: 08 June 2024
 
 Text:
 
-A time management and personal productivity system developed by author and consultant David Allen in 2001. Also known as [GTD](/terms/gtd), the system is based on efficiently storing, tracking, and retrieving information related to tasks that are to be accomplished.
+A time management and personal productivity system developed by author and consultant David Allen in 2001. Also known as (link: /terms/gtd text: GTD), the system is based on efficiently storing, tracking, and retrieving information related to tasks that are to be accomplished.
 
-According to [Eckhart Köppen](/sources/eckhart-koppen), this type of task management is perfectly suited to the [Newton OS](/terms/newton-os) platform. To prove this, Köppen developed two pieces of Newton software specifically supporting the concepts of GTD, [Flashpoint](/terms/flashpoint) and [Nitch](/terms/nitch).
+According to (link: /sources/eckhart-koppen text: Eckhart Köppen), this type of task management is perfectly suited to the (link: /terms/newton-os text: Newton OS) platform. To prove this, Köppen developed two pieces of Newton software specifically supporting the concepts of GTD, (link: /terms/flashpoint text: Flashpoint) and (link: /terms/nitch text: Nitch).
 
 ----
 

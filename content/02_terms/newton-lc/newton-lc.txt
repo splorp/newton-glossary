@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The low-cost, miniaturized [MessagePad](/terms/messagepad) rumoured to have been developed by [Apple](https://www.apple.com/) around 1995. The Newton LC featured a simplified, “one-chip” hardware architecture and a form factor similar to the [PalmPilot](https://en.wikipedia.org/wiki/PalmPilot).
+The low-cost, miniaturized (link: /terms/messagepad text: MessagePad) rumoured to have been developed by [Apple](https://www.apple.com/) around 1995. The Newton LC featured a simplified, “one-chip” hardware architecture and a form factor similar to the [PalmPilot](https://en.wikipedia.org/wiki/PalmPilot).
 
 ----
 

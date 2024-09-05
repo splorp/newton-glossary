@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A method of [resetting](/terms/reset) the [Newton OS](/terms/newton-os) to its factory defaults. A cold boot erases all data in the internal memory including [applications](/terms/application) and [packages](/terms/package) installed by the user, removes all [system updates](/terms/system-update), and resets [pen](/terms/pen) alignment, date, time, time zone, and other [preferences](/terms/preferences).
+A method of (link: /terms/reset text: resetting) the (link: /terms/newton-os text: Newton OS) to its factory defaults. A cold boot erases all data in the internal memory including (link: /terms/application text: applications) and (link: /terms/package text: packages) installed by the user, removes all (link: /terms/system-update text: system updates), and resets (link: /terms/pen text: pen) alignment, date, time, time zone, and other (link: /terms/preferences text: preferences).
 
-Not to be confused with [hard reset](/terms/hard-reset) or [brain wipe](/terms/brain-wipe), which do not remove any [system updates](/terms/system-update).
+Not to be confused with (link: /terms/hard-reset text: hard reset) or (link: /terms/brain-wipe text: brain wipe), which do not remove any (link: /terms/system-update text: system updates).
 
 ----
 

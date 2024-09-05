@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A value that does not change, as opposed to a [variable](/terms/variable). In [NewtonScript](/terms/newtonscript) the value of the constant is substituted wherever the constant is used in code.
+A value that does not change, as opposed to a (link: /terms/variable text: variable). In (link: /terms/newtonscript text: NewtonScript) the value of the constant is substituted wherever the constant is used in code.
 
 ----
 

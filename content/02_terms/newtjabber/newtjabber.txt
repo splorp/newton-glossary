@@ -8,7 +8,7 @@ Date: 19 April 2024
 
 Text:
 
-See: [NewtJab](/terms/newtjab)
+See: (link: /terms/newtjab text: NewtJab)
 
 ----
 

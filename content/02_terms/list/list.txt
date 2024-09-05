@@ -8,4 +8,4 @@ Date: 12 April 2017
 
 Text:
 
-See: [Picker](/terms/picker)
+See: (link: /terms/picker text: Picker)

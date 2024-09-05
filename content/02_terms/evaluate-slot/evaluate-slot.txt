@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a [slot](/terms/slot) that is evaluated when [Newton Toolkit](/terms/newton-toolkit) compiles an [application](/terms/application).
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/slot text: slot) that is evaluated when (link: /terms/newton-toolkit text: Newton Toolkit) compiles an (link: /terms/application text: application).
 
 ----
 

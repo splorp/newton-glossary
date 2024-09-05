@@ -10,7 +10,7 @@ Text:
 
 A portmanteau of transmitter and receiver, describing any device that performs both transmitting and receiving functions.
 
-For example, all [Newton OS](/terms/newton-os) devices include an [infrared](/terms/infrared) transceiver for [beaming](/terms/beaming) information to and receiving information from other devices.
+For example, all (link: /terms/newton-os text: Newton OS) devices include an (link: /terms/infrared text: infrared) transceiver for (link: /terms/beaming text: beaming) information to and receiving information from other devices.
 
 ----
 

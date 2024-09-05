@@ -8,7 +8,7 @@ Date: 04 August 2024
 
 Text:
 
-See: [Sliding Cover](/terms/sliding-cover)
+See: (link: /terms/sliding-cover text: Sliding Cover)
 
 ----
 

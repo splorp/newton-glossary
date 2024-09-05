@@ -8,7 +8,7 @@ Date: 30 August 2017
 
 Text:
 
-A [liquid crystal display](/terms/liquid-crystal-display) that both reflects and transmits light. Under a bright external light source, the [screen](/terms/screen) is primarily reflective. In situations where the ambient light is reduced, an internal [backlight](/terms/backlight) such as an [electroluminescent panel](/terms/electroluminescent-panel) is required to view the display.
+A (link: /terms/liquid-crystal-display text: liquid crystal display) that both reflects and transmits light. Under a bright external light source, the (link: /terms/screen text: screen) is primarily reflective. In situations where the ambient light is reduced, an internal (link: /terms/backlight text: backlight) such as an (link: /terms/electroluminescent-panel text: electroluminescent panel) is required to view the display.
 
 ----
 

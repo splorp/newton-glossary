@@ -8,7 +8,7 @@ Date: 10 September 2017
 
 Text:
 
-An open source software emulator developed by [Paul Guyot](/sources/paul-guyot) that allows [Newton OS](/terms/newton-os) to run on other [operating systems](/terms/operating-system) such as Mac OS X, iOS, and Linux.
+An open source software emulator developed by (link: /sources/paul-guyot text: Paul Guyot) that allows (link: /terms/newton-os text: Newton OS) to run on other (link: /terms/operating-system text: operating systems) such as Mac OS X, iOS, and Linux.
 
 ----
 

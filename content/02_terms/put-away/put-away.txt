@@ -8,7 +8,7 @@ Date: 06 October 2002
 
 Text:
 
-A choice in the [tag button](/terms/tag-button) picker which moves the current item or [selected](/terms/select) items to their logical home. For example, an item containing contact information would be “put away” in the [Name File](/terms/name-file) application.
+A choice in the (link: /terms/tag-button text: tag button) picker which moves the current item or (link: /terms/select text: selected) items to their logical home. For example, an item containing contact information would be “put away” in the (link: /terms/name-file text: Name File) application.
 
 ----
 

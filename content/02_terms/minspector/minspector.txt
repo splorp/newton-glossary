@@ -8,7 +8,7 @@ Date: 15 March 2018
 
 Text:
 
-A debugging tool for [Newton OS](/terms/newton-os) developed by [Mason Mark](/sources/mason-mark) of [Five Speed Software](http://www.fivespeedsoftware.com/). Although Minspector runs on the Newton platform, its appearance is modeled after the [Inspector](/terms/inspector) from the Mac OS version of [Newton Toolkit](/terms/newton-toolkit).
+A debugging tool for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/mason-mark text: Mason Mark) of [Five Speed Software](http://www.fivespeedsoftware.com/). Although Minspector runs on the Newton platform, its appearance is modeled after the (link: /terms/inspector text: Inspector) from the Mac OS version of (link: /terms/newton-toolkit text: Newton Toolkit).
 
 (image: /assets/images/minspector-2x.gif alt: Screenshot of Minspector width: 316)
 

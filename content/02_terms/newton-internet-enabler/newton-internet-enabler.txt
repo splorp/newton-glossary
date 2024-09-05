@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-Software that runs in the background of [Newton OS](/terms/newton-os), enabling access to the internet and other information services using standard communication protocols such as [TCP/IP](/terms/tcp-ip).
+Software that runs in the background of (link: /terms/newton-os text: Newton OS), enabling access to the internet and other information services using standard communication protocols such as [TCP/IP](/terms/tcp-ip).
 
-Also referred to as [NIE](/terms/NIE).
+Also referred to as (link: /terms/NIE text: NIE).
 
 ----
 

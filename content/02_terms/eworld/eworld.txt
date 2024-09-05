@@ -8,7 +8,7 @@ Date: 30 October 2001
 
 Text:
 
-Apple’s one time foray into the realm of consumer online services. Based on the same operational platform as America Online, eWorld offered a wealth of electronic publications and services targeted mainly at [Apple](https://www.apple.com/) customers. The service was only available on the Mac OS platform, along with limited support on the Newton using special email [stationery](/terms/stationery).
+Apple’s one time foray into the realm of consumer online services. Based on the same operational platform as America Online, eWorld offered a wealth of electronic publications and services targeted mainly at [Apple](https://www.apple.com/) customers. The service was only available on the Mac OS platform, along with limited support on the Newton using special email (link: /terms/stationery text: stationery).
 
 ----
 

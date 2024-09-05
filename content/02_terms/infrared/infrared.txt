@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-Electromagnetic waves in the frequency range just below visible light. Infrared-based [transceivers](/terms/transceiver) are used in Newton devices for communication with other devices.
+Electromagnetic waves in the frequency range just below visible light. Infrared-based (link: /terms/transceiver text: transceivers) are used in Newton devices for communication with other devices.
 
 ----
 

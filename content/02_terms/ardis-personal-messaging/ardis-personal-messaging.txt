@@ -8,9 +8,9 @@ Date: 04 June 2024
 
 Text:
 
-A service based on the [ARDIS](/terms/ardis) wireless data network that provided peer-to-peer messaging, fax services, notifications, and dialup connectivity.
+A service based on the (link: /terms/ardis text: ARDIS) wireless data network that provided peer-to-peer messaging, fax services, notifications, and dialup connectivity.
 
-Also referred to as [ARDIS PM](/terms/ardis-pm) in the [Newton Technology Journal](/terms/newton-technology-journal).
+Also referred to as (link: /terms/ardis-pm text: ARDIS PM) in the (link: /terms/newton-technology-journal text: Newton Technology Journal).
 
 ----
 

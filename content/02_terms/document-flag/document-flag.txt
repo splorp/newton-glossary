@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [Newton Book Maker](/terms/newton-book-maker) setting value that affects an entire [book source file](/terms/book-source-file), such as the `noReLayout` [flag](/terms/flag).
+A (link: /terms/newton-book-maker text: Newton Book Maker) setting value that affects an entire (link: /terms/book-source-file text: book source file), such as the `noReLayout` (link: /terms/flag text: flag).
 
 ----
 

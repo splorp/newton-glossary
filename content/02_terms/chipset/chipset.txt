@@ -8,7 +8,7 @@ Date: 07 February 2017
 
 Text:
 
-A collection of integrated circuits designed to be used together to provide specific functions. For example, early [MessagePad](/terms/messagepad) devices utilize the [Runt](/terms/runt) chipset for memory management and hardware interface control.
+A collection of integrated circuits designed to be used together to provide specific functions. For example, early (link: /terms/messagepad text: MessagePad) devices utilize the (link: /terms/runt text: Runt) chipset for memory management and hardware interface control.
 
 ----
 

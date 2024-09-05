@@ -8,11 +8,11 @@ Date: 06 October 2002
 
 Text:
 
-A NuBus-based card produced in 1991 that facilitated the running of a Newton development environment on a Mac OS [desktop computer](/terms/desktop-computer) connected to an external circuit board that replicated the physical Newton hardware. [Apple](https://www.apple.com/) apparently planned to produce these cards in volume for developers, but they proved to be too expensive. It is believed that only 50 or so cards were ever made. Shortly after the cards were introduced, prototype [MessagePad](/terms/messagepad) devices appeared which could be used for development. [Debugging](/terms/debugging) software such as [Egger](/terms/egger) was required in order to use these cards for development purposes.
+A NuBus-based card produced in 1991 that facilitated the running of a Newton development environment on a Mac OS (link: /terms/desktop-computer text: desktop computer) connected to an external circuit board that replicated the physical Newton hardware. [Apple](https://www.apple.com/) apparently planned to produce these cards in volume for developers, but they proved to be too expensive. It is believed that only 50 or so cards were ever made. Shortly after the cards were introduced, prototype (link: /terms/messagepad text: MessagePad) devices appeared which could be used for development. (link: /terms/debugging text: Debugging) software such as (link: /terms/egger text: Egger) was required in order to use these cards for development purposes.
 
-An ARMageddon card with an attached [daughterboard](/terms/daughterboard) was known as a [Fat Man](/terms/fat-man).
+An ARMageddon card with an attached (link: /terms/daughterboard text: daughterboard) was known as a (link: /terms/fat-man text: Fat Man).
 
-The ARMageddon card preceded the [ARMistice](/terms/armistice) and [ARMadillo](/terms/armadillo) cards. The cards were so named because of the [ARM](/terms/arm) processor used in the Newton hardware.
+The ARMageddon card preceded the (link: /terms/armistice text: ARMistice) and (link: /terms/armadillo text: ARMadillo) cards. The cards were so named because of the (link: /terms/arm text: ARM) processor used in the Newton hardware.
 
 ----
 

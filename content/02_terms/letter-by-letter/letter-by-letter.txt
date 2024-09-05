@@ -8,7 +8,7 @@ Date: 07 November 2017
 
 Text:
 
-A [handwriting recognition](/terms/handwriting-recognition) setting which controls how [cursive](/terms/cursive) text that is not in the [dictionary](/terms/dictionary) is recognized. Essentially, written text is evaluated one letter at a time until a match is made and the text is recognized.
+A (link: /terms/handwriting-recognition text: handwriting recognition) setting which controls how (link: /terms/cursive text: cursive) text that is not in the (link: /terms/dictionary text: dictionary) is recognized. Essentially, written text is evaluated one letter at a time until a match is made and the text is recognized.
 
 ----
 

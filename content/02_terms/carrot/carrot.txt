@@ -8,7 +8,7 @@ Date: 30 October 2001
 
 Text:
 
-What the [caret](/terms/caret) symbol is mistakenly called in the [NetHopper](/terms/nethopper) user guide. Perhaps due to renegade spell-checking.
+What the (link: /terms/caret text: caret) symbol is mistakenly called in the (link: /terms/nethopper text: NetHopper) user guide. Perhaps due to renegade spell-checking.
 
 ----
 

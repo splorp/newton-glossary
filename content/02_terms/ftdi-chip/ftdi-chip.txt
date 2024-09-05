@@ -8,4 +8,4 @@ Date: 05 November 2023
 
 Text:
 
-See: [FTDI](/terms/ftdi)
+See: (link: /terms/ftdi text: FTDI)

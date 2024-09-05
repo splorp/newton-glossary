@@ -8,9 +8,9 @@ Date:
 
 Text:
 
-The process of repeatedly removing and inserting a rechargeable [battery pack](/terms/battery-pack) from a Newton device to stimulate charging.
+The process of repeatedly removing and inserting a rechargeable (link: /terms/battery-pack text: battery pack) from a Newton device to stimulate charging.
 
-Can also refer to repeatedly unplugging and reinserting an AC power adapter into the [power port](/terms/power-port) of a Newton device.
+Can also refer to repeatedly unplugging and reinserting an AC power adapter into the (link: /terms/power-port text: power port) of a Newton device.
 
 ----
 

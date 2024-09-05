@@ -10,7 +10,7 @@ Text:
 
 _“I bet I could cram a Raspberry Pi in there if I could find one.”_
 
-An intriguing (if not slightly disturbing) conversion of an [eMate 300](/terms/emate-300) into a Raspberry Pi-powered laptop computer.
+An intriguing (if not slightly disturbing) conversion of an (link: /terms/emate-300 text: eMate 300) into a Raspberry Pi-powered laptop computer.
 
 ----
 

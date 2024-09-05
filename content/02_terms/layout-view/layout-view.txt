@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), the topmost [parent](/terms/view) of all other [views](/terms/view) in a single [layout file](/terms/layout-file).
+In (link: /terms/newtonscript text: NewtonScript), the topmost (link: /terms/view text: parent) of all other (link: /terms/view text: views) in a single (link: /terms/layout-file text: layout file).
 
 ----
 

@@ -8,4 +8,4 @@ Date: 18 January 2024
 
 Text:
 
-See: [Apple Mobile Message System](/terms/apple-mobile-message-system)
+See: (link: /terms/apple-mobile-message-system text: Apple Mobile Message System)

@@ -8,9 +8,9 @@ Date: 26 June 2024
 
 Text:
 
-A external hardware device manufactured by [Apple](https://www.apple.com/) based on the [GeoPort](/terms/geoport) serial data standard. Essentially a large [dongle](/terms/dongle), the adapter provided high speed [modem](/terms/modem), telephony, and fax functionality through software.
+A external hardware device manufactured by [Apple](https://www.apple.com/) based on the (link: /terms/geoport text: GeoPort) serial data standard. Essentially a large (link: /terms/dongle text: dongle), the adapter provided high speed (link: /terms/modem text: modem), telephony, and fax functionality through software.
 
-The GeoPort Telecom Adapter was designed to work specifically with certain PowerPC-based Mac OS computers. Although the [eMate 300](/terms/emate-300) is equipped with a GeoPort connector, but it is unknown whether it is actually compatible with the adapter.
+The GeoPort Telecom Adapter was designed to work specifically with certain PowerPC-based Mac OS computers. Although the (link: /terms/emate-300 text: eMate 300) is equipped with a GeoPort connector, but it is unknown whether it is actually compatible with the adapter.
 
 ----
 

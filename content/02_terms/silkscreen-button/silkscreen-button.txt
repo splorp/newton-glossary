@@ -8,9 +8,9 @@ Date: 30 October 2001
 
 Text:
 
-A colloquial term for one of the [hard buttons](/terms/hard-button) found in the [button bar](/terms/button-bar) below the [screen](/terms/screen) of early Newton devices, including the [OMP](/terms/omp), [MessagePad 100](/terms/messagepad-100), [MessagePad 110](/terms/messagepad-110), [MessagePad 120](/terms/messagepad-120), and [MessagePad 130](/terms/messagepad-130). So called because the [icon](/terms/icon) representing each [button](/terms/button) is silkscreened onto the surface of the device.
+A colloquial term for one of the (link: /terms/hard-button text: hard buttons) found in the (link: /terms/button-bar text: button bar) below the (link: /terms/screen text: screen) of early Newton devices, including the (link: /terms/omp text: OMP), (link: /terms/messagepad-100 text: MessagePad 100), (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), and (link: /terms/messagepad-130 text: MessagePad 130). So called because the (link: /terms/icon text: icon) representing each (link: /terms/button text: button) is silkscreened onto the surface of the device.
 
-Also referred to as a [Silk Button](/terms/silk-button).
+Also referred to as a (link: /terms/silk-button text: Silk Button).
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 Unified Newton Development Overview
 
-A document created by [Matthias Melcher](/sources/matthias-melcher) that attempts to unify the concepts of [Newton OS](/terms/newton-os) development, including data creation, data synchronization, and data exchange across modern computing platforms.
+A document created by (link: /sources/matthias-melcher text: Matthias Melcher) that attempts to unify the concepts of (link: /terms/newton-os text: Newton OS) development, including data creation, data synchronization, and data exchange across modern computing platforms.
 
 ----
 

@@ -8,9 +8,9 @@ Date: 12 June 2001
 
 Text:
 
-Any type of removable [PC card](/terms/pc-card) used for storing data. A storage card can contain [applications](/terms/application), [packages](/terms/package), [soups](/terms/soup), or [backup](/terms/backup) data.
+Any type of removable (link: /terms/pc-card text: PC card) used for storing data. A storage card can contain (link: /terms/application text: applications), (link: /terms/package text: packages), (link: /terms/soup text: soups), or (link: /terms/backup text: backup) data.
 
-Also referred to as a [Memory Card](/terms/memory-card).
+Also referred to as a (link: /terms/memory-card text: Memory Card).
 
 ----
 

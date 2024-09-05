@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A standard [user interface](/terms/user-interface) control that displays its state — either on or off — and is part of a group in which the user can [select](/terms/select) only one [button](/terms/button) at a time. A text label next to each button in the group indicates the control’s current setting. Compare this to a [checkbox](/terms/checkbox) group, where more than one button can be selected at a time.
+A standard (link: /terms/user-interface text: user interface) control that displays its state — either on or off — and is part of a group in which the user can (link: /terms/select text: select) only one (link: /terms/button text: button) at a time. A text label next to each button in the group indicates the control’s current setting. Compare this to a (link: /terms/checkbox text: checkbox) group, where more than one button can be selected at a time.
 
 ----
 

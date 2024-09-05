@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), the topmost [parent view](/terms/parent-view) in the [view](/terms/view) hierarchy. All other views descend from the root view.
+In (link: /terms/newtonscript text: NewtonScript), the topmost (link: /terms/parent-view text: parent view) in the (link: /terms/view text: view) hierarchy. All other views descend from the root view.
 
 ----
 

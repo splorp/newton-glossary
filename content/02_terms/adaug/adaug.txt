@@ -10,4 +10,4 @@ Text:
 
 Austin Digital Assistant Users Group
 
-See: [ANUG](/terms/anug)
+See: (link: /terms/anug text: ANUG)

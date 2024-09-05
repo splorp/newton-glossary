@@ -8,9 +8,9 @@ Date: 29 June 2017
 
 Text:
 
-An early development environment for [Newton OS](/terms/newton-os) created by [Apple](https://www.apple.com/) that consisted of [Macintosh Common Lisp](/terms/macintosh-common-lisp), a compiler for the [Ralph](/terms/ralph) programming language, and other tools.
+An early development environment for (link: /terms/newton-os text: Newton OS) created by [Apple](https://www.apple.com/) that consisted of (link: /terms/macintosh-common-lisp text: Macintosh Common Lisp), a compiler for the (link: /terms/ralph text: Ralph) programming language, and other tools.
 
-Leibniz is also an emulator for [Runt](/terms/runt)-based Newton devices currently being developed by [Steve White](/sources/steve-white).
+Leibniz is also an emulator for (link: /terms/runt text: Runt)-based Newton devices currently being developed by (link: /sources/steve-white text: Steve White).
 
 ----
 

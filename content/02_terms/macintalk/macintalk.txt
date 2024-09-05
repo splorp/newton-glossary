@@ -8,7 +8,7 @@ Date: 23 March 2017
 
 Text:
 
-The speech synthesizer component of the Newton [text-to-speech](/terms/text-to-speech) software. MacinTalk provides a flexible [codec](/terms/codec) which converts [recognized text](/terms/recognized-text) into spoken audio. The synthesized speech can be controlled through various parameters such as voice type, speaking rate, [volume](/terms/volume), and pitch.
+The speech synthesizer component of the Newton (link: /terms/text-to-speech text: text-to-speech) software. MacinTalk provides a flexible (link: /terms/codec text: codec) which converts (link: /terms/recognized-text text: recognized text) into spoken audio. The synthesized speech can be controlled through various parameters such as voice type, speaking rate, (link: /terms/volume text: volume), and pitch.
 
 MacinTalk first appeared as part of the operating system in the original Macintosh, hence the name.
 

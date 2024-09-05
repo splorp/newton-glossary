@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [eMate 300](/terms/emate-300)
+See: (link: /terms/emate-300 text: eMate 300)

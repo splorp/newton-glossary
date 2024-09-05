@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-See: [Scrub](/terms/scrub)
+See: (link: /terms/scrub text: Scrub)
 
 ----
 

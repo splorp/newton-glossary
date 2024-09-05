@@ -8,7 +8,7 @@ Date: 27 January 2024
 
 Text:
 
-A feature found in [Newton Works](/terms/newton-works) that allows the user to easily create and insert a hand drawn image into a word processing document. [Tapping](/terms/tapping) the [recognition button](/terms/recognition-button) in the Quick Sketch [slip](/terms/slip), lets the user select whether the [sketch](/terms/sketch) is converted to [shapes](/terms/shapes) or stored the way it was originally drawn as [electronic ink](/terms/electronic-ink).
+A feature found in (link: /terms/newton-works text: Newton Works) that allows the user to easily create and insert a hand drawn image into a word processing document. (link: /terms/tapping text: Tapping) the (link: /terms/recognition-button text: recognition button) in the Quick Sketch (link: /terms/slip text: slip), lets the user select whether the (link: /terms/sketch text: sketch) is converted to (link: /terms/shapes text: shapes) or stored the way it was originally drawn as (link: /terms/electronic-ink text: electronic ink).
 
 (image: /assets/images/quick-sketch-2x.gif alt: Screenshot of the Quick Sketch slip in Newton Works width: 316)
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [variable](/terms/variable) or [function](/terms/function) that is accessible from any [NewtonScript](/terms/newtonscript) code.
+A (link: /terms/variable text: variable) or (link: /terms/function text: function) that is accessible from any (link: /terms/newtonscript text: NewtonScript) code.
 
 ----
 

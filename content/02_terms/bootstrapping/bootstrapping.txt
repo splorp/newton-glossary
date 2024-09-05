@@ -8,7 +8,7 @@ Date: 22 April 2024
 
 Text:
 
-The process of installing [packages](/terms/package) on a Newton device without a serial or network connection. Usually performed using a [bootstrap card](/terms/bootstrap-card).
+The process of installing (link: /terms/package text: packages) on a Newton device without a serial or network connection. Usually performed using a (link: /terms/bootstrap-card text: bootstrap card).
 
 The term “bootstrap” refers to using the straps attached to boots in order to help put them on.
 

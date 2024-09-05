@@ -10,9 +10,9 @@ Text:
 
 Tiny Transport Protocol
 
-A lightweight communications [protocol](/terms/protocol) that lies on top of the [IrLMP](/terms/irlmp) layer. It provides transportation for large messages using flow control and a packet handling process known as segmentation and reassembly. The [IrCOMM](/terms/ircomm) communications protocol layer is built on the [TinyTP](/terms/tinytp) transport.
+A lightweight communications (link: /terms/protocol text: protocol) that lies on top of the (link: /terms/irlmp text: IrLMP) layer. It provides transportation for large messages using flow control and a packet handling process known as segmentation and reassembly. The (link: /terms/ircomm text: IrCOMM) communications protocol layer is built on the (link: /terms/tinytp text: TinyTP) transport.
 
-Also referred to as [IrTinyTP](/terms/irtinytp).
+Also referred to as (link: /terms/irtinytp text: IrTinyTP).
 
 ----
 

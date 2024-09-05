@@ -8,7 +8,7 @@ Date: 18 August 2024
 
 Text:
 
-See: [Newton 200](/terms/newton-200)
+See: (link: /terms/newton-200 text: Newton 200)
 
 ----
 

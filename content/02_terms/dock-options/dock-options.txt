@@ -8,15 +8,15 @@ Date: 29 December 2023
 
 Text:
 
-A [slip](/terms/slip) in the [Teacher Setup](/terms/teacher-setup) application that determines how an [eMate 300](/terms/emate-300) will connect to another computer.
+A (link: /terms/slip text: slip) in the (link: /terms/teacher-setup text: Teacher Setup) application that determines how an (link: /terms/emate-300 text: eMate 300) will connect to another computer.
 
 (image: /assets/images/dock-options-2x.gif alt: Screenshot of the Dock Options slip width: 236)
 
-Dock Options allows you to set the default [application](/terms/application) used to connect to another computer and the default computer that the eMate will connect to.
+Dock Options allows you to set the default (link: /terms/application text: application) used to connect to another computer and the default computer that the eMate will connect to.
 
-Selecting [Classroom Dock](/terms/classroom-dock) as the default [docking](/terms/docking) application allows you to connect to the [Classroom Exchange](/terms/classroom-exchange) software running on another computer.
+Selecting (link: /terms/classroom-dock text: Classroom Dock) as the default (link: /terms/docking text: docking) application allows you to connect to the (link: /terms/classroom-exchange text: Classroom Exchange) software running on another computer.
 
-Selecting [Dock](/terms/dock) as the default allows you to connect to [Newton Connection Utilities](/terms/newton-connection-utilities) or similar software.
+Selecting (link: /terms/dock text: Dock) as the default allows you to connect to (link: /terms/newton-connection-utilities text: Newton Connection Utilities) or similar software.
 
 ----
 

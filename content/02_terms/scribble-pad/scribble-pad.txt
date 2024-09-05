@@ -8,9 +8,9 @@ Date: 08 November 2017
 
 Text:
 
-A free-form input area found in the [Avi’s Backdrop](/terms/avis-backdrop) application which functions as a simple version of built-in Newton [Notepad](/terms/notepad).
+A free-form input area found in the [Avi’s Backdrop](/terms/avis-backdrop) application which functions as a simple version of built-in Newton (link: /terms/notepad text: Notepad).
 
-Steve Jobs was also reportedly heard referring to the Newton as a “scribble pad” or “[that scribble thing](/terms/that-scribble-thing)”.
+Steve Jobs was also reportedly heard referring to the Newton as a “scribble pad” or “(link: /terms/that-scribble-thing text: that scribble thing)”.
 
 ----
 

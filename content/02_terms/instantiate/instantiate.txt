@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-To make a runtime [object](/terms/object) in the [NewtonScript heap](/terms/newtonscript-heap) from a [template](/terms/template). Usually this term refers to the process of creating a [view](/terms/view) from a template.
+To make a runtime (link: /terms/object text: object) in the (link: /terms/newtonscript-heap text: NewtonScript heap) from a (link: /terms/template text: template). Usually this term refers to the process of creating a (link: /terms/view text: view) from a template.
 ----
 
 Related:

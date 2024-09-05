@@ -8,7 +8,7 @@ Date: 31 August 2017
 
 Text:
 
-An onscreen [keyboard](/terms/keyboard) that appears when the [keyboard button](/terms/keyboard-button) is [tapped](/terms/tapped). The time/date keyboard is designed for easily entering times and dates into [applications](/terms/application) such as [Date Book](/terms/date-book). Several other onscreen keyboards are available for entering specific types of data, including [Typewriter](/terms/typewriter), [Numeric](/terms/numeric), and [Phone](/terms/phone).
+An onscreen (link: /terms/keyboard text: keyboard) that appears when the (link: /terms/keyboard-button text: keyboard button) is (link: /terms/tapped text: tapped). The time/date keyboard is designed for easily entering times and dates into (link: /terms/application text: applications) such as (link: /terms/date-book text: Date Book). Several other onscreen keyboards are available for entering specific types of data, including (link: /terms/typewriter text: Typewriter), (link: /terms/numeric text: Numeric), and (link: /terms/phone text: Phone).
 
 (image: /assets/images/time-date-2x.gif alt: Screenshot of the Time/Date keyboard width: 119)
 

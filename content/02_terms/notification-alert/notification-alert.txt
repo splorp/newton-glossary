@@ -8,11 +8,11 @@ Date: 20 December 2023
 
 Text:
 
-An [alert box](/terms/alert-box) that appears on the [screen](/terms/screen) conveying information that is useful to the user but does not present any “far-reaching” consequences such as a loss of data. Some notification alerts have a [snooze button](/terms/snooze-button), which enables a user to temporarily dismiss the alert.
+An (link: /terms/alert-box text: alert box) that appears on the (link: /terms/screen text: screen) conveying information that is useful to the user but does not present any “far-reaching” consequences such as a loss of data. Some notification alerts have a (link: /terms/snooze-button text: snooze button), which enables a user to temporarily dismiss the alert.
 
-A notification alert includes a [close box](/terms/close-box) and can be accompanied by an [alert sound](/terms/alert-sound).
+A notification alert includes a (link: /terms/close-box text: close box) and can be accompanied by an (link: /terms/alert-sound text: alert sound).
 
-Also referred to as a [Notification Slip](/terms/notification-slip).
+Also referred to as a (link: /terms/notification-slip text: Notification Slip).
 
 (image: /assets/images/notification-alert-2x.gif alt: Screenshot of a Notification Alert width: 208)
 

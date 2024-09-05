@@ -10,7 +10,7 @@ Text:
 
 Worldwide Online Newton Conference
 
-A virtual, online gathering of Newton users, developers, and aficionados capturing the spirit of the previous [Worldwide Newton Conference](/terms/wwnc) events. Organized by [Pawel Piotrowski](/sources/pawel-piotrowski), the inaugural WONC was held in May 2020.
+A virtual, online gathering of Newton users, developers, and aficionados capturing the spirit of the previous (link: /terms/wwnc text: Worldwide Newton Conference) events. Organized by (link: /sources/pawel-piotrowski text: Pawel Piotrowski), the inaugural WONC was held in May 2020.
 
 ----
 

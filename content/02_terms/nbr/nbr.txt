@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Newton Book Reader](/terms/newton-book-reader)
+See: (link: /terms/newton-book-reader text: Newton Book Reader)

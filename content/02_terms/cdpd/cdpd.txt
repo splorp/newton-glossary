@@ -10,7 +10,7 @@ Text:
 
 Cellular Digital Packet Data
 
-A defunct wireless data service developed in the early 1990s. CDPD was available as a networking option in the ruggedized [Seahorse](/terms/seahorse) and [Tarpon](/terms/tarpon) devices manufactured by [Digital Ocean](https://web.archive.org/web/19970124001013/http://digitalocean.com/).
+A defunct wireless data service developed in the early 1990s. CDPD was available as a networking option in the ruggedized (link: /terms/seahorse text: Seahorse) and (link: /terms/tarpon text: Tarpon) devices manufactured by [Digital Ocean](https://web.archive.org/web/19970124001013/http://digitalocean.com/).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 26 June 2024
 
 Text:
 
-An option located in the [Handwriting Recognition](/terms/handwriting-recognition) section of the [Prefs](/terms/prefs) application which guides the user on how to [realign](/terms/realign) the [pen](/terms/pen) by [tapping](/terms/tapping) specific locations on the [screen](/terms/screen).
+An option located in the (link: /terms/handwriting-recognition text: Handwriting Recognition) section of the (link: /terms/prefs text: Prefs) application which guides the user on how to (link: /terms/realign text: realign) the (link: /terms/pen text: pen) by (link: /terms/tapping text: tapping) specific locations on the (link: /terms/screen text: screen).
 
 ----
 

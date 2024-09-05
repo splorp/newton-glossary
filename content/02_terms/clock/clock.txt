@@ -8,7 +8,7 @@ Date: 10 May 2024
 
 Text:
 
-The built-in [application](/terms/application) that displays the current time using an analog style clock face. The application allows the user to change the time and date, set daily alarms, and set minute timers. The clock also can be accessed by [tapping](/terms/tapping) the time and date that appears in the upper left corner of the [Notepad](/terms/notepad) application.
+The built-in (link: /terms/application text: application) that displays the current time using an analog style clock face. The application allows the user to change the time and date, set daily alarms, and set minute timers. The clock also can be accessed by (link: /terms/tapping text: tapping) the time and date that appears in the upper left corner of the (link: /terms/notepad text: Notepad) application.
 
 (image: /assets/images/clock-2x.gif alt: Screenshot of the Clock application width: 109)
 

@@ -8,4 +8,4 @@ Date: 30 August 2024
 
 Text:
 
-See: [Filename Extension](/terms/filename-extension)
+See: (link: /terms/filename-extension text: Filename Extension)

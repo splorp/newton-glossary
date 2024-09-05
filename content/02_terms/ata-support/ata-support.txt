@@ -8,7 +8,7 @@ Date: 28 September 2017
 
 Text:
 
-A [device driver](/terms/device-driver) developed by [Paul Guyot](/sources/paul-guyot) that allows a Newton device to use large capacity, non-linear [storage cards](/terms/storage-card) such as [CompactFlash](/terms/compactflash). ATA Support works with [ATA](/terms/ata) formatted [stores](/terms/store) under [Newton OS](/terms/newton-os) 2.0 and later.
+A (link: /terms/device-driver text: device driver) developed by (link: /sources/paul-guyot text: Paul Guyot) that allows a Newton device to use large capacity, non-linear (link: /terms/storage-card text: storage cards) such as (link: /terms/compactflash text: CompactFlash). ATA Support works with (link: /terms/ata text: ATA) formatted (link: /terms/store text: stores) under (link: /terms/newton-os text: Newton OS) 2.0 and later.
 
 ----
 

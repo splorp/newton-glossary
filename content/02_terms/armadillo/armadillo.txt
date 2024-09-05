@@ -8,9 +8,9 @@ Date: 15 October 2017
 
 Text:
 
-Reportedly, the last version of the NuBus-based Newton development card that facilitated the running of a Newton development environment on a Mac OS [desktop computer](/terms/desktop-computer).
+Reportedly, the last version of the NuBus-based Newton development card that facilitated the running of a Newton development environment on a Mac OS (link: /terms/desktop-computer text: desktop computer).
 
-The ARMadillo card was preceded by the [ARMageddon](/terms/armageddon) and [ARMistice](/terms/armistice) cards. The cards were so named because of the [ARM](/terms/arm) processor used in the Newton hardware.
+The ARMadillo card was preceded by the (link: /terms/armageddon text: ARMageddon) and (link: /terms/armistice text: ARMistice) cards. The cards were so named because of the (link: /terms/arm text: ARM) processor used in the Newton hardware.
 
 ----
 

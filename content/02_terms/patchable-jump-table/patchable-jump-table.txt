@@ -8,7 +8,7 @@ Date: 31 May 2001
 
 Text:
 
-A series of branching instructions directly pointing to native [Newton OS](/terms/newton-os) functions. These instructions are ordered differently depending on the version of the [ROM](/terms/rom). This [jump table](/terms/jump-table) can be partially replaced by [system patch pages](/terms/system-patch-pages), allowing [system patches](/terms/system-patch) to replace specific [operating system](/terms/operating-system) functions.
+A series of branching instructions directly pointing to native (link: /terms/newton-os text: Newton OS) functions. These instructions are ordered differently depending on the version of the (link: /terms/rom text: ROM). This (link: /terms/jump-table text: jump table) can be partially replaced by (link: /terms/system-patch-pages text: system patch pages), allowing (link: /terms/system-patch text: system patches) to replace specific (link: /terms/operating-system text: operating system) functions.
 
 ----
 

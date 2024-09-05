@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [NewtonTalk](/terms/newtontalk)
+See: (link: /terms/newtontalk text: NewtonTalk)

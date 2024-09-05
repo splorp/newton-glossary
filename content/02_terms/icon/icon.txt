@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A symbol that graphically represents an object or a concept. For example, icons in the [Extras Drawer](/terms/extras-drawer) represent [applications](/terms/application).
+A symbol that graphically represents an object or a concept. For example, icons in the (link: /terms/extras-drawer text: Extras Drawer) represent (link: /terms/application text: applications).
 
 ----
 

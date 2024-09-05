@@ -8,7 +8,7 @@ Date: 04 August 2024
 
 Text:
 
-See: [Lid](/terms/lid)
+See: (link: /terms/lid text: Lid)
 
 ----
 

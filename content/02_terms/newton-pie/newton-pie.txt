@@ -8,9 +8,9 @@ Date: 17 February 2024
 
 Text:
 
-A song written by [Avi Drissman](/sources/avi-drissman) in 1999 that was “dedicated to all the Newton engineers who made the Newton what it is” and sung to the tune of the [Don McLean](https://donmclean.com/) classic “American Pie”.
+A song written by (link: /sources/avi-drissman text: Avi Drissman) in 1999 that was “dedicated to all the Newton engineers who made the Newton what it is” and sung to the tune of the [Don McLean](https://donmclean.com/) classic “American Pie”.
 
-The “PIE” in the title references Apple’s [Personal Interactive Electronics](/terms/pie) division.
+The “PIE” in the title references Apple’s (link: /terms/pie text: Personal Interactive Electronics) division.
 
 ----
 

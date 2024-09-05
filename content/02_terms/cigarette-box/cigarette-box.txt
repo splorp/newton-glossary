@@ -8,4 +8,4 @@ Date: 24 August 2016
 
 Text:
 
-See: [Cigarette Pack](/terms/cigarette-pack)
+See: (link: /terms/cigarette-pack text: Cigarette Pack)

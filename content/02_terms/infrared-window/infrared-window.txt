@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-The transparent plastic panel covering the [infrared](/terms/infrared) port on a Newton device. Also referred to as a [beam window](/terms/beam-window) in earlier [MessagePad](/terms/messagepad) user manuals.
+The transparent plastic panel covering the (link: /terms/infrared text: infrared) port on a Newton device. Also referred to as a (link: /terms/beam-window text: beam window) in earlier (link: /terms/messagepad text: MessagePad) user manuals.
 
 ----
 

@@ -8,9 +8,9 @@ Date: 17 August 2024
 
 Text:
 
-A computer case design consisting of a base and a hinged lid which mimic the appearance of a clam or similar bivalve mollusk. The [eMate 300](/terms/emate-300) features a translucent clamshell style case.
+A computer case design consisting of a base and a hinged lid which mimic the appearance of a clam or similar bivalve mollusk. The (link: /terms/emate-300 text: eMate 300) features a translucent clamshell style case.
 
-In 1996, MacWeek magazine speculated on the release of Apple’s upcoming “Clamshell Newton” code named [Shay](/terms/shay).
+In 1996, MacWeek magazine speculated on the release of Apple’s upcoming “Clamshell Newton” code named (link: /terms/shay text: Shay).
 
 ----
 

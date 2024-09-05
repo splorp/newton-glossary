@@ -8,7 +8,7 @@ Date: 21 November 2004
 
 Text:
 
-A tool created by [Paul Guyot](/sources/paul-guyot) for the [Macintosh Programmers Workshop](/terms/macintosh-programmers-workshop) (MPW) development environment, facilitating the disassembly of [ARM](/terms/arm) processor code found in the [Newton OS](/terms/newton-os) ROM. Described by its author as a “quick hack” — at least when compared to the more polished, but unreleased [Better Disarm](/terms/better-disarm) tool.
+A tool created by (link: /sources/paul-guyot text: Paul Guyot) for the (link: /terms/macintosh-programmers-workshop text: Macintosh Programmers Workshop) (MPW) development environment, facilitating the disassembly of (link: /terms/arm text: ARM) processor code found in the (link: /terms/newton-os text: Newton OS) ROM. Described by its author as a “quick hack” — at least when compared to the more polished, but unreleased (link: /terms/better-disarm text: Better Disarm) tool.
 
 ----
 

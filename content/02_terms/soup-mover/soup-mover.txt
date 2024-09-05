@@ -8,7 +8,7 @@ Date: 29 November 2017
 
 Text:
 
-An [extension](/terms/extension) created by [Eckhart Köppen](/sources/eckhart-koppen) that enables access to a filing [slip](/terms/slip) in the Storage [folder](/terms/folder) in the [Extras Drawer](/terms/extras-drawer). Soup Mover allows the user to easily move [soup](/terms/soup) entries to a specified [store](/terms/store).
+An (link: /terms/extension text: extension) created by (link: /sources/eckhart-koppen text: Eckhart Köppen) that enables access to a filing (link: /terms/slip text: slip) in the Storage (link: /terms/folder text: folder) in the (link: /terms/extras-drawer text: Extras Drawer). Soup Mover allows the user to easily move (link: /terms/soup text: soup) entries to a specified (link: /terms/store text: store).
 
 ----
 

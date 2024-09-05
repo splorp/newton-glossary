@@ -8,9 +8,9 @@ Date: 07 August 2024
 
 Text:
 
-A [latch](/terms/latch) located on [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices which releases the [battery pack](/terms/battery-pack) or [battery tray](/terms/battery-tray), allowing it to be removed.
+A (link: /terms/latch text: latch) located on (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices which releases the (link: /terms/battery-pack text: battery pack) or (link: /terms/battery-tray text: battery tray), allowing it to be removed.
 
-Also referred to as a [battery compartment latch](/terms/battery-compartment-latch).
+Also referred to as a (link: /terms/battery-compartment-latch text: battery compartment latch).
 
 ----
 

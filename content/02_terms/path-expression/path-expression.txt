@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), an [object](/terms/object) that encapsulates an access path through a set of [arrays](/terms/array) or [frames](/terms/frame).
+In (link: /terms/newtonscript text: NewtonScript), an (link: /terms/object text: object) that encapsulates an access path through a set of (link: /terms/array text: arrays) or (link: /terms/frame text: frames).
 
 ----
 

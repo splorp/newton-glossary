@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The [filename extension](/terms/filename-extension) used to identify [backup files](/terms/backup-file) created by the [Newton Connection](/terms/newton-connection) application.
+The (link: /terms/filename-extension text: filename extension) used to identify (link: /terms/backup-file text: backup files) created by the (link: /terms/newton-connection text: Newton Connection) application.
 
 ----
 

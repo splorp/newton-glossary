@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [data link layer](/terms/data-link-layer) driver that allows Newton [applications](/terms/application) to use specific hardware (typically an [ethernet](/terms/ethernet) card) in conjunction with the [Lantern Library](/terms/lantern-library) incorporated into the [Newton Devices](newton-devices) package.
+A (link: /terms/data-link-layer text: data link layer) driver that allows Newton (link: /terms/application text: applications) to use specific hardware (typically an (link: /terms/ethernet text: ethernet) card) in conjunction with the (link: /terms/lantern-library text: Lantern Library) incorporated into the [Newton Devices](newton-devices) package.
 
 ----
 

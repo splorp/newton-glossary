@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An extendable [RJ-11](/terms/rj-11) connector found on [PC card](/terms/pc-card) modems.
+An extendable (link: /terms/rj-11 text: RJ-11) connector found on (link: /terms/pc-card text: PC card) modems.
 
 ----
 

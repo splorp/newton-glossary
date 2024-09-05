@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A range of hardware and software products by [EZShow Systems](/sources/ezshow-systems) that allow certain Newton devices to display content on external video screens. Products include the [EZ2TV](/terms/ez2tv) and [EZ2VGA](/terms/ez2vga) PC cards, as well as the [EZPresenter](/terms/ezpresenter) presentation software.
+A range of hardware and software products by (link: /sources/ezshow-systems text: EZShow Systems) that allow certain Newton devices to display content on external video screens. Products include the (link: /terms/ez2tv text: EZ2TV) and (link: /terms/ez2vga text: EZ2VGA) PC cards, as well as the (link: /terms/ezpresenter text: EZPresenter) presentation software.
 
 ----
 

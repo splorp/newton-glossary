@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A small piece of code designed to modify or update certain aspects of an [operating system](/terms/operating-system) or larger [application](/terms/application).
+A small piece of code designed to modify or update certain aspects of an (link: /terms/operating-system text: operating system) or larger (link: /terms/application text: application).
 
 ----
 

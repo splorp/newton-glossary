@@ -8,7 +8,7 @@ Date: 27 April 2017
 
 Text:
 
-A Newton focused “bulletin board” found in the Developer Support area of the [AppleLink](/terms/applelink) online service. Maintained by Apple’s [PIE](/terms/pie) (Personal Interactive Electronics) division, PIE Developer Info provided downloadable development tools, documentation, sample code, and other developer support information.
+A Newton focused “bulletin board” found in the Developer Support area of the (link: /terms/applelink text: AppleLink) online service. Maintained by Apple’s (link: /terms/pie text: PIE) (Personal Interactive Electronics) division, PIE Developer Info provided downloadable development tools, documentation, sample code, and other developer support information.
 
 ----
 

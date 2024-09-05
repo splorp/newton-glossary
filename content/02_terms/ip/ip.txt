@@ -10,7 +10,7 @@ Text:
 
 Internet Protocol
 
-Part of the [TCP/IP](/terms/tcp-ip) communications [protocol](/terms/protocol). IP implements the network layer containing a network address and is used to route messages to different networks.
+Part of the [TCP/IP](/terms/tcp-ip) communications (link: /terms/protocol text: protocol). IP implements the network layer containing a network address and is used to route messages to different networks.
 
 ----
 

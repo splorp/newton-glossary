@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-A brand name used by [Apple](https://www.apple.com/) in Japan for their version of the [802.11](/terms/802-11) wireless communication card, the [AirPort](/terms/airport).
+A brand name used by [Apple](https://www.apple.com/) in Japan for their version of the [802.11](/terms/802-11) wireless communication card, the (link: /terms/airport text: AirPort).
 
 ----
 

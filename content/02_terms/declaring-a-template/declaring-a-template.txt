@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), registering a [template](/terms/template) in another [view](/terms/view) (usually its [parent](/terms/parent)) so that the template view is preallocated when the other view is opened. This allows access to [methods](/terms/method) and [slots](/terms/slot) in the declared view.
+In (link: /terms/newtonscript text: NewtonScript), registering a (link: /terms/template text: template) in another (link: /terms/view text: view) (usually its (link: /terms/parent text: parent)) so that the template view is preallocated when the other view is opened. This allows access to (link: /terms/method text: methods) and (link: /terms/slot text: slots) in the declared view.
 
 ----
 

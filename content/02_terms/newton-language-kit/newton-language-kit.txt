@@ -8,9 +8,9 @@ Date: 06 February 2024
 
 Text:
 
-Software developed by [Enfour](/sources/enfour) that provided a Japanese language environment for devices running [Newton OS](/terms/newton-os) 2.1. Although focused on Japanese, Newton Language Kit was designed to support multiple languages.
+Software developed by (link: /sources/enfour text: Enfour) that provided a Japanese language environment for devices running (link: /terms/newton-os text: Newton OS) 2.1. Although focused on Japanese, Newton Language Kit was designed to support multiple languages.
 
-Also abbreviated as [NLK](/terms/nlk).
+Also abbreviated as (link: /terms/nlk text: NLK).
 
 ----
 

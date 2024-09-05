@@ -8,7 +8,7 @@ Date: 19 August 2017
 
 Text:
 
-Providing [AppleTalk](/terms/appletalk) networking to devices over a wireless connection.
+Providing (link: /terms/appletalk text: AppleTalk) networking to devices over a wireless connection.
 
 ----
 

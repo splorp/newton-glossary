@@ -8,7 +8,7 @@ Date: 26 October 2017
 
 Text:
 
-A [folder](/terms/folder) in the [Extras Drawer](/terms/extras-drawer) containing [application](/terms/application) and other [package](/terms/package) icons which have not been filed in another folder.
+A (link: /terms/folder text: folder) in the (link: /terms/extras-drawer text: Extras Drawer) containing (link: /terms/application text: application) and other (link: /terms/package text: package) icons which have not been filed in another folder.
 
 ----
 

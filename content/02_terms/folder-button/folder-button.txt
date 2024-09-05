@@ -8,9 +8,9 @@ Date: 20 August 2017
 
 Text:
 
-A [button](/terms/button) located in the [Notepad](/terms/note), [Name File](/terms/name-file), [Extras Drawer](/terms/extras-drawer), and other [applications](/terms/application) that allows the user to file items into [folders](/terms/folder). When [tapped](/terms/tapped), it displays a [folder slip](/terms/folder-slip) listing the folders where selected items can be filed.
+A (link: /terms/button text: button) located in the (link: /terms/note text: Notepad), (link: /terms/name-file text: Name File), (link: /terms/extras-drawer text: Extras Drawer), and other (link: /terms/application text: applications) that allows the user to file items into (link: /terms/folder text: folders). When (link: /terms/tapped text: tapped), it displays a (link: /terms/folder-slip text: folder slip) listing the folders where selected items can be filed.
 
-Also referred to as a [Filing Button](/terms/filing-button).
+Also referred to as a (link: /terms/filing-button text: Filing Button).
 
 ----
 

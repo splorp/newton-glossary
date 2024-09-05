@@ -8,7 +8,7 @@ Date: 10 January 2024
 
 Text:
 
-A [binary object](/terms/binary-object) stored in a [slot](/terms/slot) of a [sound frame](/terms/sound-frame) consisting of a sound supplied through the use of an analog to digital converter.
+A (link: /terms/binary-object text: binary object) stored in a (link: /terms/slot text: slot) of a (link: /terms/sound-frame text: sound frame) consisting of a sound supplied through the use of an analog to digital converter.
 
 ----
 

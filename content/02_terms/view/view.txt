@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a visual [object](/terms/object) on the [screen](/terms/screen), including but not limited to a [container view](/terms/container-view). For example, [text buttons](/terms/text-button), [pickers](/terms/picker), and [input areas](/terms/input-area) are also views. Each view is internally represented by a [template](/terms/template).
+In (link: /terms/newtonscript text: NewtonScript), a visual (link: /terms/object text: object) on the (link: /terms/screen text: screen), including but not limited to a (link: /terms/container-view text: container view). For example, (link: /terms/text-button text: text buttons), (link: /terms/picker text: pickers), and (link: /terms/input-area text: input areas) are also views. Each view is internally represented by a (link: /terms/template text: template).
 
 ----
 

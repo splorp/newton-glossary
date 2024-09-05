@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An [input area](/terms/input-area) in a [container view](/terms/container-view) where a user can write one line of text.
+An (link: /terms/input-area text: input area) in a (link: /terms/container-view text: container view) where a user can write one line of text.
 
 ----
 

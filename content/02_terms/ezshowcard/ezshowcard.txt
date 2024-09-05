@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A [Newton OS](/terms/newton-os) driver [package](/terms/package) that works in conjunction with the [EZPresenter](/terms/ezpresenter) presentation software.
+A (link: /terms/newton-os text: Newton OS) driver (link: /terms/package text: package) that works in conjunction with the (link: /terms/ezpresenter text: EZPresenter) presentation software.
 
 ----
 

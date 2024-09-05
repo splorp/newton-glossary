@@ -8,7 +8,7 @@ Date: 31 May 2001
 
 Text:
 
-An input [container view](/terms/container-view) that allows the user to enter a term or phrase to be located within the data stored on a Newton device.
+An input (link: /terms/container-view text: container view) that allows the user to enter a term or phrase to be located within the data stored on a Newton device.
 
 (image: /assets/images/find-slip-2x.gif alt: Screenshot of the Find Slip width: 320)
 

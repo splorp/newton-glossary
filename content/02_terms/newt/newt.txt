@@ -10,9 +10,9 @@ Text:
 
 An affectionate nickname for a Newton device.
 
-Newt was also the nickname of the scaled back development project that formed after the [Dylan](/terms/dylan) programming language failed to be a viable means to develop the Newton [operating system](/terms/operating-system).
+Newt was also the nickname of the scaled back development project that formed after the (link: /terms/dylan text: Dylan) programming language failed to be a viable means to develop the Newton (link: /terms/operating-system text: operating system).
 
-Steve Weyer’s [NewtDevEnv](/terms/newtdevenv) application development framework also goes by the name of Newt.
+Steve Weyer’s (link: /terms/newtdevenv text: NewtDevEnv) application development framework also goes by the name of Newt.
 
 ----
 

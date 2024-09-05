@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A visually distinct [Newton user interface](/terms/newton-user-interface) element consisting of a thick grey border framed with black. A matte border indicates a [view](/terms/view) that can be moved by the user. For example, a [slip](/terms/slip) will commonly use a matte border.
+A visually distinct (link: /terms/newton-user-interface text: Newton user interface) element consisting of a thick grey border framed with black. A matte border indicates a (link: /terms/view text: view) that can be moved by the user. For example, a (link: /terms/slip text: slip) will commonly use a matte border.
 
 ----
 

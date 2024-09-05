@@ -10,7 +10,7 @@ Text:
 
 Infrared Link Access Protocol
 
-The mandatory link access layer of the [IrDA](/terms/irda) communications [protocol](/terms/protocol) specification. IrLAP is built on top of either [Slow Infrared](/terms/slow-infrared) (SIR) and [Fast Infrared](/terms/fast-infrared) (FIR).
+The mandatory link access layer of the (link: /terms/irda text: IrDA) communications (link: /terms/protocol text: protocol) specification. IrLAP is built on top of either (link: /terms/slow-infrared text: Slow Infrared) (SIR) and (link: /terms/fast-infrared text: Fast Infrared) (FIR).
 
 ----
 

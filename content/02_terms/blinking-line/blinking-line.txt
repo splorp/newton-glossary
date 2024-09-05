@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A flashing vertical line indicating where new text will be inserted. More commonly referred to as a [cursor](/terms/cursor). The blinking line is only used in [Newton OS](/terms/newton-os) 1.3 and earlier. Later versions of Newton OS use a [caret](/terms/caret) cursor to indicate where new text will be inserted.
+A flashing vertical line indicating where new text will be inserted. More commonly referred to as a (link: /terms/cursor text: cursor). The blinking line is only used in (link: /terms/newton-os text: Newton OS) 1.3 and earlier. Later versions of Newton OS use a (link: /terms/caret text: caret) cursor to indicate where new text will be inserted.
 
 ----
 

@@ -8,4 +8,4 @@ Date: 06 October 2002
 
 Text:
 
-See: [Nipples](/terms/nipples)
+See: (link: /terms/nipples text: Nipples)

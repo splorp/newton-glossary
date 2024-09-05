@@ -8,13 +8,13 @@ Date: 10 July 2024
 
 Text:
 
-A method of wireless communication where a hardware transmitter floods an area with [infrared](/terms/infrared) signals that bounce off local surfaces such as the ceiling, walls, and furniture in a room.
+A method of wireless communication where a hardware transmitter floods an area with (link: /terms/infrared text: infrared) signals that bounce off local surfaces such as the ceiling, walls, and furniture in a room.
 
 Because the infrared signal is scattered, computers and other devices with infrared receivers do not require a direct line of sight with the transmitter. Similarly, a person moving around in the same area will not interfere with the signal. Since most of the infrared light transmitted never actually reaches a receiver, diffuse infrared is not known for its power efficiency.
 
-Phototonics Corporation developed a product called Cooperative that consisted of hardware a [transceiver](/terms/transceiver) which provided diffuse [infrared AppleTalk](/terms/infrared-appletalk) connections between Mac OS computers, [Newton OS](/terms/newton-os) devices, and other peripherals.
+Phototonics Corporation developed a product called Cooperative that consisted of hardware a (link: /terms/transceiver text: transceiver) which provided diffuse (link: /terms/infrared-appletalk text: infrared AppleTalk) connections between Mac OS computers, (link: /terms/newton-os text: Newton OS) devices, and other peripherals.
 
-Also known as [Diffuse IR](/terms/diffuse-ir).
+Also known as (link: /terms/diffuse-ir text: Diffuse IR).
 
 ----
 

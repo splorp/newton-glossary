@@ -8,9 +8,9 @@ Date: 04 August 2024
 
 Text:
 
-A movable panel located on an [eMate 300](/terms/emate-300) device that covers the [communication ports](/terms/communication-port). Sliding the panel one direction reveals a [Mini-DIN](/terms/mini-din) serial port, while sliding it the other direction reveals a [Newton InterConnect](/terms/newton-interconnect) port.
+A movable panel located on an (link: /terms/emate-300 text: eMate 300) device that covers the (link: /terms/communication-port text: communication ports). Sliding the panel one direction reveals a (link: /terms/mini-din text: Mini-DIN) serial port, while sliding it the other direction reveals a (link: /terms/newton-interconnect text: Newton InterConnect) port.
 
-Also referred to as a [Door](/terms/door) or [Sliding Door](/terms/sliding-door).
+Also referred to as a (link: /terms/door text: Door) or (link: /terms/sliding-door text: Sliding Door).
 
 ----
 

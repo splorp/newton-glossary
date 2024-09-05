@@ -8,7 +8,7 @@ Date: 07 August 2024
 
 Text:
 
-A [latch](/terms/latch) located on [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices which releases the protective [lid](/terms/lid) or [screen](/terms/screen) cover, allowing it to be opened.
+A (link: /terms/latch text: latch) located on (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices which releases the protective (link: /terms/lid text: lid) or (link: /terms/screen text: screen) cover, allowing it to be opened.
 
 ----
 

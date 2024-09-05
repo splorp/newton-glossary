@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A menu or [list](/terms/list) of choices that appears when the user [taps](/terms/tap) an adjacent text label marked by a solid [diamond](/terms/diamond). A picker can also appear when a user taps a [button](/terms/button) such as a [routing button](/terms/routing-button). The user [selects](/terms/select) one of the items in the list by [tapping](/terms/tapping) it.
+A menu or (link: /terms/list text: list) of choices that appears when the user (link: /terms/tap text: taps) an adjacent text label marked by a solid (link: /terms/diamond text: diamond). A picker can also appear when a user taps a (link: /terms/button text: button) such as a (link: /terms/routing-button text: routing button). The user (link: /terms/select text: selects) one of the items in the list by (link: /terms/tapping text: tapping) it.
 
 ----
 

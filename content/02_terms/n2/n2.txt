@@ -8,9 +8,9 @@ Date: 31 May 2001
 
 Text:
 
-The code name of the low cost, high performance hardware platform built on the [Voyager](/terms/voyager) chipset and the base platform for the [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices. The N2 platform could theoretically support up to four [PCMCIA](/terms/pcmcia) slots, 4MB of [DRAM](/terms/dram), 12MB of [Flash RAM](/terms/flash-ram), and 16MB of [ROM](/terms/rom). The platform was developed with third-party licensing in mind.
+The code name of the low cost, high performance hardware platform built on the (link: /terms/voyager text: Voyager) chipset and the base platform for the (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices. The N2 platform could theoretically support up to four (link: /terms/pcmcia text: PCMCIA) slots, 4MB of (link: /terms/dram text: DRAM), 12MB of (link: /terms/flash-ram text: Flash RAM), and 16MB of (link: /terms/rom text: ROM). The platform was developed with third-party licensing in mind.
 
-N2 was also one of the code names for the [MessagePad 2000](/terms/messagepad-2000).
+N2 was also one of the code names for the (link: /terms/messagepad-2000 text: MessagePad 2000).
 
 ----
 

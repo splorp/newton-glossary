@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a sequence of numerically indexed [slots](/terms/slot) that contain [objects](/terms/object). The first element is indexed by zero. Like other nonimmediate objects, an array can have a user-specified [class](/terms/class), and can have its length changed dynamically.
+In (link: /terms/newtonscript text: NewtonScript), a sequence of numerically indexed (link: /terms/slot text: slots) that contain (link: /terms/object text: objects). The first element is indexed by zero. Like other nonimmediate objects, an array can have a user-specified (link: /terms/class text: class), and can have its length changed dynamically.
 
-Also referred to as [Array Elements](/terms/array-elements).
+Also referred to as (link: /terms/array-elements text: Array Elements).
 
 ----
 

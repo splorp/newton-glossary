@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-The standard rules and conventions for interacting with Newton devices, as set out in the [Newton User Interface Guidelines](/sources/newton-user-interface-guidelines) documentation. The [user interface](/terms/user-interface) provides a consistent means of interacting with all Newton devices and any [applications](/terms/application) designed to run on those devices.
+The standard rules and conventions for interacting with Newton devices, as set out in the (link: /sources/newton-user-interface-guidelines text: Newton User Interface Guidelines) documentation. The (link: /terms/user-interface text: user interface) provides a consistent means of interacting with all Newton devices and any (link: /terms/application text: applications) designed to run on those devices.
 
-Also referred to as the [NUI](/terms/nui).
+Also referred to as the (link: /terms/nui text: NUI).
 
 ----
 

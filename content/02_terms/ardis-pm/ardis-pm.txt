@@ -8,7 +8,7 @@ Date: 04 June 2024
 
 Text:
 
-See: [ARDIS Personal Messaging](/terms/ardis-personal-messaging)
+See: (link: /terms/ardis-personal-messaging text: ARDIS Personal Messaging)
 
 ----
 

@@ -8,7 +8,7 @@ Date: 27 January 2017
 
 Text:
 
-A software [package](/terms/package) that provides a simple [API](/terms/api) for parsing [XML](/terms/xml) and HTML data on a Newton device. Developed by [Eckhart Köppen](/sources/eckhart-koppen), ntox is based on the original [tox](http://40hz.org/tox/) tokenizer. Several applications, including the [Courier](/terms/courier) web browser and the [Raissa](/terms/raissa) RSS reader, require ntox to do their job.
+A software (link: /terms/package text: package) that provides a simple (link: /terms/api text: API) for parsing (link: /terms/xml text: XML) and HTML data on a Newton device. Developed by (link: /sources/eckhart-koppen text: Eckhart Köppen), ntox is based on the original [tox](http://40hz.org/tox/) tokenizer. Several applications, including the (link: /terms/courier text: Courier) web browser and the (link: /terms/raissa text: Raissa) RSS reader, require ntox to do their job.
 
 ----
 

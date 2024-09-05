@@ -8,11 +8,11 @@ Date: 30 October 2001
 
 Text:
 
-A small piece of software that is installed on a Newton device to modify or update certain aspects of the [ROM](/terms/rom)-based [operating system](/terms/operating-system).
+A small piece of software that is installed on a Newton device to modify or update certain aspects of the (link: /terms/rom text: ROM)-based (link: /terms/operating-system text: operating system).
 
-Also referred to as a [System Update](/terms/system-update).
+Also referred to as a (link: /terms/system-update text: System Update).
 
-System Patch is also the rather generic name of a software [extension](/terms/extension) for [Newton OS](/terms/newton-os) created by [Richard Li](/sources/richard-li) which addresses several bugs introduced in version 2.1 of the operating system. The [package](/terms/package) containing the System Patch software is actually named [SysPatch](/terms/syspatch).
+System Patch is also the rather generic name of a software (link: /terms/extension text: extension) for (link: /terms/newton-os text: Newton OS) created by (link: /sources/richard-li text: Richard Li) which addresses several bugs introduced in version 2.1 of the operating system. The (link: /terms/package text: package) containing the System Patch software is actually named (link: /terms/syspatch text: SysPatch).
 
 ----
 

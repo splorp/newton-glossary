@@ -8,7 +8,7 @@ Date: 19 September 2017
 
 Text:
 
-An [application](/terms/application) used for setting the user’s current location and determining the time in various cities around the world.
+An (link: /terms/application text: application) used for setting the user’s current location and determining the time in various cities around the world.
 
 ----
 

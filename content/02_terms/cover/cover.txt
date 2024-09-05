@@ -8,7 +8,7 @@ Date: 04 August 2024
 
 Text:
 
-See: [Battery Cover](/terms/battery-cover), [Door](/terms/door), and [Lid](/terms/lid)
+See: (link: /terms/battery-cover text: Battery Cover), (link: /terms/door text: Door), and (link: /terms/lid text: Lid)
 
 ----
 

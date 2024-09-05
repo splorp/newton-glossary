@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A circular or elliptical [shape](/terms/shape) defined by the bounding [rectangle](/terms/rectangle) that encloses it.
+A circular or elliptical (link: /terms/shape text: shape) defined by the bounding (link: /terms/rectangle text: rectangle) that encloses it.
 
 ----
 

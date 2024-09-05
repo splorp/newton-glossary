@@ -10,9 +10,9 @@ Text:
 
 Round Metal Piece
 
-According to [Frank Gründel](/sources/frank-grundel), a component found in a [MessagePad 2000](/terms/messagepad-2000) or [MessagePad 2100](/terms/messagepad-2100) MP2x00 battery pack when being refurbished or [recelled](/terms/recelled).
+According to (link: /sources/frank-grundel text: Frank Gründel), a component found in a (link: /terms/messagepad-2000 text: MessagePad 2000) or (link: /terms/messagepad-2100 text: MessagePad 2100) MP2x00 battery pack when being refurbished or (link: /terms/recelled text: recelled).
 
-As known as the [krM](/terms/krm) or “kleines rundes Metallstück” in German.
+As known as the (link: /terms/krm text: krM) or “kleines rundes Metallstück” in German.
 
 ----
 

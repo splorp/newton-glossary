@@ -10,7 +10,7 @@ Text:
 
 Dynamic Host Configuration Protocol
 
-A [protocol](/terms/protocol) that dynamically allocates [IP](/terms/ip) addresses to computers on a network.
+A (link: /terms/protocol text: protocol) that dynamically allocates (link: /terms/ip text: IP) addresses to computers on a network.
 
 ----
 

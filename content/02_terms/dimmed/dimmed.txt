@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-Describes words, objects, or other elements of the [user interface](/terms/user-interface) that appear grey or dimmer than the rest of the interface. In a Newton [application](/terms/application), text or objects (such as [buttons](/terms/button)) that are disabled or inactive are generally hidden rather than dimmed.
+Describes words, objects, or other elements of the (link: /terms/user-interface text: user interface) that appear grey or dimmer than the rest of the interface. In a Newton (link: /terms/application text: application), text or objects (such as (link: /terms/button text: buttons)) that are disabled or inactive are generally hidden rather than dimmed.
 
 ----
 

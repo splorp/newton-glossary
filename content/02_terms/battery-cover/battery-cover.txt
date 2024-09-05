@@ -8,9 +8,9 @@ Date: 05 August 2024
 
 Text:
 
-A removable part on a [MessagePad](/terms/messagepad) device or [eMate 300](/terms/emate-300) which covers the area where individual [batteries](/terms/battery) or a [battery pack](/terms/battery-pack) are stored.
+A removable part on a (link: /terms/messagepad text: MessagePad) device or (link: /terms/emate-300 text: eMate 300) which covers the area where individual (link: /terms/battery text: batteries) or a (link: /terms/battery-pack text: battery pack) are stored.
 
-Also referred to as an [Access Cover](/terms/access-cover), [Access Door](/terms/access-door), [Battery Access Cover](/terms/battery-access-cover), [Battery Compartment Cover](/terms/battery-compartment-cover), or [Cover](/terms/cover).
+Also referred to as an (link: /terms/access-cover text: Access Cover), (link: /terms/access-door text: Access Door), (link: /terms/battery-access-cover text: Battery Access Cover), (link: /terms/battery-compartment-cover text: Battery Compartment Cover), or (link: /terms/cover text: Cover).
 
 ----
 

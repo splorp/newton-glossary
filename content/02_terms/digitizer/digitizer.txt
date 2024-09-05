@@ -10,7 +10,7 @@ Text:
 
 An electronic device that obtains, processes, and records digital information originating from an analog source, such as light, sound, touch, or pressure.
 
-For example, when the [touch screen](/terms/touch-screen) display on a Newton device is [tapped](/terms/tapped) with a [pen](/terms/pen), the integrated digitizer senses the change in resistance between two conductive sheets of plastic. That change in resistance indicates the position of the pen on the [screen](/terms/screen) which is then processed by the [operating system](/terms/operating-system).
+For example, when the (link: /terms/touch-screen text: touch screen) display on a Newton device is (link: /terms/tapped text: tapped) with a (link: /terms/pen text: pen), the integrated digitizer senses the change in resistance between two conductive sheets of plastic. That change in resistance indicates the position of the pen on the (link: /terms/screen text: screen) which is then processed by the (link: /terms/operating-system text: operating system).
 
 ----
 

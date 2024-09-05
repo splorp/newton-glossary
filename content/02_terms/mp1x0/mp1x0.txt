@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A shorthand term used when referring to the [MessagePad 110](/terms/messagepad-110), [MessagePad 120](/terms/messagepad-120), and [MessagePad 130](/terms/messagepad-130) devices, which all share the same case design.
+A shorthand term used when referring to the (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), and (link: /terms/messagepad-130 text: MessagePad 130) devices, which all share the same case design.
 
 ----
 

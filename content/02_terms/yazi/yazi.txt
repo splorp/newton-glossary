@@ -10,9 +10,9 @@ Text:
 
 Yet Another Z Interpreter
 
-A text adventure engine developed by [Scrawl Software](/sources/scrawl-software) which reads [packages](/terms/package) containing source data, allowing you to play classic games such as Zork, Planetfall, and Enchanter on a Newton device.
+A text adventure engine developed by (link: /sources/scrawl-software text: Scrawl Software) which reads (link: /terms/package text: packages) containing source data, allowing you to play classic games such as Zork, Planetfall, and Enchanter on a Newton device.
 
-The YAZI [application](/terms/application) is a [bytecode](/terms/bytecode) interpreter for games written using the Zork Implementation Language (ZIL) which shares similarities with the [LISP](/terms/lisp) programming language.
+The YAZI (link: /terms/application text: application) is a (link: /terms/bytecode text: bytecode) interpreter for games written using the Zork Implementation Language (ZIL) which shares similarities with the (link: /terms/lisp text: LISP) programming language.
 
 (image: /assets/images/yazi-2x.gif alt: Screenshot of YAZI width: 242)
 

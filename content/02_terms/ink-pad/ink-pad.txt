@@ -8,9 +8,9 @@ Date: 15 January 2023
 
 Text:
 
-An area of the [Ink Window](/terms/ink-window) where written input is converted into editable text using the [Ink](/terms/ink) handwriting recognition system on certain versions of Mac OS X. The Ink Pad can also be used to insert drawn sketches into documents.
+An area of the (link: /terms/ink-window text: Ink Window) where written input is converted into editable text using the (link: /terms/ink text: Ink) handwriting recognition system on certain versions of Mac OS X. The Ink Pad can also be used to insert drawn sketches into documents.
 
-Also referred to as [InkPad](/terms/inkpad).
+Also referred to as (link: /terms/inkpad text: InkPad).
 
 (image: /assets/images/ink-pad-jaguar-2x.gif alt: Screenshot of the Ink Pad in Mac OS X Jaguar width: 337)
 

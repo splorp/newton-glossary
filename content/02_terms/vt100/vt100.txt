@@ -10,7 +10,7 @@ Text:
 
 A video terminal developed by Digital Equipment Corporation (DEC) that was the first to support ANSI control codes, the eventual standard for other hardware terminals and terminal emulators.
 
-[PT100](/terms/pt100) is terminal emulator [application](/terms/application) for [Newton OS](/terms/newton-os) that is based on the VT100 standard.
+(link: /terms/pt100 text: PT100) is terminal emulator (link: /terms/application text: application) for (link: /terms/newton-os text: Newton OS) that is based on the VT100 standard.
 
 ----
 

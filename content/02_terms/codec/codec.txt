@@ -8,7 +8,7 @@ Date: 23 March 2017
 
 Text:
 
-Hardware or software that converts analogue information into its digital equivalent or digital information into its analogue equivalent. On a Newton device, the built-in codecs include muLaw, IMA, GSM, and a synthesizer codec for sound generation. The [MacinTalk](/terms/macintalk) extension provides a an additional codec which converts [recognized text](/terms/recognized-text) into synthesized speech.
+Hardware or software that converts analogue information into its digital equivalent or digital information into its analogue equivalent. On a Newton device, the built-in codecs include muLaw, IMA, GSM, and a synthesizer codec for sound generation. The (link: /terms/macintalk text: MacinTalk) extension provides a an additional codec which converts (link: /terms/recognized-text text: recognized text) into synthesized speech.
 
 Codec is acronym of “coder-decoder” or “compressor-decompressor” depending on the application.
 

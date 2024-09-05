@@ -8,7 +8,7 @@ Date: 29 July 2024
 
 Text:
 
-See: [Zig-Zag](/terms/zig-zag)
+See: (link: /terms/zig-zag text: Zig-Zag)
 
 ----
 

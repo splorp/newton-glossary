@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A piece of [NewtonScript](/terms/newtonscript) code attached to a [layout](/terms/layout) in a [Newton book](/terms/newton-book) source file. As an example, [scripts](/terms/script) can be used to draw a different background or handle special [pen](/terms/pen) events pertaining to a content item or page. The actions defined in [content scripts](/terms/content-script) override those in page scripts, just as page scripts take precedence over [book scripts](/terms/book-script).
+A piece of (link: /terms/newtonscript text: NewtonScript) code attached to a (link: /terms/layout text: layout) in a (link: /terms/newton-book text: Newton book) source file. As an example, (link: /terms/script text: scripts) can be used to draw a different background or handle special (link: /terms/pen text: pen) events pertaining to a content item or page. The actions defined in (link: /terms/content-script text: content scripts) override those in page scripts, just as page scripts take precedence over (link: /terms/book-script text: book scripts).
 
 ----
 

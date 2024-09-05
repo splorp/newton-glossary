@@ -10,7 +10,7 @@ Text:
 
 Dynamic Random Access Memory
 
-A type of [RAM](/terms/ram) that requires power to maintain the storage of information. A DRAM circuit typically uses a transistor and a capacitor to represent a bit. The capacitors must be energized hundreds of times per second in order to maintain their charge.
+A type of (link: /terms/ram text: RAM) that requires power to maintain the storage of information. A DRAM circuit typically uses a transistor and a capacitor to represent a bit. The capacitors must be energized hundreds of times per second in order to maintain their charge.
 
 ----
 

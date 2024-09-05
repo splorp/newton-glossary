@@ -8,9 +8,9 @@ Date: 23 November 2017
 
 Text:
 
-A simplified version of the [QuickFigure Pro](/terms/quickfigure-pro) application developed by [PelicanWare](/sources/pelicanware). QuickFigure Works provides the [spreadsheet](/terms/spreadsheet) functionality found in the [Newton Works](/terms/newton-works) application.
+A simplified version of the (link: /terms/quickfigure-pro text: QuickFigure Pro) application developed by (link: /sources/pelicanware text: PelicanWare). QuickFigure Works provides the (link: /terms/spreadsheet text: spreadsheet) functionality found in the (link: /terms/newton-works text: Newton Works) application.
 
-Also referred to as [QF Works](/terms/qf-works).
+Also referred to as (link: /terms/qf-works text: QF Works).
 
 (image: /assets/images/quickfigure-works-2x.gif alt: Screenshot of QuickFigure Works width: 322)
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-Describes an [application](/terms/application) that can adjust its actions according to the current situation or context. For example, an application with context sensitive user [input](/terms/input) will adjust the [handwriting recognition](/terms/handwriting-recognition) according to the type of input [field](/terms/field) being used — such as name, date, time, telephone number, etc.
+Describes an (link: /terms/application text: application) that can adjust its actions according to the current situation or context. For example, an application with context sensitive user (link: /terms/input text: input) will adjust the (link: /terms/handwriting-recognition text: handwriting recognition) according to the type of input (link: /terms/field text: field) being used — such as name, date, time, telephone number, etc.
 
 ----
 

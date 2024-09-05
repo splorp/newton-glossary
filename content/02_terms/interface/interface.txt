@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [User Interface](/terms/user-interface), [Graphical User Interface](/terms/graphical-user-interface), and [Newton User Interface](/terms/newton-user-interface)
+See: (link: /terms/user-interface text: User Interface), (link: /terms/graphical-user-interface text: Graphical User Interface), and (link: /terms/newton-user-interface text: Newton User Interface)

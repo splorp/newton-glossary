@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-Software that performs a specific task, such as the [Notepad](/terms/notepad), [Date Book](/terms/date-book), and [Name File](/terms/name-file) applications built into the [Newton OS](/terms/newton-os).
+Software that performs a specific task, such as the (link: /terms/notepad text: Notepad), (link: /terms/date-book text: Date Book), and (link: /terms/name-file text: Name File) applications built into the (link: /terms/newton-os text: Newton OS).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 19 August 2024
 
 Text:
 
-See: [MessagePad 150](/terms/messagepad-150)
+See: (link: /terms/messagepad-150 text: MessagePad 150)
 
 ----
 

@@ -8,7 +8,7 @@ Date: 02 September 2017
 
 Text:
 
-A potential future iteration of the [Year 2010 Problem](/terms/year-2010-problem) affecting devices running [Newton OS](/terms/newton-os) 2.1 past the year 2026. According to [Eckhart Köppen](/sources/eckhart-koppen), the [Y2026](/terms/y2026) bug is a direct result of the way he fixed the [Y2010](/terms/y2010) bug.
+A potential future iteration of the (link: /terms/year-2010-problem text: Year 2010 Problem) affecting devices running (link: /terms/newton-os text: Newton OS) 2.1 past the year 2026. According to (link: /sources/eckhart-koppen text: Eckhart Köppen), the (link: /terms/y2026 text: Y2026) bug is a direct result of the way he fixed the (link: /terms/y2010 text: Y2010) bug.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 04 April 2017
 
 Text:
 
-A website instigated by Rob West in 1996 that collected resources related to open source and public domain texts available in [Newton Book](/terms/newton-book) format. Project Newtonberg takes its name from the original [Project Gutenberg](https://www.gutenberg.org/).
+A website instigated by Rob West in 1996 that collected resources related to open source and public domain texts available in (link: /terms/newton-book text: Newton Book) format. Project Newtonberg takes its name from the original [Project Gutenberg](https://www.gutenberg.org/).
 
 ----
 

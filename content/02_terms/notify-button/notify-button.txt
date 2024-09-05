@@ -8,11 +8,11 @@ Date: 09 June 2024
 
 Text:
 
-A small [icon](/terms/icon) in the form of a [blinking star](/terms/blinking-star) that appears at the top of the [screen](/terms/screen) to remind the user that an operation is in progress or that something needs their attention. For example, the notify [button](/terms/button) will appear when an unknown word has been added to the [Recently Written Words](/terms/recently-written-words) list, indicating that the user should review the list. The notify button will also appear if a [status slip](/terms/status-slip) is hidden or when new items have been received in the [InOut Box](/terms/inout-box).
+A small (link: /terms/icon text: icon) in the form of a (link: /terms/blinking-star text: blinking star) that appears at the top of the (link: /terms/screen text: screen) to remind the user that an operation is in progress or that something needs their attention. For example, the notify (link: /terms/button text: button) will appear when an unknown word has been added to the (link: /terms/recently-written-words text: Recently Written Words) list, indicating that the user should review the list. The notify button will also appear if a (link: /terms/status-slip text: status slip) is hidden or when new items have been received in the (link: /terms/inout-box text: InOut Box).
 
-[Tapping](/terms/tapping) the notify button will display a [notify picker](/terms/notify-picker) containing a list of ongoing [actions](/terms/action) and deferred notification alerts. Selecting an item in the [picker](/terms/picker) displays a [status slip](/terms/status-slip) corresponding to that item.
+(link: /terms/tapping text: Tapping) the notify button will display a (link: /terms/notify-picker text: notify picker) containing a list of ongoing (link: /terms/action text: actions) and deferred notification alerts. Selecting an item in the (link: /terms/picker text: picker) displays a (link: /terms/status-slip text: status slip) corresponding to that item.
 
-Also referred to as the [Notify Icon](/terms/notify-icon) or [Star](/terms/star).
+Also referred to as the (link: /terms/notify-icon text: Notify Icon) or (link: /terms/star text: Star).
 
 ----
 

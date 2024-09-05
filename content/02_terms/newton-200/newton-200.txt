@@ -8,9 +8,9 @@ Date: 18 August 2024
 
 Text:
 
-A conceptual Newton device proposed by Matthew B. McRae that utilized a PowerPC processor. The [Newton 200c](/terms/newton-200c) variation of the hardware implemented an 8-bit colour [display](/terms/display). The [Newton 200i](/terms/newton-200i) variation utilized an Indiglo [backlight](/terms/backlight).
+A conceptual Newton device proposed by Matthew B. McRae that utilized a PowerPC processor. The (link: /terms/newton-200c text: Newton 200c) variation of the hardware implemented an 8-bit colour (link: /terms/display text: display). The (link: /terms/newton-200i text: Newton 200i) variation utilized an Indiglo (link: /terms/backlight text: backlight).
 
-Not to be confused with the rumoured [MessagePad 200](/terms/messagepad-200) device.
+Not to be confused with the rumoured (link: /terms/messagepad-200 text: MessagePad 200) device.
 
 ----
 

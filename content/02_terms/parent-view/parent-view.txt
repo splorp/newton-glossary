@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a [view](/terms/view) that contains one or more other views, known as [child views](/terms/child-view).
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/view text: view) that contains one or more other views, known as (link: /terms/child-view text: child views).
 
 ----
 

@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [NiCd](/terms/nicd)
+See: (link: /terms/nicd text: NiCd)

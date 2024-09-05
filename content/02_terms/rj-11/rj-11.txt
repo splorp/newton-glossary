@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A standard modular telephone connector, used mainly in North America. Similar to the [RJ-45](/terms/rj-45) modular connector used for [ethernet](/terms/ethernet) connections.
+A standard modular telephone connector, used mainly in North America. Similar to the (link: /terms/rj-45 text: RJ-45) modular connector used for (link: /terms/ethernet text: ethernet) connections.
 
 ----
 

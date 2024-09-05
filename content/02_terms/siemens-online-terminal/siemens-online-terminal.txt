@@ -8,11 +8,11 @@ Date: 25 March 2017
 
 Text:
 
-A prototype device developed by [Siemens](https://www.siemens.com/) that was positioned as an “all-in-one communication terminal” employing a [user interface](/terms/user-interface) based on [Newton OS](/terms/newton-os) and combining several communication services including wireless telephony, fax, voice messaging, web access, and email. Siemens also developed the [NotePhone](/terms/notephone) which combined a telephone and fax [modem](/terms/modem) with the equivalent of an [Original MessagePad](/terms/original-messagepad).
+A prototype device developed by [Siemens](https://www.siemens.com/) that was positioned as an “all-in-one communication terminal” employing a (link: /terms/user-interface text: user interface) based on (link: /terms/newton-os text: Newton OS) and combining several communication services including wireless telephony, fax, voice messaging, web access, and email. Siemens also developed the (link: /terms/notephone text: NotePhone) which combined a telephone and fax (link: /terms/modem text: modem) with the equivalent of an (link: /terms/original-messagepad text: Original MessagePad).
 
-Erroneously referred to as a [NotePhone 2000](/terms/notephone-2000) or [NotePhone II](/terms/notephone-ii), the Siemens Online Terminal is also known as the [OAD](/terms/oad) (Online Access Device) and the [@net](/terms/atnet).
+Erroneously referred to as a (link: /terms/notephone-2000 text: NotePhone 2000) or (link: /terms/notephone-ii text: NotePhone II), the Siemens Online Terminal is also known as the (link: /terms/oad text: OAD) (Online Access Device) and the [@net](/terms/atnet).
 
-A third-party device that utilizes a licensed version of [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
+A third-party device that utilizes a licensed version of (link: /terms/newton-os text: Newton OS) is commonly referred to as a (link: /terms/clone text: clone).
 
 ----
 

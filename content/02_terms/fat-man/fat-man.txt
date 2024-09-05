@@ -8,7 +8,7 @@ Date: 06 September 2017
 
 Text:
 
-A variation of the NuBus-based [ARMageddon](/terms/armageddon) card that included a [daughterboard](/terms/daughterboard).
+A variation of the NuBus-based (link: /terms/armageddon text: ARMageddon) card that included a (link: /terms/daughterboard text: daughterboard).
 
 ----
 

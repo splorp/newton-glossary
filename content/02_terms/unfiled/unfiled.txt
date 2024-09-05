@@ -8,7 +8,7 @@ Date: 26 October 2017
 
 Text:
 
-A [folder](/terms/folder) containing items which have not been filed in another folder. In the [Extras Drawer](/terms/extras-drawer), this folder is called [Unfiled Icons](/terms/unfiled-icons). In other [applications](/terms/application), this folder will be named according to the type of item being filed. For example, in [Newton Works](/terms/newton-works) there is an [Unfiled Documents](/terms/unfiled-documents) folder and in [Calls](/terms/calls) there is an [Unfiled Calls](/terms/unfiled-calls) folder.
+A (link: /terms/folder text: folder) containing items which have not been filed in another folder. In the (link: /terms/extras-drawer text: Extras Drawer), this folder is called (link: /terms/unfiled-icons text: Unfiled Icons). In other (link: /terms/application text: applications), this folder will be named according to the type of item being filed. For example, in (link: /terms/newton-works text: Newton Works) there is an (link: /terms/unfiled-documents text: Unfiled Documents) folder and in (link: /terms/calls text: Calls) there is an (link: /terms/unfiled-calls text: Unfiled Calls) folder.
 
 ----
 

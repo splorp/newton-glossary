@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), an [endpoint](/terms/endpoint) option is specified in an [option frame](/terms/option-frame) passed in an [array](/terms/array) as an argument to one of the endpoint [methods](/terms/method). Endpoint options select the communication tool to use, control its configuration and operation, and return result code information from each method call.
+In (link: /terms/newtonscript text: NewtonScript), an (link: /terms/endpoint text: endpoint) option is specified in an (link: /terms/option-frame text: option frame) passed in an (link: /terms/array text: array) as an argument to one of the endpoint (link: /terms/method text: methods). Endpoint options select the communication tool to use, control its configuration and operation, and return result code information from each method call.
 
 ----
 

@@ -8,9 +8,9 @@ Date: 12 June 2001
 
 Text:
 
-A system [freeze](/terms/freeze) common in early [MessagePad](/terms/messagepad) devices caused by a lack of adequate [heap space](/terms/heap-space). In later versions of [Newton OS](/terms/newton-os) this condition notified the user of a problem related to something interacting with a [card](/terms/card) while it was being unmounted, causing the [operating system](/terms/operating-system) to become unresponsive.
+A system (link: /terms/freeze text: freeze) common in early (link: /terms/messagepad text: MessagePad) devices caused by a lack of adequate (link: /terms/heap-space text: heap space). In later versions of (link: /terms/newton-os text: Newton OS) this condition notified the user of a problem related to something interacting with a (link: /terms/card text: card) while it was being unmounted, causing the (link: /terms/operating-system text: operating system) to become unresponsive.
 
-Also referred to as [G.O.D.](/terms/GOD) and [The Grip](/terms/the-grip).
+Also referred to as [G.O.D.](/terms/GOD) and (link: /terms/the-grip text: The Grip).
 
 ----
 

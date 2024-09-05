@@ -8,7 +8,7 @@ Date: 20 August 2017
 
 Text:
 
-An Internet Relay Chat (IRC) client for [Newton OS](/terms/newton-os) developed by [Tactile Systems](/sources/tactile).
+An Internet Relay Chat (IRC) client for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/tactile text: Tactile Systems).
 
 (image: /assets/images/chatbuddy-2x.gif alt: Screenshot of ChatBuddy width: 240)
 

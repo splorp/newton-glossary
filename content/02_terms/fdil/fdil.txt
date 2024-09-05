@@ -10,7 +10,7 @@ Text:
 
 Frame Desktop Integration Layer
 
-A code layer responsible for the management of [NewtonScript](/terms/newtonscript) compatible objects, which supercedes the High Level Frame Desktop Integration Layer or [HFDIL](/terms/hlfdil).
+A code layer responsible for the management of (link: /terms/newtonscript text: NewtonScript) compatible objects, which supercedes the High Level Frame Desktop Integration Layer or (link: /terms/hlfdil text: HFDIL).
 
 ----
 

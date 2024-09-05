@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A defunct website which at one time was home to a popular, annotated Newton software archive and the second iteration of the [NewtonTalk](/terms/newtontalk) mailing list. A copy of the software archive is currently hosted on the [UNNA](/terms/unna) website.
+A defunct website which at one time was home to a popular, annotated Newton software archive and the second iteration of the (link: /terms/newtontalk text: NewtonTalk) mailing list. A copy of the software archive is currently hosted on the (link: /terms/unna text: UNNA) website.
 
 ----
 

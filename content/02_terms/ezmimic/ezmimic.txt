@@ -8,7 +8,7 @@ Date: 08 March 2017
 
 Text:
 
-The term used by [EZShow Systems](/sources/ezshow-systems) to describe the screen mirroring functionality of their [EZ2TV](/terms/ez2tv) and [EZ2VGA](/terms/ez2vga) cards.
+The term used by (link: /sources/ezshow-systems text: EZShow Systems) to describe the screen mirroring functionality of their (link: /terms/ez2tv text: EZ2TV) and (link: /terms/ez2vga text: EZ2VGA) cards.
 
 ----
 

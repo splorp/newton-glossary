@@ -8,7 +8,7 @@ Date: 19 May 2022
 
 Text:
 
-A command key associates a programmatic [message](/terms/message) or [action](/terms/action) with a [key combination](/terms/key-combination). The key combination consists of a character typed on a keyboard in combination with one or more [modifier keys](/terms/modifier-key).
+A command key associates a programmatic (link: /terms/message text: message) or (link: /terms/action text: action) with a (link: /terms/key-combination text: key combination). The key combination consists of a character typed on a keyboard in combination with one or more (link: /terms/modifier-key text: modifier keys).
 
 The command key is also the name of a modifier key found on a keyboard.
 

@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), an element of a [frame](/terms/frame) or [array](/terms/array) that can hold an [immediate](/terms/immediate) value or [reference](/terms/reference) value.
+In (link: /terms/newtonscript text: NewtonScript), an element of a (link: /terms/frame text: frame) or (link: /terms/array text: array) that can hold an (link: /terms/immediate text: immediate) value or (link: /terms/reference text: reference) value.
 
-Slot can also refer to [card slot](/terms/card-slot), an opening where a [PC card](/terms/pc-card) is inserted into a Newton device.
+Slot can also refer to (link: /terms/card-slot text: card slot), an opening where a (link: /terms/pc-card text: PC card) is inserted into a Newton device.
 
 ----
 

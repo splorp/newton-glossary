@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-An adapter that connects one device to other device, generally via a [communication port](/terms/communication-port).
+An adapter that connects one device to other device, generally via a (link: /terms/communication-port text: communication port).
 
-An example of a dongle is the [Newton Serial Adapter](/terms/newton-serial-adapter).
+An example of a dongle is the (link: /terms/newton-serial-adapter text: Newton Serial Adapter).
 
 ----
 

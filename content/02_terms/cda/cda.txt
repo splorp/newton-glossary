@@ -8,4 +8,4 @@ Date: 24 August 2016
 
 Text:
 
-See: [Craft Digital Assistant](/terms/craft-digital-assistant)
+See: (link: /terms/craft-digital-assistant text: Craft Digital Assistant)

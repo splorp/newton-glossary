@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-To replace all of the information on a Newton device with information from a [backup](/terms/backup).
+To replace all of the information on a Newton device with information from a (link: /terms/backup text: backup).
 
 ----
 

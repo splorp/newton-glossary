@@ -8,7 +8,7 @@ Date: 14 January 2024
 
 Text:
 
-See: [PointPro](/terms/pointpro)
+See: (link: /terms/pointpro text: PointPro)
 
 ----
 

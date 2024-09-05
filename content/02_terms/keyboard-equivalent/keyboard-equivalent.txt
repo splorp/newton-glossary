@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A command entered using a physical keyboard that produces the same action as [tapping](/terms/tapping) a specific [button](/terms/button) or choosing an item from a [picker](/terms/picker). For example, typing a [key combination](/terms/key-combination) consisting of the “Command” key and the “P” key produces the equivalent of selecting the “Print” action in most [applications](/terms/application).
+A command entered using a physical keyboard that produces the same action as (link: /terms/tapping text: tapping) a specific (link: /terms/button text: button) or choosing an item from a (link: /terms/picker text: picker). For example, typing a (link: /terms/key-combination text: key combination) consisting of the “Command” key and the “P” key produces the equivalent of selecting the “Print” action in most (link: /terms/application text: applications).
 
-Holding down the “Command” key on a keyboard connected to a [Newton OS](/terms/newton-os) 2.1 device displays a [slip](/terms/slip) listing all of the keyboard equivalents available for the current application.
+Holding down the “Command” key on a keyboard connected to a (link: /terms/newton-os text: Newton OS) 2.1 device displays a (link: /terms/slip text: slip) listing all of the keyboard equivalents available for the current application.
 
 (image: /assets/images/keyboard-equivalent-2x.gif alt: Screenshot of the Keyboard Equivalent slip width: 218)
 

@@ -8,13 +8,13 @@ Date: 24 May 2001
 
 Text:
 
-A graphical indicator automatically displayed by the system while it is temporarily unable to process user [input](/terms/input). Often represented by an [icon](/terms/icon) of a watch or clock on other [operating systems](/terms/operating-system), the busy cursor in [Newton OS](/terms/newton-os) is represented by an depiction of the Newton logo.
+A graphical indicator automatically displayed by the system while it is temporarily unable to process user (link: /terms/input text: input). Often represented by an (link: /terms/icon text: icon) of a watch or clock on other (link: /terms/operating-system text: operating systems), the busy cursor in (link: /terms/newton-os text: Newton OS) is represented by an depiction of the Newton logo.
 
 (image: /assets/images/busy-cursor-2x.gif alt: Screenshot of the Busy Cursor width: 30)
 
-The busy cursor is not meant to provide complete feedback during a lengthy operation. If an [application](/terms/application) or [transport](/terms/transport) begins an operation that can take more than a few seconds to complete, it will usually display a [status slip](/terms/status-slip) instead.
+The busy cursor is not meant to provide complete feedback during a lengthy operation. If an (link: /terms/application text: application) or (link: /terms/transport text: transport) begins an operation that can take more than a few seconds to complete, it will usually display a (link: /terms/status-slip text: status slip) instead.
 
-Colloquially known as the [lightbulb icon](/terms/lightbulb-icon) or the [something’s happening icon](/terms/somethings-happening-icon).
+Colloquially known as the (link: /terms/lightbulb-icon text: lightbulb icon) or the [something’s happening icon](/terms/somethings-happening-icon).
 
 ----
 

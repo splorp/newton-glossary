@@ -8,7 +8,7 @@ Date: 11 March 2018
 
 Text:
 
-A [button](/terms/button) displaying the current time of day located at the left end of the [status bar](/terms/status-bar) in an [application](/terms/application). [Tapping](/terms/tapping) the analog clock button opens a small panel which displays a digital [clock](/terms/clock) and the [battery gauge](/terms/battery-gauge).
+A (link: /terms/button text: button) displaying the current time of day located at the left end of the (link: /terms/status-bar text: status bar) in an (link: /terms/application text: application). (link: /terms/tapping text: Tapping) the analog clock button opens a small panel which displays a digital (link: /terms/clock text: clock) and the (link: /terms/battery-gauge text: battery gauge).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The action of briefly touching the [screen](/terms/screen) with the [pen](/terms/pen). Essentially the same action as clicking a mouse or trackpad button repeatedly on a [desktop computer](/terms/desktop-computer), [laptop](/terms/laptop-computer), or equivalent device.
+The action of briefly touching the (link: /terms/screen text: screen) with the (link: /terms/pen text: pen). Essentially the same action as clicking a mouse or trackpad button repeatedly on a (link: /terms/desktop-computer text: desktop computer), (link: /terms/laptop-computer text: laptop), or equivalent device.
 
 ----
 

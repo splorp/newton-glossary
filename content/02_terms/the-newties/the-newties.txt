@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-See: [Newtie Award](/terms/newtie-award)
+See: (link: /terms/newtie-award text: Newtie Award)
 
 ----
 

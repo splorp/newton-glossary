@@ -8,7 +8,7 @@ Date: 07 August 2024
 
 Text:
 
-See: [Battery Latch](/terms/battery-latch)
+See: (link: /terms/battery-latch text: Battery Latch)
 
 ----
 

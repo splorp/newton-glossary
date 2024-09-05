@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A small software [patch](/terms/patch) that is installed on a Newton device to modify or update certain aspects of the [ROM](/terms/rom)-based [operating system](/terms/operating-system).
+A small software (link: /terms/patch text: patch) that is installed on a Newton device to modify or update certain aspects of the (link: /terms/rom text: ROM)-based (link: /terms/operating-system text: operating system).
 
-Also referred to as a [System Patch](/terms/system-patch).
+Also referred to as a (link: /terms/system-patch text: System Patch).
 
 ----
 

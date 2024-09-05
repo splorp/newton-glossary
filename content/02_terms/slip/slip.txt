@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A [container view](/terms/container-view) with a [matte border](/terms/matte-border) displayed by an [application](/terms/application) in order to obtain user [input](/terms/input), or to present alternatives which a user can choose to determine the outcome of a task that has been started.
+A (link: /terms/container-view text: container view) with a (link: /terms/matte-border text: matte border) displayed by an (link: /terms/application text: application) in order to obtain user (link: /terms/input text: input), or to present alternatives which a user can choose to determine the outcome of a task that has been started.
 
-For the protocol, see [SLIP](/terms/slip-protocol).
+For the protocol, see (link: /terms/slip-protocol text: SLIP).
 
 ----
 

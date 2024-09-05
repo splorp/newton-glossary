@@ -8,7 +8,7 @@ Date: 05 November 2017
 
 Text:
 
-See: [Recognition Button](/terms/recognition-button)
+See: (link: /terms/recognition-button text: Recognition Button)
 
 ----
 

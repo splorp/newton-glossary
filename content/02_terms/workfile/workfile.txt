@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The main data file created by the [Newton Connection](/terms/newton-connection) software. The workfile contains all of the information used when [synchronizing](/terms/synchronize) a Newton device with a [desktop computer](/terms/desktop-computer), [laptop](/terms/laptop-computer), or other device.
+The main data file created by the (link: /terms/newton-connection text: Newton Connection) software. The workfile contains all of the information used when (link: /terms/synchronize text: synchronizing) a Newton device with a (link: /terms/desktop-computer text: desktop computer), (link: /terms/laptop-computer text: laptop), or other device.
 
 ----
 

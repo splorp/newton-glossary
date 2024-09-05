@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-See: [Newton Backup Utility](/terms/newton-backup-utility)
+See: (link: /terms/newton-backup-utility text: Newton Backup Utility)
 
 ----
 

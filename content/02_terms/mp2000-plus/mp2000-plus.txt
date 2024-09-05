@@ -10,7 +10,7 @@ Text:
 
 Upgraded MessagePad 2000
 
-See: [UMP](/terms/ump)
+See: (link: /terms/ump text: UMP)
 
 ----
 

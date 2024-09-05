@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A dynamic, object-oriented programming language developed for the Newton platform. Lovingly nicknamed [WallyScript](/terms/wallyscript) after its designer [Walter Smith](/sources/walter-smith).
+A dynamic, object-oriented programming language developed for the Newton platform. Lovingly nicknamed (link: /terms/wallyscript text: WallyScript) after its designer (link: /sources/walter-smith text: Walter Smith).
 
-Also referred to as the [NS](/terms/ns).
+Also referred to as the (link: /terms/ns text: NS).
 
 ----
 

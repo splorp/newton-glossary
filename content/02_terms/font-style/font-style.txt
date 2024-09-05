@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A set of stylistic variations pertaining to a [font](/terms/font), other than its typeface family or [point](/terms/point) size. Examples of font styles include bold, italic, and underline.
+A set of stylistic variations pertaining to a (link: /terms/font text: font), other than its typeface family or (link: /terms/point text: point) size. Examples of font styles include bold, italic, and underline.
 
 ----
 

@@ -10,13 +10,13 @@ Text:
 
 Software developed by [Makoto “Gnue” Nukui](/sources/gnue) to translate between Unicode and other text encoding schemes used by various languages and computing platforms.
 
-[Newton OS](/terms/newton-os) stores text as UTF-16 (16-bit Unicode Transformation Format) which can be translated to another encoding scheme in order for the text to be exchanged with other systems.
+(link: /terms/newton-os text: Newton OS) stores text as UTF-16 (16-bit Unicode Transformation Format) which can be translated to another encoding scheme in order for the text to be exchanged with other systems.
 
-Newton Text Encoding provides a modular approach for extending the language support of an [application](/terms/application).
+Newton Text Encoding provides a modular approach for extending the language support of an (link: /terms/application text: application).
 
-For example, [SimpleMail](/terms/simplemail) uses optional text encoding modules to natively support languages such as Albanian, Bosnian, Croatian, Czech, Finnish, Hungarian, German, Polish, and Russian.
+For example, (link: /terms/simplemail text: SimpleMail) uses optional text encoding modules to natively support languages such as Albanian, Bosnian, Croatian, Czech, Finnish, Hungarian, German, Polish, and Russian.
 
-Also referred to as [NTE](/terms/nte) and [NTEncoding](/terms/ntencoding).
+Also referred to as (link: /terms/nte text: NTE) and (link: /terms/ntencoding text: NTEncoding).
 
 ----
 

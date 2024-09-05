@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-See: [View Definition](/terms/view-definition)
+See: (link: /terms/view-definition text: View Definition)
 
 ----
 

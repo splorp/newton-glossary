@@ -8,7 +8,7 @@ Date: 29 August 2018
 
 Text:
 
-The built-in [application](/terms/application) which provides an interactive tutorial for learning the basics of an [eMate 300](/terms/emate-300) device and its various features. On a [MessagePad](/terms/messagepad) device, a similar tutorial is named [Newton Tour](/terms/newton-tour).
+The built-in (link: /terms/application text: application) which provides an interactive tutorial for learning the basics of an (link: /terms/emate-300 text: eMate 300) device and its various features. On a (link: /terms/messagepad text: MessagePad) device, a similar tutorial is named (link: /terms/newton-tour text: Newton Tour).
 
 ----
 

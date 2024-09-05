@@ -8,11 +8,11 @@ Date:
 
 Text:
 
-The MessagePad 120 shares the same case styling as the [MessagePad 110](/terms/messagepad-110) and [MessagePad 130](/terms/messagepad-130). Improvements over the previous model included a choice of memory configurations, socketed (upgradable) [ROM](/terms/rom), a nonglare [screen](/terms/screen), an updated operating system, and bundled third-party software.
+The MessagePad 120 shares the same case styling as the (link: /terms/messagepad-110 text: MessagePad 110) and (link: /terms/messagepad-130 text: MessagePad 130). Improvements over the previous model included a choice of memory configurations, socketed (upgradable) (link: /terms/rom text: ROM), a nonglare (link: /terms/screen text: screen), an updated operating system, and bundled third-party software.
 
-The code name of the MessagePad 120 was [Gelato](/terms/gelato), due to the fact that it was available in two memory configuration “flavours”.
+The code name of the MessagePad 120 was (link: /terms/gelato text: Gelato), due to the fact that it was available in two memory configuration “flavours”.
 
-The MessagePad 120 is commonly referred to as an [MP120](/terms/mp120).
+The MessagePad 120 is commonly referred to as an (link: /terms/mp120 text: MP120).
 
 ----
 

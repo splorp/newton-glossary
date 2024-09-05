@@ -8,7 +8,7 @@ Date: 30 October 2019
 
 Text:
 
-A software [package](/terms/package) used in conjunction with the [Newton Toolkit](/terms/newton-toolkit) (NTK) [inspector](/terms/inspector) to help locate the [object](/terms/object) causing the infamous “[Grip of Death](/terms/grip-of-death)” issue in other packages.
+A software (link: /terms/package text: package) used in conjunction with the (link: /terms/newton-toolkit text: Newton Toolkit) (NTK) (link: /terms/inspector text: inspector) to help locate the (link: /terms/object text: object) causing the infamous “(link: /terms/grip-of-death text: Grip of Death)” issue in other packages.
 
 ----
 

@@ -10,9 +10,9 @@ Text:
 
 Card Information Structure
 
-Information stored on a [PCMCIA](/terms/pcmcia) card that describes the formatting and organization of the data on the [card](/terms/card). This can include the type of card, the supported power requirements and power saving capabilities, as well as the manufacturer and model number of the card.
+Information stored on a (link: /terms/pcmcia text: PCMCIA) card that describes the formatting and organization of the data on the (link: /terms/card text: card). This can include the type of card, the supported power requirements and power saving capabilities, as well as the manufacturer and model number of the card.
 
-When a [PC card](/terms/pc-card) is unrecognized by a device, it is often due to the CIS information being missing or damaged.
+When a (link: /terms/pc-card text: PC card) is unrecognized by a device, it is often due to the CIS information being missing or damaged.
 
 ----
 

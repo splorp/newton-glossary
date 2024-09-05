@@ -8,7 +8,7 @@ Date: 27 May 2022
 
 Text:
 
-A [PC card](/terms/pc-card) developed by [Motorola](https://www.motorola.com/) that allowed a computer or handheld device to receive and store wireless messages, email, files, and other information over paging systems and news services. The [Newton Messaging Card](/terms/newton-messaging-card) appears to have been based on the NewsCard, which shares similar specifications.
+A (link: /terms/pc-card text: PC card) developed by [Motorola](https://www.motorola.com/) that allowed a computer or handheld device to receive and store wireless messages, email, files, and other information over paging systems and news services. The (link: /terms/newton-messaging-card text: Newton Messaging Card) appears to have been based on the NewsCard, which shares similar specifications.
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 Domain Name System
 
-A distributed service that translates the hostname or domain name of a network connected device into an [IP](/terms/ip) address.
+A distributed service that translates the hostname or domain name of a network connected device into an (link: /terms/ip text: IP) address.
 
 ----
 

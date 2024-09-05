@@ -8,7 +8,7 @@ Date: 28 February 2018
 
 Text:
 
-See: [Battery Gauge](/terms/battery-gauge)
+See: (link: /terms/battery-gauge text: Battery Gauge)
 
 ----
 

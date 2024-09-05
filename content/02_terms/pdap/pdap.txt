@@ -8,7 +8,7 @@ Date: 21 November 2004
 
 Text:
 
-Shorthand for [PDA Panache](/sources/pda-panache), a defunct company that supplied [pens](/terms/pen) for Newton [MessagePad](/terms/messagepad), [eMate 300](/terms/emate-300), and other handheld devices.
+Shorthand for (link: /sources/pda-panache text: PDA Panache), a defunct company that supplied (link: /terms/pen text: pens) for Newton (link: /terms/messagepad text: MessagePad), (link: /terms/emate-300 text: eMate 300), and other handheld devices.
 
 ----
 

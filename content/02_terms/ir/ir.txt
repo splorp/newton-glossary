@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Infrared](/terms/infrared)
+See: (link: /terms/infrared text: Infrared)

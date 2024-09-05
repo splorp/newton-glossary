@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), the [frame](/terms/frame) in which a [method](/terms/method) is defined.
+In (link: /terms/newtonscript text: NewtonScript), the (link: /terms/frame text: frame) in which a (link: /terms/method text: method) is defined.
 
 ----
 

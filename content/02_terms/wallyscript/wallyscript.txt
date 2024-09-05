@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The eponymous nickname given to [NewtonScript](/terms/newtonscript) in honour of its designer [Walter Smith](/sources/walter-smith).
+The eponymous nickname given to (link: /terms/newtonscript text: NewtonScript) in honour of its designer (link: /sources/walter-smith text: Walter Smith).
 
 ----
 

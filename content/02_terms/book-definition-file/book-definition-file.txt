@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An output file produced by [Newton Book Maker](/terms/newton-book-maker). It is used as input to [Newton Toolkit](/terms/newton-toolkit) to build a Newton book or application-specific [help book](/terms/help-book).
+An output file produced by (link: /terms/newton-book-maker text: Newton Book Maker). It is used as input to (link: /terms/newton-toolkit text: Newton Toolkit) to build a Newton book or application-specific (link: /terms/help-book text: help book).
 
 ----
 

@@ -8,9 +8,9 @@ Date: 06 October 2002
 
 Text:
 
-A desktop calendaring and scheduling [application](/terms/application) developed by [Now Software](https://sites.google.com/site/nowsoftwarecom/), some versions of which can [synchronize](/terms/synchronize) information with a Newton device.
+A desktop calendaring and scheduling (link: /terms/application text: application) developed by [Now Software](https://sites.google.com/site/nowsoftwarecom/), some versions of which can (link: /terms/synchronize text: synchronize) information with a Newton device.
 
-Also referred to as [NUD](/terms/nud).
+Also referred to as (link: /terms/nud text: NUD).
 
 ----
 

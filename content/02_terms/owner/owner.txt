@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The primary or current user of a Newton device. Information pertaining to the owner is entered into the [Owner Info](/terms/owner-info) application.
+The primary or current user of a Newton device. Information pertaining to the owner is entered into the (link: /terms/owner-info text: Owner Info) application.
 
 ----
 

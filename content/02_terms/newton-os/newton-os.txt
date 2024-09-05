@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-The [operating system](/terms/operating-system) that controls a Newton device.
+The (link: /terms/operating-system text: operating system) that controls a Newton device.
 
-Also referred to as [NOS](/terms/nos).
+Also referred to as (link: /terms/nos text: NOS).
 
 ----
 

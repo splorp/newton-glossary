@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [view](/terms/view) in which a user specifies the sender, recipient, format, and other information needed to send data by the method chosen in the [action picker](/terms/action-picker). Routing slips are visually identified by a [striped border](/terms/striped-border).
+A (link: /terms/view text: view) in which a user specifies the sender, recipient, format, and other information needed to send data by the method chosen in the (link: /terms/action-picker text: action picker). Routing slips are visually identified by a (link: /terms/striped-border text: striped border).
 
 (image: /assets/images/routing-slip-2x.gif alt: Screenshot of a Routing Slip displayed when faxing an item width: 230)
 

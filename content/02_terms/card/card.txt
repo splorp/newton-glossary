@@ -8,11 +8,11 @@ Date: 24 May 2001
 
 Text:
 
-A [view](/terms/view) of information pertaining to an entry in the [Name File](/terms/name-file) application [soup](/terms/soup), graphically formatted as a business card. A card can display names, addresses, telephone numbers, email addresses, notes, and other information [fields](/terms/field) created by the user. Also referred to as a [name card](/terms/name-card).
+A (link: /terms/view text: view) of information pertaining to an entry in the (link: /terms/name-file text: Name File) application (link: /terms/soup text: soup), graphically formatted as a business card. A card can display names, addresses, telephone numbers, email addresses, notes, and other information (link: /terms/field text: fields) created by the user. Also referred to as a (link: /terms/name-card text: name card).
 
-Card is also an [application](/terms/application) that allows the user to retrieve information about a PC card inserted into a Newton device, displaying that information in a [card slip](/terms/card-slip).
+Card is also an (link: /terms/application text: application) that allows the user to retrieve information about a PC card inserted into a Newton device, displaying that information in a (link: /terms/card-slip text: card slip).
 
-Card can also refer to a [PC Card](/terms/pc-card) or [CompactFlash](/terms/compactflash) card.
+Card can also refer to a (link: /terms/pc-card text: PC Card) or (link: /terms/compactflash text: CompactFlash) card.
 
 ----
 

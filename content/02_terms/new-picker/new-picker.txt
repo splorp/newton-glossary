@@ -8,7 +8,7 @@ Date: 04 December 2017
 
 Text:
 
-A list of various item creation options available in the current [application](/terms/application). Activated by [tapping](/terms/tapping) on the [new button](/terms/new-button).
+A list of various item creation options available in the current (link: /terms/application text: application). Activated by (link: /terms/tapping text: tapping) on the (link: /terms/new-button text: new button).
 
 (image: /assets/images/new-picker-name-file-2x.gif alt: Screenshot of the New Picker in the Name File width: 125)
 

@@ -8,4 +8,4 @@ Date: 13 February 2017
 
 Text:
 
-See: [Voyager](/terms/voyager)
+See: (link: /terms/voyager text: Voyager)

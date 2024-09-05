@@ -10,9 +10,9 @@ Text:
 
 Object Exchange
 
-A communications [protocol](/terms/protocol) that facilitates the exchange of [binary objects](/terms/binary-object) such as contact information or applications between devices over [infrared](/terms/infrared). Although initially designed for infrared, OBEX has also been adopted for use over Bluetooth and other serial connections.
+A communications (link: /terms/protocol text: protocol) that facilitates the exchange of (link: /terms/binary-object text: binary objects) such as contact information or applications between devices over (link: /terms/infrared text: infrared). Although initially designed for infrared, OBEX has also been adopted for use over Bluetooth and other serial connections.
 
-Also referred to as [IrOBEX](/terms/irobex) and [IrDA OBEX](/terms/irda-obex).
+Also referred to as (link: /terms/irobex text: IrOBEX) and (link: /terms/irda-obex text: IrDA OBEX).
 
 ----
 

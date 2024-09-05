@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a place in a [container view](/terms/container-view) or input [slip](/terms/slip) where a user can enter text-based data.
+In (link: /terms/newtonscript text: NewtonScript), a place in a (link: /terms/container-view text: container view) or input (link: /terms/slip text: slip) where a user can enter text-based data.
 
 ----
 

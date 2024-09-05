@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A setting value that modifies an individual content item when creating a [Newton book](/terms/newton-book). Most [flags](/terms/flag) in the [Newton Book Maker](/terms/newton-book-maker) language are content flags.
+A setting value that modifies an individual content item when creating a (link: /terms/newton-book text: Newton book). Most (link: /terms/flag text: flags) in the (link: /terms/newton-book-maker text: Newton Book Maker) language are content flags.
 
 ----
 

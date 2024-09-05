@@ -8,7 +8,7 @@ Date: 31 May 2001
 
 Text:
 
-The software publishing group within Apple’s [PIE](/terms/pie) (Personal Interactive Electronics) division. StarCore working directly with information providers and developers, distributing [Newton OS](/terms/newton-os) software titles on both [PC card](/terms/pc-card) and floppy disk.
+The software publishing group within Apple’s (link: /terms/pie text: PIE) (Personal Interactive Electronics) division. StarCore working directly with information providers and developers, distributing (link: /terms/newton-os text: Newton OS) software titles on both (link: /terms/pc-card text: PC card) and floppy disk.
 
 ----
 

@@ -8,7 +8,7 @@ Date:  12 June 2001
 
 Text:
 
-A [button](/terms/button) found on the back of a Newton device which performs a [power reset](/terms/power-reset) or [soft reset](/terms/soft-reset). Pressing the reset button will often resolve problems that may occur during the operation of the device.
+A (link: /terms/button text: button) found on the back of a Newton device which performs a (link: /terms/power-reset text: power reset) or (link: /terms/soft-reset text: soft reset). Pressing the reset button will often resolve problems that may occur during the operation of the device.
 
 ----
 

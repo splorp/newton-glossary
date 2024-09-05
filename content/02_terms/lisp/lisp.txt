@@ -8,7 +8,7 @@ Date: 29 June 2017
 
 Text:
 
-A high-level programming language known for its abundant use of parentheses. [Macintosh Common Lisp](/terms/macintosh-common-lisp) is an implementation of Lisp that provided a development environment with tight integration with the Mac OS toolbox. An early, unreleased version of [Newton OS](/terms/newton-os) known as [Bauhaus](/terms/bauhaus) was developed using the Lisp-like language [Ralph](/terms/ralph).
+A high-level programming language known for its abundant use of parentheses. (link: /terms/macintosh-common-lisp text: Macintosh Common Lisp) is an implementation of Lisp that provided a development environment with tight integration with the Mac OS toolbox. An early, unreleased version of (link: /terms/newton-os text: Newton OS) known as (link: /terms/bauhaus text: Bauhaus) was developed using the Lisp-like language (link: /terms/ralph text: Ralph).
 
 ----
 

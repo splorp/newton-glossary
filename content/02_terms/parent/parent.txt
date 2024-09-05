@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a [frame](/terms/frame) referenced through the parent [slot](/terms/slot) of another frame. With regard to [views](/terms/view), a parent view encloses its child views.
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/frame text: frame) referenced through the parent (link: /terms/slot text: slot) of another frame. With regard to (link: /terms/view text: views), a parent view encloses its child views.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [Newton Toolkit](/terms/newton-toolkit) document that contains a list of files to be included in a [project-build](/terms/project-build) and the specifications pertaining to that build.
+A (link: /terms/newton-toolkit text: Newton Toolkit) document that contains a list of files to be included in a (link: /terms/project-build text: project-build) and the specifications pertaining to that build.
 
 ----
 

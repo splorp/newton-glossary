@@ -8,7 +8,7 @@ Date: 25 June 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a [frame](/terms/frame) that contains a [soup](/terms/soup) entry or an [alias](/terms/alias) to a soup [entry](/terms/entry) which is often — though not necessarily — from the [Name File](/terms/name-file) soup. The frame may also contain some of the individual [slots](/terms/slot) from the soup entry.
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/frame text: frame) that contains a (link: /terms/soup text: soup) entry or an (link: /terms/alias text: alias) to a soup (link: /terms/entry text: entry) which is often — though not necessarily — from the (link: /terms/name-file text: Name File) soup. The frame may also contain some of the individual (link: /terms/slot text: slots) from the soup entry.
 
 ----
 

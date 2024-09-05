@@ -8,7 +8,7 @@ Date: 30 October 2001
 
 Text:
 
-See: [Data Definition](/terms/data-definition)
+See: (link: /terms/data-definition text: Data Definition)
 
 ----
 

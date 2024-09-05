@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-A low-level task in [Newton OS](/terms/newton-os) which takes user [input](/terms/input) and draws the appropriate data on the [screen](/terms/screen). In effect, converting physical [pen](/terms/pen) strokes into [electronic ink](/terms/electronic-ink).
+A low-level task in (link: /terms/newton-os text: Newton OS) which takes user (link: /terms/input text: input) and draws the appropriate data on the (link: /terms/screen text: screen). In effect, converting physical (link: /terms/pen text: pen) strokes into (link: /terms/electronic-ink text: electronic ink).
 
 ----
 

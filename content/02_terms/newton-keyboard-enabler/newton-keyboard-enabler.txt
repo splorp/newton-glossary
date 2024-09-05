@@ -8,9 +8,9 @@ Date: 29 January 2020
 
 Text:
 
-A system extension created by [Markus Fritze](/sources/markus-fritze) which facilitates the use of a Newton keyboard when connected to the serial port of a Mac OS computer.
+A system extension created by (link: /sources/markus-fritze text: Markus Fritze) which facilitates the use of a Newton keyboard when connected to the serial port of a Mac OS computer.
 
-Also referred to as [NKE](/terms/nke).
+Also referred to as (link: /terms/nke text: NKE).
 
 ----
 

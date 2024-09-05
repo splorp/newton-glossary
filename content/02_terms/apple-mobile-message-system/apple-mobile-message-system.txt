@@ -8,11 +8,11 @@ Date: 18 January 2024
 
 Text:
 
-A multi-platform, integrated wireless communications service that supported Newton devices, PowerBook laptops, and certain computers running Microsoft Windows. The system combined the [PageCard](/terms/pagecard) hardware with software that allowed sending and receiving email over the now defunct PageNet wireless network.
+A multi-platform, integrated wireless communications service that supported Newton devices, PowerBook laptops, and certain computers running Microsoft Windows. The system combined the (link: /terms/pagecard text: PageCard) hardware with software that allowed sending and receiving email over the now defunct PageNet wireless network.
 
-Apple Mobile Message System was replaced by the [SWiMS](/terms/swims) service provided by [Socket Communications](https://web.archive.org/web/19980208233349/http://www.socketcom.com/), makers of the PageCard.
+Apple Mobile Message System was replaced by the (link: /terms/swims text: SWiMS) service provided by [Socket Communications](https://web.archive.org/web/19980208233349/http://www.socketcom.com/), makers of the PageCard.
 
-Also referred to as [AMMS](/terms/amms).
+Also referred to as (link: /terms/amms text: AMMS).
 
 ----
 

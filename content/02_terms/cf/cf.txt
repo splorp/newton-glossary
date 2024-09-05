@@ -8,4 +8,4 @@ Date: 21 November 2004
 
 Text:
 
-See: [CompactFlash](/terms/compactflash)
+See: (link: /terms/compactflash text: CompactFlash)

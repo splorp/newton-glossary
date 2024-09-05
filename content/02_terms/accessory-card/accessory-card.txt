@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A removable [PC card](/terms/pc-card) that provides additional functionality, such as a [modem](/terms/modem) for serial communication or an [ethernet](/terms/ethernet) card for networking.
+A removable (link: /terms/pc-card text: PC card) that provides additional functionality, such as a (link: /terms/modem text: modem) for serial communication or an (link: /terms/ethernet text: ethernet) card for networking.
 
 ----
 

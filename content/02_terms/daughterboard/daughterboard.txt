@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A small, secondary circuit board that generally is attached to the [main logic board](/terms/main-logic-board) or [motherboard](/terms/motherboard). The daughterboard in a Newton device contains the [ROM](/terms/rom) chips.
+A small, secondary circuit board that generally is attached to the (link: /terms/main-logic-board text: main logic board) or (link: /terms/motherboard text: motherboard). The daughterboard in a Newton device contains the (link: /terms/rom text: ROM) chips.
 
 ----
 

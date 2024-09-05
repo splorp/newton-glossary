@@ -8,7 +8,7 @@ Date: 21 September 2017
 
 Text:
 
-A typo found on the spine of [Defying Gravity](/terms/defying-gravity), a book documenting the creation of the Newton.
+A typo found on the spine of (link: /terms/defying-gravity text: Defying Gravity), a book documenting the creation of the Newton.
 
 ----
 

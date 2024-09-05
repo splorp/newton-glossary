@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-See: [Twerx](/terms/twerx)
+See: (link: /terms/twerx text: Twerx)
 
 ----
 

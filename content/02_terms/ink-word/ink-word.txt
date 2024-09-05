@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The grouping of [ink data](/terms/ink-data) created by the recognition system, based on the timing and spacing of the user’s handwriting. Ink words are created when the user has selected [Ink Text](/terms/ink-text) in the “Recognition Preferences” slip. Ink words can subsequently be recognized with [deferred recognition](/terms/deferred-recognition).
+The grouping of (link: /terms/ink-data text: ink data) created by the recognition system, based on the timing and spacing of the user’s handwriting. Ink words are created when the user has selected (link: /terms/ink-text text: Ink Text) in the “Recognition Preferences” slip. Ink words can subsequently be recognized with (link: /terms/deferred-recognition text: deferred recognition).
 
 (image: /assets/images/ink-text-2x.gif alt: Screenshot of Ink Text in the Notepad application width: 186)
 

@@ -8,7 +8,7 @@ Date: 14 December 2017
 
 Text:
 
-A program built into the [Newton Works](/terms/newton-works) application that uses specific [stationery](/terms/stationery) allowing the user to perform calculations and display the results in a graph or table. Information formatting using the [calculations](/terms/calculations) stationery can be copied and pasted into other [applications](/terms/application) on a Newton device.
+A program built into the (link: /terms/newton-works text: Newton Works) application that uses specific (link: /terms/stationery text: stationery) allowing the user to perform calculations and display the results in a graph or table. Information formatting using the (link: /terms/calculations text: calculations) stationery can be copied and pasted into other (link: /terms/application text: applications) on a Newton device.
 
 ----
 

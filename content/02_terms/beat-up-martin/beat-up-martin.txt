@@ -8,7 +8,7 @@ Date: 24 May 2017
 
 Text:
 
-See: [Eat Up Martha](/terms/eat-up-martha)
+See: (link: /terms/eat-up-martha text: Eat Up Martha)
 
 ----
 

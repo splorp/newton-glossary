@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A software program that facilitates the connection of a peripheral device to an [operating system](/terms/operating-system).
+A software program that facilitates the connection of a peripheral device to an (link: /terms/operating-system text: operating system).
 
-Commonly referred to as a [Driver](/terms/driver).
+Commonly referred to as a (link: /terms/driver text: Driver).
 
 ----
 

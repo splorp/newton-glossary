@@ -8,7 +8,7 @@ Date: 17 January 2024
 
 Text:
 
-A [PC card](/terms/pc-card) developed by [Socket Communications](https://web.archive.org/web/19980208233349/http://www.socketcom.com/) that allowed a computer or handheld device to receive and store wireless messages, essentially a pager with an alphanumeric display. The PageCard was included as part of the [Apple Mobile Message System](/terms/apple-mobile-message-system).
+A (link: /terms/pc-card text: PC card) developed by [Socket Communications](https://web.archive.org/web/19980208233349/http://www.socketcom.com/) that allowed a computer or handheld device to receive and store wireless messages, essentially a pager with an alphanumeric display. The PageCard was included as part of the (link: /terms/apple-mobile-message-system text: Apple Mobile Message System).
 
 ----
 

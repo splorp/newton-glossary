@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-See: [Close Box](/terms/close-box)
+See: (link: /terms/close-box text: Close Box)
 
 ----
 

@@ -8,7 +8,7 @@ Date: 31 May 2001
 
 Text:
 
-An [address](/terms/address) from the point of view of a programming language. A pointer can be “typed” — meaning that its “type” indicates the kind of data which it points at.
+An (link: /terms/address text: address) from the point of view of a programming language. A pointer can be “typed” — meaning that its “type” indicates the kind of data which it points at.
 
 ----
 

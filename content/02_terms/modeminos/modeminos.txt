@@ -9,7 +9,7 @@ Date: 17 March 2018
 Text:
 
 
-A chain of dominos created by members of Apple’s [Developer Technical Services](/terms/developer-technical-services) team using 4,000 [Newton Fax Modems](/terms/newton-fax-modem). Originally shot by [Maurice “Dr Llama” Sharp](/sources/maurice-sharp) on a “slow” day in 1996, the “Modeminos” video was included on several editions of the [Newton Developer CD](/terms/newton-developer-cd).
+A chain of dominos created by members of Apple’s (link: /terms/developer-technical-services text: Developer Technical Services) team using 4,000 (link: /terms/newton-fax-modem text: Newton Fax Modems). Originally shot by [Maurice “Dr Llama” Sharp](/sources/maurice-sharp) on a “slow” day in 1996, the “Modeminos” video was included on several editions of the (link: /terms/newton-developer-cd text: Newton Developer CD).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The portion of the built-in [system RAM](/terms/system-ram) used for [user storage](/terms/user-storage), including installed [packages](/terms/package) and permanent user data.
+The portion of the built-in (link: /terms/system-ram text: system RAM) used for (link: /terms/user-storage text: user storage), including installed (link: /terms/package text: packages) and permanent user data.
 
 ----
 

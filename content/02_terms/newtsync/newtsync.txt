@@ -8,9 +8,9 @@ Date: 21 November 2004
 
 Text:
 
-Software developed by John Anderson of [Everchanging Software](https://web.archive.org/web/20040611090738/http://www.everchanging.com/newton/) which facilitated the [synchronization](/terms/synchronization) of data between a Newton device and a [desktop computer](/terms/desktop-computer) or [laptop](/terms/laptop-computer) running Mac OS X.
+Software developed by John Anderson of [Everchanging Software](https://web.archive.org/web/20040611090738/http://www.everchanging.com/newton/) which facilitated the (link: /terms/synchronization text: synchronization) of data between a Newton device and a (link: /terms/desktop-computer text: desktop computer) or (link: /terms/laptop-computer text: laptop) running Mac OS X.
 
-NewtSync was originally known as [nSync](/terms/nsync).
+NewtSync was originally known as (link: /terms/nsync text: nSync).
 
 ----
 

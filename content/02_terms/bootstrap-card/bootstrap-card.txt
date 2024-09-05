@@ -8,11 +8,11 @@ Date: 22 April 2024
 
 Text:
 
-A [storage card](/terms/storage-card) that allows a user to update a Newton device with essential [packages](/terms/package), [drivers](/terms/driver), and [system patches](/terms/system-patch) without the need for a serial connection to another computer. A bootstrap card facilitates the installation of these packages by [restoring](/terms/restore) information from the card, replacing information on the destination Newton. Packages are retrieved by accessing the [InOut Box](/terms/inout-box) application located in the [Extras Drawer](/terms/extras-drawer) and then selecting [put away](/terms/put-away) using the [tag picker](/terms/tag-picker).
+A (link: /terms/storage-card text: storage card) that allows a user to update a Newton device with essential (link: /terms/package text: packages), (link: /terms/driver text: drivers), and (link: /terms/system-patch text: system patches) without the need for a serial connection to another computer. A bootstrap card facilitates the installation of these packages by (link: /terms/restore text: restoring) information from the card, replacing information on the destination Newton. Packages are retrieved by accessing the (link: /terms/inout-box text: InOut Box) application located in the (link: /terms/extras-drawer text: Extras Drawer) and then selecting (link: /terms/put-away text: put away) using the (link: /terms/tag-picker text: tag picker).
 
-This process is known as [bootstrapping](/terms/bootstrapping).
+This process is known as (link: /terms/bootstrapping text: bootstrapping).
 
-Also referred to as a [Lender Card](/terms/lender-card) or [Loaner Card](/terms/loaner-card).
+Also referred to as a (link: /terms/lender-card text: Lender Card) or (link: /terms/loaner-card text: Loaner Card).
 
 ----
 

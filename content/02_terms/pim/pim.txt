@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Personal Information Manager](/terms/personal-information-manager)
+See: (link: /terms/personal-information-manager text: Personal Information Manager)

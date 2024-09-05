@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Newton Package Installer](/terms/newton-package-installer)
+See: (link: /terms/newton-package-installer text: Newton Package Installer)

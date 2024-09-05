@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-An [object](/terms/object) used as an identifier. [NewtonScript](/terms/newtonscript) uses symbols to name [variables](/terms/variable), [classes](/terms/class), [messages](/terms/message), and frame [slots](/terms/slot). You can also use symbols as simple identifying values, as you would use enumerated types in other languages.
+An (link: /terms/object text: object) used as an identifier. (link: /terms/newtonscript text: NewtonScript) uses symbols to name (link: /terms/variable text: variables), (link: /terms/class text: classes), (link: /terms/message text: messages), and frame (link: /terms/slot text: slots). You can also use symbols as simple identifying values, as you would use enumerated types in other languages.
 
 ----
 

@@ -8,9 +8,9 @@ Date: 25 October 2017
 
 Text:
 
-A feature pertaining to a device which allows the user to insert a [PC card](/terms/pc-card) without having to power down the device. The [Voyager](/terms/voyager) chipset used in the [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate 300](/terms/emate-300) includes a [PCMCIA](/terms/pcmcia) controller which supports the ability to [hot insert](/terms/hot-insert) PC cards.
+A feature pertaining to a device which allows the user to insert a (link: /terms/pc-card text: PC card) without having to power down the device. The (link: /terms/voyager text: Voyager) chipset used in the (link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagepad-2100 text: MessagePad 2100), and (link: /terms/emate-300 text: eMate 300) includes a (link: /terms/pcmcia text: PCMCIA) controller which supports the ability to (link: /terms/hot-insert text: hot insert) PC cards.
 
-The opposite of hot insertion is [hot removal](/terms/hot-removal).
+The opposite of hot insertion is (link: /terms/hot-removal text: hot removal).
 
 ----
 

@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A like-minded collection of individuals who concentrate their knowledge, skills, and abilities on a special theme, technology, or goal. A [Newton User Group](/terms/newton-user-group) could be considered to be a special interest group dedicated to Newton hardware, software, support, and community.
+A like-minded collection of individuals who concentrate their knowledge, skills, and abilities on a special theme, technology, or goal. A (link: /terms/newton-user-group text: Newton User Group) could be considered to be a special interest group dedicated to Newton hardware, software, support, and community.
 
-Also referred to as a [SIG](/terms/sig).
+Also referred to as a (link: /terms/sig text: SIG).
 
 ----
 

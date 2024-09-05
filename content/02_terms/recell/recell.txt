@@ -8,7 +8,7 @@ Date: 21 November 2004
 
 Text:
 
-The process of replacing the nonfunctioning [cells](/terms/cell) in a rechargeable [battery pack](/terms/battery-pack) with new cells.
+The process of replacing the nonfunctioning (link: /terms/cell text: cells) in a rechargeable (link: /terms/battery-pack text: battery pack) with new cells.
 
 ----
 

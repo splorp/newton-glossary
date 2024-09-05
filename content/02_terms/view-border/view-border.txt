@@ -8,9 +8,9 @@ Date: 18 December 2023
 
 Text:
 
-Every [container view](/terms/container-view) is framed by a border. A view border serves to demarcate what is contained within the [view](/terms/view) and what is not. If a view fills the entire screen, its border is not visible.
+Every (link: /terms/container-view text: container view) is framed by a border. A view border serves to demarcate what is contained within the (link: /terms/view text: view) and what is not. If a view fills the entire screen, its border is not visible.
 
-Different border styles identify special types of container views. For example, a [wavy border](/terms/wavy-border) is associated with an [alert box](/terms/alert-box), whereas a [striped border](/terms/striped-border) is used to indicate a [routing slip](/terms/routing-slip).
+Different border styles identify special types of container views. For example, a (link: /terms/wavy-border text: wavy border) is associated with an (link: /terms/alert-box text: alert box), whereas a (link: /terms/striped-border text: striped border) is used to indicate a (link: /terms/routing-slip text: routing slip).
 
 ----
 

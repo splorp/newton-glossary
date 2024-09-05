@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-The name of the [ASIC](/terms/asic) chipset developed by [Cirrus Logic](/sources/cirrus-logic) and used in the [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate 300](/terms/emate-300) devices. Officially known as the [CL-PS7000](/terms/cl-ps7000), Voyager was this first chipset to support the [StrongARM](/terms/strongarm) processor. It consisted of four chips which provided control for all digital subsystems including the, analogue peripherals, [PCMCIA](/terms/pcmcia), and [infrared](/terms/infrared) communication.
+The name of the (link: /terms/asic text: ASIC) chipset developed by (link: /sources/cirrus-logic text: Cirrus Logic) and used in the (link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagepad-2100 text: MessagePad 2100), and (link: /terms/emate-300 text: eMate 300) devices. Officially known as the (link: /terms/cl-ps7000 text: CL-PS7000), Voyager was this first chipset to support the (link: /terms/strongarm text: StrongARM) processor. It consisted of four chips which provided control for all digital subsystems including the, analogue peripherals, (link: /terms/pcmcia text: PCMCIA), and (link: /terms/infrared text: infrared) communication.
 
-Voyager is sometimes referred to by the code name [Cirrus](/terms/cirrus).
+Voyager is sometimes referred to by the code name (link: /terms/cirrus text: Cirrus).
 
 ----
 

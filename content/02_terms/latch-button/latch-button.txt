@@ -8,7 +8,7 @@ Date: 07 August 2024
 
 Text:
 
-See: [Small Latch](/terms/small-latch)
+See: (link: /terms/small-latch text: Small Latch)
 
 ----
 

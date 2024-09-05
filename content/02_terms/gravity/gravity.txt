@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A drawing feature in [Newton OS](/terms/newton-os) that causes the ends of a newly drawn [line](/terms/line) to snap to nearby corners or midpoints of existing graphic [shapes](/terms/shape).
+A drawing feature in (link: /terms/newton-os text: Newton OS) that causes the ends of a newly drawn (link: /terms/line text: line) to snap to nearby corners or midpoints of existing graphic (link: /terms/shape text: shapes).
 
 ----
 

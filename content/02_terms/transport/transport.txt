@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), an [object](/terms/object) in [NewtonScript](/terms/newtonscript) that provides a communication service to the [InOut Box](/terms/inout-box) application, interfacing with an [endpoint](/terms/endpoint). Examples include the print, fax, [beam](/terms/beam), and email transports.
+In (link: /terms/newtonscript text: NewtonScript), an (link: /terms/object text: object) in (link: /terms/newtonscript text: NewtonScript) that provides a communication service to the (link: /terms/inout-box text: InOut Box) application, interfacing with an (link: /terms/endpoint text: endpoint). Examples include the print, fax, (link: /terms/beam text: beam), and email transports.
 
 ----
 

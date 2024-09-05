@@ -8,7 +8,7 @@ Date: 21 November 2004
 
 Text:
 
-The code name of the Newton device that was to be next in line after the [MessagePad 2100](/terms/messagepad-2100). According to [Walter Smith](/sources/walter-smith), the development priorities of this device were “placed on size and price”. Andante never shipped due to Newton development being [Steved](/terms/steved).
+The code name of the Newton device that was to be next in line after the (link: /terms/messagepad-2100 text: MessagePad 2100). According to (link: /sources/walter-smith text: Walter Smith), the development priorities of this device were “placed on size and price”. Andante never shipped due to Newton development being (link: /terms/steved text: Steved).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 03 September 2017
 
 Text:
 
-A simple hardware adapter created by [Doug Parker](/sources/doug-parker) to easily connect a [Palm Portable Stowaway Keyboard](https://web.archive.org/web/20000510122503/http://thinkoutside.com/palm.html) to a Newton device.
+A simple hardware adapter created by (link: /sources/doug-parker text: Doug Parker) to easily connect a [Palm Portable Stowaway Keyboard](https://web.archive.org/web/20000510122503/http://thinkoutside.com/palm.html) to a Newton device.
 
 ----
 

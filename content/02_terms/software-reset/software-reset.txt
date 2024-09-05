@@ -8,4 +8,4 @@ Date: 12 June 2001
 
 Text:
 
-See: [Soft Reset](/terms/soft-reset)
+See: (link: /terms/soft-reset text: Soft Reset)

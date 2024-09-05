@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-See: [Newton Messaging Card](/terms/newton-messaging-card)
+See: (link: /terms/newton-messaging-card text: Newton Messaging Card)
 
 ----
 

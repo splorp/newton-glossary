@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [This Old Newt](/terms/this-old-newt)
+See: (link: /terms/this-old-newt text: This Old Newt)

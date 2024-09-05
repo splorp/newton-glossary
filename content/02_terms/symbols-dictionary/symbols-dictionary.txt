@@ -8,7 +8,7 @@ Date: 28 November 2017
 
 Text:
 
-A [dictionary](/terms/dictionary) that is enabled for any [view](/terms/view) that performs [text recognition](/terms/text-recognition). The symbols dictionary includes alphanumeric characters and punctuation marks — allowing the user to correct single [characters](/terms/character) by writing over them on the [screen](/terms/screen).
+A (link: /terms/dictionary text: dictionary) that is enabled for any (link: /terms/view text: view) that performs (link: /terms/text-recognition text: text recognition). The symbols dictionary includes alphanumeric characters and punctuation marks — allowing the user to correct single (link: /terms/character text: characters) by writing over them on the (link: /terms/screen text: screen).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 28 May 2024
 
 Text:
 
-Software developed by Dr David Fong that allows the user to install [packages](/terms/package) on a Newton device using a computer running Amiga OS without the need of a Mac OS emulator.
+Software developed by Dr David Fong that allows the user to install (link: /terms/package text: packages) on a Newton device using a computer running Amiga OS without the need of a Mac OS emulator.
 
 ----
 

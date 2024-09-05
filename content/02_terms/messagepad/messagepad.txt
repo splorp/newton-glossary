@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The base model name for all [Apple](https://www.apple.com/) manufactured Newton devices except the [eMate 300](/terms/emate-300). The original name of the first Newton device was actually [Notepad](/terms/notepad). It was changed to MessagePad to better reflect the communication capabilities of the device.
+The base model name for all [Apple](https://www.apple.com/) manufactured Newton devices except the (link: /terms/emate-300 text: eMate 300). The original name of the first Newton device was actually (link: /terms/notepad text: Notepad). It was changed to MessagePad to better reflect the communication capabilities of the device.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 16 January 2024
 
 Text:
 
-An [application](/terms/application) known as “The Newton List Manager”. Lists created using Notion can be printed, faxed, emailed, or [beamed](/terms/beaming) to other Notion users. Originally developed by <a href="https://web.archive.org/web/19961103202800/http://eidetic.com/">Eidetic</a> and bundled with Newton devices, the development and marketing of Notion was eventually taken over by [PelicanWare](/sources/pelicanware).
+An (link: /terms/application text: application) known as “The Newton List Manager”. Lists created using Notion can be printed, faxed, emailed, or (link: /terms/beaming text: beamed) to other Notion users. Originally developed by <a href="https://web.archive.org/web/19961103202800/http://eidetic.com/">Eidetic</a> and bundled with Newton devices, the development and marketing of Notion was eventually taken over by (link: /sources/pelicanware text: PelicanWare).
 
 ----
 

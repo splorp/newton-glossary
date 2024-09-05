@@ -8,11 +8,11 @@ Date: 29 December 2023
 
 Text:
 
-An [application](/terms/application) on the [eMate 300](/terms/emate-300) used for connecting to the [Classroom Exchange](/terms/classroom-exchange) software running on another computer.
+An (link: /terms/application text: application) on the (link: /terms/emate-300 text: eMate 300) used for connecting to the (link: /terms/classroom-exchange text: Classroom Exchange) software running on another computer.
 
 (image: /assets/images/classroom-dock-2x.gif alt: Screenshot of the Classroom Dock application width: 196)
 
-Classroom Dock can be selected as the default [docking](/terms/docking) application by [tapping](/terms/tapping) the [Dock Options](/terms/dock-options) button in the [Teacher Setup](/terms/teacher-setup) slip.
+Classroom Dock can be selected as the default (link: /terms/docking text: docking) application by (link: /terms/tapping text: tapping) the (link: /terms/dock-options text: Dock Options) button in the (link: /terms/teacher-setup text: Teacher Setup) slip.
 
 ----
 

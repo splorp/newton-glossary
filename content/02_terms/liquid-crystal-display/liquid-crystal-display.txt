@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A thin, electro-optical [screen](/terms/screen) used to display information on the Newton and other electronic devices. Commonly known as an [LCD](/terms/lcd).
+A thin, electro-optical (link: /terms/screen text: screen) used to display information on the Newton and other electronic devices. Commonly known as an (link: /terms/lcd text: LCD).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a [frame](/terms/frame) passed as an argument to an [endpoint](/terms/endpoint) method. The callback spec frame contains [slots](/terms/slot) that control how the endpoint [method](/terms/method) executes, along with a completion method that is called when the endpoint operation completes.
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/frame text: frame) passed as an argument to an (link: /terms/endpoint text: endpoint) method. The callback spec frame contains (link: /terms/slot text: slots) that control how the endpoint (link: /terms/method text: method) executes, along with a completion method that is called when the endpoint operation completes.
 
 ----
 

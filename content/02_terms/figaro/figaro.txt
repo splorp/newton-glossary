@@ -8,7 +8,7 @@ Date: 25 September 2001
 
 Text:
 
-A speculative, pen-based tablet computer concept that kicked off the original Newton project. Figaro featured a hard drive, an active matrix [LCD](/terms/lcd) display, and [infrared](/terms/infrared) networking. The form factor would eventually evolve into the [Newton Plus](/terms/newton-plus) device.
+A speculative, pen-based tablet computer concept that kicked off the original Newton project. Figaro featured a hard drive, an active matrix (link: /terms/lcd text: LCD) display, and (link: /terms/infrared text: infrared) networking. The form factor would eventually evolve into the (link: /terms/newton-plus text: Newton Plus) device.
 
 ----
 

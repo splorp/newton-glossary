@@ -8,7 +8,7 @@ Date: 12 August 2024
 
 Text:
 
-Groups of individual key presses collected by [Newton OS](/terms/newton-os) that are batch processed, improving performance and user response times.
+Groups of individual key presses collected by (link: /terms/newton-os text: Newton OS) that are batch processed, improving performance and user response times.
 
 ----
 

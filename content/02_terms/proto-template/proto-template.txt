@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a predefined [template](/terms/template) that defines the appearance and behaviour of standard [user interface](/terms/user-interface) elements, such as a [close box](/terms/close-box) or [status slip](/terms/status-slip).
+In (link: /terms/newtonscript text: NewtonScript), a predefined (link: /terms/template text: template) that defines the appearance and behaviour of standard (link: /terms/user-interface text: user interface) elements, such as a (link: /terms/close-box text: close box) or (link: /terms/status-slip text: status slip).
 
-Also referred to as a [Proto](/terms/proto).
+Also referred to as a (link: /terms/proto text: Proto).
 
 ----
 

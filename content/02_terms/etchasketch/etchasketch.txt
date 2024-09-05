@@ -8,9 +8,9 @@ Date: 29 June 2017
 
 Text:
 
-A prototype version of the [Newton Toolkit](/terms/newton-toolkit) development environment created by [Maurice Sharp](/sources/maurice-sharp) using [Macintosh Common Lisp](/terms/macintosh-common-lisp).
+A prototype version of the (link: /terms/newton-toolkit text: Newton Toolkit) development environment created by (link: /sources/maurice-sharp text: Maurice Sharp) using (link: /terms/macintosh-common-lisp text: Macintosh Common Lisp).
 
-Also referred to as [EaS](/terms/eas).
+Also referred to as (link: /terms/eas text: EaS).
 
 (image: /assets/images/etchasketch-2x.gif alt: Screenshot of the EtchASketch project browser window width: 424)
 

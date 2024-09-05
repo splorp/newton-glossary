@@ -8,7 +8,7 @@ Date: 25 September 2001
 
 Text:
 
-A value found in [RAM](/terms/ram) on a Newton device which is used to indicate whether [global](/terms/global) values that live across restarts are valid or not. The BLTG acronym is defined in the Newton development environment header files and can also be found in the [Newton OS](/terms/newton-os) source code.
+A value found in (link: /terms/ram text: RAM) on a Newton device which is used to indicate whether (link: /terms/global text: global) values that live across restarts are valid or not. The BLTG acronym is defined in the Newton development environment header files and can also be found in the (link: /terms/newton-os text: Newton OS) source code.
 
 Also referred to using the playful mnemonic [Bacon Lettuce Tomato & Garlic](/terms/bacon-lettuce-tomato-garlic). Yum.
 

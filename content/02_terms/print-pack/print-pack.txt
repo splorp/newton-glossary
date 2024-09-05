@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-See: [Newton Print Pack](/terms/newton-print-pack)
+See: (link: /terms/newton-print-pack text: Newton Print Pack)
 
 ----
 

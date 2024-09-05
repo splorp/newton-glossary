@@ -8,7 +8,7 @@ Date: 31 May 2001
 
 Text:
 
-A term used by early Newton developers to denote [beaming](/terms/beaming) of information between Newton devices using the [infrared](/terms/infrared) port.
+A term used by early Newton developers to denote (link: /terms/beaming text: beaming) of information between Newton devices using the (link: /terms/infrared text: infrared) port.
 
 ----
 

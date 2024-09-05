@@ -8,7 +8,7 @@ Date: 07 September 2017
 
 Text:
 
-See: [Print Recognizer](/terms/print-recognizer)
+See: (link: /terms/print-recognizer text: Print Recognizer)
 
 ----
 

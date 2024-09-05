@@ -8,7 +8,7 @@ Date: 25 June 2001
 
 Text:
 
-A [picture button](/terms/picture-button) that executes a NewtonScript [function object](/terms/function-object) when [tapped](/terms/tapped).
+A (link: /terms/picture-button text: picture button) that executes a NewtonScript (link: /terms/function-object text: function object) when (link: /terms/tapped text: tapped).
 
 ----
 

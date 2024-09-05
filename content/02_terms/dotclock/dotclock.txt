@@ -8,7 +8,7 @@ Date: 10 May 2024
 
 Text:
 
-A clock [application](/terms/application) developed by [Frank Gründel](/sources/frank-grundel) that uses images rather than numerals to relate the current time. This approach requires the user to apply their powers of observation with basic mathematics in order to read the time.
+A clock (link: /terms/application text: application) developed by (link: /sources/frank-grundel text: Frank Gründel) that uses images rather than numerals to relate the current time. This approach requires the user to apply their powers of observation with basic mathematics in order to read the time.
 
 (image: /assets/images/dotclock-2x.gif alt: Screenshot of the DotClock application width: 240)
 

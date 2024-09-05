@@ -8,7 +8,7 @@ Date: 30 October 2001
 
 Text:
 
-See: [Silkscreen Button](/terms/silkscreen-button)
+See: (link: /terms/silkscreen-button text: Silkscreen Button)
 
 ----
 

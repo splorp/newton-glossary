@@ -10,7 +10,7 @@ Text:
 
 A software program that stores and organizes personal data such as names, addresses, and other means of contact.
 
-Commonly referred to as a [PIM](/terms/pim).
+Commonly referred to as a (link: /terms/pim text: PIM).
 
 ----
 

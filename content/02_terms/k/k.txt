@@ -8,7 +8,7 @@ Date: 25 September 2001
 
 Text:
 
-See: [K Diags](/terms/k-diags), [K Libs](/terms/k-libs), and [Project K](/terms/project-k)
+See: (link: /terms/k-diags text: K Diags), (link: /terms/k-libs text: K Libs), and (link: /terms/project-k text: Project K)
 
 ----
 

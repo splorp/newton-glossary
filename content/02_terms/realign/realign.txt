@@ -8,7 +8,7 @@ Date: 26 June 2024
 
 Text:
 
-The process of resetting the [pen alignment](/terms/pen-alignment) or the accuracy of the [pen](/terms/pen) when it interacts with the [screen](/terms/screen) on a Newton device. For example, if a [tap](/terms/tap) affects an area of the screen that is not directly under the tip of the pen, the user would tap the [Align Pen](/terms/align-pen) button located in the [Handwriting Recognition](/terms/handwriting-recognition) slip.
+The process of resetting the (link: /terms/pen-alignment text: pen alignment) or the accuracy of the (link: /terms/pen text: pen) when it interacts with the (link: /terms/screen text: screen) on a Newton device. For example, if a (link: /terms/tap text: tap) affects an area of the screen that is not directly under the tip of the pen, the user would tap the (link: /terms/align-pen text: Align Pen) button located in the (link: /terms/handwriting-recognition text: Handwriting Recognition) slip.
 
 ----
 

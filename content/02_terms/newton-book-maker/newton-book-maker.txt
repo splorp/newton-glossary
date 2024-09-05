@@ -8,11 +8,11 @@ Date: 24 May 2001
 
 Text:
 
-Software developed by [Apple](https://www.apple.com/) for creating sophisticated electronic documents in [Newton book](/terms/newton-book) format and online help for Newton [applications](/terms/application). Newton Book Maker uses text-based [commands](/terms/command) contained in [book source files](/terms/book-source-file) to produce [book definition files](/terms/book-definition-file) for use with [Newton Toolkit](/terms/newton-toolkit).
+Software developed by [Apple](https://www.apple.com/) for creating sophisticated electronic documents in (link: /terms/newton-book text: Newton book) format and online help for Newton (link: /terms/application text: applications). Newton Book Maker uses text-based (link: /terms/command text: commands) contained in (link: /terms/book-source-file text: book source files) to produce (link: /terms/book-definition-file text: book definition files) for use with (link: /terms/newton-toolkit text: Newton Toolkit).
 
-[Book maker commands](/terms/book-maker-commands) allow the developer to provide additional functionality or control over the page layout of a book. Newton Book Maker also provides a means to attach other data, [methods](/terms/method), and view [templates](/terms/template) to book content.
+(link: /terms/book-maker-commands text: Book maker commands) allow the developer to provide additional functionality or control over the page layout of a book. Newton Book Maker also provides a means to attach other data, (link: /terms/method text: methods), and view (link: /terms/template text: templates) to book content.
 
-Also referred to as [NBM](/terms/nbm).
+Also referred to as (link: /terms/nbm text: NBM).
 
 ----
 

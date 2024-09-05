@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-The driver development kit or [DDK](/terms/ddk) used to write a [Lantern Driver](/terms/lantern-driver). The [Lantern Library](/terms/lantern-library) or [API](/terms/api) is included in the [Newton Devices](/terms/newton-devices) package and is required in order to use any drivers you write with the DDK.
+The driver development kit or (link: /terms/ddk text: DDK) used to write a (link: /terms/lantern-driver text: Lantern Driver). The (link: /terms/lantern-library text: Lantern Library) or (link: /terms/api text: API) is included in the (link: /terms/newton-devices text: Newton Devices) package and is required in order to use any drivers you write with the DDK.
 
 ----
 

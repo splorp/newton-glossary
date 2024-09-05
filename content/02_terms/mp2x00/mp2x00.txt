@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A shorthand term used when referring to both the [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices.
+A shorthand term used when referring to both the (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices.
 
 ----
 

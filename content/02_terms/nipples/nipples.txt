@@ -8,9 +8,9 @@ Date: 31 May 2001
 
 Text:
 
-An affectionate term used by the original Newton developers for the small rubber feet found on the bottom of a Newton device. These small, elusive components are purportedly manufactured using [unobtainium](/terms/unobtainium), due to the difficulty in locating replacements.
+An affectionate term used by the original Newton developers for the small rubber feet found on the bottom of a Newton device. These small, elusive components are purportedly manufactured using (link: /terms/unobtainium text: unobtainium), due to the difficulty in locating replacements.
 
-Also referred to as [Rubber Nubs](/terms/rubber-nubs).
+Also referred to as (link: /terms/rubber-nubs text: Rubber Nubs).
 
 ----
 

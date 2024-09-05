@@ -8,9 +8,9 @@ Date: 24 August 2016
 
 Text:
 
-Software developed by [Revelar](/sources/revelar) that connects a Newton device to a [FileMaker Pro](https://en.wikipedia.org/wiki/FileMaker) relational [database](/terms/database) located on a Mac OS computer. Once connected, the user can transfer data between Newton [applications](/terms/application) such as [Name File](/terms/name-file) or [Notepad](/terms/notepad) and the hosted database.
+Software developed by (link: /sources/revelar text: Revelar) that connects a Newton device to a [FileMaker Pro](https://en.wikipedia.org/wiki/FileMaker) relational (link: /terms/database text: database) located on a Mac OS computer. Once connected, the user can transfer data between Newton (link: /terms/application text: applications) such as (link: /terms/name-file text: Name File) or (link: /terms/notepad text: Notepad) and the hosted database.
 
-Accordian was eventually bundled free with [Revelar Connection Utility](/terms/revelar-connection-utility).
+Accordian was eventually bundled free with (link: /terms/revelar-connection-utility text: Revelar Connection Utility).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 08 February 2020
 
 Text:
 
-A [folder](/terms/folder) in an [application](/terms/application) such as [Newton Works](/terms/newton-works) containing documents created by that application which have not been filed in another folder.
+A (link: /terms/folder text: folder) in an (link: /terms/application text: application) such as (link: /terms/newton-works text: Newton Works) containing documents created by that application which have not been filed in another folder.
 
 ----
 

@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-See: [System Patch](/terms/system-patch)
+See: (link: /terms/system-patch text: System Patch)
 
 ----
 

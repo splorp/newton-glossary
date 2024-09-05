@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Graphical User Interface](/terms/graphical-user-interface)
+See: (link: /terms/graphical-user-interface text: Graphical User Interface)

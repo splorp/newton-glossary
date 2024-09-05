@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A handwritten mark that is recognized as having a special meaning by the [Newton OS](/terms/newton-os). Standard gestures recognized on the Newton include [tapping](/terms/tapping), [scrubbing](/terms/scrubbing), and the [caret](/terms/caret).
+A handwritten mark that is recognized as having a special meaning by the (link: /terms/newton-os text: Newton OS). Standard gestures recognized on the Newton include (link: /terms/tapping text: tapping), (link: /terms/scrubbing text: scrubbing), and the (link: /terms/caret text: caret).
 
-The [Graffiti](/terms/graffiti) input system is also based on gestures.
+The (link: /terms/graffiti text: Graffiti) input system is also based on gestures.
 
 ----
 

@@ -8,9 +8,9 @@ Date: 15 February 2024
 
 Text:
 
-A consortium formed by Apple and major third-party partners (including Matsushita and Motorola) to promote the Newton as standard open [PDA](/terms/pda) platform. The primary focus of the association was to promote the growth and interoperability of the Newton platform and related devices, as well as wireless communication, telephony, and office automation standards.
+A consortium formed by Apple and major third-party partners (including Matsushita and Motorola) to promote the Newton as standard open (link: /terms/pda text: PDA) platform. The primary focus of the association was to promote the growth and interoperability of the Newton platform and related devices, as well as wireless communication, telephony, and office automation standards.
 
-Also referred to as the [NIA](/terms/nia).
+Also referred to as the (link: /terms/nia text: NIA).
 
 ----
 

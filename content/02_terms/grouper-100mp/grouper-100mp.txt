@@ -8,9 +8,9 @@ Date: 01 October 2017
 
 Text:
 
-A member of the [Grouper](/terms/grouper) family of devices developed by [Digital Ocean](/sources/digital-ocean), this radio-based peripheral provided [wireless AppleTalk](/terms/wireless-appletalk) connectivity over a [local area network](/terms/local-area-network). Identical in functionality to the [Grouper 110MP](/terms/grouper-110mp), but designed to fit the case of a [MessagePad 100](/terms/messagepad-100).
+A member of the (link: /terms/grouper text: Grouper) family of devices developed by (link: /sources/digital-ocean text: Digital Ocean), this radio-based peripheral provided (link: /terms/wireless-appletalk text: wireless AppleTalk) connectivity over a (link: /terms/local-area-network text: local area network). Identical in functionality to the (link: /terms/grouper-110mp text: Grouper 110MP), but designed to fit the case of a (link: /terms/messagepad-100 text: MessagePad 100).
 
-Also referred to as a [100MP](/terms/100mp).
+Also referred to as a (link: /terms/100mp text: 100MP).
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 The geometric center of a plane or volumetric object.
 
-On a Newton device, the [digitizer](/terms/digitizer) can only process one point on the [touch screen](/terms/touch-screen) at a time. For example, if you [tap](/terms/tap) the screen in two places at the same time, the tap will be registered at the centroid, or the point that is exactly in between the two places where the screen was tapped.
+On a Newton device, the (link: /terms/digitizer text: digitizer) can only process one point on the (link: /terms/touch-screen text: touch screen) at a time. For example, if you (link: /terms/tap text: tap) the screen in two places at the same time, the tap will be registered at the centroid, or the point that is exactly in between the two places where the screen was tapped.
 
 ----
 

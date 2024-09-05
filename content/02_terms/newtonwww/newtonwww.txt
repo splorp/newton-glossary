@@ -8,7 +8,7 @@ Date: 18 November 2017
 
 Text:
 
-See: [PocketWeb](/terms/pocketweb)
+See: (link: /terms/pocketweb text: PocketWeb)
 
 ----
 

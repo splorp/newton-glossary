@@ -8,11 +8,11 @@ Date: 24 August 2016
 
 Text:
 
-The last Newton device released by [Apple](https://www.apple.com/) through their [Newton Inc.](/terms/newton-inc) subsidiary. It shared the same specifications as its predecessor, the [MessagePad 2000](/terms/messagepad-2000), with the exception of an increased amount of [system memory](/terms/system-memory). A MessagePad 2000 device can been upgraded to the equivalent of a MessagePad 2100 by increasing the total amount of [RAM](/terms/ram) from 5MB to 8MB.
+The last Newton device released by [Apple](https://www.apple.com/) through their [Newton Inc.](/terms/newton-inc) subsidiary. It shared the same specifications as its predecessor, the (link: /terms/messagepad-2000 text: MessagePad 2000), with the exception of an increased amount of (link: /terms/system-memory text: system memory). A MessagePad 2000 device can been upgraded to the equivalent of a MessagePad 2100 by increasing the total amount of (link: /terms/ram text: RAM) from 5MB to 8MB.
 
-Like its predecessor, the MessagePad 2100 was code named alternately [N2](/terms/n2) and [Q](/terms/q).
+Like its predecessor, the MessagePad 2100 was code named alternately (link: /terms/n2 text: N2) and (link: /terms/q text: Q).
 
-It is commonly referred to as an [MP2100](/terms/mp2100).
+It is commonly referred to as an (link: /terms/mp2100 text: MP2100).
 
 ----
 

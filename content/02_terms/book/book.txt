@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Newton Book](/terms/newton-book)
+See: (link: /terms/newton-book text: Newton Book)

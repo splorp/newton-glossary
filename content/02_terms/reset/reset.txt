@@ -8,4 +8,4 @@ Date: 24 August 2016
 
 Text:
 
-See: [Hard Reset](/terms/hard-reset), [Soft Reset](/terms/soft-reset), [Power Reset](/terms/power-reset), [System Reset](/terms/system-reset), and [Cold Boot](/terms/cold-boot)
+See: (link: /terms/hard-reset text: Hard Reset), (link: /terms/soft-reset text: Soft Reset), (link: /terms/power-reset text: Power Reset), (link: /terms/system-reset text: System Reset), and (link: /terms/cold-boot text: Cold Boot)

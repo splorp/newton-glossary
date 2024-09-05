@@ -8,7 +8,7 @@ Date: 31 May 2001
 
 Text:
 
-Memory pages that replace the [ROM](/terms/rom) or [ROM Extension](/terms/rom-extension) pages of the [patchable jump table](/terms/patchable-jump-table) or the [magic pointers table](/terms/magic-pointers-table).
+Memory pages that replace the (link: /terms/rom text: ROM) or (link: /terms/rom-extension text: ROM Extension) pages of the (link: /terms/patchable-jump-table text: patchable jump table) or the (link: /terms/magic-pointers-table text: magic pointers table).
 
 ----
 

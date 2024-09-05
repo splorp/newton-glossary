@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-See: [Infrared Window](/terms/infrared-window)
+See: (link: /terms/infrared-window text: Infrared Window)
 
 ----
 

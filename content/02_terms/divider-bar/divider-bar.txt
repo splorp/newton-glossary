@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-See: [Separator Bar](/terms/separator-bar)
+See: (link: /terms/separator-bar text: Separator Bar)
 
 ----
 

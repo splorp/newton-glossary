@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-The [store](/terms/store) on which new data is saved. Unless specified by the user, the [internal store](/terms/internal-store) is used as the default.
+The (link: /terms/store text: store) on which new data is saved. Unless specified by the user, the (link: /terms/internal-store text: internal store) is used as the default.
 
 ----
 

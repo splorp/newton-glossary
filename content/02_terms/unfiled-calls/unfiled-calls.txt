@@ -8,7 +8,7 @@ Date: 08 February 2020
 
 Text:
 
-A [folder](/terms/folder) in the [Calls](/terms/calls) application containing items which have not been filed in another folder.
+A (link: /terms/folder text: folder) in the (link: /terms/calls text: Calls) application containing items which have not been filed in another folder.
 
 ----
 

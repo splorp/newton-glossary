@@ -8,7 +8,7 @@ Date: 14 October 2017
 
 Text:
 
-A supplemental [dictionary](/terms/dictionary) used by a third-party [application](/terms/application) to facilitate the recognition of specialized vocabulary such as medical or legal terms. Built-in [Newton OS](/terms/newton-os) applications such as [Name File](/terms/name-file) and [Date Book](/terms/date-book) cannot use custom dictionaries created for third-party applications.
+A supplemental (link: /terms/dictionary text: dictionary) used by a third-party (link: /terms/application text: application) to facilitate the recognition of specialized vocabulary such as medical or legal terms. Built-in (link: /terms/newton-os text: Newton OS) applications such as (link: /terms/name-file text: Name File) and (link: /terms/date-book text: Date Book) cannot use custom dictionaries created for third-party applications.
 
 ----
 

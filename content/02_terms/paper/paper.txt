@@ -8,7 +8,7 @@ Date: 23 November 2017
 
 Text:
 
-The document format (or [stationery](/terms/stationery)) used by the word processor component of the [Newton Works](/terms/newton-works) application. The Newton Works word processor does not utilize [handwriting recognition](/terms/handwriting-recognition), so text must be entered into the word processor using a keyboard.
+The document format (or (link: /terms/stationery text: stationery)) used by the word processor component of the (link: /terms/newton-works text: Newton Works) application. The Newton Works word processor does not utilize (link: /terms/handwriting-recognition text: handwriting recognition), so text must be entered into the word processor using a keyboard.
 
 ----
 

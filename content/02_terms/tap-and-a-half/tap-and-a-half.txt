@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-To [tap](/terms/tap), then quickly lift, touch, and hold the [pen](/terms/pen) in the same spot on the [screen](/terms/screen). Essentially performing a down, up, down action with the pen.
+To (link: /terms/tap text: tap), then quickly lift, touch, and hold the (link: /terms/pen text: pen) in the same spot on the (link: /terms/screen text: screen). Essentially performing a down, up, down action with the pen.
 
 ----
 

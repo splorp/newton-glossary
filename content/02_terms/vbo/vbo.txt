@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See: [Virtual Binary Object](/terms/virtual-binary-object)
+See: (link: /terms/virtual-binary-object text: Virtual Binary Object)

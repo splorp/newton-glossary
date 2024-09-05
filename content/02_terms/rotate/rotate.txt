@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-To change the [orientation](/terms/orientation) of the displayed content on a Newton device.
+To change the (link: /terms/orientation text: orientation) of the displayed content on a Newton device.
 
 ----
 

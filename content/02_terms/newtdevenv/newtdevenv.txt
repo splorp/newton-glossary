@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A development environment created by [Steve Weyer](/sources/steve-weyer) for creating [applications](/terms/application) using [NewtonScript](/terms/newtonscript) directly on a Newton device.
+A development environment created by (link: /sources/steve-weyer text: Steve Weyer) for creating (link: /terms/application text: applications) using (link: /terms/newtonscript text: NewtonScript) directly on a Newton device.
 
-Also referred to as [NDE](/terms/nde) and [Newt](/terms/newt).
+Also referred to as (link: /terms/nde text: NDE) and (link: /terms/newt text: Newt).
 
 ----
 

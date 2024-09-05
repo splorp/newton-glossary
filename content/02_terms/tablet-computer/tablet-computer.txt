@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A portable computer system utilizing a [touch screen](/terms/touch-screen) display. Earlier tablets required a [pen](/terms/pen) to interact with the touch screen, whereas modern tablet devices utilize the user’s fingers to interact with the touch screen. A Newton device can be considered a tablet computer.
+A portable computer system utilizing a (link: /terms/touch-screen text: touch screen) display. Earlier tablets required a (link: /terms/pen text: pen) to interact with the touch screen, whereas modern tablet devices utilize the user’s fingers to interact with the touch screen. A Newton device can be considered a tablet computer.
 
 ----
 

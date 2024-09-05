@@ -8,9 +8,9 @@ Date: 13 November 2017
 
 Text:
 
-A Newton device developed by [Siemens](https://www.siemens.com/) for the German market. Based on the [Original MessagePad](/terms/original-messagepad), the NotePhone integrated a telephone, fax [modem](/terms/modem), and compatibility with PBX switchboards into a single package. Siemens also developed a [Newton OS](/terms/newton-os) prototype known as the [Siemens Online Terminal](/terms/siemens-online-terminal).
+A Newton device developed by [Siemens](https://www.siemens.com/) for the German market. Based on the (link: /terms/original-messagepad text: Original MessagePad), the NotePhone integrated a telephone, fax (link: /terms/modem text: modem), and compatibility with PBX switchboards into a single package. Siemens also developed a (link: /terms/newton-os text: Newton OS) prototype known as the (link: /terms/siemens-online-terminal text: Siemens Online Terminal).
 
-A third-party device that utilizes a licensed version of [Newton OS](/terms/newton-os) is commonly referred to as a [clone](/terms/clone).
+A third-party device that utilizes a licensed version of (link: /terms/newton-os text: Newton OS) is commonly referred to as a (link: /terms/clone text: clone).
 
 ----
 

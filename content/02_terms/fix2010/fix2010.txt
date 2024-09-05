@@ -8,7 +8,7 @@ Date: 02 September 2017
 
 Text:
 
-A [system patch](/terms/system-patch) created by [Avi Drissman](/sources/avi-drissman) that addresses some of the bugs introduced by the [Year 2010 Problem](/terms/year-2010-problem).
+A (link: /terms/system-patch text: system patch) created by (link: /sources/avi-drissman text: Avi Drissman) that addresses some of the bugs introduced by the (link: /terms/year-2010-problem text: Year 2010 Problem).
 
 ----
 

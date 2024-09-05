@@ -8,7 +8,7 @@ Date: 31 May 2001
 
 Text:
 
-A list of branching instructions for the microprocessor, indirectly pointing to native [functions](/terms/function). For each version of the [ROM](/terms/rom) in Newton OS 2.0 and later, the functions always reside at the same offset in the [jump table](/terms/jump-table). Native programs can call these functions via the public jump table and they will work on every [Newton OS](/terms/newton-os) device. The public jump table also contains a series of branches pointing to the [patchable jump table](/terms/patchable-jump-table).
+A list of branching instructions for the microprocessor, indirectly pointing to native (link: /terms/function text: functions). For each version of the (link: /terms/rom text: ROM) in Newton OS 2.0 and later, the functions always reside at the same offset in the (link: /terms/jump-table text: jump table). Native programs can call these functions via the public jump table and they will work on every (link: /terms/newton-os text: Newton OS) device. The public jump table also contains a series of branches pointing to the (link: /terms/patchable-jump-table text: patchable jump table).
 
 ----
 

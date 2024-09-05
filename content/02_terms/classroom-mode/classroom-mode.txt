@@ -8,7 +8,7 @@ Date: 29 December 2023
 
 Text:
 
-A mode of operation on an [eMate 300](/terms/emate-300) typically used in a classroom or multiuser situation. Classroom Mode is specified using the [Teacher Setup](/terms/teacher-setup) application and provides a simplified Newton interface, limiting which features and [applications](/terms/application) students can access.
+A mode of operation on an (link: /terms/emate-300 text: eMate 300) typically used in a classroom or multiuser situation. Classroom Mode is specified using the (link: /terms/teacher-setup text: Teacher Setup) application and provides a simplified Newton interface, limiting which features and (link: /terms/application text: applications) students can access.
 
 (image: /assets/images/teacher-setup-2x.gif alt: Screenshot of the Teacher Setup application width: 236)
 

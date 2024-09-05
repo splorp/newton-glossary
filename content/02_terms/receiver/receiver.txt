@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), the [frame](/terms/frame) that was sent a [message](/terms/message) to execute a [method](/terms/method). The receiver for the invocation of a function [object](/terms/object) is accessible through the pseudo-[variable](/terms/variable) `self`.
+In (link: /terms/newtonscript text: NewtonScript), the (link: /terms/frame text: frame) that was sent a (link: /terms/message text: message) to execute a (link: /terms/method text: method). The receiver for the invocation of a function (link: /terms/object text: object) is accessible through the pseudo-(link: /terms/variable text: variable) `self`.
 
 ----
 

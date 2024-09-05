@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [user interface](/terms/user-interface) element or [object](/terms/object) in a [container view](/terms/container-view) that a user can manipulate with a [pen](/terms/pen) to cause instant action with visible results or to change settings that modify a future action.
+A (link: /terms/user-interface text: user interface) element or (link: /terms/object text: object) in a (link: /terms/container-view text: container view) that a user can manipulate with a (link: /terms/pen text: pen) to cause instant action with visible results or to change settings that modify a future action.
 
 ----
 

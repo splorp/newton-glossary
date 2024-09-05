@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-A code name of the processor chip developed by AT&amp;T, originally targeted to be used for the Newton platform. The Hobbit chip was replaced by the [RISC](/terms/risc) chip developed by [ARM](/terms/arm).
+A code name of the processor chip developed by AT&amp;T, originally targeted to be used for the Newton platform. The Hobbit chip was replaced by the (link: /terms/risc text: RISC) chip developed by (link: /terms/arm text: ARM).
 
 AT&amp;T went on to use the Hobbit processor in its own pen-based computer, the EO.
 

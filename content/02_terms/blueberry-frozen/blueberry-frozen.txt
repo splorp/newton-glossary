@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A variation on the [Frozen Newton](/terms/frozen-newton) project which features a custom, clear case [MessagePad 2100](/terms/messagepad-2100) with blue accents.
+A variation on the (link: /terms/frozen-newton text: Frozen Newton) project which features a custom, clear case (link: /terms/messagepad-2100 text: MessagePad 2100) with blue accents.
 
 ----
 

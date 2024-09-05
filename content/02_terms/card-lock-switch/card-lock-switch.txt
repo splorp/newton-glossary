@@ -8,7 +8,7 @@ Date: 17 July 2024
 
 Text:
 
-See: [Locking Tab](/terms/locking-tab) and [Write-Protection Switch](/terms/write-protection-switch).
+See: (link: /terms/locking-tab text: Locking Tab) and (link: /terms/write-protection-switch text: Write-Protection Switch).
 
 ----
 

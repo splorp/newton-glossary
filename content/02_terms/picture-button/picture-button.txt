@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A control that when [tapped](/terms/tapped) by the user, performs or confirms the action implied by the [icon](/terms/icon) displayed on the [button](/terms/button).
+A control that when (link: /terms/tapped text: tapped) by the user, performs or confirms the action implied by the (link: /terms/icon text: icon) displayed on the (link: /terms/button text: button).
 
-For example, [tapping](/terms/tapping) the small picture button in the top left corner of a [note](/terms/note) will open an [item info slip](/terms/item-info-slip), containing the title of the note, and date and time the note was created, the amount of space the note uses, and where the note is [stored](/terms/store).
+For example, (link: /terms/tapping text: tapping) the small picture button in the top left corner of a (link: /terms/note text: note) will open an (link: /terms/item-info-slip text: item info slip), containing the title of the note, and date and time the note was created, the amount of space the note uses, and where the note is (link: /terms/store text: stored).
 
 ----
 

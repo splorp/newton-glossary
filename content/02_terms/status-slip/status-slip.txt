@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [view](/terms/view) displayed by an [application](/terms/application) when it begins an operation that takes more than a few seconds to complete. A status slip contains a message describing the application’s busy status. If a status slip is hidden, a [notify button](/terms/notify-button) that looks like a [blinking star](/terms/blinking-star) will appear at the top of the screen. [Tapping](/terms/tapping) the [star](/terms/star) will display the status slip.
+A (link: /terms/view text: view) displayed by an (link: /terms/application text: application) when it begins an operation that takes more than a few seconds to complete. A status slip contains a message describing the application’s busy status. If a status slip is hidden, a (link: /terms/notify-button text: notify button) that looks like a (link: /terms/blinking-star text: blinking star) will appear at the top of the screen. (link: /terms/tapping text: Tapping) the (link: /terms/star text: star) will display the status slip.
 
 (image: /assets/images/status-slip-checking-for-mail-2x.gif alt: Screenshot of a Status Slip checking for eWorld mail width: 201)
 

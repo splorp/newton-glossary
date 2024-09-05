@@ -10,7 +10,7 @@ Text:
 
 Card to Card
 
-An acronym describing the transfer of data from one [storage cards](/terms/storage-card) to another using a Newton device.
+An acronym describing the transfer of data from one (link: /terms/storage-card text: storage cards) to another using a Newton device.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [dictionary](/terms/dictionary) containing a list of strings that can be matched when [handwriting recognition](/terms/handwriting-recognition) is enabled.
+A (link: /terms/dictionary text: dictionary) containing a list of strings that can be matched when (link: /terms/handwriting-recognition text: handwriting recognition) is enabled.
 
 ----
 

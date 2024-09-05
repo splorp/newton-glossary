@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An inactive state of a Newton device where system and peripheral functions are shut down, but the device can still respond or [wake](/terms/wake) to an external signal.
+An inactive state of a Newton device where system and peripheral functions are shut down, but the device can still respond or (link: /terms/wake text: wake) to an external signal.
 
 ----
 

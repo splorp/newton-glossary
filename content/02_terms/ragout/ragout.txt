@@ -8,7 +8,7 @@ Date: 19 April 2024
 
 Text:
 
-A developer utility for [Newton OS](/terms/newton-os) for inspecting, manipulating, and editing [soup](/terms/soup) data. Ragout was developed by [Jason Harper](http://nixietube.info/) and distributed by [Creative Digital Publishing](/sources/creative-digital-publishing).
+A developer utility for (link: /terms/newton-os text: Newton OS) for inspecting, manipulating, and editing (link: /terms/soup text: soup) data. Ragout was developed by [Jason Harper](http://nixietube.info/) and distributed by (link: /sources/creative-digital-publishing text: Creative Digital Publishing).
 
 (image: /assets/images/ragout-2x.gif alt: Screenshot of Ragout width: 242)
 

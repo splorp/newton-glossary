@@ -8,7 +8,7 @@ Date: 18 April 2024
 
 Text:
 
-An [application](/terms/application) developed by [Ray Rischpater](/sources/ray-rischpater) that provides a simple means to switch a Newton device into [guest mode](/terms/guest-mode) and back.
+An (link: /terms/application text: application) developed by (link: /sources/ray-rischpater text: Ray Rischpater) that provides a simple means to switch a Newton device into (link: /terms/guest-mode text: guest mode) and back.
 
 ----
 

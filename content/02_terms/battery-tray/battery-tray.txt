@@ -8,9 +8,9 @@ Date: 24 August 2016
 
 Text:
 
-A removable component of a [MessagePad](/terms/messagepad) device which holds a set of individual [batteries](/terms/battery). Batteries held in the battery tray can be easily replaced by the user.
+A removable component of a (link: /terms/messagepad text: MessagePad) device which holds a set of individual (link: /terms/battery text: batteries). Batteries held in the battery tray can be easily replaced by the user.
 
-Also referred to as a [Battery Cage](/terms/battery-cage), [Battery Sled](/terms/battery-sled), [Cage](/terms/cage), [Sled](/terms/sled), or [Tray](/terms/tray).
+Also referred to as a (link: /terms/battery-cage text: Battery Cage), (link: /terms/battery-sled text: Battery Sled), (link: /terms/cage text: Cage), (link: /terms/sled text: Sled), or (link: /terms/tray text: Tray).
 
 ----
 

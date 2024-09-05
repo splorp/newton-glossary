@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-To cause the currently displayed data to move off the [screen](/terms/screen) and be replaced by data that was not visible.
+To cause the currently displayed data to move off the (link: /terms/screen text: screen) and be replaced by data that was not visible.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 28 September 2017
 
 Text:
 
-A type of [stationery](/terms/stationery) in the [Notepad](/terms/notepad) application that can be used to create and organize hierarchical lists.
+A type of (link: /terms/stationery text: stationery) in the (link: /terms/notepad text: Notepad) application that can be used to create and organize hierarchical lists.
 
 ----
 

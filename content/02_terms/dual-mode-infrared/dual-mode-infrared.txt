@@ -8,9 +8,9 @@ Date: 10 July 2024
 
 Text:
 
-A method of supporting different modes of [infrared](/terms/infrared) communication between devices using a single [transceiver](/terms/transceiver).
+A method of supporting different modes of (link: /terms/infrared text: infrared) communication between devices using a single (link: /terms/transceiver text: transceiver).
 
-The [MessagePad 2000](/terms/messagepad-2000), [MessagePad 2100](/terms/messagepad-2100), and [eMate 300](/terms/emate-300) utilize dual-mode infrared transceivers, allowing them to support wireless data transfer using both [IrDA](/terms/irda) and [ASK](/terms/ask) protocols.
+The (link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagepad-2100 text: MessagePad 2100), and (link: /terms/emate-300 text: eMate 300) utilize dual-mode infrared transceivers, allowing them to support wireless data transfer using both (link: /terms/irda text: IrDA) and (link: /terms/ask text: ASK) protocols.
 
 ----
 

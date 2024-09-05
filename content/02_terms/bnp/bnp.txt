@@ -8,4 +8,4 @@ Date:
 
 Text:
 
-See: [Bad Newton Press](/terms/bad-newton-press)
+See: (link: /terms/bad-newton-press text: Bad Newton Press)

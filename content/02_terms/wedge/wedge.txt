@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A pie-shaped segment of an [oval](/terms/oval), bounded by a pair of radii joining at the oval’s center.
+A pie-shaped segment of an (link: /terms/oval text: oval), bounded by a pair of radii joining at the oval’s center.
 
-Wedge is also one of the code names for the [MessagePad 100](/terms/messagepad-100) device.
+Wedge is also one of the code names for the (link: /terms/messagepad-100 text: MessagePad 100) device.
 
 ----
 

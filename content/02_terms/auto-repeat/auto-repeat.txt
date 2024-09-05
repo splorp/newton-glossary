@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The repeated, automatic generation of characters that occurs when a user holds down a key or presses the [pen](/terms/pen) on an onscreen keyboard.
+The repeated, automatic generation of characters that occurs when a user holds down a key or presses the (link: /terms/pen text: pen) on an onscreen keyboard.
 
 ----
 

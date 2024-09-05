@@ -8,7 +8,7 @@ Date: 18 December 2023
 
 Text:
 
-See: [Corrector View](/terms/corrector-view)
+See: (link: /terms/corrector-view text: Corrector View)
 
 ----
 

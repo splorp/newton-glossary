@@ -8,7 +8,7 @@ Date: 23 November 2017
 
 Text:
 
-The document format (or [stationery](/terms/stationery)) provided by the [QuickFigure Works](/terms/quickfigure-works) component of the [Newton Works](/terms/newton-works) application. A spreadsheet allows the user to store, analyze, manipulate, and calculate data such as numbers, formulas, and text.
+The document format (or (link: /terms/stationery text: stationery)) provided by the (link: /terms/quickfigure-works text: QuickFigure Works) component of the (link: /terms/newton-works text: Newton Works) application. A spreadsheet allows the user to store, analyze, manipulate, and calculate data such as numbers, formulas, and text.
 
 ----
 

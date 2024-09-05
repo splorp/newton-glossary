@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Scrub](/terms/scrub)
+See: (link: /terms/scrub text: Scrub)

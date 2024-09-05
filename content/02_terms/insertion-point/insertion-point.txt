@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-See: [Blinking Line](/terms/blinking-line) and [Caret](/terms/caret)
+See: (link: /terms/blinking-line text: Blinking Line) and (link: /terms/caret text: Caret)
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a [container view](/terms/container-view) that initially appears in front of all open [sibling views](/terms/sibling-view).
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/container-view text: container view) that initially appears in front of all open (link: /terms/sibling-view text: sibling views).
 
 ----
 

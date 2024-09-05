@@ -8,7 +8,7 @@ Date: 29 January 2020
 
 Text:
 
-See: [Newton Keyboard Enabler](/terms/Newton-keyboard-enabler)
+See: (link: /terms/Newton-keyboard-enabler text: Newton Keyboard Enabler)
 
 ----
 

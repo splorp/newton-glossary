@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a sequence of bytes that can represent any type of data, can be adjusted dynamically in size, and can have a user-specified [class](/terms/class). Examples of binary [objects](/terms/object) include strings, real numbers, sounds, and [bitmaps](/terms/bitmap).
+In (link: /terms/newtonscript text: NewtonScript), a sequence of bytes that can represent any type of data, can be adjusted dynamically in size, and can have a user-specified (link: /terms/class text: class). Examples of binary (link: /terms/object text: objects) include strings, real numbers, sounds, and (link: /terms/bitmap text: bitmaps).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A small unnamed and often unmarked [control](/terms/control) that responds like a [button](/terms/button) when [tapped](/terms/tapped). Usually there are several hot spots in a given [view](/terms/view), which can be visible or invisible to the user.
+A small unnamed and often unmarked (link: /terms/control text: control) that responds like a (link: /terms/button text: button) when (link: /terms/tapped text: tapped). Usually there are several hot spots in a given (link: /terms/view text: view), which can be visible or invisible to the user.
 
 ----
 

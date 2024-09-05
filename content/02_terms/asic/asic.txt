@@ -10,7 +10,7 @@ Text:
 
 Application Specific Integrated Circuit
 
-A custom [VLSI](/terms/vlsi) computer chip or [chipset](/terms/chipset) designed to perform one or more particular functions. Advantages include fewer discrete components, lower power consumption, and increased reliability.
+A custom (link: /terms/vlsi text: VLSI) computer chip or (link: /terms/chipset text: chipset) designed to perform one or more particular functions. Advantages include fewer discrete components, lower power consumption, and increased reliability.
 
 ----
 

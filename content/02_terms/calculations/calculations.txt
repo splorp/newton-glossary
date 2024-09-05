@@ -8,7 +8,7 @@ Date: 01 January 2018
 
 Text:
 
-The document format (or [stationery](/terms/stationery)) used by the [graphing calculator](/terms/graphing-calculator) component of the [Newton Works](/terms/newton-works) application.
+The document format (or (link: /terms/stationery text: stationery)) used by the (link: /terms/graphing-calculator text: graphing calculator) component of the (link: /terms/newton-works text: Newton Works) application.
 
 ----
 

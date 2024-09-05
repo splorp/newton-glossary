@@ -8,7 +8,7 @@ Date: 30 October 2001
 
 Text:
 
-One of the code names for the [MessagePad 130](/terms/messagepad-130) device, also known as [Dante](/terms/dante).
+One of the code names for the (link: /terms/messagepad-130 text: MessagePad 130) device, also known as (link: /terms/dante text: Dante).
 
 ----
 

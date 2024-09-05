@@ -8,9 +8,9 @@ Date: 07 August 2024
 
 Text:
 
-A [latch](/terms/latch) located on the [lid](/terms/lid) of [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices which unfastens the hinge, allowing the lid to be removed.
+A (link: /terms/latch text: latch) located on the (link: /terms/lid text: lid) of (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices which unfastens the hinge, allowing the lid to be removed.
 
-Also referred to as a [Latch Button](/terms/latch-button).
+Also referred to as a (link: /terms/latch-button text: Latch Button).
 
 ----
 

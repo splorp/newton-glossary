@@ -8,7 +8,7 @@ Date: 10 June 2024
 
 Text:
 
-A list of ongoing [actions](/terms/action) and deferred notification alerts that appears when a user [taps](/terms/tap) the [notify button](/terms/notify-button). Selecting an item in the [picker](/terms/picker) displays a [status slip](/terms/status-slip) corresponding to that item. Once an item is chosen from the picker, it is removed from the list.
+A list of ongoing (link: /terms/action text: actions) and deferred notification alerts that appears when a user (link: /terms/tap text: taps) the (link: /terms/notify-button text: notify button). Selecting an item in the (link: /terms/picker text: picker) displays a (link: /terms/status-slip text: status slip) corresponding to that item. Once an item is chosen from the picker, it is removed from the list.
 
 ----
 

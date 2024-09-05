@@ -10,7 +10,7 @@ Text:
 
 Memory Management Unit
 
-A computer component responsible for the translation of the [virtual addresses](/terms/virtual-address) assigned to chunks of data into the [physical addresses](/terms/physical-address) (or actual addresses) of that data.
+A computer component responsible for the translation of the (link: /terms/virtual-address text: virtual addresses) assigned to chunks of data into the (link: /terms/physical-address text: physical addresses) (or actual addresses) of that data.
 
 ----
 

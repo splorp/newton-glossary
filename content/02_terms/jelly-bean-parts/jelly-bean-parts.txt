@@ -8,7 +8,7 @@ Date: 07 February 2017
 
 Text:
 
-An assortment of individual electronic components which can be replaced by a single multifunction chip or [chipset](/terms/chipset). Mike Culbert, a member of the [Newton Systems Group](/terms/newton-systems-group), used the term to explain why [Apple](https://www.apple.com/) chose to use the [Voyager](/terms/voyager) chipset in later Newton devices.
+An assortment of individual electronic components which can be replaced by a single multifunction chip or (link: /terms/chipset text: chipset). Mike Culbert, a member of the (link: /terms/newton-systems-group text: Newton Systems Group), used the term to explain why [Apple](https://www.apple.com/) chose to use the (link: /terms/voyager text: Voyager) chipset in later Newton devices.
 
 ----
 

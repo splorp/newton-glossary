@@ -8,7 +8,7 @@ Date: 07 June 2024
 
 Text:
 
-A defunct wiki-based reference website for the Newton platform created by [Victor Rehorst](/sources/victor-rehorst) in 2002. The current caretaker of WikiWikiNewt is [Morgan Aldridge](/sources/morgan-aldridge), who also maintains the [UNNA](/terms/unna) software repository. He plans on resurrecting the website at some point.
+A defunct wiki-based reference website for the Newton platform created by (link: /sources/victor-rehorst text: Victor Rehorst) in 2002. The current caretaker of WikiWikiNewt is (link: /sources/morgan-aldridge text: Morgan Aldridge), who also maintains the (link: /terms/unna text: UNNA) software repository. He plans on resurrecting the website at some point.
 
 ----
 

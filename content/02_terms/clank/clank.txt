@@ -8,9 +8,9 @@ Date: 18 December 2001
 
 Text:
 
-The sound made by the Newton device after [scrolling](/terms/scroll) to the end of a list of text items, generally when using the [local scroll arrows](/terms/local-scroll-arrows).
+The sound made by the Newton device after (link: /terms/scroll text: scrolling) to the end of a list of text items, generally when using the (link: /terms/local-scroll-arrows text: local scroll arrows).
 
-Also referred to as [Clanking](/terms/clanking) in the [NetHopper](/terms/nethopper) user manual.
+Also referred to as (link: /terms/clanking text: Clanking) in the (link: /terms/nethopper text: NetHopper) user manual.
 
 ----
 

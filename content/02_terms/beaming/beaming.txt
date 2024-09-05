@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-Transmitting data to or receiving data from another device via an [infrared](/terms/infrared) connection. Colloquially (and somewhat disturbingly) referred to as [squirting](/terms/squirting) by early Newton developers.
+Transmitting data to or receiving data from another device via an (link: /terms/infrared text: infrared) connection. Colloquially (and somewhat disturbingly) referred to as (link: /terms/squirting text: squirting) by early Newton developers.
 
 ----
 

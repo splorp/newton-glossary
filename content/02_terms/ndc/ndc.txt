@@ -8,4 +8,4 @@ Date: 31 May 2001
 
 Text:
 
-See: [Newton Developer Conference](/terms/newton-developer-conference)
+See: (link: /terms/newton-developer-conference text: Newton Developer Conference)

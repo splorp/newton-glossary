@@ -10,7 +10,7 @@ Text:
 
 A group of Newton devices that have been networked or otherwise connected together to perform a specific task.
 
-An example of this can be found in Sean Luke’s description of a fictional project at the [University of Maryland](http://www.cs.umd.edu/) turning 10,000 [MessagePad 100](/terms/messagepad-100) devices into a “massively parallel combined supercomputer” in 1996.
+An example of this can be found in Sean Luke’s description of a fictional project at the [University of Maryland](http://www.cs.umd.edu/) turning 10,000 (link: /terms/messagepad-100 text: MessagePad 100) devices into a “massively parallel combined supercomputer” in 1996.
 
 ----
 

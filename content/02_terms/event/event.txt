@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-An entry in the [Date Book](/terms/date-book) application corresponding to a day, but not a particular time during that day.
+An entry in the (link: /terms/date-book text: Date Book) application corresponding to a day, but not a particular time during that day.
 
-In [NewtonScript](/terms/newtonscript), an event is an [action](/terms/action) of significance occurring during a task or within an [application](/terms/application) program, such as a key being pressed on a [keyboard](/terms/keyboard) or a [button](/terms/button) being [tapped](/terms/tapped) on the [screen](/terms/screen).
+In (link: /terms/newtonscript text: NewtonScript), an event is an (link: /terms/action text: action) of significance occurring during a task or within an (link: /terms/application text: application) program, such as a key being pressed on a (link: /terms/keyboard text: keyboard) or a (link: /terms/button text: button) being (link: /terms/tapped text: tapped) on the (link: /terms/screen text: screen).
 
 ----
 

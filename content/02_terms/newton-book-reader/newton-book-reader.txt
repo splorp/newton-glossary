@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-An [application](/terms/application) built into the [Newton OS](/terms/newton-os) as a system-wide service, facilitating the display and navigation of interactive, digital [books](/terms/newton-book).
+An (link: /terms/application text: application) built into the (link: /terms/newton-os text: Newton OS) as a system-wide service, facilitating the display and navigation of interactive, digital (link: /terms/newton-book text: books).
 
-Also referred to as [NBR](/terms/nbr).
+Also referred to as (link: /terms/nbr text: NBR).
 
 ----
 

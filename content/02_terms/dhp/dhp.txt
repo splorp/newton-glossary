@@ -10,9 +10,9 @@ Text:
 
 Dreaded Hinge Problem
 
-Refers to a situation where the hinge tension spring of an [eMate 300](/terms/emate-300) fails and causes a serious case of [floppy lid](/terms/floppy-lid).
+Refers to a situation where the hinge tension spring of an (link: /terms/emate-300 text: eMate 300) fails and causes a serious case of (link: /terms/floppy-lid text: floppy lid).
 
-Also referred to as the [Spring Issue](/terms/spring-issue).
+Also referred to as the (link: /terms/spring-issue text: Spring Issue).
 
 ----
 

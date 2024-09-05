@@ -8,7 +8,7 @@ Date: 15 August 2024
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), the internal programmatic name referencing the built-in [Notepad](/terms/notepad) application.
+In (link: /terms/newtonscript text: NewtonScript), the internal programmatic name referencing the built-in (link: /terms/notepad text: Notepad) application.
 
 ----
 

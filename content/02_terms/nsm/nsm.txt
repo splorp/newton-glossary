@@ -8,7 +8,7 @@ Date: 16 January 2024
 
 Text:
 
-An implementation of a portable [NewtonScript](/terms/newtonscript) virtual machine developed by [Matej Horvat](/sources/matej-horvat). NSM does not interpret NewtonScript source code directly, instead it executes NewtonScript [bytecode](/terms/bytecode) contained within Newton [packages](/terms/package).
+An implementation of a portable (link: /terms/newtonscript text: NewtonScript) virtual machine developed by (link: /sources/matej-horvat text: Matej Horvat). NSM does not interpret NewtonScript source code directly, instead it executes NewtonScript (link: /terms/bytecode text: bytecode) contained within Newton (link: /terms/package text: packages).
 
 ----
 

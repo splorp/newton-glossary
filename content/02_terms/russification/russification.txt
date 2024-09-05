@@ -8,9 +8,9 @@ Date: 08 April 2017
 
 Text:
 
-A term coined by [Anton Balaban](/sources/anton-balaban) to describe the process of using the Russian language on a Newton device. Russification generally involves installing Cyrillic [fonts](/terms/font), a special [keyboard](/terms/keyboard) layout, [system patches](/terms/system-patch) to modify various bits of text, and other software [packages](/terms/package) to localize the English language version of [Newton OS](/terms/newton-os).
+A term coined by (link: /sources/anton-balaban text: Anton Balaban) to describe the process of using the Russian language on a Newton device. Russification generally involves installing Cyrillic (link: /terms/font text: fonts), a special (link: /terms/keyboard text: keyboard) layout, (link: /terms/system-patch text: system patches) to modify various bits of text, and other software (link: /terms/package text: packages) to localize the English language version of (link: /terms/newton-os text: Newton OS).
 
-Once a Newton device has gone through this process, it is said to have been [Russified](/terms/russified).
+Once a Newton device has gone through this process, it is said to have been (link: /terms/russified text: Russified).
 
 ----
 

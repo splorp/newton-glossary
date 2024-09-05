@@ -8,7 +8,7 @@ Date: 17 March 2018
 
 Text:
 
-A lightweight, portable [modem](/terms/modem) designed for use with early Newton devices. Released by Apple in 1993, the Newton Fax Modem could be powered by a pair of AA batteries or a power adapter. Nicknamed the [cigarette pack](/terms/cigarette-pack) because its dimensions were similar to that of a package of cigarettes, it was also the unlikely star of the infamous [Modeminos](/terms/modeminos) video.
+A lightweight, portable (link: /terms/modem text: modem) designed for use with early Newton devices. Released by Apple in 1993, the Newton Fax Modem could be powered by a pair of AA batteries or a power adapter. Nicknamed the (link: /terms/cigarette-pack text: cigarette pack) because its dimensions were similar to that of a package of cigarettes, it was also the unlikely star of the infamous (link: /terms/modeminos text: Modeminos) video.
 
 ----
 

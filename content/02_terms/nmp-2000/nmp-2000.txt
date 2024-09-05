@@ -10,7 +10,7 @@ Text:
 
 Newton MessagePad 2000
 
-See: [MessagePad 2000](/terms/messagepad-2000)
+See: (link: /terms/messagepad-2000 text: MessagePad 2000)
 
 ----
 

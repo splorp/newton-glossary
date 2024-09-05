@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a visual [object](/terms/object) represented on the [screen](/terms/screen), enclosed by a [parent view](/terms/parent-view).
+In (link: /terms/newtonscript text: NewtonScript), a visual (link: /terms/object text: object) represented on the (link: /terms/screen text: screen), enclosed by a (link: /terms/parent-view text: parent view).
 
 ----
 

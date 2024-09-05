@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-An plain vanilla adaptation of the disassembly tool found in the [Einstein](/terms/einstein) emulation project. [Steven Frank](/sources/steven-frank) converted and modified the original C++ source created by [Paul Guyot](/sources/paul-guyot).
+An plain vanilla adaptation of the disassembly tool found in the (link: /terms/einstein text: Einstein) emulation project. (link: /sources/steven-frank text: Steven Frank) converted and modified the original C++ source created by (link: /sources/paul-guyot text: Paul Guyot).
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 A value used to specify the loudness of a sound.
 
-[Newton OS](/terms/newton-os) supports volume levels as values stored in a [slot](/terms/slot) of a [sound frame](/terms/sound-frame). Volume levels can be specified as integers 0 through 4, where 0 equates to silence and 4 is the maximum volume that can be produced. Newton OS 2.1 added support for values which correspond to relative [decibel](/terms/decibel) (dB) levels. In this case, a large negative value corresponds to silence, and 0.0 corresponds to full volume.
+(link: /terms/newton-os text: Newton OS) supports volume levels as values stored in a (link: /terms/slot text: slot) of a (link: /terms/sound-frame text: sound frame). Volume levels can be specified as integers 0 through 4, where 0 equates to silence and 4 is the maximum volume that can be produced. Newton OS 2.1 added support for values which correspond to relative (link: /terms/decibel text: decibel) (dB) levels. In this case, a large negative value corresponds to silence, and 0.0 corresponds to full volume.
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 Upgraded MessagePad
 
-Generally referring to a [MessagePad 2000](/terms/messagepad-2000) device that has had the system memory upgraded to the equivalent of a [MessagePad 2100](/terms/messagepad-2100). Also known variously as [MP2000+](/terms/mp2000-plus), [MP2000U](/terms/mp2000u), [MP2KU](/terms/mp2ku), and [UMP2K](/terms/ump2k).
+Generally referring to a (link: /terms/messagepad-2000 text: MessagePad 2000) device that has had the system memory upgraded to the equivalent of a (link: /terms/messagepad-2100 text: MessagePad 2100). Also known variously as (link: /terms/mp2000-plus text: MP2000+), (link: /terms/mp2000u text: MP2000U), (link: /terms/mp2ku text: MP2KU), and (link: /terms/ump2k text: UMP2K).
 
 ----
 

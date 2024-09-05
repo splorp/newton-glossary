@@ -8,7 +8,7 @@ Date: 18 December 2001
 
 Text:
 
-See: [Action Button](/terms/action-button)
+See: (link: /terms/action-button text: Action Button)
 
 ----
 

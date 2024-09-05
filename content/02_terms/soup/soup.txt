@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a persistently stored [object](/terms/object) that contains a series of [frames](/terms/frame) called [entries](/terms/entry). Like a [database](/terms/database), a soup has indexes that are used to access entries in a sorted order. One aspect of a soup that sets it apart from an object oriented database is the “smart” [flattening](/terms/flattening) of entries before they are added to the soup.
+In (link: /terms/newtonscript text: NewtonScript), a persistently stored (link: /terms/object text: object) that contains a series of (link: /terms/frame text: frames) called (link: /terms/entry text: entries). Like a (link: /terms/database text: database), a soup has indexes that are used to access entries in a sorted order. One aspect of a soup that sets it apart from an object oriented database is the “smart” (link: /terms/flattening text: flattening) of entries before they are added to the soup.
 
 ----
 

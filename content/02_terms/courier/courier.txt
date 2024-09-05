@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A simple, text-only web browser and [RSS](/terms/rss) reader for Newton devices developed by [Eckhart Köppen](/sources/eckhart-koppen).
+A simple, text-only web browser and (link: /terms/rss text: RSS) reader for Newton devices developed by (link: /sources/eckhart-koppen text: Eckhart Köppen).
 
 ----
 

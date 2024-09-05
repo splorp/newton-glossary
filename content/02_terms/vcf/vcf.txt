@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [vCard](/terms/vcard)
+See: (link: /terms/vcard text: vCard)

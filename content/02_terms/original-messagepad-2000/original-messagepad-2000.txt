@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-See: [MessagePad 2000](/terms/messagepad-2000)
+See: (link: /terms/messagepad-2000 text: MessagePad 2000)
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 Online Access Device
 
-An alternate name for the prototype Newton device developed by [Siemens](https://www.siemens.com/) known as the [Siemens Online Terminal](/terms/siemens-online-terminal).
+An alternate name for the prototype Newton device developed by [Siemens](https://www.siemens.com/) known as the (link: /terms/siemens-online-terminal text: Siemens Online Terminal).
 
 ----
 

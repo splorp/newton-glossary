@@ -8,9 +8,9 @@ Date: 26 June 2024
 
 Text:
 
-A measure of how accurate the use of the [pen](/terms/pen) is when interacting with the [screen](/terms/screen) of a Newton device. For example, when [tapping](/terms/tapping) the screen, if a [tap](/terms/tap) affects an area of the screen that is not directly under the tip of the pen, then the user needs to [realign](/terms/realign) the pen.
+A measure of how accurate the use of the (link: /terms/pen text: pen) is when interacting with the (link: /terms/screen text: screen) of a Newton device. For example, when (link: /terms/tapping text: tapping) the screen, if a (link: /terms/tap text: tap) affects an area of the screen that is not directly under the tip of the pen, then the user needs to (link: /terms/realign text: realign) the pen.
 
-Also referred to as [Alignment](/terms/alignment).
+Also referred to as (link: /terms/alignment text: Alignment).
 
 ----
 

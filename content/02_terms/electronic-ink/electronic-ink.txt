@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The marks that are displayed directly on the Newton [screen](/terms/screen) as the user writes or draws. Electronic ink can be converted into [recognized text](/terms/recognized-text) or regularized, geometric [shapes](/terms/shape) after the system recognizes and processes the user’s writing or drawing.
+The marks that are displayed directly on the Newton (link: /terms/screen text: screen) as the user writes or draws. Electronic ink can be converted into (link: /terms/recognized-text text: recognized text) or regularized, geometric (link: /terms/shape text: shapes) after the system recognizes and processes the user’s writing or drawing.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [field](/terms/field) that accepts any characters as user [input](/terms/input).
+A (link: /terms/field text: field) that accepts any characters as user (link: /terms/input text: input).
 
 ----
 

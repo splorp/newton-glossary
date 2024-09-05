@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A named location in memory where an executable program or [function](/terms/function) can store and retrieve intermediate results. [NewtonScript](/terms/newtonscript) supports both [local](/terms/local) and [global](/terms/global) variables.
+A named location in memory where an executable program or (link: /terms/function text: function) can store and retrieve intermediate results. (link: /terms/newtonscript text: NewtonScript) supports both (link: /terms/local text: local) and (link: /terms/global text: global) variables.
 
 ----
 

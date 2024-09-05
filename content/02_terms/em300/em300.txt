@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-An internal memory upgrade for the [eMate 300](/terms/emate-300) developed by [David Humphreys](/sources/david-humphreys). When installed, the [system RAM](/terms/system-ram) is increased from 1MB to 4MB and the default data path is widened, improving the responsiveness of the device.
+An internal memory upgrade for the (link: /terms/emate-300 text: eMate 300) developed by (link: /sources/david-humphreys text: David Humphreys). When installed, the (link: /terms/system-ram text: system RAM) is increased from 1MB to 4MB and the default data path is widened, improving the responsiveness of the device.
 
 ----
 

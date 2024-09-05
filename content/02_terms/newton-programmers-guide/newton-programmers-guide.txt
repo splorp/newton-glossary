@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-The definitive guide to programming for [Newton OS](/terms/newton-os), providing conceptual information and documentation for using the [APIs](/terms/api).
+The definitive guide to programming for (link: /terms/newton-os text: Newton OS), providing conceptual information and documentation for using the (link: /terms/api text: APIs).
 
-Also referred to as [NPG](/terms/npg).
+Also referred to as (link: /terms/npg text: NPG).
 
 ----
 

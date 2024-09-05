@@ -8,7 +8,7 @@ Date: 09 October 2017
 
 Text:
 
-An [application](/terms/application) which allows the [Newton Toolkit](/terms/newton-toolkit) development environment to communicate with a Newton device via the [Inspector](/terms/inspector) window.
+An (link: /terms/application text: application) which allows the (link: /terms/newton-toolkit text: Newton Toolkit) development environment to communicate with a Newton device via the (link: /terms/inspector text: Inspector) window.
 
 (image: /assets/images/toolkit-2x.gif alt: Screenshot of the Toolkit application width: 224)
 

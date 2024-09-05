@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An [icon](/terms/icon) that represents one or more [soups](/terms/soup), usually located in the “Storage” folder of the [Extras Drawer](/terms/extras-drawer).
+An (link: /terms/icon text: icon) that represents one or more (link: /terms/soup text: soups), usually located in the “Storage” folder of the (link: /terms/extras-drawer text: Extras Drawer).
 
 ----
 

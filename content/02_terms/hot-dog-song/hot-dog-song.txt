@@ -8,9 +8,9 @@ Date: 16 April 2024
 
 Text:
 
-The sequence of sounds made by a Newton device when [tapping](/terms/tapping) several times in succession. Although these sounds seem random, it has been documented that they are actually a repeating sequence, likely an intentional [easter egg](/terms/easter-egg).
+The sequence of sounds made by a Newton device when (link: /terms/tapping text: tapping) several times in succession. Although these sounds seem random, it has been documented that they are actually a repeating sequence, likely an intentional (link: /terms/easter-egg text: easter egg).
 
-According to some people, the sequence is similar to an infamous [Oscar Meyer Theme](/terms/oscar-meyer-theme), the same company known for its [Wienermobile](https://en.wikipedia.org/wiki/Wienermobile). This would explain the reference to a hot dog.
+According to some people, the sequence is similar to an infamous (link: /terms/oscar-meyer-theme text: Oscar Meyer Theme), the same company known for its [Wienermobile](https://en.wikipedia.org/wiki/Wienermobile). This would explain the reference to a hot dog.
 
 Others think the sequence sounds more like the instrumental song “Popcorn” popularized by the band [Hot Butter](https://en.wikipedia.org/wiki/Hot_Butter) in 1972.
 

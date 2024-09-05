@@ -8,7 +8,7 @@ Date: 11 February 2017
 
 Text:
 
-A software utility developed by [Steve Weyer](/sources/steve-weyer) that allows the user to transfer [packages](/terms/package) from a Newton device to another computer using a terminal emulator program and the [YMODEM](https://en.wikipedia.org/wiki/YMODEM) or [XMODEM-1K](https://en.wikipedia.org/wiki/XMODEM#XMODEM-1K) file transfer protocol. It was intended to be used with computers running [operating systems](/terms/operating-system) other than Mac OS, Mac OS X, or Windows.
+A software utility developed by (link: /sources/steve-weyer text: Steve Weyer) that allows the user to transfer (link: /terms/package text: packages) from a Newton device to another computer using a terminal emulator program and the [YMODEM](https://en.wikipedia.org/wiki/YMODEM) or [XMODEM-1K](https://en.wikipedia.org/wiki/XMODEM#XMODEM-1K) file transfer protocol. It was intended to be used with computers running (link: /terms/operating-system text: operating systems) other than Mac OS, Mac OS X, or Windows.
 
 ----
 

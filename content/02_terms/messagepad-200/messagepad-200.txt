@@ -8,11 +8,11 @@ Date: 18 August 2024
 
 Text:
 
-A common typographic error made when referring to the [MessagePad 2000](/terms/messagepad-2000).
+A common typographic error made when referring to the (link: /terms/messagepad-2000 text: MessagePad 2000).
 
-Also a rumoured successor to the [MessagePad 120](/terms/messagepad-120).
+Also a rumoured successor to the (link: /terms/messagepad-120 text: MessagePad 120).
 
-Not to be confused with Matthew B. McRae’s proposed [Newton 200](/terms/newton-200) design concept.
+Not to be confused with Matthew B. McRae’s proposed (link: /terms/newton-200 text: Newton 200) design concept.
 
 ----
 

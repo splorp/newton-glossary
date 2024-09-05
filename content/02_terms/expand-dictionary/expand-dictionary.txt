@@ -8,9 +8,9 @@ Date: 27 November 2017
 
 Text:
 
-A [dictionary](/terms/dictionary) that allows the user to define words and phrases that are automatically substituted for abbreviations. Along with providing common substitutions, the expand dictionary can be used to correct recurring [handwriting recognition](/terms/handwriting-recognition) mistakes, since each word to be expanded is added to both the [user dictionary](/terms/user-dictionary) and the expand dictionary.
+A (link: /terms/dictionary text: dictionary) that allows the user to define words and phrases that are automatically substituted for abbreviations. Along with providing common substitutions, the expand dictionary can be used to correct recurring (link: /terms/handwriting-recognition text: handwriting recognition) mistakes, since each word to be expanded is added to both the (link: /terms/user-dictionary text: user dictionary) and the expand dictionary.
 
-Also referred to as the [Autoexpansion Dictionary](/terms/auto-expansion-dictionary).
+Also referred to as the (link: /terms/auto-expansion-dictionary text: Autoexpansion Dictionary).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The process of sending or receiving data through the [InOut Box](/terms/inout-box) application using a communications [transport](/terms/transport) such as printing, faxing, [beaming](/terms/beaming), or emailing. Routing is generally initiated by using one of the options found in the [action picker](/terms/action-picker).
+The process of sending or receiving data through the (link: /terms/inout-box text: InOut Box) application using a communications (link: /terms/transport text: transport) such as printing, faxing, (link: /terms/beaming text: beaming), or emailing. Routing is generally initiated by using one of the options found in the (link: /terms/action-picker text: action picker).
 
 ----
 

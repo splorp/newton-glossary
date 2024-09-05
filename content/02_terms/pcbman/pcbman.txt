@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-The nom de plume of [David Humphreys](/sources/david-humphreys),  creator of the popular [SER-001](/terms/ser-001) serial port [dongle destroyer](/terms/dongle-destroyer) for the [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100). David was also responsible for the [EM300](/terms/em300) memory upgrade board and several other projects that enhanced Newton hardware.
+The nom de plume of (link: /sources/david-humphreys text: David Humphreys),  creator of the popular (link: /terms/ser-001 text: SER-001) serial port (link: /terms/dongle-destroyer text: dongle destroyer) for the (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100). David was also responsible for the (link: /terms/em300 text: EM300) memory upgrade board and several other projects that enhanced Newton hardware.
 
 ----
 

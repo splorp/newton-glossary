@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-The group of skeptical [Apple](https://www.apple.com/) employees working on the Newton project who doubted the feasibility and operability of both the larger [Newton Plus](/terms/newton-plus) device and the [Dylan](/terms/dylan) programming language used to develop the [operating system](/terms/operating-system).
+The group of skeptical [Apple](https://www.apple.com/) employees working on the Newton project who doubted the feasibility and operability of both the larger (link: /terms/newton-plus text: Newton Plus) device and the (link: /terms/dylan text: Dylan) programming language used to develop the (link: /terms/operating-system text: operating system).
 
 ----
 

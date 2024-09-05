@@ -8,7 +8,7 @@ Date: 27 August 2018
 
 Text:
 
-An implementation of [NewtonScript](/terms/newtonscript) written in the C programming language. Originally called [Proto](/terms/proto), Prota was created by [Walter Smith](/sources/walter-smith), the original designer of NewtonScript.
+An implementation of (link: /terms/newtonscript text: NewtonScript) written in the C programming language. Originally called (link: /terms/proto text: Proto), Prota was created by (link: /sources/walter-smith text: Walter Smith), the original designer of NewtonScript.
 
 ----
 

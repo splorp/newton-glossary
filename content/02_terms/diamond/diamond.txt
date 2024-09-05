@@ -8,7 +8,7 @@ Date: 12 April 2017
 
 Text:
 
-A small symbol located adjacent to a text label or [button](/terms/button) indicating that a pop-up menu or [picker](/terms/picker) will appear when [tapped](/terms/tapped).
+A small symbol located adjacent to a text label or (link: /terms/button text: button) indicating that a pop-up menu or (link: /terms/picker text: picker) will appear when (link: /terms/tapped text: tapped).
 
 ----
 

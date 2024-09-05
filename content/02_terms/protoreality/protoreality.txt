@@ -8,7 +8,7 @@ Date: 17 February 2017
 
 Text:
 
-An almost monthly newsletter published between 1994 and 1996 by the North Atlanta Newton Users Group ([NANUG](/terms/nanug)). The newsletter takes it’s name from the [NewtonScript](/terms/newtonscript) programming term [proto](/terms/proto).
+An almost monthly newsletter published between 1994 and 1996 by the North Atlanta Newton Users Group ((link: /terms/nanug text: NANUG)). The newsletter takes it’s name from the (link: /terms/newtonscript text: NewtonScript) programming term (link: /terms/proto text: proto).
 
 ----
 

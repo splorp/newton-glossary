@@ -10,7 +10,7 @@ Text:
 
 Frequently Asked Questions
 
-A moderated and frequently updated document containing answers to common questions, as well as historical, technical, or esoteric information pertaining to a particular subject. The [Newton FAQ](/sources/newton-faq) is one such document.
+A moderated and frequently updated document containing answers to common questions, as well as historical, technical, or esoteric information pertaining to a particular subject. The (link: /sources/newton-faq text: Newton FAQ) is one such document.
 
 ----
 

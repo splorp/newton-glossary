@@ -10,4 +10,4 @@ Text:
 
 Wireless Messaging Service
 
-See: [Apple Wireless Messaging Service](/terms/apple-wireless-messaging-service), [Apple Mobile Message System](/terms/apple-mobile-message-system), and [SWiMS](/terms/swims)
+See: (link: /terms/apple-wireless-messaging-service text: Apple Wireless Messaging Service), (link: /terms/apple-mobile-message-system text: Apple Mobile Message System), and (link: /terms/swims text: SWiMS)

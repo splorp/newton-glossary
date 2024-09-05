@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-See: [Battery Tray](/terms/battery-tray)
+See: (link: /terms/battery-tray text: Battery Tray)
 
 ----
 

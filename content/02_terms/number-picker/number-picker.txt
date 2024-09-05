@@ -8,7 +8,7 @@ Date: 10 July 2024
 
 Text:
 
-A [picker](/terms/picker) designed to simplify the process of specifying a numerical value by [tapping](/terms/tapping) the digits of the number itself. Tapping the top half of a digit increases the numerical value and tapping the bottom half of a digit decreases the value.
+A (link: /terms/picker text: picker) designed to simplify the process of specifying a numerical value by (link: /terms/tapping text: tapping) the digits of the number itself. Tapping the top half of a digit increases the numerical value and tapping the bottom half of a digit decreases the value.
 
 (image: /assets/images/number-picker-2x.gif alt: Screenshot of a Number Picker width: 121)
 

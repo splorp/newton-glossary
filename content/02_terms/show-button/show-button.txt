@@ -8,7 +8,7 @@ Date: 27 December 2017
 
 Text:
 
-The [button](/terms/button) found in an [application](/terms/application) that allows the user to select different views of the same data. When [tapped](/terms/tapped), the button displays a [picker](/terms/picker) listing alternative views available for the current application.
+The (link: /terms/button text: button) found in an (link: /terms/application text: application) that allows the user to select different views of the same data. When (link: /terms/tapped text: tapped), the button displays a (link: /terms/picker text: picker) listing alternative views available for the current application.
 
 (image: /assets/images/show-picker-2x.gif alt: Screenshot of a Show Button with Picker width: 141)
 

@@ -8,11 +8,11 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a [frame](/terms/frame) referenced through another frame’s `_proto` [slot](/terms/slot). With regard to [views](/terms/view), a proto is not intended to be directly [instantiated](/terms/instantiate) — you [reference](/terms/reference) the proto from a [template](/terms/template). The system supplies several view protos (or [proto templates](/terms/proto-template)), which an [application](/terms/application) can use to implement [user interface](/terms/user-interface) elements such as [buttons](/terms/button) and [input areas](/terms/input-area).
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/frame text: frame) referenced through another frame’s `_proto` (link: /terms/slot text: slot). With regard to (link: /terms/view text: views), a proto is not intended to be directly (link: /terms/instantiate text: instantiated) — you (link: /terms/reference text: reference) the proto from a (link: /terms/template text: template). The system supplies several view protos (or (link: /terms/proto-template text: proto templates)), which an (link: /terms/application text: application) can use to implement (link: /terms/user-interface text: user interface) elements such as (link: /terms/button text: buttons) and (link: /terms/input-area text: input areas).
 
-Also referred to as a [Prototype](/terms/prototype).
+Also referred to as a (link: /terms/prototype text: Prototype).
 
-Proto was also the original name of [Prota](/terms/prota), an alternate implementation of [NewtonScript](/terms/newtonscript) created by [Walter Smith](/sources/walter-smith).
+Proto was also the original name of (link: /terms/prota text: Prota), an alternate implementation of (link: /terms/newtonscript text: NewtonScript) created by (link: /sources/walter-smith text: Walter Smith).
 
 ----
 

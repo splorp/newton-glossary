@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The current status of a rechargeable [battery](/terms/battery) in a Newton device. States can include Charging, Discharging, Trickle Charging, and [Deep Toast](/terms/deep-toast). The charge state of a battery can be observed using an [application](/terms/application) such as [NewtTest](/terms/newttest) or [SBM Utilities](/terms/sbm-utilities).
+The current status of a rechargeable (link: /terms/battery text: battery) in a Newton device. States can include Charging, Discharging, Trickle Charging, and (link: /terms/deep-toast text: Deep Toast). The charge state of a battery can be observed using an (link: /terms/application text: application) such as (link: /terms/newttest text: NewtTest) or (link: /terms/sbm-utilities text: SBM Utilities).
 
 ----
 

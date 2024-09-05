@@ -8,7 +8,7 @@ Date: 03 September 2017
 
 Text:
 
-See: [Handwriting Instructor](/terms/handwriting-instructor)
+See: (link: /terms/handwriting-instructor text: Handwriting Instructor)
 
 ----
 

@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A device consisting of two or more interconnected [cells](/terms/cell) that converts chemical energy into electrical energy.
+A device consisting of two or more interconnected (link: /terms/cell text: cells) that converts chemical energy into electrical energy.
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 Static Random Access Memory
 
-A type of [RAM](/terms/ram) that requires power to maintain the storage of information. A SRAM circuit does not require the same refresh circuitry as [DRAM](/terms/dram) chips, but require more space and use more power.
+A type of (link: /terms/ram text: RAM) that requires power to maintain the storage of information. A SRAM circuit does not require the same refresh circuitry as (link: /terms/dram text: DRAM) chips, but require more space and use more power.
 
 ----
 

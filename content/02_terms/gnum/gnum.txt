@@ -10,7 +10,7 @@ Text:
 
 Global Newton Users Meetups
 
-A series of casual online gatherings of Newton users, developers, and collectors based on the inaugural [Worldwide Online Newton Conference](/terms/wonc). Organized by [Pawel Piotrowski](/sources/pawel-piotrowski), the first GNUM was held in May 2020.
+A series of casual online gatherings of Newton users, developers, and collectors based on the inaugural (link: /terms/wonc text: Worldwide Online Newton Conference). Organized by (link: /sources/pawel-piotrowski text: Pawel Piotrowski), the first GNUM was held in May 2020.
 
 Also referred to as Global Newton Users Meetings.
 

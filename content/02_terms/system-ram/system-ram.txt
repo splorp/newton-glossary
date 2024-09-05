@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The total amount of [DRAM](/terms/dram) installed in a Newton device. The amount of installed [RAM](/terms/ram) is displayed in the [memory info slip](/terms/memory-info-slip).
+The total amount of (link: /terms/dram text: DRAM) installed in a Newton device. The amount of installed (link: /terms/ram text: RAM) is displayed in the (link: /terms/memory-info-slip text: memory info slip).
 
 ----
 

@@ -8,9 +8,9 @@ Date:
 
 Text:
 
-Transferring data using an [IrDA](/terms/irda)-compatible [infrared](/terms/infrared) connection at a rate up to 115 Kbps. As opposed to [Fast Infrared](/terms/fast-infrared) which only transfers data at a rate up to 4 Mbps.
+Transferring data using an (link: /terms/irda text: IrDA)-compatible (link: /terms/infrared text: infrared) connection at a rate up to 115 Kbps. As opposed to (link: /terms/fast-infrared text: Fast Infrared) which only transfers data at a rate up to 4 Mbps.
 
-Slow Infrared is also referred to as [SIR](/terms/sir).
+Slow Infrared is also referred to as (link: /terms/sir text: SIR).
 
 ----
 

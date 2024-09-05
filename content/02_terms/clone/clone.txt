@@ -8,7 +8,7 @@ Date: 31 May 2001
 
 Text:
 
-A device manufactured by a third-party company using Newton technology licensed from [Apple](https://www.apple.com/). Newton clones included devices such as the Sharp [ExpertPad](/terms/expertpad), Motorola [Marco](/terms/marco), Digital Ocean [Seahorse](/terms/seahorse), Digital Ocean [Tarpon](/terms/tarpon), Harris [Access Device](/terms/access-device-2000), Harris Dracon [SuperTech](/terms/supertech-2000), Schlumberger [Watson](/terms/watson), and Siemens [NotePhone](/terms/notephone).
+A device manufactured by a third-party company using Newton technology licensed from [Apple](https://www.apple.com/). Newton clones included devices such as the Sharp (link: /terms/expertpad text: ExpertPad), Motorola (link: /terms/marco text: Marco), Digital Ocean (link: /terms/seahorse text: Seahorse), Digital Ocean (link: /terms/tarpon text: Tarpon), Harris (link: /terms/access-device-2000 text: Access Device), Harris Dracon (link: /terms/supertech-2000 text: SuperTech), Schlumberger (link: /terms/watson text: Watson), and Siemens (link: /terms/notephone text: NotePhone).
 
 ----
 

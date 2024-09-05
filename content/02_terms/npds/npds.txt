@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Newton Personal Data Sharing](/terms/newton-personal-data-sharing)
+See: (link: /terms/newton-personal-data-sharing text: Newton Personal Data Sharing)

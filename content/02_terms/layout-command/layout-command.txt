@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [Newton Book Maker](/terms/newton-book-maker) command that defines the [layout](/terms/layout) of content in a [Newton book](/terms/newton-book).
+A (link: /terms/newton-book-maker text: Newton Book Maker) command that defines the (link: /terms/layout text: layout) of content in a (link: /terms/newton-book text: Newton book).
 
 ----
 

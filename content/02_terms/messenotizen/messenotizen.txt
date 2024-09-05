@@ -8,7 +8,7 @@ Date: 13 November 2017
 
 Text:
 
-An alternate (and erroneously applied) name for the prototype Newton device developed by [Siemens](https://www.siemens.com/) known as the [Siemens Online Terminal](/terms/siemens-online-terminal). Literally translated from German, the term “Messenotizen” becomes “Fair Notes”.
+An alternate (and erroneously applied) name for the prototype Newton device developed by [Siemens](https://www.siemens.com/) known as the (link: /terms/siemens-online-terminal text: Siemens Online Terminal). Literally translated from German, the term “Messenotizen” becomes “Fair Notes”.
 
 ----
 

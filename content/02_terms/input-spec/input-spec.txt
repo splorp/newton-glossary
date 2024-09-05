@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a [frame](/terms/frame) used in receiving [endpoint](/terms/endpoint) data that defines several things: how incoming data should be formatted; termination conditions that control when the [input](/terms/input) should be stopped; data filtering options; and callback [methods](/terms/method).
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/frame text: frame) used in receiving (link: /terms/endpoint text: endpoint) data that defines several things: how incoming data should be formatted; termination conditions that control when the (link: /terms/input text: input) should be stopped; data filtering options; and callback (link: /terms/method text: methods).
 
 ----
 

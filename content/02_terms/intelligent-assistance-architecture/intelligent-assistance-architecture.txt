@@ -8,7 +8,7 @@ Date: 24 March 2017
 
 Text:
 
-Marketing parlance for the [Newton OS](/terms/newton-os) technology that [assists](/terms/assist) users in completing repetitive tasks, such as those related to communication, scheduling [events](/terms/event), searching for information, and setting reminders.
+Marketing parlance for the (link: /terms/newton-os text: Newton OS) technology that (link: /terms/assist text: assists) users in completing repetitive tasks, such as those related to communication, scheduling (link: /terms/event text: events), searching for information, and setting reminders.
 
 ----
 

@@ -10,9 +10,9 @@ Text:
 
 To make sure that two things are in appropriate relative positions.
 
-For example, a connector should match the [communication port](/term/communication-port) it is being plugged into and it should be properly aligned before attaching it to your Newton device.
+For example, a connector should match the (link: /term/communication-port text: communication port) it is being plugged into and it should be properly aligned before attaching it to your Newton device.
 
-Also, when using the [pen](/terms/pen) on a Newton device, the [pen alignment](/terms/pen-alignment) must be accurate for [tapping](/terms/terms/tapping) the [screen](/terms/screen) and [handwriting recognition](/terms/handwriting-recognition) to operate correctly.
+Also, when using the (link: /terms/pen text: pen) on a Newton device, the (link: /terms/pen-alignment text: pen alignment) must be accurate for (link: /terms/terms/tapping text: tapping) the (link: /terms/screen text: screen) and (link: /terms/handwriting-recognition text: handwriting recognition) to operate correctly.
 
 ----
 

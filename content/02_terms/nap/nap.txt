@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Newton Associates Program](/terms/newton-associates-program)
+See: (link: /terms/newton-associates-program text: Newton Associates Program)

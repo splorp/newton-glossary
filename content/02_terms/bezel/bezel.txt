@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A covering or panel on an electronic device. Generally used in conjunction with protecting a [screen](/terms/screen) or connection port.
+A covering or panel on an electronic device. Generally used in conjunction with protecting a (link: /terms/screen text: screen) or connection port.
 
 ----
 

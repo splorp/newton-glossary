@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-The [user interface](/terms/user-interface) object or group of user interface objects most recently [selected](/terms/select) or designated to be affected by the next action.
+The (link: /terms/user-interface text: user interface) object or group of user interface objects most recently (link: /terms/select text: selected) or designated to be affected by the next action.
 
 ----
 

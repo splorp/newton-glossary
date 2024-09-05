@@ -10,7 +10,7 @@ Text:
 
 Thin Small Outline Package
 
-A very low profile surface mount computer chip. Commonly used for various types of [RAM](/terms/ram/).
+A very low profile surface mount computer chip. Commonly used for various types of (link: /terms/ram/ text: RAM).
 
 ----
 

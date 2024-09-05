@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A type of [stationery](/terms/stationery) in the [Notepad](/terms/notepad) application that can contain freeform text, formatted text, [ink text](/terms/ink-text), [shapes](/terms/shape), or [pictures](/terms/picture).
+A type of (link: /terms/stationery text: stationery) in the (link: /terms/notepad text: Notepad) application that can contain freeform text, formatted text, (link: /terms/ink-text text: ink text), (link: /terms/shape text: shapes), or (link: /terms/picture text: pictures).
 
 ----
 

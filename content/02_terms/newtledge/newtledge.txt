@@ -8,7 +8,7 @@ Date: 15 February 2024
 
 Text:
 
-A portmanteau of “Newton” and “knowledge” referring to a large amount of information related to the Newton platform. Originally [coined by Gregory J. Wayman](https://newtontalk.net/archive/newtontalk/2001-August/2491.html) on the [NewtonTalk](/terms/newtontalk) mailing list and subsequently mentioned in the [Newton FAQ](/sources/newton-faq).
+A portmanteau of “Newton” and “knowledge” referring to a large amount of information related to the Newton platform. Originally [coined by Gregory J. Wayman](https://newtontalk.net/archive/newtontalk/2001-August/2491.html) on the (link: /terms/newtontalk text: NewtonTalk) mailing list and subsequently mentioned in the (link: /sources/newton-faq text: Newton FAQ).
 
 ----
 

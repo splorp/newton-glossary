@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), an instruction to execute a [method](/terms/method), as in a programmed [function](/terms/function). Also referred to as a [symbol](/terms/symbol) with a set of arguments. A message is sent using the message send syntax `frame:messageName()`, where the message `messageName` is sent to the [receiver](/terms/receiver) `frame`.
+In (link: /terms/newtonscript text: NewtonScript), an instruction to execute a (link: /terms/method text: method), as in a programmed (link: /terms/function text: function). Also referred to as a (link: /terms/symbol text: symbol) with a set of arguments. A message is sent using the message send syntax `frame:messageName()`, where the message `messageName` is sent to the (link: /terms/receiver text: receiver) `frame`.
 
 ----
 

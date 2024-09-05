@@ -8,9 +8,9 @@ Date: 31 July 2024
 
 Text:
 
-A miniature, high-capacity hard disk drive developed by [IBM](https://www.ibm.com/) and [Hitachi](https://www.hitachi.com/), designed to fit in [CompactFlash](/terms/compactflash) Type II slots.
+A miniature, high-capacity hard disk drive developed by [IBM](https://www.ibm.com/) and [Hitachi](https://www.hitachi.com/), designed to fit in (link: /terms/compactflash text: CompactFlash) Type II slots.
 
-A Microdrive can be used as a [storage card](/terms/storage-card) on a Newton device in conjunction with Paul Guyot’s [ATA Support](/terms/ata-support) driver.
+A Microdrive can be used as a (link: /terms/storage-card text: storage card) on a Newton device in conjunction with Paul Guyot’s (link: /terms/ata-support text: ATA Support) driver.
 
 ----
 

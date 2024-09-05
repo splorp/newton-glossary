@@ -8,9 +8,9 @@ Date: 21 November 2017
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), the process of converting a stream of bytes from a soup [entry](/terms/entry) into a frame [object](/terms/object). An example of this conversion occurs when installing a [package](/terms/package) on a Newton device. The reverse of this process is [flattening](/terms/flattening).
+In (link: /terms/newtonscript text: NewtonScript), the process of converting a stream of bytes from a soup (link: /terms/entry text: entry) into a frame (link: /terms/object text: object). An example of this conversion occurs when installing a (link: /terms/package text: package) on a Newton device. The reverse of this process is (link: /terms/flattening text: flattening).
 
-Colloquially known as [unflattenation](/terms/unflattenation).
+Colloquially known as (link: /terms/unflattenation text: unflattenation).
 
 ----
 

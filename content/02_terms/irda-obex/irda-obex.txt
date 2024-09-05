@@ -8,4 +8,4 @@ Date: 14 January 2024
 
 Text:
 
-See: [OBEX](/terms/obex)
+See: (link: /terms/obex text: OBEX)

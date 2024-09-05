@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), the topmost [frame](/terms/frame) that holds an [application](/terms/application), [book](/terms/newton-book), [store part](/terms/store-part), or [auto part](/terms/auto-part).
+In (link: /terms/newtonscript text: NewtonScript), the topmost (link: /terms/frame text: frame) that holds an (link: /terms/application text: application), (link: /terms/newton-book text: book), (link: /terms/store-part text: store part), or (link: /terms/auto-part text: auto part).
 
 ----
 

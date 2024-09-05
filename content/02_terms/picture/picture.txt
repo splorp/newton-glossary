@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A saved sequence of drawing operations — such as [lines](/terms/line), [polygons](/terms/polygon), or other [shapes](/terms/shape) — that can be played back or displayed at a later time.
+A saved sequence of drawing operations — such as (link: /terms/line text: lines), (link: /terms/polygon text: polygons), or other (link: /terms/shape text: shapes) — that can be played back or displayed at a later time.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A condition affecting a rechargeable [battery](/terms/battery) where it will hold less and less of a charge over time.
+A condition affecting a rechargeable (link: /terms/battery text: battery) where it will hold less and less of a charge over time.
 
 ----
 

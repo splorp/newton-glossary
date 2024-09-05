@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-To activate a Newton device from an inactive or [sleep](/terms/sleep) state using an external signal.
+To activate a Newton device from an inactive or (link: /terms/sleep text: sleep) state using an external signal.
 
 ----
 

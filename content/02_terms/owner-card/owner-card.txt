@@ -8,7 +8,7 @@ Date: 03 September 2017
 
 Text:
 
-A [view](/terms/view) containing information pertaining to the [owner](/terms/owner) entry found in the [Name File](/terms/name-file) application. Information found on the owner card can be modified using the [Owner Info](/terms/owner-info) application.
+A (link: /terms/view text: view) containing information pertaining to the (link: /terms/owner text: owner) entry found in the (link: /terms/name-file text: Name File) application. Information found on the owner card can be modified using the (link: /terms/owner-info text: Owner Info) application.
 
 ----
 

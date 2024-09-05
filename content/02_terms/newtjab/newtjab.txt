@@ -8,9 +8,9 @@ Date: 19 April 2024
 
 Text:
 
-NewtJab is a [Jabber](https://www.jabber.org/) instant messaging client for [Newton OS](/terms/newton-os) developed by [Eric Schneck](/sources/eric-schneck).
+NewtJab is a [Jabber](https://www.jabber.org/) instant messaging client for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/eric-schneck text: Eric Schneck).
 
-Also referred to as [NewtJabber](/terms/newtjabber).
+Also referred to as (link: /terms/newtjabber text: NewtJabber).
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 Erasable Programmable Read Only Memory
 
-A type of [ROM](/terms/rom) that is programmable, reusable, and able to hold its content until erased under ultraviolet light.
+A type of (link: /terms/rom text: ROM) that is programmable, reusable, and able to hold its content until erased under ultraviolet light.
 
 ----
 

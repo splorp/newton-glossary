@@ -10,7 +10,7 @@ Text:
 
 Compact Desktop Connection Library
 
-A experimental distribution of the [DCL](/terms/dcl) communication framework and [K Libs](/terms/k-libs) libraries created by [Eckhart Köppen](/sources/eckhart-koppen). The cDCL provides a subset of the functionality of the original, which includes connecting to and interacting with data stored on devices running [Newton OS](/terms/newton-os) 2.0 and later via the built-in [dock](/terms/dock) protocol.
+A experimental distribution of the (link: /terms/dcl text: DCL) communication framework and (link: /terms/k-libs text: K Libs) libraries created by (link: /sources/eckhart-koppen text: Eckhart Köppen). The cDCL provides a subset of the functionality of the original, which includes connecting to and interacting with data stored on devices running (link: /terms/newton-os text: Newton OS) 2.0 and later via the built-in (link: /terms/dock text: dock) protocol.
 
 ----
 

@@ -8,9 +8,9 @@ Date: 30 September 2017
 
 Text:
 
-A software [extension](/terms/extension) for later versions of [Newton OS](/terms/newton-os) which disables the [stationery](/terms/stationery) and email [transport](/terms/transport) used to access Apple’s [eWorld](/terms/eworld) and [NewtonMail](/terms/newtonmail) online services.
+A software (link: /terms/extension text: extension) for later versions of (link: /terms/newton-os text: Newton OS) which disables the (link: /terms/stationery text: stationery) and email (link: /terms/transport text: transport) used to access Apple’s (link: /terms/eworld text: eWorld) and (link: /terms/newtonmail text: NewtonMail) online services.
 
-When installed on a Newton device, the name of the [package](/terms/package) appears as [Hide-E](/terms/hide-e) in the [Extras Drawer](/terms/extras-drawer).
+When installed on a Newton device, the name of the (link: /terms/package text: package) appears as (link: /terms/hide-e text: Hide-E) in the (link: /terms/extras-drawer text: Extras Drawer).
 
 ----
 

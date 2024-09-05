@@ -8,7 +8,7 @@ Date: 24 April 2017
 
 Text:
 
-A [folder](/terms/folder) that appears in all [applications](/terms/application). Compare with a [local folder](/terms/local-folder) which appears only in a specific application.
+A (link: /terms/folder text: folder) that appears in all (link: /terms/application text: applications). Compare with a (link: /terms/local-folder text: local folder) which appears only in a specific application.
 
 ----
 

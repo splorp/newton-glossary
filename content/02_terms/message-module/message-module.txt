@@ -8,7 +8,7 @@ Date: 05 November 2017
 
 Text:
 
-An [extension](/terms/extension) installed alongside the [Newton Messaging Enabler](/terms/newton-messaging-enabler) which provides communication level functionality for a specific messaging device, such as the [Newton Messaging Card](/terms/newton-messaging-card), Socket [PageCard](/terms/pagecard), or Motorola [Tango](/terms/tango) pager.
+An (link: /terms/extension text: extension) installed alongside the (link: /terms/newton-messaging-enabler text: Newton Messaging Enabler) which provides communication level functionality for a specific messaging device, such as the (link: /terms/newton-messaging-card text: Newton Messaging Card), Socket (link: /terms/pagecard text: PageCard), or Motorola (link: /terms/tango text: Tango) pager.
 
 ----
 

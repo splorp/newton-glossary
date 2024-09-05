@@ -8,7 +8,7 @@ Date: 26 November 2017
 
 Text:
 
-Software developed by [Innovative Computer Solutions](/sources/innovative-computer-solutions) to enhance the [button bar](/terms/button-bar) on [MessagePad 2000](/terms/messagepad-2000) and [MessagePad 2100](/terms/messagepad-2100) devices. BarKeep allows the user to control the location, size, and appearance of the button bar, including the ability able to customize these settings for each of the four possible [screen](/terms/screen) orientations.
+Software developed by (link: /sources/innovative-computer-solutions text: Innovative Computer Solutions) to enhance the (link: /terms/button-bar text: button bar) on (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices. BarKeep allows the user to control the location, size, and appearance of the button bar, including the ability able to customize these settings for each of the four possible (link: /terms/screen text: screen) orientations.
 
 ----
 

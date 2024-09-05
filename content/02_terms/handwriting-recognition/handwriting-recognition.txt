@@ -10,9 +10,9 @@ Text:
 
 The algorithmic conversion of handwritten or printed text into digital text.
 
-Also referred to as [Text Recognition](/terms/text-recognition) and [HWR](/terms/hwr).
+Also referred to as (link: /terms/text-recognition text: Text Recognition) and (link: /terms/hwr text: HWR).
 
-Handwriting Recognition is also a section found in the [Prefs](/terms/prefs) application, where the user can select their writing style, configure settings for a [guest user](/terms/guest-user), [realign](/terms/realign) the [pen](/terms/pen) with the [screen](/terms/screen), and set other related options.
+Handwriting Recognition is also a section found in the (link: /terms/prefs text: Prefs) application, where the user can select their writing style, configure settings for a (link: /terms/guest-user text: guest user), (link: /terms/realign text: realign) the (link: /terms/pen text: pen) with the (link: /terms/screen text: screen), and set other related options.
 
 (image: /assets/images/handwriting-recognition-2x.gif alt: Screenshot of the Handwriting Recognition preference slip width: 240)
 

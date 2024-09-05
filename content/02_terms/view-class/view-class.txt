@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a primitive building block on which a [view](/terms/view) is based. All view [protos](/terms/proto) are based directly or indirectly (through another proto) on a view [class](/terms/class). The view class of a view is specified in the `viewClass` [slot](/terms/slot) of its [template](/terms/template) or proto.
+In (link: /terms/newtonscript text: NewtonScript), a primitive building block on which a (link: /terms/view text: view) is based. All view (link: /terms/proto text: protos) are based directly or indirectly (through another proto) on a view (link: /terms/class text: class). The view class of a view is specified in the `viewClass` (link: /terms/slot text: slot) of its (link: /terms/template text: template) or proto.
 
 ----
 

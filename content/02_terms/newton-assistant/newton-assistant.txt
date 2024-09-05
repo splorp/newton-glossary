@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-See: [Assist](/terms/assist)
+See: (link: /terms/assist text: Assist)
 
 ----
 

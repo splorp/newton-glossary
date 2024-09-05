@@ -8,7 +8,7 @@ Date: 15 March 2018
 
 Text:
 
-A prototype device developed by [Siemens](https://www.siemens.com/) that was positioned as an “all-in-one communication terminal” that combined several communication services including wireless telephony, fax, voice messaging, web access, and email. The @net was based on the [Siemens Online Terminal](/terms/siemens-online-terminal), but used a modified version of Windows CE instead of [Newton OS](/terms/newton-os) as the [operating system](/terms/operating-system).
+A prototype device developed by [Siemens](https://www.siemens.com/) that was positioned as an “all-in-one communication terminal” that combined several communication services including wireless telephony, fax, voice messaging, web access, and email. The @net was based on the (link: /terms/siemens-online-terminal text: Siemens Online Terminal), but used a modified version of Windows CE instead of (link: /terms/newton-os text: Newton OS) as the (link: /terms/operating-system text: operating system).
 
 ----
 

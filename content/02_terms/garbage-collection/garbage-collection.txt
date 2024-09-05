@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The removal of [objects](/terms/object) and other data from [system memory](/terms/system-memory) created by [packages](/terms/package) that the system no longer uses.
+The removal of (link: /terms/object text: objects) and other data from (link: /terms/system-memory text: system memory) created by (link: /terms/package text: packages) that the system no longer uses.
 
 ----
 

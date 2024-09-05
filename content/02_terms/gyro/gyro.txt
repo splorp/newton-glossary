@@ -8,7 +8,7 @@ Date: 27 January 2024
 
 Text:
 
-The code name for [Newton Connection Utilities](/terms/newton-connection-utilities).
+The code name for (link: /terms/newton-connection-utilities text: Newton Connection Utilities).
 
 ----
 

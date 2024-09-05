@@ -8,7 +8,7 @@ Date: 10 December 2017
 
 Text:
 
-A user-friendly frontend for the [Slurpee](/terms/slurpee) data transfer utility. Developed by Mark Heringer, WinSlurp replaces the command line with a more approachable Windows-based [user interface](/terms/user-interface).
+A user-friendly frontend for the (link: /terms/slurpee text: Slurpee) data transfer utility. Developed by Mark Heringer, WinSlurp replaces the command line with a more approachable Windows-based (link: /terms/user-interface text: user interface).
 
 ----
 

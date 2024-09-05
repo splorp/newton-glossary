@@ -10,7 +10,7 @@ Text:
 
 Newton Toolkit for Mac OS X
 
-See: [Newton Toolkit](/terms/newton-toolkit)
+See: (link: /terms/newton-toolkit text: Newton Toolkit)
 
 ----
 

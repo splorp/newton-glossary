@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-See: [Deep Toast](/terms/deep-toast)
+See: (link: /terms/deep-toast text: Deep Toast)
 
 ----
 

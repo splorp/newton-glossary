@@ -8,9 +8,9 @@ Date: 18 December 2023
 
 Text:
 
-[Double-tapping](/terms/double-tapping) a word pops up the correction picker, displaying a list of alternate words the user can select as a replacement. The bottom of the correction picker contains a [keyboard button](/terms/keyboard-button), a [corrector button](/terms/corrector-button), and a [Try Letters](/terms/try-letters) button.
+(link: /terms/double-tapping text: Double-tapping) a word pops up the correction picker, displaying a list of alternate words the user can select as a replacement. The bottom of the correction picker contains a (link: /terms/keyboard-button text: keyboard button), a (link: /terms/corrector-button text: corrector button), and a (link: /terms/try-letters text: Try Letters) button.
 
-Tapping “Try Letters” causes the Newton system to ignore the recognition dictionaries and try to recognize the word [letter-by-letter](/terms/letter-by-letter). Tapping the keyboard button displays a [typewriter](/terms/typewriter) keyboard, to allow the user to type corrections. Tapping the [corrector button](/terms/corrector-button) brings up a [corrector view](/terms/corrector-view), in which the user can make corrections to individual letters.
+Tapping “Try Letters” causes the Newton system to ignore the recognition dictionaries and try to recognize the word (link: /terms/letter-by-letter text: letter-by-letter). Tapping the keyboard button displays a (link: /terms/typewriter text: typewriter) keyboard, to allow the user to type corrections. Tapping the (link: /terms/corrector-button text: corrector button) brings up a (link: /terms/corrector-view text: corrector view), in which the user can make corrections to individual letters.
 
 (image: /assets/images/correction-picker-2x.gif alt: Screenshot of the Correction Picker width: 79)
 

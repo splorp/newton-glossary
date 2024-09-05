@@ -10,7 +10,7 @@ Text:
 
 Protocol Desktop Integration Library
 
-A code layer containing the [protocol](/terms/protocol) used to communicate with the [Connection](/terms/connection) and [Dock](/terms/dock) applications on Newton devices.
+A code layer containing the (link: /terms/protocol text: protocol) used to communicate with the (link: /terms/connection text: Connection) and (link: /terms/dock text: Dock) applications on Newton devices.
 
 ----
 

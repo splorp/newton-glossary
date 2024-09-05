@@ -8,7 +8,7 @@ Date: 21 November 2004
 
 Text:
 
-The status of a [battery pack](/terms/battery-pack) which has had nonfunctioning rechargeable [cells](/terms/cell) replaced with new cells.
+The status of a (link: /terms/battery-pack text: battery pack) which has had nonfunctioning rechargeable (link: /terms/cell text: cells) replaced with new cells.
 
 ----
 

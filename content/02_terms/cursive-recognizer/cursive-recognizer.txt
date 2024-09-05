@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-The algorithmic component of the [handwriting recognition](/terms/handwriting-recognition) system that identifies handwritten or [cursive](/terms/cursive) characters, as opposed to printed or block characters.
+The algorithmic component of the (link: /terms/handwriting-recognition text: handwriting recognition) system that identifies handwritten or (link: /terms/cursive text: cursive) characters, as opposed to printed or block characters.
 
-Also referred to as the [Connected Recognizer](/terms/connected-recognizer).
+Also referred to as the (link: /terms/connected-recognizer text: Connected Recognizer).
 
 ----
 

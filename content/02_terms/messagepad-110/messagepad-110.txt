@@ -8,11 +8,11 @@ Date:
 
 Text:
 
-The MessagePad 110 was the second generation Newton device, featuring a revised industrial design and sharing that case style with the [MessagePad 120](/terms/messagepad-120) and [MessagePad 130](/terms/messagepad-130). Improvements over the [MessagePad 100](/terms/messagepad-100) included expanded memory, improved battery life, an integrated [screen](/terms/screen) cover, and an optional charging cradle nicknamed the “[crib](/terms/crib)”.
+The MessagePad 110 was the second generation Newton device, featuring a revised industrial design and sharing that case style with the (link: /terms/messagepad-120 text: MessagePad 120) and (link: /terms/messagepad-130 text: MessagePad 130). Improvements over the (link: /terms/messagepad-100 text: MessagePad 100) included expanded memory, improved battery life, an integrated (link: /terms/screen text: screen) cover, and an optional charging cradle nicknamed the “(link: /terms/crib text: crib)”.
 
-The code name of the MessagePad 110 was [Lindy](/terms/lindy), but there was also a limited edition clear-cased version code named [Jellyfish](/terms/jellyfish).
+The code name of the MessagePad 110 was (link: /terms/lindy text: Lindy), but there was also a limited edition clear-cased version code named (link: /terms/jellyfish text: Jellyfish).
 
-The MessagePad 110 is commonly referred to as an [MP110](/terms/mp110).
+The MessagePad 110 is commonly referred to as an (link: /terms/mp110 text: MP110).
 
 ----
 

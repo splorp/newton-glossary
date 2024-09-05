@@ -8,7 +8,7 @@ Date: 31 August 2017
 
 Text:
 
-The default onscreen [keyboard](/terms/keyboard) that appears when the [keyboard button](/terms/keyboard-button) is [tapped](/terms/tapped). The typewriter keyboard is designed for easily entering text into [applications](/terms/application) such as [Notepad](/terms/notepad). Several other onscreen keyboards are available for entering specific types of data, including [Numeric](/terms/numeric), [Phone](/terms/phone), and [Time/Date](/terms/time-date).
+The default onscreen (link: /terms/keyboard text: keyboard) that appears when the (link: /terms/keyboard-button text: keyboard button) is (link: /terms/tapped text: tapped). The typewriter keyboard is designed for easily entering text into (link: /terms/application text: applications) such as (link: /terms/notepad text: Notepad). Several other onscreen keyboards are available for entering specific types of data, including (link: /terms/numeric text: Numeric), (link: /terms/phone text: Phone), and [Time/Date](/terms/time-date).
 
 (image: /assets/images/typewriter-2x.gif alt: Screenshot of the Typewriter keyboard width: 239)
 

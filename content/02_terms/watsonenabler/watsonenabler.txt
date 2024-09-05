@@ -8,7 +8,7 @@ Date: 08 June 2024
 
 Text:
 
-A tool based on the Desktop Connection Library or [DCL](/terms/dcl), which appends the appropriate [application signature](/terms/application-signature) required to install [packages](/terms/package) on a [Watson](/terms/watson) device. The Watson was a [Newton OS](/terms/newton-os) device based on the [MessagePad 2000](/terms/messagepad-2000) platform with a custom French language [ROM](/terms/rom).
+A tool based on the Desktop Connection Library or (link: /terms/dcl text: DCL), which appends the appropriate (link: /terms/application-signature text: application signature) required to install (link: /terms/package text: packages) on a (link: /terms/watson text: Watson) device. The Watson was a (link: /terms/newton-os text: Newton OS) device based on the (link: /terms/messagepad-2000 text: MessagePad 2000) platform with a custom French language (link: /terms/rom text: ROM).
 
 ----
 

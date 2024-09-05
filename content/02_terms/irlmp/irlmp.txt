@@ -10,7 +10,7 @@ Text:
 
 Infrared Link Management Protocol
 
-The mandatory link management layer of the [IrDA](/terms/irda) communications [protocol](/terms/protocol) specification.
+The mandatory link management layer of the (link: /terms/irda text: IrDA) communications (link: /terms/protocol text: protocol) specification.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A list in the [InOut Box](/terms/inout-box) application where sent or queued items can be can be viewed, filed, [routed](/terms/routing), and otherwise managed. The [In Box](/terms/in-box) and Out Box are separate [applications](/terms/application) in earlier versions of [Newton OS](/terms/newton-os).
+A list in the (link: /terms/inout-box text: InOut Box) application where sent or queued items can be can be viewed, filed, (link: /terms/routing text: routed), and otherwise managed. The (link: /terms/in-box text: In Box) and Out Box are separate (link: /terms/application text: applications) in earlier versions of (link: /terms/newton-os text: Newton OS).
 
 ----
 

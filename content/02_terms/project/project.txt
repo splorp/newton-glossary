@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The collected files and specifications used by [Newton Toolkit](/terms/newton-toolkit) to [build](/terms/build) a [package](/terms/package) that can be installed and executed on a Newton device.
+The collected files and specifications used by (link: /terms/newton-toolkit text: Newton Toolkit) to (link: /terms/build text: build) a (link: /terms/package text: package) that can be installed and executed on a Newton device.
 
 ----
 

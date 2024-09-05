@@ -8,4 +8,4 @@ Date: 23 March 2017
 
 Text:
 
-See: [Text-to-Speech](/terms/text-to-speech)
+See: (link: /terms/text-to-speech text: Text-to-Speech)

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), the mechanism by which attributes ([slots](/terms/slot) or data) and behaviours ([methods](/terms/method)) are made available to [objects](/terms/object). [Parent](/terms/parent) inheritance allows [views](/terms/view) of dissimilar types to share slots containing data or methods. Prototype inheritance allows a [template](/terms/template) to base its definition on that of another template or [prototype](/terms/prototype).
+In (link: /terms/newtonscript text: NewtonScript), the mechanism by which attributes ((link: /terms/slot text: slots) or data) and behaviours ((link: /terms/method text: methods)) are made available to (link: /terms/object text: objects). (link: /terms/parent text: Parent) inheritance allows (link: /terms/view text: views) of dissimilar types to share slots containing data or methods. Prototype inheritance allows a (link: /terms/template text: template) to base its definition on that of another template or (link: /terms/prototype text: prototype).
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 Hand Writing Character Recognition
 
-A Japanese [handwriting recognition](/terms/handwriting-recognition) module developed by [Enfour](/sources/enfour) for use with the [Newton Language Kit](/terms/newton-language-kit) and the [UniFEP](/terms/unifep) multilingual software environments.
+A Japanese (link: /terms/handwriting-recognition text: handwriting recognition) module developed by (link: /sources/enfour text: Enfour) for use with the (link: /terms/newton-language-kit text: Newton Language Kit) and the (link: /terms/unifep text: UniFEP) multilingual software environments.
 
 ----
 

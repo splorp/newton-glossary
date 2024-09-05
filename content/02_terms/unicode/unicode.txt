@@ -8,9 +8,9 @@ Date: 04 February 2024
 
 Text:
 
-A universal character encoding standard maintained by the [Unicode Consortium](/sources/unicode-consortium) that provides the basis for processing, storage, and exchange of text data in any language, using various software and information technology protocols.
+A universal character encoding standard maintained by the (link: /sources/unicode-consortium text: Unicode Consortium) that provides the basis for processing, storage, and exchange of text data in any language, using various software and information technology protocols.
 
-The [Newton OS](/terms/newton-os) stores text as UTF-16 (16-bit Unicode Transformation Format).
+The (link: /terms/newton-os text: Newton OS) stores text as UTF-16 (16-bit Unicode Transformation Format).
 
 ----
 

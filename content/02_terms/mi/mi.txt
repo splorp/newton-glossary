@@ -8,4 +8,4 @@ Date: 12 June 2001
 
 Text:
 
-See: [MoreInfo](/terms/moreinfo)
+See: (link: /terms/moreinfo text: MoreInfo)

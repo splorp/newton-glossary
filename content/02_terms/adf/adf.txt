@@ -8,4 +8,4 @@ Date: 12 June 2001
 
 Text:
 
-See: [Application Definition Format](/terms/application-definition-format)
+See: (link: /terms/application-definition-format text: Application Definition Format)

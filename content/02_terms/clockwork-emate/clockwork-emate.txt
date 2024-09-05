@@ -8,7 +8,7 @@ Date: 18 April 2024
 
 Text:
 
-An [eMate 300](/terms/emate-300) that uses a windup generator as a power source to recharge the internal [battery](/terms/battery). A prototype of a clockwork-powered eMate device was developed and demonstrated by inventor [Trevor Bayliss](https://web.archive.org/web/20110924092817/http://windupradio.com/trevor.htm) in 1997.
+An (link: /terms/emate-300 text: eMate 300) that uses a windup generator as a power source to recharge the internal (link: /terms/battery text: battery). A prototype of a clockwork-powered eMate device was developed and demonstrated by inventor [Trevor Bayliss](https://web.archive.org/web/20110924092817/http://windupradio.com/trevor.htm) in 1997.
 
 ----
 

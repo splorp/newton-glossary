@@ -8,7 +8,7 @@ Date: 14 October 2017
 
 Text:
 
-A [picture button](/terms/picture-button) containing an [icon](/terms/icon) representing a [dictionary](/terms/dictionary). [Tapping](/terms/tapping) the dictionary button displays the [Personal Word List](/terms/personal-word-list) slip.
+A (link: /terms/picture-button text: picture button) containing an (link: /terms/icon text: icon) representing a (link: /terms/dictionary text: dictionary). (link: /terms/tapping text: Tapping) the dictionary button displays the (link: /terms/personal-word-list text: Personal Word List) slip.
 
 ----
 

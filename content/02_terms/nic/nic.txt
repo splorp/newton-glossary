@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Network Interface Card](/terms/network-interface-card) and [Newton InterConnect](/terms/newton-interconnect)
+See: (link: /terms/network-interface-card text: Network Interface Card) and (link: /terms/newton-interconnect text: Newton InterConnect)

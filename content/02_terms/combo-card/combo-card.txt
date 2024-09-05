@@ -8,7 +8,7 @@ Date: 21 November 2004
 
 Text:
 
-A [PC card](/terms/pc-card) that combines the functionality of two separate cards. For example, a [modem](/terms/modem) and an [ethernet](/terms/ethernet) networking card.
+A (link: /terms/pc-card text: PC card) that combines the functionality of two separate cards. For example, a (link: /terms/modem text: modem) and an (link: /terms/ethernet text: ethernet) networking card.
 
 ----
 

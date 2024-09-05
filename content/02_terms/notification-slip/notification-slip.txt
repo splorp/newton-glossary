@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-See: [Notification Alert](/terms/notification-alert)
+See: (link: /terms/notification-alert text: Notification Alert)
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The system service that presents the user with information about a [soup](/terms/soup) when the user [taps](/terms/tap) a [soup icon](/terms/soup-icon) in the [Extras Drawer](/terms/extras-drawer). This facilitates the filing or moving of soup [entries](/terms/entry).
+The system service that presents the user with information about a (link: /terms/soup text: soup) when the user (link: /terms/tap text: taps) a (link: /terms/soup-icon text: soup icon) in the (link: /terms/extras-drawer text: Extras Drawer). This facilitates the filing or moving of soup (link: /terms/entry text: entries).
 
 ----
 

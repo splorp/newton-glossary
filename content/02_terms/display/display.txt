@@ -8,4 +8,4 @@ Date: 21 November 2004
 
 Text:
 
-See: [Screen](/terms/screen)
+See: (link: /terms/screen text: Screen)

@@ -8,7 +8,7 @@ Date: 15 August 2024
 
 Text:
 
-See: [Roll View](/terms/roll-view)
+See: (link: /terms/roll-view text: Roll View)
 
 ----
 

@@ -8,7 +8,7 @@ Date: 21 November 2004
 
 Text:
 
-An [RSS](/terms/rss) reader for Newton devices developed by [Eckhart Köppen](/sources/eckhart-koppen).
+An (link: /terms/rss text: RSS) reader for Newton devices developed by (link: /sources/eckhart-koppen text: Eckhart Köppen).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An area of [system memory](/terms/system-memory) used by the [operating system](/terms/operating-system) for dynamically allocated [objects](/terms/object), including [NewtonScript](/terms/newtonscript) objects.
+An area of (link: /terms/system-memory text: system memory) used by the (link: /terms/operating-system text: operating system) for dynamically allocated (link: /terms/object text: objects), including (link: /terms/newtonscript text: NewtonScript) objects.
 
 ----
 

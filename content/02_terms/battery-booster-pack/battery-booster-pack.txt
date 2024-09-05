@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A portable [battery pack](/terms/battery-pack) that plugs into the [power port](/terms/power-port) of a Newton device to provide extended running time.
+A portable (link: /terms/battery-pack text: battery pack) that plugs into the (link: /terms/power-port text: power port) of a Newton device to provide extended running time.
 
 ----
 

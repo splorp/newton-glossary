@@ -8,7 +8,7 @@ Date: 31 May 2001
 
 Text:
 
-The relationship of [virtual addresses](/terms/virtual-address) to [physical addresses](/terms/physical-address) using the address translation tables in the [memory management unit](/terms/memory-management-unit) (MMU).
+The relationship of (link: /terms/virtual-address text: virtual addresses) to (link: /terms/physical-address text: physical addresses) using the address translation tables in the (link: /terms/memory-management-unit text: memory management unit) (MMU).
 
 ----
 

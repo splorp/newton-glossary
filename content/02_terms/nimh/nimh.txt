@@ -10,7 +10,7 @@ Text:
 
 Nickel Metal Hydride
 
-A rechargeable [battery](/terms/battery) technology that is not susceptible to [memory effect](/terms/memory-effect), unlike [NiCd](/terms/nicd) batteries.
+A rechargeable (link: /terms/battery text: battery) technology that is not susceptible to (link: /terms/memory-effect text: memory effect), unlike (link: /terms/nicd text: NiCd) batteries.
 
 ----
 

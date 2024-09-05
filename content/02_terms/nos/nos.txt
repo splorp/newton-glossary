@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Newton OS](/terms/newton-os)
+See: (link: /terms/newton-os text: Newton OS)

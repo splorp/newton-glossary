@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A software program that facilitates the installation of [packages](/terms/package) on a Newton device from a [desktop computer](/terms/desktop-computer), [laptop](/terms/laptop-computer), or a network location. Examples of package installers include [Newton Backup Express](/terms/newton-backup-express) and [Newton Connection Utilities](/terms/newton-connection-utilities).
+A software program that facilitates the installation of (link: /terms/package text: packages) on a Newton device from a (link: /terms/desktop-computer text: desktop computer), (link: /terms/laptop-computer text: laptop), or a network location. Examples of package installers include (link: /terms/newton-backup-express text: Newton Backup Express) and (link: /terms/newton-connection-utilities text: Newton Connection Utilities).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A Windows-based [application](/terms/application) created by [Victor Rehorst](/sources/victor-rehorst) that extracts data from [InOut Box](/terms/inout-box) messages and [Notepad](/terms/notes) entries, exporting them as plain text.
+A Windows-based (link: /terms/application text: application) created by (link: /sources/victor-rehorst text: Victor Rehorst) that extracts data from (link: /terms/inout-box text: InOut Box) messages and (link: /terms/notes text: Notepad) entries, exporting them as plain text.
 
 ----
 

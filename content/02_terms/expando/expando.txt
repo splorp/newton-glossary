@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An [input area](/terms/input-area) that expands when [tapped](/terms/tapped) to become large enough for writing or printing.
+An (link: /terms/input-area text: input area) that expands when (link: /terms/tapped text: tapped) to become large enough for writing or printing.
 
 ----
 

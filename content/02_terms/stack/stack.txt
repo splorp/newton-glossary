@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A section of memory reserved for calculations, storage of local [variables](/terms/variable), or keeping track of internal operations and [functions](/terms/function).
+A section of memory reserved for calculations, storage of local (link: /terms/variable text: variables), or keeping track of internal operations and (link: /terms/function text: functions).
 
 ----
 

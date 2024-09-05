@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Store](/terms/store)
+See: (link: /terms/store text: Store)

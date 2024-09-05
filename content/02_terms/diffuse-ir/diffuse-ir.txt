@@ -8,7 +8,7 @@ Date: 10 July 2024
 
 Text:
 
-See: [Diffuse Infrared](/terms/diffuse-infrared)
+See: (link: /terms/diffuse-infrared text: Diffuse Infrared)
 
 -----
 

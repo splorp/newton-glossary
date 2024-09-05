@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A Japanese project organized by Masaru Hozumi and Hiroaki Dehiro to create a custom, clear case [MessagePad 2100](/terms/messagepad-2100). A variation of the case featuring blue accents was known as the [Blueberry Frozen](/terms/blueberry-frozen).
+A Japanese project organized by Masaru Hozumi and Hiroaki Dehiro to create a custom, clear case (link: /terms/messagepad-2100 text: MessagePad 2100). A variation of the case featuring blue accents was known as the (link: /terms/blueberry-frozen text: Blueberry Frozen).
 
-Also referred to as [Frozen Ghost](/terms/frozen-ghost).
+Also referred to as (link: /terms/frozen-ghost text: Frozen Ghost).
 
 ----
 

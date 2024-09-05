@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A visually distinct mark indicating where newly typed text will be inserted. The cursor moves as text is typed and can also be moved by the user to change the insertion point within a document or [field](/terms/field). Using different graphic representations, the cursor can also indicate system status, such as a [busy cursor](/terms/busy-cursor).
+A visually distinct mark indicating where newly typed text will be inserted. The cursor moves as text is typed and can also be moved by the user to change the insertion point within a document or (link: /terms/field text: field). Using different graphic representations, the cursor can also indicate system status, such as a (link: /terms/busy-cursor text: busy cursor).
 
-In [NewtonScript](/terms/newtonscript), a cursor is an [object](/terms/object) returned by the query [method](/terms/method). The cursor contains methods that iterate over a set of [soup](/terms/soup) entries meeting the criteria specified in the query. The addition or deletion of entries matching the query specification is automatically reflected in the set of entries referenced by the cursor, even if the changes occur after the original query was made.
+In (link: /terms/newtonscript text: NewtonScript), a cursor is an (link: /terms/object text: object) returned by the query (link: /terms/method text: method). The cursor contains methods that iterate over a set of (link: /terms/soup text: soup) entries meeting the criteria specified in the query. The addition or deletion of entries matching the query specification is automatically reflected in the set of entries referenced by the cursor, even if the changes occur after the original query was made.
 
 ----
 

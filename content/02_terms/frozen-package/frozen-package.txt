@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [package](/terms/package) that has been suspended by [freezing](/terms/freezing) and is not active. When you [freeze](/terms/freeze) a package, the [icon](/terms/icon) changes to a [snowflake](/terms/snowflake).
+A (link: /terms/package text: package) that has been suspended by (link: /terms/freezing text: freezing) and is not active. When you (link: /terms/freeze text: freeze) a package, the (link: /terms/icon text: icon) changes to a (link: /terms/snowflake text: snowflake).
 
 ----
 

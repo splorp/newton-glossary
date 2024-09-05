@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-Software developed by [Revelar](/sources/revelar) that allows the user to export, modify, and share data from their Newton device with Mac OS computers. Works with data used by the [Notepad](/terms/notepad), [Name File](/terms/name-file), [Date Book](/terms/date-book), and [Calls](/terms/calls) applications.
+Software developed by (link: /sources/revelar text: Revelar) that allows the user to export, modify, and share data from their Newton device with Mac OS computers. Works with data used by the (link: /terms/notepad text: Notepad), (link: /terms/name-file text: Name File), (link: /terms/date-book text: Date Book), and (link: /terms/calls text: Calls) applications.
 
-Commonly referred to as [RCU](/terms/rcu).
+Commonly referred to as (link: /terms/rcu text: RCU).
 
 ----
 

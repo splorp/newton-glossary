@@ -8,7 +8,7 @@ Date: 25 June 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), the [frame](/terms/frame) that encapsulates a routed (sent or received) [object](/terms/object) and that is stored in the [InOut Box](/terms/inout-box) soup.
+In (link: /terms/newtonscript text: NewtonScript), the (link: /terms/frame text: frame) that encapsulates a routed (sent or received) (link: /terms/object text: object) and that is stored in the (link: /terms/inout-box text: InOut Box) soup.
 
 ----
 

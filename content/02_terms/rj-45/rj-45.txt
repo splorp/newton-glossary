@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A standard modular connector, used for [ethernet](/terms/ethernet) connections. Similar to the [RJ-11](/terms/rj-11) modular connector used for telephone and [AppleTalk](/terms/appletalk) connections.
+A standard modular connector, used for (link: /terms/ethernet text: ethernet) connections. Similar to the (link: /terms/rj-11 text: RJ-11) modular connector used for telephone and (link: /terms/appletalk text: AppleTalk) connections.
 
 ----
 

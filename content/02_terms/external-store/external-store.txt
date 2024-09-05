@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A memory [card](/terms/pc-card) that stores installed [packages](/terms/package) and permanent user data. Called an external [store](/terms/store) because it is a physical accessory that must be plugged into the [PCMCIA](/terms/pcmcia) slot of a Newton device, as opposed to an [internal store](/terms/internal-store).
+A memory (link: /terms/pc-card text: card) that stores installed (link: /terms/package text: packages) and permanent user data. Called an external (link: /terms/store text: store) because it is a physical accessory that must be plugged into the (link: /terms/pcmcia text: PCMCIA) slot of a Newton device, as opposed to an (link: /terms/internal-store text: internal store).
 
-Also referred to as a [Card Store](/terms/card-store).
+Also referred to as a (link: /terms/card-store text: Card Store).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 23 June 2024
 
 Text:
 
-An implementation of [AppleTalk](/terms/appletalk) networking developed by Farallon Communications. PhoneNET used [Mini-DIN](/terms/mini-din) connectors to connect to [LocalTalk](/terms/localtalk) ports found on printers and Mac OS computers combined with standard [RJ-11](/terms/rj-11) jacks and four-conductor telephone wire, enabling it share the same cable used by existing telephone wiring.
+An implementation of (link: /terms/appletalk text: AppleTalk) networking developed by Farallon Communications. PhoneNET used (link: /terms/mini-din text: Mini-DIN) connectors to connect to (link: /terms/localtalk text: LocalTalk) ports found on printers and Mac OS computers combined with standard (link: /terms/rj-11 text: RJ-11) jacks and four-conductor telephone wire, enabling it share the same cable used by existing telephone wiring.
 
 ----
 

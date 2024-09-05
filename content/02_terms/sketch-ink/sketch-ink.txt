@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-See: [Ink](/terms/ink)
+See: (link: /terms/ink text: Ink)
 
 ----
 

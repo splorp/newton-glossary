@@ -8,7 +8,7 @@ Date: 25 September 2001
 
 Text:
 
-The type of [icon](/terms/icon) used to indicate a [frozen package](/terms/frozen-package). Specifically, a [package](/terms/package) that has been suspended by [freezing](/terms/freezing) and is not active.
+The type of (link: /terms/icon text: icon) used to indicate a (link: /terms/frozen-package text: frozen package). Specifically, a (link: /terms/package text: package) that has been suspended by (link: /terms/freezing text: freezing) and is not active.
 
 ----
 

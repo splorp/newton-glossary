@@ -8,7 +8,7 @@ Date: 23 March 2017
 
 Text:
 
-The [transport](/terms/transport) component of the Newton [text-to-speech](/terms/text-to-speech) software. SpeakText provides a way to send [recognized text](/terms/recognized-text) to the [MacinTalk](/terms/macintalk) speech synthesizer in any [application](/terms/application) that supports [routing](/terms/routing) of text.
+The (link: /terms/transport text: transport) component of the Newton (link: /terms/text-to-speech text: text-to-speech) software. SpeakText provides a way to send (link: /terms/recognized-text text: recognized text) to the (link: /terms/macintalk text: MacinTalk) speech synthesizer in any (link: /terms/application text: application) that supports (link: /terms/routing text: routing) of text.
 
 ----
 

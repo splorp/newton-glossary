@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The [AppleTalk](/terms/appletalk) networking [protocol](/terms/protocol) delivered over [Ethernet](/terms/ethernet).
+The (link: /terms/appletalk text: AppleTalk) networking (link: /terms/protocol text: protocol) delivered over (link: /terms/ethernet text: Ethernet).
 
 ----
 

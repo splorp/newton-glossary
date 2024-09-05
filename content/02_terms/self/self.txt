@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a pseudo-[variable](/terms/variable) that is set to the current [receiver](/terms/receiver).
+In (link: /terms/newtonscript text: NewtonScript), a pseudo-(link: /terms/variable text: variable) that is set to the current (link: /terms/receiver text: receiver).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The essential part of an [operating system](/terms/operating-system), responsible for operation such as resource allocation and low-level hardware communication.
+The essential part of an (link: /terms/operating-system text: operating system), responsible for operation such as resource allocation and low-level hardware communication.
 
 ----
 

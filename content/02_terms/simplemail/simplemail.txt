@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An email [transport](/terms/transport) created by [Simon Bell](/sources/simon-bell) that allows the user to send and receive messages over the internet using the POP3 and SMTP.
+An email (link: /terms/transport text: transport) created by (link: /sources/simon-bell text: Simon Bell) that allows the user to send and receive messages over the internet using the POP3 and SMTP.
 
 ----
 

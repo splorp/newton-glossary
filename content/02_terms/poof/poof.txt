@@ -8,7 +8,7 @@ Date: 18 December 2001
 
 Text:
 
-The sound that accompanies the “[going up in smoke](/terms/going-up-in-smoke)” animation after deleting text or ink drawings by [scrubbing](/terms/scrubbing) with the [pen](/terms/pen) on the [screen](/terms/screen) of a Newton device.
+The sound that accompanies the “(link: /terms/going-up-in-smoke text: going up in smoke)” animation after deleting text or ink drawings by (link: /terms/scrubbing text: scrubbing) with the (link: /terms/pen text: pen) on the (link: /terms/screen text: screen) of a Newton device.
 
 ----
 

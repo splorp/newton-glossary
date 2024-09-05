@@ -8,9 +8,9 @@ Date: 07 August 2024
 
 Text:
 
-A mechanism which secures or releases a component located on a Newton device such as a [battery](/terms/battery), [PC card](/terms/pc-card), or [lid](/terms/lid).
+A mechanism which secures or releases a component located on a Newton device such as a (link: /terms/battery text: battery), (link: /terms/pc-card text: PC card), or (link: /terms/lid text: lid).
 
-On an [eMate 300](/terms/emate-300), the [screen lid](/terms/screen-lid) latch is referred to as a [locking tab](/terms/locking-tab).
+On an (link: /terms/emate-300 text: eMate 300), the (link: /terms/screen-lid text: screen lid) latch is referred to as a (link: /terms/locking-tab text: locking tab).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-The internal system code name of the [book reader](/terms/book-reader) application built into the [Newton OS](/terms/newton-os).
+The internal system code name of the (link: /terms/book-reader text: book reader) application built into the (link: /terms/newton-os text: Newton OS).
 
 ----
 

@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A suite of software [packages](/terms/package) that will allow certain Newton devices to act as a web server. Originally created by [Matt Vaughn](https://github.com/mwvaughn) and subsequently developed by [Paul Guyot](/sources/paul-guyot), [Adam Tow](https://tow.com/), and [Victor Rehorst](/sources/victor-rehorst).
+A suite of software (link: /terms/package text: packages) that will allow certain Newton devices to act as a web server. Originally created by [Matt Vaughn](https://github.com/mwvaughn) and subsequently developed by (link: /sources/paul-guyot text: Paul Guyot), [Adam Tow](https://tow.com/), and (link: /sources/victor-rehorst text: Victor Rehorst).
 
-Also referred to as [NPDS](/terms/npds).
+Also referred to as (link: /terms/npds text: NPDS).
 
 (image: /assets/images/newton-personal-data-sharing-2x.gif alt: Screenshot of the Newton Personal Data Sharing application width: 176)
 

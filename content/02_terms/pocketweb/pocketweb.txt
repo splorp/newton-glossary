@@ -10,7 +10,7 @@ Text:
 
 The first web browser available for use on a handheld device. PocketWeb was specifically designed for the Newton platform by the [PDA Developers Group](http://www.teco.edu/pda/) at [TecO](http://www.teco.edu/) in 1994.
 
-PocketWeb was initially (and rather awkwardly) known as [NewtonWWW](/terms/newtonwww).
+PocketWeb was initially (and rather awkwardly) known as (link: /terms/newtonwww text: NewtonWWW).
 
 (image: /assets/images/pocketweb-2x.gif alt: Screenshot of PocketWeb width: 322)
 

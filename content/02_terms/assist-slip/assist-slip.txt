@@ -8,13 +8,13 @@ Date: 10 December 2023
 
 Text:
 
-An input [container view](/terms/container-view) that is displayed if the [Assist](/terms/assist) function can’t interpret a user’s written request, allowing the user to provide more information. The user can choose an [action](/terms/action) from the slip’s [Please picker](/terms/please-picker) and can write on the slip’s [input line](/terms/input-line).
+An input (link: /terms/container-view text: container view) that is displayed if the (link: /terms/assist text: Assist) function can’t interpret a user’s written request, allowing the user to provide more information. The user can choose an (link: /terms/action text: action) from the slip’s (link: /terms/please-picker text: Please picker) and can write on the slip’s (link: /terms/input-line text: input line).
 
 (image: /assets/images/assist-slip-2x.gif alt: Screenshot of the Assist Slip width: 240)
 
-If the user wrote something before [tapping](/terms/tapping) the Assist button, such as a [request word](/terms/request-word], but did not provide enough information to clearly specify an action, the Assist slip displays those words and includes a message prompting the user to provide additional information.
+If the user wrote something before (link: /terms/tapping text: tapping) the Assist button, such as a [request word](/terms/request-word], but did not provide enough information to clearly specify an action, the Assist slip displays those words and includes a message prompting the user to provide additional information.
 
-The Assist slip is also referred to as the [Assist Drawer](/terms/assist-drawer) in some Apple documentation, even though it is not technically a [drawer](/terms/drawer).
+The Assist slip is also referred to as the (link: /terms/assist-drawer text: Assist Drawer) in some Apple documentation, even though it is not technically a (link: /terms/drawer text: drawer).
 
 ----
 

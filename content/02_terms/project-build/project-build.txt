@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-To compile all of the various files, [resources](/terms/resource), and other data components for a given [project](/terms/project) into an executable program.
+To compile all of the various files, (link: /terms/resource text: resources), and other data components for a given (link: /terms/project text: project) into an executable program.
 
 ----
 

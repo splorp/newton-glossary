@@ -8,7 +8,7 @@ Date: 24 April 2017
 
 Text:
 
-A monthly package mailed to Newton developer program members that included the quarterly [Newton Developer CD](/terms/newton-developer-cd), the bimonthly [Newton Technology Journal](/terms/newton-technology-journal), and other periodicals published by [Apple](https://www.apple.com/). The Newton Developer Mailing contained information such as sample code, human interface guidelines, programming advice, product news, and market research.
+A monthly package mailed to Newton developer program members that included the quarterly (link: /terms/newton-developer-cd text: Newton Developer CD), the bimonthly (link: /terms/newton-technology-journal text: Newton Technology Journal), and other periodicals published by [Apple](https://www.apple.com/). The Newton Developer Mailing contained information such as sample code, human interface guidelines, programming advice, product news, and market research.
 
 ----
 

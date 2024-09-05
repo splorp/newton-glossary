@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A [variable](/terms/variable) whose scope is the [function](/terms/function) within which it is defined. In [NewtonScript](/terms/newtonscript), you must use the local keyword to explicitly create a local variable within a function.
+A (link: /terms/variable text: variable) whose scope is the (link: /terms/function text: function) within which it is defined. In (link: /terms/newtonscript text: NewtonScript), you must use the local keyword to explicitly create a local variable within a function.
 
 ----
 

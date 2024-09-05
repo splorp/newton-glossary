@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: [Newton Aluminum Shell Project](/terms/newton-aluminum-shell-project)
+See: (link: /terms/newton-aluminum-shell-project text: Newton Aluminum Shell Project)

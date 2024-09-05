@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a structure used to store information about a [font](/terms/font), including the font family, style, and [point](/terms/point) size.
+In (link: /terms/newtonscript text: NewtonScript), a structure used to store information about a (link: /terms/font text: font), including the font family, style, and (link: /terms/point text: point) size.
 
 ----
 

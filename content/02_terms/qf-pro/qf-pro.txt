@@ -8,7 +8,7 @@ Date: 23 November 2017
 
 Text:
 
-See: [QuickFigure](/terms/quickfigure)
+See: (link: /terms/quickfigure text: QuickFigure)
 
 ----
 

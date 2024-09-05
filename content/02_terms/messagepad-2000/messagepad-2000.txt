@@ -8,13 +8,13 @@ Date: 24 August 2016
 
 Text:
 
-The MessagePad 2000 is based on the [StrongARM](/terms/strongarm) 110 processor, making it nearly ten times as fast as its predecessor, the [MessagePad 130](/terms/messagepad-130). It also featured significantly more [RAM](/terms/ram), a slightly larger greyscale [screen](/terms/screen), support for two [PCMCIA](/terms/pcmcia) cards, and the proprietary multifunction [Newton InterConnect](/terms/newton-interconnect) port.
+The MessagePad 2000 is based on the (link: /terms/strongarm text: StrongARM) 110 processor, making it nearly ten times as fast as its predecessor, the (link: /terms/messagepad-130 text: MessagePad 130). It also featured significantly more (link: /terms/ram text: RAM), a slightly larger greyscale (link: /terms/screen text: screen), support for two (link: /terms/pcmcia text: PCMCIA) cards, and the proprietary multifunction (link: /terms/newton-interconnect text: Newton InterConnect) port.
 
-When an MessagePad 2000 has been upgraded to the equivalent specifications of a [MessagePad 2100](/terms/messagepad-2100), it becomes an [UMP](/terms/ump) or “Upgraded MessagePad”. A non-upgraded MessagePad 2000 is also referred to as an [Original MessagePad 2000](/terms/original-messagepad-2000) or [OMP2K](/terms/omp2k).
+When an MessagePad 2000 has been upgraded to the equivalent specifications of a (link: /terms/messagepad-2100 text: MessagePad 2100), it becomes an (link: /terms/ump text: UMP) or “Upgraded MessagePad”. A non-upgraded MessagePad 2000 is also referred to as an (link: /terms/original-messagepad-2000 text: Original MessagePad 2000) or (link: /terms/omp2k text: OMP2K).
 
-Like its successor, the MessagePad 2000 was code named alternately [N2](/terms/n2) and [Q](/terms/q).
+Like its successor, the MessagePad 2000 was code named alternately (link: /terms/n2 text: N2) and (link: /terms/q text: Q).
 
-It is commonly referred to as an [MP2000](/terms/mp2000).
+It is commonly referred to as an (link: /terms/mp2000 text: MP2000).
 
 ----
 

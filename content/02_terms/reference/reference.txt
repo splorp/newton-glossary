@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In [NewtonScript](/terms/newtonscript), a value that indirectly refers to an [array](/terms/array), [frame](/terms/frame), or [binary object](/terms/binary-object).
+In (link: /terms/newtonscript text: NewtonScript), a value that indirectly refers to an (link: /terms/array text: array), (link: /terms/frame text: frame), or (link: /terms/binary-object text: binary object).
 
 ----
 

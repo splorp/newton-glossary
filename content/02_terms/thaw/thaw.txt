@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-To restore the activity of an [application](/terms/application) or [extension](/terms/extension) package. Thawing a [package](/terms/package) is similar to activating an [external store](/terms/external-store) — such as a [PC card](/terms/pc-card) — that a package is stored on.
+To restore the activity of an (link: /terms/application text: application) or (link: /terms/extension text: extension) package. Thawing a (link: /terms/package text: package) is similar to activating an (link: /terms/external-store text: external store) — such as a (link: /terms/pc-card text: PC card) — that a package is stored on.
 
-To suspend a package, you [freeze](/terms/freeze) it.
+To suspend a package, you (link: /terms/freeze text: freeze) it.
 
 ----
 

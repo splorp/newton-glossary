@@ -8,7 +8,7 @@ Date: 25 September 2001
 
 Text:
 
-See: [BLTG](/terms/bltg)
+See: (link: /terms/bltg text: BLTG)
 
 ----
 

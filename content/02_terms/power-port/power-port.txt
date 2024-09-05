@@ -8,9 +8,9 @@ Date: 12 June 2001
 
 Text:
 
-A connector on a Newton device which accepts a plug from an AC adapter or other external power source such as a [battery booster pack](/terms/battery-booster-pack).
+A connector on a Newton device which accepts a plug from an AC adapter or other external power source such as a (link: /terms/battery-booster-pack text: battery booster pack).
 
-Also referred to as an [AC Port](/terms/ac-port).
+Also referred to as an (link: /terms/ac-port text: AC Port).
 
 ----
 

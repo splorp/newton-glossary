@@ -8,9 +8,9 @@ Date: 21 November 2004
 
 Text:
 
-Software developed by [Greg Simon](https://www.google.com/+GregSimon) that allows the user to transfer [packages](/terms/package) from a Newton device to certain Mac OS and Windows computers.
+Software developed by [Greg Simon](https://www.google.com/+GregSimon) that allows the user to transfer (link: /terms/package text: packages) from a Newton device to certain Mac OS and Windows computers.
 
-Also referred to as [NPU](/terms/npu).
+Also referred to as (link: /terms/npu text: NPU).
 
 ----
 

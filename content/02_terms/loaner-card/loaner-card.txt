@@ -8,7 +8,7 @@ Date: 22 April 2024
 
 Text:
 
-See: [Bootstrap Card](/terms/bootstrap-card)
+See: (link: /terms/bootstrap-card text: Bootstrap Card)
 
 ----
 

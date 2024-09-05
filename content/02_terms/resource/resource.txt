@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-Raw data usually consisting of [bitmaps](/terms/bitmap) or sounds that is stored on the development system and incorporated into a Newton [application](/terms/application) during the [project build](/terms/project-build).
+Raw data usually consisting of (link: /terms/bitmap text: bitmaps) or sounds that is stored on the development system and incorporated into a Newton (link: /terms/application text: application) during the (link: /terms/project-build text: project build).
 
 ----
 

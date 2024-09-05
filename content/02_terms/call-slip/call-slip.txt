@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An input [container view](/terms/container-view) for recording data associated with a telephone call.
+An input (link: /terms/container-view text: container view) for recording data associated with a telephone call.
 
 ----
 

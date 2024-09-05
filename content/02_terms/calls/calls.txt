@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-The built-in [application](/terms/application) for making and storing information about telephone calls.
+The built-in (link: /terms/application text: application) for making and storing information about telephone calls.
 
 ----
 

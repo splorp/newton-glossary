@@ -8,7 +8,7 @@ Date: 25 June 2001
 
 Text:
 
-A [dictionary](/terms/dictionary) that specifies [grammar](/terms/grammar) or syntax used to classify specifically formatted user [input](/terms/input) such as dates, times, telephone numbers, and currency values.
+A (link: /terms/dictionary text: dictionary) that specifies (link: /terms/grammar text: grammar) or syntax used to classify specifically formatted user (link: /terms/input text: input) such as dates, times, telephone numbers, and currency values.
 
 ----
 

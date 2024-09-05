@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A physical repository that can contain [soups](/terms/soup) and [packages](/terms/package). A store is the equivalent of a disk volume on a [desktop computer](/terms/desktop-computer) or [laptop](/terms/laptop-computer).
+A physical repository that can contain (link: /terms/soup text: soups) and (link: /terms/package text: packages). A store is the equivalent of a disk volume on a (link: /terms/desktop-computer text: desktop computer) or (link: /terms/laptop-computer text: laptop).
 
 ----
 

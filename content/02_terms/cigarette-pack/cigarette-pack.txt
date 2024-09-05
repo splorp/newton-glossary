@@ -8,9 +8,9 @@ Date: 12 June 2001
 
 Text:
 
-A nickname for the [Newton Fax Modem](/terms/newton-fax-modem). So called because its dimensions were similar to that of a package of cigarettes.
+A nickname for the (link: /terms/newton-fax-modem text: Newton Fax Modem). So called because its dimensions were similar to that of a package of cigarettes.
 
-Also referred to as the [Cigarette Case](/terms/cigarette-case) or [Cigarette Box](/terms/cigarette-box) modem.
+Also referred to as the (link: /terms/cigarette-case text: Cigarette Case) or (link: /terms/cigarette-box text: Cigarette Box) modem.
 
 ----
 

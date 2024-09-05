@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The specific placement of text and graphics on the page of a [Newton book](/terms/newton-book), as defined by various [layout commands](/terms/layout-command).
+The specific placement of text and graphics on the page of a (link: /terms/newton-book text: Newton book), as defined by various (link: /terms/layout-command text: layout commands).
 
 ----
 

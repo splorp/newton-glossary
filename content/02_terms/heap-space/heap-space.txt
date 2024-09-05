@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-See: [System Memory](/terms/system-memory)
+See: (link: /terms/system-memory text: System Memory)
 
 ----
 

@@ -8,7 +8,7 @@ Date: 10 January 2018
 
 Text:
 
-A list containing the names of people and companies from the [Name File](/terms/name-file) and [Owner Info](/terms/owner-info) applications. Along with each name, the [picker](/terms/picker) can display a telephone number, fax number, or email address.
+A list containing the names of people and companies from the (link: /terms/name-file text: Name File) and (link: /terms/owner-info text: Owner Info) applications. Along with each name, the (link: /terms/picker text: picker) can display a telephone number, fax number, or email address.
 
 (image: /assets/images/people-picker-2x.gif alt: Screenshot of the People Picker width: 238)
 

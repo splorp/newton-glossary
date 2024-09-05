@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The initial name given to the Mac OS version of the Newton [handwriting recognition](/terms/handwriting-recognition) system, eventually known simply as [Ink](/terms/ink). Inkwell originally appeared in Mac OS 9 before being included in certain versions of Mac OS X.
+The initial name given to the Mac OS version of the Newton (link: /terms/handwriting-recognition text: handwriting recognition) system, eventually known simply as (link: /terms/ink text: Ink). Inkwell originally appeared in Mac OS 9 before being included in certain versions of Mac OS X.
 
 (image: /assets/images/ink-window-classic-2x.gif alt: Screenshot of the Ink Window toolbar in Mac OS 9 width: 258)
 

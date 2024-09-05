@@ -8,7 +8,7 @@ Date: 01 August 2024
 
 Text:
 
-A game developed by [Scrawl Software](/sources/scrawl-software) based on the Mac OS version originally conceived by [Ambrosia Software](https://web.archive.org/web/20171001021126/http://www.ambrosiasw.com/games/chiral/). The object of the game is to form inert molecules, described as “a cross between Tetris and that 10th grade chemistry class you tried to forget”. 
+A game developed by (link: /sources/scrawl-software text: Scrawl Software) based on the Mac OS version originally conceived by [Ambrosia Software](https://web.archive.org/web/20171001021126/http://www.ambrosiasw.com/games/chiral/). The object of the game is to form inert molecules, described as “a cross between Tetris and that 10th grade chemistry class you tried to forget”. 
 
 (image: /assets/images/chiral-2x.gif alt: Screenshot of Chiral width: 242)
 

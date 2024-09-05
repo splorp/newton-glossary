@@ -8,7 +8,7 @@ Date: 08 June 2024
 
 Text:
 
-An [application](/terms/application) created by [Eckhart Köppen](/sources/eckhart-koppen) that facilitates the organization of goals and the selection of next actions or tasks base on the [Getting Things Done](/terms/getting-things-done) productivity system. Whereas Köppen’s [Flashpoint](/terms/flashpoint) is a self-contained application that provides similar functionality, Nitch makes use of the built-in [Notepad](/terms/notepad) application, offering a custom view of goals and their associated actions using custom [stationery](/terms/stationery).
+An (link: /terms/application text: application) created by (link: /sources/eckhart-koppen text: Eckhart Köppen) that facilitates the organization of goals and the selection of next actions or tasks base on the (link: /terms/getting-things-done text: Getting Things Done) productivity system. Whereas Köppen’s (link: /terms/flashpoint text: Flashpoint) is a self-contained application that provides similar functionality, Nitch makes use of the built-in (link: /terms/notepad text: Notepad) application, offering a custom view of goals and their associated actions using custom (link: /terms/stationery text: stationery).
 
 (image: /assets/images/nitch-2x.gif alt: Screenshot of the Nitch “Goals” view in the Notepad width: 322)
 

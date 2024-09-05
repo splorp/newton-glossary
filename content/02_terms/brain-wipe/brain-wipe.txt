@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The colloquial term for performing a [hard reset](/terms/hard-reset) on a Newton device, effectively erasing all user data and system [preferences](/terms/preferences).
+The colloquial term for performing a (link: /terms/hard-reset text: hard reset) on a Newton device, effectively erasing all user data and system (link: /terms/preferences text: preferences).
 
 ----
 

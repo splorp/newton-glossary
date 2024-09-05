@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-To use a [debugger](/terms/debugger) to locate and fix unintended behaviour in a piece of software or code. The process of using a debugger is referred to as [debugging](/terms/debugging).
+To use a (link: /terms/debugger text: debugger) to locate and fix unintended behaviour in a piece of software or code. The process of using a debugger is referred to as (link: /terms/debugging text: debugging).
 
 ----
 
