@@ -8,7 +8,7 @@ Date: 30 October 2001
 
 Text:
 
-A pair of icon-based [buttons](/terms/button) used to [scroll](/terms/scroll) an area of content displayed on the [screen](/terms/screen).
+A pair of icon-based (link: /terms/button text: buttons) used to (link: /terms/scroll text: scroll) an area of content displayed on the (link: /terms/screen text: screen).
 
 ----
 
