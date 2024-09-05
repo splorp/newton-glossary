@@ -8,9 +8,9 @@ Date: 05 June 2024
 
 Text:
 
-A prototype-oriented (link: /terms/newtonscript text: NewtonScript) interpreter and compiler developed by [Makoto “gnue” Nukui](/sources/gnue) designed to run on various modern computing platforms.
+A prototype-oriented (link: /terms/newtonscript text: NewtonScript) interpreter and compiler developed by (link: /sources/gnue text: Makoto “gnue” Nukui) designed to run on various modern computing platforms.
 
-(link: /sources/matthias-melcher text: Matthias Melcher) also developed a version of Newt/0 designed to run on 64-bit processors called [NEWT/64](/terms/newt64).
+(link: /sources/matthias-melcher text: Matthias Melcher) also developed a version of Newt/0 designed to run on 64-bit processors called (link: /terms/newt64 text: NEWT/64).
 
 ----
 

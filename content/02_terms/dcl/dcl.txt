@@ -10,7 +10,7 @@ Text:
 
 Desktop Connection Library
 
-A multi-platform communication framework created by (link: /sources/paul-guyot text: Paul Guyot), [Nicolas Zinovieff](https://github.com/krugazor), and [Michael Vacík](https://www.linkedin.com/in/mvacik). DCL was designed to replace the various code libraries and (link: /terms/application text: applications) developed by [Apple](https://www.apple.com/) for connecting to and interacting with data stored on devices running (link: /terms/newton-os text: Newton OS) 2.0 and later via the built-in (link: /terms/dock text: dock) protocol. Connections are usually performed via serial cable, but higher level (link: /terms/protocol text: protocol) layers can also run over other connection methods such as [TCP/IP](/terms/tcp-ip).
+A multi-platform communication framework created by (link: /sources/paul-guyot text: Paul Guyot), [Nicolas Zinovieff](https://github.com/krugazor), and [Michael Vacík](https://www.linkedin.com/in/mvacik). DCL was designed to replace the various code libraries and (link: /terms/application text: applications) developed by [Apple](https://www.apple.com/) for connecting to and interacting with data stored on devices running (link: /terms/newton-os text: Newton OS) 2.0 and later via the built-in (link: /terms/dock text: dock) protocol. Connections are usually performed via serial cable, but higher level (link: /terms/protocol text: protocol) layers can also run over other connection methods such as (link: /terms/tcp-ip text: TCP/IP).
 
 ----
 

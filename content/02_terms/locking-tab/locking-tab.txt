@@ -12,7 +12,7 @@ A mechanism found on (link: /terms/original-messagepad text: Original MessagePad
 
 Also referred to as a (link: /terms/card-latch text: Card Latch) in the 1993 edition of the (link: /sources/messagepad-handbook-1993 text: MessagePad Handbook).
 
-The [Newton Internet Enabler User’s Guide](/sources/newton-internet-enabler-users-manual) erroneously refers to the locking tab as (link: /terms/card-lock-switch text: card lock switch) which is actually a (link: /terms/write-protection-switch text: write-protection switch) found on a (link: /terms/storage-card text: storage card).
+The (link: /sources/newton-internet-enabler-users-manual text: Newton Internet Enabler User’s Guide) erroneously refers to the locking tab as (link: /terms/card-lock-switch text: card lock switch) which is actually a (link: /terms/write-protection-switch text: write-protection switch) found on a (link: /terms/storage-card text: storage card).
 
 The button which releases the lid on an (link: /terms/emate-300 text: eMate 300) is also called a locking tab.
 

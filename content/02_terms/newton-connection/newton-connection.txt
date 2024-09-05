@@ -14,7 +14,7 @@ Newton Connection is also an (link: /terms/application text: application) for Ma
 
 Also referred to as (link: /terms/ncx text: NCX).
 
-Backup files created by Newton Connection are identified by the [.nbku](/terms/nbku) filename extension.
+Backup files created by Newton Connection are identified by the (link: /terms/nbku text: .nbku) filename extension.
 
 ----
 

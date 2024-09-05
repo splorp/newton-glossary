@@ -10,7 +10,7 @@ Text:
 
 Newton Streamed Object Format
 
-A specific type of data which describes a NewtonScript (link: /terms/frame text: frame) along with everything that it contains. (link: /terms/stream-file text: Stream files) are encoded using (link: /terms/nsof text: NSOF). Examples of files containing NSOF data include [.nwt](/terms/nwt) attachments sent using (link: /terms/newton-os text: Newton OS) email (link: /terms/application text: applications) such as (link: /terms/simplemail text: SimpleMail) or (link: /terms/enroute text: EnRoute), as well as most (link: /terms/newton-toolkit text: Newton Toolkit) documents.
+A specific type of data which describes a NewtonScript (link: /terms/frame text: frame) along with everything that it contains. (link: /terms/stream-file text: Stream files) are encoded using (link: /terms/nsof text: NSOF). Examples of files containing NSOF data include (link: /terms/nwt text: .nwt) attachments sent using (link: /terms/newton-os text: Newton OS) email (link: /terms/application text: applications) such as (link: /terms/simplemail text: SimpleMail) or (link: /terms/enroute text: EnRoute), as well as most (link: /terms/newton-toolkit text: Newton Toolkit) documents.
 
 `nsof` is also a command line (link: /terms/application text: application) created by (link: /sources/eckhart-koppen text: Eckhart Köppen) that encodes and decodes NSOF data as part of the (link: /terms/rdcl text: RDCL) (Ruby Desktop Connection Library) framework.
 

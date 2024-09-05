@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A software program or hardware device that acts as a bridge between networks that use the same data transmission (link: /terms/protocol text: protocols). For example, an gateway can operate as an entry and exit point to the internet using [TCP/IP](/terms/tcp-ip).
+A software program or hardware device that acts as a bridge between networks that use the same data transmission (link: /terms/protocol text: protocols). For example, an gateway can operate as an entry and exit point to the internet using (link: /terms/tcp-ip text: TCP/IP).
 
 ----
 

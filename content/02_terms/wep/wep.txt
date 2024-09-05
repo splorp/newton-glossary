@@ -10,7 +10,7 @@ Text:
 
 Wired Equivalent Privacy
 
-An security (link: /terms/protocol text: protocol) used on [802.11](/terms/802-11) wireless networks. The encryption method used in the WEP protocol is so named because it was designed to provide security “equivalent” to that which is available in wired networks such as (link: /terms/ethernet text: ethernet).
+An security (link: /terms/protocol text: protocol) used on (link: /terms/802-11 text: 802.11) wireless networks. The encryption method used in the WEP protocol is so named because it was designed to provide security “equivalent” to that which is available in wired networks such as (link: /terms/ethernet text: ethernet).
 
 ----
 

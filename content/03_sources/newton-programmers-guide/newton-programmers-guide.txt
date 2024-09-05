@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-Published by [Apple](https://www.apple.com/) in 1996 as a companion to the [Newton Programmer’s Reference](/sources/newton-programmers-reference), this is the definitive guide to Newton programming. An addendum covering changes and additions to (link: /terms/newton-os text: Newton OS) 2.1 was published in 1997.
+Published by [Apple](https://www.apple.com/) in 1996 as a companion to the (link: /sources/newton-programmers-reference text: Newton Programmer’s Reference), this is the definitive guide to Newton programming. An addendum covering changes and additions to (link: /terms/newton-os text: Newton OS) 2.1 was published in 1997.
 
 ----
 

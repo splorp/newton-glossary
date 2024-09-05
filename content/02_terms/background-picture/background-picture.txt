@@ -8,9 +8,9 @@ Date: 08 November 2017
 
 Text:
 
-An image displayed behind the main (link: /terms/user-interface text: user interface) on a Newton device when [Avi’s Backdrop](/terms/avis-backdrop) is set as the (link: /terms/backdrop text: backdrop) application. A background picture is basically a (link: /terms/newton-book text: Newton book) containing a (link: /terms/bitmap text: bitmap) image.
+An image displayed behind the main (link: /terms/user-interface text: user interface) on a Newton device when (link: /terms/avis-backdrop text: Avi’s Backdrop) is set as the (link: /terms/backdrop text: backdrop) application. A background picture is basically a (link: /terms/newton-book text: Newton book) containing a (link: /terms/bitmap text: bitmap) image.
 
-A background picture can be created using software such as (link: /terms/newton-press text: Newton Press), (link: /terms/newton-book-maker text: Newton Book Maker), or [Newt’s Cape](/terms/newts-cape) and delivered as an installable (link: /terms/package text: package).
+A background picture can be created using software such as (link: /terms/newton-press text: Newton Press), (link: /terms/newton-book-maker text: Newton Book Maker), or (link: /terms/newts-cape text: Newt’s Cape) and delivered as an installable (link: /terms/package text: package).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 02 September 2017
 
 Text:
 
-Currently a software engineer at Google, Drissman developed numerous pieces of software for Mac OS and (link: /terms/newton-os text: Newton OS), including (link: /terms/fix2010 text: Fix2010), (link: /terms/egg-freckles-enabler text: Egg Freckles Enabler), and the popular [Avi’s Backdrop](/terms/avis-backdrop).
+Currently a software engineer at Google, Drissman developed numerous pieces of software for Mac OS and (link: /terms/newton-os text: Newton OS), including (link: /terms/fix2010 text: Fix2010), (link: /terms/egg-freckles-enabler text: Egg Freckles Enabler), and the popular (link: /terms/avis-backdrop text: Avi’s Backdrop).
 
 He is also known for his song “(link: /terms/newton-pie text: Newton PIE)”.
 

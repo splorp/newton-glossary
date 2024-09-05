@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The recommended (link: /terms/filename-extension text: filename extension) used to identify Newton (link: /terms/package-file text: package files) on current (link: /terms/operating-system text: operating systems) such as Solaris, BeOS, Mac OS X, and iOS which use the [.pkg](/terms/pkg) extension to denote installable software packages.
+The recommended (link: /terms/filename-extension text: filename extension) used to identify Newton (link: /terms/package-file text: package files) on current (link: /terms/operating-system text: operating systems) such as Solaris, BeOS, Mac OS X, and iOS which use the (link: /terms/pkg text: .pkg) extension to denote installable software packages.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-Published by [Apple](https://www.apple.com/) in 1996 as a companion to the [Newton Programmer’s Guide](/sources/newton-programmers-guide) is the definitive guide to Newton programming.
+Published by [Apple](https://www.apple.com/) in 1996 as a companion to the (link: /sources/newton-programmers-guide text: Newton Programmer’s Guide) is the definitive guide to Newton programming.
 
 ----
 

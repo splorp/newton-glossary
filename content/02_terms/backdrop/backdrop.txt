@@ -10,7 +10,7 @@ Text:
 
 An (link: /terms/application text: application) that is displayed when all other applications are closed and cannot be closed itself. (link: /terms/notepad text: Notepad) is the default backdrop application on a (link: /terms/messagepad text: MessagePad) device. (link: /terms/newton-works text: Newton Works) is the default backdrop application on an (link: /terms/emate-300 text: eMate 300). Another application can set as the backdrop by using the (link: /terms/action-picker text: action picker) located in the (link: /terms/extras-drawer text: Extras Drawer).
 
-[Avi’s Backdrop](/terms/avis-backdrop) is an example of a third-party backdrop application.
+(link: /terms/avis-backdrop text: Avi’s Backdrop) is an example of a third-party backdrop application.
 
 ----
 

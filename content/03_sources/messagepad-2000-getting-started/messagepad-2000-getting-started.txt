@@ -8,7 +8,7 @@ Date: 18 July 2024
 
 Text:
 
-Published by [Apple](https://www.apple.com/) in 1997, this is a introductory look at the features of the (link: /terms/messagepad-2000 text: MessagePad 2000) device and companion to the [MessagePad 2000 User’s Manual](/sources/messagepad-2000-user-manual).
+Published by [Apple](https://www.apple.com/) in 1997, this is a introductory look at the features of the (link: /terms/messagepad-2000 text: MessagePad 2000) device and companion to the (link: /sources/messagepad-2000-user-manual text: MessagePad 2000 User’s Manual).
 
 ----
 

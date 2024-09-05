@@ -8,7 +8,7 @@ Date: 18 March 2017
 
 Text:
 
-An internet search tool for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/sean-luke text: Sean Luke). Hemlock utilizes the [Newt’s Cape](/terms/newts-cape) web browser to retrieve and display the results of querying one or more search engines using Apple’s [Sherlock](https://web.archive.org/web/20011108064228/http://www.apple.com/sherlock/) plugins.
+An internet search tool for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/sean-luke text: Sean Luke). Hemlock utilizes the (link: /terms/newts-cape text: Newt’s Cape) web browser to retrieve and display the results of querying one or more search engines using Apple’s [Sherlock](https://web.archive.org/web/20011108064228/http://www.apple.com/sherlock/) plugins.
 
 The name is in reference to the Sesame Street character, [Sherlock Hemlock](http://muppet.wikia.com/wiki/Sherlock_Hemlock).
 

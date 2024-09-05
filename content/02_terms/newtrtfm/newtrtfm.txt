@@ -8,7 +8,7 @@ Date: 19 April 2024
 
 Text:
 
-A programming reference for (link: /terms/newton-os text: Newton OS) created by Sandeep Shah and published by (link: /sources/creative-digital-publishing text: Creative Digital Publishing). NewtRTFM provides a concise, searchable summary of the (link: /terms/newton-toolkit text: Newton Toolkit) documentation, including the [Newton Toolkit User’s Guide](/sources/newton-toolkit-users-guide).
+A programming reference for (link: /terms/newton-os text: Newton OS) created by Sandeep Shah and published by (link: /sources/creative-digital-publishing text: Creative Digital Publishing). NewtRTFM provides a concise, searchable summary of the (link: /terms/newton-toolkit text: Newton Toolkit) documentation, including the (link: /sources/newton-toolkit-users-guide text: Newton Toolkit User’s Guide).
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 A movable (link: /terms/cover text: cover) that protects various ports when not in use.
 
-On [MessagePad 2000](/terms/messagepad-2000] and [MessagePad 2100](/terms/messagepad-2100] devices, a hinged door on the top of the case opens to reveal the (link: /terms/power-port text: power port) and (link: /terms/interconnect text: InterConnect) ports.
+On (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices, a hinged door on the top of the case opens to reveal the (link: /terms/power-port text: power port) and (link: /terms/interconnect text: InterConnect) ports.
 
 On an eMate 300, a (link: /terms/sliding-door text: sliding door) covers the (link: /terms/communication-port text: communication ports).
 

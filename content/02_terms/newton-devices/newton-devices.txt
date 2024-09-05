@@ -8,7 +8,7 @@ Date: 31 May 2001
 
 Text:
 
-A (link: /terms/package text: package) containing various driver functions allowing communication using (link: /terms/protocol text: protocols) such as (link: /terms/appletalk text: AppleTalk) and [TCP/IP](/terms/tcp-ip). The Newton Devices package incorporates the (link: /terms/lantern-library text: Lantern Library) of driver functions, and other driver (link: /terms/api text: APIs).
+A (link: /terms/package text: package) containing various driver functions allowing communication using (link: /terms/protocol text: protocols) such as (link: /terms/appletalk text: AppleTalk) and (link: /terms/tcp-ip text: TCP/IP). The Newton Devices package incorporates the (link: /terms/lantern-library text: Lantern Library) of driver functions, and other driver (link: /terms/api text: APIs).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 29 December 2023
 
 Text:
 
-An (link: /terms/application text: application) used to control various settings on an (link: /terms/emate-300 text: eMate 300) when it’s in (link: /terms/classroom-mode text: Classroom Mode). Teacher Setup lets you select a default printer, enable or disable spell-checking, allow multiple users to log into an eMate, as well as choose which applications users are able to access. It also provides a means to enter users and associated [passwords](/terms/password] on each eMate.
+An (link: /terms/application text: application) used to control various settings on an (link: /terms/emate-300 text: eMate 300) when it’s in (link: /terms/classroom-mode text: Classroom Mode). Teacher Setup lets you select a default printer, enable or disable spell-checking, allow multiple users to log into an eMate, as well as choose which applications users are able to access. It also provides a means to enter users and associated (link: /terms/password text: passwords) on each eMate.
 
 The settings specified using Teacher Setup can be used to make up a (link: /terms/base-classroom-state text: base classroom state), settings that are common to all eMate devices in a classroom. Once you set a base classroom state on a single eMate, you can transfer those settings to other eMate devices using a (link: /terms/storage-card text: storage card).
 

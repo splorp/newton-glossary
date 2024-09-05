@@ -8,7 +8,7 @@ Date: 31 August 2017
 
 Text:
 
-An onscreen (link: /terms/keyboard text: keyboard) that appears when the (link: /terms/keyboard-button text: keyboard button) is (link: /terms/tapped text: tapped). The phone keyboard is designed for easily entering telephone numbers into (link: /terms/application text: applications) such as (link: /terms/name-file text: Name File). Several other onscreen keyboards are available for entering specific types of data, including (link: /terms/typewriter text: Typewriter), (link: /terms/numeric text: Numeric), and [Time/Date](/terms/time-date).
+An onscreen (link: /terms/keyboard text: keyboard) that appears when the (link: /terms/keyboard-button text: keyboard button) is (link: /terms/tapped text: tapped). The phone keyboard is designed for easily entering telephone numbers into (link: /terms/application text: applications) such as (link: /terms/name-file text: Name File). Several other onscreen keyboards are available for entering specific types of data, including (link: /terms/typewriter text: Typewriter), (link: /terms/numeric text: Numeric), and (link: /terms/time-date text: Time/Date).
 
 (image: /assets/images/phone-2x.gif alt: Screenshot of the Phone keyboard width: 143)
 

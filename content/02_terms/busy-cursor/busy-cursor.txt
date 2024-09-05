@@ -14,7 +14,7 @@ A graphical indicator automatically displayed by the system while it is temporar
 
 The busy cursor is not meant to provide complete feedback during a lengthy operation. If an (link: /terms/application text: application) or (link: /terms/transport text: transport) begins an operation that can take more than a few seconds to complete, it will usually display a (link: /terms/status-slip text: status slip) instead.
 
-Colloquially known as the (link: /terms/lightbulb-icon text: lightbulb icon) or the [something’s happening icon](/terms/somethings-happening-icon).
+Colloquially known as the (link: /terms/lightbulb-icon text: lightbulb icon) or the (link: /terms/somethings-happening-icon text: something’s happening icon).
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 The unofficial mascot of the Apple’s (link: /terms/developer-technical-services text: Developer Technical Services) team within the (link: /terms/newton-systems-group text: Newton Systems Group). (link: /sources/maurice-sharp text: Maurice Sharp), otherwise known as (link: /terms/dr-llama text: Dr Llama), wrote a Newton-related column entitled (link: /terms/ask-the-llama text: Ask The Llama) for Apple’s developer publications.
 
-Llama is also used as an example of a valid (link: /terms/application text: application) name and (link: /terms/application-signature text: application signature) in the [Newton Programmer’s Guide](/terms/newton-programmers-guide).
+Llama is also used as an example of a valid (link: /terms/application text: application) name and (link: /terms/application-signature text: application signature) in the (link: /terms/newton-programmers-guide text: Newton Programmer’s Guide).
 
 ----
 

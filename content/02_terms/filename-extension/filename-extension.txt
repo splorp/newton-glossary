@@ -10,7 +10,7 @@ Text:
 
 The portion of the name of a file that follows the final point (or “.” character) that indicates the type of data stored in the file.
 
-For example, a Newton (link: /terms/package text: package) file is identified by either the [.pkg](/terms/pkg) or [.newtonpkg](/terms/newtonpkg) filename extension.
+For example, a Newton (link: /terms/package text: package) file is identified by either the (link: /terms/pkg text: .pkg) or (link: /terms/newtonpkg text: .newtonpkg) filename extension.
 
 Also referred to as a (link: /terms/file-extension text: File Extension) or (link: /terms/extension text: Extension).
 

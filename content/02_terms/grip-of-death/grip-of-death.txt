@@ -10,7 +10,7 @@ Text:
 
 A system (link: /terms/freeze text: freeze) common in early (link: /terms/messagepad text: MessagePad) devices caused by a lack of adequate (link: /terms/heap-space text: heap space). In later versions of (link: /terms/newton-os text: Newton OS) this condition notified the user of a problem related to something interacting with a (link: /terms/card text: card) while it was being unmounted, causing the (link: /terms/operating-system text: operating system) to become unresponsive.
 
-Also referred to as [G.O.D.](/terms/GOD) and (link: /terms/the-grip text: The Grip).
+Also referred to as (link: /terms/GOD text: G.O.D.) and (link: /terms/the-grip text: The Grip).
 
 ----
 
