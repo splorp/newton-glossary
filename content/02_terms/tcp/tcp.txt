@@ -10,7 +10,7 @@ Text:
 
 Transmission Control Protocol
 
-Part of the [TCP/IP](/terms/tcp-ip) communications (link: /terms/protocol text: protocol). TCP provides transport functions that ensure the total amount of bytes sent is received correctly at the other end.
+Part of the (link: /terms/tcp-ip text: TCP/IP) communications (link: /terms/protocol text: protocol). TCP provides transport functions that ensure the total amount of bytes sent is received correctly at the other end.
 
 ----
 

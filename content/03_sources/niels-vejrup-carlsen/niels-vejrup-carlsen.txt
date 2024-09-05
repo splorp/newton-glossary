@@ -8,7 +8,7 @@ Date: 15 March 2018
 
 Text:
 
-Currently a partner at a Danish venture capital firm, Carlsen was a research engineer and project manager at [Siemens](https://www.siemens.com/) between 1993 and 1998. He was involved in the development of both the (link: /terms/siemens-online-terminal text: Siemens Online Terminal) and [@net](/terms/atnet) devices.
+Currently a partner at a Danish venture capital firm, Carlsen was a research engineer and project manager at [Siemens](https://www.siemens.com/) between 1993 and 1998. He was involved in the development of both the (link: /terms/siemens-online-terminal text: Siemens Online Terminal) and (link: /terms/atnet text: @net) devices.
 
 ----
 

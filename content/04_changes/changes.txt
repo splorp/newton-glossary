@@ -120,7 +120,7 @@ Sources: 146
 + Added 6 new sources
 + Updated and expanded dozens of existing entries
 + Added descriptions to the (link: /latest/feed text: RSS feed) for the (link: /latest text: latest additions) page
-+ Updated the [robots.txt](/robots.txt) file to exclude machine learning bots
++ Updated the (link: /robots.txt text: robots.txt) file to exclude machine learning bots
 + Updated [Kirby](https://getkirby.com/) to version [3.10.0](https://github.com/getkirby/kirby/releases/tag/3.10.0) for [PHP 8.3](https://www.php.net/releases/8.3/en.php) support
 
 ### 3.1.1
