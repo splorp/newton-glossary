@@ -8,7 +8,7 @@ Date: 07 April 2017
 
 Text:
 
-A nickname applied to the (link: /terms/messagepad-130 text: MessagePad 130) in reference to its electroluminescent (link: /terms/backlight text: backlight). [Indiglo](https://en.wikipedia.org/wiki/Indiglo) backlighting was a feature available on Timex watches around the same time that backlit Newton devices were being developed.
+A nickname applied to the (link: /terms/messagepad-130 text: MessagePad 130) in reference to its electroluminescent (link: /terms/backlight text: backlight). Indiglo backlighting was a feature available on Timex watches around the same time that backlit Newton devices were being developed.
 
 ----
 
@@ -25,6 +25,7 @@ Related:
 - /terms/electroluminescent-panel
 - /terms/messagepad
 - /terms/messagepad-130
+- /terms/messagepad-150
 - /terms/screen
 - /terms/transflective
 
