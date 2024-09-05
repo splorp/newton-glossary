@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A technical document outlining the components and architecture of the [N2](/terms/n2) hardware platform.
+A technical document outlining the components and architecture of the (link: /terms/n2 text: N2) hardware platform.
 
 ----
 

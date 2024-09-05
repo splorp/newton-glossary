@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-Developer of the [Deep Green](/terms/deep-green) chess program.
+Developer of the (link: /terms/deep-green text: Deep Green) chess program.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A software engineer at [Apple](https://www.apple.com/) during the early Newton years, Dyer worked specifically on development tools and the [Newton OS](/terms/newton-os) kernel.
+A software engineer at [Apple](https://www.apple.com/) during the early Newton years, Dyer worked specifically on development tools and the (link: /terms/newton-os text: Newton OS) kernel.
 
 ----
 

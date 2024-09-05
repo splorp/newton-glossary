@@ -8,7 +8,7 @@ Date: 07 August 2024
 
 Text:
 
-Based in Australia, Arnold is a software developer and long-time member of the [NewtonTalk](/terms/newtontalk) mailing list. He is the author of the [Newton Infrared FAQ](https://0x1.org/d/stuff/newton/ir-faq.html) and was the instigator of the [GNUton](/terms/gnuton) emulator.
+Based in Australia, Arnold is a software developer and long-time member of the (link: /terms/newtontalk text: NewtonTalk) mailing list. He is the author of the [Newton Infrared FAQ](https://0x1.org/d/stuff/newton/ir-faq.html) and was the instigator of the (link: /terms/gnuton text: GNUton) emulator.
 
 ----
 

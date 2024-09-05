@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-Creator of the infamous [FCopy](https://web.archive.org/web/20160516175410/http://www.pagetable.com/?p=647) utility for the Commodore C-64 in the early 1980s, Thomas is also responsible for the [Newton Desktop Utility](/terms/newton-desktop-utility) and [Newton Data Browser](/terms/newton-data-browser) applications.
+Creator of the infamous [FCopy](https://web.archive.org/web/20160516175410/http://www.pagetable.com/?p=647) utility for the Commodore C-64 in the early 1980s, Thomas is also responsible for the (link: /terms/newton-desktop-utility text: Newton Desktop Utility) and (link: /terms/newton-data-browser text: Newton Data Browser) applications.
 
 ----
 

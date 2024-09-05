@@ -8,7 +8,7 @@ Date: 21 November 2004
 
 Text:
 
-A software developer specializing in open source projects that promote platform independent information exchange, such as the use of [XML](/terms/xml). Köppen has actively developed several packages for the Newton platform, including the [Courier](/terms/courier) web browser, the [Raissa](/terms/raissa) RSS reader, a simple encryption utility called [The Fish](/terms/the-fish), the [Flashpoint](/terms/flashpoint) and [Nitch](/terms/nitch) tools for [Getting Things Done](/terms/getting-things-done), as well as the infamous [Y2010](/terms/y2010) patch.
+A software developer specializing in open source projects that promote platform independent information exchange, such as the use of (link: /terms/xml text: XML). Köppen has actively developed several packages for the Newton platform, including the (link: /terms/courier text: Courier) web browser, the (link: /terms/raissa text: Raissa) RSS reader, a simple encryption utility called (link: /terms/the-fish text: The Fish), the (link: /terms/flashpoint text: Flashpoint) and (link: /terms/nitch text: Nitch) tools for (link: /terms/getting-things-done text: Getting Things Done), as well as the infamous (link: /terms/y2010 text: Y2010) patch.
 
 ----
 

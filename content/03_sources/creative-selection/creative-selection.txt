@@ -8,7 +8,7 @@ Date: 30 May 2022
 
 Text:
 
-A book by Ken Kocienda that provides an insider’s look at Apple’s creative process, including the infamous “[eff grackles](/terms/eff-grackles)” demo. During his time at Apple, Kocienda was a principal software engineer for the iPhone, iPad, and Safari web browser.
+A book by Ken Kocienda that provides an insider’s look at Apple’s creative process, including the infamous “(link: /terms/eff-grackles text: eff grackles)” demo. During his time at Apple, Kocienda was a principal software engineer for the iPhone, iPad, and Safari web browser.
 
 ----
 

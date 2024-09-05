@@ -8,7 +8,7 @@ Date: 06 October 2002
 
 Text:
 
-A company founded by Pablo Resines that specialized in [Newton OS](/terms/newton-os) software, most notably [NCQ](/terms/ncq).
+A company founded by Pablo Resines that specialized in (link: /terms/newton-os text: Newton OS) software, most notably (link: /terms/ncq text: NCQ).
 
 ----
 

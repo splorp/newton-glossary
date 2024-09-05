@@ -8,7 +8,7 @@ Date: 14 December 2017
 
 Text:
 
-The user manual for the [Graphing Calculator](/terms/graphing-calculator) component of [Newton Works](/terms/newton-works), an integrated application developed by [Apple](https://www.apple.com/) for Newton devices.
+The user manual for the (link: /terms/graphing-calculator text: Graphing Calculator) component of (link: /terms/newton-works text: Newton Works), an integrated application developed by [Apple](https://www.apple.com/) for Newton devices.
 
 ----
 

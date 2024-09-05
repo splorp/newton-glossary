@@ -8,7 +8,7 @@ Date: 15 August 2024
 
 Text:
 
-A Canadian filmmaker currently based near Montréal, Quebec. Leon operates [Moosefuel Media](https://moosefuel.media/) and produced [Love Notes to Newton](/terms/love-notes-to-newton), a documentary about Apple’s [personal digital assistant](/terms/personal-digital-assistant).
+A Canadian filmmaker currently based near Montréal, Quebec. Leon operates [Moosefuel Media](https://moosefuel.media/) and produced (link: /terms/love-notes-to-newton text: Love Notes to Newton), a documentary about Apple’s (link: /terms/personal-digital-assistant text: personal digital assistant).
 
 ----
 

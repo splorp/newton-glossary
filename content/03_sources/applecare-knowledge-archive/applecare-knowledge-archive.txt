@@ -8,7 +8,7 @@ Date: 25 September 2001
 
 Text:
 
-A previous incarnation of the [Apple](https://www.apple.com/) support information website, commonly referred to as the _AppleCare Knowledge Base_ or [Kbase](/terms/kbase).
+A previous incarnation of the [Apple](https://www.apple.com/) support information website, commonly referred to as the _AppleCare Knowledge Base_ or (link: /terms/kbase text: Kbase).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-Published by [Apple](https://www.apple.com/) in 1997, this is the definitive reference for the [MessagePad 2000](/terms/messagepad-2000) device. It was accompanied by the [MessagePad 2000 Getting Started](/sources/messagepad-2000-getting-started) guide.
+Published by [Apple](https://www.apple.com/) in 1997, this is the definitive reference for the (link: /terms/messagepad-2000 text: MessagePad 2000) device. It was accompanied by the (link: /sources/messagepad-2000-getting-started text: MessagePad 2000 Getting Started) guide.
 
 ----
 

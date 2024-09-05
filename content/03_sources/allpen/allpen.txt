@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-A software development company founded by Ivan and Wayne Yurtin in 1993. AllPen Software specialized in providing solutions for “small memory footprint” devices, such as the Newton. In 1996, they released [NetHopper](/terms/nethopper), the first commercial web browser for [Newton OS](/terms/newton-os).
+A software development company founded by Ivan and Wayne Yurtin in 1993. AllPen Software specialized in providing solutions for “small memory footprint” devices, such as the Newton. In 1996, they released (link: /terms/nethopper text: NetHopper), the first commercial web browser for (link: /terms/newton-os text: Newton OS).
 
 ----
 

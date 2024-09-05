@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-Founded in August 1995, the Tennessee Valley Newton Users Group ([TVNUG](/terms/tvnug)) was a member of the northern Alabama computing community.
+Founded in August 1995, the Tennessee Valley Newton Users Group ((link: /terms/tvnug text: TVNUG)) was a member of the northern Alabama computing community.
 
 ----
 

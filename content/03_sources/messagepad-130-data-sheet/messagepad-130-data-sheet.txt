@@ -8,7 +8,7 @@ Date: 11 July 2024
 
 Text:
 
-Published by [Apple](https://www.apple.com/) in February 1996, this document describes the features, technical specifications, and ordering information for the [MessagePad 130](/terms/messagepad-1300) device.
+Published by [Apple](https://www.apple.com/) in February 1996, this document describes the features, technical specifications, and ordering information for the (link: /terms/messagepad-1300 text: MessagePad 130) device.
 
 ----
 

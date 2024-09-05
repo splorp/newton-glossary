@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-First published by [Apple](https://www.apple.com/) in 1995, this is the definitive reference for [Newton Toolkit](/terms/newton-toolkit), an integrated environment for developing [applications](/terms/application) and [packages](/terms/package) for the Newton platform.
+First published by [Apple](https://www.apple.com/) in 1995, this is the definitive reference for (link: /terms/newton-toolkit text: Newton Toolkit), an integrated environment for developing (link: /terms/application text: applications) and (link: /terms/package text: packages) for the Newton platform.
 
 ----
 

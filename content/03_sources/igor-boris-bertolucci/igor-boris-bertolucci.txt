@@ -8,7 +8,7 @@ Date: 04 November 2023
 
 Text:
 
-Bertolucci is a photographer, videographer, film director, and visual communications specialist. He’s best known within the Newton community for [The Incredible Shrinking Newt](/terms/the-incredible-shrinking-newt) project.
+Bertolucci is a photographer, videographer, film director, and visual communications specialist. He’s best known within the Newton community for (link: /terms/the-incredible-shrinking-newt text: The Incredible Shrinking Newt) project.
 
 ----
 

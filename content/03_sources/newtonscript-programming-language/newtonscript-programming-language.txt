@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-Published by [Apple](https://www.apple.com/) in 1996, this is the definitive reference for the [NewtonScript](/terms/newtonscript) programming language.
+Published by [Apple](https://www.apple.com/) in 1996, this is the definitive reference for the (link: /terms/newtonscript text: NewtonScript) programming language.
 
 ----
 

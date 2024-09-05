@@ -8,7 +8,7 @@ Date: 11 November 2023
 
 Text:
 
-Benn is an Australian software developer and engineer, best known within the Newton community for his [LittleLisp](/terms/littlelisp) interpreter.
+Benn is an Australian software developer and engineer, best known within the Newton community for his (link: /terms/littlelisp text: LittleLisp) interpreter.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 15 January 2023
 
 Text:
 
-The built-in documentation for the [Ink](/terms/ink) handwriting recognition functionality that shipped with certain versions of Mac OS X.
+The built-in documentation for the (link: /terms/ink text: Ink) handwriting recognition functionality that shipped with certain versions of Mac OS X.
 
 ----
 

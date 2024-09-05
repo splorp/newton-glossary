@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A website that provided a simplified, alternative interface to the [Apple Tech Info Library](/sources/apple-tech-info-library). Created and maintained by [Joost van de Griek](https://twitter.com/gyorpb), the Newton info Library focused on [TIL](/terms/til) articles pertaining specifically to the Newton.
+A website that provided a simplified, alternative interface to the (link: /sources/apple-tech-info-library text: Apple Tech Info Library). Created and maintained by [Joost van de Griek](https://twitter.com/gyorpb), the Newton info Library focused on (link: /terms/til text: TIL) articles pertaining specifically to the Newton.
 
 ----
 

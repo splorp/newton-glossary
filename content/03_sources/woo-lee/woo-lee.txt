@@ -8,4 +8,4 @@ Date: 21 November 2004
 
 Text:
 
-One time president of the [Los Angeles Newton User Group](/terms/lanug).
+One time president of the (link: /terms/lanug text: Los Angeles Newton User Group).

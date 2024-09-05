@@ -8,7 +8,7 @@ Date: 24 August 2020
 
 Text:
 
-One of the legendary Huston brothers, Apple employee #25, younger brother to [Cliff](/sources/cliff-huston). Often referred to as the “heroic” programmer who wrote the original Apple II floppy disc boot ROM, Dick returned to Apple as a member of Newton group where he worked on the [Newton Connection Kit](/terms/newton-connection-kit) and later iterations of the [Newton OS](/newton-os)
+One of the legendary Huston brothers, Apple employee #25, younger brother to (link: /sources/cliff-huston text: Cliff). Often referred to as the “heroic” programmer who wrote the original Apple II floppy disc boot ROM, Dick returned to Apple as a member of Newton group where he worked on the (link: /terms/newton-connection-kit text: Newton Connection Kit) and later iterations of the (link: /newton-os text: Newton OS)
 
 ----
 

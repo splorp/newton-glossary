@@ -8,7 +8,7 @@ Date: 13 November 2017
 
 Text:
 
-Proprietor of [Logic Tools](https://web.archive.org/web/19990224041921/http://www.logictools.de/) and developer of several software titles for both Mac OS and [Newton OS](/terms/newton-os). Müller was partly responsible for writing software for the [Siemens Online Terminal](/terms/siemens-online-terminal) and was a founder of the Unabhängige Newton User Group München (UNUGMUC).
+Proprietor of [Logic Tools](https://web.archive.org/web/19990224041921/http://www.logictools.de/) and developer of several software titles for both Mac OS and (link: /terms/newton-os text: Newton OS). Müller was partly responsible for writing software for the (link: /terms/siemens-online-terminal text: Siemens Online Terminal) and was a founder of the Unabhängige Newton User Group München (UNUGMUC).
 
 ----
 

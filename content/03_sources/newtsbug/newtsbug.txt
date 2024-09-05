@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-Published by [Apple](https://www.apple.com/) in 1997, this is the definitive reference for the [Newtsbug](/terms/newtsbug) low-level [debugger](/terms/debugger).
+Published by [Apple](https://www.apple.com/) in 1997, this is the definitive reference for the (link: /terms/newtsbug text: Newtsbug) low-level (link: /terms/debugger text: debugger).
 
 ----
 

@@ -8,9 +8,9 @@ Date: 03 September 2017
 
 Text:
 
-Currently known as a filmmaker, photographer, software developer, and digital content producer, Tow was a fixture of the Newton community for many years. He was heavily involved in the Bay Area user group community and a vocal evangelist for the platform, especially when the Newton project was [Steved](/terms/steved) in 1998.
+Currently known as a filmmaker, photographer, software developer, and digital content producer, Tow was a fixture of the Newton community for many years. He was heavily involved in the Bay Area user group community and a vocal evangelist for the platform, especially when the Newton project was (link: /terms/steved text: Steved) in 1998.
 
-Under the moniker Foundation Systems, Tow created several popular [Newton OS](/terms/newton-os) software packages, including [NewtonID](/terms/newtonid), [newtToDo](/terms/newttodo), [HyperNewt](/terms/hypernewt), and [WriteHere](/terms/writehere).
+Under the moniker Foundation Systems, Tow created several popular (link: /terms/newton-os text: Newton OS) software packages, including (link: /terms/newtonid text: NewtonID), (link: /terms/newttodo text: newtToDo), (link: /terms/hypernewt text: HyperNewt), and (link: /terms/writehere text: WriteHere).
 
 ----
 

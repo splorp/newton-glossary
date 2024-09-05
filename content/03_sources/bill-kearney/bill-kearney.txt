@@ -8,7 +8,7 @@ Date: 18 December 2001
 
 Text:
 
-A Newton software developer turned consultant specializing in [XML](/terms/xml), [RSS](/terms/rss), information distribution, content syndication, and other related technologies.
+A Newton software developer turned consultant specializing in (link: /terms/xml text: XML), (link: /terms/rss text: RSS), information distribution, content syndication, and other related technologies.
 
 ----
 

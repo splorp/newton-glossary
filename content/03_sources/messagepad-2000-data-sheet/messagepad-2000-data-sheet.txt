@@ -8,7 +8,7 @@ Date: 11 July 2024
 
 Text:
 
-Published by [Apple](https://www.apple.com/) in February 1997, this document describes the features, technical specifications, and ordering information for the [MessagePad 2000](/terms/messagepad-2000) device.
+Published by [Apple](https://www.apple.com/) in February 1997, this document describes the features, technical specifications, and ordering information for the (link: /terms/messagepad-2000 text: MessagePad 2000) device.
 
 ----
 

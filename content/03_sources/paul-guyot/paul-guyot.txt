@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A Paris-based software developer whose projects include the very first [system update](/terms/system-update) for [Newton OS](/terms/newton-os) created outside of [Apple](https://www.apple.com/), the [ATA Support](/terms/ata-support) driver, and the [Einstein](/terms/einstein) emulator.
+A Paris-based software developer whose projects include the very first (link: /terms/system-update text: system update) for (link: /terms/newton-os text: Newton OS) created outside of [Apple](https://www.apple.com/), the (link: /terms/ata-support text: ATA Support) driver, and the (link: /terms/einstein text: Einstein) emulator.
 
 Sporting a PhD in artificial intelligence, Guyot is currently the CEO of [Semiocast](https://semiocast.com/), a company which applies AI techniques to extract consumer insights from social media conversations. What.
 

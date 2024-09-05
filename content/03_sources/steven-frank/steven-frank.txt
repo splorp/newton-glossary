@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-Co-founder of [Panic](https://panic.com/) and self-proclaimed technology enthusiast, Steve is the developer of the [NewTen](/terms/newten) package installer, the [Unarmed](/terms/unarmed) code disassembly tool, and the somewhat mythical [Green](/terms/green) project.
+Co-founder of [Panic](https://panic.com/) and self-proclaimed technology enthusiast, Steve is the developer of the (link: /terms/newten text: NewTen) package installer, the (link: /terms/unarmed text: Unarmed) code disassembly tool, and the somewhat mythical (link: /terms/green text: Green) project.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-From 1995 to 1997, Rukman was a software engineer at [Apple](https://www.apple.com/) working on the [Newton OS](/terms/newton-os) networking and communication stacks.
+From 1995 to 1997, Rukman was a software engineer at [Apple](https://www.apple.com/) working on the (link: /terms/newton-os text: Newton OS) networking and communication stacks.
 
 ----
 

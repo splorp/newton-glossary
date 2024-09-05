@@ -8,7 +8,7 @@ Date: 21 November 2004
 
 Text:
 
-A developer and systems architect who joined [Apple](https://www.apple.com/) in 1988 as an intern on the Newton team. Before leaving Apple in 1996, Smith contributed several key technical components to the Newton, including [NewtonScript](/terms/newtonscript) and the persistent object store, better known as the [soup](/terms/soup).
+A developer and systems architect who joined [Apple](https://www.apple.com/) in 1988 as an intern on the Newton team. Before leaving Apple in 1996, Smith contributed several key technical components to the Newton, including (link: /terms/newtonscript text: NewtonScript) and the persistent object store, better known as the (link: /terms/soup text: soup).
 
 Smith is also the current proprietor of the [Newton Museum](http://www.newtonmuseum.com/).
 

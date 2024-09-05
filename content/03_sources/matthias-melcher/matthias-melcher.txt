@@ -6,7 +6,7 @@ Date: 20 May 2024
 
 ----
 
-Text: A software developer and hardware hacker based in Germany, Melcher’s interests range from robotics and electric vehicle conversion to 3D printing and microcontrollers. He is a significant contributor to the [Einstein](/terms/einstein) emulation project, the developer of [NEWT/64](/terms/newt64), and the author of [UNDO](/terms/undo-overview).
+Text: A software developer and hardware hacker based in Germany, Melcher’s interests range from robotics and electric vehicle conversion to 3D printing and microcontrollers. He is a significant contributor to the (link: /terms/einstein text: Einstein) emulation project, the developer of [NEWT/64](/terms/newt64), and the author of (link: /terms/undo-overview text: UNDO).
 
 
 ----

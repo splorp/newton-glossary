@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The user manual for the [Newton Book Maker](/terms/newton-book-maker) software developed by [Apple](https://www.apple.com/).
+The user manual for the (link: /terms/newton-book-maker text: Newton Book Maker) software developed by [Apple](https://www.apple.com/).
 
 ----
 

@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-Information extracted from the [ROM](/terms/rom) of a prerelease Newton [Notepad](/terms/notepad) device using Steve White’s [ROM-Soup](https://github.com/pablomarx/ROM-Soup) tool. Specifically, the text strings for various [Newton OS](/terms/newton-os) alerts, messages, and [user interface](/terms/user-interface) elements.
+Information extracted from the (link: /terms/rom text: ROM) of a prerelease Newton (link: /terms/notepad text: Notepad) device using Steve White’s [ROM-Soup](https://github.com/pablomarx/ROM-Soup) tool. Specifically, the text strings for various (link: /terms/newton-os text: Newton OS) alerts, messages, and (link: /terms/user-interface text: user interface) elements.
 
 ----
 

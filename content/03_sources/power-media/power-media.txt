@@ -8,7 +8,7 @@ Date: 08 June 2024
 
 Text:
 
-A software development and internet services company founded in 1993. Power Media created and published numerous products for Mac OS, Palm OS, and [Newton OS](/terms/newton-os), including [Vitamin A](/terms/vitamin-a).
+A software development and internet services company founded in 1993. Power Media created and published numerous products for Mac OS, Palm OS, and (link: /terms/newton-os text: Newton OS), including (link: /terms/vitamin-a text: Vitamin A).
 
 ----
 

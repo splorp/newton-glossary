@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A website containing comprehensive specifications and product information for various Newton devices, concept designs, and prototypes. Maintained by [Douglas B. Luckie](http://cf.psl.msu.edu/dluckie.html), the founder of the Michigan State Newton Users Group [MSNUG](/terms/msnug).
+A website containing comprehensive specifications and product information for various Newton devices, concept designs, and prototypes. Maintained by [Douglas B. Luckie](http://cf.psl.msu.edu/dluckie.html), the founder of the Michigan State Newton Users Group (link: /terms/msnug text: MSNUG).
 
 ----
 

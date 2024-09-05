@@ -8,7 +8,7 @@ Date: 25 June 2024
 
 Text:
 
-The online nom de plume of Tess Flynn, a hardware hacker, maker of things, open source aficionado, and creator of the [piMate 300](/terms/pimate-300).
+The online nom de plume of Tess Flynn, a hardware hacker, maker of things, open source aficionado, and creator of the (link: /terms/pimate-300 text: piMate 300).
 
 ----
 

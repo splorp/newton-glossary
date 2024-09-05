@@ -8,7 +8,7 @@ Date: 18 November 2017
 
 Text:
 
-Based in Slovenia, Matej is currently a software developer with interests spanning computers, programming, electronic music, language, and video games. His software contributions include [NoteLinker](/terms/notelinker) and the [NSM](/terms/nsm) virtual machine for [NewtonScript](/terms/newtonscript).
+Based in Slovenia, Matej is currently a software developer with interests spanning computers, programming, electronic music, language, and video games. His software contributions include (link: /terms/notelinker text: NoteLinker) and the (link: /terms/nsm text: NSM) virtual machine for (link: /terms/newtonscript text: NewtonScript).
 
 ----
 

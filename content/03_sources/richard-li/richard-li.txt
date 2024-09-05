@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-Richard Li was a member of [HKNUG](/terms/hknug) and developer of [Newton OS](/terms/newton-os) software, including [UnixNPI](/terms/unixnpi) and [System Patch](/terms/system-patch).
+Richard Li was a member of (link: /terms/hknug text: HKNUG) and developer of (link: /terms/newton-os text: Newton OS) software, including (link: /terms/unixnpi text: UnixNPI) and (link: /terms/system-patch text: System Patch).
 
 ----
 

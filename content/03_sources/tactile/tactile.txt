@@ -8,7 +8,7 @@ Date: 09 February 2017
 
 Text:
 
-A software development company co-founded in 1994 by Vernon Huang and Robert Bruce. They created numerous products specifically for the Newton platform, including [ChatBuddy](/terms/chatbuddy), [PackageBuddy](/terms/packagebuddy), [NewtFTP](/terms/newtftp), and [BugTrap](/terms/bugtrap).
+A software development company co-founded in 1994 by Vernon Huang and Robert Bruce. They created numerous products specifically for the Newton platform, including (link: /terms/chatbuddy text: ChatBuddy), (link: /terms/packagebuddy text: PackageBuddy), (link: /terms/newtftp text: NewtFTP), and (link: /terms/bugtrap text: BugTrap).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 18 July 2024
 
 Text:
 
-Published by [Apple](https://www.apple.com/) in 1997 as a guide for installing, configuring, and troubleshooting the [Newton Internet Enabler](/terms/newton-internet-enabler) software.
+Published by [Apple](https://www.apple.com/) in 1997 as a guide for installing, configuring, and troubleshooting the (link: /terms/newton-internet-enabler text: Newton Internet Enabler) software.
 
 ----
 

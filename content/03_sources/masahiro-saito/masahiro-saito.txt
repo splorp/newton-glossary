@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-Produced the unofficial Japanese translation of [The NewtonScript Programming Language](/sources/newtonscript-programming-language).
+Produced the unofficial Japanese translation of (link: /sources/newtonscript-programming-language text: The NewtonScript Programming Language).
 
 ----
 

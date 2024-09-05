@@ -8,7 +8,7 @@ Date: 26 November 2017
 
 Text:
 
-A German software development company that produced numerous [applications](/terms/application) and utilities for the [Newton OS](/terms/newton-os) and Windows CE platforms. Their most notable product was the eponymous [SBM Utilities](/terms/sbm-utilities).
+A German software development company that produced numerous (link: /terms/application text: applications) and utilities for the (link: /terms/newton-os text: Newton OS) and Windows CE platforms. Their most notable product was the eponymous (link: /terms/sbm-utilities text: SBM Utilities).
 
 ----
 

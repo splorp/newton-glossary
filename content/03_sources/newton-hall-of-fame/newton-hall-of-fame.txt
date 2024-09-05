@@ -8,7 +8,7 @@ Date: 28 December 2021
 
 Text:
 
-A page featuring prominent members of the Newton development, software, and evangelizing communities. Maintained by [Douglas B. Luckie](http://cf.psl.msu.edu/dluckie.html), the founder of the Michigan State Newton Users Group [MSNUG](/terms/msnug).
+A page featuring prominent members of the Newton development, software, and evangelizing communities. Maintained by [Douglas B. Luckie](http://cf.psl.msu.edu/dluckie.html), the founder of the Michigan State Newton Users Group (link: /terms/msnug text: MSNUG).
 
 ----
 

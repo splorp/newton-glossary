@@ -10,7 +10,7 @@ Text:
 
 A computer programmer and early adopter of the Newton platform from Brooklyn, New York.
 
-Eric is best known for software such as [NewtJab](/terms/newtjab), [NewtWap](/terms/newtwap), and the infamous [iTunes Newton plugin](https://web.archive.org/web/20100210185752/http://www.pixell.net/doppler/newton/).
+Eric is best known for software such as (link: /terms/newtjab text: NewtJab), (link: /terms/newtwap text: NewtWap), and the infamous [iTunes Newton plugin](https://web.archive.org/web/20100210185752/http://www.pixell.net/doppler/newton/).
 
 ----
 

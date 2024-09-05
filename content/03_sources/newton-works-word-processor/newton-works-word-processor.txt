@@ -8,7 +8,7 @@ Date: 08 February 2020
 
 Text:
 
-The user manual for the word processing component of [Newton Works](/terms/newton-works), an integrated application developed by [Apple](https://www.apple.com/) for Newton devices.
+The user manual for the word processing component of (link: /terms/newton-works text: Newton Works), an integrated application developed by [Apple](https://www.apple.com/) for Newton devices.
 
 ----
 
