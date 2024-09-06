@@ -28,6 +28,7 @@ Related:
 - /terms/cuckoo
 - /terms/egg-freckles
 - /terms/egg-freckles-enabler
+- /terms/hot-dog-song
 
 ----
 
