@@ -1,0 +1,37 @@
+Title: Cuckoo
+
+----
+
+Date: 06 September 2024
+
+----
+
+Text:
+
+An (link: /terms/easter-egg text: easter egg) hidden in the preferences (link: /terms/slip text: slip) of the (link: /terms/date-book text: Date Book) application that plays a “cuckoo” sound while displaying the names of three people who worked on the (link: /terms/newton-os text: Newton OS) — Scott Jenson, Fred Tou, and Jeremy Wyld.
+
+----
+
+Resource:
+
+- [Oliver’s List of Newton Easter Eggs](https://web.archive.org/web/20090215012820/http://oof.org/newton/)
+- [MacKiDo: Apple Easter Eggs](https://www.mackido.com/EasterEggs/Newton.html)
+- [Macworld: Apple Easter Eggs](https://archive.org/details/MacWorld9604April1996/page/n157/mode/1up)
+
+----
+
+Related:
+
+- /terms/aliens
+- /terms/date-book
+- /terms/easter-egg
+- /terms/egg-freckles
+- /terms/hot-dog-song
+
+----
+
+Source:
+
+- /sources/mackido
+- /sources/macworld
+- /sources/olivers-list

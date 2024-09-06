@@ -25,6 +25,7 @@ Resource:
 Related:
 
 - /terms/aliens
+- /terms/cuckoo
 - /terms/date-book
 - /terms/dreamland
 - /terms/easter-egg

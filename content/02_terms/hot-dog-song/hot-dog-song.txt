@@ -30,6 +30,7 @@ Related:
 - /terms/alert-sound
 - /terms/broink
 - /terms/clank
+- /terms/cuckoo
 - /terms/easter-egg
 - /terms/oscar-meyer-theme
 - /terms/newton-jingle

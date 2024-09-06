@@ -30,6 +30,7 @@ Resource:
 Related:
 
 - /terms/area-51
+- /terms/cuckoo
 - /terms/easter-egg
 - /terms/eat-up-martha
 - /terms/eff-grackles
