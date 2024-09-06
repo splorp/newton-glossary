@@ -18,6 +18,7 @@ Resource:
 
 - [Oliver’s List of Newton Easter Eggs](https://web.archive.org/web/20090215012820/http://oof.org/newton/)
 - [Alex Bogdanov’s Newton 2.0 Eggs](https://web.archive.org/web/19991003182357/http://www.univ.uzhgorod.ua/~timecracker/newton_eggs.html)
+- [MacKiDo: Apple Easter Eggs](https://www.mackido.com/EasterEggs/Newton.html)
 
 ----
 

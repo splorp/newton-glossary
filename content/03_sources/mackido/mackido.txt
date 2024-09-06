@@ -14,5 +14,5 @@ Launched in January 1997 by David K. Every, MacKido set out to “debunk some of
 
 Resource:
 
-- [MacKiDo: Code Names](http://www.mackido.com/CodeNames/)
-- [MacKiDo: Easter Eggs](http://www.mackido.com/EasterEggs/)
+- [MacKiDo: Code Names](https://www.mackido.com/CodeNames/)
+- [MacKiDo: Easter Eggs](https://www.mackido.com/EasterEggs/)
