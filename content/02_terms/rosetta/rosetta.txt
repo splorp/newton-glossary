@@ -21,6 +21,7 @@ Resource:
 
 Related:
 
+- /terms/brandyn
 - /terms/calligrapher
 - /terms/cursive-recognizer
 - /terms/eat-up-martha
@@ -28,12 +29,16 @@ Related:
 - /terms/handwriting-recognition
 - /terms/ink
 - /terms/inkwell
+- /terms/larryy
+- /terms/lesv
+- /terms/lyon
 - /terms/mondello
 - /terms/neuropen
 - /terms/print-recognizer
 - /terms/recognized-text
 - /terms/recognizer
 - /terms/rosetta-stone
+- /terms/stafford
 
 ----
 

@@ -1,0 +1,45 @@
+Title: lyon
+
+----
+
+Date: 06 September 2024
+
+----
+
+Text:
+
+An (link: /terms/easter-egg text: easter egg) hidden in (link: /terms/newton-os text: Newton OS) as a nod to (link: https://lesv.dev/ text: Richard Lyon), a manager involved with (link: /terms/rosetta text: Rosetta), part of the (link: /terms/handwriting-recognition text: handwriting recognition) system.
+
+Writing “lesv” three times in succession will display a special bit of text.
+
+Other phrases that work with this easter egg are (link: /terms/brandyn text: Brandyn), (link: /terms/larryy text: larryy), (link: /terms/lyon text: lesv), and (link: /terms/stafford text: stafford).
+
+----
+
+Resource:
+
+- [Macworld: Easter Egg Hunt](https://archive.org/details/MacWorld9604April1996/page/n157/mode/1up)
+- [Oliver’s List of Newton Easter Eggs](https://web.archive.org/web/20090215012820/http://oof.org/newton/)
+
+----
+
+Related:
+
+- /terms/area-51
+- /terms/brandyn
+- /terms/cuckoo
+- /terms/easter-egg
+- /terms/egg-freckles
+- /terms/handwriting-recognition
+- /terms/hot-dog-song
+- /terms/larryy
+- /terms/lesv
+- /terms/rosetta
+- /terms/stafford
+
+----
+
+Source:
+
+- /sources/macworld
+- /sources/olivers-list
