@@ -1,0 +1,40 @@
+Title: Middle of Nowhere
+
+----
+
+Date: 06 September 2024
+
+----
+
+Text:
+
+An easter egg found in the (link: /terms/time-zones text: Time Zones) application. (link: /terms/tapping text: Tapping) in the empty space of any ocean shown on the map, the location name will be displayed as “Middle of Nowhere".
+
+----
+
+Resource:
+
+- [MacKiDo: Apple Easter Eggs](https://www.mackido.com/EasterEggs/Newton.html)
+
+----
+
+Related:
+
+- /terms/area-51
+- /terms/brandyn
+- /terms/cuckoo
+- /terms/easter-egg
+- /terms/egg-freckles
+- /terms/hot-dog-song
+- /terms/larryy
+- /terms/lesv
+- /terms/lyon
+- /terms/stafford
+- /terms/time-zones
+
+----
+
+Source:
+
+- /sources/mackido
+- /sources/olivers-list

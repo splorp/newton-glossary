@@ -41,6 +41,7 @@ Related:
 - /terms/larryy
 - /terms/lesv
 - /terms/lyon
+- /terms/middle-of-nowhere
 - /terms/serious-bandwidth
 - /terms/stafford
 - /terms/tablespoons

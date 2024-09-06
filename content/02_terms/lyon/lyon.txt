@@ -34,6 +34,7 @@ Related:
 - /terms/hot-dog-song
 - /terms/larryy
 - /terms/lesv
+- /terms/middle-of-nowhere
 - /terms/rosetta
 - /terms/stafford
 

@@ -38,6 +38,7 @@ Related:
 - /terms/larryy
 - /terms/lesv
 - /terms/lyon
+- /terms/middle-of-nowhere
 - /terms/stafford
 - /terms/time-zones
 - /terms/to-do-list

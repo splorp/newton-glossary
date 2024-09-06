@@ -38,6 +38,7 @@ Related:
 - /terms/larryy
 - /terms/lesv
 - /terms/lyon
+- /terms/middle-of-nowhere
 - /terms/newton-jingle
 - /terms/oscar-meyer-theme
 - /terms/poof
