@@ -22,6 +22,7 @@ Related:
 - /terms/locale
 - /terms/owner-info
 - /terms/time-zones
+- /terms/world-map
 
 ----
 

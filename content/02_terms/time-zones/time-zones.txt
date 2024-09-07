@@ -10,6 +10,8 @@ Text:
 
 An (link: /terms/application text: application) used for setting the user’s current location and determining the time in various cities around the world.
 
+(image: /assets/images/time-zones-2x.gif alt: Screenshot of the Time Zones application width: 234)
+
 ----
 
 Related:
@@ -22,4 +24,6 @@ Related:
 - /terms/dotclock
 - /terms/emporium
 - /terms/home-city
+- /terms/middle-of-nowhere
 - /terms/time-date
+- /terms/world-map

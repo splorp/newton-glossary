@@ -1,0 +1,26 @@
+Title: World Map
+
+----
+
+Date: 07 September 2024
+
+----
+
+Text:
+
+The default (link: /terms/view text: view) in the (link: /terms/time-zones text: Time Zones) application, consisting of an equirectangular map projection, the current time zone, and a secondary, user specified time zone.
+
+(image: /assets/images/time-zones-2x.gif alt: Screenshot of the Time Zones application width: 234)
+
+----
+
+Related:
+
+- /terms/away-city
+- /terms/emporium
+- /terms/home-city
+- /terms/middle-of-nowhere
+- /terms/owner-info
+- /terms/time-zones
+- /terms/time-zones
+- /terms/worksite

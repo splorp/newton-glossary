@@ -19,6 +19,7 @@ Related:
 - /terms/locale
 - /terms/time-zones
 - /terms/worksite
+- /terms/world-map
 
 ----
 
