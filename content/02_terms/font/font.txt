@@ -15,7 +15,7 @@ A complete set of characters or glyphs from a given typeface design. For example
 Related:
 
 - /terms/casual
-- /terms/espy
+- /terms/espy-sans
 - /terms/eworld
 - /terms/fancy
 - /terms/font-size

@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-One of the default bitmap (link: /terms/font text: fonts) on the Newton. System was derived from the (link: /terms/espy text: Espy) family of proportionally spaced sans serif typefaces originally designed for use in Apple’s less than spectacular (link: /terms/eworld text: eWorld) online service.
+One of the default bitmap (link: /terms/font text: fonts) on the Newton. System was derived from the (link: /terms/espy-sans text: Espy Sans) family of proportionally spaced sans serif typefaces originally designed for use in Apple’s less than spectacular (link: /terms/eworld text: eWorld) online service.
 
 (image: /assets/images/system-2x.gif alt: Screenshot showing various sizes of the System bitmap font width: 407)
 
@@ -19,7 +19,7 @@ System also refers to the (link: /terms/operating-system text: operating system)
 Related:
 
 - /terms/casual
-- /terms/espy
+- /terms/espy-sans
 - /terms/eworld
 - /terms/fancy
 - /terms/font
