@@ -10,6 +10,5 @@
 			</nav>
 			<?php echo $site->colophon()->kirbytext() ?>
 		</footer>
-		<?php echo snippet('ga'); ?>
 	</body>
 </html>
