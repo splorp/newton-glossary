@@ -5,7 +5,7 @@
 	<article>
 		<h2><?php echo html($page->title()) ?></h2>
 		<?php echo $page->text()->kirbytext() ?>
-		<form action="/<?= $page ?>">
+		<form action="<?= $site->url() . '/' . $page ?>">
 			<input type="search" name="q" placeholder="What are you looking for?" value="<?= html($query) ?>" autofocus>
 			<input type="submit" value="Go!" />
 		</form>
