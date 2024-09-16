@@ -26,4 +26,5 @@ Related:
 - /terms/home-city
 - /terms/middle-of-nowhere
 - /terms/time-date
+- /terms/worksite
 - /terms/world-map

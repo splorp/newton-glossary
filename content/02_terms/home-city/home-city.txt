@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The (link: /terms/locale text: locale) or (link: /terms/emporium text: emporium) used by the system to modify dialing information, time zone, and so forth. It is usually the user’s home address, but the user can set it to another city when traveling.
+The (link: /terms/locale text: locale) or (link: /terms/emporium text: emporium) used by the system to modify dialing information, (link: /terms/time-zones text: time zone), and so forth. It is usually the user’s home address, but the user can set it to another city when traveling.
 
 ----
 
