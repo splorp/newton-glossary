@@ -30,6 +30,7 @@ Related:
 
 - /terms/better-disarm
 - /terms/cpu
+- /terms/hobbit
 - /terms/risc
 - /terms/rough-disarm
 - /terms/strongarm
