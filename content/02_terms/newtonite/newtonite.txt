@@ -8,7 +8,7 @@ Date: 21 November 2004
 
 Text:
 
-An affectionate nickname for a Newton user.
+An affectionate nickname for a Newton user, specifically one of the team who worked on developing the Newton platform.
 
 ----
 
@@ -28,4 +28,5 @@ Related:
 
 Source:
 
+- /sources/landon-dyer
 - /sources/newtontalk

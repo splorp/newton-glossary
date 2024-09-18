@@ -8,7 +8,7 @@ Date: 18 November 2018
 
 Text:
 
-A Canadian print publication launched in 1991 by Vancouver-based Volksware under the helm of editor John Jerney. Billing itself as _The journal of Stylus Systems_, it focused on all aspects of the mobile computing industry. It ceased publication in 1998, but has recently resurfaced as an [online museum](https://www.penbasedcomputing.com/).
+A Canadian print publication launched in 1991 by Vancouver-based Volksware under the helm of editor John Jerney. Billing itself as _The Journal of Stylus Systems_, it focused on all aspects of the mobile computing industry. It ceased publication in 1998, but has recently resurfaced as an [online museum](https://www.penbasedcomputing.com/).
 
 ----
 

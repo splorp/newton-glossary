@@ -36,6 +36,7 @@ Other glossarial references we love.
 + [Dictionary of Canadianisms on Historical Principles](https://www.dchp.ca/dchp2/) by _[Stefan Dollinger](https://ubc.academia.edu/StefanDollinger)_
 + [Discogs Database Glossary](https://support.discogs.com/hc/en-us/articles/360004017694-Database-Glossary) _by [Discogs](https://www.discogs.com/)_
 + [Free Online Dictionary of Computing](http://foldoc.org/) _by [Denis Howe](https://foldoc.org/Denis+Howe)_
++ [Google Fonts Glossary](https://fonts.google.com/knowledge/glossary) _by [Google Fonts](https://fonts.google.com/)_
 + [Green’s Dictionary of Slang](https://greensdictofslang.com/) _by Jonathon Green_
 + [Jargon File](http://catb.org/~esr/jargon/) _by [Eric S. Raymond](http://www.catb.org/~esr/)_
 + [List of LGBTQ+ Terms](https://www.stonewall.org.uk/list-lgbtq-terms) _by [Stonewall](https://www.stonewall.org.uk/)_
@@ -44,7 +45,6 @@ Other glossarial references we love.
 + [Rands Management Glossary](https://randsinrepose.com/glossary/) _by [Michael Lopp](https://randsinrepose.com/about/)_
 + [The Apple Store Glossary](https://departmentmap.store/glossary) _by [Michael Steeber](https://departmentmap.store/michaelsteeber)_
 + [The IKEA Dictionary](https://lar5.com/ikea/) _by [Lars Petrus](https://lar5.com/)_
-+ [Google Fonts Glossary](https://fonts.google.com/knowledge/glossary) _by [Google Fonts](https://fonts.google.com/)_
 + [Typography Terms and Definitions](https://www.monotype.com/resources/expertise/typography-terms-and-definitions) _by [Monotype](https://www.monotype.com/)_
 + [WebGlossary.info](https://webglossary.info/) _by [Jens Oliver Meiert](https://meiert.com/en/)_
 
