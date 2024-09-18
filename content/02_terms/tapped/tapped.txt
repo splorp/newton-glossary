@@ -17,6 +17,7 @@ Related:
 - /terms/double-tap
 - /terms/double-tapping
 - /terms/pen
+- /terms/penning
 - /terms/tap
 - /terms/tap-and-a-half
 - /terms/tapping

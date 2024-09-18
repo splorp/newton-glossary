@@ -14,8 +14,10 @@ To touch or (link: /terms/tap text: tap) the same spot on the (link: /terms/scre
 
 Related:
 
-- /terms/pen
 - /terms/double-tapping
+- /terms/drag
+- /terms/dragging
+- /terms/pen
 - /terms/tap
 - /terms/tap-and-a-half
 - /terms/tapped

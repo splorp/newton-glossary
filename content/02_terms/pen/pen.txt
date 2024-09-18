@@ -22,6 +22,8 @@ Related:
 - /terms/digitizer
 - /terms/double-tap
 - /terms/double-tapping
+- /terms/drag
+- /terms/dragging
 - /terms/handwriting-recognition
 - /terms/pdap
 - /terms/pen-alignment
@@ -31,4 +33,5 @@ Related:
 - /terms/stylus
 - /terms/tap
 - /terms/tap-and-a-half
+- /terms/tapped
 - /terms/tapping

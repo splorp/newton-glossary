@@ -18,6 +18,7 @@ Related:
 
 - /terms/container-view
 - /terms/drag
+- /terms/dragging
 - /terms/floating-container-view
 - /terms/palette
 - /terms/picture-hanger

@@ -14,8 +14,10 @@ The action of briefly touching or (link: /terms/tapping text: tapping) the same 
 
 Related:
 
-- /terms/pen
 - /terms/double-tap
+- /terms/drag
+- /terms/dragging
+- /terms/pen
 - /terms/tap
 - /terms/tap-and-a-half
 - /terms/tapped
