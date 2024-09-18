@@ -1,0 +1,25 @@
+Title: Dragging
+
+----
+
+Date: 18 September 2024
+
+----
+
+Text:
+
+The action of moving an object on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen).
+
+----
+
+Related:
+
+- /terms/double-tap
+- /terms/double-tapping
+- /terms/drag
+- /terms/pen
+- /terms/penning
+- /terms/tap
+- /terms/tap-and-a-half
+- /terms/tapped
+- /terms/tapping

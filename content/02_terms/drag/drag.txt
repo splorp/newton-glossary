@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-To place the (link: /terms/pen text: pen) on a movable object — such as a (link: /terms/slider text: slider) control or (link: /terms/container-view text: container view) — then slide the pen to move the object and finally lift the pen to stop moving the object.
+The action of placing the (link: /terms/pen text: pen) on a movable object — such as a (link: /terms/slider text: slider) control or (link: /terms/drag-handle text: drag handle) — and sliding the pen on the (link: /terms/screen text: screen) to move the object.
 
 ----
 
