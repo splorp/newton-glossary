@@ -20,6 +20,7 @@ Related:
 
 - /terms/arm
 - /terms/cpu
+- /terms/hobbit
 - /terms/strongarm
 
 ----
