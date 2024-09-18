@@ -18,6 +18,7 @@ Related:
 - /terms/drag
 - /terms/dragging
 - /terms/pen
+- /terms/penning
 - /terms/tap
 - /terms/tap-and-a-half
 - /terms/tapped

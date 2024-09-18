@@ -1,0 +1,37 @@
+Title: Penning
+
+----
+
+Date: 18 September 2024
+
+----
+
+Text:
+
+A general term describing any interaction with the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen). This would include actions such as (link: /sources/tapping text: tapping) or (link: /sources/dragging text: dragging).
+
+----
+
+Resource:
+
+- [MacTech: It’s a Newt!](http://preserve.mactech.com/articles/mactech/Vol.09/09.11/Nov93Editorial/index.html)
+
+----
+
+Related:
+
+- /terms/double-tap
+- /terms/double-tapping
+- /terms/drag
+- /terms/dragging
+- /terms/pen
+- /terms/tap
+- /terms/tapped
+- /terms/tapping
+- /terms/tap-and-a-half
+
+----
+
+Source:
+
+- /sources/mactech

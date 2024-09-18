@@ -1,0 +1,18 @@
+Title: MacTech
+
+----
+
+Date: 18 September 2024
+
+----
+
+Text:
+
+An monthly magazine initially launched in 1984, changing its name to _MacTutor_ after the second issue. Billed as _The Journal of Apple Technology_, it focused on articles and information targeted at consultants, system administrators, and software developers, rather than end users. In 1989, a separate magazine under the banner of _MacTech_ was launched by the TechAlliance user group. In 1993, MacTutor purchased MacTech and consolidated both publications using the MacTech name.
+
+----
+
+Resource:
+
+- [MacTech Website](https://www.mactech.com/)
+- [MacTech Article Archives](http://preserve.mactech.com/articles/)

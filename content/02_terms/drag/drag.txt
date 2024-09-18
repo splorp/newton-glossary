@@ -21,6 +21,7 @@ Related:
 - /terms/dragging
 - /terms/palette
 - /terms/pen
+- /terms/penning
 - /terms/slider
 - /terms/tap
 - /terms/tap-and-a-half

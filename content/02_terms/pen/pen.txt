@@ -29,6 +29,7 @@ Related:
 - /terms/pen-alignment
 - /terms/pen-holder
 - /terms/pen-tray
+- /terms/penning
 - /terms/styli
 - /terms/stylus
 - /terms/tap
