@@ -25,7 +25,9 @@ Related:
 - /terms/outline
 - /terms/recording
 - /terms/stationery
+- /terms/structured-list
 - /terms/to-do-list
+- /terms/topic-marker
 
 ----
 

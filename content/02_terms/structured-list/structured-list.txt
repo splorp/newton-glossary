@@ -1,0 +1,30 @@
+Title: Structured List
+
+----
+
+Date: 18 September 2024
+
+----
+
+Text:
+
+A (link: /terms/user-interface text: user interface) element for entering structured or hierarchal information such as an (link: /terms/outline text: outline) or (link: /terms/checklist text: checklist) consisting of multiple topics. Each topic in the structured list has a small circular (link: /terms/topic-marker text: topic marker). If the structured list is a checklist, a (link: /terms/checkbox text: checkbox) is also displayed next to each topic. A topic can be moved above or below another topic by (link: /terms/dragging text: dragging) the topic marker.
+
+----
+
+Related:
+
+- /terms/checkbox
+- /terms/checklist
+- /terms/drag
+- /terms/dragging
+- /terms/notepad
+- /terms/outline
+- /terms/topic-marker
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

@@ -1,0 +1,33 @@
+Title: Topic Marker
+
+----
+
+Date: 18 September 2024
+
+----
+
+Text:
+
+A small circular indicator displayed next to each topic in a (link: /terms/structured-list text: structured list) such as an (link: /terms/outline text: outline) or (link: /terms/checklist text: checklist). A topic can be moved above or below another topic by (link: /terms/dragging text: dragging) the topic marker.
+
+Topic markers are also used in the (link: /terms/newton-press text: Newton Press) application to indicate where table of contents items in a (link: /terms/newton-book text: Newton book) are linked.
+
+Also referred to as an (link: /terms/indicator text: indicator) in the (link: /sources/newton-press text: Newton Press User’s Guide).
+
+----
+
+Related:
+
+- /terms/checklist
+- /terms/drag
+- /terms/dragging
+- /terms/notepad
+- /terms/outline
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-press
+- /sources/newton-user-interface-guidelines

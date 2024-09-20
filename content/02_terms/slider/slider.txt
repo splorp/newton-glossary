@@ -8,13 +8,18 @@ Date: 24 May 2001
 
 Text:
 
-A (link: /terms/control text: control) with a marker that indicates an amount, degree, or value in relation to a range of possible values. The user can adjust the setting by dragging the marker on a slider.
+A (link: /terms/control text: control) with a (link: /terms/marker text: marker) that indicates aindicates magnitude, position, probability, degree, or some other amount within a range of possible values. The user can adjust the value by (link: /terms/dragging text: dragging) the marker.
 
 ----
 
 Related:
 
+- /terms/control
+- /terms/drag
+- /terms/dragging
 - /terms/gauge
+- /terms/marker
+- /terms/topic-marker
 - /terms/user-interface
 
 ----
