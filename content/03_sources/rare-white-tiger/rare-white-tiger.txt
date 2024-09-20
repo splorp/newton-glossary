@@ -8,7 +8,7 @@ Date: 10 December 2017
 
 Text:
 
-A company founded by Mark Heringer that provided (link: /terms/newton-book text: Newton Book) publishing services and software development. The company specialized in the creation and conversion of hypertext documents to the Newton platform, published the Newton Book version of Steve Holden’s popular (link: /terms/newtnews text: NewtNews) newsletter, and developed (link: /terms/winslurp text: WinSlurp), a Windows frontend for Steve Weyer’s (link: /terms/slurpee text: Slurpee) utility.
+A company founded by Mark Heringer that provided (link: /terms/newton-book text: Newton book) publishing services and software development. The company specialized in the creation and conversion of hypertext documents to the Newton platform, published the Newton book version of Steve Holden’s popular (link: /terms/newtnews text: NewtNews) newsletter, and developed (link: /terms/winslurp text: WinSlurp), a Windows frontend for Steve Weyer’s (link: /terms/slurpee text: Slurpee) utility.
 
 ----
 

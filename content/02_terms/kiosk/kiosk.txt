@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A navigational page in a (link: /terms/newton-book text: Newton Book). (link: /terms/tapping text: Tapping) an item on the kiosk page — such as a picture — takes the user directly to the subject matter it represents.
+A navigational page in a (link: /terms/newton-book text: Newton book). (link: /terms/tapping text: Tapping) an item on the kiosk page — such as a picture — takes the user directly to the subject matter it represents.
 
 ----
 

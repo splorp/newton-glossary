@@ -18,7 +18,7 @@ A significant number of the terms found in the glossary were initially compiled 
 
 Although it’s quite out of date, [Morgan Aldridge](http://www.makkintosshu.com/) has maintained a [searchable version](http://tools.unna.org/glossary/) of the glossary as part of the [United Network of Newton Archives](http://www.unna.org/).
 
-At one point there was also a (link: /terms/newton-book text: Newton Book) version of the glossary. We’ll see if we can make that happen again.
+At one point there was also a (link: /terms/newton-book text: Newton book) version of the glossary. We’ll see if we can make that happen again.
 
 ### Join The Fun!
 

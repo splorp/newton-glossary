@@ -8,7 +8,7 @@ Date: 07 September 2024
 
 Text:
 
-Published by [Apple](https://www.apple.com/) in 1995, this is the manual for the (link: /terms/newton-press text: Newton Press) software, describing how to create and distribute electronic documents as (link: /terms/newton-book text: Newton Books).
+Published by [Apple](https://www.apple.com/) in 1995, this is the manual for the (link: /terms/newton-press text: Newton Press) software, describing how to create and distribute electronic documents as (link: /terms/newton-book text: Newton books).
 
 ----
 
