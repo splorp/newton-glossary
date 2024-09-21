@@ -18,16 +18,22 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the (link: /latest text: latest additions) page.
 
-### _$v
+### 4.2.2
 
-Terms: _$t
-Sources: _$s
+21 September 2024
+
+Terms: 1,533
+Sources: 173
 
 #### Summary of changes:
 
-+ Added new terms
-+ Added new sources
-+ Updated and expanded several existing entries
++ Added 31 new terms
++ Added 3 new sources
++ Updated and expanded dozens of existing entries
++ Changed links to use absolute URLs per [RSS Specification](https://www.rssboard.org/rss-profile#element-channel-item-description) guidance
++ Descriptions in the (link: /latest/feed text: RSS feed) are now CDATA encoded
++ Updated a few glossarial references on the (link: /about text: about) page
++ Updated [Kirby Redirects](https://github.com/bnomei/kirby3-redirects) plugin to version [4.2.1](https://github.com/bnomei/kirby3-redirects/releases/tag/v4.2.1)
 + Updated [Kirby](https://getkirby.com/) to version [4.3.1](https://github.com/getkirby/kirby/releases/tag/4.3.1) for security patch
 
 ### 4.2.1
