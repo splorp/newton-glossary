@@ -12,7 +12,7 @@ A (link: /terms/user-interface text: user interface) element consisting of a hor
 
 The (link: /terms/battery-gauge text: battery gauge) is an example of a bar (link: /terms/gauge text: gauge).
 
-Also referred to as a (link: /terms/thermometer-gauge text: Thermometer Gauge).
+Also referred to as a (link: /terms/sliding-bar text: Sliding Bar) or (link: /terms/thermometer-gauge text: Thermometer Gauge).
 
 (image: /assets/images/bar-gauge-2x.gif alt: Screenshot of a Status Slip with a Bar Gauge width: 201)
 
@@ -26,6 +26,7 @@ Related:
 - /terms/indicator
 - /terms/marker
 - /terms/progress-indicator
+- /terms/sliding-bar
 - /terms/thermometer-gauge
 - /terms/user-interface
 
