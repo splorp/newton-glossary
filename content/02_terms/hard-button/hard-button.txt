@@ -10,7 +10,7 @@ Text:
 
 A permanent hardware (link: /terms/button text: button) displaying an (link: /terms/icon text: icon) found in the (link: /terms/button-bar text: button bar) below the (link: /terms/screen text: screen) of early Newton devices, including the (link: /terms/omp text: OMP), (link: /terms/messagepad-100 text: MessagePad 100), (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), and (link: /terms/messagepad-130 text: MessagePad 130). A hard button is used either to open a built-in (link: /terms/application text: application) such as (link: /terms/date-book text: Date Book) or to perform a system-wide action such as (link: /terms/undo text: undo).
 
-Colloquially known as a (link: /terms/silkscreen-button text: silkscreen button), (link: /terms/silk-button text: silk button), or (link: /terms/bubble text: bubble).
+Colloquially referred to as a (link: /terms/silkscreen-button text: Silkscreen Button), (link: /terms/silk-button text: Silk Button), or (link: /terms/bubble text: Bubble).
 
 ----
 

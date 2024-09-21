@@ -8,7 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A (link: /terms/view text: view) of information pertaining to an entry in the (link: /terms/name-file text: Name File) application (link: /terms/soup text: soup), graphically formatted as a business card. A card can display names, addresses, telephone numbers, email addresses, notes, and other information (link: /terms/field text: fields) created by the user. Also referred to as a (link: /terms/name-card text: name card).
+A (link: /terms/view text: view) of information pertaining to an entry in the (link: /terms/name-file text: Name File) application (link: /terms/soup text: soup), graphically formatted as a business card. A card can display names, addresses, telephone numbers, email addresses, notes, and other information (link: /terms/field text: fields) created by the user.
+
+Also referred to as a (link: /terms/name-card text: Name Card).
 
 Card is also an (link: /terms/application text: application) that allows the user to retrieve information about a PC card inserted into a Newton device, displaying that information in a (link: /terms/card-slip text: card slip).
 

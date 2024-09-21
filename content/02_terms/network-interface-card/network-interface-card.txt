@@ -10,7 +10,7 @@ Text:
 
 A removable (link: /terms/pc-card text: PC card) or circuit board that provides a physical connection to a network, generally via (link: /terms/ethernet text: ethernet).
 
-Also referred to as a (link: /terms/nic text: NIC) or (link: /terms/network-adapter text: network adapter).
+Also referred to as a (link: /terms/nic text: NIC) or (link: /terms/network-adapter text: Network Adapter).
 
 ----
 

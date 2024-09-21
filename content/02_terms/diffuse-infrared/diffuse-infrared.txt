@@ -14,7 +14,7 @@ Because the infrared signal is scattered, computers and other devices with infra
 
 Phototonics Corporation developed a product called Cooperative that consisted of hardware a (link: /terms/transceiver text: transceiver) which provided diffuse (link: /terms/infrared-appletalk text: infrared AppleTalk) connections between Mac OS computers, (link: /terms/newton-os text: Newton OS) devices, and other peripherals.
 
-Also known as (link: /terms/diffuse-ir text: Diffuse IR).
+Also referred to as (link: /terms/diffuse-ir text: Diffuse IR).
 
 ----
 

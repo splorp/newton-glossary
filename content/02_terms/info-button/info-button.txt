@@ -10,7 +10,7 @@ Text:
 
 A small square (link: /terms/button text: button) an “I” character, located in the (link: /terms/status-bar text: status bar) of an (link: /terms/application text: application). When (link: /terms/tapped text: tapped), the button displays a (link: /terms/picker text: picker) which gives the user access to (link: /terms/preferences text: preferences), onscreen help, or general information about the application.
 
-Also known as the (link: /terms/information-button text: information button) in earlier versions of (link: /terms/newton-os text: Newton OS).
+Also known as the (link: /terms/information-button text: Information Button) in earlier versions of (link: /terms/newton-os text: Newton OS).
 
 (image: /assets/images/info-button-2x.gif alt: Screenshot of an Info Button with Picker width: 103)
 

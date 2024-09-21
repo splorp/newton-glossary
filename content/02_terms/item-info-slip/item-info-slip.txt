@@ -12,7 +12,7 @@ A (link: /terms/container-view text: container view) that displays statistics an
 
 The item info slip is accessed by (link: /terms/tapping text: tapping) the (link: /terms/item-info-button text: item info button) located in the (link: /terms/separator-bar text: separator bar).
 
-Also known as an (link: /terms/info-slip text: info slip).
+Also known as an (link: /terms/info-slip text: Info Slip).
 
 (image: /assets/images/item-info-slip-2x.gif alt: Screenshot of on Item Info Slip for a note width: 318)
 

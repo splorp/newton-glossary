@@ -12,7 +12,7 @@ A small circular indicator displayed next to each topic in a (link: /terms/struc
 
 Topic markers are also used in the (link: /terms/newton-press text: Newton Press) application to indicate where table of contents items in a (link: /terms/newton-book text: Newton book) are linked.
 
-Also referred to as an (link: /terms/indicator text: indicator) in the (link: /sources/newton-press text: Newton Press User’s Guide).
+Also referred to as an (link: /terms/indicator text: Indicator) in the (link: /sources/newton-press text: Newton Press User’s Guide).
 
 ----
 
@@ -21,6 +21,8 @@ Related:
 - /terms/checklist
 - /terms/drag
 - /terms/dragging
+- /terms/indicator
+- /terms/marker
 - /terms/notepad
 - /terms/outline
 - /terms/user-interface
