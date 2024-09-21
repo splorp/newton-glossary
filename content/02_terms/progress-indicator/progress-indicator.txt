@@ -10,6 +10,8 @@ Text:
 
 A type of (link: /terms/bar-gauge text: bar gauge) that looks like a piece of paper being progressively filled in.
 
+(image: /assets/images/progress-indicator-2x.gif alt: Screenshot of a Status Slip with a Progress Indicator displaying the current status of a page being printed width: 201)
+
 ----
 
 Related:

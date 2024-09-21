@@ -12,6 +12,8 @@ A (link: /terms/user-interface text: user interface) element consisting of a hor
 
 Also referred to as a (link: /terms/barber text: Barber) or (link: /terms/barber-pole text: Barber Pole).
 
+(image: /assets/images/barber-pole-gauge-2x.gif alt: Screenshot of a Status Slip with a Barber Pole Gauge width: 201)
+
 ----
 
 Related:

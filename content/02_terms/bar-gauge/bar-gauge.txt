@@ -14,6 +14,8 @@ The (link: /terms/battery-gauge text: battery gauge) is an example of a bar (lin
 
 Also referred to as a (link: /terms/thermometer-gauge text: Thermometer Gauge).
 
+(image: /assets/images/bar-gauge-2x.gif alt: Screenshot of a Status Slip with a Bar Gauge width: 201)
+
 ----
 
 Related:
