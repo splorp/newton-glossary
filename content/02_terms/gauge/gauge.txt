@@ -12,6 +12,8 @@ A (link: /terms/user-interface text: user interface) element with a visual (link
 
 This type of indicator includes the (link: /terms/bar-gauge text: Bar Gauge), (link: /terms/barber-pole-gauge text: Barber Pole Gauge), and (link: /terms/progress-indicator text: Progress Indicator).
 
+Also referred to as a (link: /terms/gauge-indicator text: Gauge Indicator).
+
 ----
 
 Related:
@@ -19,6 +21,7 @@ Related:
 - /terms/bar-gauge
 - /terms/barber-pole-gauge
 - /terms/battery-gauge
+- /terms/gauge-indicator
 - /terms/indicator
 - /terms/marker
 - /terms/progress-indicator

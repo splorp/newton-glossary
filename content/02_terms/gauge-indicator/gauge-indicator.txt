@@ -1,0 +1,17 @@
+Title: Gauge Indicator
+
+----
+
+Date: 20 September 2024
+
+----
+
+Text:
+
+See: (link: /terms/gauge text: Gauge)
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference

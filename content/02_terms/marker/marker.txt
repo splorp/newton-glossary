@@ -10,6 +10,8 @@ Text:
 
 A (link: /terms/user-interface text: user interface) element that acts as an (link: /terms/indicator text: indicator) of magnitude, position, probability, degree, or some other amount within a range of possible values. The diamond-shaped marker found on a (link: /terms/slider text: slider) control is adjustable, allowing the user to (link: /terms/drag text: drag) the marker to change the value.
 
+An adjustable marker is also referred to as a (link: /terms/knob text: Knob).
+
 ----
 
 Related:
@@ -19,6 +21,7 @@ Related:
 - /terms/dragging
 - /terms/gauge
 - /terms/indicator
+- /terms/knob
 - /terms/slider
 - /terms/topic-marker
 - /terms/user-interface
