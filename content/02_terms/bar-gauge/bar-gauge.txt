@@ -1,0 +1,33 @@
+Title: Bar Gauge
+
+----
+
+Date: 20 September 2024
+
+----
+
+Text:
+
+A (link: /terms/user-interface text: user interface) element consisting of a horizontal rectangle which is filled from left to right, as a visual (link: /terms/indicator text: indicator) of the current progress in relation to an entire operation or process.
+
+The (link: /terms/battery-gauge text: battery gauge) is an example of a bar (link: /terms/gauge text: gauge).
+
+Also referred to as a (link: /terms/thermometer-gauge text: Thermometer Gauge).
+
+----
+
+Related:
+
+- /terms/barber-pole-gauge
+- /terms/battery-gauge
+- /terms/gauge
+- /terms/indicator
+- /terms/marker
+- /terms/progress-indicator
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference

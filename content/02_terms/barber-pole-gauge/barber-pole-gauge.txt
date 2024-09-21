@@ -1,0 +1,35 @@
+Title: Barber Pole Gauge
+
+----
+
+Date: 20 September 2024
+
+----
+
+Text:
+
+A (link: /terms/user-interface text: user interface) element consisting of a horizontal rectangle containing animated diagonal stripes. The animation acts a visual (link: /terms/indicator text: indicator) of an operation in progress, but does not indicate how much of the operation has been completed.
+
+Also referred to as a (link: /terms/barber text: Barber) or (link: /terms/barber-pole text: Barber Pole).
+
+----
+
+Related:
+
+- /terms/bar-gauge
+- /terms/barber
+- /terms/barber-pole
+- /terms/battery-gauge
+- /terms/busy-cursor
+- /terms/gauge
+- /terms/indicator
+- /terms/marker
+- /terms/progress-indicator
+- /terms/somethings-happening-icon
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

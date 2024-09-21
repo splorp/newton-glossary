@@ -14,6 +14,8 @@ An (link: /terms/object text: object) with a marker that indicates an amount, de
 
 Related:
 
+- /terms/bar-gauge
+- /terms/barber-pole-gauge
 - /terms/slider
 - /terms/user-interface
 

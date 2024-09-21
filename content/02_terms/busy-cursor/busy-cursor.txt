@@ -20,6 +20,7 @@ Colloquially referred to as the (link: /terms/lightbulb-icon text: Lightbulb Ico
 
 Related:
 
+- /terms/barber-pole-gauge
 - /terms/cursor
 - /terms/icon
 - /terms/lightbulb-icon

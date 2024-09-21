@@ -18,6 +18,8 @@ Related:
 
 - /terms/analog-clock-button
 - /terms/backup-battery
+- /terms/bar-gauge
+- /terms/barber-pole-gauge
 - /terms/battery
 - /terms/battery-booster-pack
 - /terms/battery-level-indicator

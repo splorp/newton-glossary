@@ -1,0 +1,17 @@
+Title: Barber
+
+----
+
+Date: 20 September 2024
+
+----
+
+Text:
+
+See: (link: /terms/barber-pole-gauge text: Barber Pole Gauge)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
