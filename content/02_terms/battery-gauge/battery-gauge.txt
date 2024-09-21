@@ -8,7 +8,7 @@ Date: 14 January 2018
 
 Text:
 
-An visual indicator that displays how much power is left in the (link: /terms/battery text: battery). In (link: /terms/newton-os text: Newton OS) 2.0 and later, the battery gauge is located in the lower-right corner of the (link: /terms/extras-drawer text: extras drawer). In earlier versions of Newton OS, the battery gauge is displayed by (link: /terms/tapping text: tapping) the (link: /terms/analog-clock-button text: analog clock button).
+An visual indicator that displays how much power is left in the (link: /terms/battery text: battery). In (link: /terms/newton-os text: Newton OS) 2.0 and later, the battery (link: /terms/gauge text: gauge) is located in the lower-right corner of the (link: /terms/extras-drawer text: extras drawer). In earlier versions of Newton OS, the battery gauge is displayed by (link: /terms/tapping text: tapping) the (link: /terms/analog-clock-button text: analog clock button).
 
 Also referred to as the (link: /terms/battery-level-indicator text: Battery Level Indicator).
 
@@ -29,6 +29,7 @@ Related:
 - /terms/charge-state
 - /terms/deep-toast
 - /terms/extras-drawer
+- /terms/gauge
 - /terms/long-term-storage
 - /terms/mah
 - /terms/memory-effect
