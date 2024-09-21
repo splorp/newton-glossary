@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A graphical indicator automatically displayed by the system while it is temporarily unable to process user (link: /terms/input text: input). Often represented by an (link: /terms/icon text: icon) of a watch or clock on other (link: /terms/operating-system text: operating systems), the busy cursor in (link: /terms/newton-os text: Newton OS) is represented by an depiction of the Newton logo.
+A graphic (link: /terms/indicator text: indicator) automatically displayed by the system while it is temporarily unable to process user (link: /terms/input text: input). Often represented by an (link: /terms/icon text: icon) of a watch or clock on other (link: /terms/operating-system text: operating systems), the busy cursor in (link: /terms/newton-os text: Newton OS) is represented by an depiction of the Newton logo.
 
 (image: /assets/images/busy-cursor-2x.gif alt: Screenshot of the Busy Cursor width: 30)
 

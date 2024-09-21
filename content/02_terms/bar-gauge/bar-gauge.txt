@@ -24,6 +24,7 @@ Related:
 - /terms/indicator
 - /terms/marker
 - /terms/progress-indicator
+- /terms/thermometer-gauge
 - /terms/user-interface
 
 ----

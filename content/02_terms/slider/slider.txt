@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A (link: /terms/control text: control) with a (link: /terms/marker text: marker) that indicates aindicates magnitude, position, probability, degree, or some other amount within a range of possible values. The user can adjust the value by (link: /terms/dragging text: dragging) the marker.
+A (link: /terms/control text: control) with a (link: /terms/marker text: marker) that acts as an (link: /terms/indicator text: indicator) of magnitude, position, probability, degree, or some other amount within a range of possible values. The user can adjust the value by (link: /terms/dragging text: dragging) the marker.
 
 ----
 

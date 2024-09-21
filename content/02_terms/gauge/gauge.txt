@@ -8,7 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-An (link: /terms/object text: object) with a marker that indicates an amount, degree, or value in relation to a range of possible values. A user can only read a gauge, not manipulate it like a (link: /terms/slider text: slider) or other (link: /terms/user-interface text: user interface) element.
+A (link: /terms/user-interface text: user interface) element with a visual (link: /terms/marker text: marker) that acts as an (link: /terms/indicator text: indicator) of magnitude, position, probability, degree, or some other amount within a range of possible values. A user can only read the value indicated by a gauge, not manipulate the value like can be done using a (link: /terms/slider text: slider).
+
+This type of indicator includes the (link: /terms/bar-gauge text: Bar Gauge), (link: /terms/barber-pole-gauge text: Barber Pole Gauge), and (link: /terms/progress-indicator text: Progress Indicator).
 
 ----
 
@@ -16,6 +18,10 @@ Related:
 
 - /terms/bar-gauge
 - /terms/barber-pole-gauge
+- /terms/battery-gauge
+- /terms/indicator
+- /terms/marker
+- /terms/progress-indicator
 - /terms/slider
 - /terms/user-interface
 

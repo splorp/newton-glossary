@@ -1,0 +1,17 @@
+Title: Indicator
+
+----
+
+Date: 20 September 2024
+
+----
+
+Text:
+
+See: (link: /terms/bar-gauge text: Bar Gauge), (link: /terms/barber-pole-gauge text: Barber Pole Gauge), (link: /terms/gauge text: Gauge), (link: /terms/marker text: Marker), and (link: /terms/topic-marker text: Topic Marker)
+
+----
+
+Source:
+
+- /sources/newton-press

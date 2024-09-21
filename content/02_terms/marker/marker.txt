@@ -8,7 +8,7 @@ Date: 18 September 2024
 
 Text:
 
-A (link: /terms/user-interface text: user interface) element that indicates magnitude, position, probability, degree, or some other amount within a range of possible values. The diamond-shaped marker found on a (link: /terms/slider text: slider) control is adjustable, allowing the user to (link: /terms/drag text: drag) the marker to change the value.
+A (link: /terms/user-interface text: user interface) element that acts as an (link: /terms/indicator text: indicator) of magnitude, position, probability, degree, or some other amount within a range of possible values. The diamond-shaped marker found on a (link: /terms/slider text: slider) control is adjustable, allowing the user to (link: /terms/drag text: drag) the marker to change the value.
 
 ----
 
@@ -18,6 +18,7 @@ Related:
 - /terms/drag
 - /terms/dragging
 - /terms/gauge
+- /terms/indicator
 - /terms/slider
 - /terms/topic-marker
 - /terms/user-interface

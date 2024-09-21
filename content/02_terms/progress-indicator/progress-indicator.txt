@@ -1,0 +1,30 @@
+Title: Progress Indicator
+
+----
+
+Date: 20 September 2024
+
+----
+
+Text:
+
+A type of (link: /terms/bar-gauge text: bar gauge) that looks like a piece of paper being progressively filled in.
+
+----
+
+Related:
+
+- /terms/bar-gauge
+- /terms/barber-pole-gauge
+- /terms/battery-gauge
+- /terms/gauge
+- /terms/indicator
+- /terms/marker
+- /terms/thermometer-gauge
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
