@@ -37,8 +37,10 @@ Source:
 Related:
 
 - /terms/k-libs
+- /terms/newton-language-kit
 - /terms/nte
 - /terms/ntencoding
 - /terms/russification
 - /terms/unicode
+- /terms/unidict
 - /terms/unifep

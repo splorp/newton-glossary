@@ -23,7 +23,8 @@ Resource:
 
 Related:
 
-- /terms/newton-text-enocding
+- /terms/newton-language-kit
+- /terms/newton-text-encoding
 - /terms/russified
 - /terms/unicode
 - /terms/unifep

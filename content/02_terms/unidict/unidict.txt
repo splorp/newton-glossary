@@ -1,0 +1,33 @@
+Title: UniDict
+
+----
+
+Date: 22 September 2024
+
+----
+
+Text:
+
+An English–Japanese translation dictionary developed by (link: /sources/enfour text: Enfour) for (link: /terms/newton-os text: Newton OS) containing over 26,000 words. The dictionary was designed to work with the (link: /terms/unifep text: UniFEP) multilingual input system and the (link: /terms/newton-language-kit text: Newton Language Kit).
+
+----
+
+Resource:
+
+- [Enfour: UniDict for Newton Product Information](https://web.archive.org/web/19981205103636/https://www.enfour.co.jp/newton/software/unidict/index.html) (Japanese)
+
+----
+
+Source:
+
+- /sources/enfour
+
+----
+
+Related:
+
+- /terms/hwcr
+- /terms/newton-text-encoding
+- /terms/newton-language-kit
+- /terms/unicode
+- /terms/unifep

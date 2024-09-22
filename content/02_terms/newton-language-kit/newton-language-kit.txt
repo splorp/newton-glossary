@@ -29,8 +29,9 @@ Source:
 Related:
 
 - /terms/hwcr
-- /terms/nlk
 - /terms/newton-text-encoding
+- /terms/nlk
 - /terms/russification
 - /terms/unicode
+- /terms/unidict
 - /terms/unifep

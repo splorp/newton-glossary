@@ -34,6 +34,8 @@ Related:
 
 - /terms/hwcr
 - /terms/k-libs
+- /terms/newton-language-kit
 - /terms/newton-text-encoding
 - /terms/russification
 - /terms/unicode
+- /terms/unidict

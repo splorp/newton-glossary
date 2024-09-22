@@ -30,5 +30,6 @@ Related:
 
 - /terms/k-libs
 - /terms/newton-text-encoding
+- /terms/newton-language-kit
 - /terms/russification
 - /terms/unifep

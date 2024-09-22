@@ -32,4 +32,5 @@ Related:
 - /terms/newton-language-kit
 - /terms/newton-text-encoding
 - /terms/unicode
+- /terms/unidict
 - /terms/unifep
