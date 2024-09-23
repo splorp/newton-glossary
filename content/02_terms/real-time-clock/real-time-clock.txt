@@ -1,0 +1,29 @@
+Title: Real-Time Clock
+
+----
+
+Date: 23 September 2024
+
+----
+
+Text:
+
+An electronic circuit or piece of software that accurately measures the passage of time. Real-time clocks are used in any device that is used to keep time. (link: /terms/newton-os text: Newton OS) includes a high resolution real-time clock.
+
+Also referred to as an (link: /terms/rtc text: RTC).
+
+----
+
+Related:
+
+- /terms/clock
+- /terms/rtc
+- /terms/year-2010-problem
+- /terms/year-2026-problem
+- /terms/year-2040-problem
+
+----
+
+Source:
+
+- /sources/wikipedia

@@ -16,18 +16,21 @@ Commonly referred to as the (link: /terms/y2010 text: Y2010) bug, this problem c
 
 Resource:
 
-- [40Hz: Newton Year 2010 Problem](http://40hz.org/Pages/newton/hacking/newton-year-2010-problem/)
-- [40Hz: Newton Year 2010 Solution](http://40hz.org/Pages/newton/hacking/newton-year-2010-solution/)
+- [40Hz: Newton Year 2010 Problem](https://40hz.org/Pages/newton/hacking/newton-year-2010-problem/)
+- [40Hz: Newton Year 2010 Solution](https://40hz.org/Pages/newton/hacking/newton-year-2010-solution/)
 
 ----
 
 Related:
 
+- /terms/clock
 - /terms/fix2010
 - /terms/newtonscript
+- /terms/real-time-clock
 - /terms/y2010
 - /terms/y2010-diagnostic
 - /terms/year-2026-problem
+- /terms/year-2040-problem
 
 ----
 

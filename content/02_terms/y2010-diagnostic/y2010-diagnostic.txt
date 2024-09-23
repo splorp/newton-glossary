@@ -21,9 +21,12 @@ Resource:
 
 Related:
 
+- /terms/clock
 - /terms/fix2010
+- /terms/real-time-clock
 - /terms/year-2010-problem
 - /terms/year-2026-problem
+- /terms/year-2040-problem
 
 ----
 

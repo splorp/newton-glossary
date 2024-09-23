@@ -1,0 +1,17 @@
+Title: RTC
+
+----
+
+Date: 23 September 2024
+
+----
+
+Text:
+
+See: (link: /terms/real-time-clock text: Real Time Clock)
+
+----
+
+Source:
+
+- /sources/wikipedia

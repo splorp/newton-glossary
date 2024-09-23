@@ -1,0 +1,37 @@
+Title: Year 2040 Problem
+
+----
+
+Date: 23 September 2024
+
+----
+
+Text:
+
+A potential bug affecting (link: /terms/newton-os text: Newton OS) devices at some point in the year 2040. The (link: /terms/y2040 text: Y2040) problem manifests itself in certain C++ (link: /terms/function text: functions) that read or set information relating to the (link: /terms/real-time-clock text: real-time clock) as an integer value overflow.
+
+----
+
+Resource:
+
+- [GitHub: Y2026 and beyond](https://github.com/pguyot/Einstein/issues/24)
+- [40Hz: Newton Year 2010 Problem](https://40hz.org/Pages/newton/hacking/newton-year-2010-problem/)
+
+----
+
+Related:
+
+- /terms/clock
+- /terms/fix2010
+- /terms/newtonscript
+- /terms/real-time-clock
+- /terms/y2010-diagnostic
+- /terms/y2040
+- /terms/year-2010-problem
+- /terms/year-2026-problem
+
+----
+
+Source:
+
+- /sources/eckhart-koppen

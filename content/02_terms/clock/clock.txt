@@ -22,6 +22,9 @@ Related:
 - /terms/notepad
 - /terms/time-date
 - /terms/time-zones
+- /terms/year-2010-problem
+- /terms/year-2026-problem
+- /terms/year-2040-problem
 
 ----
 

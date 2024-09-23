@@ -15,17 +15,20 @@ A potential future iteration of the (link: /terms/year-2010-problem text: Year 2
 Resource:
 
 - [GitHub: Y2026 and beyond](https://github.com/pguyot/Einstein/issues/24)
-- [40Hz: Just checking …](http://40hz.org/Pages/mottek/2016/2016-02-14/)
-- [40Hz: Newton Year 2010 Problem](http://40hz.org/Pages/newton/hacking/newton-year-2010-problem/)
+- [40Hz: Just checking …](https://40hz.org/Pages/mottek/2016/2016-02-14/)
+- [40Hz: Newton Year 2010 Problem](https://40hz.org/Pages/newton/hacking/newton-year-2010-problem/)
 
 ----
 
 Related:
 
+- /terms/clock
 - /terms/fix2010
+- /terms/real-time-clock
 - /terms/y2010-diagnostic
 - /terms/y2026
 - /terms/year-2010-problem
+- /terms/year-2040-problem
 
 ----
 
