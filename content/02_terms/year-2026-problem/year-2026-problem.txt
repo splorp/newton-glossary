@@ -23,7 +23,6 @@ Resource:
 Related:
 
 - /terms/fix2010
-- /terms/y2010
 - /terms/y2010-diagnostic
 - /terms/y2026
 - /terms/year-2010-problem

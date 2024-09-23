@@ -24,9 +24,7 @@ Related:
 - /terms/patch
 - /terms/system-patch
 - /terms/system-update
-- /terms/y2010
 - /terms/y2010-diagnostic
-- /terms/y2026
 - /terms/year-2010-problem
 - /terms/year-2026-problem
 
