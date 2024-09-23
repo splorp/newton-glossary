@@ -15,7 +15,7 @@ A (link: /terms/system-patch text: system patch) created by (link: /sources/avi-
 Resource:
 
 - [Avi Drissman: Fix2010](http://www.drissman.com/avi/newton/Fix2010/)
-- [40Hz: Newton Year 2010 Problem](http://40hz.org/Pages/Newton%20Year%202010%20Problem)
+- [40Hz: Newton Year 2010 Problem](https://40hz.org/Pages/newton/hacking/newton-year-2010-problem/)
 
 ----
 

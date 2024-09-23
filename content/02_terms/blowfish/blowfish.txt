@@ -15,7 +15,7 @@ An open source data encryption algorithm developed by (link: /sources/bruce-schn
 Resource:
 
 - [Schneier on Security: The Blowfish Encryption Algorithm](https://www.schneier.com/academic/blowfish/)
-- [40Hz: The Fish Product Information](http://40hz.org/Pages/The%20Fish)
+- [40Hz: The Fish Product Information](https://40hz.org/Pages/newton/packages/thefish/)
 
 ----
 

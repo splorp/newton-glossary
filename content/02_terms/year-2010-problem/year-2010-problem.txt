@@ -16,8 +16,8 @@ Commonly referred to as the (link: /terms/y2010 text: Y2010) bug, this problem c
 
 Resource:
 
-- [40Hz: Newton Year 2010 Problem](http://40hz.org/Pages/Newton%20Year%202010%20Problem)
-- [40Hz: Newton Year 2010 Solution](http://40hz.org/Pages/Newton%20Year%202010%20Solution)
+- [40Hz: Newton Year 2010 Problem](http://40hz.org/Pages/newton/hacking/newton-year-2010-problem/)
+- [40Hz: Newton Year 2010 Solution](http://40hz.org/Pages/newton/hacking/newton-year-2010-solution/)
 
 ----
 

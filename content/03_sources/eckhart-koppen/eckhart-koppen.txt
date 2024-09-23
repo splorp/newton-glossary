@@ -14,6 +14,6 @@ A software developer specializing in open source projects that promote platform 
 
 Resource:
 
-- [40Hz Website](http://40hz.org/)
-- [40Hz: Eckhart Koeppen Biography](http://40hz.org/Pages/EckhartKoeppen)
+- [40Hz Website](https://40hz.org/)
+- [40Hz: Eckhart Koeppen Biography](https://40hz.org/Pages/eckhartkoeppen/)
 - [GitHub: Eckhart Köppen](https://github.com/ekoeppen)

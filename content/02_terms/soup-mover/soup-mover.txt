@@ -14,7 +14,7 @@ An (link: /terms/extension text: extension) created by (link: /sources/eckhart-k
 
 Resource:
 
-- [40hz: Soup Mover Product Information](http://40hz.org/Pages/Soup%20Mover)
+- [40hz: Soup Mover Product Information](https://40hz.org/Pages/newton/packages/soupmover/)
 
 ----
 

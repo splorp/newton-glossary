@@ -14,7 +14,7 @@ A simple, text-only web browser and (link: /terms/rss text: RSS) reader for Newt
 
 Resource:
 
-- [40Hz: Courier Product Information](http://40hz.org/Pages/Courier)
+- [40Hz: Courier Product Information](https://40hz.org/Pages/newton/packages/courier/)
 
 ----
 

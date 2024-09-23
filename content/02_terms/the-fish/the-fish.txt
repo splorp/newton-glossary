@@ -14,7 +14,7 @@ A utility created by (link: /sources/eckhart-koppen text: Eckhart Köppen) and (
 
 Resource:
 
-- [40Hz: The Fish Product Information](http://40hz.org/Pages/The%20Fish)
+- [40Hz: The Fish Product Information](https://40hz.org/Pages/newton/packages/thefish/)
 - [NewtonTalk: The Fish (Notes Encrypter)](https://newtontalk.net/archive/newtontalk/2002-June/1231.html)
 
 ----

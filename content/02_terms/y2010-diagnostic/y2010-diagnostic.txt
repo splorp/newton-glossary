@@ -14,8 +14,8 @@ A utility (link: /terms/package text: package) created by (link: /sources/eckhar
 
 Resource:
 
-- [40Hz: Y2010 Diagnostic](https://40hz.org/Pages/Y2010%20Diagnostic)
-- [40Hz: Newton Year 2010 Problem](http://40hz.org/Pages/Newton%20Year%202010%20Problem)
+- [40Hz: Y2010 Diagnostic](https://40hz.org/Pages/newton/patches/y2010diagnostic/)
+- [40Hz: Newton Year 2010 Problem](https://40hz.org/Pages/newton/hacking/newton-year-2010-problem/)
 
 ----
 

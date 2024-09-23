@@ -15,8 +15,8 @@ A potential future iteration of the (link: /terms/year-2010-problem text: Year 2
 Resource:
 
 - [GitHub: Y2026 and beyond](https://github.com/pguyot/Einstein/issues/24)
-- [40Hz: Just checking …](http://40hz.org/Pages/Mottek:%202016-02-14)
-- [40Hz: Newton Year 2010 Problem](http://40hz.org/Pages/Newton%20Year%202010%20Problem)
+- [40Hz: Just checking …](http://40hz.org/Pages/mottek/2016/2016-02-14/)
+- [40Hz: Newton Year 2010 Problem](http://40hz.org/Pages/newton/hacking/newton-year-2010-problem/)
 
 ----
 
