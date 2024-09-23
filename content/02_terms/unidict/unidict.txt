@@ -8,12 +8,13 @@ Date: 22 September 2024
 
 Text:
 
-An English–Japanese translation dictionary developed by (link: /sources/enfour text: Enfour) for (link: /terms/newton-os text: Newton OS) containing over 26,000 words. The dictionary was designed to work with the (link: /terms/unifep text: UniFEP) multilingual input system and the (link: /terms/newton-language-kit text: Newton Language Kit).
+An English–Japanese translation dictionary developed by (link: /sources/enfour text: Enfour). Containing over 26,000 words, the dictionary was designed to work with the (link: /terms/unifep text: UniFEP) multilingual input system and the (link: /terms/newton-language-kit text: Newton Language Kit).
 
 ----
 
 Resource:
 
+- [Enfour: UniDict for Newton: News Release](https://web.archive.org/web/20040901043615/https://www.enfour.co.jp/newton/news/news1998/unidict.html) (Japanese)
 - [Enfour: UniDict for Newton Product Information](https://web.archive.org/web/19981205103636/https://www.enfour.co.jp/newton/software/unidict/index.html) (Japanese)
 
 ----
