@@ -1,0 +1,29 @@
+Title: rsrc
+
+----
+
+Date: 25 September 2024
+
+----
+
+Text:
+
+The (link: /terms/filename-extension text: filename extension) used to identify (link: /terms/resource-file text: resource files) used by (link: /terms/newton-toolkit text: Newton Toolkit).
+
+----
+
+Related:
+
+- /terms/build
+- /terms/filename-extension
+- /terms/newton-toolkit
+- /terms/project
+- /terms/project-build
+- /terms/resource
+- /terms/resource-file
+
+----
+
+Source:
+
+- /sources/newton-toolkit-users-guide

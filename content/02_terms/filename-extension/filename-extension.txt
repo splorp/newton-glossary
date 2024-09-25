@@ -24,6 +24,7 @@ Related:
 - /terms/nbku
 - /terms/newtonpkg
 - /terms/pkg
+- /terms/rsrc
 - /terms/rtf
 - /terms/txt
 - /terms/vcf

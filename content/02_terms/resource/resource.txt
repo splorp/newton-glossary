@@ -22,6 +22,7 @@ Related:
 - /terms/project-build
 - /terms/project-file
 - /terms/resource-file
+- /terms/rsrc
 - /terms/text-file
 
 ----

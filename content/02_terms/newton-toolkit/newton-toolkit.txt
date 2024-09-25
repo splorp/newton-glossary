@@ -52,6 +52,7 @@ Related:
 - /terms/project-build
 - /terms/project-file
 - /terms/resource-file
+- /terms/rsrc
 - /terms/script
 - /terms/stream-file
 - /terms/text-file
