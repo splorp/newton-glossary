@@ -18,12 +18,15 @@ Related:
 
 - /terms/bitmap
 - /terms/build
+- /terms/icon
+- /terms/layout-file
 - /terms/newton-toolkit
 - /terms/project
 - /terms/project-build
 - /terms/project-file
 - /terms/resource
 - /terms/rsrc
+- /terms/stream-file
 - /terms/text-file
 
 ----

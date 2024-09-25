@@ -21,6 +21,7 @@ Related:
 - /terms/notify-button
 - /terms/picture-button
 - /terms/picture-radio-button
+- /terms/resource
 - /terms/script-icon
 - /terms/silkscreen-button
 - /terms/snowflake

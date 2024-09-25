@@ -16,6 +16,7 @@ Related:
 
 - /terms/bitmap
 - /terms/build
+- /terms/icon
 - /terms/newton-toolkit
 - /terms/newtonscript
 - /terms/project
@@ -23,6 +24,7 @@ Related:
 - /terms/project-file
 - /terms/resource-file
 - /terms/rsrc
+- /terms/stream-file
 - /terms/text-file
 
 ----

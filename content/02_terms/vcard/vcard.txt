@@ -16,7 +16,6 @@ A vCard that has been transferred to a Newton device can be converted into a (li
 
 Related:
 
-- /terms/filename-extension
 - /terms/mail-v
 - /terms/name-file
 - /terms/newtdump

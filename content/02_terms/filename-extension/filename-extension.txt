@@ -19,10 +19,11 @@ Also referred to as a (link: /terms/file-extension text: File Extension) or (lin
 Related:
 
 - /terms/extension
-- /terms/file-extension
+- /terms/filename-extension
 - /terms/nbk
 - /terms/nbku
 - /terms/newtonpkg
+- /terms/nwt
 - /terms/pkg
 - /terms/rsrc
 - /terms/rtf

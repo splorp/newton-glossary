@@ -16,7 +16,6 @@ Related:
 
 - /terms/application
 - /terms/extension
-- /terms/filename-extension
 - /terms/newtonpkg
 - /terms/package
 - /terms/package-installer

@@ -15,10 +15,14 @@ A (link: /terms/newton-toolkit text: Newton Toolkit) document that contains a li
 Related:
 
 - /terms/build
+- /terms/layout-file
 - /terms/newton-toolkit
 - /terms/package
 - /terms/project
 - /terms/project-build
+- /terms/resource-file
+- /terms/stream-file
+- /terms/text-file
 
 ----
 

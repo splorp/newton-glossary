@@ -14,9 +14,17 @@ A file that contains (link: /terms/template text: templates) for the (link: /ter
 
 Related:
 
+- /terms/build
 - /terms/layout-view
+- /terms/newton-toolkit
 - /terms/newtonscript
+- /terms/project
+- /terms/project-build
+- /terms/project-file
+- /terms/resource-file
+- /terms/stream-file
 - /terms/template
+- /terms/text-file
 - /terms/view
 
 ----

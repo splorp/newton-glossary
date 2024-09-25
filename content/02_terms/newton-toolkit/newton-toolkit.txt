@@ -51,6 +51,7 @@ Related:
 - /terms/project
 - /terms/project-build
 - /terms/project-file
+- /terms/resource
 - /terms/resource-file
 - /terms/rsrc
 - /terms/script
