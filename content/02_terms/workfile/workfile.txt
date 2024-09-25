@@ -8,7 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-The main data file created by the (link: /terms/newton-connection text: Newton Connection) software. The workfile contains all of the information used when (link: /terms/synchronize text: synchronizing) a Newton device with a (link: /terms/desktop-computer text: desktop computer), (link: /terms/laptop-computer text: laptop), or other device.
+The main data file created by the (link: /terms/newton-connection text: Newton Connection) software, identified by the (link: /terms/nwt text: .nwt) filename extension. The workfile contains all of the information used when (link: /terms/synchronize text: synchronizing) a Newton device with a (link: /terms/desktop-computer text: desktop computer), (link: /terms/laptop-computer text: laptop), or other device.
+
+Each workfile has a set of associated (link: /terms/backup-file text: backup files) with the extension `.nb#`, where `#` represents a number from 1 to 9.
 
 ----
 

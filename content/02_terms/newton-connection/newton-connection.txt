@@ -10,11 +10,11 @@ Text:
 
 The software component included in Apple’s (link: /terms/newton-connection-kit text: Newton Connection Kit) which connects Newton devices to Mac OS and Windows computers, allowing users to exchange and (link: /terms/synchronize text: synchronize) information with common desktop (link: /terms/application text: applications).
 
-Newton Connection is also an (link: /terms/application text: application) for Mac OS X created by (link: /sources/simon-bell text: Simon Bell) that essentially replaces the functionality found in Apple’s (link: /terms/newton-connection-utilities text: Newton Connection Utilities) (NCU). Newton Connection allows the user to (link: /terms/backup text: backup) and (link: /terms/restore text: restore) information, install (link: /terms/package text: packages), and transfer data to and from a Newton device.
+Newton Connection for Mac OS X is an application created by (link: /sources/simon-bell text: Simon Bell) that essentially duplicates the functionality found in Apple’s (link: /terms/newton-connection-utilities text: Newton Connection Utilities) (NCU) for modern Mac OS (link: /terms/operating-system text: operating systems).
 
-Also referred to as (link: /terms/ncx text: NCX).
+Also known as (link: /terms/ncx text: NCX), it allows the user to (link: /terms/backup text: backup) and (link: /terms/restore text: restore) information, install (link: /terms/package text: packages), and transfer data to and from a Newton device.
 
-Backup files created by Newton Connection are identified by the (link: /terms/nbku text: .nbku) filename extension.
+Backup files created by NCX are identified by the (link: /terms/nbku text: .nbku) filename extension.
 
 ----
 
@@ -24,7 +24,7 @@ Resource:
 - [Apple Support: Newton Connection Kit 2.0 Description](https://web.archive.org/web/20011226141458/http://karchive.info.apple.com/article.html?artnum=14871)
 - [The Newted Community: Newton Connection Kit for Windows User’s Guide](http://www.newted.org/download/manuals/0305277ANCNCTKITWINUG.PDF)
 - [The Newted Community: Newton Connection 2.0 Update Information](http://www.newted.org/download/manuals/0305272ANCNCT2UD.PDF)
-- [Newton Research: Newton Connection Product Information](http://newtonresearch.org/connection/)
+- [Newton Research: Newton Connection for Mac OS X Product Information](http://newtonresearch.org/connection/)
 
 ----
 
