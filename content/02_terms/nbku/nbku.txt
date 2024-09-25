@@ -8,7 +8,7 @@ Date:
 
 Text:
 
-The (link: /terms/filename-extension text: filename extension) used to identify (link: /terms/backup-file text: backup files) created by the (link: /terms/newton-connection text: Newton Connection) application.
+The (link: /terms/filename-extension text: filename extension) used to identify (link: /terms/backup-file text: backup files) created by the (link: /terms/newton-connection text: Newton Connection) for Mac OS X ((link: /terms/ncx text: NCX)) application.
 
 ----
 
