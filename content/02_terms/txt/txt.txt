@@ -8,4 +8,13 @@ Date: 30 August 2024
 
 Text:
 
-See: (link: /terms/text-file text: Text File)
+The (link: /terms/filename-extension text: filename extension) used to identify (link: /terms/text-file text: text files).
+
+----
+
+Related:
+
+- /terms/filename-extension
+- /terms/rich-text-format
+- /terms/rtf
+- /terms/txt

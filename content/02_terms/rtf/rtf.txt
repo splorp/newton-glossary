@@ -8,4 +8,13 @@ Date:
 
 Text:
 
-See: (link: /terms/rich-text-format text: Rich Text Format)
+The (link: /terms/filename-extension text: filename extension) used to identify (link: /terms/rich-text-format text: Rich Text Format) files.
+
+----
+
+Related:
+
+- /terms/filename-extension
+- /terms/rich-text-format
+- /terms/rtf
+- /terms/text-file

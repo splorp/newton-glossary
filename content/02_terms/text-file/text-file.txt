@@ -8,22 +8,23 @@ Date: 24 May 2001
 
 Text:
 
-A file containing text-based data that is compiled by (link: /terms/newton-toolkit text: Newton Toolkit) during a (link: /terms/project-build text: project build). Usually identified by the (link: /terms/txt text: .txt) filename extension.
+A file containing text-based data that can include optional installation and removal (link: /terms/script text: scripts) or other (link: /terms/newtonscript text: NewtonScript) code outside the scope of the (link: /terms/view text: view) templates. The content of the text file is compiled by (link: /terms/newton-toolkit text: Newton Toolkit) during a (link: /terms/project-build text: project build).
+
+Usually identified by the (link: /terms/txt text: .txt) filename extension.
 
 ----
 
 Related:
 
-- /terms/bitmap
 - /terms/build
-- /terms/filename-extension
+- /terms/layout-file
 - /terms/newton-toolkit
 - /terms/project
 - /terms/project-build
 - /terms/project-file
-- /terms/resource
 - /terms/resource-file
 - /terms/rich-text-format
+- /terms/stream-file
 - /terms/txt
 
 ----

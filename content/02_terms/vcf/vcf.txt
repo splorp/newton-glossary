@@ -8,4 +8,13 @@ Date: 24 May 2001
 
 Text:
 
-See: (link: /terms/vcard text: vCard)
+Text:
+
+The (link: /terms/filename-extension text: filename extension) used to identify (link: /terms/vcard text: vCard) formatted data.
+
+----
+
+Related:
+
+- /terms/filename-extension
+- /terms/vcard
