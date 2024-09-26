@@ -28,6 +28,7 @@ Related:
 - /terms/pkg
 - /terms/rsrc
 - /terms/rtf
+- /terms/stream
 - /terms/txt
 - /terms/vcf
 

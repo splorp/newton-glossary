@@ -21,11 +21,8 @@ Related:
 - /terms/newtonscript
 - /terms/project
 - /terms/project-build
-- /terms/project-file
 - /terms/resource-file
 - /terms/rsrc
-- /terms/stream-file
-- /terms/text-file
 
 ----
 

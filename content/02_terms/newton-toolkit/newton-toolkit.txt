@@ -55,6 +55,7 @@ Related:
 - /terms/resource-file
 - /terms/rsrc
 - /terms/script
+- /terms/stream
 - /terms/stream-file
 - /terms/text-file
 - /terms/toolkit

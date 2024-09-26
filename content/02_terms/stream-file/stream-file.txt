@@ -12,6 +12,8 @@ A file containing a hierarchy of (link: /terms/newtonscript text: NewtonScript) 
 
 Stream files are generally identified by the (link: /terms/stream text: .stream) filename extension.
 
+Also referred to as an (link: /terms/object-stream-file text: Object Stream File) or (link: /terms/streamed-frame-file text: Streamed Frame File).
+
 ----
 
 Related:
@@ -30,6 +32,8 @@ Related:
 - /terms/resource
 - /terms/resource-file
 - /terms/script
+- /terms/stream
+- /terms/streamed-frame-file
 - /terms/text-file
 
 ----

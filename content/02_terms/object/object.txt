@@ -34,11 +34,11 @@ Related:
 - /terms/method
 - /terms/newtonscript
 - /terms/nsof
-- /terms/object-stream-file
 - /terms/path-expression
 - /terms/pointer
 - /terms/reference
 - /terms/soup
+- /terms/stream
 - /terms/stream-file
 - /terms/unflatten
 - /terms/unflattenation
