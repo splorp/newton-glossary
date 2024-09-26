@@ -30,7 +30,7 @@ Related:
 - /terms/hammer
 - /terms/leibniz
 - /terms/macintosh-programmers-workshop
-- /terms/newton-c-toolbox
+- /terms/newton-c-tools
 - /terms/newtsbug
 - /terms/viewframe
 

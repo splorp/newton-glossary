@@ -20,7 +20,7 @@ Related:
 - /terms/egger
 - /terms/hammer
 - /terms/macintosh-programmers-workshop
-- /terms/newton-c-toolbox
+- /terms/newton-c-tools
 - /terms/viewframe
 
 ----

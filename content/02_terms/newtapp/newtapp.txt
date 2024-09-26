@@ -16,7 +16,7 @@ Related:
 
 - /terms/macintosh-programmers-workshop
 - /terms/newtdevenv
-- /terms/newton-c-toolbox
+- /terms/newton-c-tools
 - /terms/newton-toolkit
 
 ----

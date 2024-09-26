@@ -20,6 +20,6 @@ Related:
 - /terms/debugging
 - /terms/egger
 - /terms/macintosh-programmers-workshop
-- /terms/newton-c-toolbox
+- /terms/newton-c-tools
 - /terms/newtsbug
 - /terms/viewframe

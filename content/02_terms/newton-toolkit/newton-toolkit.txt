@@ -43,7 +43,7 @@ Related:
 - /terms/newtapp
 - /terms/newtdevenv
 - /terms/newton-book-maker
-- /terms/newton-c-toolbox
+- /terms/newton-c-tools
 - /terms/newtonscript
 - /terms/newtrtfm
 - /terms/ntk

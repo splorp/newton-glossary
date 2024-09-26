@@ -12,7 +12,7 @@ A comprehensive collection of core development tools from [Apple](https://www.ap
 
 Also referred to as (link: /terms/mpw text: MPW).
 
-Macintosh Programmers Workshop is required by the (link: /terms/newton-c-toolbox text: Newton C++ Toolbox) when creating C++ code for the Newton.
+Macintosh Programmers Workshop is required by (link: /terms/newton-c-tools text: Newton C++ Tools) when creating or preparing C++ code for the Newton.
 
 ----
 
@@ -20,6 +20,6 @@ Related:
 
 - /terms/bugtrap
 - /terms/mpw
-- /terms/newton-c-toolbox
+- /terms/newton-c-tools
 - /terms/newtsbug
 - /terms/viewframe

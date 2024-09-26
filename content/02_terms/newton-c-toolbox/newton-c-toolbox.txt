@@ -8,19 +8,10 @@ Date: 24 May 2001
 
 Text:
 
-A complete (link: /terms/macintosh-programmers-workshop text: Macintosh Programmers Workshop) development environment that facilitates creating C++ code for the Newton.
-
-Also referred to as (link: /terms/nct text: NCT).
+See: (link: /terms/newton-c-tools text: Newton C++ Tools)
 
 ----
 
-Related:
+Sources:
 
-- /terms/bugtrap
-- /terms/macintosh-programmers-workshop
-- /terms/nct
-- /terms/newtapp
-- /terms/newtdevenv
-- /terms/newton-toolkit
-- /terms/newtsbug
-- /terms/viewframe
+- /sources/lantern
