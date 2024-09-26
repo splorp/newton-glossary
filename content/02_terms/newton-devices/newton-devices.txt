@@ -33,4 +33,4 @@ Related:
 
 Source:
 
-- /sources/paul-guyot
+- /sources/newton-internet-enabler-users-manual
