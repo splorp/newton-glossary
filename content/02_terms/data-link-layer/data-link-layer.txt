@@ -14,7 +14,9 @@ The layer in device communications that translates data into a format that can b
 
 Related:
 
+- /terms/ddk
 - /terms/device-driver
+- /terms/lantern
 - /terms/lantern-driver
 - /terms/newton-devices
 

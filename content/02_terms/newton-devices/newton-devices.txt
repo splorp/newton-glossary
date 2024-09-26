@@ -15,9 +15,13 @@ A (link: /terms/package text: package) containing various driver functions allow
 Related:
 
 - /terms/api
+- /terms/data-link-layer
+- /terms/ddk
 - /terms/device-driver
+- /terms/lantern
 - /terms/lantern-driver
 - /terms/lantern-library
+- /terms/newton-internet-enabler
 
 ----
 

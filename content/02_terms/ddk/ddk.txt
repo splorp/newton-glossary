@@ -19,7 +19,6 @@ Related:
 - /terms/bobby
 - /terms/device-driver
 - /terms/lantern
-- /terms/lantern-ddk
 - /terms/lantern-driver
 - /terms/lantern-library
 - /terms/sdk

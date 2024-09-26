@@ -19,5 +19,6 @@ Related:
 - /terms/data-link-layer
 - /terms/ddk
 - /terms/driver
+- /terms/lantern
 - /terms/lantern-driver
 - /terms/newton-devices
