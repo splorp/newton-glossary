@@ -12,6 +12,12 @@ A (link: /terms/package text: package) containing various driver functions allow
 
 ----
 
+Resource:
+
+- [The Newted Community: Lantern Data Link Layer Tools](http://www.newted.org/download/manuals/Lantern.pdf)
+
+----
+
 Related:
 
 - /terms/api
