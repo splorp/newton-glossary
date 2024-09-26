@@ -1,0 +1,42 @@
+Title: AIF
+
+----
+
+Date: 26 September 2024
+
+----
+
+Text:
+
+ARM Image Format
+
+An (link: /terms/object text: object) file format used in software that runs on microprocessors manufactured by (link: /terms/arm text: ARM), such as the (link: /terms/strongarm text: StrongARM) processor used in the (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100).
+
+AIF files can be converted for use with (link: /terms/newton-toolkit text: Newton Toolkit) using the (link: /terms/aiftontk text: AIFtoNTK) tool included with the (link: /terms/newton-c-tools text: Newton C++ Tools) development environment.
+
+----
+
+Resource:
+
+- [ARM Developer: Overview of the ARM Image Format](https://developer.arm.com/documentation/dui0041/c/ARM-Image-Format/Overview-of-the-ARM-Image-Format)
+- [Wikipedia: ARM Image Format](https://en.wikipedia.org/wiki/Arm_Image_Format)
+
+----
+
+Related:
+
+- /terms/aiftontk
+- /terms/arm
+- /terms/newton-c-tools
+- /terms/newton-toolkit
+- /terms/nsof
+- /terms/ntkc
+- /terms/stream
+- /terms/stream-file
+- /terms/strongarm
+
+----
+
+Source:
+
+- /sources/wikipedia

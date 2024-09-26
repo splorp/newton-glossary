@@ -28,6 +28,8 @@ Resource:
 
 Related:
 
+- /terms/aif
+- /terms/aiftontk
 - /terms/better-disarm
 - /terms/cpu
 - /terms/hobbit

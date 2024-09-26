@@ -8,7 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-A file encoded in Newton Streamed Object Format ((link: /terms/nsof text: NSOF)). You can use (link: /terms/newton-toolkit text: Newton Toolkit) to build stream files, which can be incorporated into (link: /terms/project text: projects).
+A file containing a hierarchy of (link: /terms/newtonscript text: NewtonScript) frames encoded in Newton Streamed Object Format ((link: /terms/nsof text: NSOF)). You can use (link: /terms/newton-toolkit text: Newton Toolkit) to build stream files, which can be incorporated into (link: /terms/project text: projects).
+
+Stream files are generally identified by the (link: /terms/stream text: .stream) filename extension.
 
 ----
 
@@ -19,6 +21,7 @@ Related:
 - /terms/newton-toolkit
 - /terms/newtonscript
 - /terms/nsof
+- /terms/ntkc
 - /terms/object
 - /terms/object-stream-file
 - /terms/project

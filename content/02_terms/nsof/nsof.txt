@@ -23,6 +23,7 @@ Related:
 - /terms/frame
 - /terms/newton-toolkit
 - /terms/newtonscript
+- /terms/ntkc
 - /terms/nwt
 - /terms/object
 - /terms/object-stream-file

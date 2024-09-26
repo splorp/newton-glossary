@@ -23,6 +23,7 @@ Related:
 - /terms/nbk
 - /terms/nbku
 - /terms/newtonpkg
+- /terms/ntkc
 - /terms/nwt
 - /terms/pkg
 - /terms/rsrc
