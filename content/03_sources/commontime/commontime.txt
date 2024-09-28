@@ -1,0 +1,17 @@
+Title: CommonTime
+
+----
+
+Date: 27 September 2024
+
+----
+
+Text:
+
+A UK-based company founded in 1993 that developed software to enhance mobile communication and information management. They are arguably best known for their suite of (link: /terms/cadenza text: Cadenza) products which allowed Newton, Palm, and Windows CE devices to interact with Lotus Notes and Lotus Domino.
+
+----
+
+Resource:
+
+- [CommonTime Website](https://web.archive.org/web/20020802221701/https://www.commontime.com/)
