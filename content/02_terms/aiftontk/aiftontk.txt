@@ -8,7 +8,7 @@ Date: 26 September 2024
 
 Text:
 
-A (link: /terms/macintosh-programmers-workshop text: Macintosh Programmers Workshop) tool included with the (link: /terms/newton-c-tools text: Newton C++ Tools) development environment that converts an ARM Image Format ((link: /terms/aif text: AIF)) file into a (link: /terms/streamed frame file text: streamed frame file) for use with (link: /terms/newton-toolkit text: Newton Toolkit).
+A (link: /terms/macintosh-programmers-workshop text: Macintosh Programmers Workshop) tool included with the (link: /terms/newton-c-tools text: Newton C++ Tools) development environment that converts an (link: /terms/aif text: AIF) (ARM Image Format) file into a (link: /terms/streamed frame file text: streamed frame file) for use with (link: /terms/newton-toolkit text: Newton Toolkit).
 
 Files created using the AIFtoNTK tool are generally identified by the (link: /terms/ntkc text: .ntkc) filename extension.
 
@@ -24,7 +24,7 @@ Resource:
 
 Related:
 
-- /terms/aiftontk
+- /terms/aif
 - /terms/arm
 - /terms/macintosh-programmers-workshop
 - /terms/newton-c-tools

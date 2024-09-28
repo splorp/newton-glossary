@@ -8,7 +8,7 @@ Date: 26 September 2024
 
 Text:
 
-First published by [Apple](https://www.apple.com/) in 1996, this is the definitive reference that describes the software tools used to create and prepare C++ code for inclusion in (link: /terms/newtonscript text: NewtonScript) programs.
+First published by [Apple](https://www.apple.com/) in 1996 along with the _Newton C++ Tools Programmer’s Reference_, this book describes the software tools used to create and prepare C++ code for inclusion in (link: /terms/newtonscript text: NewtonScript) programs.
 
 ----
 

@@ -18,7 +18,7 @@ Resource:
 
 - [Defying Graffiti: The Making of GNUton](https://gnuton.sourceforge.net/)
 - [SourceForge: GNUton](https://sourceforge.net/projects/gnuton/)
-- [GNUton Website](http://web.archive.org/web/20001029172830/http://www.gnuton.com/)
+- [GNUton Website](https://web.archive.org/web/20001029172830/http://www.gnuton.com/)
 
 ----
 
