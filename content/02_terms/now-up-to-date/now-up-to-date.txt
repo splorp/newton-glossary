@@ -18,6 +18,7 @@ Related:
 
 - /terms/date-book
 - /terms/name-file
+- /terms/cadenza
 - /terms/newtourage
 - /terms/nud
 - /terms/personal-information-manager

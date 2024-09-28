@@ -1,0 +1,41 @@
+Title: Cadenza Connect
+
+----
+
+Date: 27 September 2024
+
+----
+
+Text:
+
+An (link: /terms/application text: application) that could be installed on Newton device as part of the (link: /terms/cadenza text: Cadenza) software suite. Cadenza Connect allowed users to (link: /terms/synchronize text: synchronize) contacts from the (link: /terms/name-file text: Name File), (link: /terms/to-do-list text: to do list) tasks, and (link: /terms/date-book text: Date Book) items with Lotus Notes.
+
+----
+
+Resource:
+
+- [UNNA: Cadenza 1.61](http://www.unna.org/view.php?/applications/Cadenza)
+- [UNNA: Cadenza for the Newton 1.6 User Guide](http://www.unna.org/unna/applications/Cadenza/cadenzaUG.pdf)
+
+----
+
+Related:
+
+- /terms/cadenza
+- /terms/newton-connection
+- /terms/newton-connection-kit
+- /terms/newton-connection-pro-kit
+- /terms/newton-connection-utilities
+- /terms/newtourage
+- /terms/newtsync
+- /terms/notes2notes
+- /terms/now-up-to-date
+- /terms/nwt
+- /terms/personal-information-manager
+- /terms/synchronize
+
+----
+
+Source:
+
+- /sources/commontime

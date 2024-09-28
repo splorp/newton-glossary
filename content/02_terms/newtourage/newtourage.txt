@@ -21,6 +21,7 @@ Resource:
 
 Related:
 
+- /terms/cadenza
 - /terms/name-file
 - /terms/now-up-to-date
 - /terms/personal-information-manager
