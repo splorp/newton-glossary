@@ -28,6 +28,7 @@ Related:
 - /terms/newton-data-browser
 - /terms/newton-package-installer
 - /terms/newton-press
+- /terms/nwt
 - /terms/pdil
 - /terms/synchronize
 - /terms/tcp-ip

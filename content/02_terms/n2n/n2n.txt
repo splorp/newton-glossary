@@ -24,7 +24,6 @@ Related:
 - /terms/n2c
 - /terms/n2m
 - /terms/n2p
-- /terms/notepad
 - /terms/notes2notes
 - /terms/p2n
 - /terms/synchronize

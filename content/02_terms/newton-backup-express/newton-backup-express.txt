@@ -16,7 +16,6 @@ Also known variously as (link: /terms/nbe text: NBE), (link: /terms/nbx text: NB
 
 Related:
 
-- /terms/amiganpi
 - /terms/backup
 - /terms/backup-file
 - /terms/nbe
@@ -31,4 +30,3 @@ Related:
 - /terms/newton-package-installer
 - /terms/package-installer
 - /terms/restore
-- /terms/unixnpi

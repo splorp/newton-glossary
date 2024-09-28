@@ -28,7 +28,8 @@ Related:
 - /terms/newton-connection-pro-kit
 - /terms/newton-connection-utilities
 - /terms/newtourage
-- /terms/nsync
+- /terms/notes2notes
 - /terms/now-up-to-date
-- /terms/sync
-- /terms/synchronization
+- /terms/nsync
+- /terms/nwt
+- /terms/synchronize

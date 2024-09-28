@@ -23,6 +23,13 @@ Related:
 
 - /terms/cadenza
 - /terms/name-file
+- /terms/newton-connection
+- /terms/newton-connection-kit
+- /terms/newton-connection-pro-kit
+- /terms/newton-connection-utilities
+- /terms/newtsync
+- /terms/notes2notes
 - /terms/now-up-to-date
+- /terms/nwt
 - /terms/personal-information-manager
 - /terms/synchronize

@@ -22,9 +22,10 @@ Related:
 - /terms/card
 - /terms/dateman
 - /terms/moreinfo
-- /terms/names
 - /terms/name-card
+- /terms/names
 - /terms/newtourage
+- /terms/newtsync
 - /terms/people-picker
 - /terms/personal-information-manager
 - /terms/vcard

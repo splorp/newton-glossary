@@ -16,10 +16,10 @@ Also referred to as (link: /terms/nud text: NUD).
 
 Related:
 
-- /terms/date-book
-- /terms/name-file
 - /terms/cadenza
 - /terms/newtourage
+- /terms/notes2notes
 - /terms/nud
+- /terms/nwt
 - /terms/personal-information-manager
 - /terms/synchronize

@@ -30,7 +30,6 @@ Resource:
 
 Related:
 
-- /terms/amiganpi
 - /terms/nck
 - /terms/newten
 - /terms/newton-backup-express
@@ -39,10 +38,9 @@ Related:
 - /terms/newton-connection-pro-kit
 - /terms/newton-connection-utilities
 - /terms/newton-package-installer
+- /terms/nwt
 - /terms/package-installer
 - /terms/synchronize
-- /terms/unixnpi
-- /terms/workfile
 
 ----
 

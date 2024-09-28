@@ -18,7 +18,6 @@ Also referred to as (link: /terms/ncu text: NCU).
 
 Related:
 
-- /terms/amiganpi
 - /terms/gyro
 - /terms/nbk
 - /terms/ncu
@@ -29,9 +28,9 @@ Related:
 - /terms/newton-connection-kit
 - /terms/newton-connection-pro-kit
 - /terms/newton-package-installer
+- /terms/nwt
 - /terms/package-installer
 - /terms/synchronize
-- /terms/unixnpi
 
 ----
 
