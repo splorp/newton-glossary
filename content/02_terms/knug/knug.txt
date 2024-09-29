@@ -41,6 +41,8 @@ Related:
 - /terms/nug-central
 - /terms/nugom
 - /terms/oznug
+- /terms/random
+- /terms/sane
 - /terms/snag
 - /terms/snug
 - /terms/sonug
@@ -48,6 +50,7 @@ Related:
 - /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
+- /terms/uknug
 
 ----
 

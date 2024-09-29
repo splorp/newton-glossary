@@ -38,6 +38,9 @@ Related:
 - /terms/ngfun
 - /terms/ngn
 - /terms/nose
+- /terms/nug-central
+- /terms/nugom
+- /terms/oznug
 - /terms/random
 - /terms/sane
 - /terms/snag
@@ -47,6 +50,7 @@ Related:
 - /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
+- /terms/uknug
 
 ----
 

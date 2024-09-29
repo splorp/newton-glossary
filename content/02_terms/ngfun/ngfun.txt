@@ -25,6 +25,9 @@ Related:
 - /terms/anug
 - /terms/dang
 - /terms/dnug
+- /terms/fnewton
+- /terms/gfun
+- /terms/gnut
 - /terms/hknug
 - /terms/inug
 - /terms/knug
@@ -49,6 +52,7 @@ Related:
 - /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
+- /terms/uknug
 
 ----
 

@@ -1,22 +1,24 @@
-Title: NUGOM
+Title: UKNUG
 
 ----
 
-Date: 24 August 2016
+Date: 29 September 2024
 
 ----
 
 Text:
 
-Newton User Group of Manitoba
+UK Newton Users’ Group
 
-A Canadian user group founded by Tom Keep and [Brock Gunter-Smith](https://twitter.com/brockgs) and affiliated with the [Macinations Macintosh Users Group](https://web.archive.org/web/19991010022528/http://www.escape.ca/~infom/) in Winnipeg.
+A user group based in London organized by Bob Barkany sometime in 2001.
+
+Occasionally referred to as the London UK Newton Users’ Group or (link: /terms/luknug text: LUKNUG).
 
 ----
 
 Resource:
 
-- [NUGOM Website](https://web.archive.org/web/19990117064110/http://www.escape.ca/~infom/nugom.html)
+- [Gleb Dolgich: UKNUG Gallery](http://www.proggle.com/gallery/uknug/)
 
 ----
 
@@ -32,6 +34,7 @@ Related:
 - /terms/inug
 - /terms/knug
 - /terms/lanug
+- /terms/luknug
 - /terms/misnic
 - /terms/mpadclub
 - /terms/msnug
@@ -42,6 +45,7 @@ Related:
 - /terms/ngn
 - /terms/nose
 - /terms/nug-central
+- /terms/nugom
 - /terms/oznug
 - /terms/random
 - /terms/sane
@@ -52,10 +56,9 @@ Related:
 - /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
-- /terms/uknug
 
 ----
 
 Source:
 
-- /sources/newton-faq
+- /sources/rich-lindsay

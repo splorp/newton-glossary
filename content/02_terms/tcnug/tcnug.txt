@@ -26,6 +26,8 @@ Related:
 - /terms/inug
 - /terms/knug
 - /terms/lanug
+- /terms/misnic
+- /terms/mpadclub
 - /terms/msnug
 - /terms/nanug
 - /terms/nenug
@@ -33,6 +35,9 @@ Related:
 - /terms/ngfun
 - /terms/ngn
 - /terms/nose
+- /terms/nug-central
+- /terms/nugom
+- /terms/oznug
 - /terms/random
 - /terms/sane
 - /terms/snag
@@ -41,6 +46,7 @@ Related:
 - /terms/special-interest-group
 - /terms/tuna
 - /terms/tvnug
+- /terms/uknug
 
 ----
 

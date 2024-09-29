@@ -25,6 +25,9 @@ Related:
 - /terms/anug
 - /terms/dang
 - /terms/dnug
+- /terms/fnewton
+- /terms/gfun
+- /terms/gnut
 - /terms/hknug
 - /terms/inug
 - /terms/knug
@@ -35,12 +38,12 @@ Related:
 - /terms/nanug
 - /terms/nenug
 - /terms/newton-user-group
+- /terms/ngfun
 - /terms/ngn
 - /terms/nose
 - /terms/nug-central
 - /terms/nugom
 - /terms/oznug
-- /terms/random
 - /terms/sane
 - /terms/snag
 - /terms/snug
@@ -49,6 +52,7 @@ Related:
 - /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
+- /terms/uknug
 
 ----
 

@@ -52,6 +52,7 @@ Related:
 - /terms/special-interest-group
 - /terms/tcnug
 - /terms/tuna
+- /terms/uknug
 
 ----
 
