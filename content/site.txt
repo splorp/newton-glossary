@@ -94,6 +94,10 @@ Redirects:
   touri: /terms/mmu
   code: _301
 - 
+  fromuri: /terms/mont-blanc
+  touri: /terms/montblanc
+  code: _301
+- 
   fromuri: /terms/nickel-cadmium
   touri: /terms/nicd
   code: _301

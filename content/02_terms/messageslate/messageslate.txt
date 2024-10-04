@@ -19,7 +19,7 @@ Related:
 - /terms/bic
 - /terms/cadillac
 - /terms/figaro
-- /terms/mont-blanc
+- /terms/montblanc
 - /terms/newton-plus
 - /terms/senior
 - /terms/tablet-computer

@@ -25,7 +25,7 @@ Related:
 - /terms/bic
 - /terms/cadillac
 - /terms/messageslate
-- /terms/mont-blanc
+- /terms/montblanc
 - /terms/newton-plus
 - /terms/senior
 

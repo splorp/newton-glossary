@@ -25,7 +25,7 @@ Related:
 - /terms/junior
 - /terms/messagepad
 - /terms/messageslate
-- /terms/mont-blanc
+- /terms/montblanc
 - /terms/newton-plus
 - /terms/smirkers
 
