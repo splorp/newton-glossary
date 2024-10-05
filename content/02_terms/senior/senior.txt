@@ -14,6 +14,13 @@ Also referred to as the (link: /terms/a4-newton text: A4 Newton) or (link: /term
 
 ----
 
+Resource:
+
+- [MacUser: A4 Newton For Sale, One Careful Owner](https://archive.org/details/eu_Macuser-1994-08-UK_OCR/page/n27/mode/2up?q=newton)
+- [System Folder: News Reprinted: Apple Seeks Home for its A4-Sized Newton](https://systemfolder.wordpress.com/2019/02/27/news-reprinted-a4-newton/)
+
+----
+
 Related:
 
 - /terms/a4-newton
@@ -37,4 +44,6 @@ Related:
 
 Source:
 
+- /sources/appledesign
 - /sources/defying-gravity
+- /sources/macuser-uk
