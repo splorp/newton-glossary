@@ -92,7 +92,6 @@ return [
 			}
 		],
 	],
-	'bnomei.redirects.cache' => false,
 	'splorp.paperback-export.prefix' => '@@TOC ',
 	'splorp.paperback-export.fields' => ['source' => 'related'],
 	'splorp.paperback-export.includeUnlisted' => true,
