@@ -32,7 +32,6 @@ Related:
 - /terms/cadillac
 - /terms/messageslate
 - /terms/montblanc
-- /terms/newton-plus
 - /terms/senior
 
 ----

@@ -30,7 +30,6 @@ Related:
 - /terms/figaro
 - /terms/messageslate
 - /terms/montblanc
-- /terms/newton-plus
 - /terms/senior
 
 ----
