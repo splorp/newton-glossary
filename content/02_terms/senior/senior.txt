@@ -10,10 +10,14 @@ Text:
 
 The code name of the larger, unreleased (link: /terms/messagepad text: MessagePad) device also known as the (link: /terms/newton-plus text: Newton Plus). The debugger (link: /terms/rom text: ROM) for the (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices was referred to as the “Senior Cirrus Debug”, perpetuating the theory that the Newton Plus actually existed and ended up being developed as the MessagePad 2000.
 
+Also referred to as the (link: /terms/a4-newton text: A4 Newton) or (link: /terms/a4-slate text: A4 Slate) due to its dimensions being similar to a standard sheet of paper.
+
 ----
 
 Related:
 
+- /terms/a4-newton
+- /terms/a4-slate
 - /terms/batman
 - /terms/bunwarmer
 - /terms/cadillac
