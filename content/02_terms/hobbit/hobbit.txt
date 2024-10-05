@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-A code name of the processor chip developed by AT&T, originally targeted to be used for the Newton platform. The Hobbit chip was replaced by the (link: /terms/risc text: RISC) chip developed by (link: /terms/arm text: ARM).
+A code name of the processor chip developed by AT&T, originally targeted to be used for the Newton platform, specifically in the device known as (link: /terms/figaro text: Figaro). The Hobbit chip was replaced by the (link: /terms/risc text: RISC) chip developed by (link: /terms/arm text: ARM).
 
 AT&T went on to use the Hobbit processor in its own pen-based computer, the EO.
 
@@ -23,6 +23,7 @@ Resource:
 Related:
 
 - /terms/cpu
+- /terms/figaro
 
 ----
 

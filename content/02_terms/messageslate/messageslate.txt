@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A prototype Newton device featuring a larger, (link: /terms/tablet text: tablet) style (link: /terms/screen text: screen).
+The product name printed on the prototype tablet-style (link: /terms/bic text: Bic) device featuring a larger, (link: /terms/tablet text: tablet) style (link: /terms/screen text: screen).
 
 ----
 

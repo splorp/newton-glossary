@@ -8,13 +8,19 @@ Date: 25 September 2001
 
 Text:
 
-A speculative, pen-based tablet computer concept that kicked off the original Newton project. Figaro featured a hard drive, an active matrix (link: /terms/lcd text: LCD) display, and (link: /terms/infrared text: infrared) networking. The form factor would eventually evolve into the (link: /terms/newton-plus text: Newton Plus) device.
+The code name for the first speculative, pen-based (link: /terms/tablet-computer text: tablet computer) conceived by [Apple](https://www.apple.com/). The device was planned to utilize three (link: /terms/hobbit text: Hobbit) processors, a hard drive, an active matrix (link: /terms/lcd text: LCD) display, and (link: /terms/infrared text: infrared) networking.
+
+Figaro went through two design concept stages, settling on a design which was code named (link: /terms/mont-blanc text: Mont Blanc). A working hardware prototype based on the Mont Blanc design was code named (link: /terms/cadillac text: Cadillac).
+
+When the Figaro project eventually transitioned into what would become the Newton project, it was split into three sizes of device: the tablet-sized (link: /terms/newton-plus text: Newton Plus), a mid-sized device simply known as Newton, and the smaller (link: /terms/pocket-newton text: Pocket Newton).
 
 ----
 
 Resource:
 
 - [Low End Mac: The Story Behind Apple’s Newton](https://lowendmac.com/2013/the-story-behind-apples-newton/)
+- [MacUser: A4 Newton For Sale, One Careful Owner](https://archive.org/details/eu_Macuser-1994-08-UK_OCR/page/n27/mode/2up?q=newton)
+- [System Folder: News Reprinted: Apple Seeks Home for its A4-Sized Newton](https://systemfolder.wordpress.com/2019/02/27/news-reprinted-a4-newton/)
 
 ----
 
@@ -34,3 +40,5 @@ Related:
 Source:
 
 - /sources/appledesign
+- /sources/low-end-mac
+- /sources/macuser-uk

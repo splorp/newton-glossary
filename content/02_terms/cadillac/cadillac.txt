@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The code name of the first tablet-style Newton prototype, originally designed in 1992. The Cadillac used a wired (link: /terms/stylus text: stylus) that could be connected on either the left or right side of the device.
+The code name of the first tablet-style Newton hardware prototype, originally designed in 1992. The Cadillac used a wired (link: /terms/stylus text: stylus) that could be connected on either the left or right side of the device.
 
 ----
 
