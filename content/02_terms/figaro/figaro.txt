@@ -19,8 +19,6 @@ When the Figaro project eventually transitioned into what would become the Newto
 Resource:
 
 - [Low End Mac: The Story Behind Apple’s Newton](https://lowendmac.com/2013/the-story-behind-apples-newton/)
-- [MacUser: A4 Newton For Sale, One Careful Owner](https://archive.org/details/eu_Macuser-1994-08-UK_OCR/page/n27/mode/2up?q=newton)
-- [System Folder: News Reprinted: Apple Seeks Home for its A4-Sized Newton](https://systemfolder.wordpress.com/2019/02/27/news-reprinted-a4-newton/)
 
 ----
 
@@ -40,4 +38,3 @@ Source:
 
 - /sources/appledesign
 - /sources/low-end-mac
-- /sources/macuser-uk
