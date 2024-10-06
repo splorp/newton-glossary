@@ -25,7 +25,8 @@ Sources: _$s
 
 #### Summary of changes:
 
-+ 
++ Updated [Kirby](https://getkirby.com/) to version [4.4.1](https://github.com/getkirby/kirby/releases/tag/4.4.1)
+
 
 ### 4.3.0
 
