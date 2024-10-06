@@ -20,7 +20,7 @@ Recently added terms and sources can be found on the (link: /latest text: latest
 
 ### 4.3.0
 
-21 September 2024
+06 October 2024
 
 Terms: 1,552
 Sources: 177
