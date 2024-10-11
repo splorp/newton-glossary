@@ -1,0 +1,20 @@
+Title: Couch Fire
+
+----
+
+Date: 10 October 2024
+
+----
+
+Text:
+
+An (link: /terms/application text: application) developed by [Tempest Productions](https://web.archive.org/web/19981203163832/http://tempestprod.com/) that allowed users to view television listings and program details directly on their Newton device.
+
+(image: /assets/images/couch-fire-2x.gif alt: Screenshot of Couch Fire width: 322)
+
+----
+
+Resource:
+
+- [The Gadgeteer: Couch Fire Review](https://the-gadgeteer.com/1998/08/14/couch_fire_review/)
+- [Tempest Productions: Couch Fire Product Information](https://web.archive.org/web/19981203163832/http://tempestprod.com/couchFire.html)
