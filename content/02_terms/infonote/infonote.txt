@@ -10,7 +10,7 @@ Text:
 
 A French-language electronic newsletter published by the (link: /terms/mpadclub text: MPadClub) user group in Lyon, France.
 
-InfoNote is also a software (link: /terms/package text: package) developed by Pierre Vettier which provided a simple means to connect to the MPadClub server via (link: /terms/modem text: modem) and automatically download the latest news to a (link: /terms/newton-os text: Newton OS) device.
+InfoNote is also a software (link: /terms/package text: package) developed by Pierre Vettier which provided a simple means to connect to the MPadClub server via (link: /terms/modem text: modem) and automatically download the latest news to a Newton device.
 
 ----
 

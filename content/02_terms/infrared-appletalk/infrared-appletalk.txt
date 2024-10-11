@@ -10,7 +10,7 @@ Text:
 
 Providing (link: /terms/appletalk text: AppleTalk) networking to devices over an (link: /terms/infrared text: infrared) connection.
 
-For example, Phototonics Corporation developed a product called Cooperative that consisted of a hardware (link: /terms/transceiver text: transceiver) which provided (link: /terms/diffuse-infrared text: diffuse infrared) AppleTalk connections between Mac OS computers, (link: /terms/newton-os text: Newton OS) devices, and other peripherals.
+For example, Phototonics Corporation developed a product called Cooperative that consisted of a hardware (link: /terms/transceiver text: transceiver) which provided (link: /terms/diffuse-infrared text: diffuse infrared) AppleTalk connections between Mac OS computers, Newton devices, and other peripherals.
 
 ----
 

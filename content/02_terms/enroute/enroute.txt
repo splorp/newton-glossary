@@ -8,7 +8,7 @@ Date: 30 October 2001
 
 Text:
 
-An integrated internet email package developed by [Netstrategy Software](https://web.archive.org/web/19971016194456/http://www.netstrat.com/) and bundled with (link: /terms/newton-os text: Newton OS) devices. Along with its main (link: /terms/enroute-inet text: EnRoute i-net) package, Netstrategy also developed Newton clients for specific third-party email systems such as EnRoute QM for CE Software’s [QuickMail](https://web.archive.org/web/19980415072252/http://www.cesoft.com/products.html) and EnRoute cc:Mail for Lotus Development’s [cc:Mail](https://en.wikipedia.org/wiki/Cc:Mail).
+An integrated internet email package developed by [Netstrategy Software](https://web.archive.org/web/19971016194456/http://www.netstrat.com/) and bundled with Newton devices. Along with its main (link: /terms/enroute-inet text: EnRoute i-net) package, Netstrategy also developed Newton clients for specific third-party email systems such as EnRoute QM for CE Software’s [QuickMail](https://web.archive.org/web/19980415072252/http://www.cesoft.com/products.html) and EnRoute cc:Mail for Lotus Development’s [cc:Mail](https://en.wikipedia.org/wiki/Cc:Mail).
 
 ----
 

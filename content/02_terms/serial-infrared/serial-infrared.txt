@@ -8,7 +8,7 @@ Date: 04 December 2017
 
 Text:
 
-Transferring data between devices over an (link: /terms/infrared text: infrared) connection. (link: /terms/newton-os text: Newton OS) devices implement both (link: /terms/irda text: IrDA) and (link: /terms/ask text: ASK) serial infrared protocols.
+Transferring data between devices over an (link: /terms/infrared text: infrared) connection. Newton devices implement both (link: /terms/irda text: IrDA) and (link: /terms/ask text: ASK) serial infrared protocols.
 
 Also referred to as (link: /terms/sir text: SIR).
 

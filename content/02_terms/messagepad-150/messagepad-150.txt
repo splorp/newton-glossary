@@ -10,7 +10,7 @@ Text:
 
 A rumoured successor to the (link: /terms/messagepad-120 text: MessagePad 120), reportly smaller than existing Newton devices and including an optional (link: /terms/backlit text: backlit) display.
 
-The (link: /sources/mackido text: Mackido) website lists the code name for the MessagePad 150 as (link: /terms/q text: Q). This confusion is likely due to the fact that the code names for the next two (link: /terms/newton-os text: Newton OS) devices released by Apple were very similar. The code name for the (link: /terms/messagepad-130 text: MessagePad 130) was (link: /terms/quark text: Quark) and the code name for the (link: /terms/messagepad-2000 text: MessagePad 2000) was Q.
+The (link: /sources/mackido text: Mackido) website lists the code name for the MessagePad 150 as (link: /terms/q text: Q). This confusion is likely due to the fact that the code names for the next two Newton devices released by Apple were very similar. The code name for the (link: /terms/messagepad-130 text: MessagePad 130) was (link: /terms/quark text: Quark) and the code name for the (link: /terms/messagepad-2000 text: MessagePad 2000) was Q.
 
 Also referred to as the (link: /terms/newton-150 text: Newton 150) in (link: /sources/the-new-york-times text: The New York Times).
 

@@ -12,7 +12,7 @@ A method of wireless communication where a hardware transmitter floods an area w
 
 Because the infrared signal is scattered, computers and other devices with infrared receivers do not require a direct line of sight with the transmitter. Similarly, a person moving around in the same area will not interfere with the signal. Since most of the infrared light transmitted never actually reaches a receiver, diffuse infrared is not known for its power efficiency.
 
-Phototonics Corporation developed a product called Cooperative that consisted of hardware a (link: /terms/transceiver text: transceiver) which provided diffuse (link: /terms/infrared-appletalk text: infrared AppleTalk) connections between Mac OS computers, (link: /terms/newton-os text: Newton OS) devices, and other peripherals.
+Phototonics Corporation developed a product called Cooperative that consisted of hardware a (link: /terms/transceiver text: transceiver) which provided diffuse (link: /terms/infrared-appletalk text: infrared AppleTalk) connections between Mac OS computers, Newton devices, and other peripherals.
 
 Also referred to as (link: /terms/diffuse-ir text: Diffuse IR).
 

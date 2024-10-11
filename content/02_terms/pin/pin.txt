@@ -12,7 +12,7 @@ Personal Identification Number
 
 A unique series of numerals that allows secure access to a system or device.
 
-To prevent unauthorized people from using a (link: /terms/newton-os text: Newton OS) device, you can set a (link: /terms/password text: password) in the form of a PIN using the (link: /terms/prefs text: Prefs) application.
+To prevent unauthorized people from using a Newton device, you can set a (link: /terms/password text: password) in the form of a PIN using the (link: /terms/prefs text: Prefs) application.
 
 Also referred to as a (link: /terms/system-password text: System Password) in the (link: /terms/owner-info text: Owner Info) preferences (link: /terms/slip text: slip).
 

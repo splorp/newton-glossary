@@ -10,7 +10,7 @@ Text:
 
 A French-language Newton user group based in Lyon, France.
 
-MPadClub published an electronic newsletter called (link: /terms/infonote text: InfoNote) which could be downloaded directly to a (link: /terms/newton-os text: Newton OS) device using their own software (link: /terms/package text: package).
+MPadClub published an electronic newsletter called (link: /terms/infonote text: InfoNote) which could be downloaded directly to a Newton device using their own software (link: /terms/package text: package).
 
 ----
 

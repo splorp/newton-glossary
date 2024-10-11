@@ -8,8 +8,8 @@ Date: 24 May 2001
 
 Text:
 
-The cursive (link: /terms/handwriting-recognition text: handwriting recognition) system developed by (link: /sources/paragraph text: ParaGraph International) and found in all Newton devices except the (link: /terms/emate-300 text: eMate 300). CalliGrapher was also used as the (link: /terms/print-recognizer text: print recognizer) in early (link: /terms/newton-os text: Newton OS) devices such as the (link: /terms/messagepad-100 text: MessagePad 100).
-
+The cursive (link: /terms/handwriting-recognition text: handwriting recognition) system developed by (link: /sources/paragraph text: ParaGraph International) and found in all Newton devices except the (link: /terms/emate-300 text: eMate 300). CalliGrapher was also used as the (link: /terms/print-recognizer text: print recognizer) in early Newton devices such as the (link: /terms/messagepad-100 text: MessagePad 100).
+Newton device
 ----
 
 Resource:
