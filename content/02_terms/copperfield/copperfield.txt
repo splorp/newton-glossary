@@ -8,7 +8,9 @@ Date: 12 June 2001
 
 Text:
 
-The internal system code name of the (link: /terms/book-reader text: book reader) application built into the (link: /terms/newton-os text: Newton OS).
+The internal system name of the (link: /terms/book-reader text: book reader) application built into the (link: /terms/newton-os text: Newton OS).
+
+In (link: /terms/newtonscript text: NewtonScript), `copperfield` is also the (link: /terms/parent text: parent) reference of all (link: /terms/newton-book text: Newton books) on a Newton device.
 
 ----
 
