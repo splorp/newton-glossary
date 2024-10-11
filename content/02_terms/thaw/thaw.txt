@@ -24,6 +24,7 @@ Related:
 - /terms/heap
 - /terms/heap-space
 - /terms/package
+- /terms/package-file
 - /terms/snowflake
 - /terms/thawed
 - /terms/thawed-package

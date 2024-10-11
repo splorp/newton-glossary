@@ -19,8 +19,10 @@ Related:
 - /terms/application-signature
 - /terms/backdrop
 - /terms/corrupt-package
+- /terms/frozen-package
 - /terms/package
 - /terms/package-file
+- /terms/thawed-package
 
 ----
 

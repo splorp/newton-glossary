@@ -17,11 +17,13 @@ Related:
 - /terms/application
 - /terms/corrupt-package
 - /terms/extension
+- /terms/frozen-package
 - /terms/newtonpkg
 - /terms/package
 - /terms/package-installer
 - /terms/packagebuddy
 - /terms/pkg
+- /terms/thawed-package
 
 ----
 

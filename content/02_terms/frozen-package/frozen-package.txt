@@ -19,6 +19,7 @@ Related:
 - /terms/freezing
 - /terms/frozen
 - /terms/package
+- /terms/package-file
 - /terms/snowflake
 - /terms/thaw
 - /terms/thawed

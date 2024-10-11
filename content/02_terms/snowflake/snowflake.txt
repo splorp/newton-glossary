@@ -20,6 +20,7 @@ Related:
 - /terms/frozen
 - /terms/frozen-package
 - /terms/package
+- /terms/package-file
 
 ----
 

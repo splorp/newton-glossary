@@ -18,7 +18,10 @@ Related:
 
 - /terms/corrupt-package
 - /terms/filename-extension
+- /terms/frozen-package
 - /terms/package
+- /terms/package-file
 - /terms/patch
 - /terms/system-patch
 - /terms/system-update
+- /terms/thawed-package
