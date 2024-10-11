@@ -12,7 +12,7 @@ Card Information Structure
 
 Information stored on a (link: /terms/pcmcia text: PCMCIA) card that describes the formatting and organization of the data on the (link: /terms/card text: card). This can include the type of card, the supported power requirements and power saving capabilities, as well as the manufacturer and model number of the card.
 
-When a (link: /terms/pc-card text: PC card) is unrecognized by a device, it is often due to the CIS information being missing or damaged.
+When a (link: /terms/pc-card text: PC card) is unrecognized by a device, it is often due to the CIS information being missing or corrupted.
 
 ----
 
