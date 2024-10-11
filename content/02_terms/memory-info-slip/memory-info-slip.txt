@@ -28,4 +28,4 @@ Related:
 
 Source:
 
-- /sources/paul-guyot
+- /sources/messagepad-2000-user-manual

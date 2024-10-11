@@ -27,4 +27,3 @@ Related:
 Source:
 
 - /sources/n2-overview
-- /sources/paul-guyot

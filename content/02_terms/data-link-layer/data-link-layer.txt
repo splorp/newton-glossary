@@ -25,4 +25,3 @@ Related:
 Source:
 
 - /sources/lantern
-- /sources/paul-guyot
