@@ -6,8 +6,12 @@ $open  = $pages->findOpen();
 $items = ($open) ? $open->children() : false;
 
 // Sort child pages by title, then group alphabetically
+// The integer parameter used in the sortBy() function specifies the sort method:
+// 0 = SORT_REGULAR
+// 1 = SORT_NUMERIC
+// 2 = SORT_STRING
 
-$alphabetise = $page->children()->sortBy('title', 'asc')->group(fn ($item) => str::upper($item->title()->value()[0]));
+$alphabetise = $page->children()->sortBy('title', 'asc', 2)->group(fn ($item) => str::upper($item->title()->value()[0]));
 
 // Create alphabetical list of pages, with subheadings
 
