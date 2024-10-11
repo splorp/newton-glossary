@@ -20,6 +20,7 @@ Related:
 - /terms/document-command
 - /terms/dot-commands
 - /terms/help-book
+- /terms/kiosk
 - /terms/layout-command
 - /terms/newton-book
 - /terms/newton-book-maker

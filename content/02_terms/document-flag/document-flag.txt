@@ -19,6 +19,7 @@ Related:
 - /terms/document-command
 - /terms/flag
 - /terms/help-book
+- /terms/kiosk
 - /terms/layout-flag
 - /terms/newton-book
 - /terms/newton-book-maker

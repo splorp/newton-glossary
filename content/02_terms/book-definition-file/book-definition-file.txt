@@ -18,6 +18,7 @@ Related:
 - /terms/book-source-file
 - /terms/help-book
 - /terms/help-browser
+- /terms/kiosk
 - /terms/newton-book
 - /terms/newton-book-maker
 - /terms/newton-book-reader

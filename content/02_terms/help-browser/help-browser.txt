@@ -16,8 +16,10 @@ The Help browser can be accessed by (link: /terms/tapping text: tapping) the “
 
 Related:
 
+- /terms/copperfield
 - /terms/help-book
 - /terms/how-do-i
+- /terms/kiosk
 - /terms/newton-book
 - /terms/newton-book-maker
 - /terms/newton-book-reader

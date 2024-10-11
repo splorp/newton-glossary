@@ -21,6 +21,7 @@ Related:
 - /terms/document-command
 - /terms/dot-commands
 - /terms/help-book
+- /terms/kiosk
 - /terms/layout
 - /terms/newton-book
 - /terms/newton-book-maker

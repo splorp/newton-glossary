@@ -14,8 +14,10 @@ The electronic document produced by (link: /terms/newton-book-maker text: Newton
 
 Related:
 
+- /terms/copperfield
 - /terms/help-browser
 - /terms/how-do-i
+- /terms/kiosk
 - /terms/newton-book
 - /terms/newton-book-maker
 - /terms/newton-book-reader

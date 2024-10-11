@@ -10,7 +10,7 @@ Text:
 
 An (link: /terms/application text: application) built into the (link: /terms/newton-os text: Newton OS) as a system-wide service, facilitating the display and navigation of interactive, digital (link: /terms/newton-book text: books).
 
-Also referred to as (link: /terms/nbr text: NBR).
+Also referred to as (link: /terms/book-reader text: Book Reader) and (link: /terms/nbr text: NBR).
 
 ----
 
@@ -19,6 +19,7 @@ Related:
 - /terms/book-reader
 - /terms/copperfield
 - /terms/help-book
+- /terms/kiosk
 - /terms/newton-book
 - /terms/newton-book-maker
 - /terms/newton-press

@@ -19,6 +19,7 @@ Related:
 - /terms/claris-xtnd
 - /terms/help-book
 - /terms/help-browser
+- /terms/kiosk
 - /terms/newton-book
 - /terms/newton-book-maker
 - /terms/newton-book-reader

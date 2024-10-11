@@ -14,13 +14,11 @@ A navigational page in a (link: /terms/newton-book text: Newton book). (link: /t
 
 Related:
 
-- /terms/book
-- /terms/book-reader
+- /terms/copperfield
 - /terms/help-book
 - /terms/help-browser
 - /terms/newton-book
 - /terms/newton-book-reader
-- /terms/newton-digital-book
 
 ----
 

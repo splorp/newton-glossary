@@ -17,6 +17,7 @@ Related:
 - /terms/book-script
 - /terms/content-script
 - /terms/event
+- /terms/kiosk
 - /terms/layout
 - /terms/newton-book
 - /terms/newton-book-maker

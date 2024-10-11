@@ -14,12 +14,13 @@ The internal system code name of the (link: /terms/book-reader text: book reader
 
 Related:
 
-- /terms/book
-- /terms/book-reader
 - /terms/help-book
 - /terms/help-browser
+- /terms/kiosk
+- /terms/newton-book
 - /terms/newton-book-reader
-- /terms/newton-digital-book
+- /terms/newtonscript
+- /terms/parent
 
 ----
 
