@@ -1,0 +1,28 @@
+Title: Corrupt Package
+
+----
+
+Date: 11 October 2024
+
+----
+
+Text:
+
+A (link: /terms/package-file text: package file) that has become damaged and can no longer be installed or removed from a Newton device. In the case of a corrupted (link: /terms/application text: application), attempting to launch the application by (link: /terms/tapped text: tapping) its (link: /terms/icon text: icon) will likely produce an (link: /terms/alert-box text: alert box), indicating that there is a problem with the package.
+
+----
+
+Related:
+
+- /terms/application
+- /terms/extension
+- /terms/frozen-package
+- /terms/package
+- /terms/package-file
+- /terms/thawed-package
+
+----
+
+Source:
+
+- /sources/newtontalk

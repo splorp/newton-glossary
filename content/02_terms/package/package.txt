@@ -15,6 +15,7 @@ The unit in which an (link: /terms/application text: application) or (link: /ter
 Related:
 
 - /terms/application
+- /terms/corrupt-package
 - /terms/extension
 - /terms/freeze
 - /terms/frozen-package

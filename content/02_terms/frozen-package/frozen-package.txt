@@ -14,6 +14,7 @@ A (link: /terms/package text: package) that has been suspended by (link: /terms/
 
 Related:
 
+- /terms/corrupt-package
 - /terms/freeze
 - /terms/freezing
 - /terms/frozen

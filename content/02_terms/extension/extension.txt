@@ -16,6 +16,7 @@ The (link: /terms/filename-extension text: filename extension) of a file is also
 
 Related:
 
+- /terms/corrupt-package
 - /terms/filename-extension
 - /terms/package
 - /terms/patch

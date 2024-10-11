@@ -18,6 +18,7 @@ Related:
 - /terms/application-card
 - /terms/application-signature
 - /terms/backdrop
+- /terms/corrupt-package
 - /terms/package
 - /terms/package-file
 
