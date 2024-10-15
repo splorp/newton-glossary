@@ -12,6 +12,8 @@ Transmission Control Protocol over Internet Protocol
 
 The standard routable data transmission (link: /terms/protocol text: protocol) for networking based on transport layer ((link: /terms/tcp text: TCP)) and network layer ((link: /terms/ip text: IP)) protocols.
 
+The (link: /terms/newton-internet-enabler text: Newton Internet Enabler) software provides TCP/IP based networking to Newton devices.
+
 ----
 
 Related:

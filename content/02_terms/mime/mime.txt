@@ -30,7 +30,7 @@ Related:
 - /terms/newtonmail
 - /terms/pop
 - /terms/simplemail
-- /terms/stmp
+- /terms/smtp
 
 ----
 
