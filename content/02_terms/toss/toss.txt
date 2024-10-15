@@ -16,6 +16,7 @@ Related:
 
 - /terms/newton-package-uploader
 - /terms/newtonpkg
+- /terms/newtterm
 - /terms/npu
 - /terms/package
 - /terms/package-file

@@ -21,6 +21,7 @@ Resource:
 Related:
 
 - /terms/newton-internet-enabler
+- /terms/newtterm
 - /terms/rs-232
 - /terms/toss
 - /terms/vt100

@@ -1,0 +1,17 @@
+Title: Stephen Pendleton
+
+----
+
+Date: 15 October 2024
+
+----
+
+Text:
+
+Stephen Pendleton was the proprietor of the now defunct Mov Software, specializing in communication software for mobile devices. Although primarily focused on the Windows CE platform, Pendleton also developed (link: /terms/newtterm text: NewtTerm) for (link: /terms/newton-os text: Newton OS).
+
+----
+
+Resource:
+
+- [Mov Software Website](https://web.archive.org/web/20060519192713/http://www.movsoftware.com/)

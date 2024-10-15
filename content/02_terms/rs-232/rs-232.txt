@@ -22,6 +22,7 @@ Related:
 - /terms/mini-din
 - /terms/modem
 - /terms/newton-interconnect
+- /terms/newtterm
 - /terms/pt100
 - /terms/rs-422
 - /terms/usb

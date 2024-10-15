@@ -30,6 +30,7 @@ Related:
 - /terms/dns
 - /terms/ip
 - /terms/nethopper
+- /terms/newtterm
 - /terms/nie
 - /terms/pocketweb
 - /terms/ppp

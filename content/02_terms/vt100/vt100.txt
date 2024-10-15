@@ -23,6 +23,7 @@ Resource:
 
 Related:
 
+- /terms/newtterm
 - /terms/pt100
 - /terms/rs-232
 - /terms/toss

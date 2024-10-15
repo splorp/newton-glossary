@@ -1,0 +1,35 @@
+Title: NewtTerm
+
+----
+
+Date: 15 October 2024
+
+----
+
+Text:
+
+A simple terminal (link: /terms/application text: application) developed by (link: /sources/stephen-pendleton text: Stephen Pendleton) specifically for use with a (link: /terms/messagepad-100 text: MessagePad 100) and a (link: /terms/modem text: modem). It can also provide connections using (link: /terms/ppp text: PPP) and (link: /terms/tcp-ip text: TCP/IP) on devices that support the (link: /terms/newton-internet-enabler text: Newton Internet Enabler).
+
+According to the author, NewtTerm “… doesn’t support (link: /terms/vt100 text: VT100) or anything fancy like that.”
+
+----
+
+Resource:
+
+- [Stephen Pendleton: NewtTerm Product Information](https://web.archive.org/web/20011030022614/http://www.geocities.com/ResearchTriangle/9987/)
+
+----
+
+Related:
+
+- /terms/newton-internet-enabler
+- /terms/pt100
+- /terms/rs-232
+- /terms/toss
+- /terms/vt100
+
+----
+
+Source:
+
+- /sources/stephen-pendleton
