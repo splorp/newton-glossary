@@ -19,12 +19,16 @@ Related:
 - /terms/enroute
 - /terms/eworld
 - /terms/hideeworld
+- /terms/imap
 - /terms/in-box
 - /terms/inout-box
 - /terms/mail-v
+- /terms/mime
 - /terms/out-box
+- /terms/pop
 - /terms/routing
 - /terms/simplemail
+- /terms/smtp
 - /terms/transport
 
 ----

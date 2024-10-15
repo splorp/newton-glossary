@@ -1,0 +1,39 @@
+Title: MIME
+
+----
+
+Date: 15 October 2024
+
+----
+
+Text:
+
+Multipurpose Internet Mail Extensions
+
+A standard for extending the type of content handled by email messages and web servers. MIME supports multiple types of character encoding, as well as non-text data including HTML, images, audio, and other attachments.
+
+----
+
+Resource:
+
+- [Wikipedia: MIME](https://en.wikipedia.org/wiki/MIME)
+
+----
+
+Related:
+
+- /terms/aloha
+- /terms/enroute
+- /terms/eworld
+- /terms/imap
+- /terms/mail-v
+- /terms/newtonmail
+- /terms/pop
+- /terms/simplemail
+- /terms/stmp
+
+----
+
+Source:
+
+- /sources/wikipedia

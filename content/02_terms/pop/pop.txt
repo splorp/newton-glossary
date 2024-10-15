@@ -1,0 +1,45 @@
+Title: POP
+
+----
+
+Date: 15 October 2024
+
+----
+
+Text:
+
+Post Office Protocol
+
+A standard protocol used to retrieve email messages from a mail server over a (link: /terms/tcp-ip text: TCP/IP) connection.
+
+(link: /terms/simplemail text: SimpleMail) is a (link: /terms/application text: application) that uses POP to access email on a Newton device.
+
+Also referred to as (link: /terms/pop3 text: POP3), the third and most current version of the standard.
+
+----
+
+Resource:
+
+- [Wikipedia: Post Office Protocol](https://en.wikipedia.org/wiki/Post_Office_Protocol)
+
+----
+
+Related:
+
+- /terms/aloha
+- /terms/enroute
+- /terms/eworld
+- /terms/imap
+- /terms/mail-v
+- /terms/mime
+- /terms/newtonmail
+- /terms/pop3
+- /terms/simplemail
+- /terms/stmp
+- /terms/tcp-ip
+
+----
+
+Source:
+
+- /sources/wikipedia

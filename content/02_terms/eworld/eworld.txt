@@ -18,12 +18,16 @@ Related:
 - /terms/enroute
 - /terms/espy-sans
 - /terms/hideeworld
+- /terms/imap
 - /terms/in-box
 - /terms/inout-box
 - /terms/mail-v
+- /terms/mime
 - /terms/newtonmail
 - /terms/out-box
+- /terms/pop
 - /terms/routing
 - /terms/simplemail
+- /terms/smtp
 - /terms/stationery
 - /terms/transport

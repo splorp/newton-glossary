@@ -23,12 +23,16 @@ Related:
 - /terms/aloha
 - /terms/enroute
 - /terms/eworld
+- /terms/imap
 - /terms/in-box
 - /terms/inout-box
+- /terms/mime
 - /terms/newtonmail
 - /terms/out-box
+- /terms/pop
 - /terms/routing
 - /terms/simplemail
+- /terms/smtp
 - /terms/transport
 - /terms/vcard
 

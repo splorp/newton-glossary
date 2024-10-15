@@ -19,11 +19,14 @@ Related:
 - /terms/dhcp
 - /terms/dns
 - /terms/ethernet
+- /terms/imap
 - /terms/ip
 - /terms/newton-internet-enabler
+- /terms/pop
 - /terms/ppp
 - /terms/protocol
 - /terms/slip-protocol
+- /terms/smtp
 - /terms/tcp
 
 ----
