@@ -8,7 +8,7 @@ Date: 01 December 2017
 
 Text:
 
-The area of (link: /terms/system-memory text: system memory) that is used for functions such as communications, (link: /terms/handwriting-recognition text: handwriting recognition), and [views](http://newtonglossary.com/terms/view).
+The area of (link: /terms/system-memory text: system memory) that is used for functions such as communications, (link: /terms/handwriting-recognition text: handwriting recognition), and (link: /terms/view text: views).
 
 ----
 
