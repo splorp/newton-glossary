@@ -22,9 +22,9 @@ Related:
 - /terms/battery
 - /terms/battery-access-cover
 - /terms/battery-compartment-cover
+- /terms/battery-latch
 - /terms/battery-pack
 - /terms/battery-tray
-- /terms/cover
 - /terms/latch
 
 ----

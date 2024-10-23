@@ -15,7 +15,6 @@ A (link: /terms/latch text: latch) located on (link: /terms/messagepad-2000 text
 Related:
 
 - /terms/battery-latch
-- /terms/cover
 - /terms/door
 - /terms/latch
 - /terms/locking-tab

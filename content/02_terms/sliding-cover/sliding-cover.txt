@@ -17,7 +17,6 @@ Also referred to as a (link: /terms/door text: Door) or (link: /terms/sliding-do
 Related:
 
 - /terms/communication-port
-- /terms/cover
 - /terms/door
 - /terms/lid
 - /terms/sliding-door

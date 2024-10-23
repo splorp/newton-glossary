@@ -19,7 +19,6 @@ On an eMate 300, a (link: /terms/sliding-door text: sliding door) covers the (li
 Related:
 
 - /terms/communication-port
-- /terms/cover
 - /terms/latch
 - /terms/lid
 - /terms/sliding-cover

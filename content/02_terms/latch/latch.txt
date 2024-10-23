@@ -17,7 +17,6 @@ On an (link: /terms/emate-300 text: eMate 300), the (link: /terms/screen-lid tex
 Related:
 
 - /terms/battery-latch
-- /terms/cover
 - /terms/cover-release-latch
 - /terms/door
 - /terms/lid
