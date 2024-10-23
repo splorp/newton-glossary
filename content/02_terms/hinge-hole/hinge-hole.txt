@@ -1,0 +1,27 @@
+Title: Hinge Hole
+
+----
+
+Date: 23 October 2024
+
+----
+
+Text:
+
+A small opening located on the case of a (link: /terms/messagepad text: MessagePad) device that accepts a (link: /terms/hinge-tab text: hinge tab).
+
+On (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices, unfastening the (link: /terms/lid text: lid) involves retracting one of the hinge tabs from a hinge hole by sliding a (link: /terms/small-latch text: small latch).
+
+----
+
+Related:
+
+- /terms/hinge-tab
+- /terms/lid
+- /terms/small-latch
+
+----
+
+Source:
+
+- /sources/messagepad-2000-getting-started

@@ -19,6 +19,8 @@ Related:
 - /terms/battery-latch
 - /terms/cover
 - /terms/door
+- /terms/hinge-hole
+- /terms/hinge-tab
 - /terms/latch
 - /terms/latch-button
 - /terms/locking-tab

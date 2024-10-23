@@ -32,6 +32,8 @@ Related:
 - /terms/door-clip
 - /terms/door-clip-jedi
 - /terms/floppy-lid
+- /terms/hinge-hole
+- /terms/hinge-tab
 - /terms/latch
 - /terms/locking-tab
 - /terms/screen-lid

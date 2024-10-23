@@ -1,0 +1,27 @@
+Title: Hinge Tab
+
+----
+
+Date: 23 October 2024
+
+----
+
+Text:
+
+A small pin located on the (link: /terms/lid text: lid) of a (link: /terms/messagepad text: MessagePad) device that is inserted into a (link: /terms/hinge-hole text: hinge hole).
+
+On (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices, unfastening the lid involves retracting one of the hinge tabs from a hinge hole by sliding a (link: /terms/small-latch text: small latch).
+
+----
+
+Related:
+
+- /terms/hinge-hole
+- /terms/lid
+- /terms/small-latch
+
+----
+
+Source:
+
+- /sources/messagepad-2000-getting-started
