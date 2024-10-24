@@ -19,6 +19,7 @@ Related:
 - /terms/font-spec
 - /terms/font-style
 - /terms/point
+- /terms/style-run
 - /terms/styles
 - /terms/word-wrap
 

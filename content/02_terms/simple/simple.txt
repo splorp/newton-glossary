@@ -25,6 +25,7 @@ Related:
 - /terms/geneva
 - /terms/new-york
 - /terms/point
+- /terms/style-run
 - /terms/styles
 - /terms/system
 - /terms/text-run

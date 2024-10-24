@@ -25,6 +25,7 @@ Related:
 - /terms/new-york
 - /terms/point
 - /terms/simple
+- /terms/style-run
 - /terms/styles
 - /terms/system
 - /terms/text-run

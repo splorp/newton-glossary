@@ -1,0 +1,31 @@
+Title: Style Run
+
+----
+
+Date: 24 October 2024
+
+----
+
+Text:
+
+A programmatic way of describing (link: /terms/font text: font) appearance attributes across a range of text in a word processing document. A style run can consist of several different (link: /terms/text-run text: text runs), each with its own (link: /terms/font-style text: font style) and (link: /terms/font-size text: font size) attributes.
+
+----
+
+Related:
+
+- /terms/font
+- /terms/font-size
+- /terms/font-spec
+- /terms/font-style
+- /terms/newton-works
+- /terms/point
+- /terms/styles
+- /terms/text-run
+- /terms/word-wrap
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
