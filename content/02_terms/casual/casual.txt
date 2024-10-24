@@ -16,6 +16,7 @@ One of the default bitmap (link: /terms/font text: fonts) on the Newton. Casual 
 
 Related:
 
+- /terms/espy-sans
 - /terms/fancy
 - /terms/font
 - /terms/font-size

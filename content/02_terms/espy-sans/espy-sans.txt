@@ -10,7 +10,7 @@ Text:
 
 A sans serif bitmap (link: /terms/font text: font) used when defining text in a (link: /terms/book-source-file text: book source file) that will be processed with (link: /terms/newton-book-maker text: Newton Book Maker) or (link: /terms/newton-toolkit text: Newton Toolkit). It is also a font that can be specified when creating a (link: /terms/newton-book text: Newton book) with the (link: /terms/newton-press text: Newton Press) software.
 
-Espy Sans on Mac OS is the equivalent to the (link: /terms/system text: System) font on (link: /terms/newton-os text: Newton OS).
+The Espy Sans font on Mac OS is the equivalent to the (link: /terms/system text: System) font on (link: /terms/newton-os text: Newton OS).
 
 ----
 
