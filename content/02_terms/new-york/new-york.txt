@@ -1,0 +1,39 @@
+Title: New York
+
+----
+
+Date: 23 October 2024
+
+----
+
+Text:
+
+A serif bitmap (link: /terms/font text: font) used when defining text in a (link: /terms/book-source-file text: book source file) that will be processed with (link: /terms/newton-book-maker text: Newton Book Maker) or (link: /terms/newton-toolkit text: Newton Toolkit). It is also a font that can be specified when creating a (link: /terms/newton-book text: Newton book) with the (link: /terms/newton-press text: Newton Press) software.
+
+The New York font on Mac OS is the equivalent to the (link: /terms/fancy text: Fancy) font on (link: /terms/newton-os text: Newton OS).
+
+----
+
+Related:
+
+- /terms/casual
+- /terms/espy-sans
+- /terms/eworld
+- /terms/fancy
+- /terms/font-size
+- /terms/font-spec
+- /terms/font-style
+- /terms/geneva
+- /terms/point
+- /terms/simple
+- /terms/style-run
+- /terms/styles
+- /terms/system
+- /terms/text-run
+
+----
+
+Source:
+
+- /sources/newton-book-maker
+- /sources/newton-press

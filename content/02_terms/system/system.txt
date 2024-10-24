@@ -26,6 +26,8 @@ Related:
 - /terms/font-size
 - /terms/font-spec
 - /terms/font-style
+- /terms/geneva
+- /terms/new-york
 - /terms/operating-system
 - /terms/point
 - /terms/simple
