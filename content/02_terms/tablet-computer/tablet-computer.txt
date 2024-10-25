@@ -14,9 +14,7 @@ A portable computer system utilizing a (link: /terms/touch-screen text: touch sc
 
 Related:
 
-- /terms/desktop
 - /terms/desktop-computer
-- /terms/laptop
 - /terms/laptop-computer
 - /terms/pen
 - /terms/tablet

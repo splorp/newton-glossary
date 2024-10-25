@@ -14,8 +14,6 @@ A portable computer system that fits comfortably within the confines of a userâ€
 
 Related:
 
-- /terms/desktop
 - /terms/desktop-computer
 - /terms/laptop
-- /terms/tablet
 - /terms/tablet-computer
