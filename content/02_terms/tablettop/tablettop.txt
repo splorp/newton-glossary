@@ -1,0 +1,32 @@
+Title: TabletTop
+
+----
+
+Date: 25 October 2024
+
+----
+
+Text:
+
+A term used by (link: /sources/quinn-nelson text: Quinn Nelson) in a review of the (link: /terms/emate-300 text: eMate 300). Essentially describing a device with the form factor of of a (link: /terms/laptop-computer text: laptop computer) that also utilizes a (link: /terms/touch-screen text: touch screen) display.
+
+----
+
+Resource:
+
+- [YouTube: Snazzy Labs Retro Review: Apple eMate 300 Newton TabletTop](http://www.youtube.com/watch?v=FCWEY_rdpzw)
+
+----
+
+Related:
+
+- /terms/desktop-computer
+- /terms/laptop-computer
+- /terms/tablet-computer
+- /terms/touch-screen
+
+----
+
+Source:
+
+- /sources/quinn-nelson

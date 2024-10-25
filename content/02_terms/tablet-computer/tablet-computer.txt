@@ -20,6 +20,7 @@ Related:
 - /terms/laptop-computer
 - /terms/pen
 - /terms/tablet
+- /terms/tablettop
 - /terms/touch-screen
 
 ----

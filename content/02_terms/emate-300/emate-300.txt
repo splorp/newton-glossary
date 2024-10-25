@@ -56,4 +56,5 @@ Related:
 - /terms/schoolbook
 - /terms/shay
 - /terms/spring-issue
+- /terms/tablettop
 - /terms/teacher-setup
