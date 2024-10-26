@@ -25,4 +25,6 @@ Related:
 - /terms/non-display-area
 - /terms/pen
 - /terms/screen
+- /terms/tablet-computer
+- /terms/tablettop
 - /terms/touchpad
