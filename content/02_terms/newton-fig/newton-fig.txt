@@ -1,22 +1,22 @@
-Title: TUNA
+Title: Newton FIG
 
 ----
 
-Date: 24 August 2016
+Date: 27 October 2024
 
 ----
 
 Text:
 
-Teachers Using Newtons Alliance
+The (link: /terms/special-interest-group text: special interest group) for Newton users run by the [Arizona Macintosh Users Group](http://amug.org/) (AMUG).
 
-A defunct online forum aimed at educators integrating the Newton platform into the practice of teaching.
+The “FIG” stands for “Fun Interest Group” and plays on the name of the infamous “Fig Newton” cookie.
 
 ----
 
 Resource:
 
-- [TUNA Website](https://web.archive.org/web/19991003023001/http://www.govmail.com/newton/teacher/)
+- [AMUG’s Newton Page](http://web.archive.org/web/19990424160706/http://www.amug.org/amug/sigs/newton/amug_newton.html)
 
 ----
 
@@ -37,12 +37,11 @@ Related:
 - /terms/msnug
 - /terms/nanug
 - /terms/nenug
-- /terms/newton-fig
 - /terms/newton-user-group
 - /terms/ngfun
 - /terms/ngn
 - /terms/nose
-- /terms/nug-central
+- /terms/nugcentral
 - /terms/nugom
 - /terms/oznug
 - /terms/random
@@ -52,11 +51,6 @@ Related:
 - /terms/sonug
 - /terms/special-interest-group
 - /terms/tcnug
+- /terms/tuna
 - /terms/tvnug
 - /terms/uknug
-
-----
-
-Source:
-
-- /sources/newton-faq

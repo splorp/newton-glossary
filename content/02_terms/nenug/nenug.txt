@@ -36,6 +36,7 @@ Related:
 - /terms/mpadclub
 - /terms/msnug
 - /terms/nanug
+- /terms/newton-fig
 - /terms/newton-user-group
 - /terms/ngfun
 - /terms/ngn

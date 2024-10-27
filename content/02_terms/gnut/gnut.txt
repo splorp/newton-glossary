@@ -44,6 +44,7 @@ Related:
 - /terms/msnug
 - /terms/nanug
 - /terms/nenug
+- /terms/newton-fig
 - /terms/newton-user-group
 - /terms/ngfun
 - /terms/ngn

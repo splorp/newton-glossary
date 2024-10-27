@@ -29,6 +29,7 @@ Related:
 - /terms/msnug
 - /terms/nanug
 - /terms/nenug
+- /terms/newton-fig
 - /terms/ngfun
 - /terms/ngn
 - /terms/nose
