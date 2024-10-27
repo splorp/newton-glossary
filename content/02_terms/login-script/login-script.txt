@@ -1,0 +1,29 @@
+Title: Login Script
+
+----
+
+Date: 27 October 2024
+
+----
+
+Text:
+
+A series of commands used to initiate a connection between a communication device and an (link: /terms/isp text: ISP).
+
+For example, a login script may be required to access the internet over a telephone line using a (link: /terms/modem text: modem).
+
+To terminate a connection, you would use a (link: /terms/logout-script text: logout script).
+
+----
+
+Related:
+
+- /terms/isp
+- /terms/logout-script
+- /terms/modem
+
+----
+
+Source:
+
+- /sources/newton-internet-enabler-users-manual

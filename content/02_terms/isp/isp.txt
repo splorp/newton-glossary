@@ -1,0 +1,30 @@
+Title: ISP
+
+----
+
+Date: 27 October 2024
+
+----
+
+Text:
+
+Internet Service Provider
+
+An organization that provides access to the internet over wireless or wired connections.
+
+----
+
+Source:
+
+- /sources/techencyclopedia
+
+----
+
+Related:
+
+- /terms/fnewton
+- /terms/login-script
+- /terms/logout-script
+- /terms/modem
+- /terms/ppp
+- /terms/slip-protocol

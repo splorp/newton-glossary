@@ -30,6 +30,7 @@ Related:
 - /terms/dns
 - /terms/ethernet
 - /terms/ip
+- /terms/isp
 - /terms/protocol
 - /terms/slip-protocol
 - /terms/tcp

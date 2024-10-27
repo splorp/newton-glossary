@@ -15,6 +15,9 @@ A portmanteau of modulator and demodulator, describing any electronic device tha
 Related:
 
 - /terms/cigarette-pack
+- /terms/isp
+- /terms/login-script
+- /terms/logout-script
 - /terms/modem
 - /terms/modeminos
 - /terms/newton-fax-modem

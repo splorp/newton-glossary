@@ -10,12 +10,16 @@ Text:
 
 A program written in a programming language (such as (link: /terms/newtonscript text: NewtonScript)) that generally uses untyped (link: /terms/variable text: variables) — that is, variables that can hold values of any data type — and seldom supports complex data structures.
 
+A script can also be a series of simple commands used to configure a peripheral such as a (link: /terms/modem text: modem).
+
 ----
 
 Related:
 
 - /terms/book-script
 - /terms/content-script
+- /terms/login-script
+- /terms/logout-script
 - /terms/newtonscript
 - /terms/page-script
 - /terms/wallyscript

@@ -1,0 +1,27 @@
+Title: Logout Script
+
+----
+
+Date: 27 October 2024
+
+----
+
+Text:
+
+A series of commands used to terminate a connection between a communication device and an (link: /terms/isp text: ISP).
+
+To initiate a connection, you would use a (link: /terms/login-script text: login script).
+
+----
+
+Related:
+
+- /terms/isp
+- /terms/login-script
+- /terms/modem
+
+----
+
+Source:
+
+- /sources/newton-internet-enabler-users-manual
