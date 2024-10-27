@@ -19,6 +19,7 @@ Related:
 - /terms/isp
 - /terms/login-script
 - /terms/modem
+- /terms/script
 
 ----
 

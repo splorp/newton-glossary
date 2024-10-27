@@ -21,6 +21,7 @@ Related:
 - /terms/isp
 - /terms/logout-script
 - /terms/modem
+- /terms/script
 
 ----
 
