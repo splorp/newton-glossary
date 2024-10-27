@@ -59,5 +59,4 @@ Related:
 
 Source:
 
-- /sources/newton-faq
 - /sources/newton-gallery

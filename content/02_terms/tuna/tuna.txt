@@ -54,9 +54,3 @@ Related:
 - /terms/tcnug
 - /terms/tvnug
 - /terms/uknug
-
-----
-
-Source:
-
-- /sources/newton-faq

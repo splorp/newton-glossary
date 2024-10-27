@@ -48,9 +48,3 @@ Related:
 - /terms/tuna
 - /terms/tvnug
 - /terms/uknug
-
-----
-
-Source:
-
-- /sources/newton-faq

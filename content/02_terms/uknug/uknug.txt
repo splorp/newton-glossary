@@ -57,9 +57,3 @@ Related:
 - /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
-
-----
-
-Source:
-
-- /sources/rich-lindsay
