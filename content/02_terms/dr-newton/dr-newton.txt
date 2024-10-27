@@ -1,0 +1,32 @@
+Title: Dr Newton
+
+----
+
+Date: 27 October 2024
+
+----
+
+Text:
+
+The nom de plume of David Watson, an engineering technician at (link: /sources/digital-ocean text: Digital Ocean), one of the companies that licensed (link: /terms/newton-os text: Newton OS) and manufactured devices based on the Newton platform. Watson was heavily involved with development of the (link: /terms/seahorse text: Seahorse), a wireless device based on the (link: /terms/messagepad-130 text: MessagePad 130). After Digital Ocean was shuttered, Watson sold spare parts and provided repair services for Newton devices for several years.
+
+He has been mistakenly referred to as (link: /terms/dr-watson text: Dr Watson) on the (link: /terms/newtontalk text: NewtonTalk) mailing list.
+
+----
+
+Resource:
+
+- [Dr. Newton’s Web Page](https://web.archive.org/web/20020202123653/http://www.grapevine.net/~drnewton/)
+
+----
+
+Related:
+
+- /terms/dr-watson
+- /terms/seahorse
+
+----
+
+Source:
+
+- /sources/newtontalk

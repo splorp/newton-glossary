@@ -24,6 +24,7 @@ Related:
 
 - /terms/cdpd
 - /terms/clone
+- /terms/dr-newton
 - /terms/grouper
 - /terms/supertech-2000
 - /terms/tarpon
