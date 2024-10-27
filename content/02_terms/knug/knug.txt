@@ -41,6 +41,7 @@ Related:
 - /terms/nose
 - /terms/nug-central
 - /terms/nugom
+- /terms/oanug
 - /terms/oznug
 - /terms/random
 - /terms/sane

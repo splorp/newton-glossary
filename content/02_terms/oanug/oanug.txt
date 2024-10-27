@@ -1,14 +1,22 @@
-Title: INUG
+Title: OaNUG
 
 ----
 
-Date: 24 August 2016
+Date: 27 October 2024
 
 ----
 
 Text:
 
-Italian Newton User Group
+Ottawa Area Newton User Group
+
+Founded around 1996, OaNUG was based in Ottawa, Ontario.
+
+----
+
+Resource:
+
+- [OaNUG Website](https://web.archive.org/web/19990224060929/http://www.igs.net/~oanug/)
 
 ----
 
@@ -21,6 +29,7 @@ Related:
 - /terms/gfun
 - /terms/gnut
 - /terms/hknug
+- /terms/inug
 - /terms/knug
 - /terms/lanug
 - /terms/misnic
@@ -35,7 +44,6 @@ Related:
 - /terms/nose
 - /terms/nug-central
 - /terms/nugom
-- /terms/oanug
 - /terms/oznug
 - /terms/random
 - /terms/sane

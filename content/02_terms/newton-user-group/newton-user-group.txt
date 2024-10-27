@@ -36,6 +36,7 @@ Related:
 - /terms/nug
 - /terms/nug-central
 - /terms/nugom
+- /terms/oanug
 - /terms/oznug
 - /terms/random
 - /terms/sane
