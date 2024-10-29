@@ -8,11 +8,11 @@ Date: 29 September 2024
 
 Text:
 
-UK Newton Users’ Group
+UK Newton Users Group
 
 A user group based in London organized by Bob Barkany sometime in 2001.
 
-Occasionally referred to as the London UK Newton Users’ Group or (link: /terms/luknug text: LUKNUG).
+Occasionally referred to as the London UK Newton Users Group or (link: /terms/luknug text: LUKNUG).
 
 ----
 
@@ -44,9 +44,11 @@ Related:
 - /terms/newton-user-group
 - /terms/ngfun
 - /terms/ngn
+- /terms/noise
 - /terms/nose
 - /terms/nug-central
 - /terms/nugom
+- /terms/nycnug
 - /terms/oanug
 - /terms/oznug
 - /terms/random
@@ -56,5 +58,6 @@ Related:
 - /terms/sonug
 - /terms/special-interest-group
 - /terms/tcnug
+- /terms/tnwou
 - /terms/tuna
 - /terms/tvnug

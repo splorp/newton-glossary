@@ -38,9 +38,11 @@ Related:
 - /terms/newton-user-group
 - /terms/ngfun
 - /terms/ngn
+- /terms/noise
 - /terms/nose
 - /terms/nug-central
 - /terms/nugom
+- /terms/nycnug
 - /terms/oanug
 - /terms/oznug
 - /terms/random
@@ -50,6 +52,7 @@ Related:
 - /terms/sonug
 - /terms/special-interest-group
 - /terms/tcnug
+- /terms/tnwou
 - /terms/tuna
 - /terms/tvnug
 - /terms/uknug

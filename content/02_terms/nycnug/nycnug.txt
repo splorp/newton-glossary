@@ -1,0 +1,64 @@
+Title: NYCNUG
+
+----
+
+Date: 29 October 2024
+
+----
+
+Text:
+
+New York City Newton Users Group
+
+Established in 1994, NYCNUG was the foremost (link: /terms/newton-user-group text: Newton user group) in the New York tri-state area.
+
+The group officially changed it name to the _New York City Digital Assistant Users Group_ ((link: /terms/nycdaug text: NYCDAUG)) in 1999, supporting a wider variety of (link: /terms/pda text: PDA) devices. The group has been inactive since 2014.
+
+----
+
+Resource:
+
+- [NYCNUG Website](http://web.archive.org/web/19981202080235/http://www.finepeter.com/nycnug/)
+- [NYCDAUG Website](http://web.archive.org/web/20000307161650/http://www.nycdaug.org/)
+
+----
+
+Related:
+
+- /terms/anug
+- /terms/dang
+- /terms/dnug
+- /terms/fnewton
+- /terms/gfun
+- /terms/gnut
+- /terms/hknug
+- /terms/inug
+- /terms/knug
+- /terms/lanug
+- /terms/misnic
+- /terms/mpadclub
+- /terms/msnug
+- /terms/nanug
+- /terms/nenug
+- /terms/newton-fig
+- /terms/newton-user-group
+- /terms/ngfun
+- /terms/ngn
+- /terms/noise
+- /terms/nose
+- /terms/nug-central
+- /terms/nugom
+- /terms/nycdaug
+- /terms/oanug
+- /terms/oznug
+- /terms/random
+- /terms/sane
+- /terms/snag
+- /terms/snug
+- /terms/sonug
+- /terms/special-interest-group
+- /terms/tcnug
+- /terms/tnwou
+- /terms/tuna
+- /terms/tvnug
+- /terms/uknug

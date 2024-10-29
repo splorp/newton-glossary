@@ -1,0 +1,65 @@
+Title: TNWoU
+
+----
+
+Date: 29 October 2024
+
+----
+
+Text:
+
+The Northwest of Us
+
+Established in 1991, The Northwest of Us was the largest Macintosh user group in Illinois, after splitting away from the Chicago based Macintosh user group _The Rest of Us_.
+
+The group maintained several (link: /terms/special-interest-group text: special interest groups), including one specifically focused on Newton users. The Newton (link: /terms/sig text: SIG) eventually transformed into a group covering a broader range of mobile computing and handheld devices.
+
+In 2015, the group changed its name to the _Suburban Chicago Apple Users_.
+----
+
+Resource:
+
+- [The Northwest of Us Website](https://web.archive.org/web/20150815165801/http://www.nwou.org/)
+- [The Northwest of Us: Special Interest Groups](https://web.archive.org/web/19990423084832/http://www.nwou.org/sigs.html)
+- [Suburban Chicago Apple Users Website](https://www.myscau.org/)
+
+----
+
+Related:
+
+- /terms/anug
+- /terms/dang
+- /terms/dnug
+- /terms/fnewton
+- /terms/gfun
+- /terms/gnut
+- /terms/hknug
+- /terms/inug
+- /terms/knug
+- /terms/lanug
+- /terms/misnic
+- /terms/mpadclub
+- /terms/msnug
+- /terms/nanug
+- /terms/nenug
+- /terms/newton-fig
+- /terms/newton-user-group
+- /terms/ngfun
+- /terms/ngn
+- /terms/noise
+- /terms/nose
+- /terms/nug-central
+- /terms/nugom
+- /terms/nycnug
+- /terms/oanug
+- /terms/oznug
+- /terms/random
+- /terms/sane
+- /terms/snag
+- /terms/snug
+- /terms/sonug
+- /terms/special-interest-group
+- /terms/tcnug
+- /terms/tuna
+- /terms/tvnug
+- /terms/uknug

@@ -1,0 +1,17 @@
+Title: The Ultimate Newton
+
+----
+
+Date: 29 October 2024
+
+----
+
+Text:
+
+A voluminous index of Newton sites, publications, software developers, user groups, and other web resources. Maintained by Rob Bruce of (link: /sources/tactile text: Tactile Systems), the site was updated regularly between 1995 and 1997.
+
+----
+
+Resource:
+
+- [The Ultimate Newton Website](https://web.archive.org/web/20010518020757/http://shell.rmi.net/~rbruce/)

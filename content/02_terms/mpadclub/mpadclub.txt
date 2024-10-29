@@ -8,7 +8,7 @@ Date: 16 August 2024
 
 Text:
 
-A French-language Newton user group based in Lyon, France.
+A French-language (link: /terms/newton-user-group text: Newton user group) based in Lyon, France.
 
 MPadClub published an electronic newsletter called (link: /terms/infonote text: InfoNote) which could be downloaded directly to a Newton device using their own software (link: /terms/package text: package).
 
@@ -41,9 +41,11 @@ Related:
 - /terms/newton-user-group
 - /terms/ngfun
 - /terms/ngn
+- /terms/noise
 - /terms/nose
 - /terms/nug-central
 - /terms/nugom
+- /terms/nycnug
 - /terms/oanug
 - /terms/oznug
 - /terms/random
@@ -53,6 +55,7 @@ Related:
 - /terms/sonug
 - /terms/special-interest-group
 - /terms/tcnug
+- /terms/tnwou
 - /terms/tuna
 - /terms/tvnug
 - /terms/uknug

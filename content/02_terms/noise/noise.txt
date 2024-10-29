@@ -1,22 +1,18 @@
-Title: RANDOM
+Title: NOISE
 
 ----
 
-Date: 11 February 2017
+Date: 29 October 2024
 
 ----
 
 Text:
 
-Regroupement des Amis du Newton Dévoués Ostensiblement à leurs Machines
+Newton Owner Interchanging Services
 
-A support community for French speaking Newton users that superseded the (link: /terms/ngfun text: NGFUN) (Groupe Francophone des Utilisateurs de Newton) and (link: /terms/gfun text: GFUN) (Groupe Francophone des Utilisateurs de Newton) groups.
+A (link: /terms/newton-user-group text: Newton user group) based in Germany.
 
-----
-
-Resource:
-
-- [RANDOM Website](https://web.archive.org/web/20031225203518/http://ngfun.free.fr/)
+<!-- http://www.hh.magicvillage.de/noise/index.html -->
 
 ----
 
@@ -41,13 +37,13 @@ Related:
 - /terms/newton-user-group
 - /terms/ngfun
 - /terms/ngn
-- /terms/noise
 - /terms/nose
 - /terms/nug-central
 - /terms/nugom
 - /terms/nycnug
 - /terms/oanug
 - /terms/oznug
+- /terms/random
 - /terms/sane
 - /terms/snag
 - /terms/snug
@@ -58,3 +54,9 @@ Related:
 - /terms/tuna
 - /terms/tvnug
 - /terms/uknug
+
+----
+
+Source:
+
+- /sources/ultimate-newton
