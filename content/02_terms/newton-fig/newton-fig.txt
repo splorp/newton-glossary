@@ -8,9 +8,9 @@ Date: 27 October 2024
 
 Text:
 
-A (link: /terms/special-interest-group text: special interest group) run by the [Arizona Macintosh Users Group](http://amug.org/) (AMUG).
+The (link: /terms/special-interest-group text: special interest group) for Newton users run by the [Arizona Macintosh Users Group](http://amug.org/) (AMUG).
 
-“FIG” is an acronym for “Fun Interest Group”, playing on the name of the infamous [Fig Newton](https://en.wikipedia.org/wiki/Newtons_(cookie)) cookie.
+The “FIG” stands for “Fun Interest Group” and plays on the name of the infamous “Fig Newton” cookie.
 
 ----
 
@@ -41,8 +41,9 @@ Related:
 - /terms/ngfun
 - /terms/ngn
 - /terms/nose
-- /terms/nugcentral
+- /terms/nug-central
 - /terms/nugom
+- /terms/oanug
 - /terms/oznug
 - /terms/random
 - /terms/sane
