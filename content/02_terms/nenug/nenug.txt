@@ -37,6 +37,7 @@ Related:
 - /terms/msnug
 - /terms/nanug
 - /terms/newton-fig
+- /terms/newton-japan
 - /terms/newton-user-group
 - /terms/ngfun
 - /terms/ngn

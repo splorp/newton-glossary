@@ -38,6 +38,7 @@ Related:
 - /terms/nanug
 - /terms/nenug
 - /terms/newton-fig
+- /terms/newton-japan
 - /terms/newton-user-group
 - /terms/ngn
 - /terms/noise

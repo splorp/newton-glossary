@@ -30,6 +30,7 @@ Related:
 - /terms/nanug
 - /terms/nenug
 - /terms/newton-fig
+- /terms/newton-japan
 - /terms/ngfun
 - /terms/ngn
 - /terms/noise

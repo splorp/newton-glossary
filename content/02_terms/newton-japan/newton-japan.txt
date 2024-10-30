@@ -1,22 +1,23 @@
-Title: OaNUG
+Title: Newton Japan
 
 ----
 
-Date: 27 October 2024
+Date: 30 October 2024
 
 ----
 
 Text:
 
-Ottawa Area Newton User Group
+The first (link: /terms/newton-user-group text: Newton user group) based in Japan.
 
-Founded around 1996, OaNUG was based in Ottawa, Ontario.
+Mistakenly referred to as (link: /terms/jnug text: JNUG) is early editions of the (link: /sources/newton-faq text: Newton FAQ), Newton Japan was established in 1995 and active until late 1998.
 
 ----
 
 Resource:
 
-- [OaNUG Website](https://web.archive.org/web/19990224060929/http://www.igs.net/~oanug/)
+- [Newton Japan Home Page](https://web.archive.org/web/19961225112528/http://www.bekkoame.or.jp/~newtonj/)
+- [Newton Japan (Nagoya) Home Page](https://web.archive.org/web/20001020005127/http://www.sakabe.nuie.nagoya-u.ac.jp/newton/NewtonJapan/index.html)
 
 ----
 
@@ -30,6 +31,7 @@ Related:
 - /terms/gnut
 - /terms/hknug
 - /terms/inug
+- /terms/jnug
 - /terms/knug
 - /terms/lanug
 - /terms/misnic
@@ -38,7 +40,6 @@ Related:
 - /terms/nanug
 - /terms/nenug
 - /terms/newton-fig
-- /terms/newton-japan
 - /terms/newton-user-group
 - /terms/ngfun
 - /terms/ngn
@@ -47,7 +48,7 @@ Related:
 - /terms/nug-central
 - /terms/nugom
 - /terms/nycnug
-- /terms/oznug
+- /terms/oanug
 - /terms/random
 - /terms/sane
 - /terms/snag
@@ -64,4 +65,4 @@ Related:
 
 Source:
 
-- /sources/newton-reference
+- /sources/newton-faq
