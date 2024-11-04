@@ -20,6 +20,7 @@ Resource:
 
 Related:
 
+- /terms/gecko
 - /terms/infonote
 - /terms/nanug
 - /terms/newtnews

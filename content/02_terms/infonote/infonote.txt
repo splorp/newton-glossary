@@ -22,6 +22,7 @@ Resource:
 
 Related:
 
+- /terms/gecko
 - /terms/mpadclub
 - /terms/newtnews
 - /terms/newton-user-group

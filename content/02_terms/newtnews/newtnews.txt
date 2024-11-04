@@ -14,6 +14,7 @@ A weekly newsletter focused on the Newton platform published between 1994 and 19
 
 Related:
 
+- /terms/gecko
 - /terms/infonote
 - /terms/protoreality
 - /terms/tapped-in
