@@ -25,6 +25,7 @@ Related:
 - /terms/gecko
 - /terms/mpadclub
 - /terms/newtnews
+- /terms/newtnews-pro
 - /terms/newton-user-group
 - /terms/protoreality
 - /terms/tapped-in

@@ -17,5 +17,6 @@ Related:
 - /terms/gecko
 - /terms/infonote
 - /terms/newtnews
+- /terms/newtnews-pro
 - /terms/newton-systems-group
 - /terms/protoreality

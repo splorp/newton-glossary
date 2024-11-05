@@ -1,0 +1,18 @@
+Title: Steve Holden
+
+----
+
+Date: 05 November 2024
+
+----
+
+Text:
+
+Currently a senior systems engineer for the US Navy, Holden was editor and publisher of (link: /terms/newtnews text: NewtNews), a weekly newsletter that focused on the Newton platform.
+
+----
+
+Resource:
+
+- [Steve Holden’s Blog](https://sholden.typepad.com/weblog/)
+- [NewJour: NewtNews](https://web.archive.org/web/20100722030308/http://old.library.georgetown.edu/newjour/n/msg00417.html)

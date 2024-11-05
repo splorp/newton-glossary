@@ -8,7 +8,15 @@ Date: 05 March 2018
 
 Text:
 
-A weekly newsletter focused on the Newton platform published between 1994 and 1998 by Steve Holden. Initially published through email and the web, NewtNews was also distributed by [The Arizona Macintosh Users Group](http://amug.org/) (AMUG) on CD-ROM and via their FTP server.
+A weekly newsletter focused on the Newton platform published by (link: /sources/steve-holden text: Steve Holden) between 1994 and 1998. Initially available through email and the web, NewtNews was also distributed by [The Arizona Macintosh Users Group](http://amug.org/) (AMUG) on CD-ROM and via their FTP server.
+
+A monthly “spin-off” based on the content of NewtNews called (link: /terms/newtnews-pro text: NewtNews Pro) was produced and published by Dave Hina.
+
+----
+
+Resource:
+
+- [NewJour: NewtNews](https://web.archive.org/web/20100722030308/http://old.library.georgetown.edu/newjour/n/msg00417.html)
 
 ----
 
@@ -16,5 +24,12 @@ Related:
 
 - /terms/gecko
 - /terms/infonote
+- /terms/newtnews-pro
 - /terms/protoreality
 - /terms/tapped-in
+
+----
+
+Source:
+
+- /sources/steve-holden

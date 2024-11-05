@@ -17,6 +17,7 @@ Related:
 - /terms/infonote
 - /terms/mnnr
 - /terms/newtnews
+- /terms/newtnews-pro
 - /terms/protoreality
 - /terms/tapped-in
 

@@ -1,0 +1,27 @@
+Title: NewtNews Pro
+
+----
+
+Date: 05 November 2024
+
+----
+
+Text:
+
+A monthly newsletter focused on the Newton platform, produced and published by Dave Hina. NewtNews Pro was billed as “an independent spin-off” of (link: /sources/steve-holden text: Steve Holden’s) weekly (link: /terms/newtnews text: NewtNews), repurposing that content into a convenient, printable format.
+
+----
+
+Related:
+
+- /terms/gecko
+- /terms/infonote
+- /terms/newtnews
+- /terms/protoreality
+- /terms/tapped-in
+
+----
+
+Source:
+
+- /sources/steve-holden

@@ -24,6 +24,7 @@ Related:
 - /terms/infonote
 - /terms/nanug
 - /terms/newtnews
+- /terms/newtnews-pro
 - /terms/tapped-in
 
 ----
