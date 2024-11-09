@@ -8,7 +8,9 @@ Date: 04 November 2024
 
 Text:
 
-A monthly newsletter focused on the Newton platform published by (link: /sources/gerald-fox text: Gerald Fox). Originally called _Newton News & World Report_ ((link: /terms/mnnr text: MNN&R)), it was distributed on the web as well as through online services including America Online, CompuServe, and (link: /terms/eworld text: eWorld) between 1995 and 1998. In the spring of 1998, Fox began transitioning the publication into the broader themed _Pocket Computing Magazine_ which intended to cover “… items of computing that will fit in an average overcoat pocket.”
+A monthly newsletter focused on the Newton platform published by (link: /sources/gerald-fox text: Gerald Fox). Originally called _Newton News & World Report_ ((link: /terms/mnnr text: MNN&R)), it was distributed on the web as well as through online services including America Online, CompuServe, and (link: /terms/eworld text: eWorld) between 1995 and 1998.
+
+In the spring of 1998, Fox began transitioning the publication into the broader themed _Pocket Computing Magazine_ which intended to cover “… items of computing that will fit in an average overcoat pocket.”
 
 ----
 
