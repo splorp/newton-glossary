@@ -29,6 +29,7 @@ Sources: 182
 
 + Added 30 new terms
 + Added 5 new sources
++ Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version [4.4.1](https://github.com/getkirby/kirby/releases/tag/4.4.1)
 
 ### 4.3.0
