@@ -21,6 +21,7 @@ Related:
 - /terms/cdcl
 - /terms/dcl
 - /terms/frame
+- /terms/gdcl
 - /terms/newton-toolkit
 - /terms/newtonscript
 - /terms/ntkc
@@ -30,3 +31,4 @@ Related:
 - /terms/script
 - /terms/stream
 - /terms/stream-file
+- /terms/zdcl

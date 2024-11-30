@@ -26,11 +26,13 @@ Related:
 - /terms/dcl
 - /terms/dock
 - /terms/docking
+- /terms/gdcl
 - /terms/k-libs
 - /terms/nsof
 - /terms/nwt
 - /terms/protocol
 - /terms/rdcl
+- /terms/zdcl
 
 ----
 

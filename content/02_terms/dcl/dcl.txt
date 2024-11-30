@@ -28,6 +28,7 @@ Related:
 - /terms/cdcl
 - /terms/dock
 - /terms/docking
+- /terms/gdcl
 - /terms/k-libs
 - /terms/nes-packager
 - /terms/nsof
@@ -35,6 +36,7 @@ Related:
 - /terms/protocol
 - /terms/rdcl
 - /terms/watsonenabler
+- /terms/zdcl
 
 ----
 

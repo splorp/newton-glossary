@@ -22,7 +22,9 @@ Related:
 - /terms/dcl
 - /terms/dock
 - /terms/dock-options
+- /terms/gdcl
 - /terms/rdcl
+- /terms/zdcl
 
 ----
 

@@ -23,9 +23,11 @@ Related:
 
 - /terms/cdcl
 - /terms/dcl
+- /terms/gdcl
 - /terms/k
 - /terms/rdcl
 - /terms/unicode
+- /terms/zdcl
 
 ----
 

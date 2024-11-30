@@ -26,4 +26,6 @@ Related:
 - /terms/dcl
 - /terms/dock-options
 - /terms/docking
+- /terms/gdcl
 - /terms/rdcl
+- /terms/zdcl
