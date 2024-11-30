@@ -10,7 +10,7 @@ Text:
 
 Compact Desktop Connection Library
 
-A experimental distribution of the (link: /terms/dcl text: DCL) communication framework and (link: /terms/k-libs text: K Libs) libraries created by (link: /sources/eckhart-koppen text: Eckhart Köppen). The cDCL provides a subset of the functionality of the original, which includes connecting to and interacting with data stored on devices running (link: /terms/newton-os text: Newton OS) 2.0 and later via the built-in (link: /terms/dock text: dock) protocol.
+A experimental distribution of the (link: /terms/dcl text: DCL) communication framework and (link: /terms/k-libs text: K Libs) libraries created by (link: /sources/eckhart-koppen text: Eckhart Köppen). The cDCL provides a subset of the functionality of the original, which includes connecting to and interacting with data stored on devices running (link: /terms/newton-os text: Newton OS) 2.0 and later via the built-in (link: /terms/docking text: docking) protocol.
 
 ----
 
@@ -18,11 +18,13 @@ Resource:
 
 - [GitHub: cDCL](https://github.com/ekoeppen/cDCL)
 - [Kallisys: Desktop Connection Library](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
+- [40Hz: Newton Docking Protocol](https://40hz.org/Pages/newton/hacking/newton-docking-protocol/)
 
 ----
 
 Related:
 
+- /terms/dante
 - /terms/dcl
 - /terms/dock
 - /terms/docking

@@ -18,6 +18,7 @@ Related:
 - /terms/appletalk
 - /terms/ask
 - /terms/dante
+- /terms/dcl
 - /terms/dhcp
 - /terms/dns
 - /terms/ethertalk

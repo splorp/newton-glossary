@@ -17,3 +17,4 @@ Resource:
 - [40Hz Website](https://40hz.org/)
 - [40Hz: Eckhart Koeppen Biography](https://40hz.org/Pages/eckhartkoeppen/)
 - [GitHub: Eckhart Köppen](https://github.com/ekoeppen)
+- [Sourcehut: Eckhart Köppen](https://git.sr.ht/~ekoeppen/)

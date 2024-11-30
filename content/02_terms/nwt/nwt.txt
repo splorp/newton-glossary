@@ -19,14 +19,11 @@ This filename extension also identifies (link: /terms/newton-connection text: Ne
 Related:
 
 - /terms/backup-file
-- /terms/cdcl
-- /terms/dcl
 - /terms/enroute
 - /terms/filename-extension
 - /terms/newton-connection
 - /terms/newton-connection-kit
 - /terms/newton-connection-pro-kit
-- /terms/nsof
 - /terms/rdcl
 - /terms/simplemail
 - /terms/synchronize

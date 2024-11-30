@@ -10,7 +10,7 @@ Text:
 
 Desktop Connection Library
 
-A multi-platform communication framework created by (link: /sources/paul-guyot text: Paul Guyot), [Nicolas Zinovieff](https://github.com/krugazor), and [Michael Vacík](https://www.linkedin.com/in/mvacik). DCL was designed to replace the various code libraries and (link: /terms/application text: applications) developed by [Apple](https://www.apple.com/) for connecting to and interacting with data stored on devices running (link: /terms/newton-os text: Newton OS) 2.0 and later via the built-in (link: /terms/dock text: dock) protocol. Connections are usually performed via serial cable, but higher level (link: /terms/protocol text: protocol) layers can also run over other connection methods such as (link: /terms/tcp-ip text: TCP/IP).
+A multi-platform communication framework created by (link: /sources/paul-guyot text: Paul Guyot), [Nicolas Zinovieff](https://github.com/krugazor), and [Michael Vacík](https://www.linkedin.com/in/mvacik). DCL was designed to replace the various code libraries and (link: /terms/application text: applications) developed by [Apple](https://www.apple.com/) for connecting to and interacting with data stored on devices running (link: /terms/newton-os text: Newton OS) 2.0 and later via the built-in (link: /terms/docking text: docking) protocol. Connections are usually performed via serial cable, but higher level (link: /terms/protocol text: protocol) layers can also run over other connection methods such as (link: /terms/tcp-ip text: TCP/IP).
 
 ----
 
@@ -20,12 +20,14 @@ Resource:
 - [SourceForge: DCL](http://sourceforge.net/projects/newton-dcl)
 - [Kallisys: DCL](http://www.kallisys.com/files/newton/DCL/)
 - [Kallisys: Desktop Connection Library](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
+- [40Hz: Newton Docking Protocol](https://40hz.org/Pages/newton/hacking/newton-docking-protocol/)
 
 ----
 
 Related:
 
 - /terms/cdcl
+- /terms/dante
 - /terms/dock
 - /terms/docking
 - /terms/gdcl
