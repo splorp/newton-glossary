@@ -1,0 +1,45 @@
+Title: Escale
+
+----
+
+Date: 02 December 2024
+
+----
+
+Text:
+
+An (link: /terms/application text: application) created by (link: /sources/pual-guyot text: Paul Guyot) that replicates functionality found in Apple’s (link: /terms/newton-connection-utilities text: Newton Connection Utilities) (NCU) for computers running the Mac OS X.
+
+Functionality includes (link: /terms/synchronize text: synchronizing) information between a Newton device and the Address Book application, installing (link: /terms/package text: packages), and using a physical keyboard as an input peripheral.
+
+Rather than relying on the code found in the (link: /terms/desktop-integration-library text: Desktop Integration Library) provided by [Apple](https://www.apple.com/), Escale utilizes the Desktop Connection Library ((link: /terms/dcl text: DCL)), allowing native integration of the Newton (link: /terms/docking text: docking) protocol over (link: /terms/tcp-ip text: TCP/IP) as well as serial and (link: /terms/appletalk text: AppleTalk) connections.
+
+
+----
+
+Resource:
+
+- [Kallisys: Desktop Connection Library: Escale 1.0.1](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
+- [Kallisys: Escale User’s Guide for Escale 1.0](https://web.archive.org/web/20080212130906/http://www.kallisys.com/newton/dcl/escale-user-guide/)
+- [The Newted Community: Escale User’s Guide for Escale 1.0](https://www.newted.org/download/manuals/EscaleUsersGuide10.pdf)
+- [The Newted Community: Escale User’s Guide for Escale 1.0.1](https://www.newted.org/download/manuals/EscaleUsersGuide101.pdf)
+- [SourceForge: Escale](https://sourceforge.net/projects/escale/)
+
+----
+
+Related:
+
+- /terms/connection
+- /terms/dcl
+- /terms/dock
+- /terms/docking
+- /terms/newton-connection
+- /terms/newton-connection-utilities
+- /terms/package-installer
+- /terms/synchronize
+
+----
+
+Source:
+
+- /sources/paul-guyot

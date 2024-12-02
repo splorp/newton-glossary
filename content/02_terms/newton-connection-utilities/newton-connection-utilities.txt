@@ -18,6 +18,7 @@ Also referred to as (link: /terms/ncu text: NCU).
 
 Related:
 
+- /terms/escale
 - /terms/gyro
 - /terms/nbk
 - /terms/ncu

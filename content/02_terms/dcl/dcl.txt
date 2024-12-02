@@ -30,6 +30,7 @@ Related:
 - /terms/dante
 - /terms/dock
 - /terms/docking
+- /terms/escale
 - /terms/gdcl
 - /terms/k-libs
 - /terms/nes-packager
