@@ -12,6 +12,8 @@ Communication Desktop Integration Layer
 
 A code layer that provides a stream-based interface for exchanging data with Newton devices over a variety of communications services.
 
+This code is part of the (link: /terms/desktop-integration-library text: Desktop Integration Library) (DIL) provided to developers by [Apple](https://www.apple.com/).
+
 ----
 
 Related:

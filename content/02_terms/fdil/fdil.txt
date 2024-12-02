@@ -12,6 +12,8 @@ Frame Desktop Integration Layer
 
 A code layer responsible for the management of (link: /terms/newtonscript text: NewtonScript) compatible objects, which supercedes the High Level Frame Desktop Integration Layer or (link: /terms/hlfdil text: HFDIL).
 
+This code is part of the (link: /terms/desktop-integration-library text: Desktop Integration Library) (DIL) provided to developers by [Apple](https://www.apple.com/).
+
 ----
 
 Related:
