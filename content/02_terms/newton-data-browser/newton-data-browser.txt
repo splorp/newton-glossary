@@ -21,7 +21,6 @@ Resource:
 Related:
 
 - /terms/desktop-integration-library
-- /terms/dil
 - /terms/dil-tester
 - /terms/ndb
 - /terms/ndu

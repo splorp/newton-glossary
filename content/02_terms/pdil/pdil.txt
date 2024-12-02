@@ -21,7 +21,6 @@ Related:
 - /terms/cdil
 - /terms/connection
 - /terms/desktop-integration-library
-- /terms/dil
 - /terms/dock
 - /terms/docking
 - /terms/fdil

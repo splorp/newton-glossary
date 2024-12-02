@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A collection of code that allows developers of (link: /terms/application text: applications) for desktop (link: /terms/operating-system text: operating systems) to directly (link: /terms/synchronize text: synchronize) data between their applications and a Newton device.
+A collection of code provided by [Apple](https://www.apple.com/) that allows developers of (link: /terms/application text: applications) for desktop (link: /terms/operating-system text: operating systems) to directly (link: /terms/synchronize text: synchronize) data between their applications and a Newton device.
 
 A (link: /terms/dil text: DIL) is a slightly modified version of the code that exists in desktop applications such as (link: /terms/newton-connection-utilities text: Newton Connection Utilities), (link: /terms/newton-package-installer text: Newton Package Installer), and (link: /terms/newton-press text: Newton Press). DILs allow you to connect via communication protocols such as (link: /terms/tcp-ip text: TCP/IP), (link: /terms/irda text: IrDA), and (link: /terms/adsp text: ADSP) to Mac OS and Windows computers. Specifically, DILs facilitate the encoding and decoding of data via the Newton Streamed Object Format ((link: /terms/nsof text: NSOF)).
 
