@@ -21,6 +21,7 @@ Related:
 - /terms/local-area-network
 - /terms/localtalk
 - /terms/network-interface-card
+- /terms/newton-internet-enabler
 - /terms/protocol
 - /terms/rj-45
 

@@ -17,13 +17,15 @@ A distributed service that translates the hostname or domain name of a network c
 Related:
 
 - /terms/dhcp
-- /terms/ethernet
+- /terms/imap
 - /terms/internet-setup
 - /terms/ip
 - /terms/newton-internet-enabler
+- /terms/pop
 - /terms/ppp
 - /terms/protocol
 - /terms/slip-protocol
+- /terms/smtp
 - /terms/tcp
 - /terms/tcp-ip
 

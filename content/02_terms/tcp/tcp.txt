@@ -18,12 +18,15 @@ Related:
 
 - /terms/dhcp
 - /terms/dns
+- /terms/imap
 - /terms/internet-setup
 - /terms/ip
 - /terms/newton-internet-enabler
+- /terms/pop
 - /terms/ppp
 - /terms/protocol
 - /terms/slip-protocol
+- /terms/smtp
 - /terms/tcp-ip
 
 ----

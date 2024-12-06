@@ -29,13 +29,16 @@ Related:
 
 - /terms/dhcp
 - /terms/dns
-- /terms/ethernet
+- /terms/imap
 - /terms/internet-setup
 - /terms/ip
 - /terms/isp
 - /terms/modem
+- /terms/newton-internet-enabler
+- /terms/pop
 - /terms/ppp
 - /terms/protocol
+- /terms/smtp
 - /terms/tcp
 - /terms/tcp-ip
 

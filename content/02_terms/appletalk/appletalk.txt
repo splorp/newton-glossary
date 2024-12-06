@@ -21,6 +21,7 @@ Related:
 - /terms/internet-setup
 - /terms/local-area-network
 - /terms/localtalk
+- /terms/newton-internet-enabler
 - /terms/phonenet
 - /terms/protocol
 - /terms/wireless-appletalk

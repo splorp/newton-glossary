@@ -32,6 +32,7 @@ Related:
 - /terms/internet-setup
 - /terms/ip
 - /terms/isp
+- /terms/newton-internet-enabler
 - /terms/protocol
 - /terms/slip-protocol
 - /terms/tcp

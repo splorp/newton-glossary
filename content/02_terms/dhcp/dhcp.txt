@@ -17,11 +17,14 @@ A (link: /terms/protocol text: protocol) that dynamically allocates (link: /term
 Related:
 
 - /terms/dns
+- /terms/imap
 - /terms/internet-setup
 - /terms/ip
 - /terms/newton-internet-enabler
+- /terms/pop
 - /terms/ppp
 - /terms/protocol
 - /terms/slip-protocol
+- /terms/smtp
 - /terms/tcp
 - /terms/tcp-ip
