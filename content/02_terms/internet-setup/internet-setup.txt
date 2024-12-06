@@ -1,0 +1,53 @@
+Title: Internet Setup
+
+----
+
+Date: 06 December 2024
+
+----
+
+Text:
+
+A collection of settings needed to connect to the internet over an (link: /terms/ethernet text: Ethernet) network, (link: /terms/appletalk text: AppleTalk) network, direct serial connection to another computer, or through an (link: /terms/isp text: ISP) using a (link: /terms/modem text: modem).
+
+An internet setup can include the type of connection, the protocol being used (such as (link: /terms/ppp text: PPP) or (link: /terms/slip-protocol text: SLIP)), an ISP telephone access number, login credentials (such as username and password), the zone for a (link: /terms/localtalk text: LocalTalk) connection, (link: /terms/login-script text: login scripts), a local (link: /terms/ip text: IP) address, a gateway or router address, a (link: /terms/dns text: DNS) address, as well as email account information.
+
+Internet Setup is also the name of an (link: /terms/application text: application) included with the (link: /terms/newton-internet-enabler text: Newton Internet Enabler) software used to create and edit internet setups.
+
+----
+
+Resource:
+
+- [The Newted Community: Newton Internet Enabler User’s Manual](http://www.newted.org/download/manuals/0340011ANIEUM.PDF)
+- [The Newted Community: Newton Internet Enabler 2.0 User’s Manual](http://www.newted.org/download/manuals/NIE20USE.pdf)
+- [UNNA: Newton Internet Enabler User’s Manual](http://www.unna.org/unna/apple/documentation/software/NIE1.1UsersManual.pdf)
+- [UNNA: Newton Internet Enabler 2.0 User’s Manual](http://www.unna.org/unna/apple/documentation/software/NIE2.0UsersManual.pdf)
+- [UNNA: Newton Internet Enabler 2.0 Read Me](http://www.unna.org/unna/apple/software/Internet/NIE2/nie_rdme.txt)
+
+----
+
+Related:
+
+- /terms/appletalk
+- /terms/dhcp
+- /terms/dns
+- /terms/ethernet
+- /terms/imap
+- /terms/ip
+- /terms/isp
+- /terms/localtalk
+- /terms/modem
+- /terms/newton-internet-enabler
+- /terms/pop
+- /terms/ppp
+- /terms/protocol
+- /terms/slip-protocol
+- /terms/smtp
+- /terms/tcp
+- /terms/tcp-ip
+
+----
+
+Source:
+
+- /sources/newton-internet-enabler-users-manual

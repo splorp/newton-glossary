@@ -18,6 +18,7 @@ Related:
 - /terms/ethernet
 - /terms/ethertalk
 - /terms/infrared-appletalk
+- /terms/internet-setup
 - /terms/local-area-network
 - /terms/localtalk
 - /terms/phonenet

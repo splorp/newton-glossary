@@ -17,6 +17,7 @@ A (link: /terms/protocol text: protocol) that dynamically allocates (link: /term
 Related:
 
 - /terms/dns
+- /terms/internet-setup
 - /terms/ip
 - /terms/newton-internet-enabler
 - /terms/ppp

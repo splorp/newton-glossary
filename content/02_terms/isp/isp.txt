@@ -23,6 +23,7 @@ Source:
 Related:
 
 - /terms/fnewton
+- /terms/internet-setup
 - /terms/login-script
 - /terms/logout-script
 - /terms/modem

@@ -22,6 +22,7 @@ Related:
 - /terms/dns
 - /terms/ethernet
 - /terms/imap
+- /terms/internet-setup
 - /terms/ip
 - /terms/newton-internet-enabler
 - /terms/pop

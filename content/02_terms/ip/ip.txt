@@ -18,6 +18,7 @@ Related:
 
 - /terms/dhcp
 - /terms/dns
+- /terms/internet-setup
 - /terms/newton-internet-enabler
 - /terms/ppp
 - /terms/protocol

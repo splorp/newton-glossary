@@ -30,6 +30,7 @@ Related:
 - /terms/dhcp
 - /terms/dns
 - /terms/ethernet
+- /terms/internet-setup
 - /terms/ip
 - /terms/isp
 - /terms/modem

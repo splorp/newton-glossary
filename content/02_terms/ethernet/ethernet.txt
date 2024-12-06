@@ -17,6 +17,7 @@ Related:
 - /terms/appletalk
 - /terms/enet
 - /terms/ethertalk
+- /terms/internet-setup
 - /terms/local-area-network
 - /terms/localtalk
 - /terms/network-interface-card
