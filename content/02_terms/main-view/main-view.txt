@@ -10,7 +10,7 @@ Text:
 
 In (link: /terms/newtonscript text: NewtonScript), the principal (link: /terms/container-view text: container view) that serves as a center of user operations for an (link: /terms/application text: application).
 
-Every main view must have a (link: /terms/view-border text: view border), even if the border is not visible because the (link: /terms/view text: view) fills the entire screen. 
+Every main view must have a (link: /terms/view-border text: view border), even if the border is not visible because the (link: /terms/view text: view) fills the entire screen.
 
 Generally, the main view of an application will have either a (link: /terms/matte-border text: matte border) or a (link: /terms/plain-border text: plain border).
 

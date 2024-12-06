@@ -10,7 +10,7 @@ Text:
 
 A visually distinct (link: /terms/newton-user-interface text: Newton user interface) element consisting of a border made up of short, slanted lines edged by a thin black rectangle. A striped border indicates a (link: /terms/view text: view) known as a routing slip.
 
-It’s no accident that this border looks similar to the border traditionally printed on airmail envelopes, as routing slips are analogous to postal envelopes. 
+It’s no accident that this border looks similar to the border traditionally printed on airmail envelopes, as routing slips are analogous to postal envelopes.
 
 ----
 
