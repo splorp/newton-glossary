@@ -1,0 +1,17 @@
+Title: Offliner
+
+----
+
+Date: 07 December 2024
+
+----
+
+Text:
+
+Any electronic device that is disconnected from a network by default. In most situations, a Newton device would be considered an offliner.
+
+----
+
+Resource:
+
+- [Twitter: Frank Foell](https://twitter.com/FrankFoell/status/654006417045725184)
