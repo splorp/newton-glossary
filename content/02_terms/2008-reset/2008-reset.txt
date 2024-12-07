@@ -1,0 +1,44 @@
+Title: 2008 Reset
+
+----
+
+Date: 07 December 2024
+
+----
+
+Text:
+
+A bug related to the original (link: /terms/year-2010-problem text: Year 2010 Problem) where the system clock on Newton devices with the Y2010 (link: /terms/system-patch text: system patch) installed would revert to January 1, 2008 after performing a (link: /terms/reset text: reset).
+
+Commonly referred to as the (link: /terms/y2008 text: Y2008) bug, this problem was fixed in later versions of the patch created by (link: /sources/eckhart-koppen text: Eckhart Köppen).
+
+----
+
+Resource:
+
+- [Newton Poetry: Newton 2010 bug rears its head, despite patches](http://newtonpoetry.com/2010/01/12/newton-2010-bug-rears-its-head-despite-patches/)
+- [Newton Poetry: No bumper needed: Newton Y2008 bug fixed](http://newtonpoetry.com/2010/07/19/no-bumper-needed-newton-y2008-bug-fixed/)
+- [NewtonTalk: [ANN] Y2010 + Y2008 fix for 2x00US Newtons ](http://www.newtontalk.net/archive/newtontalk/2010-July/042645.html)
+- [40Hz: Newton Year 2010 Problem](https://40hz.org/Pages/newton/hacking/newton-year-2010-problem/)
+- [40Hz: Newton Year 2010 Solution](https://40hz.org/Pages/newton/hacking/newton-year-2010-solution/)
+
+----
+
+Related:
+
+- /terms/clock
+- /terms/fix2010
+- /terms/newtpocalypse
+- /terms/real-time-clock
+- /terms/reset
+- /terms/y2008
+- /terms/y2010-diagnostic
+- /terms/year-2010-problem
+- /terms/year-2026-problem
+- /terms/year-2040-problem
+
+----
+
+Source:
+
+- /sources/eckhart-koppen

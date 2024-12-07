@@ -16,6 +16,7 @@ Also referred to as an (link: /terms/rtc text: RTC).
 
 Related:
 
+- /terms/2008-reset
 - /terms/clock
 - /terms/rtc
 - /terms/year-2010-problem

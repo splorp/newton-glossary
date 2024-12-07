@@ -16,6 +16,7 @@ The built-in (link: /terms/application text: application) that displays the curr
 
 Related:
 
+- /terms/2008-reset
 - /terms/analog-clock-button
 - /terms/bettersetter
 - /terms/dotclock
