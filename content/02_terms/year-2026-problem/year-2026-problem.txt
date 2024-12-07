@@ -25,6 +25,7 @@ Related:
 - /terms/2008-reset
 - /terms/clock
 - /terms/fix2010
+- /terms/newtpocalypse
 - /terms/real-time-clock
 - /terms/y2010-diagnostic
 - /terms/y2026

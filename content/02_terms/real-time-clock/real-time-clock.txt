@@ -19,6 +19,7 @@ Related:
 - /terms/2008-reset
 - /terms/clock
 - /terms/rtc
+- /terms/newtpocalypse
 - /terms/year-2010-problem
 - /terms/year-2026-problem
 - /terms/year-2040-problem

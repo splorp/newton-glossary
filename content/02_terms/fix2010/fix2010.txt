@@ -22,6 +22,7 @@ Resource:
 Related:
 
 - /terms/2008-reset
+- /terms/newtpocalypse
 - /terms/patch
 - /terms/system-patch
 - /terms/system-update

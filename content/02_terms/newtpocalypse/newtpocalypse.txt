@@ -1,0 +1,41 @@
+Title: Newtpocalypse
+
+----
+
+Date: 07 December 2024
+
+----
+
+Text:
+
+A rather dramatic term [coined by Dave Lawrence](http://newtonpoetry.com/2008/09/10/2010-newtpocalypse-without-an-update/) to describe the (link: /terms/year-2010-problem text: Year 2010 Problem).
+
+Also referred to as the (link: /terms/newtapocalypse text: Newtapocalypse) by Steven Sande on [The Unofficial Apple Weblog](https://web.archive.org/web/20090618062329/http://www.tuaw.com/2009/06/15/beware-the-newtapocalypse-a-2010-bug-for-the-newton-messagepad/) site.
+
+----
+
+Resource:
+
+- [Newton Poetry: 2010: Newtpocalypse without an update](http://newtonpoetry.com/2008/09/10/2010-newtpocalypse-without-an-update/)
+- [Newton Poetry: TUAW jumps the gun on Newtpocalypse](http://newtonpoetry.com/2009/06/16/tuaw-jumps-the-gun-on-newtpocalypse/)
+- [Newton Poetry: Newtpocalypse: the final countdown](http://newtonpoetry.com/2009/12/28/newtpocalypse-the-final-countdown/)
+- [TUAW: Beware the Newtapocalypse, a 2010 bug for the Newton MessagePad](https://web.archive.org/web/20090618062329/http://www.tuaw.com/2009/06/15/beware-the-newtapocalypse-a-2010-bug-for-the-newton-messagepad/)
+
+----
+
+Related:
+
+- /terms/2008-reset
+- /terms/clock
+- /terms/fix2010
+- /terms/newtapocalypse
+- /terms/real-time-clock
+- /terms/year-2010-problem
+- /terms/year-2026-problem
+- /terms/year-2040-problem
+
+----
+
+Source:
+
+- /sources/newton-poetry

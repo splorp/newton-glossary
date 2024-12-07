@@ -12,6 +12,8 @@ A bug that affects devices running (link: /terms/newton-os text: Newton OS) 2.1 
 
 Commonly referred to as the (link: /terms/y2010 text: Y2010) bug, this problem can be fixed by installing a (link: /terms/system-patch text: system patch).
 
+Also rather dramatically referred to as the (link: /terms/newtpocalypse text: Newtpocalypse).
+
 ----
 
 Resource:
@@ -27,6 +29,7 @@ Related:
 - /terms/clock
 - /terms/fix2010
 - /terms/newtonscript
+- /terms/newtpocalypse
 - /terms/real-time-clock
 - /terms/y2010
 - /terms/y2010-diagnostic

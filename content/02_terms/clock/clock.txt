@@ -20,6 +20,7 @@ Related:
 - /terms/analog-clock-button
 - /terms/bettersetter
 - /terms/dotclock
+- /terms/newtpocalypse
 - /terms/notepad
 - /terms/time-date
 - /terms/time-zones

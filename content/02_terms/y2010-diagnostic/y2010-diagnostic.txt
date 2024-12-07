@@ -24,6 +24,7 @@ Related:
 - /terms/2008-reset
 - /terms/clock
 - /terms/fix2010
+- /terms/newtpocalypse
 - /terms/real-time-clock
 - /terms/year-2010-problem
 - /terms/year-2026-problem
