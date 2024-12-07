@@ -36,6 +36,8 @@ Related:
 - /terms/ip
 - /terms/isp
 - /terms/localtalk
+- /terms/login-script
+- /terms/logout-script
 - /terms/modem
 - /terms/newton-internet-enabler
 - /terms/pop

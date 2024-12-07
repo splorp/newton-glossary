@@ -8,7 +8,7 @@ Date: 02 August 2024
 
 Text:
 
-A term coined by Mark Ross on the (link: /terms/newtontalk text: NewtonTalk) mailing list describing person who has developed a solution for repairing or replacing a (link: /terms/lid-clip text: lid clip) on a (link: /terms/messagepad-2000 text: MessagePad 2000) or (link: /terms/messagepad-2100 text: MessagePad 2100) device.
+A term [coined by Mark Ross](https://newtontalk.net/archive/newtontalk/2002-April/3550.html) on the (link: /terms/newtontalk text: NewtonTalk) mailing list describing person who has developed a solution for repairing or replacing a (link: /terms/lid-clip text: lid clip) on a (link: /terms/messagepad-2000 text: MessagePad 2000) or (link: /terms/messagepad-2100 text: MessagePad 2100) device.
 
 For some reason, the hinged (link: /terms/lid text: lid) found on most Newton devices is regularly (and mistakenly) referred to as a (link: /terms/door text: door) on the (link: /terms/newtontalk text: NewtonTalk) mailing list, hence the use of the phrase “door clip”.
 

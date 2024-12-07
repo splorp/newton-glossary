@@ -16,6 +16,7 @@ To initiate a connection, you would use a (link: /terms/login-script text: login
 
 Related:
 
+- /terms/internet-setup
 - /terms/isp
 - /terms/login-script
 - /terms/modem

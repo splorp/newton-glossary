@@ -8,7 +8,7 @@ Date: 31 December 2017
 
 Text:
 
-A colloquial reference to the (link: /terms/busy-cursor text: busy cursor) as coined by [David Abramowitz](https://newtontalk.net/archive/newtontalk/2001-August/1307.html) on the (link: /terms/newtontalk text: NewtonTalk) mailing list.
+A colloquial reference to the (link: /terms/busy-cursor text: busy cursor) as [coined by David Abramowitz](https://newtontalk.net/archive/newtontalk/2001-August/1307.html) on the (link: /terms/newtontalk text: NewtonTalk) mailing list.
 
 ----
 

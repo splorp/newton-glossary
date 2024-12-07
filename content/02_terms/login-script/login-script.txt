@@ -18,6 +18,7 @@ To terminate a connection, you would use a (link: /terms/logout-script text: log
 
 Related:
 
+- /terms/internet-setup
 - /terms/isp
 - /terms/logout-script
 - /terms/modem

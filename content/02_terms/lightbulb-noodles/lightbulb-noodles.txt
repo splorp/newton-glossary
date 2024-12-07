@@ -8,7 +8,7 @@ Date: 04 March 2018
 
 Text:
 
-A colloquial reference to the “squiggly” elements radiating from the Newton logo as coined by [Tom Buzzeo](https://twitter.com/etherknot/status/541570145588498432) on Twitter.
+A colloquial reference to the “squiggly” elements radiating from the Newton logo as [coined by Tom Buzzeo](https://twitter.com/etherknot/status/541570145588498432) on Twitter.
 
 (image: /assets/images/lightbulb-noodles-2x.gif alt: Newton logo width: 177)
 
