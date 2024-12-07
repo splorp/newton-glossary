@@ -16,4 +16,3 @@ Resource:
 
 - [Sarnau Website](https://sarnau.com/)
 - [GitHub: Markus Fritze](https://github.com/sarnau)
-- [Twitter: Markus Fritze](https://github.com/sarnau)

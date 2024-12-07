@@ -20,5 +20,6 @@ Resource:
 - [NewtonTalk FAQ](https://github.com/splorp/newtontalk-faq/blob/master/newtontalk-faq.md)
 - [NewtonTalk Mailing List Archives](https://newtontalk.net/archive/)
 - [MARC: NewtonTalk Mailing List Archives](https://marc.info/?l=newtontalk)
+- [Bluesky: NewtonTalk](https://bsky.app/profile/newtontalk.bsky.social)
 - [Mastodon: NewtonTalk](https://bitbang.social/@newtontalk)
 - [Twitter: NewtonTalk](https://twitter.com/newtontalk)
