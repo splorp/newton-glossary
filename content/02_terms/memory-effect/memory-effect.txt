@@ -27,7 +27,9 @@ Related:
 - /terms/mah
 - /terms/nicd
 - /terms/nimh
+- /terms/polyswitch
 - /terms/rhythm-method
+- /terms/thermistor
 
 ----
 

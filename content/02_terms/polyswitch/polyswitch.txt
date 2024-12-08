@@ -1,0 +1,47 @@
+Title: Polyswitch
+
+----
+
+Date: 08 December 2024
+
+----
+
+Text:
+
+A passive electronic component used to protect circuitry from current exceeding a certain threshold. Also known as a resettable fuse or (link: /terms/pptc text: PPTC), a polyswitch is used in conjunction with a (link: /terms/thermistor text: thermistor) in rechargeable (link: /terms/battery-pack text: battery packs) to prevent overcharging the (link: /terms/cell text: cells).
+
+Polyswitches can be found in battery packs used in (link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagepad-2100 text: MessagePad 2100), and (link: /terms/emate-300 text: eMate 300) devices.
+
+----
+
+Resource:
+
+- [My Apple Newton: Batteries 101 for the MessagePad 2x00s and eMate](http://myapplenewton.blogspot.com/2009/05/batteries-101-for-messagepad-2x00s-and.html)
+- [NewtonTalk: Battery rebuild - polyswitches](http://www.newtontalk.net/archive/newtontalk/2008-July/0220.html)
+
+----
+
+Related:
+
+- /terms/battery
+- /terms/battery-pack
+- /terms/cell
+- /terms/charge-state
+- /terms/deep-toast
+- /terms/long-term-storage
+- /terms/memory-effect
+- /terms/nicd
+- /terms/nimh
+- /terms/pptc
+- /terms/recell
+- /terms/recelled
+- /terms/receller
+- /terms/rhythm-method
+- /terms/rmp
+- /terms/thermistor
+
+----
+
+Source:
+
+- /sources/newtontalk

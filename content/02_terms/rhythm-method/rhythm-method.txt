@@ -29,7 +29,9 @@ Related:
 - /terms/memory-effect
 - /terms/nicd
 - /terms/nimh
+- /terms/polyswitch
 - /terms/power-port
+- /terms/thermistor
 - /terms/wall-wart
 
 ----

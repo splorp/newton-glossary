@@ -28,11 +28,13 @@ Related:
 - /terms/newttest
 - /terms/nicd
 - /terms/nimh
+- /terms/polyswitch
 - /terms/recell
 - /terms/recelled
 - /terms/receller
 - /terms/rhythm-method
 - /terms/rmp
+- /terms/thermistor
 
 ----
 

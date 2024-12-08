@@ -1,0 +1,19 @@
+Title: PPTC
+
+----
+
+Date: 08 December 2024
+
+----
+
+Text:
+
+Polymeric Positive Temperature Coefficient
+
+See: (link: /terms/polyswitch text: Polyswitch)
+
+----
+
+Source:
+
+- /sources/newtontalk

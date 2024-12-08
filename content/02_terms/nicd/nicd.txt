@@ -32,7 +32,9 @@ Related:
 - /terms/memory-effect
 - /terms/nicad
 - /terms/nimh
+- /terms/polyswitch
 - /terms/rhythm-method
+- /terms/thermistor
 
 ----
 

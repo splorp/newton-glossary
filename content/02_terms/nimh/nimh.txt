@@ -29,7 +29,9 @@ Related:
 - /terms/mah
 - /terms/memory-effect
 - /terms/nicd
+- /terms/polyswitch
 - /terms/rhythm-method
+- /terms/thermistor
 
 ----
 
