@@ -16,7 +16,6 @@ A rechargeable (link: /terms/battery text: battery) technology that is not susce
 
 Related:
 
-- /terms/backup-battery
 - /terms/battery
 - /terms/battery-booster-pack
 - /terms/battery-gauge

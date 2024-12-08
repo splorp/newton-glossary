@@ -18,7 +18,6 @@ Also referred to as a (link: /terms/nicad text: NiCad) battery.
 
 Related:
 
-- /terms/backup-battery
 - /terms/battery
 - /terms/battery-booster-pack
 - /terms/battery-gauge

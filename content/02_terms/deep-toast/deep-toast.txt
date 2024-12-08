@@ -24,9 +24,7 @@ Resource:
 
 Related:
 
-- /terms/backup-battery
 - /terms/battery
-- /terms/battery-booster-pack
 - /terms/battery-gauge
 - /terms/battery-pack
 - /terms/battery-tray

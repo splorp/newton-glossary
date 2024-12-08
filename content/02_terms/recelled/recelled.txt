@@ -14,9 +14,7 @@ The status of a (link: /terms/battery-pack text: battery pack) which has had non
 
 Related:
 
-- /terms/backup-battery
 - /terms/battery
-- /terms/battery-booster-pack
 - /terms/battery-gauge
 - /terms/battery-pack
 - /terms/battery-tray

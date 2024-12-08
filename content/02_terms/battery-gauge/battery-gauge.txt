@@ -17,7 +17,6 @@ Also referred to as the (link: /terms/battery-level-indicator text: Battery Leve
 Related:
 
 - /terms/analog-clock-button
-- /terms/backup-battery
 - /terms/bar-gauge
 - /terms/barber-pole-gauge
 - /terms/battery

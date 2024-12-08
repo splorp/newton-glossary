@@ -14,9 +14,7 @@ The current status of a rechargeable (link: /terms/battery text: battery) in a N
 
 Related:
 
-- /terms/backup-battery
 - /terms/battery
-- /terms/battery-booster-pack
 - /terms/battery-gauge
 - /terms/battery-pack
 - /terms/battery-tray

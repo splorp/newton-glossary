@@ -16,9 +16,7 @@ Can also refer to repeatedly unplugging and reinserting an AC power adapter into
 
 Related:
 
-- /terms/backup-battery
 - /terms/battery
-- /terms/battery-booster-pack
 - /terms/battery-gauge
 - /terms/battery-pack
 - /terms/battery-tray

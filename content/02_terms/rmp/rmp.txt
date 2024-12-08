@@ -30,8 +30,8 @@ Related:
 - /terms/cell
 - /terms/charge-state
 - /terms/deep-toast
-- /terms/long-term-storage
 - /terms/krm
+- /terms/long-term-storage
 - /terms/memory-effect
 - /terms/nicd
 - /terms/nimh

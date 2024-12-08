@@ -14,9 +14,7 @@ The process of replacing the nonfunctioning (link: /terms/cell text: cells) in a
 
 Related:
 
-- /terms/backup-battery
 - /terms/battery
-- /terms/battery-booster-pack
 - /terms/battery-gauge
 - /terms/battery-pack
 - /terms/battery-tray
