@@ -15,6 +15,7 @@ A standard (link: /terms/user-interface text: user interface) control that displ
 Related:
 
 - /terms/button
+- /terms/deselect
 - /terms/checklist
 - /terms/picture-radio-button
 - /terms/radio-button

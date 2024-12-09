@@ -1,0 +1,31 @@
+Title: Selection Box
+
+----
+
+Date: 09 December 2024
+
+----
+
+Text:
+
+A grey rectangle surrounding one or more (link: /terms/select text: selected) objects that have been circled with a (link: /terms/highlighting-mark text: highlighting mark). A selection box can appear around text, (link: /terms/ink-text text: ink text), (link: /terms/picture text: pictures), (link: /terms/shape text: shapes), or a combination of items. The selected (link: /terms/object text: objects) can be moved by (link: /terms/dragging text: dragging) the selection box. Dragging a corner or edge of a selection box around pictures or shapes with stretch, shrink, or distort the item.
+
+----
+
+Related:
+
+- /terms/deselect
+- /terms/drag
+- /terms/dragging
+- /terms/highlight
+- /terms/highlighting-mark
+- /terms/select
+- /terms/selection
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
+- /sources/newton-user-interface-guidelines

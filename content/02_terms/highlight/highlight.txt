@@ -14,10 +14,13 @@ To make something visually distinct, typically when it’s (link: /terms/select 
 
 Related:
 
+- /terms/deselect
 - /terms/heavy-mark
+- /terms/highlighting-mark
 - /terms/invert
 - /terms/select
 - /terms/selection
+- /terms/selection-box
 - /terms/user-interface
 
 ----
