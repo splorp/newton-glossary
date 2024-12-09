@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-To designate a (link: /terms/user-interface text: user interface) object by (link: /terms/tapping text: tapping), (link: /terms/double-tapping text: double-tapping), or (link: /terms/dragging text: dragging) across it. The next action that happens is applied to the selected object.
+To designate a (link: /terms/user-interface text: user interface) object by (link: /terms/tapping text: tapping), (link: /terms/double-tapping text: double-tapping), or (link: /terms/dragging text: dragging) across it. The next action that happens is applied to the selected (link: /terms/object text: object).
 
 ----
 
@@ -17,6 +17,8 @@ Related:
 - /terms/double-tap
 - /terms/double-tapping
 - /terms/drag
+- /terms/dragging
+- /terms/highlight
 - /terms/selection
 - /terms/tap
 - /terms/tap-and-a-half

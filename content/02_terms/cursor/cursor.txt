@@ -23,11 +23,12 @@ Related:
 - /terms/entry
 - /terms/field
 - /terms/input-line
+- /terms/key-view
 - /terms/method
 - /terms/newtonscript
 - /terms/object
 - /terms/soup
-- /terms/key-view
+- /terms/user-interface
 
 ----
 

@@ -16,6 +16,8 @@ Related:
 
 - /terms/heavy-mark
 - /terms/invert
+- /terms/select
+- /terms/selection
 - /terms/user-interface
 
 ----

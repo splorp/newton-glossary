@@ -18,6 +18,7 @@ Related:
 - /terms/checklist
 - /terms/picture-radio-button
 - /terms/radio-button
+- /terms/select
 - /terms/user-interface
 
 ----

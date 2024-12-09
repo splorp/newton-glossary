@@ -8,13 +8,20 @@ Date: 24 August 2016
 
 Text:
 
-The (link: /terms/user-interface text: user interface) object or group of user interface objects most recently (link: /terms/select text: selected) or designated to be affected by the next action.
+The (link: /terms/user-interface text: user interface) object or group of user interface (link: /terms/object text: objects) most recently (link: /terms/select text: selected) or designated to be affected by the next action.
 
 ----
 
 Related:
 
+- /terms/double-tap
+- /terms/double-tapping
+- /terms/drag
+- /terms/dragging
 - /terms/select
+- /terms/tap
+- /terms/tap-and-a-half
+- /terms/tapping
 - /terms/user-interface
 
 ----
