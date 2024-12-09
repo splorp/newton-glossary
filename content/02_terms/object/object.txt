@@ -10,6 +10,8 @@ Text:
 
 A typed piece of data that can be an (link: /terms/immediate text: immediate) value, (link: /terms/array text: array), (link: /terms/frame text: frame), or (link: /terms/binary-object text: binary object). In (link: /terms/newtonscript text: NewtonScript), only frame objects can hold (link: /terms/method text: methods) and receive (link: /terms/message text: messages).
 
+In terms of (link: /terms/user-interface text: user interface), an object can also refer to an onscreen element such as a (link: /terms/button text: button), (link: /terms/control text: control), text, (link: /terms/ink-text text: ink text), (link: /terms/picture text: picture), or (link: /terms/shape text: shape).
+
 ----
 
 Related:
