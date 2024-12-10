@@ -8,7 +8,7 @@ Date: 09 December 2024
 
 Text:
 
-To reverse the state of a previously (link: /terms/select text: selected) item.
+To reverse the state of a previously (link: /terms/select text: selected) object.
 
 For example, to deselect a (link: /terms/checkbox text: checkbox), the user would (link: /terms/tap text: tap) the checkbox or its text label, reversing its setting. To deselect text or (link: /terms/picture text: pictures), the user would tap the (link: /terms/pen text: pen) outside the (link: /terms/selection text: selection).
 

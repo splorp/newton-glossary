@@ -8,7 +8,9 @@ Date: 09 December 2024
 
 Text:
 
-A heavy line drawn through or around an (link: /terms/object text: object) in order to (link: /terms/highlight text: highlight) something or creation a (link: /terms/selection-box text: selection box). A highlighting mark can be drawn after holding the (link: /terms/pen text: pen) down in one place on the (link: /terms/screen text: screen) creating a large dot known as a (link: /terms/heavy mark text: heavy-mark). A Newton device will audibly (link: /terms/squeak text: squeak) when the dot appears.
+A heavy line drawn through or around an (link: /terms/object text: object) in order to (link: /terms/highlight text: highlight) something or creation a (link: /terms/selection-box text: selection box). A highlighting mark can be drawn after holding the (link: /terms/pen text: pen) down in one place on the (link: /terms/screen text: screen) creating a large dot known as a (link: /terms/heavy-mark text: heavy mark).
+
+(image: /assets/images/highlighting-mark-2x.gif alt: Screenshot of a Highlighting Mark around a block of text width: 182)
 
 ----
 

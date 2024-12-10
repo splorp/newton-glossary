@@ -8,7 +8,9 @@ Date: 12 June 2001
 
 Text:
 
-A large dot that appears when you hold the (link: /terms/pen text: pen) down in one place on the (link: /terms/screen text: screen). A heavy mark is used to start the action of (link: /terms/select text: selecting) text, (link: /terms/ink-text text: ink text), (link: /terms/picture text: pictures), (link: /terms/shape text: shapes), or a combination of (link: /terms/object text: objects). A Newton device will audibly (link: /terms/squeak text: squeak) when the dot appears.
+A large dot that appears when you hold the (link: /terms/pen text: pen) down in one place on the (link: /terms/screen text: screen). A heavy mark is used to start the action of (link: /terms/select text: selecting) text, (link: /terms/ink-text text: ink text), (link: /terms/picture text: pictures), (link: /terms/shape text: shapes), or a combination of (link: /terms/object text: objects).
+
+A Newton device will audibly (link: /terms/squeak text: squeak) when the dot appears.
 
 After a heavy mark has appeared, dragging the pen around a block of text or (link: /terms/picture text: picture) creates a (link: /terms/highlighting-mark text: highlighting mark).
 
