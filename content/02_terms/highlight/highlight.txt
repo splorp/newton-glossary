@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-To make something visually distinct, typically when it’s (link: /terms/select text: selected). Usually done by reversing or (link: /terms/invert text: inverting) black and white areas.
+To make something visually distinct, typically when text or a (link: /terms/control text: control) is (link: /terms/select text: selected). Usually indicated by reversing or (link: /terms/invert text: inverting) black and white areas.
 
 ----
 

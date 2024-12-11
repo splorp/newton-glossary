@@ -14,9 +14,12 @@ To (link: /terms/highlight text: highlight) by changing white (link: /terms/pixe
 
 Related:
 
-- /terms/heavy-mark
+- /terms/deselect
 - /terms/highlight
+- /terms/highlighting
 - /terms/pixel
+- /terms/select
+- /terms/selection
 - /terms/user-interface
 
 ----
