@@ -20,6 +20,7 @@ Related:
 - /terms/heavy-mark
 - /terms/highlight
 - /terms/highlighting-mark
+- /terms/hilite2000
 - /terms/pen
 - /terms/select
 - /terms/selection

@@ -16,6 +16,7 @@ For example, to deselect a (link: /terms/checkbox text: checkbox), the user woul
 
 Related:
 
+- /terms/hilite2000
 - /terms/select
 - /terms/selection
 - /terms/selection-box

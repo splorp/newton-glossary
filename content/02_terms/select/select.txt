@@ -21,6 +21,7 @@ Related:
 - /terms/dragging
 - /terms/highlight
 - /terms/highlighting-mark
+- /terms/hilite2000
 - /terms/selection
 - /terms/selection-box
 - /terms/tap

@@ -1,0 +1,43 @@
+Title: Hilite2000
+
+----
+
+Date: 11 December 2024
+
+----
+
+Text:
+
+A system enhancement developed by (link: /sources/byte-size text: Byte-Size Software) that provides easy access to various tools for editing text, changing (link: /terms/font text: font) attributes, and managing clipboard actions. The tools are automatically displayed as (link: /terms/button text: buttons) in a floating (link: /terms/palette text: palette) when text is (link: /terms/select text: selected).
+
+(image: /assets/images/hilite2000-2x.gif alt: Screenshot of the Hilite2000 floating palette width: 80)
+
+Also known as (link: /terms/h2k text: H2K).
+
+----
+
+Resource:
+
+- [Byte-Size Software: Hilite2000 Product Information](https://web.archive.org/web/20021204142316/http://home.earthlink.net/~firstvln/bytesize/h2k.html)
+- [UNNA: Hilite2000 1.2](http://www.unna.org/view.php?/utilites/system_enhancements/Hilite2000_1.2)
+- [My Apple Newton: BBEdit vs Hilite2000](http://myapplenewton.blogspot.com/2010/02/bbedit-vs-hilite-2000.html)
+
+----
+
+Related:
+
+- /terms/deselect
+- /terms/font
+- /terms/h2k
+- /terms/heavy-mark
+- /terms/highlight
+- /terms/highlighting-mark
+- /terms/invert
+- /terms/select
+- /terms/selection
+
+----
+
+Source:
+
+- /sources/byte-size

@@ -17,6 +17,7 @@ Related:
 - /terms/deselect
 - /terms/heavy-mark
 - /terms/highlighting-mark
+- /terms/hilite2000
 - /terms/invert
 - /terms/select
 - /terms/selection
