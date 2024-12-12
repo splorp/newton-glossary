@@ -14,6 +14,12 @@ Thomas Brand maintains [a slightly different opinion](https://web.archive.org/we
 
 ----
 
+Resource:
+
+- [Press Release: Apple Discontinues Development of Newton OS](https://web.archive.org/web/20040528183253/http://www.apple.com/pr/library/1998/feb/27newton.html)
+
+----
+
 Related:
 
 - /terms/an

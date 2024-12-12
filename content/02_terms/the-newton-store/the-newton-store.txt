@@ -8,7 +8,9 @@ Date: 18 October 2018
 
 Text:
 
-A chain of Canadian retail outlets owned by Celso Maiolo and Jake Koseleci that specialized in showcasing and supporting Newton hardware, software, and accessories. At one point, the operation had locations in Toronto, Montréal, and Vancouver. They were known for providing toll-free ordering, a customer club, and a seminar series. The Newton Store shifted to an Apple retail business after the cancellation of Newton development.
+A chain of Canadian retail outlets owned by Celso Maiolo and Jake Koseleci that specialized in showcasing and supporting Newton hardware, software, and accessories. At one point, the operation had locations in Toronto, Montréal, and Vancouver. They were known for providing toll-free ordering, a customer club, and a seminar series.
+
+The Newton Store shifted their business to Apple retail after the Newton was [discontinued](https://web.archive.org/web/20040528183253/http://www.apple.com/pr/library/1998/feb/27newton.html) in 1998.
 
 Celso Maiolo was also a founder of NetStrategy Software, the developers of the (link: /terms/enroute text: EnRoute) email package which was bundled with Newton devices.
 

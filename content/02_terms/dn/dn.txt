@@ -10,7 +10,13 @@ Text:
 
 During Newton
 
-The period of time between the introduction of the Newton and its cancellation. Generally agreed to be between August 2nd, 1993 and February 27th, 1998.
+The period of time between the introduction of the Newton and its discontinuation. Generally agreed to be between August 2nd, 1993 and [February 27th, 1998](https://web.archive.org/web/20040528183253/http://www.apple.com/pr/library/1998/feb/27newton.html).
+
+----
+
+Resource:
+
+- [Press Release: Apple Discontinues Development of Newton OS](https://web.archive.org/web/20040528183253/http://www.apple.com/pr/library/1998/feb/27newton.html)
 
 ----
 
