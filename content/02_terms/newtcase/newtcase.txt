@@ -26,6 +26,7 @@ Related:
 - /terms/member-soup
 - /terms/package
 - /terms/ragout
+- /terms/sbm-utilities
 - /terms/soup
 - /terms/soup-doctor
 - /terms/soup-icon

@@ -30,8 +30,8 @@ Related:
 - /terms/name-reference
 - /terms/newtonscript
 - /terms/object
-- /terms/reference
 - /terms/ragout
+- /terms/reference
 - /terms/slot
 - /terms/soup-doctor
 - /terms/soup-icon
