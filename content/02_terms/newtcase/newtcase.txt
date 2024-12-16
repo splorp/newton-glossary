@@ -22,10 +22,12 @@ Resource:
 
 Related:
 
+- /terms/corrupt-soup
 - /terms/member-soup
 - /terms/package
 - /terms/ragout
 - /terms/soup
+- /terms/soup-doctor
 - /terms/soup-icon
 - /terms/soup-mover
 - /terms/soupervisor-mechanism

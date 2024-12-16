@@ -8,13 +8,16 @@ Date: 11 October 2024
 
 Text:
 
-A (link: /terms/package-file text: package file) that has become damaged and can no longer be installed or removed from a Newton device. In the case of a corrupted (link: /terms/application text: application), attempting to launch the application by (link: /terms/tapped text: tapping) its (link: /terms/icon text: icon) will likely produce an (link: /terms/alert-box text: alert box), indicating that there is a problem with the package.
+A (link: /terms/package-file text: package file) that has become damaged and can no longer be installed or removed from a Newton device. For example, attempting to launch a (link: /terms/corrupted text: corrupted) application by (link: /terms/tapped text: tapping) its (link: /terms/icon text: icon) will likely produce an (link: /terms/alert-box text: alert box), indicating that there is a problem with the (link: /terms/package text: package).
 
 ----
 
 Related:
 
 - /terms/application
+- /terms/corrupt-heap
+- /terms/corrupt-soup
+- /terms/corrupted
 - /terms/extension
 - /terms/frozen-package
 - /terms/package

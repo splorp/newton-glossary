@@ -1,0 +1,31 @@
+Title: Soup Doctor
+
+----
+
+Date: 15 December 2024
+
+----
+
+Text:
+
+A utility that provides the user with the ability to browse, analyze, repair, or salvage data from a (link: /terms/corrupt-soup text: corrupt soup).
+
+----
+
+Related:
+
+- /terms/corrupt-soup
+- /terms/member-soup
+- /terms/sbm-utilities
+- /terms/soup
+- /terms/soup-icon
+- /terms/soup-mover
+- /terms/soupervisor-mechanism
+- /terms/store
+- /terms/union-soup
+
+----
+
+Source:
+
+- /sources/newtontalk

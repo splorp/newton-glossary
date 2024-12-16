@@ -1,0 +1,34 @@
+Title: Corrupt Soup
+
+----
+
+Date: 11 October 2024
+
+----
+
+Text:
+
+A (link: /terms/soup text: soup) that has become damaged due to a hardware or software failure and can no longer be accessed by the (link: /terms/operating system text: operating system), (link: /terms/application text: applications), or other (link: /terms/package text: packages).
+
+In some cases, a (link: /terms/corrupted text: corrupted) soup can be repaired or salvaged using a (link: /terms/soup-doctor text: soup doctor) utility such as (link: /terms/sbm-utilities text: SBM Utilities).
+
+----
+
+Related:
+
+- /terms/corrupt-heap
+- /terms/corrupt-package
+- /terms/corrupted
+- /terms/member-soup
+- /terms/sbm-utilities
+- /terms/soup
+- /terms/soup-doctor
+- /terms/soup-icon
+- /terms/soupervisor-mechanism
+- /terms/union-soup
+
+----
+
+Source:
+
+- /sources/newtontalk

@@ -15,6 +15,7 @@ In (link: /terms/newtonscript text: NewtonScript), a persistently stored (link: 
 Related:
 
 - /terms/application-definition-format
+- /terms/corrupt-soup
 - /terms/cursor
 - /terms/data-definition
 - /terms/database
@@ -32,6 +33,7 @@ Related:
 - /terms/reference
 - /terms/ragout
 - /terms/slot
+- /terms/soup-doctor
 - /terms/soup-icon
 - /terms/soup-mover
 - /terms/soupervisor-mechanism

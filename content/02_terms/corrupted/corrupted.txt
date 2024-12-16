@@ -1,0 +1,25 @@
+Title: Corrupted
+
+----
+
+Date: 15 December 2024
+
+----
+
+Text:
+
+The state in which a file, (link: /terms/application text: application), (link: /terms/package text: package), (link: /terms/soup text: soup), or some other data in memory has been accidentally or inadvertently modified or damaged by a hardware or software failure. Because it has been changed, the data is rendered either unreadable or scrambled.
+
+----
+
+Related:
+
+- /terms/corrupt-heap
+- /terms/corrupt-package
+- /terms/corrupt-soup
+
+----
+
+Source:
+
+- /sources/techencyclopedia

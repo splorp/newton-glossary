@@ -24,6 +24,7 @@ Resource:
 Related:
 
 - /terms/sbm
+- /terms/soup-doctor
 
 ----
 
