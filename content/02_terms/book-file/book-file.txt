@@ -1,0 +1,17 @@
+Title: Book File
+
+----
+
+Date: 17 December 2024
+
+----
+
+Text:
+
+See: (link: /terms/book-definition-file text: Book Definition File)
+
+----
+
+Source:
+
+- /sources/newton-toolkit-users-guide
