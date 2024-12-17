@@ -1,0 +1,43 @@
+Title: Packager
+
+----
+
+Date: 17 December 2024
+
+----
+
+Text:
+
+A utility used to set the correct file type and creator for Newton (link: /terms/package text: packages) when used on a Mac OS X computer. By default, any file with a `.pkg` (link: /terms/filename-extension text: filename extension) associates that file with the Mac OS X installer (link: /terms/application text: application). Packager processes a (link: /terms/package-file text: package file) so it is recognized with another (link: /terms/application text: application) such as (link: /terms/newton-connection-utilities text: Newton Connection Utilites).
+
+A packager is also a software development tool used to create Newton packages from (link: /terms/compiled text: compiled) source code.
+
+----
+
+Resource:
+
+- [Packager 2.5](https://simplicitas.net/mici/pkgs/pkger_e.html)
+----
+
+Related:
+
+- /terms/compiled
+- /terms/compiler
+- /terms/extension
+- /terms/filename-extension
+- /terms/nes-packager
+- /terms/newt0
+- /terms/newt64
+- /terms/newton-toolkit
+- /terms/newtonpkg
+- /terms/package
+- /terms/package-file
+- /terms/pkg
+- /terms/tntk
+
+----
+
+Source:
+
+- /sources/eckhart-koppen
+- /sources/michael-vacik

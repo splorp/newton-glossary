@@ -24,6 +24,7 @@ Related:
 - /terms/package-installer
 - /terms/package-store
 - /terms/packagebuddy
+- /terms/packager
 - /terms/pkg
 - /terms/thaw
 - /terms/thawed-package

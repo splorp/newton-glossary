@@ -19,6 +19,7 @@ Related:
 - /terms/package-file
 - /terms/package-installer
 - /terms/packagebuddy
+- /terms/packager
 - /terms/pkg
 
 ----

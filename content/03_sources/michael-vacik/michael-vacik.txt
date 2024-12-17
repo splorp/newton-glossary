@@ -1,0 +1,19 @@
+Title: Michael Vacík
+
+----
+
+Date: 17 December 2024
+
+----
+
+Text:
+
+A software developer and designer based in Prague, Czechia. Vacík worked on several Newton projects including the (link: /terms/dcl text: DCL) framework, (link: /terms/Escale text: Escale), and (link: /terms/packager text: Packager). More recently, he has been a (link: /terms/user interface text: user interface) designer at [Vivaldi Technologies](https://vivaldi.com/).
+
+----
+
+Resource:
+
+- [Michael Vacík Website](https://simplicitas.net/mici/) (Česky)
+- [Michael Vacík Website](https://simplicitas.net/mici/index_e.html) (English)
+- [LinkedIn: Michael Vacík](https://www.linkedin.com/in/mvacik/)
