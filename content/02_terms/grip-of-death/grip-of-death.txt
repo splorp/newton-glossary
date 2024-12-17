@@ -30,7 +30,6 @@ Related:
 - /terms/god
 - /terms/grips
 - /terms/heap
-- /terms/heap-space
 - /terms/system-memory
 - /terms/the-grip
 

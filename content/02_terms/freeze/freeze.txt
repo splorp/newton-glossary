@@ -12,7 +12,7 @@ To suspend the activity of an (link: /terms/application text: application) or (l
 
 To reactivate a package, you (link: /terms/thaw text: thaw) it.
 
-Freeze also refers to a situation where the (link: /terms/operating-system text: operating system) becomes unresponsive, usually due to a lack of (link: /terms/heap-space text: heap space).
+Freeze also refers to a situation where the (link: /terms/operating-system text: operating system) becomes unresponsive, usually due to a lack of (link: /terms/heap-space text: heap space). This often requires the Newton device to be (link: /terms/reset text: reset).
 
 ----
 
@@ -24,7 +24,6 @@ Related:
 - /terms/frozen-package
 - /terms/grip-of-death
 - /terms/heap
-- /terms/heap-space
 - /terms/package
 - /terms/package-file
 - /terms/snowflake

@@ -25,8 +25,8 @@ Related:
 - /terms/heap-space
 - /terms/ram
 - /terms/sram
-- /terms/system-ram
 - /terms/system-heap
+- /terms/system-ram
 - /terms/user-storage
 
 ----

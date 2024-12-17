@@ -22,7 +22,6 @@ Related:
 - /terms/frozen-package
 - /terms/grip-of-death
 - /terms/heap
-- /terms/heap-space
 - /terms/package
 - /terms/package-file
 - /terms/snowflake
