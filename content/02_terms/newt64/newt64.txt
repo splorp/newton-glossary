@@ -27,6 +27,7 @@ Related:
 - /terms/compiled
 - /terms/compiler
 - /terms/newt0
+- /terms/newton-toolkit
 - /terms/newtonscript
 - /terms/nsm
 - /terms/prota

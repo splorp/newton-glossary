@@ -34,6 +34,7 @@ Related:
 - /terms/green
 - /terms/lisp
 - /terms/macintosh-common-lisp
+- /terms/newton-toolkit
 - /terms/ralph
 - /terms/runt
 - /terms/undo-overview
