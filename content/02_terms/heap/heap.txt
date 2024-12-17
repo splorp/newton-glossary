@@ -17,6 +17,7 @@ Also referred to as (link: /terms/frames-heap text: Frames Heap).
 Related:
 
 - /terms/c-heap
+- /terms/corrupt-heap
 - /terms/frames-heap
 - /terms/freeze
 - /terms/garbage-collection

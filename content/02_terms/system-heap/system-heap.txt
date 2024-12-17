@@ -15,6 +15,7 @@ The area of (link: /terms/system-memory text: system memory) that is used for fu
 Related:
 
 - /terms/c-heap
+- /terms/corrupt-heap
 - /terms/garbage-collection
 - /terms/heap
 - /terms/newtonscript

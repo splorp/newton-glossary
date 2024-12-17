@@ -24,6 +24,7 @@ Resource:
 Related:
 
 - /terms/card
+- /terms/corrupt-heap
 - /terms/findgod
 - /terms/freeze
 - /terms/god

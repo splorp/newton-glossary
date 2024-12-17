@@ -18,6 +18,7 @@ Freeze also refers to a situation where the (link: /terms/operating-system text:
 
 Related:
 
+- /terms/corrupt-heap
 - /terms/freezing
 - /terms/frozen
 - /terms/frozen-package

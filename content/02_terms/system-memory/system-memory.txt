@@ -16,6 +16,7 @@ Also referred to as (link: /terms/heap-space text: Heap Space).
 
 Related:
 
+- /terms/corrupt-heap
 - /terms/dram
 - /terms/flash-ram
 - /terms/garbage-collection
