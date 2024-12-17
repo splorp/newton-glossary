@@ -29,6 +29,7 @@ Related:
 - /terms/resource-file
 - /terms/stream-file
 - /terms/text-file
+- /terms/tntk
 
 ----
 

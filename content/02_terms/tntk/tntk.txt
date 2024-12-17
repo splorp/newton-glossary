@@ -1,0 +1,38 @@
+Title: tntk
+
+----
+
+Date: 17 December 2024
+
+----
+
+Text:
+
+A command line (link: /terms/compiler text: compiler) and (link: /terms/packager text: packager) for (link: /terms/newtonscript text: NewtonScript) that uses text files for programmatic input rather than a graphical (link: /terms/user-interface text: user interface) found in development tools such as (link: /terms/newton-toolkit text: Newton Toolkit).
+
+tntk was developed by (link: /sources/eckhart-koppen text: Eckhart Köppen) for use on UNIX platforms and is based on the (link: /terms/newt0 text: Newt/0) code originally released by (link: /sources/gnue text: Makoto “gnue” Nukui).
+
+----
+
+Resource:
+
+- [40hz: tntk](https://40hz.org/Pages/newton/hacking/tntk/)
+- [GitHub: tntk](https://github.com/ekoeppen/tntk)
+
+----
+
+Related:
+
+- /terms/compiled
+- /terms/compiler
+- /terms/newt0
+- /terms/newt64
+- /terms/newton-toolkit
+- /terms/newtonscript
+- /terms/ntkc
+
+----
+
+Source:
+
+- /sources/eckhart-koppen

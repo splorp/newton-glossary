@@ -29,5 +29,6 @@ Related:
 - /terms/newtonscript
 - /terms/nsm
 - /terms/prota
+- /terms/tntk
 - /terms/undo-overview
 - /terms/wilma

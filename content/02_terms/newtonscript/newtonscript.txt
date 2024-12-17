@@ -38,6 +38,7 @@ Related:
 - /terms/prota
 - /terms/ralph
 - /terms/script
+- /terms/tntk
 - /terms/undo-overview
 - /terms/viewframe
 - /terms/wallyscript

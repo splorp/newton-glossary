@@ -25,6 +25,7 @@ Related:
 - /terms/newt0
 - /terms/newt64
 - /terms/prota
+- /terms/tntk
 - /terms/waba
 
 ----
