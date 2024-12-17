@@ -1,0 +1,35 @@
+Title: Compiled
+
+----
+
+Date: 17 December 2024
+
+----
+
+Text:
+
+The result of using a software (link: /terms/compiler text: compiler) to convert various (link: /terms/project-file text: project files) containing source code and other (link: /terms/resource text: resources) into an executable program.
+ 
+----
+
+Related:
+
+- /terms/build
+- /terms/compiler
+- /terms/leibniz
+- /terms/newt0
+- /terms/newt64
+- /terms/newton-toolkit
+- /terms/project
+- /terms/project-build
+- /terms/project-file
+- /terms/resource
+- /terms/resource-file
+- /terms/stream-file
+- /terms/text-file
+
+----
+
+Source:
+
+- /sources/techencyclopedia

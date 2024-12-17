@@ -18,6 +18,8 @@ Related:
 
 - /terms/bitmap
 - /terms/build
+- /terms/compiled
+- /terms/compiler
 - /terms/icon
 - /terms/layout-file
 - /terms/newton-toolkit

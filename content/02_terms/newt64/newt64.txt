@@ -8,7 +8,7 @@ Date: 05 June 2024
 
 Text:
 
-A prototype-oriented (link: /terms/newtonscript text: NewtonScript) interpreter and compiler designed to run on 64-bit processors.
+A prototype-oriented (link: /terms/newtonscript text: NewtonScript) interpreter and (link: /terms/compiler text: compiler) designed to run on 64-bit processors.
 
 NEWT/64 was developed by (link: /sources/matthias-melcher text: Matthias Melcher) and is based on the (link: /terms/newt0 text: Newt/0) code originally released by (link: /sources/gnue text: Makoto “gnue” Nukui)..
 
@@ -24,6 +24,8 @@ Resource:
 
 Related:
 
+- /terms/compiled
+- /terms/compiler
 - /terms/newt0
 - /terms/newtonscript
 - /terms/nsm

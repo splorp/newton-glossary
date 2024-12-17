@@ -8,13 +8,15 @@ Date: 24 May 2001
 
 Text:
 
-A file that resides in the same folder as the (link: /terms/newton-toolkit text: Newton Toolkit) application containing (link: /terms/newtonscript text: NewtonScript) code that you want available in any (link: /terms/project text: project), hence the (link: /terms/global text: global) designation. It is compiled each time you launch the Newton Toolkit (link: /terms/application text: application).
+A file that resides in the same folder as the (link: /terms/newton-toolkit text: Newton Toolkit) application containing (link: /terms/newtonscript text: NewtonScript) code that you want available in any (link: /terms/project text: project), hence the (link: /terms/global text: global) designation. It is (link: /terms/compiled text: compiled) each time you launch the Newton Toolkit (link: /terms/application text: application).
 
 ----
 
 Related:
 
 - /terms/build
+- /terms/compiled
+- /terms/compiler
 - /terms/newton-toolkit
 - /terms/newtonscript
 - /terms/project

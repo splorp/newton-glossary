@@ -8,12 +8,14 @@ Date: 24 May 2001
 
 Text:
 
-A version of a complied program. Also refers to the act of compiling various (link: /terms/project-file text: project files) into the executable program.
+A version of a (link: /terms/compiled text: compiled) program. Also refers to the act of compiling various (link: /terms/project-file text: project files) into the executable program.
 
 ----
 
 Related:
 
+- /terms/compiled
+- /terms/compiler
 - /terms/newton-toolkit
 - /terms/project
 - /terms/project-build

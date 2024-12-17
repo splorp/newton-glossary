@@ -17,6 +17,8 @@ Usually identified by the (link: /terms/txt text: .txt) filename extension.
 Related:
 
 - /terms/build
+- /terms/compiled
+- /terms/compiler
 - /terms/layout-file
 - /terms/newton-toolkit
 - /terms/project

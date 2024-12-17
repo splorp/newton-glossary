@@ -19,6 +19,8 @@ Also referred to as an (link: /terms/object-stream-file text: Object Stream File
 Related:
 
 - /terms/build
+- /terms/compiled
+- /terms/compiler
 - /terms/layout-file
 - /terms/newton-toolkit
 - /terms/newtonscript
