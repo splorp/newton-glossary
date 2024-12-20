@@ -10,7 +10,7 @@ Text:
 
 Internet Message Access Protocol
 
-A standard protocol used to retrieve email messages from a mail server over a (link: /terms/tcp-ip text: TCP/IP) connection. IMAP was designed to enable complete management of an email account using multiple clients.
+A standard (link: /terms/protocol text: protocol) used to retrieve email messages from a mail server over a (link: /terms/tcp-ip text: TCP/IP) connection. IMAP was designed to enable complete management of an email account using multiple clients.
 
 (link: /terms/mail-v text: Mail V) is a (link: /terms/application text: application) that uses IMAP to access email on a Newton device.
 
@@ -31,6 +31,7 @@ Related:
 - /terms/mime
 - /terms/newtonmail
 - /terms/pop
+- /terms/protocol
 - /terms/simplemail
 - /terms/smtp
 - /terms/tcp-ip

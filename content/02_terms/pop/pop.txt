@@ -10,7 +10,7 @@ Text:
 
 Post Office Protocol
 
-A standard protocol used to retrieve email messages from a mail server over a (link: /terms/tcp-ip text: TCP/IP) connection.
+A standard (link: /terms/protocol text: protocol) used to retrieve email messages from a mail server over a (link: /terms/tcp-ip text: TCP/IP) connection.
 
 (link: /terms/simplemail text: SimpleMail) is a (link: /terms/application text: application) that uses POP to access email on a Newton device.
 
@@ -34,6 +34,7 @@ Related:
 - /terms/mime
 - /terms/newtonmail
 - /terms/pop3
+- /terms/protocol
 - /terms/simplemail
 - /terms/smtp
 - /terms/tcp-ip

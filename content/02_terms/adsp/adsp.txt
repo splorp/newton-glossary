@@ -16,4 +16,7 @@ A (link: /terms/protocol text: protocol) originally designed to facilitate commu
 
 Related:
 
+- /terms/appletalk
+- /terms/ethertalk
+- /terms/localtalk
 - /terms/protocol

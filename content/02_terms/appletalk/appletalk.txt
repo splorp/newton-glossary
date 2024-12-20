@@ -14,6 +14,7 @@ A routable networking (link: /terms/protocol text: protocol) developed by [Apple
 
 Related:
 
+- /terms/adsp
 - /terms/at
 - /terms/ethernet
 - /terms/ethertalk

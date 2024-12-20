@@ -10,7 +10,7 @@ Text:
 
 A collection of settings needed to connect to the internet over an (link: /terms/ethernet text: Ethernet) network, (link: /terms/appletalk text: AppleTalk) network, direct serial connection to another computer, or through an (link: /terms/isp text: ISP) using a (link: /terms/modem text: modem).
 
-An internet setup can include the type of connection, the protocol being used (such as (link: /terms/ppp text: PPP) or (link: /terms/slip-protocol text: SLIP)), an ISP telephone access number, login credentials (such as username and password), the zone for a (link: /terms/localtalk text: LocalTalk) connection, (link: /terms/login-script text: login scripts), a local (link: /terms/ip text: IP) address, a gateway or router address, a (link: /terms/dns text: DNS) address, as well as email account information.
+An internet setup can include the type of connection, the (link: /terms/protocol text: protocol) being used (such as (link: /terms/ppp text: PPP) or (link: /terms/slip-protocol text: SLIP)), an ISP telephone access number, login credentials (such as username and password), the zone for a (link: /terms/localtalk text: LocalTalk) connection, (link: /terms/login-script text: login scripts), a local (link: /terms/ip text: IP) address, a gateway or router address, a (link: /terms/dns text: DNS) address, as well as email account information.
 
 Internet Setup is also the name of an (link: /terms/application text: application) included with the (link: /terms/newton-internet-enabler text: Newton Internet Enabler) software used to create and edit internet setups.
 

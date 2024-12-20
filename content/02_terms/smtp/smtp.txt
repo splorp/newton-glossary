@@ -10,7 +10,7 @@ Text:
 
 Simple Mail Transfer Protocol
 
-A standard protocol used to send and recieve email messages from a mail server over a (link: /terms/tcp-ip text: TCP/IP) connection.
+A standard (link: /terms/protocol text: protocol) used to send and recieve email messages from a mail server over a (link: /terms/tcp-ip text: TCP/IP) connection.
 
 (link: /terms/simplemail text: SimpleMail) and (link: /terms/mail-v text: Mail V) are (link: /terms/application text: applications) that use SMTP to send email from a Newton device.
 
@@ -32,6 +32,7 @@ Related:
 - /terms/mime
 - /terms/newtonmail
 - /terms/pop
+- /terms/protocol
 - /terms/simplemail
 - /terms/tcp-ip
 

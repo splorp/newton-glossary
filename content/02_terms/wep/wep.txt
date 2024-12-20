@@ -19,6 +19,7 @@ Related:
 - /terms/802-11
 - /terms/airmac
 - /terms/airport
+- /terms/protocol
 - /terms/wavelan
 - /terms/wireless-access-point
 

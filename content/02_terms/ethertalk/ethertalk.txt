@@ -20,6 +20,7 @@ Resource:
 
 Related:
 
+- /terms/adsp
 - /terms/appletalk
 - /terms/ethernet
 - /terms/internet-setup

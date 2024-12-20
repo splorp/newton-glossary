@@ -14,6 +14,7 @@ A specific implementation of the physical layer pertaining to (link: /terms/appl
 
 Related:
 
+- /terms/adsp
 - /terms/appletalk
 - /terms/ethernet
 - /terms/ethertalk
