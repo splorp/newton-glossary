@@ -10,6 +10,8 @@ Text:
 
 The document format (or (link: /terms/stationery text: stationery)) used by the word processor component of the (link: /terms/newton-works text: Newton Works) application. The Newton Works word processor does not utilize (link: /terms/handwriting-recognition text: handwriting recognition), so text must be entered into the word processor using a keyboard.
 
+(image: /assets/images/paper-2x.gif alt: Screenshot of a blank Paper document in Newton Works width: 482)
+
 ----
 
 Resource:
