@@ -18,14 +18,18 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the (link: /latest text: latest additions) page.
 
-### _$v
+### 4.3.2
 
-Terms: _$t
-Sources: _$s
+Terms: 1,608
+Sources: 185
 
 #### Summary of changes:
 
-+ 
++ Added 26 new terms
++ Added 3 new sources
++ Updated and expanded dozens of existing entries
++ Updated [Kirby Redirects](https://github.com/bnomei/kirby3-redirects) plugin to version [4.3.0](https://github.com/bnomei/kirby3-redirects/releases/tag/v4.3.0)
++ Updated [Kirby](https://getkirby.com/) to version [4.5.0](https://github.com/getkirby/kirby/releases/tag/4.5.0)
 
 ### 4.3.1
 
