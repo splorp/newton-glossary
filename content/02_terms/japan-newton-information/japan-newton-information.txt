@@ -1,0 +1,27 @@
+Title: Japan Newton Information
+
+----
+
+Date: 21 December 2024
+
+----
+
+Text:
+
+A Japanese website that provided news, information, and other resources related to the Newton platform. Also known as (link: /terms/jni text: JNI), the website was maintained by [Nobuo Kawaguchi](https://web.archive.org/web/20001211055800/http://www.inagaki.nuie.nagoya-u.ac.jp/person/kawaguti/index.html), an engineering professor at Nagoya University.
+
+Not to be confused with the (link: /terms/newton-japan text: Newton Japan) user group.
+
+----
+
+Resource:
+
+- [Japan Newton Information Website](https://web.archive.org/web/20001016105521/http://www.sakabe.nuie.nagoya-u.ac.jp/newton/index.html) (Japanese)
+- [Japan Newton Information Website](https://web.archive.org/web/20001016120611/http://www.sakabe.nuie.nagoya-u.ac.jp/newton/index.e.html) (English)
+
+----
+
+Related:
+
+- /terms/jni
+- /terms/newton-japan

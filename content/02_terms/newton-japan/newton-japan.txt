@@ -12,6 +12,8 @@ The first (link: /terms/newton-user-group text: Newton user group) based in Japa
 
 Mistakenly referred to as (link: /terms/jnug text: JNUG) is early editions of the (link: /sources/newton-faq text: Newton FAQ), Newton Japan was established in 1995 and active until late 1998.
 
+Not to be confused with the (link: /terms/japan-newton-information text: Japan Newton Information) website.
+
 ----
 
 Resource:
@@ -31,6 +33,7 @@ Related:
 - /terms/gnut
 - /terms/hknug
 - /terms/inug
+- /terms/japan-newton-information
 - /terms/jnug
 - /terms/knug
 - /terms/lanug
