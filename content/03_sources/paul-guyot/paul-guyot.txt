@@ -8,9 +8,11 @@ Date: 24 May 2001
 
 Text:
 
-A Paris-based software developer whose projects include the very first (link: /terms/system-update text: system update) for (link: /terms/newton-os text: Newton OS) created outside of [Apple](https://www.apple.com/), the (link: /terms/ata-support text: ATA Support) driver, and the (link: /terms/einstein text: Einstein) emulator.
+A Paris-based software developer and technology consultant whose projects include the very first (link: /terms/system-update text: system update) for (link: /terms/newton-os text: Newton OS) created outside of [Apple](https://www.apple.com/).
 
-Sporting a PhD in artificial intelligence, Guyot is currently the CEO of [Semiocast](https://semiocast.com/), a company which applies AI techniques to extract consumer insights from social media conversations. What.
+Other contributions to the Newton community include the (link: /terms/ata-support text: ATA Support) driver, the (link: /terms/einstein text: Einstein) emulator, and a version of the (link: /terms/mbed-tls text: Mbed TLS) secure communications library.
+
+Paul also sports a PhD in artificial intelligence, for what its worth.
 
 ----
 
@@ -18,4 +20,4 @@ Resource:
 
 - [Paul Guyot Website](http://www.paul-guyot.com/)
 - [Kallisys Website](http://www.kallisys.com/)
-- [Semiocast Website](https://semiocast.com/)
+- [LinkedIn: Paul Guyot](https://www.linkedin.com/in/pguyot/)
