@@ -1,0 +1,36 @@
+Title: SSL
+
+----
+
+Date: 21 December 2024
+
+----
+
+Text:
+
+Secure Sockets Layer
+
+A security (link: /terms/protocol text: protocol) used to validate the identity of websites and create encrypted connections over the internet. Originally developed by [Netscape](https://web.archive.org/web/19961020015116/http://www.netscape.com/), SSL was superseded by (link: /terms/tls text: TLS) (Transport Layer Security).
+
+----
+
+Resource:
+
+- [Wikipedia: Secure Sockets Layer](https://en.wikipedia.org/wiki/Secure_Sockets_Layer)
+- [Netscape Communications: The SSL Protocol](https://web.archive.org/web/19970614020952/http://home.netscape.com/newsref/std/SSL.html)
+
+----
+
+Related:
+
+- /terms/imap
+- /terms/mail-v
+- /terms/mbed-tls
+- /terms/protocol
+- /terms/tls
+
+----
+
+Source:
+
+- /sources/techencyclopedia

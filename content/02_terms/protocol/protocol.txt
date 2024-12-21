@@ -29,6 +29,7 @@ Related:
 - /terms/irlap
 - /terms/irlmp
 - /terms/localtalk
+- /terms/mbed-tls
 - /terms/mime
 - /terms/newtir
 - /terms/obex
@@ -36,9 +37,11 @@ Related:
 - /terms/ppp
 - /terms/slip-protocol
 - /terms/smtp
+- /terms/ssl
 - /terms/tcp
 - /terms/tcp-ip
 - /terms/tinytp
+- /terms/tls
 - /terms/wep
 
 ----

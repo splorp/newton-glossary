@@ -28,6 +28,7 @@ Related:
 - /terms/imap
 - /terms/in-box
 - /terms/inout-box
+- /terms/mbed-tls
 - /terms/mime
 - /terms/newtonmail
 - /terms/out-box
@@ -35,6 +36,8 @@ Related:
 - /terms/routing
 - /terms/simplemail
 - /terms/smtp
+- /terms/ssl
+- /terms/tls
 - /terms/transport
 - /terms/vcard
 

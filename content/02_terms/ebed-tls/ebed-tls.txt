@@ -1,0 +1,37 @@
+Title: Mbed TLS
+
+----
+
+Date: 21 December 2024
+
+----
+
+Text:
+
+An open source code library that provides implementations of (link: /terms/tls text: TLS) and (link: /terms/ssl text: SSL) protocols for use in software development.
+
+(link: /sources/paul-guyot text: Paul Guyot) created a (link: /terms/newton-os text: Newton OS) version of Mbed TLS, allowing third-party (link: /terms/applications text: application) such as the (link: /terms/mail-v text: Mail V) email client to use use secure (link: /terms/imap text: IMAP) to communicate with mail servers.
+
+----
+
+Resource:
+
+- [Trusted Firmware: Mbed TLS](https://www.trustedfirmware.org/projects/mbed-tls/)
+- [GitHub: MbedTLS for Newton OS](https://github.com/pguyot/mbedtls-NewtonOS)
+
+----
+
+Related:
+
+- /terms/imap
+- /terms/mail-v
+- /terms/protocol
+- /terms/ssl
+- /terms/tls
+
+----
+
+Source:
+
+- /sources/paul-guyot
+- /sources/trusted-firmware
