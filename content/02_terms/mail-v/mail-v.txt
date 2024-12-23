@@ -8,7 +8,9 @@ Date: 24 August 2016
 
 Text:
 
-An email (link: /terms/transport text: transport) created by (link: /sources/simon-bell text: Simon Bell) that allows the user to send and receive messages over the internet using the (link: /terms/pop3 text: POP3), (link: /terms/imap4 text: IMAP4), and (link: /terms/smtp text: SMTP). Mail V is also (link: /terms/mime text: MIME) compliant, enabling the user to send, receive, and forward attachments such as Newton (link: /terms/package text: packages), (link: /terms/notepad text: Notepad) sketches and recordings, as well as (link: /terms/vcard text: vCards).
+An email (link: /terms/transport text: transport) created by (link: /sources/simon-bell text: Simon Bell) that allows the user to send and receive messages over the internet using the (link: /terms/pop3 text: POP3), (link: /terms/imap4 text: IMAP4), and (link: /terms/smtp text: SMTP).
+
+Mail V is also (link: /terms/mime text: MIME) compliant, enabling the user to send, receive, and forward attachments such as Newton (link: /terms/package text: packages), (link: /terms/notepad text: Notepad) sketches and recordings, as well as (link: /terms/vcard text: vCards).
 
 According to Simon, Mail V is pronounced “Mail Five” and not “Mail Vee” as often thought. The name was chosen in homage to [Mac OS X](https://en.wikipedia.org/wiki/MacOS#Mac_OS_X), which was usually read as “Mac OS Ten”.
 

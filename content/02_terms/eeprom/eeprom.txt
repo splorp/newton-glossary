@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-Electrically Erasable Programmable Read Only Memory
+Electrically Erasable Programmable Read-Only Memory
 
 A type of (link: /terms/rom text: ROM) that is programmable, reusable, and able to hold its content until erased using an electric current.
 

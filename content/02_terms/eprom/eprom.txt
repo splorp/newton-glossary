@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-Erasable Programmable Read Only Memory
+Erasable Programmable Read-Only Memory
 
 A type of (link: /terms/rom text: ROM) that is programmable, reusable, and able to hold its content until erased under ultraviolet light.
 
