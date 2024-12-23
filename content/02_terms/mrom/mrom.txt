@@ -1,0 +1,19 @@
+Title: MROM
+
+----
+
+Date: 23 December 2024
+
+----
+
+Text:
+
+Mask Read-Only Memory
+
+See: (link: /terms/rom text: ROM)
+
+----
+
+Source:
+
+- /sources/techencyclopedia
