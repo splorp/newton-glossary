@@ -22,7 +22,7 @@ Resource:
 Related:
 
 - /terms/cadenza
-- /terms/name-file
+- /terms/cadenza-connect
 - /terms/lookout
 - /terms/newton-connection
 - /terms/newton-connection-kit

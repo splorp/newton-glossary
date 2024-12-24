@@ -23,6 +23,7 @@ Resource:
 Related:
 
 - /terms/cadenza
+- /terms/cadenza-connect
 - /terms/lookout
 - /terms/newton-connection
 - /terms/newton-connection-kit

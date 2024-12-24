@@ -21,6 +21,7 @@ Resource:
 Related:
 
 - /terms/cadenza
+- /terms/cadenza-connect
 - /terms/lookout
 - /terms/n2n
 - /terms/newton-connection
