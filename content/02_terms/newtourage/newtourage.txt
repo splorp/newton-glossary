@@ -23,6 +23,7 @@ Related:
 
 - /terms/cadenza
 - /terms/name-file
+- /terms/lookout
 - /terms/newton-connection
 - /terms/newton-connection-kit
 - /terms/newton-connection-pro-kit

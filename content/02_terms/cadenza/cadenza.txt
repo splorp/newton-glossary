@@ -32,6 +32,7 @@ Related:
 - /terms/backup
 - /terms/cadenza-connect
 - /terms/cadenza-forte
+- /terms/lookout
 - /terms/newton-connection
 - /terms/newton-connection-kit
 - /terms/newton-connection-pro-kit

@@ -21,6 +21,7 @@ Related:
 - /terms/cadenza
 - /terms/card
 - /terms/dateman
+- /terms/lookout
 - /terms/moreinfo
 - /terms/name-card
 - /terms/names

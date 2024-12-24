@@ -15,6 +15,7 @@ A process where the data stored in two different locations is compared and updat
 Related:
 
 - /terms/cadenza
+- /terms/lookout
 - /terms/escale
 - /terms/newton-connection
 - /terms/newton-connection-kit

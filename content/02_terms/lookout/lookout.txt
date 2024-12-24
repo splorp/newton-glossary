@@ -1,0 +1,45 @@
+Title: LookOut
+
+----
+
+Date: 24 December 2024
+
+----
+
+Text:
+
+Software developed by (link: /sources/seamless-software text: Seamless Software) that provided (link: /terms/synchronization text: synchronization) between a Newton device and Microsoft Outlook running on a Windows computer.
+
+LookOut supported synchronization Outlook contacts with the (link: /terms/name-file text: Name File), appointments with the (link: /terms/date-book text: Date Book), and tasks the (link: /terms/to-do-list text: To Do List).
+
+----
+
+Resource:
+
+- [Seamless Software: LookOut Product Information](https://web.archive.org/web/19980628145110/http://www.writeonwares.com/)
+- [UNNA: LookOut 1.1](http://www.unna.org/view.php?/utilites/LookOut)
+
+----
+
+Related:
+
+- /terms/backup
+- /terms/cadenza
+- /terms/cadenza-connect
+- /terms/newton-connection
+- /terms/newton-connection-kit
+- /terms/newton-connection-pro-kit
+- /terms/newton-connection-utilities
+- /terms/newtourage
+- /terms/newtsync
+- /terms/notes2notes
+- /terms/now-up-to-date
+- /terms/nwt
+- /terms/personal-information-manager
+- /terms/synchronize
+
+----
+
+Source:
+
+- /sources/seamless-software
