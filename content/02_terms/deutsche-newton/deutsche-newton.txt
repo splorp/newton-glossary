@@ -14,11 +14,13 @@ A colloquial term referring to a Newton device running a German version of (link
 
 Related:
 
+- /terms/bzt
 - /terms/messenotizen
 - /terms/newton-os
 - /terms/notephone
 - /terms/oad
 - /terms/siemens-online-terminal
+- /terms/tae
 
 ----
 

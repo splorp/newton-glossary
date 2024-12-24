@@ -21,6 +21,7 @@ Resource:
 Related:
 
 - /terms/atnet
+- /terms/bzt
 - /terms/clone
 - /terms/deutsche-newton
 - /terms/oad
@@ -28,6 +29,7 @@ Related:
 - /terms/notephone-2000
 - /terms/notephone-ii
 - /terms/siemens-online-terminal
+- /terms/tae
 
 ----
 

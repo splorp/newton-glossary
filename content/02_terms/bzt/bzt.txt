@@ -1,0 +1,44 @@
+Title: BZT
+
+----
+
+Date: 24 December 2024
+
+----
+
+Text:
+
+Bundesamt für Zulassungen in der Telekommunikation
+
+A defunct German federal agency once responsible for the approval of telecommunication devices.
+
+At the time, any device capable of connecting to the German telecommunication system required approval by the agency. This included telephones, fax machines, and (link: /terms/modem text: modems).
+
+A variation of the [German Coat of Arms](https://en.wikipedia.org/wiki/Coat_of_arms_of_Germany), along with the initials “BZT” appeared on the back of (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), and (link: /terms/messagepad-130 text: MessagePad 130) devices. 
+
+----
+
+Resource:
+
+- [Wikipedia: Bundesamt für Zulassungen in der Telekommunikation](https://de.wikipedia.org/wiki/Bundesamt_f%C3%BCr_Zulassungen_in_der_Telekommunikation)
+- [Wikipedia: Federal Office for Approvals in Telecommunications](https://en.wikipedia.org/wiki/Federal_Office_for_Approvals_in_Telecommunications)
+- [NewtonTalk: Another MP120 Question](https://newtontalk.net/archive/newtontalk/2001-September/1673.html)
+
+----
+
+Related:
+
+- /terms/atnet
+- /terms/deutsche-newton
+- /terms/messenotizen
+- /terms/modem
+- /terms/notephone
+- /terms/oad
+- /terms/siemens-online-terminal
+- /terms/tae
+
+----
+
+Source:
+
+- /sources/newtontalk

@@ -21,12 +21,14 @@ Resource:
 
 Related:
 
+- /terms/bzt
 - /terms/messenotizen
 - /terms/notephone
 - /terms/notephone-2000
 - /terms/notephone-ii
 - /terms/oad
 - /terms/siemens-online-terminal
+- /terms/tae
 
 ----
 

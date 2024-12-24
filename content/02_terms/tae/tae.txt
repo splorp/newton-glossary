@@ -22,7 +22,6 @@ Related:
 
 - /terms/rj-11
 - /terms/rj-45
-- /terms/tae
 - /terms/xjack
 
 ----
