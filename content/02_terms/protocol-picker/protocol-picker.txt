@@ -1,0 +1,33 @@
+Title: Protocol Picker
+
+----
+
+Date: 24 December 2024
+
+----
+
+Text:
+
+A (link: /terms/picker text: picker) in an (link: /terms/internet-setup text: Internet Setup) settings slip that displays a list of connection (link: /terms/protocol text: protocols) when (link: /terms/tapped text: tapped). Protocols include (link: /terms/ppp text: PPP) and (link: /terms/slip-protocol text: SLIP).
+
+(image: /assets/images/protocol-picker-2x.gif alt: Screenshot of the Protocol Picker width: 105)
+
+On devices with (link: /terms/newton-internet-enabler text: Newton Internet Enabler) 1.0 installed, the picker is labeled “Link Protocol”, rather than simply “Protocol” on devices with (link: /terms/nie text: NIE) 2.0.
+
+----
+
+Related:
+
+- /terms/internet-setup
+- /terms/link-protocol-picker
+- /terms/newton-internet-enabler
+- /terms/picker
+- /terms/ppp
+- /terms/slip-protocol
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-internet-enabler-users-manual

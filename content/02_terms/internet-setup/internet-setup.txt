@@ -43,6 +43,7 @@ Related:
 - /terms/pop
 - /terms/ppp
 - /terms/protocol
+- /terms/protocol-picker
 - /terms/slip-protocol
 - /terms/smtp
 - /terms/tcp

@@ -26,6 +26,7 @@ Related:
 - /terms/people-picker
 - /terms/picker-list
 - /terms/please-picker
+- /terms/protocol-picker
 - /terms/show-picker
 - /terms/snooze-picker
 - /terms/tag-picker

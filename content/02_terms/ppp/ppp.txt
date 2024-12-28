@@ -34,6 +34,7 @@ Related:
 - /terms/isp
 - /terms/newton-internet-enabler
 - /terms/protocol
+- /terms/protocol-picker
 - /terms/slip-protocol
 - /terms/tcp
 - /terms/tcp-ip

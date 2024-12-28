@@ -28,6 +28,7 @@ Related:
 
 - /terms/dhcp
 - /terms/dns
+- /terms/internet-setup
 - /terms/ip
 - /terms/nethopper
 - /terms/newtterm
@@ -35,6 +36,7 @@ Related:
 - /terms/pocketweb
 - /terms/ppp
 - /terms/protocol
+- /terms/protocol-picker
 - /terms/pt100
 - /terms/slip-protocol
 - /terms/tcp
