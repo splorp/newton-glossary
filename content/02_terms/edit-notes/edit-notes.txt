@@ -1,0 +1,34 @@
+Title: Edit Notes
+
+----
+
+Date: 29 December 2024
+
+----
+
+Text:
+
+A (link: /terms/button text: button) in a (link: /terms/slip text: slip) displaying information about a (link: /terms/meeting text: meeting) or (link: /terms/event text: event). (link: /terms/tapping text: Tapping) the “Edit Notes” button opens a (link: /terms/meeting-notes text: Meeting Notes) slip, providing a way to edit or delete additional information about the item that had been entered previously.
+
+If item has not had any notes added, the button will be labeled “Add Notes”.
+
+(image: /assets/images/edit-notes-2x.gif alt: Screenshot of an Annual Event slip showing the “Edit Notes” button width: 236)
+
+----
+
+Related:
+
+- /terms/add-notes
+- /terms/button
+- /terms/calendar
+- /terms/date-book
+- /terms/event
+- /terms/meeting
+- /terms/meeting-notes
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
+- /sources/messagepad-2000-user-manual

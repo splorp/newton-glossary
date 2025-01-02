@@ -19,6 +19,7 @@ Related:
 - /terms/dateman
 - /terms/dates-navigator
 - /terms/event
+- /terms/meeting-notes
 - /terms/mini-calendar
 - /terms/moreinfo
 

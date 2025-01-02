@@ -15,6 +15,7 @@ A small (link: /terms/graphical-user-interface text: graphical user interface) o
 Related:
 
 - /terms/action-button
+- /terms/add-notes
 - /terms/analog-clock-button
 - /terms/button-bar
 - /terms/button-host
@@ -22,6 +23,7 @@ Related:
 - /terms/close-box
 - /terms/corrector-button
 - /terms/dictionary-button
+- /terms/edit-notes
 - /terms/envelope-button
 - /terms/folder-button
 - /terms/hard-button

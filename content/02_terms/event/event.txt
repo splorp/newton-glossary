@@ -23,6 +23,7 @@ Related:
 - /terms/dates-navigator
 - /terms/keystroke-events
 - /terms/meeting
+- /terms/meeting-notes
 - /terms/mini-calendar
 - /terms/moreinfo
 - /terms/newtonscript

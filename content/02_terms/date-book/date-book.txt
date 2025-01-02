@@ -25,6 +25,7 @@ Related:
 - /terms/flashpoint
 - /terms/getting-things-done
 - /terms/meeting
+- /terms/meeting-notes
 - /terms/mini-calendar
 - /terms/moreinfo
 - /terms/newttodo

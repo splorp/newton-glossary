@@ -1,0 +1,38 @@
+Title: Meeting Notes
+
+----
+
+Date: 28 December 2024
+
+----
+
+Text:
+
+A (link: /terms/slip text: slip) that appears when (link: /terms/tapping text: tapping) the “Add Notes” (link: /terms/button text: button) for a (link: /terms/meeting text: meeting) or (link: /terms/event text: event). This slip provides a means to annotate or provide additional information about the item.
+
+On devices running (link: /terms/newton-os text: Newton OS) 2.0 and later, the notes slip for an event is named (link: /terms/event-notes text: Event Notes).
+
+Also referred to as (link: /terms/calendar-notes text: Calendar Notes) and (link: /terms/day-notes text: Day Notes).
+
+----
+
+Related:
+
+- /terms/add-notes
+- /terms/calendar
+- /terms/calendar-notes
+- /terms/date-book
+- /terms/dates-navigator
+- /terms/day-notes
+- /terms/edit-notes
+- /terms/event
+- /terms/event-notes
+- /terms/meeting
+- /terms/mini-calendar
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
+- /sources/messagepad-2000-user-manual
