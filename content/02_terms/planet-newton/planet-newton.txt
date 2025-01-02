@@ -21,6 +21,7 @@ Resource:
 
 Related:
 
+- /terms/newton-versions
 - /terms/newtontalk
 - /terms/pn
 - /terms/unna

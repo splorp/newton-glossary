@@ -1,0 +1,25 @@
+Title: Newton Versions
+
+----
+
+Date: 02 January 2025
+
+----
+
+Text:
+
+An online database created by (link: /terms/dnug text: DNUG) founders Jakob and Kristoffer Peterhänsel. Newton Versions listed updates to both free and commercial Newton software.
+
+----
+
+Resource:
+
+- [Newton Versions Website](https://web.archive.org/web/19990508151048/http://www.dnug.dk:18/)
+
+----
+
+Related:
+
+- /terms/dnug
+- /terms/planet-newton
+- /terms/unna

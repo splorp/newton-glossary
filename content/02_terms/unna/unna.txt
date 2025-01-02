@@ -23,6 +23,7 @@ Resource:
 Related:
 
 - /terms/planet-newton
+- /terms/newton-versions
 - /terms/wikiwikinewt
 
 ----
