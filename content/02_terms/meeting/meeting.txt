@@ -14,9 +14,12 @@ An entry in the (link: /terms/date-book text: Date Book) application for a speci
 
 Related:
 
+- /terms/calendar
 - /terms/date-book
 - /terms/dateman
+- /terms/dates-navigator
 - /terms/event
+- /terms/mini-calendar
 - /terms/moreinfo
 
 ----

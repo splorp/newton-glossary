@@ -1,0 +1,31 @@
+Title: Calendar
+
+----
+
+Date: 28 December 2024
+
+----
+
+Text:
+
+A component of the (link: /terms/date-book text: Date Book) application used to keep track of (link: /terms/meeting text: meetings) and (link: /terms/event text: events). Various items can be created and stored in the calendar, including single, weekly, and other repeating meetings, along with single, multiday, and annual events. Meetings are based on specific time periods, whereas events are based on a specific date or date range.
+
+Calendar is also category of information in the (link: /terms/newton-connection text: Newton Connection) application. Information related to a specific day can be accessed and viewed using a floating (link: /terms/dates-navigator text: dates navigator) window.
+
+----
+
+Related:
+
+- /terms/date-book
+- /terms/dates-navigator
+- /terms/event
+- /terms/meeting
+- /terms/meeting-notes
+- /terms/mini-calendar
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
+- /sources/newton-connection-kit

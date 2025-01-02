@@ -1,0 +1,29 @@
+Title: Mini-Calendar
+
+----
+
+Date: 28 December 2024
+
+----
+
+Text:
+
+A small monthly (link: /terms/calendar text: calendar) displayed at the top of the (link: /terms/date-book text: Date Book) application that provides a way to navigate quickly between months.
+
+Also referred to as a (link: /terms/dates-navigator text: Dates Navigator) in the (link: /terms/newton-connection text: Newton Connection) application.
+
+----
+
+Related:
+
+- /terms/calendar
+- /terms/date-book
+- /terms/dates-navigator
+- /terms/newton-connection
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
+- /sources/newton-connection-kit

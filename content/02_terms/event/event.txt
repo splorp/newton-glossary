@@ -17,10 +17,13 @@ In (link: /terms/newtonscript text: NewtonScript), an event is an (link: /terms/
 Related:
 
 - /terms/action
+- /terms/calendar
 - /terms/date-book
 - /terms/dateman
+- /terms/dates-navigator
 - /terms/keystroke-events
 - /terms/meeting
+- /terms/mini-calendar
 - /terms/moreinfo
 - /terms/newtonscript
 

@@ -1,0 +1,32 @@
+Title: Dates Navigator
+
+----
+
+Date: 28 December 2024
+
+----
+
+Text:
+
+A small, onscreen (link: /terms/calendar text: calendar) used to move from one day to the next when viewing (link: /terms/meeting text: meetings), (link: /terms/event text: events), or (link: /terms/to-do-list text: to-do list) items in the (link: /terms/newton-connection text: Newton Connection) application.
+
+Also referred to as a (link: /terms/mini-calendar text: Mini-Calendar).
+
+
+----
+
+Related:
+
+- /terms/calendar
+- /terms/date-book
+- /terms/event
+- /terms/meeting
+- /terms/mini-calendar
+- /terms/newton-connection
+- /terms/to-do-list
+
+----
+
+Source:
+
+- /sources/newton-connection-kit

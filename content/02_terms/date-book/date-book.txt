@@ -8,19 +8,24 @@ Date: 24 May 2001
 
 Text:
 
-The built-in (link: /terms/application text: application) for recording and viewing appointments and calendar notes, setting alarms, entering repeating (link: /terms/event text: events), and keeping a (link: /terms/to-do-list text: to do list). Also referred to as (link: /terms/dates text: Dates) and erroneously called (link: /terms/datebook text: Datebook) in some of Apple’s support articles.
+The built-in (link: /terms/application text: application) for recording and viewing appointments and (link: /terms/calendar-notes text: calendar notes), setting alarms, entering repeating (link: /terms/event text: events), and keeping a (link: /terms/to-do-list text: to do list).
+
+Also referred to as (link: /terms/dates text: Dates) and erroneously called (link: /terms/datebook text: Datebook) in some of Apple’s support articles.
 
 ----
 
 Related:
 
+- /terms/calendar
 - /terms/datebook
 - /terms/dateman
 - /terms/dates
+- /terms/dates-navigator
 - /terms/event
 - /terms/flashpoint
 - /terms/getting-things-done
 - /terms/meeting
+- /terms/mini-calendar
 - /terms/moreinfo
 - /terms/newttodo
 - /terms/nitch
