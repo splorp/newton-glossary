@@ -24,7 +24,9 @@ Related:
 - /terms/display-area
 - /terms/liquid-crystal-display
 - /terms/non-display-area
+- /terms/landscape-mode
 - /terms/orientation
 - /terms/pixel
+- /terms/portrait-mode
 - /terms/rotate
 - /terms/touch-screen

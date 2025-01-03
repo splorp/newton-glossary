@@ -1,0 +1,31 @@
+Title: Portrait Mode
+
+----
+
+Date: 03 January 2025
+
+----
+
+Text:
+
+When the content on the (link: /terms/screen text: screen) of a Newton device is displayed in a vertical (link: /terms/orientation text: orientation). The opposite of portrait mode is (link: /terms/landscape-mode text: landscape mode).
+
+The orientation can be changed by (link: /terms/tapping text: tapping) the (link: /terms/rotate-button text: Rotate Button).
+
+----
+
+Related:
+
+- /terms/display-area
+- /terms/landscape-mode
+- /terms/orientation
+- /terms/rotate
+- /terms/rotate-button
+- /terms/screen
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
+- /sources/messagepad-2000-user-manual

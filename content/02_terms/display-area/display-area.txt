@@ -18,8 +18,10 @@ Related:
 - /terms/display
 - /terms/liquid-crystal-display
 - /terms/non-display-area
+- /terms/landscape-mode
 - /terms/orientation
 - /terms/pixel
+- /terms/portrait-mode
 - /terms/rotate
 - /terms/screen
 - /terms/touch-screen

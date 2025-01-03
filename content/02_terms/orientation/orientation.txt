@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The position of the content within the (link: /terms/display-area text: display area) of a Newton device relative to the device itself. Content can be displayed in either horizontal (landscape) or vertical (portrait) orientation.
+The position of the content within the (link: /terms/display-area text: display area) of a Newton device relative to the device itself. Content can be displayed in either (link: /terms/landscape-mode text: landscape mode) (horizontal) or (link: /terms/portrait-mode text: portrait mode) (vertical).
 
 The orientation can be changed by (link: /terms/tapping text: tapping) the (link: /terms/rotate-button text: Rotate Button). 
 
@@ -17,6 +17,15 @@ The orientation can be changed by (link: /terms/tapping text: tapping) the (link
 Related:
 
 - /terms/display-area
+- /terms/landscape-mode
+- /terms/portrait-mode
 - /terms/rotate
 - /terms/rotate-button
 - /terms/screen
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
+- /sources/messagepad-2000-user-manual

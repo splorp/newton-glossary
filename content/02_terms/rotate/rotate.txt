@@ -15,6 +15,15 @@ To change the (link: /terms/orientation text: orientation) of the content displa
 Related:
 
 - /terms/display-area
+- /terms/landscape-mode
 - /terms/orientation
+- /terms/portrait-mode
 - /terms/rotate-button
 - /terms/screen
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
+- /sources/messagepad-2000-user-manual
