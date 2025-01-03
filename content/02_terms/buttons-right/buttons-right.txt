@@ -1,0 +1,39 @@
+Title: Buttons Right
+
+----
+
+Date: 03 January 2025
+
+----
+
+Text:
+
+An option in the (link: /terms/rotate-button text: Rotate Button) picker which moves the (link: /terms/button-bar text: button bar) to the right side when the (link: /terms/screen text: screen) is in (link: /terms/landscape-mode text: landscape mode).
+
+If the button bar is currently displayed on the right side of the screen, the option will be named (link: /terms/buttons-left text: Buttons Left).
+
+(image: /assets/images/buttons-right-2x.gif alt: Screenshot of the Rotate Button with Picker showing the Buttons Right option width: 161)
+
+----
+
+Related:
+
+- /terms/button-bar
+- /terms/buttons-left
+- /terms/controls-left
+- /terms/controls-right
+- /terms/display-area
+- /terms/landscape-mode
+- /terms/orientation
+- /terms/portrait-mode
+- /terms/rotate
+- /terms/rotate-button
+- /terms/screen
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
+- /sources/messagepad-2000-user-manual

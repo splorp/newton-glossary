@@ -1,0 +1,39 @@
+Title: Controls Left
+
+----
+
+Date: 03 January 2025
+
+----
+
+Text:
+
+An option in the (link: /terms/rotate-button text: Rotate Button) picker which moves the (link: /terms/overview-button text: overview button) and (link: /terms/universal-scroll-arrows text: universal scroll arrows) to the left side of the (link: /terms/button-bar text: button bar) when the (link: /terms/screen text: screen) is in (link: /terms/portrait-mode text: portrait mode).
+
+If the controls are currently displayed on the left side of the screen, the option will be named (link: /terms/controls-right text: Controls Right).
+
+(image: /assets/images/controls-left-2x.gif alt: Screenshot of the Rotate Button with Picker showing the Controls Left option width: 158)
+
+----
+
+Related:
+
+- /terms/button-bar
+- /terms/buttons-left
+- /terms/buttons-right
+- /terms/controls-right
+- /terms/display-area
+- /terms/landscape-mode
+- /terms/orientation
+- /terms/portrait-mode
+- /terms/rotate
+- /terms/rotate-button
+- /terms/screen
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
+- /sources/messagepad-2000-user-manual

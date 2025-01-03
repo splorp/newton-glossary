@@ -10,6 +10,10 @@ Text:
 
 A (link: /terms/button text: button) located in the (link: /terms/status-bar text: status bar) of the (link: /terms/extras-drawer text: Extras Drawer) that displays a (link: /terms/picker text: picker) with options to change the (link: /terms/orientation text: orientation) of the content displayed on the (link: /terms/screen text: screen) of a Newton device.
 
+When the screen is set to (link: /terms/portrait-mode text: portrait mode), the picker will also have a (link: /terms/controls-left text: Controls Left) or (link: /terms/controls-left text: Controls Right) option.
+
+In (link: /terms/landscape-mode text: landscape mode), the picker displays a (link: /terms/buttons-left text: Buttons Left) or (link: /terms/buttons-left text: Buttons Right) option.
+
 (image: /assets/images/rotate-button-2x.gif alt: Screenshot of the Rotate Button with Picker device width: 158)
 
 ----
@@ -17,6 +21,11 @@ A (link: /terms/button text: button) located in the (link: /terms/status-bar tex
 Related:
 
 - /terms/button
+- /terms/button-bar
+- /terms/buttons-left
+- /terms/buttons-right
+- /terms/controls-left
+- /terms/controls-right
 - /terms/display-area
 - /terms/landscape-mode
 - /terms/orientation

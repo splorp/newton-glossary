@@ -20,10 +20,13 @@ Related:
 - /terms/button-bar
 - /terms/clank
 - /terms/clanking
+- /terms/controls-left
+- /terms/controls-right
 - /terms/icon
 - /terms/local-scroll-arrows
 - /terms/overview
 - /terms/roll-view
+- /terms/rotate-button
 - /terms/scroll
 - /terms/scroll-arrows
 - /terms/scroller

@@ -24,11 +24,16 @@ Related:
 - /terms/button
 - /terms/button-host
 - /terms/button-provider
+- /terms/buttons-left
+- /terms/buttons-right
+- /terms/controls-left
+- /terms/controls-right
 - /terms/dash-board
 - /terms/hard-button
 - /terms/icon
 - /terms/killbb
 - /terms/redo
+- /terms/rotate-button
 - /terms/ryo
 - /terms/separator-bar
 - /terms/silkscreen-button
