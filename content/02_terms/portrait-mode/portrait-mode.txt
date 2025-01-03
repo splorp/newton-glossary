@@ -16,6 +16,8 @@ The orientation can be changed by (link: /terms/tapping text: tapping) the (link
 
 Related:
 
+- /terms/controls-left
+- /terms/controls-right
 - /terms/display-area
 - /terms/landscape-mode
 - /terms/orientation

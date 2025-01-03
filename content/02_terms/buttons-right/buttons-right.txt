@@ -14,6 +14,8 @@ If the button bar is currently displayed on the right side of the screen, the op
 
 (image: /assets/images/buttons-right-2x.gif alt: Screenshot of the Rotate Button with Picker showing the Buttons Right option width: 161)
 
+This option only appears on (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices.
+
 ----
 
 Related:

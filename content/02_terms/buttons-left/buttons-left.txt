@@ -14,6 +14,8 @@ If the button bar is currently displayed on the left side of the screen, the opt
 
 (image: /assets/images/buttons-left-2x.gif alt: Screenshot of the Rotate Button with Picker showing the Buttons Left option width: 155)
 
+This option only appears on (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices.
+
 ----
 
 Related:
