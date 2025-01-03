@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-To change the (link: /terms/orientation text: orientation) of the displayed content on a Newton device.
+To change the (link: /terms/orientation text: orientation) of the content displayed on a Newton device. This is accomplished by (link: /terms/tapping text: tapping) the (link: /terms/rotate-button text: Rotate button) located in the (link: /terms/status-bar text: status bar) of the (link: /terms/extras-drawer text: Extras Drawer).
 
 ----
 
@@ -16,3 +16,5 @@ Related:
 
 - /terms/display-area
 - /terms/orientation
+- /terms/rotate-button
+- /terms/screen

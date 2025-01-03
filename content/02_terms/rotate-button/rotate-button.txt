@@ -1,0 +1,24 @@
+Title: Rotate Button
+
+----
+
+Date: 03 January 2025
+
+----
+
+Text:
+
+A (link: /terms/button text: button) located in the (link: /terms/status-bar text: status bar) of the (link: /terms/extras-drawer text: Extras Drawer) that provides a way to change the (link: /terms/orientation text: orientation) of the content displayed on the (link: /terms/screen text: screen) of a Newton device.
+
+(image: /assets/images/rotate-button-2x.gif alt: Screenshot of the Rotate Button with Picker on a MessagePad 2000 or MessagePad 2100 device width: 158)
+
+----
+
+Related:
+
+- /terms/button
+- /terms/display-area
+- /terms/orientation
+- /terms/rotate
+- /terms/screen
+- /terms/user-interface
