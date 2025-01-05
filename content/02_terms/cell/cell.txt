@@ -33,6 +33,7 @@ Related:
 - /terms/receller
 - /terms/rhythm-method
 - /terms/rmp
+- /terms/super-capacitor
 - /terms/thermistor
 
 ----

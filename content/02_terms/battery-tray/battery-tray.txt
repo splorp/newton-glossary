@@ -38,6 +38,7 @@ Related:
 - /terms/receller
 - /terms/rhythm-method
 - /terms/sled
+- /terms/super-capacitor
 - /terms/tray
 
 ----

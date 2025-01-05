@@ -1,0 +1,42 @@
+Title: Super Capacitor
+
+----
+
+Date: 05 January 2025
+
+----
+
+Text:
+
+An electronic component that can rapidly store and release an electrical charge, similar to a (link: /terms/battery text: battery).
+
+(link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagepad-2100 text: MessagePad 2100), and (link: /terms/emate-300 text: eMate 300) devices utilize a super capacitor to maintain (link: /terms/backup text: backup) power after removal of the (link: /terms/battery-pack text: battery pack). If left without power for a period of time longer than an hour, the super capacitor will deplete its charge and information such as the date and time will need to be reset on the device.
+
+Rather than a super capacitor, other Newton devices use a removable (link: /terms/backup-battery text: backup battery).
+
+Also referred to as a (link: /terms/supercap text: Supercap), (link: /terms/supercapacitor text: Supercapacitor), and (link: /terms/ultracapacitor text: Ultracapacitor).
+
+----
+
+Related:
+
+- /terms/backup
+- /terms/backup-battery
+- /terms/battery
+- /terms/battery-contact-bounce
+- /terms/cell
+- /terms/charge-state
+- /terms/holy-shit-yellow
+- /terms/long-term-storage
+- /terms/mah
+- /terms/nicd
+- /terms/nimh
+- /terms/supercap
+- /terms/supercapacitor
+- /terms/ultracapacitor
+
+----
+
+Source:
+
+- /sources/messagepad-2000-getting-started

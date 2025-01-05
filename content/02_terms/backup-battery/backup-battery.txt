@@ -10,6 +10,8 @@ Text:
 
 A small (link: /terms/battery text: battery) that supplies power to a Newton device when the main batteries are removed. Without a backup battery, early Newton devices such as the (link: /terms/messagepad-100 text: MessagePad 100) will lose any information stored in (link: /terms/ram text: RAM).
 
+Rather than a removable backup battery, (link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagepad-2100 text: MessagePad 2100), and (link: /terms/emate-300 text: eMate 300) devices utilize a (link: /terms/super-capacitor text: super capacitor).
+
 ----
 
 Related:
@@ -24,6 +26,7 @@ Related:
 - /terms/mah
 - /terms/nicd
 - /terms/nimh
+- /terms/super-capacitor
 
 ----
 
