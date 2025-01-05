@@ -23,6 +23,7 @@ Related:
 - /terms/mmu-tables
 - /terms/pointer
 - /terms/virtual-address
+- /terms/virtual-memory
 
 ----
 

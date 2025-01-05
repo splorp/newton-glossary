@@ -27,6 +27,7 @@ Related:
 - /terms/physical-address
 - /terms/pointer
 - /terms/script
+- /terms/virtual-address
 
 ----
 

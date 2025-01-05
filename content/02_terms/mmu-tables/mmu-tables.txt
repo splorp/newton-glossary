@@ -20,6 +20,7 @@ Related:
 - /terms/mmu
 - /terms/physical-address
 - /terms/virtual-address
+- /terms/virtual-memory
 
 ----
 

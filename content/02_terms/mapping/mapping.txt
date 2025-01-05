@@ -23,6 +23,7 @@ Related:
 - /terms/physical-address
 - /terms/pointer
 - /terms/virtual-address
+- /terms/virtual-memory
 
 ----
 

@@ -24,6 +24,7 @@ Related:
 - /terms/pointer
 - /terms/system-memory
 - /terms/virtual-address
+- /terms/virtual-memory
 
 ----
 
