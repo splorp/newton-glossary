@@ -15,6 +15,7 @@ A segment of memory containing addresses translated by the (link: /terms/memory-
 Related:
 
 - /terms/address
+- /terms/heaven-or-hell
 - /terms/magic-pointer
 - /terms/mapping
 - /terms/mmu

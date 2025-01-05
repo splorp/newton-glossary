@@ -15,6 +15,7 @@ A structured set of data used by the (link: /terms/memory-management-unit text: 
 Related:
 
 - /terms/address
+- /terms/heaven-or-hell
 - /terms/mapping
 - /terms/mmu
 - /terms/physical-address

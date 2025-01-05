@@ -14,6 +14,7 @@ A binary value specifying where in the memory a chunk of data or code exists.
 
 Related:
 
+- /terms/heaven-or-hell
 - /terms/magic-pointer
 - /terms/mapping
 - /terms/memory-page

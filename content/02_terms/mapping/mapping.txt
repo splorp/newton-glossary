@@ -15,6 +15,7 @@ The relationship of (link: /terms/virtual-address text: virtual addresses) to (l
 Related:
 
 - /terms/address
+- /terms/heaven-or-hell
 - /terms/magic-pointer
 - /terms/memory-page
 - /terms/mmu

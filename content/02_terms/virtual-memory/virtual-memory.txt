@@ -16,6 +16,7 @@ Related:
 
 - /terms/address
 - /terms/heap
+- /terms/heaven-or-hell
 - /terms/magic-pointer
 - /terms/mapping
 - /terms/memory-page
