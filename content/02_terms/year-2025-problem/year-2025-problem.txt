@@ -1,0 +1,47 @@
+Title: Year 2025 Problem
+
+----
+
+Date: 06 January 2025
+
+----
+
+Text:
+
+A variation of the (link: /terms/year-2010-problem text: Year 2010 Problem) that causes devices running (link: /terms/newton-os text: Newton OS) 2.1 to freeze up after January 4th, 2025.
+
+According to (link: /sources/eckhart-koppen text: Eckhart Köppen), the (link: /terms/y2025 text: Y2025) bug may be a result of the way he fixed the (link: /terms/y2010 text: Y2010) bug. Rather than occurring in (link: /terms/newtonscript text: NewtonScript) like the original issue, this problem is related to timers in the (link: /terms/operating-system text: operating system) itself.
+
+The bug was originally called the (link: /terms/year-2026-problem text: Year 2026 Problem), but ended up occurring a year earlier than expected due to a slight miscalculation by Köppen.
+
+----
+
+Resource:
+
+- [NewtonTalk: Did I miss the memo? Trying things out.](http://lists.newtontalk.net/pipermail/newtontalk/2025-January/002703.html)
+- [40hz: Time travel](https://40hz.org/Pages/mottek/2025/2025-01-06/)
+- [40Hz: Just checking …](https://40hz.org/Pages/mottek/2016/2016-02-14/)
+- [40Hz: Newton Year 2010 Problem](https://40hz.org/Pages/newton/hacking/newton-year-2010-problem/)
+- [GitHub: Y2026 and beyond](https://github.com/pguyot/Einstein/issues/24)
+
+----
+
+Related:
+
+- /terms/2008-reset
+- /terms/clock
+- /terms/fix2010
+- /terms/newtpocalypse
+- /terms/real-time-clock
+- /terms/y2010-diagnostic
+- /terms/y2025
+- /terms/year-2010-problem
+- /terms/year-2026-problem
+- /terms/year-2040-problem
+
+----
+
+Source:
+
+- /sources/eckhart-koppen
+- /sources/newtontalk

@@ -8,7 +8,9 @@ Date: 02 September 2017
 
 Text:
 
-A bug that affects devices running (link: /terms/newton-os text: Newton OS) 2.1 after January 5th, 2010. The problem manifests itself in certain (link: /terms/newtonscript text: NewtonScript) time (link: /terms/function text: functions) as an integer value overflow, causing an “infinite alarm loop” or the system clock to reset itself.
+A bug that affects devices running (link: /terms/newton-os text: Newton OS) 2.1 after January 5th, 2010.
+
+The problem manifests itself in certain (link: /terms/newtonscript text: NewtonScript) time (link: /terms/function text: functions) as an integer value overflow, causing an “infinite alarm loop” or the system clock to reset itself.
 
 Commonly referred to as the (link: /terms/y2010 text: Y2010) bug, this problem can be fixed by installing a (link: /terms/system-patch text: system patch).
 
@@ -33,6 +35,7 @@ Related:
 - /terms/real-time-clock
 - /terms/y2010
 - /terms/y2010-diagnostic
+- /terms/year-2025-problem
 - /terms/year-2026-problem
 - /terms/year-2040-problem
 

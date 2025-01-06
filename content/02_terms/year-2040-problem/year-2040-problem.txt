@@ -8,7 +8,9 @@ Date: 23 September 2024
 
 Text:
 
-A potential bug affecting Newton devices at some point in the year 2040. The (link: /terms/y2040 text: Y2040) problem manifests itself in certain C++ (link: /terms/function text: functions) that read or set information relating to the (link: /terms/real-time-clock text: real-time clock) as an integer value overflow.
+A potential bug affecting Newton devices at some point in the year 2040.
+
+The (link: /terms/y2040 text: Y2040) problem manifests itself in certain C++ (link: /terms/function text: functions) that read or set information relating to the (link: /terms/real-time-clock text: real-time clock) as an integer value overflow.
 
 ----
 
@@ -29,6 +31,7 @@ Related:
 - /terms/y2010-diagnostic
 - /terms/y2040
 - /terms/year-2010-problem
+- /terms/year-2025-problem
 - /terms/year-2026-problem
 
 ----

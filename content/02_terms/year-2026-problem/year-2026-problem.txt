@@ -8,15 +8,21 @@ Date: 02 September 2017
 
 Text:
 
-A potential future iteration of the (link: /terms/year-2010-problem text: Year 2010 Problem) affecting devices running (link: /terms/newton-os text: Newton OS) 2.1 past the year 2026. According to (link: /sources/eckhart-koppen text: Eckhart Köppen), the (link: /terms/y2026 text: Y2026) bug is a direct result of the way he fixed the (link: /terms/y2010 text: Y2010) bug.
+The previous name for the (link: /terms/year-2025-problem text: Year 2025 Problem).
+
+Due to a slight miscalculation by (link: /sources/eckhart-koppen text: Eckhart Köppen), it was assumed that this particular bug would occur sometime in 2026, not 2025.
+
+Commonly referred to as the (link: /terms/y2026 text: Y2026) bug.
 
 ----
 
 Resource:
 
-- [GitHub: Y2026 and beyond](https://github.com/pguyot/Einstein/issues/24)
+- [NewtonTalk: Did I miss the memo? Trying things out.](http://lists.newtontalk.net/pipermail/newtontalk/2025-January/002703.html)
+- [40hz: Time travel](https://40hz.org/Pages/mottek/2025/2025-01-06/)
 - [40Hz: Just checking …](https://40hz.org/Pages/mottek/2016/2016-02-14/)
 - [40Hz: Newton Year 2010 Problem](https://40hz.org/Pages/newton/hacking/newton-year-2010-problem/)
+- [GitHub: Y2026 and beyond](https://github.com/pguyot/Einstein/issues/24)
 
 ----
 
@@ -30,6 +36,7 @@ Related:
 - /terms/y2010-diagnostic
 - /terms/y2026
 - /terms/year-2010-problem
+- /terms/year-2025-problem
 - /terms/year-2040-problem
 
 ----

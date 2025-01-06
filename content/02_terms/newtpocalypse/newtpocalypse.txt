@@ -31,6 +31,7 @@ Related:
 - /terms/newtapocalypse
 - /terms/real-time-clock
 - /terms/year-2010-problem
+- /terms/year-2025-problem
 - /terms/year-2026-problem
 - /terms/year-2040-problem
 

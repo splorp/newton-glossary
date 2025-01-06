@@ -34,6 +34,7 @@ Related:
 - /terms/y2008
 - /terms/y2010-diagnostic
 - /terms/year-2010-problem
+- /terms/year-2025-problem
 - /terms/year-2026-problem
 - /terms/year-2040-problem
 
