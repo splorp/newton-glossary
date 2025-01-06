@@ -12,7 +12,7 @@ A (link: /terms/button text: button) in a (link: /terms/slip text: slip) display
 
 If notes have been entered previously, the button will be labeled “Edit Notes”.
 
-(image: /assets/images/edit-notes-2x.gif alt: Screenshot of an Annual Event slip showing the “Add Notes” button width: 236)
+(image: /assets/images/add-notes-2x.gif alt: Screenshot of an Annual Event slip showing the “Add Notes” button width: 236)
 
 ----
 
