@@ -8,7 +8,9 @@ Date: 06 October 2002
 
 Text:
 
-An extended period of disuse of a Newton device or other piece of equipment. Part of the preparation process prior to long term storage is to remove the main (link: /terms/battery text: battery) and the (link: /terms/backup-battery text: backup battery), if applicable. This helps prevent damage to the Newton device due to battery leakage.
+An extended period of disuse of a Newton device or other piece of equipment.
+
+Part of the preparation process prior to long term storage is to remove the main (link: /terms/battery text: battery) and the (link: /terms/backup-battery text: backup battery), if applicable. This helps prevent damage to the Newton device due to battery leakage.
 
 Also referred to as (link: /terms/lts text: LTS).
 

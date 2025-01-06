@@ -20,7 +20,6 @@ Related:
 - /terms/battery
 - /terms/battery-contact-bounce
 - /terms/cell
-- /terms/charge-state
 - /terms/holy-shit-yellow
 - /terms/long-term-storage
 - /terms/mah
