@@ -10,6 +10,8 @@ Text:
 
 A method of (link: /terms/reset text: resetting) the (link: /terms/newton-os text: Newton OS) to its factory defaults. A cold boot erases all data in the internal memory including (link: /terms/application text: applications) and (link: /terms/package text: packages) installed by the user, removes all (link: /terms/system-update text: system updates), and resets (link: /terms/pen text: pen) alignment, date, time, (link: /terms/time-zones text: time zone), and other (link: /terms/preferences text: preferences).
 
+This type of reset only applies to (link: /terms/original-messagepad text: Original MessagePad), (link: /terms/messagepad-100 text: MessagePad 100), (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), and (link: /terms/messagepad-130 text: MessagePad 130) devices.
+
 Not to be confused with (link: /terms/hard-reset text: hard reset) or (link: /terms/brain-wipe text: brain wipe), which do not remove any (link: /terms/system-update text: system updates).
 
 ----

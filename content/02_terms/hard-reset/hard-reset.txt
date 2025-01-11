@@ -12,7 +12,7 @@ A method of (link: /terms/reset text: resetting) the (link: /terms/newton-os tex
 
 Also referred to as a (link: /terms/brain-wipe text: Brain Wipe).
 
-Not to be confused with a (link: /terms/cold-boot text: Cold Boot), which also removes any (link: /terms/system-update text: system updates) that have been installed.
+Not to be confused with a (link: /terms/cold-boot text: cold boot), which also removes any (link: /terms/system-update text: system updates) that have been installed on certain Newton devices.
 
 ----
 
