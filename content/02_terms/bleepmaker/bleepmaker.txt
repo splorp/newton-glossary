@@ -1,0 +1,38 @@
+Title: BleepMaker
+
+----
+
+Date: 13 January 2025
+
+----
+
+Text:
+
+An (link: /terms/application text: application) for creating and editing sounds on a Newton device developed by (link: /sources/makoto-kisanuki text: Makoto Kisanuki). BleepMaker utilizes a frequency modulation (FM) generator that synthesizes sounds by combining individual tones. A sound can be exported and used as an (link: /terms/alert-sound text: alert sound). Parameters for sounds can also be exported as hexadecimal data for viewing in the (link: /terms/Inspector text: Inspector).
+
+(image: /assets/images/bleepmaker-2x.gif alt: Screenshot of BleepMaker 2.0 width: 319)
+
+----
+
+Resource:
+
+- [NewTek Lab: BleepMaker 1.0 Product Information](https://web.archive.org/web/20020709201223/http://www.netlaputa.ne.jp/~kisanuki/newton/BleepMaker/BleepMakerEnglish.html) (English)
+- [NewTek Lab: BleepMaker 1.0 Product Information](https://web.archive.org/web/20020805025935/http://www.netlaputa.ne.jp/~kisanuki/newton/BleepMaker/BleepMaker.html) (Japanese)
+- [NewTek Lab: BleepMaker 2.0 Product Information](https://web.archive.org/web/20020808003232/http://www.netlaputa.ne.jp/~kisanuki/newton/BM2/README_BM2.html) (Japanese)
+- [UNNA: BleepMaker 1.0](http://www.unna.org/view.php?/applications/BleepMaker)
+
+----
+
+Related:
+
+- /terms/alert-sound
+- /terms/channel
+- /terms/nr404
+- /terms/sample
+- /terms/volume
+
+----
+
+Source:
+
+- /sources/makoto-kisanuki

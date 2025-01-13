@@ -1,0 +1,17 @@
+Title: Makoto Kisanuki
+
+----
+
+Date: 13 January 2025
+
+----
+
+Text:
+
+A Japanese software developer and proprietor of NewtTek Lab. Currently a software engineer at Fujitsu, Kisanuki is the creator the (link: /terms/bleepmaker text: BleepMaker) sound synthesizer application.
+
+----
+
+Resource:
+
+- [NewTek Lab Website](https://web.archive.org/web/20011104223841/http://www.netlaputa.ne.jp/~kisanuki/newton/)

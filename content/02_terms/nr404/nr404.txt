@@ -22,6 +22,7 @@ Resource:
 
 Related:
 
+- /terms/bleepmaker
 - /terms/channel
 - /terms/sample
 - /terms/volume

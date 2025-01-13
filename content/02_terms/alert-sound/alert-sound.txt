@@ -15,6 +15,7 @@ An audible warning from the Newton’s speaker that warns the user of an unusual
 Related:
 
 - /terms/alert-box
+- /terms/bleepmaker
 - /terms/clank
 - /terms/hot-dog-song
 - /terms/notification-alert
