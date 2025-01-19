@@ -18,12 +18,6 @@ Resource:
 
 ----
 
-Source:
-
-- /sources/newton-space
-
-----
-
 Related:
 
 - /terms/anug
@@ -64,3 +58,9 @@ Related:
 - /terms/tuna
 - /terms/tvnug
 - /terms/uknug
+
+----
+
+Source:
+
+- /sources/newton-space

@@ -27,13 +27,6 @@ Resource:
 
 ----
 
-Source:
-
-- /sources/gnue
-- /sources/simon-bell
-
-----
-
 Related:
 
 - /terms/hanabi
@@ -45,3 +38,10 @@ Related:
 - /terms/unicode
 - /terms/unidict
 - /terms/unifep
+
+----
+
+Source:
+
+- /sources/gnue
+- /sources/simon-bell

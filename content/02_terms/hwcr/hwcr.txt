@@ -20,12 +20,6 @@ Resource:
 
 ----
 
-Source:
-
-- /sources/enfour
-
-----
-
 Related:
 
 - /terms/hanabi
@@ -35,3 +29,9 @@ Related:
 - /terms/unicode
 - /terms/unidict
 - /terms/unifep
+
+----
+
+Source:
+
+- /sources/enfour

@@ -12,12 +12,6 @@ A hardware component that displays information on a generally flat, rectangular 
 
 ----
 
-Source:
-
-- /sources/foldoc
-
-----
-
 Related:
 
 - /terms/display
@@ -30,3 +24,9 @@ Related:
 - /terms/portrait-mode
 - /terms/rotate
 - /terms/touch-screen
+
+----
+
+Source:
+
+- /sources/foldoc

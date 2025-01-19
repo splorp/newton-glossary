@@ -20,12 +20,6 @@ Resource:
 
 ----
 
-Source:
-
-- /sources/newton-secrets
-
-----
-
 Related:
 
 - /terms/batman
@@ -37,3 +31,9 @@ Related:
 - /terms/messageslate
 - /terms/montblanc
 - /terms/senior
+
+----
+
+Source:
+
+- /sources/newton-secrets

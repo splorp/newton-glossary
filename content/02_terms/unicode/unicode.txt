@@ -20,12 +20,6 @@ Resource:
 
 ----
 
-Source:
-
-- /sources/unicode-consortium
-
-----
-
 Related:
 
 - /terms/hanabi
@@ -35,3 +29,9 @@ Related:
 - /terms/russification
 - /terms/unidict
 - /terms/unifep
+
+----
+
+Source:
+
+- /sources/unicode-consortium

@@ -22,12 +22,6 @@ Resource:
 
 ----
 
-Source:
-
-- /sources/pen-based-computing
-
-----
-
 Related:
 
 - /terms/anug
@@ -67,3 +61,9 @@ Related:
 - /terms/tuna
 - /terms/tvnug
 - /terms/uknug
+
+----
+
+Source:
+
+- /sources/pen-based-computing

@@ -14,12 +14,6 @@ An organization that provides access to the internet over wireless or wired conn
 
 ----
 
-Source:
-
-- /sources/techencyclopedia
-
-----
-
 Related:
 
 - /terms/fnewton
@@ -30,3 +24,9 @@ Related:
 - /terms/newton-internet-enabler
 - /terms/ppp
 - /terms/slip-protocol
+
+----
+
+Source:
+
+- /sources/techencyclopedia
