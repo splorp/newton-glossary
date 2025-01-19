@@ -28,6 +28,7 @@ Source:
 
 Related:
 
+- /terms/hanabi
 - /terms/handwriting-recognition
 - /terms/newton-language-kit
 - /terms/newton-text-encoding

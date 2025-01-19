@@ -36,6 +36,7 @@ Source:
 
 Related:
 
+- /terms/hanabi
 - /terms/k-libs
 - /terms/newton-language-kit
 - /terms/nte

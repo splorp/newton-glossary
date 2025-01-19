@@ -32,6 +32,7 @@ Source:
 
 Related:
 
+- /terms/hanabi
 - /terms/hwcr
 - /terms/k-libs
 - /terms/newton-language-kit

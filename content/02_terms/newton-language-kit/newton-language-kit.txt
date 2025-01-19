@@ -28,6 +28,7 @@ Source:
 
 Related:
 
+- /terms/hanabi
 - /terms/hwcr
 - /terms/newton-text-encoding
 - /terms/nlk

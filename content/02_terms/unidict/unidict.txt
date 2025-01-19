@@ -27,6 +27,7 @@ Source:
 
 Related:
 
+- /terms/hanabi
 - /terms/hwcr
 - /terms/newton-text-encoding
 - /terms/newton-language-kit

@@ -1,0 +1,41 @@
+Title: Hanabi
+
+----
+
+Date: 19 January 2025
+
+----
+
+Text:
+
+A utility developed by Yoshiyuki Hashimoto that provided an easy way to (link: /terms/input text: input) Japanese Hiragana (link: /terms/character text: characters) on a Newton device.
+
+Using the (link: /terms/tapbar text: TapBar) button manager, Hanabi implemented a set of multifunction (link: /terms/button text: buttons) in a floating (link: /terms/palette text: palette).
+
+(image: /assets/images/hanabi-2x.gif alt: Screenshot of the Hanabi floating palette width: 320)
+
+----
+
+Resource:
+
+- [Newton Japan: Hanabi Product Information](https://newtonjapan.com/hanabi/) (Japanese)
+- [Newton Japan: iPhoneの日本語入力は「Hanabi」だ！](https://newtonjapan.com/blogO/?p=232) (Japanese)
+- [Club Newton: Hanabi Product Information](https://www.clubnewton.com/newton/Hanabi.html) (Japanese)
+
+----
+
+Related:
+
+- /terms/hwcr
+- /terms/newton-language-kit
+- /terms/newton-text-encoding
+- /terms/tapbar
+- /terms/unicode
+- /terms/unidict
+- /terms/unifep
+
+----
+
+Source:
+
+- /sources/newton-japan

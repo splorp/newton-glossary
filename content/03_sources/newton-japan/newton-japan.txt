@@ -1,0 +1,18 @@
+Title: Newton Japan
+
+----
+
+Date: 19 January 2025
+
+----
+
+Text:
+
+A Japanese application development and technical book publishing company founded by Yoshiyuki Hashimoto. Arguably best known for their (link: /terms/Hanabi text: Hanabi) utility for entering Hiragana (link: /terms/character text: characters) on a Newton device.
+
+----
+
+Resource:
+
+- [Newton 空間 Website](https://web.archive.org/web/20160413084255/http://www.kanshin.jp/newton/)
+- [Newton 空間 Archive](https://www.waveformlab.com/Newton/)

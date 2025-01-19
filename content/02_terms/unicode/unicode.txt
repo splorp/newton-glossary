@@ -28,6 +28,7 @@ Source:
 
 Related:
 
+- /terms/hanabi
 - /terms/k-libs
 - /terms/newton-text-encoding
 - /terms/newton-language-kit
