@@ -10,7 +10,9 @@ Text:
 
 A colloquial term for one of the (link: /terms/hard-button text: hard buttons) or (link: /terms/silkscreen-button text: silkscreen buttons) found in the (link: /terms/button-bar text: button bar) below the (link: /terms/screen text: screen) on early prototype Newton devices.
 
-### Additional Information:
+----
+
+Resource:
 
 - [The Seattle Times: Let Newton Assist You, Says Apple](http://community.seattletimes.nwsource.com/archive/?date=19920529&slug=1494354)
 
