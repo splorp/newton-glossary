@@ -17,6 +17,7 @@ The Geneva font on Mac OS is the equivalent to the (link: /terms/simple text: Si
 Related:
 
 - /terms/casual
+- /terms/character
 - /terms/espy-sans
 - /terms/eworld
 - /terms/fancy

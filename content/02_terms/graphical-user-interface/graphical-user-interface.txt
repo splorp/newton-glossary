@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The use of (link: /terms/picture text: pictures) and (link: /terms/icon text: icons) rather than text to represent the input and output of a software program or (link: /terms/operating-system text: operating system). A graphical (link: /terms/user-interface text: user interface) generally includes the use of a windowing system, icons, (link: /terms/button text: buttons), and dialog boxes to facilitate communication and user interaction.
+The use of (link: /terms/picture text: pictures) and (link: /terms/icon text: icons) rather than text to represent the (link: /terms/input text: input) and (link: /terms/output text: output) of a software program or (link: /terms/operating-system text: operating system). A graphical (link: /terms/user-interface text: user interface) generally includes the use of a windowing system, icons, (link: /terms/button text: buttons), and dialog boxes to facilitate communication and user interaction.
 
 Also referred to as (link: /terms/gui text: GUI).
 

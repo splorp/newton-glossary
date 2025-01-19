@@ -17,6 +17,7 @@ The Espy Sans font on Mac OS is the equivalent to the (link: /terms/system text:
 Related:
 
 - /terms/casual
+- /terms/character
 - /terms/espy
 - /terms/eworld
 - /terms/fancy

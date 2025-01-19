@@ -10,7 +10,7 @@ Text:
 
 (link: /terms/tapping text: Tapping) the (link: /terms/corrector-button text: corrector button) in the (link: /terms/correction-picker text: correction picker) brings up a corrector view, in which the user can make corrections to individual letters. The user can write over a letter to replace it, delete a letter by scrubbing it, or insert a space in which to write an additional letter.
 
-Tapping a letter in the corrector view pops up a different correction picker, listing alternate letters as well as commands to insert and delete individual characters.
+Tapping a letter in the corrector view pops up a different correction picker, listing alternate letters as well as commands to insert and delete individual (link: /terms/characters text: character).
 
 (image: /assets/images/corrector-view-with-correction-picker-2x.gif alt: Screenshot of the Corrector View with a Correction Picker width: 237)
 

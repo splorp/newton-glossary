@@ -29,6 +29,7 @@ Related:
 
 - /terms/backdrop
 - /terms/checklist
+- /terms/messagepad
 - /terms/notable
 - /terms/note
 - /terms/notelinker

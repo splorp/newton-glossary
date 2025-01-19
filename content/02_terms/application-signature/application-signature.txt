@@ -8,7 +8,7 @@ Date: 31 May 2001
 
 Text:
 
-A 4 to 10 character designation that uniquely identifies the creator or developer of a Newton (link: /terms/application text: application). This signature is embedded in an application when it is (link: /terms/compiled text: compiled) into a (link: /terms/package text: package).
+A 4 to 10 (link: /terms/character text: character) designation that uniquely identifies the creator or developer of a Newton (link: /terms/application text: application). This signature is embedded in an application when it is (link: /terms/compiled text: compiled) into a (link: /terms/package text: package).
 
 ----
 

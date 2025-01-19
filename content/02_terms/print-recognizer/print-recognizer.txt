@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The algorithmic component of the (link: /terms/handwriting-recognition text: handwriting recognition) system that identifies printed characters, as opposed to (link: /terms/cursive text: cursive) or handwritten text.
+The algorithmic component of the (link: /terms/handwriting-recognition text: handwriting recognition) system that identifies printed (link: /terms/character text: characters), as opposed to (link: /terms/cursive text: cursive) or handwritten text.
 
 Also referred to as the (link: /terms/disconnected-recognizer text: Disconnected Recognizer).
 

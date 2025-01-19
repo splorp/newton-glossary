@@ -10,7 +10,7 @@ Text:
 
 Universal Serial Bus
 
-A hardware interface standard for low speed, serial peripherals such as keyboards, mice, and other input devices. USB devices can be hot swapped.
+A hardware interface standard for low speed, serial peripherals such as keyboards, mice, and other (link: /terms/input text: input) devices. USB devices can be hot swapped.
 
 ----
 

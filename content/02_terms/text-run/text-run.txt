@@ -8,12 +8,13 @@ Date: 24 May 2001
 
 Text:
 
-A sequence of characters displayed with the same (link: /terms/font-style text: font style) and (link: /terms/font-size text: font size) attributes. Text is represented in paragraph views as a series of text runs with corresponding (link: /terms/font-spec text: font spec) information.
+A sequence of (link: /terms/character text: characters) displayed with the same (link: /terms/font-style text: font style) and (link: /terms/font-size text: font size) attributes. Text is represented in paragraph views as a series of text runs with corresponding (link: /terms/font-spec text: font spec) information.
 
 ----
 
 Related:
 
+- /terms/character
 - /terms/font
 - /terms/font-size
 - /terms/font-spec

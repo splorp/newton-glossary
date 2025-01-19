@@ -8,7 +8,7 @@ Date: 08 November 2017
 
 Text:
 
-A suite of software components developed by (link: /sources/adam-tow text: Adam Tow) that allows a Newton device or Palm organizer to be used as a (link: /terms/handwriting-recognition text: handwriting recognition) engine and input device when connected to a (link: /terms/desktop-computer text: desktop computer) or (link: /terms/laptop-computer text: laptop computer).
+A suite of software components developed by (link: /sources/adam-tow text: Adam Tow) that allows a Newton device or Palm organizer to be used as a (link: /terms/handwriting-recognition text: handwriting recognition) engine and (link: /terms/input text: input) device when connected to a (link: /terms/desktop-computer text: desktop computer) or (link: /terms/laptop-computer text: laptop computer).
 
 (image: /assets/images/writehere-connect-2x.gif alt: Screenshot of WriteHere width: 314)
 

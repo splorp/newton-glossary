@@ -14,6 +14,7 @@ The size of a font measured in (link: /terms/point text: points), also referred 
 
 Related:
 
+- /terms/character
 - /terms/font
 - /terms/font-spec
 - /terms/font-style

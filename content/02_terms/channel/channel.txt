@@ -8,7 +8,7 @@ Date: 10 January 2024
 
 Text:
 
-A virtual connection to specific piece of hardware used for sound input or output.
+A virtual connection to specific piece of hardware used for sound (link: /terms/input text: input) or (link: /terms/output text: output).
 
 ----
 

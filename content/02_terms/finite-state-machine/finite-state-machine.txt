@@ -8,7 +8,7 @@ Date: 15 January 2017
 
 Text:
 
-A collection of states, (link: /terms/event text: events), (link: /terms/action text: actions), and transitions between states defined in software as a (link: /terms/function text: function). This function takes the current state and a specific input event and returns a new set of output events along with the next state. (link: /terms/newton-os text: Newton OS) uses a finite state machine to simplify the design of communication-based applications which manage both the (link: /terms/endpoint text: endpoint) and the related user interaction.
+A collection of states, (link: /terms/event text: events), (link: /terms/action text: actions), and transitions between states defined in software as a (link: /terms/function text: function). This function takes the current state and a specific (link: /terms/input text: input) event and returns a new set of (link: /terms/output text: output) events along with the next state. (link: /terms/newton-os text: Newton OS) uses a finite state machine to simplify the design of communication-based applications which manage both the (link: /terms/endpoint text: endpoint) and the related user interaction.
 
 Also referred to as (link: /terms/fsm text: FSM) or (link: /terms/state-machine text: State Machine).
 

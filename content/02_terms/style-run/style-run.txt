@@ -14,6 +14,7 @@ A programmatic way of describing (link: /terms/font text: font) appearance attri
 
 Related:
 
+- /terms/character
 - /terms/font
 - /terms/font-size
 - /terms/font-spec

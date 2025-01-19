@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A four character designation that identifies the type of the data contained in a (link: /terms/part text: part). These type identifiers include: `form` for (link: /terms/application text: applications); `book` for (link: /terms/newton-book text: Newton books) created by (link: /terms/newton-book-maker text: Newton Book Maker) or (link: /terms/newton-press text: Newton Press); `auto` for (link: /terms/auto-part text: auto part) background (link: /terms/application text: applications) and (link: /terms/extension text: extensions); `soup` for read-only (link: /terms/store-part text: store parts); `dict` for custom recognition dictionaries; and `font` for typefaces.
+A four (link: /terms/character text: character) designation that identifies the type of the data contained in a (link: /terms/part text: part). These type identifiers include: `form` for (link: /terms/application text: applications); `book` for (link: /terms/newton-book text: Newton books) created by (link: /terms/newton-book-maker text: Newton Book Maker) or (link: /terms/newton-press text: Newton Press); `auto` for (link: /terms/auto-part text: auto part) background (link: /terms/application text: applications) and (link: /terms/extension text: extensions); `soup` for read-only (link: /terms/store-part text: store parts); `dict` for custom recognition dictionaries; and `font` for typefaces.
 
 ----
 

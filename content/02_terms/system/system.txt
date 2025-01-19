@@ -19,6 +19,7 @@ System also refers to the (link: /terms/operating-system text: operating system)
 Related:
 
 - /terms/casual
+- /terms/character
 - /terms/espy-sans
 - /terms/eworld
 - /terms/fancy
@@ -31,7 +32,9 @@ Related:
 - /terms/operating-system
 - /terms/point
 - /terms/simple
+- /terms/style-run
 - /terms/styles
+- /terms/text-run
 
 ----
 

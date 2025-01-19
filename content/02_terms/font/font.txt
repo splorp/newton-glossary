@@ -8,13 +8,14 @@ Date: 24 May 2001
 
 Text:
 
-A complete set of characters or glyphs from a given typeface design. For example, (link: /terms/system text: System) is a typeface included with the (link: /terms/newton-os text: Newton OS), but 12 (link: /terms/point text: point) System Bold is a specific font of that typeface.
+A complete set of (link: /terms/character text: characters) or glyphs from a given typeface design. For example, (link: /terms/system text: System) is a typeface included with the (link: /terms/newton-os text: Newton OS), but 12 (link: /terms/point text: point) System Bold is a specific font of that typeface.
 
 ----
 
 Related:
 
 - /terms/casual
+- /terms/character
 - /terms/espy-sans
 - /terms/eworld
 - /terms/fancy

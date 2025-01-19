@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A small square (link: /terms/button text: button) containing an “X” character, located in the lower right corner of a (link: /terms/container-view text: container view). (link: /terms/tapping text: Tapping) the button dismisses or closes the container view. Compare with the (link: /terms/large-close-box text: large close box).
+A small square (link: /terms/button text: button) containing an “X” (link: /terms/character text: character), located in the lower right corner of a (link: /terms/container-view text: container view). (link: /terms/tapping text: Tapping) the button dismisses or closes the container view. Compare with the (link: /terms/large-close-box text: large close box).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 22 September 2024
 
 Text:
 
-An English–Japanese translation dictionary developed by (link: /sources/enfour text: Enfour). Containing over 26,000 words, the dictionary was designed to work with the (link: /terms/unifep text: UniFEP) multilingual input system and the (link: /terms/newton-language-kit text: Newton Language Kit).
+An English–Japanese translation dictionary developed by (link: /sources/enfour text: Enfour). Containing over 26,000 words, the dictionary was designed to work with the (link: /terms/unifep text: UniFEP) multilingual (link: /terms/input text: input) system and the (link: /terms/newton-language-kit text: Newton Language Kit).
 
 ----
 

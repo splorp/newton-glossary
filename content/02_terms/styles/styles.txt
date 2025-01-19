@@ -16,6 +16,7 @@ An (link: /terms/application text: application) in the form of a floating (link:
 
 Related:
 
+- /terms/character
 - /terms/font
 - /terms/font-size
 - /terms/font-spec

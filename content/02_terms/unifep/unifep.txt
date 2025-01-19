@@ -8,7 +8,7 @@ Date: 06 February 2024
 
 Text:
 
-A series of modular software products developed by (link: /sources/enfour text: Enfour) that enabled multilingual input on various computing platforms. The (link: /terms/newton-os text: Newton OS) version of UniFEP supported Japanese input and output on a English langauge Newton device.
+A series of modular software products developed by (link: /sources/enfour text: Enfour) that enabled multilingual (link: /terms/input text: input) on various computing platforms. The (link: /terms/newton-os text: Newton OS) version of UniFEP supported Japanese input and (link: /terms/output text: output) on a English langauge Newton device.
 
 The name is derived from (link: /terms/unicode text: Unicode) and Front-End Processor.
 

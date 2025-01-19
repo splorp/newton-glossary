@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The internal representation used for (link: /terms/rich-string text: rich strings). Each (link: /terms/ink-word text: ink words) is represented by a special placeholder character in the string. The data for each ink word is stored after the string terminator character. The final 32 bits in a rich string encode information about the rich string.
+The internal representation used for (link: /terms/rich-string text: rich strings). Each (link: /terms/ink-word text: ink words) is represented by a special placeholder (link: /terms/character text: character) in the string. The data for each ink word is stored after the string terminator character. The final 32 bits in a rich string encode information about the rich string.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 04 November 2017
 
 Text:
 
-A prototype (link: /terms/dongle text: dongle) developed by [Apple](https://www.apple.com/) that plugged into an (link: /terms/newton-interconnect text: Newton InterConnect) port. The adapter provided standard connections for serial and (link: /terms/appletalk text: AppleTalk) communication, audio input and output, as well as power.
+A prototype (link: /terms/dongle text: dongle) developed by [Apple](https://www.apple.com/) that plugged into an (link: /terms/newton-interconnect text: Newton InterConnect) port. The adapter provided standard connections for serial and (link: /terms/appletalk text: AppleTalk) communication, audio (link: /terms/input text: input) and (link: /terms/output text: output), as well as power.
 
 ----
 

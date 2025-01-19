@@ -14,6 +14,7 @@ A set of stylistic variations pertaining to a (link: /terms/font text: font), ot
 
 Related:
 
+- /terms/character
 - /terms/font
 - /terms/font-size
 - /terms/font-spec

@@ -17,6 +17,7 @@ The New York font on Mac OS is the equivalent to the (link: /terms/fancy text: F
 Related:
 
 - /terms/casual
+- /terms/character
 - /terms/espy-sans
 - /terms/eworld
 - /terms/fancy

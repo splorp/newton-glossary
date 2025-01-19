@@ -10,7 +10,7 @@ Text:
 
 Multipurpose Internet Mail Extensions
 
-A standard for extending the type of content handled by email messages and web servers. MIME supports multiple types of character encoding, as well as non-text data including HTML, images, audio, and other attachments.
+A standard for extending the type of content handled by email messages and web servers. MIME supports multiple types of (link: /terms/character text: character) encoding, as well as non-text data including HTML, images, audio, and other attachments.
 
 ----
 

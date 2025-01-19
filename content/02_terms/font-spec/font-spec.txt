@@ -14,6 +14,7 @@ In (link: /terms/newtonscript text: NewtonScript), a structure used to store inf
 
 Related:
 
+- /terms/character
 - /terms/font
 - /terms/font-size
 - /terms/font-style

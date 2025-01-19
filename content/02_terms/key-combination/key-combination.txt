@@ -8,7 +8,7 @@ Date: 24 January 2018
 
 Text:
 
-A series of keys that are typed at the same time on a keyboard, usually consisting of an alphanumeric character combined with one or more (link: /terms/modifier-key text: modifier keys).
+A series of keys that are typed at the same time on a keyboard, usually consisting of an alphanumeric (link: /terms/character text: character) combined with one or more (link: /terms/modifier-key text: modifier keys).
 
 ----
 
