@@ -110,18 +110,18 @@ return [
 						? $page->description()
 						: $page->text()->excerpt(175)
 					),
-				'author' => $site->author()
+				'author' => $site->author(),
+				'fediverse:creator' => $site->fediverse()
 			],
 			'link' => [
+				'me' => $site->fediverse(),
 				'canonical' => $page->url()
 			],
 			'og' => [
 				'type' => $page->isHomePage()
 					? 'website'
 					: 'article',
-				'article:author' => $page->isHomePage()
-					? ''
-					: $site->author(),
+				'article:author' => $site->fediverse(),
 				'title' => $page->title(),
 				'site_name' => $site->title(),
 				'url' => $page->url(),

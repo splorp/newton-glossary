@@ -6,7 +6,6 @@
 		<meta name="robots" content="noai, noimageai">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<?php echo $page->metaTags() ?>
-		<link rel="me" href="https://mastodon.social/@splorp">
 		<link rel="alternate" type="application/rss+xml" title="Latest Additions" href="<?php echo $site->url() . "/latest/feed" ?>">
 		<link rel="shortcut icon" href="<?php echo $site->url() ?>/favicon.ico">
 		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="<?php echo $site->url() ?>/assets/devices/apple-touch-icon-57x57-precomposed.png">
