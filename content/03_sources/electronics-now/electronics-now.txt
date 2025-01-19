@@ -1,0 +1,18 @@
+Title: Electronics Now
+
+----
+
+Date: 18 January 2025
+
+----
+
+Text:
+
+A long-running monthly magazine for electronic hobbyists published by Gernsback Publications. Previously titled _Radio-Electronics_, it was renamed _Electronics Now_ in 1992.
+
+----
+
+Resource:
+
+- [World Radio History: Electronics Now](https://www.worldradiohistory.com/Electronics%20_Now.htm)
+- [Wikipedia: Radio-Electronics](https://en.wikipedia.org/wiki/Radio-Electronics)

@@ -1,0 +1,17 @@
+Title: MMM
+
+----
+
+Date: 18 January 2025
+
+----
+
+Text:
+
+See: (link: /terms/miniature-multimedia-machine text: Miniature Multimedia Machine)
+
+----
+
+Source:
+
+- /sources/electronics-now

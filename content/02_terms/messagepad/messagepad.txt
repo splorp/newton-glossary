@@ -20,7 +20,8 @@ Related:
 - /terms/messagepad-130
 - /terms/messagepad-2000
 - /terms/messagepad-2100
+- /terms/miniature-multimedia-machine
 - /terms/mp
-- /terms/notepad
 - /terms/newton-lc
+- /terms/notepad
 - /terms/original-messagepad

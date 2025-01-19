@@ -1,0 +1,32 @@
+Title: Miniature Multimedia Machine
+
+----
+
+Date: 18 January 2025
+
+----
+
+Text:
+
+An editorial description of the very first Newton device. Also referred to as an (link: /terms/mmm text: MMM), both terms were used by Jeff Holtzman in the October 1992 issue of (link: /sources/electronics-now text: Electronics Now) magazine. At the time of the article, the Newton had been announced, but not yet released.
+
+----
+
+Resource:
+
+- [Electronics Now: Miniature Multimedia Machines](https://archive.org/details/radio_electronics_1992-10/page/n82/mode/1up)
+
+----
+
+Related:
+
+- /terms/junior
+- /terms/messagepad
+- /terms/mmm
+- /terms/original-messagepad
+
+----
+
+Source:
+
+- /sources/electronics-now
