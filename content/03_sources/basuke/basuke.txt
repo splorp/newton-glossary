@@ -1,0 +1,21 @@
+Title: Yosuke “Basuke” Suzuki
+
+----
+
+Date: 20 January 2025
+
+----
+
+Text:
+
+Currently a software engineer and [WebKit](https://developer.apple.com/documentation/webkit) reviewer at [Apple](https://www.apple.com/), Basuke is the developer of several enhancements and utilities for (link: /terms/newton-os text: Newton OS), including (link: /terms/tapbar text: TapBar) and (link: /terms/heaven-or-hell text: Heaven or Hell).
+
+----
+
+Resource:
+
+- [GitHub: Basuke Suzuki](https://github.com/basuke)
+- [LinkedIn: Basuke Suzuki](https://www.linkedin.com/in/basuke/)
+- [Threads: 鈴木 バスケ](https://www.threads.net/@basuke)
+- [Twitter: Basuke](https://www.threads.net/@basuke)
+- [YouTube: Basuke Suzuki](https://www.youtube.com/@BasukeSuzuki)

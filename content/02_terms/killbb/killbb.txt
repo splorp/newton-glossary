@@ -26,6 +26,7 @@ Related:
 - /terms/dash-board
 - /terms/ryo
 - /terms/soft-button
+- /terms/tapbar
 - /terms/user-interface
 - /terms/vitamin-a
 

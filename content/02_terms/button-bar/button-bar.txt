@@ -39,6 +39,7 @@ Related:
 - /terms/silkscreen-button
 - /terms/soft-button
 - /terms/status-bar
+- /terms/tapbar
 - /terms/undo
 - /terms/universal-scroll-arrows
 - /terms/user-interface

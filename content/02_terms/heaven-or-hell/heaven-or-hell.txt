@@ -19,6 +19,7 @@ Resource:
 - [Basuke: Heaven or Hell](https://web.archive.org/web/20080517144430/http://www.saryo.org/basuke/heaven-or-hell/)
 - [Frank Wegener: What Newton OS Error -10061 really is](https://web.archive.org/web/20040205044508/http://home.k-town.de/~oehl/newton/10061.html)
 - [Newton FAQ: What is the -10061 error?](https://newtonfaq.com/newton-faq-nos.html#IIIC2a)
+
 ----
 
 Related:
@@ -32,3 +33,8 @@ Related:
 - /terms/pointer
 - /terms/virtual-address
 - /terms/virtual-memory
+
+----
+Source:
+
+- /sources/basuke

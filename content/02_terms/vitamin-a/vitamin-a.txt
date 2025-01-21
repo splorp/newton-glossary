@@ -32,6 +32,7 @@ Related:
 - /terms/killbb
 - /terms/ryo
 - /terms/soft-button
+- /terms/tapbar
 - /terms/user-interface
 
 ----

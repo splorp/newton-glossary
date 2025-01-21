@@ -33,6 +33,7 @@ Related:
 - /terms/silkscreen-button
 - /terms/soft-button
 - /terms/status-bar
+- /terms/tapbar
 - /terms/user-interface
 - /terms/vitamin-a
 

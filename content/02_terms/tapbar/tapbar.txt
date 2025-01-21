@@ -1,0 +1,41 @@
+Title: TapBar
+
+----
+
+Date: 20 January 2025
+
+----
+
+Text:
+
+A system enhancement developed by Yosuke “Basuke” Suzuki that allows the user to create custom (link: /terms/button text: buttons) that reside in the (link: /terms/status-bar text: status bar) of the (link: /terms/notepad text: Notepad) as well as floating (link: /terms/palette text: palettes) containing multiple buttons which can be collapsed when not in use.
+
+An example of TapBar in use can be found in (link: /terms/hanabi text: Hanabi), a utility for entering Japanese (link: /terms/character text: characters) on a Newton device.
+
+----
+
+Resource:
+
+- [Basuke: TapBar Product Information](https://web.archive.org/web/20071212015950/http://saryo.org/basuke/tapbar/)
+
+----
+
+Related:
+
+- /terms/barkeep
+- /terms/button
+- /terms/button-bar
+- /terms/dash-board
+- /terms/hanabi
+- /terms/killbb
+- /terms/ryo
+- /terms/soft-button
+- /terms/status-bar
+- /terms/user-interface
+- /terms/vitamin-a
+
+----
+
+Source:
+
+- /sources/basuke
