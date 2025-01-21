@@ -8,7 +8,10 @@ Date: 24 May 2001
 
 Text:
 
-To replace all of the information on a Newton device with information from a (link: /terms/backup text: backup).
+To replace all of the information on a Newton device with information from a (link: /terms/backup text: backup). The restore process usually involves restarting the Newton device by performing a (link: /terms/soft-reset text: soft reset).
+
+(image: /assets/images/restore-slip-2x.gif alt: Screenshot of a Restore slip with a Restart button width: 226)
+
 
 ----
 
@@ -20,6 +23,7 @@ Related:
 - /terms/nbku
 - /terms/newton-backup-express
 - /terms/newton-backup-utility
+- /terms/soft-reset
 
 ----
 

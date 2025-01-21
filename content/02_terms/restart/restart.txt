@@ -1,0 +1,17 @@
+Title: Restart
+
+----
+
+Date: 20 January 2025
+
+----
+
+Text:
+
+See: (link: /terms/soft-reset text: Soft Reset)
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
