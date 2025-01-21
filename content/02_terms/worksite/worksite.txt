@@ -10,7 +10,9 @@ Text:
 
 An entry in the (link: /terms/owner-info text: Owner Info) application where a Newton user establishes the address and other information related to a specific location. For example, a user can configure different worksites for home and office. A worksite can include information such as street address, telephone number, dialing prefix, time zone, printer settings, and email address.
 
-Also referred to as an (link: /terms/emporium text: Emporium) or (link: /terms/locale text: Locale).
+Country specific settings pertaining to a worksite can be set in the (link: /terms/locale text: Locale) preferences.
+
+Also referred to as an (link: /terms/emporium text: Emporium).
 
 ----
 

@@ -8,4 +8,28 @@ Date: 24 August 2016
 
 Text:
 
-See: (link: /terms/worksite text: Worksite)
+An section located in the (link: /terms/prefs text: Prefs) application which allows the user to select the standards which apply to a specific country. Locale settings affect things such as date and time formatting, (link: /terms/keyboard text: keyboard) layout, which (link: /terms/dictionary text: dictionary) is used for (link: /terms/handwriting-recognition text: handwriting recognition) and spelling, as well as paper size.
+
+Different locale settings can be specified for each (link: /terms/worksite text: worksite).
+
+(image: /assets/images/locale-2x.gif alt: Screenshot of the Locale preferences slip width: 240)
+
+----
+
+Related:
+
+- /terms/away-city
+- /terms/emporium
+- /terms/home-city
+- /terms/owner-info
+- /terms/prefs
+- /terms/time-zones
+- /terms/worksite
+- /terms/world-map
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
+- /sources/messagepad-handbook-1995
