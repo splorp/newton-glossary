@@ -23,6 +23,7 @@ Resource:
 - [NewtonTalk Mailing List Archives](https://newtontalk.net/archive/)
 - [MARC: NewtonTalk Mailing List Archives](https://marc.info/?l=newtontalk)
 - [Mastodon: NewtonTalk](https://bitbang.social/@newtontalk)
+- [Bluesky: NewtonTalk](https://bsky.app/profile/newtontalk.bsky.social)
 - [Twitter: NewtonTalk](https://twitter.com/newtontalk)
 
 ----
