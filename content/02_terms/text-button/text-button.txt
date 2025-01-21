@@ -15,7 +15,6 @@ A (link: /terms/control text: control) bordered by a (link: /terms/rounded-recta
 Related:
 
 - /terms/button
-- /terms/diamond
 - /terms/user-interface
 
 ----

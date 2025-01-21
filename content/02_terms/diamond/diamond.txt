@@ -10,13 +10,17 @@ Text:
 
 A small symbol located adjacent to a text label or (link: /terms/button text: button) indicating that a pop-up menu or (link: /terms/picker text: picker) will appear when (link: /terms/tapped text: tapped).
 
+Also referred to as a (link: /terms/black-diamond text: Black Diamond).
+
+(image: /assets/images/locale-2x.gif alt: Screenshot of the Locale preferences slip showing several pickers with diamonds width: 240)
+
 ----
 
 Related:
 
+- /terms/black-diamond
 - /terms/button
 - /terms/picker
-- /terms/text-button
 - /terms/user-interface
 
 ----
@@ -24,3 +28,4 @@ Related:
 Source:
 
 - /sources/messagepad-2000-user-manual
+- /sources/newton-user-interface-guidelines
