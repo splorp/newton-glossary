@@ -8,14 +8,14 @@ Date: 01 December 2016
 
 Text:
 
-The nickname given to the (link: /terms/emate-300 text: eMate 300) that made its big screen debut in the 1997 film [Batman & Robin](http://www.imdb.com/title/tt0118688/).
+The nickname given to the (link: /terms/emate-300 text: eMate 300) that made its big screen debut in the 1997 film [Batman & Robin](https://www.imdb.com/title/tt0118688/).
 
 ----
 
 Resource:
 
-- [The Apple Museum: Newton eMate 300](http://applemuseum.bott.org/sections/computers/e300.html)
-- [Starring the Computer: Batman & Robin](http://starringthecomputer.com/computer.html?c=29)
+- [The Apple Museum: Newton eMate 300](https://applemuseum.bott.org/sections/computers/e300.html)
+- [Starring the Computer: Batman & Robin](https://starringthecomputer.com/computer.html?c=29)
 
 ----
 

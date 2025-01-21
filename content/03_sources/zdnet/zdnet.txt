@@ -8,10 +8,10 @@ Date: 24 May 2001
 
 Text:
 
-A business-focused, technology news website currently under the wing of [CBS Interactive](https://www.cbsinteractive.com/). ZDNet was originally founded on April 1st, 1991 as a general interest technology portal published by [Ziff Davis](http://www.ziffdavis.com/).
+A business-focused, technology news website currently under the wing of [CBS Interactive](https://www.cbsinteractive.com/). ZDNet was originally founded on April 1st, 1991 as a general interest technology portal published by [Ziff Davis](https://www.ziffdavis.com/).
 
 ----
 
 Resource:
 
-- [ZDNet Website](http://www.zdnet.com/)
+- [ZDNet Website](https://www.zdnet.com/)

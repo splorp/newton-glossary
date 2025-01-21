@@ -16,7 +16,7 @@ A (link: /terms/vnc text: VNC) client and server for (link: /terms/newton-os tex
 
 Resource:
 
-- [CommuniCrossings: NewtDevENnv Product Information](http://communicrossings.com/html/newton/vnc.htm)
+- [CommuniCrossings: NewtDevENnv Product Information](https://communicrossings.com/html/newton/vnc.htm)
 
 ----
 

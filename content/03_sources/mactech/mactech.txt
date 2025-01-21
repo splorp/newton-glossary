@@ -15,4 +15,4 @@ An monthly magazine initially launched in 1984, changing its name to _MacTutor_ 
 Resource:
 
 - [MacTech Website](https://www.mactech.com/)
-- [MacTech Article Archives](http://preserve.mactech.com/articles/)
+- [MacTech Article Archives](https://preserve.mactech.com/articles/)

@@ -16,4 +16,4 @@ Resource:
 
 - [Logic Tools Newton](https://web.archive.org/web/20010412025527/http://www.logictools.de/newton/) (Deutsche)
 - [Logic Tools Newton](https://web.archive.org/web/20010420133600/http://www.logictools.de/newton/english/) (English)
-- [NewtonTalk: Michael Homscheidt on the story of Nick](http://lists.newtontalk.net/pipermail/newtontalk/2021-April/000713.html)
+- [NewtonTalk: Michael Homscheidt on the story of Nick](https://newtontalk.net/archive/newtontalk/2021-April/000713.html)

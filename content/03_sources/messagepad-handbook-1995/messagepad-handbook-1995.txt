@@ -14,6 +14,6 @@ Published by [Apple](https://www.apple.com/) in 1995 and 1996, this is the defin
 
 Resource:
 
-- [The Newted Community: Apple MessagePad Handbook (1995)](http://www.newted.org/download/manuals/0307258ANEWTONMP.PDF)
+- [The Newted Community: Apple MessagePad Handbook (1995)](https://www.newted.org/download/manuals/0307258ANEWTONMP.PDF)
 - [UNNA: Apple MessagePad Handbook (1995)](http://www.unna.org/unna/apple/documentation/OMP-130/NewtonHandbook(OS2.0)2UP.pdf)
 - [UNNA: Apple MessagePad Handbook (1996)](http://www.unna.org/unna/apple/documentation/OMP-130/NewtonHandbook(OS2.0).pdf)

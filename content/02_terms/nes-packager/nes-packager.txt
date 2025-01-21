@@ -17,7 +17,7 @@ Resource:
 - [Chuma: NES Packager](https://ritsuko.chuma.org/nespackager/)
 - [Eagan Rackley: Newtendo](http://dev.newtontalk.net/eagan/)
 - [YouTube: Newtendo Demo](https://www.youtube.com/watch?v=-l1x6WmFERA)
-- [My Apple Newton: Newtendo](http://myapplenewton.blogspot.ca/2009/02/newtendo.html)
+- [My Apple Newton: Newtendo](https://myapplenewton.blogspot.com/2009/02/newtendo.html)
 
 ----
 

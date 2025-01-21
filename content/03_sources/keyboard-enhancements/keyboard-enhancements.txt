@@ -14,4 +14,4 @@ This supplement presents user interface guidelines for the enhanced keyboard fea
 
 Resource:
 
-- [The Newted Community: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](http://www.newted.org/download/manuals/NewtonKeyboardUIGuide.pdf)
+- [The Newted Community: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](https://www.newted.org/download/manuals/NewtonKeyboardUIGuide.pdf)

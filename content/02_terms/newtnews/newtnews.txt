@@ -8,7 +8,7 @@ Date: 05 March 2018
 
 Text:
 
-A weekly newsletter focused on the Newton platform published by (link: /sources/steve-holden text: Steve Holden) between 1994 and 1998. Initially available through email and the web, NewtNews was also distributed by [The Arizona Macintosh Users Group](http://amug.org/) (AMUG) on CD-ROM and via their FTP server.
+A weekly newsletter focused on the Newton platform published by (link: /sources/steve-holden text: Steve Holden) between 1994 and 1998. Initially available through email and the web, NewtNews was also distributed by [The Arizona Macintosh Users Group](https://amug.org/) (AMUG) on CD-ROM and via their FTP server.
 
 A monthly “spin-off” based on the content of NewtNews called (link: /terms/newtnews-pro text: NewtNews Pro) was produced and published by Dave Hina.
 

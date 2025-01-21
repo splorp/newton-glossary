@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A ruggedized Newton device developed by [Harris Corporation](https://www.harris.com/) based on the (link: /terms/messagepad-2000 text: MessagePad 2000). Also referred to as the (link: /terms/ad2000 text: AD2000), it was primarily used by utility companies for data collection, equipment testing, and communicating over telephone lines. After development of the Newton was (link: /terms/steved text: Steved), Access Device 2000 was [replaced by a similar model](http://www.pencomputing.com/features/harris.html) that used the Windows CE (link: /terms/operating-system text: operating system) rather than Newton OS.
+A ruggedized Newton device developed by [Harris Corporation](https://web.archive.org/web/19970605091858/http://www.harris.com/) based on the (link: /terms/messagepad-2000 text: MessagePad 2000). Also referred to as the (link: /terms/ad2000 text: AD2000), it was primarily used by utility companies for data collection, equipment testing, and communicating over telephone lines. After development of the Newton was (link: /terms/steved text: Steved), Access Device 2000 was [replaced by a similar model](https://www.pencomputing.com/features/harris.html) that used the Windows CE (link: /terms/operating-system text: operating system) rather than Newton OS.
 
 A third-party device that utilizes a licensed version of (link: /terms/newton-os text: Newton OS) is commonly referred to as a (link: /terms/clone text: clone).
 

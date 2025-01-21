@@ -16,8 +16,8 @@ Dante also refers to version 2.0 of (link: /terms/newton-os text: Newton OS), as
 
 Resource:
 
-- [Newton Bowels: Dante Connection Protocol](http://www.kallisys.com/files/newton/Bowels/docking_protocol.txt)
-- [The Newted Community: Dante Connection Protocol](http://www.newted.org/download/manuals/DanteConnectionProtocol.pdf)
+- [Newton Bowels: Dante Connection Protocol](https://www.kallisys.com/files/newton/Bowels/docking_protocol.txt)
+- [The Newted Community: Dante Connection Protocol](https://www.newted.org/download/manuals/DanteConnectionProtocol.pdf)
 
 ----
 

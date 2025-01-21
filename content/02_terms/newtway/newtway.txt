@@ -15,9 +15,9 @@ A simple hardware adapter created by (link: /sources/doug-parker text: Doug Park
 Resource:
 
 - [The Newtway Stowaway Connector](http://ispinn.com/newtway/)
-- [Splorp: Connecting a Stowaway Keyboard to a Newton](http://www.splorp.com/newton/stowaway/)
-- [My Apple Newton: Newtway v2 Arrives](http://myapplenewton.blogspot.ca/2008/05/newtway-v2-arrives-stowaway-keyboard.html)
-- [Dan Bricklin: Stowaway Keyboard](http://danbricklin.com/log/stowaway.htm)
+- [Splorp: Connecting a Stowaway Keyboard to a Newton](https://www.splorp.com/newton/stowaway/)
+- [My Apple Newton: Newtway v2 Arrives](https://myapplenewton.blogspot.com/2008/05/newtway-v2-arrives-stowaway-keyboard.html)
+- [Dan Bricklin: Stowaway Keyboard](https://web.archive.org/web/20110830172947/https://danbricklin.com/log/stowaway.htm)
 - [Think Outside: The Palm Portable Keyboard](https://web.archive.org/web/20000510122503/http://thinkoutside.com/palm.html)
 
 ----

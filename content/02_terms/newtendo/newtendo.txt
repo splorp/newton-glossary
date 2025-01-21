@@ -15,7 +15,7 @@ An emulator (link: /terms/application text: application) developed by (link: /so
 Resource:
 
 - [Eagan Rackley: Newtendo](http://dev.newtontalk.net/eagan/)
-- [My Apple Newton: Newtendo](http://myapplenewton.blogspot.ca/2009/02/newtendo.html)
+- [My Apple Newton: Newtendo](https://myapplenewton.blogspot.com/2009/02/newtendo.html)
 - [YouTube: Newtendo Demo](https://www.youtube.com/watch?v=-l1x6WmFERA)
 - [Chuma: NES Packager](https://ritsuko.chuma.org/nespackager/)
 

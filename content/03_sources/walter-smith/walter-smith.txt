@@ -19,4 +19,4 @@ Resource:
 - [Walter Smith Website](http://waltersmith.us/)
 - [Walter Smith: Newton Articles](https://web.archive.org/web/20200117132817/http://waltersmith.us/newton)
 - [Newton Museum Website](http://www.newtonmuseum.com/)
-- [Google Books: HWM Magazine: Walter Smith Interview](http://books.google.ca/books?id=n-oDAAAAMBAJ&lpg=PA70&ots=TWYSoF5RKt&pg=PA70#v=onepage)
+- [Google Books: HWM Magazine: Walter Smith Interview](https://books.google.com/books?id=n-oDAAAAMBAJ&lpg=PA70&ots=TWYSoF5RKt&pg=PA70#v=onepage)

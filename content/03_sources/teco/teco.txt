@@ -16,5 +16,5 @@ In 1994, TecO developed (link: /terms/pocketweb text: PocketWeb), the first web 
 
 Resource:
 
-- [TecO Website](http://www.teco.edu/)
+- [TecO Website](https://www.teco.edu/)
 - [Wikipedia: TecO](https://de.wikipedia.org/wiki/TecO)

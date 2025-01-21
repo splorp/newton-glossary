@@ -16,8 +16,8 @@ Also referred to as (link: /terms/NIE text: NIE).
 
 Resource:
 
-- [The Newted Community: Newton Internet Enabler User’s Manual](http://www.newted.org/download/manuals/0340011ANIEUM.PDF)
-- [The Newted Community: Newton Internet Enabler 2.0 User’s Manual](http://www.newted.org/download/manuals/NIE20USE.pdf)
+- [The Newted Community: Newton Internet Enabler User’s Manual](https://www.newted.org/download/manuals/0340011ANIEUM.PDF)
+- [The Newted Community: Newton Internet Enabler 2.0 User’s Manual](https://www.newted.org/download/manuals/NIE20USE.pdf)
 - [UNNA: Newton Internet Enabler User’s Manual](http://www.unna.org/unna/apple/documentation/software/NIE1.1UsersManual.pdf)
 - [UNNA: Newton Internet Enabler 2.0 User’s Manual](http://www.unna.org/unna/apple/documentation/software/NIE2.0UsersManual.pdf)
 - [UNNA: Newton Internet Enabler 2.0 Read Me](http://www.unna.org/unna/apple/software/Internet/NIE2/nie_rdme.txt)

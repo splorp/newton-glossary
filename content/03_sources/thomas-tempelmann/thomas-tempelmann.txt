@@ -14,5 +14,5 @@ Creator of the infamous [FCopy](https://web.archive.org/web/20160516175410/http:
 
 Resource:
 
-- [Thomas Tempelmann Website](http://www.tempel.org/)
-- [Thomas Tempelmann: Newton Page](http://www.tempel.org/newton/)
+- [Thomas Tempelmann Website](https://www.tempel.org/)
+- [Thomas Tempelmann: Newton Page](https://www.tempel.org/newton/)

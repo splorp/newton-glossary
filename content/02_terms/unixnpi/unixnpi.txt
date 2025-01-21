@@ -16,7 +16,7 @@ A command line utility for Unix (link: /terms/operating-system text: operating s
 
 Resource:
 
-- [UnixNPI Website](http://unixnpi.sourceforge.net/)
+- [UnixNPI Website](https://unixnpi.sourceforge.net/)
 - [GitHub: UnixNPI](https://github.com/chuma/unixnpi)
 - [Richard Li: UnixNPI Product Information](https://web.archive.org/web/20121030074828/http://www.ee.cityu.edu.hk/~clli/unixnpi.html)
 - [Linux PPC Archives: Newton and LinuxPPC](https://marc.info/?l=linux-ppc&m=99252770404113&w=2)

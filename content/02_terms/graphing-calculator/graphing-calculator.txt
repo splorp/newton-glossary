@@ -14,7 +14,7 @@ A program built into the (link: /terms/newton-works text: Newton Works) applicat
 
 Resource:
 
-- [The Newted Community: Newton Works Graphing Calculator User’s Manual](http://www.newted.org/download/manuals/0340062ANWGRAFCALCUM.PDF)
+- [The Newted Community: Newton Works Graphing Calculator User’s Manual](https://www.newted.org/download/manuals/0340062ANWGRAFCALCUM.PDF)
 
 ----
 

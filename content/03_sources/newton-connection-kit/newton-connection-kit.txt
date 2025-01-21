@@ -14,4 +14,4 @@ The user manual for the (link: /terms/newton-connection-kit text: Newton Connect
 
 Resource:
 
-- [The Newted Community: Newton Connection Kit for Windows User’s Guide](http://www.newted.org/download/manuals/0305277ANCNCTKITWINUG.PDF)
+- [The Newted Community: Newton Connection Kit for Windows User’s Guide](https://www.newted.org/download/manuals/0305277ANCNCTKITWINUG.PDF)

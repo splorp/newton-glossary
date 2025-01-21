@@ -14,7 +14,7 @@ An early (link: /terms/lisp text: Lisp)-based version of (link: /terms/newton-os
 
 Resource:
 
-- [Talking with Mikel Evins about the Lisp-based Newton OS](http://lispm.de/lisp-based-newton-os)
+- [Talking with Mikel Evins about the Lisp-based Newton OS](https://web.archive.org/web/20201120223605/http://lispm.de/lisp-based-newton-os)
 
 ----
 

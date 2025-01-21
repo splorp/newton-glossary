@@ -16,7 +16,7 @@ A standard response when someone asks a question which could have easily answere
 
 Resource:
 
-- [WikiWikiWeb: RtFm](http://wiki.c2.com/?RtFm)
+- [WikiWikiWeb: RtFm](https://wiki.c2.com/?RtFm)
 
 ----
 

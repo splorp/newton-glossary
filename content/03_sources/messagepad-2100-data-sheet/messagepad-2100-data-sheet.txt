@@ -14,4 +14,4 @@ Published by [Apple](https://www.apple.com/) in November 1997, this document des
 
 Resource:
 
-- [The Newted Community: MessagePad 2100 with Newton 2.1 Operating System](http://www.newted.org/download/manuals/MessagePad_2100.pdf)
+- [The Newted Community: MessagePad 2100 with Newton 2.1 Operating System](https://www.newted.org/download/manuals/MessagePad_2100.pdf)

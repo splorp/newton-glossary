@@ -21,7 +21,7 @@ The YAZI (link: /terms/application text: application) is a (link: /terms/bytecod
 Resource:
 
 - [Scrawl Software: YAZI Product Information](https://web.archive.org/web/20060829065901/http://www.scrawlsoft.com/products/yazi/info.html)
-- [Inform: A short history of the Z-machine](http://inform-fiction.org/zmachine/standards/z1point1/appd.html)
+- [Inform: A short history of the Z-machine](https://inform-fiction.org/zmachine/standards/z1point1/appd.html)
 
 ----
 

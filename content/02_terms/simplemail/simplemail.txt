@@ -14,7 +14,7 @@ An email (link: /terms/transport text: transport) created by (link: /sources/sim
 
 Resource:
 
-- [Newton Research: SimpleMail Product Information](http://newtonresearch.org/simplemail/)
+- [Newton Research: SimpleMail Product Information](https://newtonresearch.org/simplemail/)
 
 ----
 

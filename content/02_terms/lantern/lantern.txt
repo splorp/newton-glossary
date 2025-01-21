@@ -14,7 +14,7 @@ The driver development kit or (link: /terms/ddk text: DDK) used to write a (link
 
 Resource:
 
-- [The Newted Community: Lantern Data Link Layer Tools](http://www.newted.org/download/manuals/Lantern.pdf)
+- [The Newted Community: Lantern Data Link Layer Tools](https://www.newted.org/download/manuals/Lantern.pdf)
 
 ----
 

@@ -14,7 +14,7 @@ A variation on the (link: /terms/frozen-newton text: Frozen Newton) project whic
 
 Resource:
 
-- [The Newton Notes: “Frozen Newton” になりました](http://ohshima.net/newton/frozen.html)
+- [The Newton Notes: “Frozen Newton” になりました](https://ohshima.net/newton/frozen.html)
 
 ----
 

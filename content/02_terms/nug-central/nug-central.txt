@@ -10,7 +10,7 @@ Text:
 
 Newton User Group Central
 
-A joint effort between the (link: /terms/nanug text: North Atlanta Newton Users Group) (NANUG) and the [Arizona Macintosh Users Group](http://amug.org/) (AMUG) that provided resources for Newton owners, developers, and other user groups.
+A joint effort between the (link: /terms/nanug text: North Atlanta Newton Users Group) (NANUG) and the [Arizona Macintosh Users Group](https://amug.org/) (AMUG) that provided resources for Newton owners, developers, and other user groups.
 
 ----
 

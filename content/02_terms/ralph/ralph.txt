@@ -10,13 +10,13 @@ Text:
 
 An early version of (link: /terms/dylan text: Dylan), a dynamic programming language developed at [Apple](https://www.apple.com/) used to develop portions of the original (link: /terms/newton-os text: Newton OS) and its (link: /terms/user-interface text: user interface). Ralph was also used on (link: /terms/bauhaus text: Bauhaus), an early (link: /terms/lisp text: Lisp)-based version of (link: /terms/newton-os text: Newton OS).
 
-Named for [Ralph Ellison](http://www.biography.com/people/ralph-ellison-9286702), the author of _The Invisible Man_.
+Named for [Ralph Ellison](https://www.biography.com/authors-writers/ralph-ellison), the author of _The Invisible Man_.
 
 ----
 
 Resource:
 
-- [Talking with Mikel Evins about the Lisp-based Newton OS](http://lispm.de/lisp-based-newton-os)
+- [Talking with Mikel Evins about the Lisp-based Newton OS](https://web.archive.org/web/20201120223605/http://lispm.de/lisp-based-newton-os)
 
 ----
 

@@ -16,7 +16,7 @@ A web browser for Newton devices developed by (link: /sources/steve-weyer text: 
 
 Resource:
 
-- [CommuniCrossings: Newt’s Cape Product Information](http://communicrossings.com/html/newton/newtscape.htm)
+- [CommuniCrossings: Newt’s Cape Product Information](https://communicrossings.com/html/newton/newtscape.htm)
 
 ----
 

@@ -8,13 +8,13 @@ Date: 24 August 2016
 
 Text:
 
-A community resource of commonly asked questions related to the Newton platform. First published in 1999, the Newton FAQ was originally compiled and maintained by (link: /sources/steve-weyer text: Steve Weyer), Peter Rand, (link: /sources/sean-luke text: Sean Luke), and (link: /sources/paul-guyot text: Paul Guyot). It was updated and posted to various websites and newsgroups on a monthly schedule. In October 2003, (link: /sources/grant-hutchinson text: Grant Hutchinson) took over the maintenance of the document and in February 2021 launched the standalone [Newton FAQ](http://newtonfaq.com/) website.
+A community resource of commonly asked questions related to the Newton platform. First published in 1999, the Newton FAQ was originally compiled and maintained by (link: /sources/steve-weyer text: Steve Weyer), Peter Rand, (link: /sources/sean-luke text: Sean Luke), and (link: /sources/paul-guyot text: Paul Guyot). It was updated and posted to various websites and newsgroups on a monthly schedule. In October 2003, (link: /sources/grant-hutchinson text: Grant Hutchinson) took over the maintenance of the document and in February 2021 launched the standalone [Newton FAQ](https://newtonfaq.com/) website.
 
 ----
 
 Resource:
 
-- [Newton FAQ Website](http://newtonfaq.com/)
+- [Newton FAQ Website](https://newtonfaq.com/)
 - [GitHub: Newton FAQ](https://github.com/splorp/newton-faq)
 - [NewtonTalk: The Newton FAQ ... Now on GitHub!](https://newtontalk.net/archive/newtontalk/2012-January/046623.html)
 - [NewtonTalk: The Newton FAQ ... it’s not dead](https://lists.newtontalk.net/pipermail/newtontalk/2021-March/000342.html)

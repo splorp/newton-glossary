@@ -14,7 +14,7 @@ A series of printed guides and digital resources published by [Apple](https://ww
 
 Resource:
 
-- [The Newted Community: Apple Service Source: eMate](http://www.newted.org/download/manuals/eMate.pdf)
-- [The Newted Community: Apple Service Source: Newton MessagePad 100, 110, 120, 130](http://www.newted.org/download/manuals/MessagePad_100_110_120_130.pdf)
-- [The Newted Community: Apple Service Source: Newton MessagePad 2000, 2100](http://www.newted.org/download/manuals/MessagePad_2000_2100.pdf)
+- [The Newted Community: Apple Service Source: eMate](https://www.newted.org/download/manuals/eMate.pdf)
+- [The Newted Community: Apple Service Source: Newton MessagePad 100, 110, 120, 130](https://www.newted.org/download/manuals/MessagePad_100_110_120_130.pdf)
+- [The Newted Community: Apple Service Source: Newton MessagePad 2000, 2100](https://www.newted.org/download/manuals/MessagePad_2000_2100.pdf)
 - [UNNA: Apple Support Area: Service Manuals](http://mirrors.unna.org/ftphqx.info.apple.com/Apple_Support_Area/Misc/Service/servicemanuals/)

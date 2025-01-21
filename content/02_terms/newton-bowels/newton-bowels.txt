@@ -14,7 +14,7 @@ A project instigated by (link: /sources/paul-guyot text: Paul Guyot) to document
 
 Resource:
 
-- [Kallisys: Newton Bowels Documentaton & Sample Code](http://www.kallisys.com/files/newton/Bowels/)
+- [Kallisys: Newton Bowels Documentaton & Sample Code](https://www.kallisys.com/files/newton/Bowels/)
 - [Kallisys: Newton Bowels Project](https://web.archive.org/web/20080705023523/http://www.kallisys.com/newton/bowels/en) (English)
 - [Kallisys: Projet Newton Bowels](https://web.archive.org/web/20080705024228/http://www.kallisys.com/newton/bowels/fr) (Français)
 

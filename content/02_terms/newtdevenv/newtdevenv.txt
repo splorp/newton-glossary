@@ -16,7 +16,7 @@ Also referred to as (link: /terms/nde text: NDE) and (link: /terms/newt text: Ne
 
 Resource:
 
-- [CommuniCrossings: NewtDevEnv Product Information](http://communicrossings.com/html/newton/newtdev.htm)
+- [CommuniCrossings: NewtDevEnv Product Information](https://communicrossings.com/html/newton/newtdev.htm)
 
 ----
 

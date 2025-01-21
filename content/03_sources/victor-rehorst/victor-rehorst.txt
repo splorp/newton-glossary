@@ -14,6 +14,6 @@ Victor Rehorst was an administrator of the (link: /terms/newtontalk text: Newton
 
 Resource:
 
-- [Chuma Website](http://chuma.org/)
-- [Chuma: Newton](http://old.chuma.org/newton/)
+- [Chuma Website](https://www.chuma.org/)
+- [Chuma: Newton](https://old.chuma.org/newton/)
 - [UNNA Website](http://www.unna.org/)

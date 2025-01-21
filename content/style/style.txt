@@ -127,7 +127,7 @@ When linking to the main page of a website, include both the website name and �
 
 _For example:_
 
-+ [Catamount Software Website](http://catamount.com/)
++ [Catamount Software Website](https://web.archive.org/web/20160808210209/https://www.catamount.com/)
 + [DNUG Website](https://web.archive.org/web/19990422085721/http://www.dnug.dk/)
 
 When linking to a specific article or resource on a website, use the full name or title of the article or resource — prefixed with the source website — as the link text.

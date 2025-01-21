@@ -16,8 +16,8 @@ A suite of (link: /terms/newton-os text: Newton OS) diagnostic and repair tools 
 
 Resource:
 
-- [Softwarebüro Müller: SBM Utilities Product Information](http://www.softwarebueromueller.de/englisch/newton/sbmutils/)
-- [Newton Poetry: SBM Utilities Now Unlocked](http://newtonpoetry.com/2009/07/20/sbm-utilities-now-unlocked/)
+- [Softwarebüro Müller: SBM Utilities Product Information](https://web.archive.org/web/20160807090412/http://www.softwarebueromueller.de/englisch/newton/sbmutils/)
+- [Newton Poetry: SBM Utilities Now Unlocked](https://newtonpoetry.com/2009/07/20/sbm-utilities-now-unlocked/)
 
 ----
 

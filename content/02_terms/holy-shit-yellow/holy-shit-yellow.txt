@@ -14,7 +14,7 @@ The colour of some of the mechanical components located in the battery compartme
 
 Resource:
 
-- [Dad Hacker: Patching the Newton](http://www.dadhacker.com/blog/?p=2233)
+- [Dad Hacker: Patching the Newton](https://web.archive.org/web/20191008052851/http://www.dadhacker.com/blog/?p=2233)
 
 ----
 

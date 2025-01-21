@@ -16,7 +16,7 @@ Leibniz is also an emulator for (link: /terms/runt text: Runt)-based Newton devi
 
 Resource:
 
-- [Talking with Mikel Evins about the Lisp-based Newton OS](http://lispm.de/lisp-based-newton-os)
+- [Talking with Mikel Evins about the Lisp-based Newton OS](https://web.archive.org/web/20201120223605/http://lispm.de/lisp-based-newton-os)
 - [GitHub: Leibniz](https://github.com/pablomarx/Leibniz)
 
 ----

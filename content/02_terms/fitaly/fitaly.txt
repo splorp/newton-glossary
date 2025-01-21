@@ -18,8 +18,8 @@ Versions of Fitaly were also available for Windows and Palm platforms.
 
 Resource:
 
-- [Textware Solutions: The Fitaly One-Finger Keyboard](http://www.fitaly.com/fitaly/fitaly.htm)
-- [Textware Solutions: The Fitaly Keyboard for the Newton](http://www.fitaly.com/newton/newtfitaly.htm)
+- [Textware Solutions: The Fitaly One-Finger Keyboard](https://textware.com/fitaly/fitaly.htm)
+- [Textware Solutions: The Fitaly Keyboard for the Newton](https://web.archive.org/web/20131023061228/http://www.fitaly.com/newton/newtfitaly.htm)
 
 ----
 

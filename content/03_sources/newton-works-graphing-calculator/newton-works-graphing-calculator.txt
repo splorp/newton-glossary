@@ -14,4 +14,4 @@ The user manual for the (link: /terms/graphing-calculator text: Graphing Calcula
 
 Resource:
 
-- [The Newted Community: Newton Works Graphing Calculator User’s Manual](http://www.newted.org/download/manuals/0340062ANWGRAFCALCUM.PDF)
+- [The Newted Community: Newton Works Graphing Calculator User’s Manual](https://www.newted.org/download/manuals/0340062ANWGRAFCALCUM.PDF)

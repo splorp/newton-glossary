@@ -8,10 +8,10 @@ Date: 24 May 2001
 
 Text:
 
-A comprehensive searchable dictionary of terms, acronyms, and jargon founded in 1985 by editor Denis Howe. Commonly referred to as [FOLDOC](http://foldoc.org/), this online resource currently contains over 15,000 entries.
+A comprehensive searchable dictionary of terms, acronyms, and jargon founded in 1985 by editor Denis Howe. Commonly referred to as [FOLDOC](https://foldoc.org/), this online resource currently contains over 15,000 entries.
 
 ----
 
 Resource:
 
-- [FOLDOC Website](http://foldoc.org/)
+- [FOLDOC Website](https://foldoc.org/)

@@ -8,10 +8,10 @@ Date: 21 November 2017
 
 Text:
 
-A software development company specializing in text (link: /terms/input text: input) software for Windows, Newton, and Palm platforms. Textware products include the [Instant Text](http://www.fitaly.com/product/version7.htm) text expansion utility and the (link: /terms/fitaly text: Fitaly) onscreen keyboard.
+A software development company specializing in text (link: /terms/input text: input) software for Windows, Newton, and Palm platforms. Textware products include the [Instant Text](https://textware.com/product/version7.htm) text expansion utility and the (link: /terms/fitaly text: Fitaly) onscreen keyboard.
 
 ----
 
 Resource:
 
-- [Textware Solutions Website](http://www.textware.com/)
+- [Textware Solutions Website](https://www.textware.com/)

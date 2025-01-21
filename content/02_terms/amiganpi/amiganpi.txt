@@ -14,7 +14,7 @@ Software developed by Dr David Fong that allows the user to install (link: /term
 
 Resource:
 
-- [Aminet: AmigaNPI](http://aminet.net/package/misc/emu/AmigaNPI)
+- [Aminet: AmigaNPI](https://aminet.net/package/misc/emu/AmigaNPI)
 
 ----
 

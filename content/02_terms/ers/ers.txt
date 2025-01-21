@@ -18,8 +18,8 @@ ERS is mentioned in the Newton OS 2.1 Engineering Documents and the Newton Font 
 
 Resource:
 
-- [The Newted Community: Newton OS 2.1 Engineering Documents](http://www.newted.org/download/manuals/NewtonOS21EngDoc.pdf)
-- [The Newted Community: Newton Font Specifications](http://www.newted.org/download/manuals/NewtonFontSpecifications.pdf)
+- [The Newted Community: Newton OS 2.1 Engineering Documents](https://www.newted.org/download/manuals/NewtonOS21EngDoc.pdf)
+- [The Newted Community: Newton Font Specifications](https://www.newted.org/download/manuals/NewtonFontSpecifications.pdf)
 
 ----
 

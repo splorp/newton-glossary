@@ -14,7 +14,7 @@ A text file format defined by (link: /sources/revelar text: Revelar) that contai
 
 Resource:
 
-- [Revelar: ADF File Resources](http://user.xmission.com/~revelar/adf.html)
+- [Revelar: ADF File Resources](https://web.archive.org/web/20080509131315/http://www.revelar.com/adf.html)
 
 ----
 

@@ -14,7 +14,7 @@ A section of the (link: /terms/the-newted-community text: The Newted Community) 
 
 Resource:
 
-- [The Newted Community Soupbox](https://web.archive.org/web/20070730193148/http://newted.org/soupbox/)
+- [The Newted Community Soupbox](https://web.archive.org/web/20070730193148/https://www.newted.org/soupbox/)
 
 ----
 

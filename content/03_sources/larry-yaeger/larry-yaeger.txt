@@ -14,7 +14,7 @@ Currently a software engineer at [Google](https://www.google.com/), Yaeger’s c
 
 Resource:
 
-- [Larry Yaeger Website](http://shinyverse.org/larryy/)
-- [Larry Yaeger: Apple Newton Handwriting Recognition](http://shinyverse.org/larryy/ANHR.html)
+- [Larry Yaeger Website](https://shinyverse.org/larryy/)
+- [Larry Yaeger: Apple Newton Handwriting Recognition](https://shinyverse.org/larryy/ANHR.html)
 - [Ars Technica: In the Loop with Larry Yaeger](https://arstechnica.com/apple/2005/06/504/)
-- [Matej Horvat: An interview with Larry Yaeger](http://matejhorvat.si/en/newton/larryy/)
+- [Matej Horvat: An interview with Larry Yaeger](https://matejhorvat.si/en/newton/larryy/)

@@ -8,12 +8,12 @@ Date: 30 November 2017
 
 Text:
 
-Bordens is a tinkerer, software developer, technology enthusiast, and the proprietor of [All About Jake](http://www.allaboutjake.com/) — a website dedicated to documenting his various geek-forward projects.
+Bordens is a tinkerer, software developer, technology enthusiast, and the proprietor of [All About Jake](https://www.allaboutjake.com/) — a website dedicated to documenting his various geek-forward projects.
 
 ----
 
 Resource:
 
-- [All About Jake Website](http://www.allaboutjake.com/)
+- [All About Jake Website](https://www.allaboutjake.com/)
 - [Retro-Newton Website](https://retronewton.blogspot.com/)
 - [GitHub: Jake Bordens](https://github.com/jake-b)

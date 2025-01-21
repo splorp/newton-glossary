@@ -16,4 +16,4 @@ Not to be confused with Lukas Foljanty’s similarly named (link: /sources/apple
 
 Resource:
 
-- [The Apple Museum Website](http://applemuseum.bott.org/)
+- [The Apple Museum Website](https://applemuseum.bott.org/)

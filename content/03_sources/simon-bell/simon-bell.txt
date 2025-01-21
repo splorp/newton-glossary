@@ -14,5 +14,5 @@ Simon Bell is the developer of several Newton packages and support applications,
 
 Resource:
 
-- [Newton Research Website](http://newtonresearch.org/)
+- [Newton Research Website](https://newtonresearch.org/)
 - [Worldwide Newton Conference 2004: Implementation of a NewtonScript Interpreter](http://wwnc.newtontalk.net/2004/program/simonbell/)

@@ -8,11 +8,11 @@ Date: 01 December 2016
 
 Text:
 
-Proprietor of [PDA-Soft](http://www.pda-soft.de/) and diehard Newton aficionado, Gründel is probably best known for his meticulous Newton disassembly and repair tutorials. He is also the developer of the (link: /terms/newttest text: NewtTest), (link: /terms/dotclock text: DotClock), and (link: /terms/bettersetter text: BetterSetter) applications.
+Proprietor of [PDA-Soft](https://www.pda-soft.de/) and diehard Newton aficionado, Gründel is probably best known for his meticulous Newton disassembly and repair tutorials. He is also the developer of the (link: /terms/newttest text: NewtTest), (link: /terms/dotclock text: DotClock), and (link: /terms/bettersetter text: BetterSetter) applications.
 
 ----
 
 Resource:
 
-- [PDA-Soft Website](http://www.pda-soft.de/english.html) (English)
-- [PDA-Soft Website](http://www.pda-soft.de/german.html) (Deutsche)
+- [PDA-Soft Website](https://www.pda-soft.de/english.html) (English)
+- [PDA-Soft Website](https://www.pda-soft.de/german.html) (Deutsche)

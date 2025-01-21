@@ -16,8 +16,8 @@ Also referred to as (link: /terms/newtworks text: NewtWorks) or (link: /terms/wo
 
 Resource:
 
-- [The Newted Community: Newton Works Word Processor User’s Manual](http://www.newted.org/download/manuals/0306284ANWWPUM.PDF)
-- [The Newted Community: Newton Works Graphing Calculator User’s Manual](http://www.newted.org/download/manuals/0340062ANWGRAFCALCUM.PDF)
+- [The Newted Community: Newton Works Word Processor User’s Manual](https://www.newted.org/download/manuals/0306284ANWWPUM.PDF)
+- [The Newted Community: Newton Works Graphing Calculator User’s Manual](https://www.newted.org/download/manuals/0340062ANWGRAFCALCUM.PDF)
 - [UNNA: The eMate: Learning Works](http://www.unna.org/unna/apple/documentation/eMateISTE-Basics/works.pdf)
 
 ----

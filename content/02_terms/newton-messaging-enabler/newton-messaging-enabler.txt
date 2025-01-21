@@ -17,7 +17,7 @@ Also referred to as (link: /terms/nme text: NME).
 Resource:
 
 - [Newton Inc.: Newton Messaging Enabler](https://web.archive.org/web/19980204051938/http://www.newton-inc.com/dev/sysenablrs.html)
-- [The Newted Community: Messaging Enabler Version 1.2](http://www.newted.org/download/manuals/MessagingEnabler.pdf)
+- [The Newted Community: Messaging Enabler Version 1.2](https://www.newted.org/download/manuals/MessagingEnabler.pdf)
 
 ----
 

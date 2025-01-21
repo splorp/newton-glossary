@@ -16,8 +16,8 @@ Also referred to as (link: /terms/nsg text: NSG).
 
 Resource:
 
-- [The Newted Community: Newton Solutions Guide (1995)](http://www.newted.org/download/manuals/NewtonSolutionsGuide1995.pdf)
-- [The Newted Community: Newton Solutions Guide (1996)](http://www.newted.org/download/manuals/NewtonSolutionsGuide1996.pdf)
+- [The Newted Community: Newton Solutions Guide (1995)](https://www.newted.org/download/manuals/NewtonSolutionsGuide1995.pdf)
+- [The Newted Community: Newton Solutions Guide (1996)](https://www.newted.org/download/manuals/NewtonSolutionsGuide1996.pdf)
 - [UNNA: Newton Solutions Guide (1996)](http://www.unna.org/unna/apple/documentation/software/NewtonSolutionsGuide.pdf)
 
 ----

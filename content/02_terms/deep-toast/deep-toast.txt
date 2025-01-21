@@ -18,7 +18,7 @@ Deep Toast can also refer to a catastrophic hardware failure, such as a fatal ha
 
 Resource:
 
-- [This is splorp: Deep Toast](http://splorp.me/2008/02/1878)
+- [This is splorp: Deep Toast](https://splorp.me/2008/02/1878)
 
 ----
 

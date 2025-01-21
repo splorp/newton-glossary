@@ -14,7 +14,7 @@ A desktop (link: /terms/application text: application) created by Thomas Tempelm
 
 Resource:
 
-- [Thomas Tempelmann: Newton Data Browser Product Information](http://www.tempel.org/newton/#DILplugin)
+- [Thomas Tempelmann: Newton Data Browser Product Information](https://www.tempel.org/newton/#DILplugin)
 
 ----
 

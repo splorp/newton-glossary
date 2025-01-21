@@ -18,7 +18,7 @@ Also referred to as (link: /terms/nim text: NIM).
 
 Resource:
 
-- [All About Jake: NewtonIM Product Information](http://www.allaboutjake.com/newton/newtonim/)
+- [All About Jake: NewtonIM Product Information](https://www.allaboutjake.com/newton/newtonim/)
 - [Jabber.org Website](https://www.jabber.org/)
 
 ----

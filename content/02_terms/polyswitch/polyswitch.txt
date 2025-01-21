@@ -16,8 +16,8 @@ Polyswitches can be found in battery packs used in (link: /terms/messagepad-2000
 
 Resource:
 
-- [My Apple Newton: Batteries 101 for the MessagePad 2x00s and eMate](http://myapplenewton.blogspot.com/2009/05/batteries-101-for-messagepad-2x00s-and.html)
-- [NewtonTalk: Battery rebuild - polyswitches](http://www.newtontalk.net/archive/newtontalk/2008-July/0220.html)
+- [My Apple Newton: Batteries 101 for the MessagePad 2x00s and eMate](https://myapplenewton.blogspot.com/2009/05/batteries-101-for-messagepad-2x00s-and.html)
+- [NewtonTalk: Battery rebuild - polyswitches](https://newtontalk.net/archive/newtontalk/2008-July/0220.html)
 
 ----
 

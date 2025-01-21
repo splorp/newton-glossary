@@ -16,7 +16,7 @@ The (link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagep
 
 Resource:
 
-- [Smart Dog Software: Newton IrDA White Paper](http://www.smartdogsw.com/backtalk/whitepaper.shtml)
+- [Smart Dog Software: Newton IrDA White Paper](https://www.smartdogsw.com/backtalk/whitepaper.shtml)
 
 ----
 

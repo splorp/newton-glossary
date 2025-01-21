@@ -14,6 +14,6 @@ A (link: /terms/lisp text: Lisp) hacker and historian based in Germany.
 
 Resource:
 
-- [LispODROID Website](http://lispm.de/)
+- [LispODROID Website](https://web.archive.org/web/20160810211217/http://lispm.de/)
 - [GitHub: Rainer Joswig](https://github.com/lispm)
 - [Twitter: Rainer Joswig](https://twitter.com/rainerjoswig)

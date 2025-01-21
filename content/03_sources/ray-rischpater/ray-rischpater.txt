@@ -16,4 +16,5 @@ Resource:
 
 - [Ray Rischpater Website](http://www.lothlorien.com/kf6gpe/)
 - [GitHub: Ray Rischpater](https://github.com/kf6gpe)
+- [Medium: Ray Rischpater](https://kf6gpe.medium.com/)
 - [LinkedIn: Ray Rischpater](https://www.linkedin.com/in/ray-rischpater-3663/)

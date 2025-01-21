@@ -19,7 +19,7 @@ Also referred to as (link: /terms/qf-works text: QF Works).
 Resource:
 
 - [PelicanWare: QuickFigure Product Information](https://web.archive.org/web/20031002141719/http://pelicanware.com/qfp.html)
-- [The Newted Commuunity: QuickFigure Works Version 1.0 User’s Manual](http://www.newted.org/download/manuals/QuickFigureWorksUsersManual.pdf)
+- [The Newted Commuunity: QuickFigure Works Version 1.0 User’s Manual](https://www.newted.org/download/manuals/QuickFigureWorksUsersManual.pdf)
 - [UNNA: QuickFigure Works Version 1.0 User’s Manual](http://www.unna.org/unna/applications/NewtonWorks/qfworks101/qfworks.pdf)
 - [Newton Does It!: QuickFigure Works/Pro “Secret” Functions](http://dettmer.maclab.org/newton/qfprosecrets.html)
 

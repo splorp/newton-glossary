@@ -23,7 +23,7 @@ Resource:
 - [CommonTime: Background to Cadenza Forte](https://web.archive.org/web/19980520220410/http://commontime.com/cadenza/about.html)
 - [UNNA: Cadenza 1.61](http://www.unna.org/view.php?/applications/Cadenza)
 - [UNNA: Cadenza for the Newton 1.6 User Guide](http://www.unna.org/unna/applications/Cadenza/cadenzaUG.pdf)
-- [NewtonTalk: Cadenza and Notes R5](http://www.newtontalk.net/archive/newtontalk/2003-April/0408.html)
+- [NewtonTalk: Cadenza and Notes R5](https://newtontalk.net/archive/newtontalk/2003-April/0408.html)
 
 ----
 

@@ -14,6 +14,6 @@ A self-proclaimed “hipster programmer cargo cultist” and developer of popula
 
 Resource:
 
-- [Mason Mark Website](http://masonmark.com/)
+- [Mason Mark Website](https://masonmark.com/)
 - [Five Speed Software Website](http://www.fivespeedsoftware.com/)
 - [GitHub: Mason Mark](https://github.com/masonmark/)

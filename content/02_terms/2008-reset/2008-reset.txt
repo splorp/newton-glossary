@@ -16,9 +16,9 @@ Commonly referred to as the (link: /terms/y2008 text: Y2008) bug, this problem w
 
 Resource:
 
-- [Newton Poetry: Newton 2010 bug rears its head, despite patches](http://newtonpoetry.com/2010/01/12/newton-2010-bug-rears-its-head-despite-patches/)
-- [Newton Poetry: No bumper needed: Newton Y2008 bug fixed](http://newtonpoetry.com/2010/07/19/no-bumper-needed-newton-y2008-bug-fixed/)
-- [NewtonTalk: [ANN] Y2010 + Y2008 fix for 2x00US Newtons ](http://www.newtontalk.net/archive/newtontalk/2010-July/042645.html)
+- [Newton Poetry: Newton 2010 bug rears its head, despite patches](https://newtonpoetry.com/2010/01/12/newton-2010-bug-rears-its-head-despite-patches/)
+- [Newton Poetry: No bumper needed: Newton Y2008 bug fixed](https://newtonpoetry.com/2010/07/19/no-bumper-needed-newton-y2008-bug-fixed/)
+- [NewtonTalk: [ANN] Y2010 + Y2008 fix for 2x00US Newtons ](https://newtontalk.net/archive/newtontalk/2010-July/042645.html)
 - [40Hz: Newton Year 2010 Problem](https://40hz.org/Pages/newton/hacking/newton-year-2010-problem/)
 - [40Hz: Newton Year 2010 Solution](https://40hz.org/Pages/newton/hacking/newton-year-2010-solution/)
 

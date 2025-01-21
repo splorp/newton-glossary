@@ -18,8 +18,8 @@ The group officially changed it name to the _New York City Digital Assistant Use
 
 Resource:
 
-- [NYCNUG Website](http://web.archive.org/web/19981202080235/http://www.finepeter.com/nycnug/)
-- [NYCDAUG Website](http://web.archive.org/web/20000307161650/http://www.nycdaug.org/)
+- [NYCNUG Website](https://web.archive.org/web/19981202080235/http://www.finepeter.com/nycnug/)
+- [NYCDAUG Website](https://web.archive.org/web/20000307161650/http://www.nycdaug.org/)
 
 ----
 

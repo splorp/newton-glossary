@@ -20,7 +20,7 @@ Resource:
 
 - [Byte-Size Software: Hilite2000 Product Information](https://web.archive.org/web/20021204142316/http://home.earthlink.net/~firstvln/bytesize/h2k.html)
 - [UNNA: Hilite2000 1.2](http://www.unna.org/view.php?/utilites/system_enhancements/Hilite2000_1.2)
-- [My Apple Newton: BBEdit vs Hilite2000](http://myapplenewton.blogspot.com/2010/02/bbedit-vs-hilite-2000.html)
+- [My Apple Newton: BBEdit vs Hilite2000](https://myapplenewton.blogspot.com/2010/02/bbedit-vs-hilite-2000.html)
 
 ----
 

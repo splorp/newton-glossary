@@ -14,5 +14,5 @@ The user manual for the (link: /terms/newton-backup-utility text: Newton Backup 
 
 Resource:
 
-- [The Newted Community: Newton Backup Utility User’s Guide for Macintosh](http://www.newted.org/download/manuals/0080027ANEWTBACKUG.PDF)
-- [The Newted Community: Newton Backup Utility User’s Guide for Windows](http://www.newted.org/download/manuals/0300028ANEWTUGWOS.PDF)
+- [The Newted Community: Newton Backup Utility User’s Guide for Macintosh](https://www.newted.org/download/manuals/0080027ANEWTBACKUG.PDF)
+- [The Newted Community: Newton Backup Utility User’s Guide for Windows](https://www.newted.org/download/manuals/0300028ANEWTUGWOS.PDF)

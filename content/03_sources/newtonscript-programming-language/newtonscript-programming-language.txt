@@ -15,6 +15,6 @@ Published by [Apple](https://www.apple.com/) in 1996, this is the definitive ref
 Resource:
 
 - [UNNA: The NewtonScript Programming Language](http://www.unna.org/unna/apple/documentation/developer/NewtonScriptProgLanguage.pdf)
-- [The Newted Community: The NewtonScript Programming Language](http://www.newted.org/download/manuals/NewtonScriptProgramLanguage.pdf)
+- [The Newted Community: The NewtonScript Programming Language](https://www.newted.org/download/manuals/NewtonScriptProgramLanguage.pdf)
 - [Kunihiro Saito: プログラミング言語 NewtonScript](https://web.archive.org/web/19970712004703/http://www.k-inet.com/~brown/plns.html) (Japanese Translation)
-- [The Newted Community: プログラミング言語 NewtonScript](http://www.newted.org/download/manuals/NewtonScriptProgramLang_J.pdf) (Japanese Translation)
+- [The Newted Community: プログラミング言語 NewtonScript](https://www.newted.org/download/manuals/NewtonScriptProgramLang_J.pdf) (Japanese Translation)

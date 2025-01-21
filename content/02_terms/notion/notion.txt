@@ -14,10 +14,10 @@ An (link: /terms/application text: application) known as “The Newton List Mana
 
 Resource:
 
-- [The Newted Community: Notion 1.5 Manual](http://www.newted.org/download/manuals/NotionManual15.pdf)
-- [The Newted Community: Notion 2.0 User Guide](http://www.newted.org/download/manuals/NotionUserGuide20.pdf)
-- [Bitsavers: Notion: The Newton List Manager](http://www.bitsavers.org/pdf/apple/brochures/brochures/AppleNewtonNotion.pdf)
-- [Pen Computing: Notion: Newton’s List Manager](http://www.pencomputing.com/Newton/NewtonNotes12.html)
+- [The Newted Community: Notion 1.5 Manual](https://www.newted.org/download/manuals/NotionManual15.pdf)
+- [The Newted Community: Notion 2.0 User Guide](https://www.newted.org/download/manuals/NotionUserGuide20.pdf)
+- [Bitsavers: Notion: The Newton List Manager](https://bitsavers.org/pdf/apple/brochures/brochures/AppleNewtonNotion.pdf)
+- [Pen Computing: Notion: Newton’s List Manager](https://www.pencomputing.com/Newton/NewtonNotes12.html)
 
 ----
 

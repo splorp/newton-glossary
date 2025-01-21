@@ -14,7 +14,7 @@ An weblog focused on the Newton platform and “… how it interfaces with the m
 
 Resource:
 
-- [Newton Poetry Website](http://newtonpoetry.com/)
+- [Newton Poetry Website](https://newtonpoetry.com/)
 - [About.me: Dave Lawrence](https://about.me/davelawrence8)
 - [Dave Lawrence Photography Website](https://davelawrence.photo/)
 - [Flickr: Dave Lawrence](https://www.flickr.com/photos/davelawrence8/)

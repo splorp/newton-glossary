@@ -8,14 +8,14 @@ Date: 24 August 2016
 
 Text:
 
-The alternate code name of the software-based [print recognizer](print-recognizer) system developed by [Apple](https://www.apple.com/). Originally known as (link: /terms/rosetta text: Rosetta), the name was changed to Mondello after receiving a cease-and-desist request from the developers of the [Rosetta Smalltalk](http://esug.org/data/HistoricalDocuments/Misc/RosettaSmalltalk.pdf) project. Although never used publicly, the official product name for the print recognizer was (link: /terms/neuropen text: Neuropen).
+The alternate code name of the software-based [print recognizer](print-recognizer) system developed by [Apple](https://www.apple.com/). Originally known as (link: /terms/rosetta text: Rosetta), the name was changed to Mondello after receiving a cease-and-desist request from the developers of the [Rosetta Smalltalk](https://web.archive.org/web/20161110013649/https://esug.org/data/HistoricalDocuments/Misc/RosettaSmalltalk.pdf) project. Although never used publicly, the official product name for the print recognizer was (link: /terms/neuropen text: Neuropen).
 
 ----
 
 Resource:
 
 - [Larry Yaeger: Handwriting Recognition That Actually Works](http://wwnc.newtontalk.net/resources/WWNC2006_Yaeger_HWR.pdf)
-- [Rosetta Smalltalk: A Conversational, Extensible Microcomputer Language](http://esug.org/data/HistoricalDocuments/Misc/RosettaSmalltalk.pdf)
+- [Rosetta Smalltalk: A Conversational, Extensible Microcomputer Language](https://web.archive.org/web/20161110013649/https://esug.org/data/HistoricalDocuments/Misc/RosettaSmalltalk.pdf)
 
 ----
 

@@ -16,7 +16,7 @@ Fast Infrared is also referred to as (link: /terms/fir text: FIR).
 
 Resource:
 
-- [Smart Dog Software: Newton IrDA White Paper](http://www.smartdogsw.com/backtalk/whitepaper.shtml)
+- [Smart Dog Software: Newton IrDA White Paper](https://www.smartdogsw.com/backtalk/whitepaper.shtml)
 
 ----
 

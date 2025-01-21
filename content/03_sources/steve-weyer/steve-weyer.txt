@@ -8,11 +8,11 @@ Date: 21 November 2004
 
 Text:
 
-A self-proclaimed technology addict, Steve spent two decades in high profile organizations such as [Stanford University](https://www.stanford.edu/), [Xerox PARC](https://www.parc.com/), [Atari](https://www.atari.com/), [Hewlett Packard](http://www.hp.com/), and [Apple](https://www.apple.com/) before becoming an independant consultant and [software developer](http://communicrossings.com/html/newton/). Steve has created an incredible amount of software for the Newton platform, including the (link: /terms/newts-cape text: Newt’s Cape) web browser, the (link: /terms/newtdevenv text: NewtDevEnv) environment for developing applications using NewtonScript, and the (link: /terms/sloup text: Sloup) data transfer utility.
+A self-proclaimed technology addict, Steve spent two decades in high profile organizations such as [Stanford University](https://www.stanford.edu/), [Xerox PARC](https://www.parc.com/), [Atari](https://www.atari.com/), [Hewlett Packard](https://www.hp.com/), and [Apple](https://www.apple.com/) before becoming an independant consultant and [software developer](https://communicrossings.com/html/newton/). Steve has created an incredible amount of software for the Newton platform, including the (link: /terms/newts-cape text: Newt’s Cape) web browser, the (link: /terms/newtdevenv text: NewtDevEnv) environment for developing applications using NewtonScript, and the (link: /terms/sloup text: Sloup) data transfer utility.
 
 ----
 
 Resource:
 
-- [CommuniCrossings Website](http://communicrossings.com/)
-- [Steve Weyer’s Software Releases](http://communicrossings.com/html/newton/)
+- [CommuniCrossings Website](https://communicrossings.com/)
+- [Steve Weyer’s Software Releases](https://communicrossings.com/html/newton/)

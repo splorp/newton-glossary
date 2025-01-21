@@ -17,8 +17,8 @@ A multi-platform communication framework created by (link: /sources/paul-guyot t
 Resource:
 
 - [GitHub: DCL](https://github.com/pguyot/DCL)
-- [SourceForge: DCL](http://sourceforge.net/projects/newton-dcl)
-- [Kallisys: DCL](http://www.kallisys.com/files/newton/DCL/)
+- [SourceForge: DCL](https://sourceforge.net/projects/newton-dcl/)
+- [Kallisys: DCL](https://www.kallisys.com/files/newton/DCL/)
 - [Kallisys: Desktop Connection Library](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
 - [40Hz: Newton Docking Protocol](https://40hz.org/Pages/newton/hacking/newton-docking-protocol/)
 

@@ -8,11 +8,13 @@ Date: 24 May 2001
 
 Text:
 
-Born and raised in Calgary, Grant is the current custodian of various online Newton resources, including the (link: /terms/newtontalk text: NewtonTalk) mailing list, (link: /terms/newton-personal-data-sharing text: Newton Personal Data Sharing), the [Newton Glossary](http://newtonglossary.com/), and the [Newton group on Flickr](https://www.flickr.com/groups/newtons/).
+Born and raised in Calgary, Grant is the current custodian of various online Newton resources, including the (link: /terms/newtontalk text: NewtonTalk) mailing list, (link: /terms/newton-personal-data-sharing text: Newton Personal Data Sharing), the [Newton Glossary](https://newtonglossary.com/), and the [Newton group on Flickr](https://www.flickr.com/groups/newtons/).
 
 ----
 
 Resource:
 
-- [Splorp Website](http://splorp.me/)
-- [Splorp: Newton](http://www.splorp.com/newton/)
+- [Splorp Website](https://splorp.me/)
+= [Flickr: Grant Hutchinson](https://flickr.com/splorp/)
+- [GitHub: Grant Hutchinson](https://github.com/splorp/)
+- [Mastodon: Grant Hutchinson](https://mastodon.social/@splorp)

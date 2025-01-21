@@ -16,7 +16,7 @@ YakSpeakNote was developed by (link: /sources/matej-horvat text: Matej Horvat) a
 
 Resource:
 
-- [Matej Horvat: Yak](http://matejhorvat.si/en/newton/yak/)
+- [Matej Horvat: Yak](https://matejhorvat.si/en/newton/yak/)
 
 ----
 

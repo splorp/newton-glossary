@@ -16,7 +16,7 @@ A third-party device that utilizes a licensed version of (link: /terms/newton-os
 
 Resource:
 
-- [New York Times: Apple Will Get Some Help From Siemens](http://www.nytimes.com/1993/03/12/business/company-news-apple-will-get-some-help-from-siemens.html)
+- [New York Times: Apple Will Get Some Help From Siemens](https://web.archive.org/web/20150526085821/https://www.nytimes.com/1993/03/12/business/company-news-apple-will-get-some-help-from-siemens.html)
 - [Flickr: Jim Abeles’ Siemens NotePhone Prototype](https://www.flickr.com/photos/abeles/albums/72157647360762817)
 
 ----

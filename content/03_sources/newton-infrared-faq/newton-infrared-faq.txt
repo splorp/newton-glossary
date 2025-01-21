@@ -8,10 +8,10 @@ Date: 24 May 2001
 
 Text:
 
-Frequently asked questions compiled by [David Arnold](http://www.0x1.org/d/) regarding the various infrared capabilities of Newton devices and related software.
+Frequently asked questions compiled by [David Arnold](https://0x1.org/d/) regarding the various infrared capabilities of Newton devices and related software.
 
 ----
 
 Resource:
 
-- [David Arnold Website: Newton Infrared FAQ](http://www.0x1.org/d/stuff/newton/ir-faq.html)
+- [David Arnold Website: Newton Infrared FAQ](https://0x1.org/d/stuff/newton/ir-faq.html)

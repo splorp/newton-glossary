@@ -14,5 +14,5 @@ Published by [Apple](https://www.apple.com/) in 1997, this is a introductory loo
 
 Resource:
 
-- [The Newted Community: MessagePad 2000 Getting Started](http://www.newted.org/download/manuals/0306224AMP2000GS.PDF)
+- [The Newted Community: MessagePad 2000 Getting Started](https://www.newted.org/download/manuals/0306224AMP2000GS.PDF)
 - [UNNA: MessagePad 2000 Getting Started](http://www.unna.org/unna/apple/documentation/2x00/2000GettingStarted.pdf)

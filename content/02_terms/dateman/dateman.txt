@@ -8,7 +8,7 @@ Date: 18 December 2001
 
 Text:
 
-A Newton (link: /terms/application text: application) created by [Standalone Software](http://standalone.com/) which works in conjunction with the built-in (link: /terms/name-file text: Name File) and (link: /terms/date-book text: Date Book) to give an overall view of your entire agenda.
+A Newton (link: /terms/application text: application) created by [Standalone Software](https://standalone.com/) which works in conjunction with the built-in (link: /terms/name-file text: Name File) and (link: /terms/date-book text: Date Book) to give an overall view of your entire agenda.
 
 Also referred to as (link: /terms/dm text: DM).
 

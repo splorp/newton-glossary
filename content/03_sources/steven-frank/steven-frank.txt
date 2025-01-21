@@ -14,5 +14,5 @@ Co-founder of [Panic](https://panic.com/) and self-proclaimed technology enthusi
 
 Resource:
 
-- [Steven Frank Website](http://stevenf.com/)
+- [Steven Frank Website](https://stevenf.com/)
 - [GitHub: Steven Frank](https://github.com/panicsteve)

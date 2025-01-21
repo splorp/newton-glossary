@@ -14,6 +14,6 @@ A long-running, animated situation comedy series created by Matt Groening, invol
 
 Resource:
 
-- [Simpsons Wiki](http://simpsons.wikia.com/wiki/Simpsons_Wiki)
-- [IMDb: The Simpsons](http://www.imdb.com/title/tt0096697/)
+- [Simpsons Wiki](https://simpsons.fandom.com/wiki/Simpsons_Wiki)
+- [IMDb: The Simpsons](https://www.imdb.com/title/tt0096697/)
 - [Wikipedia: The Simpsons](https://en.wikipedia.org/wiki/The_Simpsons)

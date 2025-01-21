@@ -16,7 +16,7 @@ Slow Infrared is also referred to as (link: /terms/sir text: SIR).
 
 Resource:
 
-- [Smart Dog Software: Newton IrDA White Paper](http://www.smartdogsw.com/backtalk/whitepaper.shtml)
+- [Smart Dog Software: Newton IrDA White Paper](https://www.smartdogsw.com/backtalk/whitepaper.shtml)
 
 ----
 

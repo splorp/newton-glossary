@@ -14,6 +14,6 @@ Based in Slovenia, Matej is currently a software developer with interests spanni
 
 Resource:
 
-- [Matej Horvat Website](http://matejhorvat.si/)
-- [Matej Horvat: Newton](http://matejhorvat.si/en/newton/)
-- [Matej Horvat: NewtonScript](http://matejhorvat.si/en/ns/)
+- [Matej Horvat Website](https://matejhorvat.si/)
+- [Matej Horvat: Newton](https://matejhorvat.si/en/newton/)
+- [Matej Horvat: NewtonScript](https://web.archive.org/web/20160328162859/http://matejhorvat.si/en/ns/index.htm)

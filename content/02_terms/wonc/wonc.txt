@@ -16,7 +16,7 @@ A virtual, online gathering of Newton users, developers, and aficionados capturi
 
 Resource:
 
-- [Worldwide Online Newton Conference Website](http://wwnc.online/)
+- [Worldwide Online Newton Conference Website](https://wwnc.online/)
 - [YouTube: Worldwide Online Newton Conference 2020](https://www.youtube.com/playlist?list=PLIrGnNAFPkjO0IpOl2FrUiQhdVHLS7BNT)
 
 ----

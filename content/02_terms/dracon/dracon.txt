@@ -8,7 +8,7 @@ Date: 22 January 2017
 
 Text:
 
-A division of [Harris Corporation](http://harris.com/) that designed and manufactured telephony test equipment. Dracon developed the (link: /terms/supertech-2000 text: SuperTech 2000), a ruggedized Newton device used by telecommunication field technicians.
+A division of [Harris Corporation](https://web.archive.org/web/19970605091858/http://www.harris.com/) that designed and manufactured telephony test equipment. Dracon developed the (link: /terms/supertech-2000 text: SuperTech 2000), a ruggedized Newton device used by telecommunication field technicians.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 21 September 2017
 
 Text:
 
-A book documenting the creation of the Newton. Written by [Markos Kounalakis](http://www.markoskounalakis.com/) and featuring photography by [Doug Menuez](https://menuez.com/). In an ironic nod to the suboptimal (link: /terms/handwriting-recognition text: handwriting recognition) found in the earlier versions of (link: /terms/newton-os text: Newton OS), the spine of the book contains a typo where “Gravity” is spelled “Graviity”.
+A book documenting the creation of the Newton. Written by [Markos Kounalakis](https://www.markoskounalakis.com) and featuring photography by [Doug Menuez](https://menuez.com/). In an ironic nod to the suboptimal (link: /terms/handwriting-recognition text: handwriting recognition) found in the earlier versions of (link: /terms/newton-os text: Newton OS), the spine of the book contains a typo where “Gravity” is spelled “Graviity”.
 
 ----
 

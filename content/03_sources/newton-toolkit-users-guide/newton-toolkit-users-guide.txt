@@ -14,5 +14,5 @@ First published by [Apple](https://www.apple.com/) in 1995, this is the definiti
 
 Resource:
 
-- [The Newted Community: Newton Toolkit User’s Guide](http://www.newted.org/download/manuals/NewtonToolkitUsersGuide.pdf)
+- [The Newted Community: Newton Toolkit User’s Guide](https://www.newted.org/download/manuals/NewtonToolkitUsersGuide.pdf)
 - [UNNA: Newton Toolkit](http://www.unna.org/view.php?/apple/development/NTK)

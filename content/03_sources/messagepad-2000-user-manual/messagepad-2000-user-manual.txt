@@ -14,5 +14,5 @@ Published by [Apple](https://www.apple.com/) in 1997, this is the definitive ref
 
 Resource:
 
-- [The Newted Community: MessagePad 2000 User’s Manual](http://www.newted.org/download/manuals/0306251AMP2000UM.PDF)
+- [The Newted Community: MessagePad 2000 User’s Manual](https://www.newted.org/download/manuals/0306251AMP2000UM.PDF)
 - [UNNA: MessagePad 2000 User’s Manual](http://www.unna.org/unna/apple/documentation/2x00/2000UsersManual.PDF)

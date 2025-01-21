@@ -14,7 +14,7 @@ A (link: /terms/data-link-layer text: data link layer) driver that allows Newton
 
 Resource:
 
-- [The Newted Community: Lantern Data Link Layer Tools](http://www.newted.org/download/manuals/Lantern.pdf)
+- [The Newted Community: Lantern Data Link Layer Tools](https://www.newted.org/download/manuals/Lantern.pdf)
 
 ----
 

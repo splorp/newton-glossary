@@ -14,4 +14,4 @@ The user manual for the word processing component of (link: /terms/newton-works 
 
 Resource:
 
-- [The Newted Community: Newton Works Word Processor User’s Manual](http://www.newted.org/download/manuals/0306284ANWWPUM.PDF)
+- [The Newted Community: Newton Works Word Processor User’s Manual](https://www.newted.org/download/manuals/0306284ANWWPUM.PDF)

@@ -14,7 +14,7 @@ A (link: /terms/package text: package) that works in conjunction with (link: /te
 
 Resource:
 
-- [Matej Horvat: Yak](http://matejhorvat.si/en/newton/yak/)
+- [Matej Horvat: Yak](https://matejhorvat.si/en/newton/yak/)
 
 ----
 

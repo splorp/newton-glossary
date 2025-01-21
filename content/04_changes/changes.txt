@@ -558,7 +558,7 @@ Sources: 77
 + Added 28 new sources
 + Updated and expanded literally hundreds of existing terms
 + Migrated project to [GitHub](https://github.com/)
-+ Content now published using [Kirby](http://getkirby.com/)
++ Content now published using [Kirby](https://getkirby.com/)
 + Began expanding metadata and background information for all (link: /sources text: sources)
 + Added a long overdue (link: /about text: About) section, colophon, and style guide
 + Added random term feature

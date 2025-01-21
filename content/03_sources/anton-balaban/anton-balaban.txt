@@ -8,12 +8,12 @@ Date: 06 October 2002
 
 Text:
 
-In late 2001, Moscow-based sound engineer [Anton Balaban](http://www.balaban.ru/) compiled a substantial amount of information related to using the Russian language and Cyrillic fonts on Newton devices, otherwise known as (link: /terms/russification text: Russification).
+In late 2001, Moscow-based sound engineer [Anton Balaban](https://web.archive.org/web/20141219093205/http://balaban.ru/Anton_Balaban/Russian.html) compiled a substantial amount of information related to using the Russian language and Cyrillic fonts on Newton devices, otherwise known as (link: /terms/russification text: Russification).
 
 ----
 
 Resource:
 
-- [Антон Балабан](http://www.balaban.ru/)
+- [Антон Балабан](https://web.archive.org/web/20141219093205/http://balaban.ru/Anton_Balaban/Russian.html)
 - [Ньютон в России](https://web.archive.org/web/20020807203309/http://www.worklogic.com/russian-newton/) (Newton in Russia)
 - [Ньютон в России: Русификация](https://web.archive.org/web/20020809090452/http://www.worklogic.com/russian-newton/russian.htm) (Russification)

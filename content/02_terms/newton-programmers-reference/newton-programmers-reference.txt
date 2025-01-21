@@ -17,7 +17,7 @@ Also referred to as (link: /terms/npr text: NPR).
 Resource:
 
 - [UNNA: Newton Programmer’s Reference for Newton 2.0](http://www.unna.org/unna/apple/documentation/developer/ProgrammersReferenceOS2.0.pdf)
-- [The Newted Community: Newton Programmer’s Reference for Newton 2.0](http://www.newted.org/download/manuals/NewtonProgrammerRef20.pdf)
+- [The Newted Community: Newton Programmer’s Reference for Newton 2.0](https://www.newted.org/download/manuals/NewtonProgrammerRef20.pdf)
 
 ----
 

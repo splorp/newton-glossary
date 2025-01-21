@@ -16,7 +16,7 @@ Also referred to as (link: /terms/print-pack text: Print Pack) and (link: /terms
 
 Resource:
 
-- [The Newted Community: Using the Newton Print Pack](http://www.newted.org/download/manuals/0330870ANWTNPRPK.PDF)
+- [The Newted Community: Using the Newton Print Pack](https://www.newted.org/download/manuals/0330870ANWTNPRPK.PDF)
 
 ----
 

@@ -14,7 +14,7 @@ A (link: /terms/frame text: frame)-based database (link: /terms/application text
 
 Resource:
 
-- [Talking with Mikel Evins about the Lisp-based Newton OS](http://lispm.de/lisp-based-newton-os)
+- [Talking with Mikel Evins about the Lisp-based Newton OS](https://web.archive.org/web/20201120223605/http://lispm.de/lisp-based-newton-os)
 
 ----
 

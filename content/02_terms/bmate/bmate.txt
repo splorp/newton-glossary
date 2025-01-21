@@ -16,8 +16,8 @@ Also referred to as the (link: /terms/emate-1000 text: eMate 1000), (link: /term
 
 Resource:
 
-- [Pen Computing: State of the Newton](http://www.pencomputing.com/Newton/NewtonNotes27(PCM19).html)
-- [Pen Computing: Why Did Apple Kill Newton?](http://www.pencomputing.com/Newton/AppleKillsNewton(PCM22).html)
+- [Pen Computing: State of the Newton](https://www.pencomputing.com/Newton/NewtonNotes27(PCM19).html)
+- [Pen Computing: Why Did Apple Kill Newton?](https://www.pencomputing.com/Newton/AppleKillsNewton(PCM22).html)
 - [Apple Recon: eMate 1000](https://web.archive.org/web/20010405015435/http://www.geocities.com/WallStreet/7744/emate1k.html)
 - [MacCentral: Newton News](https://web.archive.org/web/19981203050535/http://www.maccentral.com/features/012098_nn.shtml)
 - [ThessaSource: The Fate of the Newton](https://web.archive.org/web/19981205214656/http://www.thessasource.com/features/newton.html)

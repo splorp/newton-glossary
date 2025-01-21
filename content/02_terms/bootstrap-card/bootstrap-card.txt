@@ -18,7 +18,7 @@ Also referred to as a (link: /terms/lender-card text: Lender Card) or (link: /te
 
 Resource:
 
-- [Ron A. Parker: Y2010 Lender Card and Readme v1.01](http://www.newted.org/raparker/Y2010/readme.html)
+- [NewtonTalk: Y2010 Lender Card and Readme v1.01](https://newtontalk.net/archive/newtontalk/2010-March/041502.html)
 
 ----
 

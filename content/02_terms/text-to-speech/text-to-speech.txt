@@ -16,8 +16,8 @@ Also referred to as (link: /terms/tts text: TTS).
 
 Resource:
 
-- [Newton Underground: How to Work with the Text-to-Speech Extension](http://communicrossings.com/html/newton/newtscape/docs/a0000003.shtml)
-- [Newton Underground: More Newton Text to Speech](http://communicrossings.com/html/newton/newtscape/docs/a0000004.shtml)
+- [Newton Underground: How to Work with the Text-to-Speech Extension](https://communicrossings.com/html/newton/newtscape/docs/a0000003.shtml)
+- [Newton Underground: More Newton Text to Speech](https://communicrossings.com/html/newton/newtscape/docs/a0000004.shtml)
 
 ----
 

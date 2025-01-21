@@ -17,8 +17,8 @@ An (link: /terms/application text: application) created by (link: /sources/frank
 
 Resource:
 
-- [PDA-Soft: NewtTest Product Information](http://www.pda-soft.de/newttest.html)
-- [Newton Poetry: Get handy Newton info with NewtTest](http://newtonpoetry.com/2009/06/01/get-handy-newton-info-with-newttest/)
+- [PDA-Soft: NewtTest Product Information](https://www.pda-soft.de/newttest.html)
+- [Newton Poetry: Get handy Newton info with NewtTest](https://newtonpoetry.com/2009/06/01/get-handy-newton-info-with-newttest/)
 
 ----
 

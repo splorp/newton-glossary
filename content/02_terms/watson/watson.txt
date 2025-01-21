@@ -8,7 +8,7 @@ Date: 18 December 2001
 
 Text:
 
-A Newton device developed by [Schlumberger](http://www.slb.com/) as a dedicated, vertical market solution for the French healthcare industry. The device was based on the (link: /terms/messagepad-2000 text: MessagePad 2000), utiliziling a (link: /terms/modem text: modem) and a pair of smartcard readers to facilitate secure digital transactions for processing claims and accessing patient records through the [SESAM-Vitale](https://www.sesam-vitale.fr/) health insurance system. The Watson fit into a (link: /terms/cradle text: cradle) which contained the modem, a serial port for connection to a (link: /terms/desktop-computer text: desktop comupter), and circuitry to recharge the (link: /terms/battery-pack text: battery pack).
+A Newton device developed by [Schlumberger](https://www.slb.com/) as a dedicated, vertical market solution for the French healthcare industry. The device was based on the (link: /terms/messagepad-2000 text: MessagePad 2000), utiliziling a (link: /terms/modem text: modem) and a pair of smartcard readers to facilitate secure digital transactions for processing claims and accessing patient records through the [SESAM-Vitale](https://www.sesam-vitale.fr/) health insurance system. The Watson fit into a (link: /terms/cradle text: cradle) which contained the modem, a serial port for connection to a (link: /terms/desktop-computer text: desktop comupter), and circuitry to recharge the (link: /terms/battery-pack text: battery pack).
 
 Mistakenly referred to as the (link: /terms/dr-watson text: Dr Watson) is some situations.
 
@@ -18,7 +18,7 @@ A third-party device that utilizes a licensed version of (link: /terms/newton-os
 
 Resource:
 
-- [My Apple Newton: Schlumberger Watson: The Newton I Forgot](http://myapplenewton.blogspot.ca/2010/05/schlumberger-watson-newton-i-forgot.html)
+- [My Apple Newton: Schlumberger Watson: The Newton I Forgot](https://myapplenewton.blogspot.com/2010/05/schlumberger-watson-newton-i-forgot.html)
 - [Sylvain Pilet: Mon cher Watson, quel est votre secret?](http://message-pad.net/mon-cher-watson-quel-est-votre-secret/)
 - [Newton Inc.: Newton OS Computers from Licensees](https://web.archive.org/web/19980204042814/http://www.newton.apple.com/product_info/devices/devices.html)
 

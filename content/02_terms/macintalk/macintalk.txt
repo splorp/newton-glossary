@@ -16,8 +16,8 @@ MacinTalk first appeared as part of the operating system in the original Macinto
 
 Resource:
 
-- [Newton Underground: How to Work with the Text-to-Speech Extension](http://communicrossings.com/html/newton/newtscape/docs/a0000003.shtml)
-- [Newton Underground: More Newton Text to Speech](http://communicrossings.com/html/newton/newtscape/docs/a0000004.shtml)
+- [Newton Underground: How to Work with the Text-to-Speech Extension](https://communicrossings.com/html/newton/newtscape/docs/a0000003.shtml)
+- [Newton Underground: More Newton Text to Speech](https://communicrossings.com/html/newton/newtscape/docs/a0000004.shtml)
 - [Wikipedia: PlainTalk](https://en.wikipedia.org/wiki/PlainTalk)
 
 ----
