@@ -10,6 +10,12 @@ Text:
 
 A portmanteau of modulator and demodulator, describing any electronic device that converts serial data originating from one computer into an audio signal suitable for transmission over a telephone line to another modem.
 
+Modem is also a section found in the (link: /terms/prefs text: Prefs) application.
+
+In the Modem (link: /terms/slip text: slip), the user can set the modem (link: /terms/volume text: volume), if a dial tone is required upon connection, the type of telephone system the modem is connecting to, whether the device is connecting through a serial port or (link: /terms/pc-card text: PC card), and the type of modem being used.
+
+(image: /assets/images/modem-2x.gif alt: Screenshot of the Modem preference slip width: 240)
+
 ----
 
 Related:
@@ -21,6 +27,7 @@ Related:
 - /terms/logout-script
 - /terms/modeminos
 - /terms/newton-fax-modem
+- /terms/prefs
 - /terms/rs-232
 - /terms/xjack
 
@@ -29,3 +36,4 @@ Related:
 Source:
 
 - /sources/foldoc
+- /sources/messagepad-2000-user-manual
