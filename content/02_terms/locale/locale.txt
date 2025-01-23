@@ -8,7 +8,9 @@ Date: 24 August 2016
 
 Text:
 
-An section located in the (link: /terms/prefs text: Prefs) application which allows the user to select the standards which apply to a specific country. Locale settings affect things such as date and time formatting, (link: /terms/keyboard text: keyboard) layout, which (link: /terms/dictionary text: dictionary) is used for (link: /terms/handwriting-recognition text: handwriting recognition) and spelling, as well as paper size.
+An section located in the (link: /terms/prefs text: Prefs) application.
+
+In the Locale (link: /terms/slip text: slip), the user selects a country and specifies standard settings for that country. Locale settings affect things such as date and time formatting, (link: /terms/keyboard text: keyboard) layout, which (link: /terms/dictionary text: dictionary) is used for (link: /terms/handwriting-recognition text: handwriting recognition) and spelling, as well as paper size.
 
 Different locale settings can be specified for each (link: /terms/worksite text: worksite).
 
