@@ -8,7 +8,7 @@ Date: 19 January 2025
 
 Text:
 
-A utility developed by Yoshiyuki Hashimoto that provided an easy way to (link: /terms/input text: input) Japanese Hiragana (link: /terms/character text: characters) on a Newton device.
+A utility developed by Yoshiyuki Hashimoto that provides an easy way to (link: /terms/input text: input) Japanese Hiragana (link: /terms/character text: characters) on a Newton device.
 
 Using the (link: /terms/tapbar text: TapBar) button manager, Hanabi implemented a set of multifunction (link: /terms/button text: buttons) in a floating (link: /terms/palette text: palette).
 
