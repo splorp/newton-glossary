@@ -25,6 +25,7 @@ Related:
 - /terms/recording
 - /terms/sample
 - /terms/slot
+- /terms/sound
 - /terms/sound-frame
 
 ----

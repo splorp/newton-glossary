@@ -27,6 +27,7 @@ Related:
 - /terms/recording
 - /terms/security
 - /terms/sleep
+- /terms/sound
 
 ----
 
