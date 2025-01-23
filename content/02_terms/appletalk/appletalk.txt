@@ -10,6 +10,14 @@ Text:
 
 A routable networking (link: /terms/protocol text: protocol) developed by [Apple](https://www.apple.com/) for communications between Mac OS computers and other platforms over a (link: /terms/local-area-network text: local area network). AppleTalk is a variation of (link: /terms/rs-422 text: RS-422) serial communication and is supported by physical networking such as (link: /terms/localtalk text: LocalTalk) (originally also called AppleTalk) and (link: /terms/ethernet text: Ethernet). AppleTalk over Ethernet in known as (link: /terms/ethertalk text: EtherTalk).
 
+AppleTalk is also a section found in the (link: /terms/prefs text: Prefs) application.
+
+In the AppleTalk (link: /terms/slip text: slip), the user can specify whether to connect to an network using LocalTalk or EtherTalk. When connecting using EtherTalk, a networking (link: /terms/pc-card text: PC card) can also be specified.
+
+(image: /assets/images/appletalk-2x.gif alt: Screenshot of the AppleTalk preference slip width: 240)
+
+AppleTalk appears in Prefs when the (link: /terms/newton-internet-enabler text: Newton Internet Enabler) software is installed.
+
 ----
 
 Related:
@@ -24,6 +32,7 @@ Related:
 - /terms/localtalk
 - /terms/newton-internet-enabler
 - /terms/phonenet
+- /terms/prefs
 - /terms/protocol
 - /terms/wireless-appletalk
 
@@ -32,4 +41,5 @@ Related:
 Source:
 
 - /sources/comp-sys-mac-comm
+- /sources/messagepad-2000-user-manual
 - /sources/techencyclopedia

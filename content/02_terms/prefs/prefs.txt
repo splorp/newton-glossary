@@ -16,6 +16,7 @@ The built-in (link: /terms/application text: application) for changing system-wi
 
 Related:
 
+- /terms/appletalk
 - /terms/info-button
 - /terms/preferences
 - /terms/recording
