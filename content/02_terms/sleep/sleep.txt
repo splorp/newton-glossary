@@ -10,8 +10,22 @@ Text:
 
 An inactive state of a Newton device where system and peripheral functions are shut down, but the device can still respond or (link: /terms/wake text: wake) to an external signal.
 
+Sleep is also a section found in the (link: /terms/prefs text: Prefs) application.
+
+In the Sleep (link: /terms/slip text: slip), the user can specify the period of time until the Newton device automatically turns itself off, whether or not the device sleeps when plugged into a power adapter, as well as when to turn off the (link: /terms/backlight text: backlight).
+
+(image: /assets/images/sleep-2x.gif alt: Screenshot of the Sleep preference slip width: 240)
+
 ----
 
 Related:
 
+- /terms/backlight
+- /terms/prefs
 - /terms/wake
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

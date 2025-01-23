@@ -20,4 +20,5 @@ Related:
 - /terms/indiglo-newton
 - /terms/liquid-crystal-display
 - /terms/screen
+- /terms/sleep
 - /terms/transflective
