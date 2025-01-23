@@ -10,6 +10,12 @@ Text:
 
 A type of (link: /terms/stationery text: stationery) in the (link: /terms/notepad text: Notepad) application that can be used to record and play sounds and voice messages.
 
+Recording is also a section found in the (link: /terms/prefs text: Prefs) application.
+
+In the Recording (link: /terms/slip text: slip), the user can specify the audio source, as well as the quality and (link: /terms/volume text: volume) of the recording.
+
+(image: /assets/images/recording-2x.gif alt: Screenshot of the Recording preference slip width: 240)
+
 ----
 
 Related:
@@ -18,6 +24,7 @@ Related:
 - /terms/note
 - /terms/notepad
 - /terms/outline
+- /terms/prefs
 - /terms/stationery
 - /terms/volume
 

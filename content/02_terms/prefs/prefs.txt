@@ -18,6 +18,7 @@ Related:
 
 - /terms/info-button
 - /terms/preferences
+- /terms/recording
 - /terms/sleep
 
 ----
