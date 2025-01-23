@@ -16,6 +16,7 @@ A value used to specify the loudness of a sound.
 
 Related:
 
+- /terms/alarm
 - /terms/alert-sound
 - /terms/bleepmaker
 - /terms/channel

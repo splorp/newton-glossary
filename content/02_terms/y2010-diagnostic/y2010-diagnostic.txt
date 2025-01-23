@@ -8,7 +8,7 @@ Date: 02 September 2017
 
 Text:
 
-A utility (link: /terms/package text: package) created by (link: /sources/eckhart-koppen text: Eckhart Köppen) that gathers information about scheduled alarms which can tigger an “infinite alarm loop” due to the (link: /terms/year-2010-problem text: Year 2010 Problem). The utility allows the user to clear any alarms that are flagged as potentially troublesome.
+A utility (link: /terms/package text: package) created by (link: /sources/eckhart-koppen text: Eckhart Köppen) that gathers information about scheduled (link: /terms/alarm text: alarms) which can tigger an “infinite alarm loop” due to the (link: /terms/year-2010-problem text: Year 2010 Problem). The utility allows the user to clear any alarms that are flagged as potentially troublesome.
 
 ----
 
@@ -22,9 +22,11 @@ Resource:
 Related:
 
 - /terms/2008-reset
+- /terms/alarm
 - /terms/clock
 - /terms/fix2010
 - /terms/newtpocalypse
+- /terms/persistent-alarms
 - /terms/real-time-clock
 - /terms/year-2010-problem
 - /terms/year-2025-problem

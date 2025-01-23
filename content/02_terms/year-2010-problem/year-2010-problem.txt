@@ -10,7 +10,7 @@ Text:
 
 A bug that affects devices running (link: /terms/newton-os text: Newton OS) 2.1 after January 5th, 2010.
 
-The problem manifests itself in certain (link: /terms/newtonscript text: NewtonScript) time (link: /terms/function text: functions) as an integer value overflow, causing an “infinite alarm loop” or the system clock to reset itself.
+The problem manifests itself in certain (link: /terms/newtonscript text: NewtonScript) time (link: /terms/function text: functions) as an integer value overflow, causing an “infinite (link: /terms/alarm text: alarm) loop” or the system clock to reset itself.
 
 Commonly referred to as the (link: /terms/y2010 text: Y2010) or (link: /terms/y2k10 text: Y2K10) bug, this problem can be fixed by installing a (link: /terms/system-patch text: system patch).
 
@@ -28,10 +28,12 @@ Resource:
 Related:
 
 - /terms/2008-reset
+- /terms/alarm
 - /terms/clock
 - /terms/fix2010
 - /terms/newtonscript
 - /terms/newtpocalypse
+- /terms/persistent-alarms
 - /terms/real-time-clock
 - /terms/y2k10
 - /terms/y2010

@@ -23,7 +23,9 @@ Related:
 - /terms/notification-slip
 - /terms/notify-button
 - /terms/notify-picker
+- /terms/persistent-alarms
 - /terms/picker
+- /terms/snooze
 - /terms/snooze-button
 - /terms/user-interface
 

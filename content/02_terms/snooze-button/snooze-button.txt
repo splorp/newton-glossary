@@ -8,7 +8,9 @@ Date: 20 December 2023
 
 Text:
 
-Some (link: /terms/notification-alert text: notification alerts) include a “Snooze” button, which enables the user to temporarily dismiss the alert. For example, if an alarm or reminder (link: /terms/alert-box text: alert box) is displayed, the user can postpone the alarm for a specific number of minutes. Tapping the “Snooze” button displays a list of times in the (link: /terms/snooze-picker text: snooze picker). Selecting a time from the list will dismiss the alert for that amount of time.
+A button located in some (link: /terms/notification-alert text: notification alerts) which enables the user to temporarily dismiss the alert.
+
+For example, if an (link: /terms/alarm text: alarm) or reminder (link: /terms/alert-box text: alert box) is displayed, the user can postpone the alarm for a specific number of minutes. Tapping the “Snooze” button displays a list of times in the (link: /terms/snooze-picker text: snooze picker). Selecting a time from the list will dismiss (or (link: /terms/snooze text: snooze)) the alert for that amount of time.
 
 (image: /assets/images/alert-box-reminder.gif alt: Screenshot of a Reminder Alert with Snooze Button width: 208)
 
@@ -16,6 +18,7 @@ Some (link: /terms/notification-alert text: notification alerts) include a “Sn
 
 Related:
 
+- /terms/alarm
 - /terms/alert-box
 - /terms/alert-sound
 - /terms/button
@@ -23,6 +26,8 @@ Related:
 - /terms/notification-slip
 - /terms/notify-button
 - /terms/notify-picker
+- /terms/persistent-alarms
+- /terms/snooze
 - /terms/snooze-picker
 - /terms/user-interface
 

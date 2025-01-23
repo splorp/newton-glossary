@@ -12,7 +12,7 @@ A (link: /terms/picker text: picker) designed to simplify the process of specify
 
 (image: /assets/images/number-picker-2x.gif alt: Screenshot of a Number Picker width: 121)
 
-The number picker was designed to replicate a “mechanical digital” alarm clock with its “flipping digits”.
+The number picker was designed to replicate a “mechanical digital” (link: /terms/alarm text: alarm) clock with its “flipping digits”.
 
 There are specialized number pickers for specifying dates and times.
 

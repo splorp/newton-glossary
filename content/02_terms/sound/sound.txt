@@ -20,6 +20,7 @@ The user can also set the (link: /terms/alert-sound text: alert sound), the (lin
 
 Related:
 
+- /terms/alarm
 - /terms/alert-sound
 - /terms/bleepmaker
 - /terms/channel

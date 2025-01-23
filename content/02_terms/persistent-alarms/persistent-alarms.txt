@@ -1,0 +1,35 @@
+Title: Persistent Alarms
+
+----
+
+Date: 23 January 2025
+
+----
+
+Text:
+
+A setting in the (link: /terms/alarms text: Alarms) section of the (link: /terms/prefs text: Prefs) application.
+
+When enabled, a (link: /terms/notification-slip text: notification slip) appears and a series of beeps is played when an alarm goes off, continuing until the alarm is acknowledged or (link: /terms/snooze text: snoozed).
+
+(image: /assets/images/alarm-2x.gif alt: Screenshot of the Alarm preference slip showing the Persistent Alarms checkbox width: 240)
+
+----
+
+Related:
+
+- /terms/alarm
+- /terms/calendar
+- /terms/clock
+- /terms/notification-alert
+- /terms/notification-slip
+- /terms/prefs
+- /terms/snooze
+- /terms/snooze-button
+- /terms/snooze-picker
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

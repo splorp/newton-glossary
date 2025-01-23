@@ -1,0 +1,36 @@
+Title: Snooze
+
+----
+
+Date: 23 January 2025
+
+----
+
+Text:
+
+Temporarily dismissing a (link: /terms/notification-alert text: notification alert) or (link: /terms/alarm text: alarm) by (link: /terms/tapping text: tapping) the (link: /terms/snooze-button text: snooze button).
+
+Selecting a time from the list displayed in the (link: /terms/snooze-picker text: snooze picker) will dismiss the alert for that amount of time.
+
+(image: /assets/images/alert-box-reminder.gif alt: Screenshot of a Reminder Alert with Snooze Button width: 208)
+
+----
+
+Related:
+
+- /terms/alarm
+- /terms/alert-box
+- /terms/alert-sound
+- /terms/notification-alert
+- /terms/notification-slip
+- /terms/notify-button
+- /terms/notify-picker
+- /terms/persistent-alarms
+- /terms/snooze-button
+- /terms/snooze-picker
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines
