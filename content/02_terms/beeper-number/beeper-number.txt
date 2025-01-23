@@ -26,6 +26,7 @@ Related:
 - /terms/newton-messaging-card
 - /terms/passcode
 - /terms/pin
+- /terms/security
 
 ----
 

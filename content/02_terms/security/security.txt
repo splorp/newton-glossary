@@ -1,0 +1,32 @@
+Title: Security
+
+----
+
+Date: 23 January 2025
+
+----
+
+Text:
+
+A section found in the (link: /terms/prefs text: Prefs) application.
+
+In the Security (link: /terms/slip text: slip), the user can set a (link: /terms/password text: password) in the form of a Personal Identification Number ((link: /terms/pin text: PIN)) to prevent unauthorized people from accessing a Newton device.
+
+The user can also specify how often the PIN is required.
+
+(image: /assets/images/security-2x.gif alt: Screenshot of the Security preference slip width: 240)
+
+----
+
+Related:
+
+- /terms/beeper-number
+- /terms/passcode
+- /terms/pin
+- /terms/prefs
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

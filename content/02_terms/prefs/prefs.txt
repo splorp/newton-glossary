@@ -19,6 +19,7 @@ Related:
 - /terms/info-button
 - /terms/preferences
 - /terms/recording
+- /terms/security
 - /terms/sleep
 
 ----
