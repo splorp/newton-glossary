@@ -149,4 +149,4 @@ Powered by (link: https://getkirby.com/ text: Kirby title: The CMS that adapts t
 
 ----
 
-Version: 4.3.3
+Version: 4.4.0
