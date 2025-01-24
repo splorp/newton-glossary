@@ -18,14 +18,19 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the (link: /latest text: latest additions) page.
 
-### _$v
+### 4.3.3
 
-Terms: _$t
-Sources: _$s
+24 January 2025
+
+Terms: 1,656
+Sources: 191
 
 #### Summary of changes:
 
-+ 
++ Added 48 new terms
++ Added 6 new sources
++ Updated and expanded hundreds of existing entries
++ Added an [Open Graph](https://ogp.me/) meta tag for [fediverse author attribution](https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/)
 
 ### 4.3.2
 
