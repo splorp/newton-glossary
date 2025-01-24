@@ -16,7 +16,7 @@ Major releases, updates, and improvements.
 
 Incremental changes are listed in the project’s [commit history](https://github.com/splorp/newton-glossary/commits/master).
 
-Recently added terms and sources can be found on the (link: /latest text: latest additions) page.
+Recently added terms and sources can be found on the (link: /latest text: Latest Additions) page.
 
 ### _$v
 
@@ -99,7 +99,7 @@ Sources: 173
 + Updated and expanded dozens of existing entries
 + Changed links to use absolute URLs per [RSS Specification](https://www.rssboard.org/rss-profile#element-channel-item-description) guidance
 + Descriptions in the (link: /latest/feed text: RSS feed) are now CDATA encoded
-+ Updated a few glossarial references on the (link: /about text: about) page
++ Updated a few glossarial references on the (link: /about text: About) page
 + Updated [Kirby Redirects](https://github.com/bnomei/kirby3-redirects) plugin to version [4.2.1](https://github.com/bnomei/kirby3-redirects/releases/tag/v4.2.1)
 + Updated [Kirby](https://getkirby.com/) to version [4.3.1](https://github.com/getkirby/kirby/releases/tag/4.3.1) for security patch
 
@@ -143,7 +143,7 @@ Sources: 151
 + Added 13 new terms
 + Added 2 new sources
 + Updated and expanded dozens of existing entries
-+ Refactored (link: /terms text: terms) and (link: /sources text: sources) pages using native functions
++ Refactored (link: /terms text: Terms) and (link: /sources text: Sources) pages using native functions
 + Updated [Kirby](https://getkirby.com/) to version [4.2.0](https://github.com/getkirby/kirby/releases/tag/4.2.0)
 + Deprecated [Alphabetise](https://github.com/splorp/kirby-alphabetise) plugin
 
@@ -192,7 +192,7 @@ Sources: 146
 + Added 42 new terms
 + Added 6 new sources
 + Updated and expanded dozens of existing entries
-+ Added descriptions to the (link: /latest/feed text: RSS feed) for the (link: /latest text: latest additions) page
++ Added descriptions to the (link: /latest/feed text: RSS feed) for the (link: /latest text: Latest Additions) page
 + Updated the (link: /robots.txt text: robots.txt) file to exclude machine learning bots
 + Updated [Kirby](https://getkirby.com/) to version [3.10.0](https://github.com/getkirby/kirby/releases/tag/3.10.0) for [PHP 8.3](https://www.php.net/releases/8.3/en.php) support
 
@@ -223,7 +223,7 @@ Sources: 138
 + Added 1 new source
 + Updated and expanded dozens of existing entries
 + Moved “Additional Information” links to their own field for flexibility
-+ Added (link: /latest/feed text: RSS feed) for the (link: /latest text: latest additions) page
++ Added (link: /latest/feed text: RSS feed) for the (link: /latest text: Latest Additions) page
 + Removed keywords from the page meta because [SEO ruined everything](https://ahrefs.com/blog/meta-keywords/)
 + Simplified the way the stylesheet is timestamped when modified
 + Updated [Kirby](https://getkirby.com/) to version [3.9.7](https://github.com/getkirby/kirby/releases/tag/3.9.7)
@@ -484,8 +484,8 @@ Sources: 98
 + Added 45 new terms
 + Added 3 new sources
 + Updated and expanded dozens of existing entries
-+ Added page listing the (link: /latest text: latest additions) to the glossary
-+ Moved (link: /about text: about) and (link: /changes text: changes) links to footer
++ Added page listing the (link: /latest text: Latest Additions) to the glossary
++ Moved (link: /about text: About) and (link: /changes text: Changes) links to footer
 + Added option to set navigation link text for each page
 + Legacy domain links now redirect to [newtonglossary.com](https://newtonglossary.com/)
 + Implemented [Kirby GA](https://github.com/kirby-deprecated-plugins/kirby-ga) plugin for [Google Analytics](https://www.google.com/analytics/) integration
@@ -535,7 +535,7 @@ Sources: 90
 + Added 30 new terms
 + Added 7 new sources
 + Updated and expanded dozens of existing entries
-+ Numerical entries now appear at the top of the (link: /terms text: terms) and (link: /sources text: sources) pages
++ Numerical entries now appear at the top of the (link: /terms text: Terms) and (link: /sources text: Sources) pages
 + Focus is now automatically set on the (link: /search text: search) field
 + Updated [Alphabetise](https://github.com/splorp/kirby-alphabetise) plugin to version [0.0.9](https://github.com/splorp/kirby-alphabetise/releases/tag/0.0.9)
 
@@ -551,7 +551,7 @@ Sources: 83
 + Added 19 new terms
 + Added 6 new sources
 + Updated and expanded dozens of existing entries
-+ Fixed outdated links on the (link: /about text: about) page
++ Fixed outdated links on the (link: /about text: About) page
 + Added rudimentary (link: /search text: search) functionality
 + Simplified previous and next page navigation
 + Updated [Kirby](https://getkirby.com/) to version [2.3.2](https://web.archive.org/web/20170711105740/https://getkirby.com/changelog/kirby-2-3-2)
