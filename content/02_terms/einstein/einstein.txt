@@ -26,6 +26,7 @@ Related:
 - /terms/gnuton
 - /terms/green
 - /terms/leibniz
+- /terms/newton-os
 - /terms/unarmed
 - /terms/undo-overview
 - /terms/wilma

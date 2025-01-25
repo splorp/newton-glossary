@@ -35,6 +35,7 @@ Related:
 - /terms/lisp
 - /terms/macintosh-common-lisp
 - /terms/newton-toolkit
+- /terms/newton-os
 - /terms/ralph
 - /terms/runt
 - /terms/undo-overview

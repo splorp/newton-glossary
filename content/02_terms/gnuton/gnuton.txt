@@ -27,6 +27,7 @@ Related:
 - /terms/einstein
 - /terms/green
 - /terms/leibniz
+- /terms/newton-os
 
 ----
 

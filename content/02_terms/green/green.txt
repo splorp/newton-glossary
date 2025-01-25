@@ -23,6 +23,7 @@ Related:
 - /terms/einstein
 - /terms/gnuton
 - /terms/leibniz
+- /terms/newton-os
 
 ----
 

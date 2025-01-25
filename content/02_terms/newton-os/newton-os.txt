@@ -8,15 +8,25 @@ Date: 24 May 2001
 
 Text:
 
-The (link: /terms/operating-system text: operating system) that controls a Newton device.
+The (link: /terms/operating-system text: operating system) of a Newton device.
+
+Newton OS was written entirely in the C++ programming language, designed with low power consumption and efficient use of memory.
 
 Also referred to as (link: /terms/nos text: NOS).
+
+----
+
+Resource:
+
+- [Wikipedia: Newton OS](https://en.wikipedia.org/wiki/Newton_OS)
 
 ----
 
 Related:
 
 - /terms/deutsche-newton
+- /terms/einstein
+- /terms/leibniz
 - /terms/kernel
 - /terms/nos
 - /terms/operating-system
