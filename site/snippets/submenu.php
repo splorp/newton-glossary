@@ -6,12 +6,13 @@ $open  = $pages->findOpen();
 $items = ($open) ? $open->children() : false;
 
 // Sort child pages by title, then group alphabetically
-// The integer parameter used in the sortBy() function specifies the sort method:
+// SORT_STRING|SORT_FLAG_CASE sorts numerals then alphabetic characters in case-insensitive order
+// An integer may be used in the last parameter of the sortBy() function to specify the sort method:
 // 0 = SORT_REGULAR
 // 1 = SORT_NUMERIC
 // 2 = SORT_STRING
 
-$alphabetise = $page->children()->sortBy('title', 'asc', 2)->group(fn ($item) => str::upper($item->title()->value()[0]));
+$alphabetise = $page->children()->sortBy('title', 'asc', SORT_STRING|SORT_FLAG_CASE)->group(fn ($item) => str::upper($item->title()->value()[0]));
 
 // Create alphabetical list of pages, with subheadings
 
