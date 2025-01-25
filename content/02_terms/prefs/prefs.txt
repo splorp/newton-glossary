@@ -17,6 +17,7 @@ The built-in (link: /terms/application text: application) for changing system-wi
 Related:
 
 - /terms/alarm
+- /terms/align-pen
 - /terms/appletalk
 - /terms/auto-dock
 - /terms/handwriting-recognition
