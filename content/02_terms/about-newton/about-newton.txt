@@ -13,6 +13,7 @@ An (link: /terms/easter-egg text: easter egg) in (link: /terms/newton-os text: N
 In Newton OS 1.0, the list of names is followed by a tribute to the late Newton engineer (link: /terms/ko-isono text: Ko Isono).
 
 In Newton OS 2.0 and later, the names of the development team are displayed as a series of randomized phrases in the (link: /terms/assist-slip text: assist slip), starting with _“What about Newton?”_ and followed by entries such as _“What about larryy?”_ … a reference to (link: /terms/larry-yaeger text: Larry Yaeger).
+(image: /assets/images/about-newton-2x.gif alt: Screenshot of the Assist Slip displaying the phrase “What about Newton?” width: 320)
 
 On German language Newton devices, writing (link: /terms/uber-newton text: Über Newton) produces the same easter egg.
 
