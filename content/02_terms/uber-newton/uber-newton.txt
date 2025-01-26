@@ -1,0 +1,17 @@
+Title: Über Newton
+
+----
+
+Date: 26 January 2025
+
+----
+
+Text:
+
+See: (link: /terms/about-newton text: About Newton)
+
+----
+
+Source:
+
+- /sources/makido

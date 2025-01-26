@@ -22,10 +22,13 @@ Resource:
 
 Related:
 
+- /terms/about-newton
 - /terms/action
 - /terms/assist-slip
 - /terms/assistant
 - /terms/intelligent-assistance-architecture
+- /terms/neat-bong
+- /terms/neat-bong-assist
 - /terms/newton-assistant
 - /terms/please-picker
 - /terms/request-word

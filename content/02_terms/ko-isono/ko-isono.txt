@@ -1,0 +1,41 @@
+Title: Ko Isono
+
+----
+
+Date: 26 January 2025
+
+----
+
+Text:
+
+A software engineer at [Apple](https://www.apple.com/) who worked on portions of (link: /terms/newton-os text: Newton OS).
+
+A few weeks before the first scheduled demonstration of the Newton at the 1993 Consumer Electronics Show in Las Vegas, Isono died of a self-inflicted gunshot wound.
+
+In Newton OS 1.0, an (link: /terms/easter-egg text: easter egg) known as (link: /terms/about-newton text: About Newton) displays the names of members of the Newton development team followed by the message _“In Memory of Ko Isono”_.
+
+The tribute was removed in later versions of the (link: /terms/operating-system text: operating system).
+
+----
+
+Resource:
+
+- [Apple Wiki: Ko Isono](https://apple.fandom.com/wiki/Ko_Isono)
+- [The New York Times: Marketer’s Dream, Engineer’s Nightmare](https://web.archive.org/web/20090803141244/http://www.nytimes.com/1993/12/12/business/marketer-s-dream-engineer-s-nightmare.html?pagewanted=all)
+- [MacKiDo: Apple Easter Eggs](https://www.mackido.com/EasterEggs/Newton.html)
+
+----
+
+Related:
+
+- /terms/about-newton
+- /terms/easter-egg
+- /terms/neat-bong
+- /terms/newton-os
+- /terms/original-messagepad
+
+----
+
+Source:
+
+- /sources/the-new-york-times

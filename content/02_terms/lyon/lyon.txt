@@ -25,6 +25,7 @@ Resource:
 
 Related:
 
+- /terms/about-newton
 - /terms/area-51
 - /terms/brandyn
 - /terms/cuckoo
@@ -35,6 +36,7 @@ Related:
 - /terms/larryy
 - /terms/lesv
 - /terms/middle-of-nowhere
+- /terms/neat-bong
 - /terms/rosetta
 - /terms/stafford
 

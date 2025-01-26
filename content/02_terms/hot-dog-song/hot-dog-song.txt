@@ -27,6 +27,7 @@ Resource:
 
 Related:
 
+- /terms/about-newton
 - /terms/alert-sound
 - /terms/area-51
 - /terms/brandyn
@@ -39,6 +40,7 @@ Related:
 - /terms/lesv
 - /terms/lyon
 - /terms/middle-of-nowhere
+- /terms/neat-bong
 - /terms/newton-jingle
 - /terms/oscar-meyer-theme
 - /terms/poof

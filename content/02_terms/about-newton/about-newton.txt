@@ -1,0 +1,45 @@
+Title: About Newton
+
+----
+
+Date: 26 January 2025
+
+----
+
+Text:
+
+An (link: /terms/easter-egg text: easter egg) in (link: /terms/newton-os text: Newton OS) that displays the names of members of the Newton development team. The easter egg is activated by writing “About Newton” in the (link: /terms/notepad text: Notepad) application, (link: /terms/highlight text: highlighting) the text, and (link: /terms/tapping text: tapping) the (link: /terms/assist text: Assist) button.
+
+In Newton OS 1.0, the list of names is followed by a tribute to the late Newton engineer (link: /terms/ko-isono text: Ko Isono).
+
+In Newton OS 2.0 and later, the names of the development team are displayed as a series of randomized phrases in the (link: /terms/assist-slip text: assist slip), starting with _“What about Newton?”_ and followed by entries such as _“What about larryy?”_ … a reference to (link: /terms/larry-yaeger text: Larry Yaeger).
+
+On German language Newton devices, writing (link: /terms/uber-newton text: Über Newton) produces the same easter egg.
+
+----
+
+Resource:
+
+- [MacKiDo: Apple Easter Eggs](https://www.mackido.com/EasterEggs/Newton.html)
+- [Oliver’s List of Newton Easter Eggs](https://web.archive.org/web/20090215012820/http://oof.org/newton/)
+
+----
+
+Related:
+
+- /terms/assist
+- /terms/easter-egg
+- /terms/ko-isono
+- /terms/neat-bong
+- /terms/neat-bong-assist
+- /terms/newton-os
+- /terms/uber-newton
+- /terms/notepad
+- /terms/larryy
+
+----
+
+Source:
+
+- /sources/makido
+- /sources/olivers-list

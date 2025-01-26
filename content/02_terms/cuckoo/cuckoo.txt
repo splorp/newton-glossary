@@ -22,6 +22,7 @@ Resource:
 
 Related:
 
+- /terms/about-newton
 - /terms/area-51
 - /terms/brandyn
 - /terms/date-book
@@ -32,6 +33,7 @@ Related:
 - /terms/lesv
 - /terms/lyon
 - /terms/middle-of-nowhere
+- /terms/neat-bong
 - /terms/stafford
 
 ----

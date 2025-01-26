@@ -25,6 +25,7 @@ Resource:
 
 Related:
 
+- /terms/about-newton
 - /terms/area-51
 - /terms/cuckoo
 - /terms/easter-egg
@@ -35,6 +36,7 @@ Related:
 - /terms/lesv
 - /terms/lyon
 - /terms/middle-of-nowhere
+- /terms/neat-bong
 - /terms/rosetta
 - /terms/stafford
 

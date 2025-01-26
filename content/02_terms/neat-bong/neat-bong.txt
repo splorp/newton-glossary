@@ -1,0 +1,36 @@
+Title: Neat Bong
+
+----
+
+Date: 26 January 2025
+
+----
+
+Text:
+
+An (link: /terms/easter-egg text: easter egg) in (link: /terms/newton-os text: Newton OS) 2.0 that displays the names of members of the Newton development team. The easter egg is similar to the (link: /terms/about-newton text: About Newton) easter egg but displays a different list of names. The easter egg is activated by writing “Neat Bong” in the (link: /terms/notepad text: Notepad) application, (link: /terms/highlight text: highlighting) the text, and (link: /terms/tapping text: tapping) the (link: /terms/assist text: Assist) button.
+
+This easter egg was removed in Newton OS 2.1.
+
+----
+
+Resource:
+
+- [MacKiDo: Apple Easter Eggs](https://www.mackido.com/EasterEggs/Newton.html)
+
+----
+
+Related:
+
+- /terms/about-newton
+- /terms/assist
+- /terms/easter-egg
+- /terms/neat-bong-assist
+- /terms/newton-os
+- /terms/notepad
+
+----
+
+Source:
+
+- /sources/makido
