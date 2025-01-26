@@ -14,4 +14,4 @@ See: (link: /terms/about-newton text: About Newton)
 
 Source:
 
-- /sources/makido
+- /sources/mackido
