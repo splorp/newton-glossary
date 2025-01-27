@@ -12,12 +12,27 @@ A sans serif bitmap (link: /terms/font text: font) used when defining text in a 
 
 The Espy Sans font on Mac OS is the equivalent to the (link: /terms/system text: System) font on (link: /terms/newton-os text: Newton OS).
 
+There is also an (link: /terms/easter-egg text: easter egg) located in earlier versions of (link: /terms/newton-os text: Newton OS) that reveals a “secret” version of the Espy Sans font.
+
+The easter egg is activated by writing “Remember toothpaste” in the (link: /terms/notepad text: Notepad) application, (link: /terms/highlight text: highlighting) the text, and (link: /terms/tapping text: tapping) the (link: /terms/assist text: Assist) button. “Toothpaste” will be added to the (link: /terms/to-do-list text: To Do List) using Espy Sans rather than the default font.
+
+The easter egg does not work in Newton OS 2.0 and later.
+
+----
+
+Resource:
+
+- [The Newted Community: Newton Book Maker User’s Guide](https://www.newted.org/download/manuals/NewtonBookMakerUsersGuide.pdf)
+- [MacKiDo: Apple Easter Eggs](https://www.mackido.com/EasterEggs/Newton.html)
+
 ----
 
 Related:
 
+- /terms/assist
 - /terms/casual
 - /terms/character
+- /terms/easter-egg
 - /terms/espy
 - /terms/eworld
 - /terms/fancy
@@ -32,6 +47,7 @@ Related:
 - /terms/styles
 - /terms/system
 - /terms/text-run
+- /terms/to-do-list
 
 ----
 
@@ -39,3 +55,4 @@ Source:
 
 - /sources/newton-book-maker
 - /sources/newton-press
+- /sources/mackido

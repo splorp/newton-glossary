@@ -36,6 +36,7 @@ Related:
 - /terms/cuckoo
 - /terms/easter-egg
 - /terms/egg-freckles
+- /terms/espy-sans
 - /terms/larryy
 - /terms/lesv
 - /terms/lyon

@@ -31,6 +31,7 @@ Related:
 - /terms/cuckoo
 - /terms/easter-egg
 - /terms/egg-freckles
+- /terms/espy-sans
 - /terms/handwriting-recognition
 - /terms/hot-dog-song
 - /terms/lesv
