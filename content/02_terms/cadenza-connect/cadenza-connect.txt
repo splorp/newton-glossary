@@ -8,7 +8,7 @@ Date: 27 September 2024
 
 Text:
 
-An (link: /terms/application text: application) that could be installed on Newton device as part of the (link: /terms/cadenza text: Cadenza) software suite. Cadenza Connect allowed users to (link: /terms/synchronize text: synchronize) contacts from the (link: /terms/name-file text: Name File), (link: /terms/to-do-list text: to do list) tasks, and (link: /terms/date-book text: Date Book) items with Lotus Notes.
+An (link: /terms/application text: application) that could be installed on Newton device as part of the (link: /terms/cadenza text: Cadenza) software suite. Cadenza Connect allowed users to (link: /terms/synchronize text: synchronize) contacts from the (link: /terms/name-file text: Name File), (link: /terms/to-do-list text: To Do List) tasks, and (link: /terms/date-book text: Date Book) items with Lotus Notes.
 
 ----
 

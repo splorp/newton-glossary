@@ -12,7 +12,7 @@ Software developed by (link: /sources/commontime text: CommonTime) that facilita
 
 Through the (link: /terms/in-out-box text: InOut Box), Cadenza users could read and reply to Lotus Notes mail, view and respond to meeting requests, perform (link: /terms/backup text: backups) of the data stored on their Newton device, as well as install (link: /terms/package text: packages) and (link: /terms/newton-book text: Newton books).
 
-Using the separate (link: /terms/cadenza-connect text: Cadenza Connect) application, users could (link: /terms/synchronize text: synchronize) contacts from the (link: /terms/name-file text: Name File), (link: /terms/to-do-list text: to do list) tasks, and (link: /terms/date-book text: Date Book) items.
+Using the separate (link: /terms/cadenza-connect text: Cadenza Connect) application, users could (link: /terms/synchronize text: synchronize) contacts from the (link: /terms/name-file text: Name File), (link: /terms/to-do-list text: To Do List) tasks, and (link: /terms/date-book text: Date Book) items.
 
 The software suite is also referred to as (link: /terms/cadenza-forte text: Cadenza Forte).
 
