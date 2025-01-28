@@ -32,7 +32,6 @@ Related:
 - /terms/dreamland
 - /terms/easter-egg
 - /terms/egg-freckles
-- /terms/egg-freckles-enabler
 - /terms/espy-sans
 - /terms/groom-lake
 - /terms/hot-dog-song

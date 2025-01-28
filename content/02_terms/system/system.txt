@@ -21,7 +21,6 @@ Related:
 - /terms/casual
 - /terms/character
 - /terms/espy-sans
-- /terms/eworld
 - /terms/fancy
 - /terms/font
 - /terms/font-size

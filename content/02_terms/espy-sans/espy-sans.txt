@@ -39,6 +39,7 @@ Related:
 - /terms/espy
 - /terms/eworld
 - /terms/fancy
+- /terms/font
 - /terms/font-size
 - /terms/font-spec
 - /terms/font-style
