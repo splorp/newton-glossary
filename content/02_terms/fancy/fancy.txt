@@ -8,9 +8,15 @@ Date: 10 February 2017
 
 Text:
 
-One of the default bitmap (link: /terms/font text: fonts) on the Newton. Fancy is a proportionally spaced serif typeface based on [Times Roman](https://en.wikipedia.org/wiki/Times_New_Roman).
+A proportionally spaced serif typeface based on [Times Roman](https://en.wikipedia.org/wiki/Times_New_Roman). Fancy is one of the default bitmap (link: /terms/font text: fonts) included in (link: /terms/newton-os text: Newton OS). 
 
 (image: /assets/images/fancy-2x.gif alt: Screenshot showing various sizes of the Fancy bitmap font width: 416)
+
+----
+
+Resource:
+
+- [Wikipedia: Times Roman](https://en.wikipedia.org/wiki/Times_New_Roman)
 
 ----
 

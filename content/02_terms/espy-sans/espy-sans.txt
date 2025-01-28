@@ -10,6 +10,8 @@ Text:
 
 A sans serif bitmap (link: /terms/font text: font) used when defining text in a (link: /terms/book-source-file text: book source file) that will be processed with (link: /terms/newton-book-maker text: Newton Book Maker) or (link: /terms/newton-toolkit text: Newton Toolkit). It is also a font that can be specified when creating a (link: /terms/newton-book text: Newton book) with the (link: /terms/newton-press text: Newton Press) software.
 
+(image: /assets/images/espy-sans-2x.gif alt: Screenshot showing various sizes of the Espy Sans bitmap font width: 246)
+
 The Espy Sans font on Mac OS is the equivalent to the (link: /terms/system text: System) font on (link: /terms/newton-os text: Newton OS).
 
 There is also an (link: /terms/easter-egg text: easter egg) located in earlier versions of (link: /terms/newton-os text: Newton OS) that reveals a “secret” version of the Espy Sans font.
@@ -22,6 +24,7 @@ The easter egg does not work in Newton OS 2.0 and later.
 
 Resource:
 
+- [Wikipedia: Espy Sans](https://en.wikipedia.org/wiki/Espy_Sans)
 - [The Newted Community: Newton Book Maker User’s Guide](https://www.newted.org/download/manuals/NewtonBookMakerUsersGuide.pdf)
 - [MacKiDo: Apple Easter Eggs](https://www.mackido.com/EasterEggs/Newton.html)
 
