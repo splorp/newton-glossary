@@ -1,0 +1,39 @@
+Title: Clipboard
+
+----
+
+Date: 30 January 2025
+
+----
+
+Text:
+
+A specific section of memory used for temporary storage of data that is being duplicated or moved from one (link: /terms/application text: application) to another.
+
+In most situations, when an item is transferred to the clipboard, the previous contents of the clipboard are deleted.
+
+Support for multiple clipboards was introduced in (link: /terms/newton-os text: Newton OS) 2.0, but the feature was not enabled by default.
+
+To copy an item to the clipboard on a Newton device, first (link: /terms/select text: select) the item by holding the (link: /terms/pen text: pen) near the item until a (link: /terms/heavy-mark text: heavy mark) appears, then (link: /terms/dragging text: dragging) the pen around or through the item.
+
+The selected item is copied by (link: /terms/tapping text: tapping) twice inside the selection, keeping the pen down on the second tap. This is also known as a (link: /terms/tap-and-a-half text: tap-and-a-half).
+
+While still holding the pen down, move the pen to the top, right, or left edge of the (link: /terms/screen text: screen). The item on the clipboard is displayed in a (link: /terms/miniature-box text: miniature box) at the edge of the screen.
+
+----
+
+Related:
+
+- /terms/cliphoard
+- /terms/hilite2000
+- /terms/miniature-box
+- /terms/tap-and-a-half
+
+----
+
+----
+
+Source:
+
+- /sources/techencyclopedia
+- /sources/messagepad-handbook-1995

@@ -10,10 +10,13 @@ Text:
 
 To (link: /terms/tap text: tap), then quickly lift, touch, and hold the (link: /terms/pen text: pen) in the same spot on the (link: /terms/screen text: screen). Essentially performing a down, up, down action with the pen.
 
+A tap-and-a-half action is used when copying a selected item to the (link: /terms/clipboard text: clipboard).
+
 ----
 
 Related:
 
+- /terms/clipboard
 - /terms/double-tap
 - /terms/double-tapping
 - /terms/drag

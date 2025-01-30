@@ -1,0 +1,40 @@
+Title: Cliphoard
+
+----
+
+Date: 30 January 2025
+
+----
+
+Text:
+
+An (link: /terms/extension text: extension) created by (link: /sources/jeremy-wyld text: Jeremy Wyld) that adds a setting to the (link: /terms/prefs text: Prefs) application allowing the user to specify how many (link: /terms/clipboard text: clipboards) are available on (link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagepad-2100 text: MessagePad 2100), and (link: /terms/emate-300 text: eMate 300) devices.
+
+Support for multiple clipboards was introduced in (link: /terms/newton-os text: Newton OS) 2.0, but the feature was not enabled by default.
+
+(image: /assets/images/cliphoard-2x.gif alt: Screenshot of the Cliphoard preference slip width: 240)
+
+----
+
+Resource:
+
+- [The Newted Community: Cliphoard](https://newted.org/resources/cliphoard/)
+- [Jeremy Wyld: NewtonScript](https://web.archive.org/web/19981206204551/http://www.best.com/~clmelara/jwyld/pkgs.shtml)
+
+----
+
+Related:
+
+- /terms/clipboard
+- /terms/hilite2000
+- /terms/miniature-box
+- /terms/prefs
+- /terms/user-interface
+
+----
+
+----
+
+Source:
+
+- /sources/jeremy-wyld
