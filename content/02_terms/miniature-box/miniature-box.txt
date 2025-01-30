@@ -21,6 +21,7 @@ Related:
 - /terms/clipboard
 - /terms/cliphoard
 - /terms/hilite2000
+- /terms/options
 - /terms/tap-and-a-half
 
 ----

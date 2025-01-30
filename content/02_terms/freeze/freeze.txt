@@ -24,6 +24,7 @@ Related:
 - /terms/frozen-package
 - /terms/grip-of-death
 - /terms/heap
+- /terms/options
 - /terms/package
 - /terms/package-file
 - /terms/snowflake

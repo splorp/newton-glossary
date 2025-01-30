@@ -1,0 +1,41 @@
+Title: Options
+
+----
+
+Date: 30 January 2025
+
+----
+
+Text:
+
+A utility created by (link: /sources/softwareburo-muller text: Softwarebüro Müller) that allows the user to access and control several undocumented features found in (link: /terms/newton-os text: Newton OS) 2.0 and later.
+
+Settings include activating the ability to (link: /terms/freeze text: freeze) packages, disable the (link: /terms/extras-drawer text: Extras Drawer) from automatically closing after opening an (link: /terms/application text: application), and setting the number of (link: /terms/clipboard text: clipboards).
+
+(image: /assets/images/options-2x.gif alt: Screenshot of Options width: 240)
+
+The German localized version of Options is named (link: /terms/optionen text: Optionen).
+
+----
+
+Resource:
+
+- [Softwarebüro Müller: Options Product Information](https://web.archive.org/web/20070223125538/http://www.softwarebueromueller.de/englisch/newton/optionen/index.htm) (English)
+- [Softwarebüro Müller: Produktinformationen zu Optionen](https://web.archive.org/web/20041205200707/http://www.softwarebueromueller.de/deutsch/newton/optionen/index.htm) (Deutsch)
+
+----
+
+Related:
+
+- /terms/clipboard
+- /terms/cliphoard
+- /terms/extras-drawer
+- /terms/freeze
+- /terms/optionen
+- /terms/sbm
+
+----
+
+Source:
+
+- /sources/softwareburo-muller

@@ -35,6 +35,7 @@ Related:
 - /terms/highlight
 - /terms/highlighting-mark
 - /terms/invert
+- /terms/options
 - /terms/select
 - /terms/selection
 

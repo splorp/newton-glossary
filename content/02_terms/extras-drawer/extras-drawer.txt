@@ -18,6 +18,7 @@ Related:
 - /terms/container-view
 - /terms/drawer
 - /terms/extras
+- /terms/options
 - /terms/soft-button
 - /terms/user-interface
 
