@@ -1,0 +1,17 @@
+Title: Routing Picker
+
+----
+
+Date: 30 January 2025
+
+----
+
+Text:
+
+See: (link: /terms/action-picker text: Action Picker)
+
+----
+
+Source:
+
+- /sources/newton-technology-journal

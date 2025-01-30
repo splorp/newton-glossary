@@ -1,0 +1,42 @@
+Title: More Routing
+
+----
+
+Date: 30 January 2025
+
+----
+
+Text:
+
+An (link: /terms/extension text: extension) created by (link: /sources/jeremy-wyld text: Jeremy Wyld) that inserts additional items into an (link: /terms/action picker text: action picker).
+
+(image: /assets/images/cliphoard-2x.gif alt: Screenshot of the Cliphoard preference slip width: 240)
+
+Using (link: /terms/newton-toolkit text: Newton Toolkit), the list of (link: /terms/routing text: routing) items shown in the (link: /terms/picker text: picker) can be modified by generating a new (link: /terms/compiled text: compiled) extension.
+
+----
+
+Resource:
+
+- [The Newted Community: More Routing](https://newted.org/resources/morerouting/)
+- [Jeremy Wyld: NewtonScript](https://web.archive.org/web/19981206204551/http://www.best.com/~clmelara/jwyld/pkgs.shtml)
+
+----
+
+Related:
+
+- /terms/action
+- /terms/action-button
+- /terms/action-picker
+- /terms/routing
+- /terms/routing-format
+- /terms/routing-slip
+- /terms/user-interface
+
+----
+
+----
+
+Source:
+
+- /sources/jeremy-wyld

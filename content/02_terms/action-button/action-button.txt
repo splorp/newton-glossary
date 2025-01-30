@@ -22,6 +22,7 @@ Related:
 - /terms/action-picker
 - /terms/button
 - /terms/envelope-button
+- /terms/more-routing
 - /terms/picker
 - /terms/routing
 - /terms/routing-button
