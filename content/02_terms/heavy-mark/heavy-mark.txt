@@ -12,13 +12,14 @@ A large dot that appears when you hold the (link: /terms/pen text: pen) down in 
 
 A Newton device will audibly (link: /terms/squeak text: squeak) when the dot appears.
 
-After a heavy mark has appeared, dragging the pen around a block of text or (link: /terms/picture text: picture) creates a (link: /terms/highlighting-mark text: highlighting mark).
+After a heavy mark has appeared, (link: /terms/dragging text: dragging) the pen around a block of text or (link: /terms/picture text: picture) creates a (link: /terms/highlighting-mark text: highlighting mark).
 
 ----
 
 Related:
 
 - /terms/deselect
+- /terms/dragging
 - /terms/highlight
 - /terms/highlighting-mark
 - /terms/hilite2000
