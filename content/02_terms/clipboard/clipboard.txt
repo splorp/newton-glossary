@@ -32,8 +32,6 @@ Related:
 
 ----
 
-----
-
 Source:
 
 - /sources/techencyclopedia

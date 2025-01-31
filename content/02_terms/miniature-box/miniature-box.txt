@@ -26,8 +26,6 @@ Related:
 
 ----
 
-----
-
 Source:
 
 - /sources/messagepad-handbook-1995

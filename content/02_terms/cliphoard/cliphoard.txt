@@ -34,8 +34,6 @@ Related:
 
 ----
 
-----
-
 Source:
 
 - /sources/jeremy-wyld
