@@ -18,6 +18,7 @@ Related:
 - /terms/container-view
 - /terms/drawer
 - /terms/extras
+- /terms/icon
 - /terms/options
 - /terms/quick-xtras
 - /terms/soft-button
