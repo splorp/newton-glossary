@@ -28,6 +28,7 @@ Related:
 - /terms/dash-board
 - /terms/hanabi
 - /terms/killbb
+- /terms/quick-xtras
 - /terms/ryo
 - /terms/soft-button
 - /terms/status-bar

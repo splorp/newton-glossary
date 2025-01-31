@@ -10,7 +10,7 @@ Text:
 
 A software engineer and cofounder of several technology startups. During his multiple stints at [Apple](https://www.apple.com/), Wyld worked on (link: /terms/newton-os text: Newton OS), Mac OS X, and iPhone development.
 
-His software contributions include the (link: /terms/cliphoard text: Cliphoard), (link: /terms/more-routing text: More Routing), (link: /terms/nofx text: noFX), and (link: /terms/newtonunlock text: NewtonUnlock) utilities.
+His software contributions include the (link: /terms/cliphoard text: Cliphoard), (link: /terms/more-routing text: More Routing), (link: /terms/nofx text: noFX), (link: /terms/quick-xtras text: Quick Xtras), and (link: /terms/newtonunlock text: NewtonUnlock) utilities.
 
 Wyld is also one of the individuals named in the (link: /terms/cuckoo text: Cuckoo) easter egg.
 

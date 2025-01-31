@@ -19,6 +19,7 @@ Related:
 - /terms/drawer
 - /terms/extras
 - /terms/options
+- /terms/quick-xtras
 - /terms/soft-button
 - /terms/user-interface
 
