@@ -12,7 +12,7 @@ $items = ($open) ? $open->children() : false;
 // 1 = SORT_NUMERIC
 // 2 = SORT_STRING
 
-$alphabetise = $page->children()->sortBy('title', 'asc', SORT_STRING|SORT_FLAG_CASE)->group(fn ($item) => str::upper($item->title()->value()[0]));
+$alphabetise = $page->children()->sortBy('slug', 'asc', SORT_STRING|SORT_FLAG_CASE)->group(fn ($item) => str::upper(str::substr($item->slug(),0,1)));
 
 // Create alphabetical list of pages, with subheadings
 
