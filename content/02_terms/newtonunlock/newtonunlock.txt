@@ -1,0 +1,31 @@
+Title: NewtonUnlock
+
+----
+
+Date: 03 February 2025
+
+----
+
+Text:
+
+A utility created by (link: /sources/jeremy-wyld text: Jeremy Wyld) that can bypass the (link: /terms/pin text: PIN) on a Newton device. The (link: /terms/package text: package) is installed on a (link: /terms/storage-card text: storage card) which is inserted in the Newton device. The package automatically activates and uses brute force number generation to guess the PIN.
+
+----
+
+Resource:
+
+- [The Newted Community: NewtonUnlock](https://newted.org/resources/newtonunlock/)
+
+----
+
+Related:
+
+- /terms/passcode
+- /terms/pin
+- /terms/security
+
+----
+
+Source:
+
+- /sources/jeremy-wyld

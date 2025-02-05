@@ -21,6 +21,7 @@ The user can also specify how often the PIN is required.
 Related:
 
 - /terms/beeper-number
+- /terms/newtonunlock
 - /terms/passcode
 - /terms/pin
 - /terms/prefs
