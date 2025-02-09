@@ -14,4 +14,7 @@ A designer, software developer, system administrator, and self-admitted addict t
 
 Resource:
 
-- [Makkintosshu Website](http://www.makkintosshu.com/)
+- [GitHub: Morgan Aldridge](https://github.com/morgant)
+- [LinkedIn: Morgan Aldridge](linkedin.com/in/morganaldridge)
+- [Mastodon: Morgan Aldridge](https://mastodon.social/@morgant)
+- [Tobuji Website](https://tobuji.tech/)

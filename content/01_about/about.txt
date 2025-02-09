@@ -16,7 +16,7 @@ The original idea behind the creation of the (link: / text: Newton Glossary) was
 
 A significant number of the terms found in the glossary were initially compiled between 2001 and 2004 by [Grant Hutchinson](https://splorp.com/). Numerous (link: /sources text: sources) were used, along with help from knowledgable folks such as [Paul Guyot](https://www.kallisys.com/), [Victor Rehorst](https://www.chuma.org/), and countless members of the [NewtonTalk](https://newtontalk.net/) community.
 
-Although it’s quite out of date, [Morgan Aldridge](http://www.makkintosshu.com/) has maintained a [searchable version](http://tools.unna.org/glossary/) of the glossary as part of the [United Network of Newton Archives](http://www.unna.org/).
+Although it’s quite out of date, [Morgan Aldridge](https://tobuji.tech/) has maintained a [searchable version](http://tools.unna.org/glossary/) of the glossary as part of the [United Network of Newton Archives](http://www.unna.org/).
 
 At one point there was also a (link: /terms/newton-book text: Newton book) version of the glossary. We’ll see if we can make that happen again.
 
@@ -32,7 +32,7 @@ Other glossarial references we love.
 
 + [A Devil’s Dictionary of Educational Technology](https://medium.com/@bryanalexander/a-devils-dictionary-of-educational-technology-1c3ea9a0b932) by _[Bryan Alexander](https://bryanalexander.org/)_
 + [Apple Style Guide](https://support.apple.com/guide/applestyleguide/welcome/web) by _[Apple](https://www.apple.com/)_
-+ [Dictionary of Archives Terminology](https://dictionary.archivists.org/) _by [Society of American Archivists](https://www.archivists.org/aboutsaa)_
++ [Dictionary of Archives Terminology](https://dictionary.archivists.org/) _by [Society of American Archivists](https://archivists.org/aboutsaa)_
 + [Dictionary of Canadianisms on Historical Principles](https://www.dchp.ca/dchp2/) by _[Stefan Dollinger](https://ubc.academia.edu/StefanDollinger)_
 + [Discogs Database Glossary](https://support.discogs.com/hc/en-us/articles/360004017694-Database-Glossary) _by [Discogs](https://www.discogs.com/)_
 + [Free Online Dictionary of Computing](https://foldoc.org/) _by [Denis Howe](https://foldoc.org/Denis+Howe)_
