@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A text file format defined by (link: /sources/revelar text: Revelar) that contains a description on how to display, edit, import, and export the data from an application (link: /terms/soup text: soup) so that the (link: /terms/revelar-connection-utility text: Revelar Connection Utility) can handle it.
+A file format defined by (link: /sources/revelar text: Revelar) that contains a description on how to display, edit, import, and export the data from an application (link: /terms/soup text: soup) so that the (link: /terms/revelar-connection-utility text: Revelar Connection Utility) can handle it. Identified by the (link: /terms/adf text: .adf) filename extension.
 
 ----
 

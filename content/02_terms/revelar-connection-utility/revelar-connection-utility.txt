@@ -17,6 +17,7 @@ Commonly referred to as (link: /terms/rcu text: RCU).
 Related:
 
 - /terms/accordian
+- /terms/adf
 - /terms/application-definition-format
 - /terms/notable
 - /terms/rcu

@@ -18,6 +18,7 @@ Also referred to as a (link: /terms/file-extension text: File Extension) or (lin
 
 Related:
 
+- /terms/adf
 - /terms/extension
 - /terms/filename-extension
 - /terms/nbk
