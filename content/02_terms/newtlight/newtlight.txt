@@ -1,0 +1,51 @@
+Title: NewtLight
+
+----
+
+Date: 15 February 2025
+
+----
+
+Text:
+
+A hardware accessory designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) that provided a way to power (link: /terms/usb text: USB) devices using the serial port on a Newton device.
+
+Several versions of the accessory were produced.
+
+The (link: /terms/newtlight-8 text: NewtLight-8) utilized a (link: /terms/din-8 text: DIN-8) connector and was designed for use with all Newton devices. It could provide a maximum of 35 mA current to an external device.
+
+The (link: /terms/newtlight-9 text: NewtLight-9) utilized a (link: /terms/din-9 text: DIN-9) connector, specifically for use with the (link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagepad-2100 text: MessagePad 2100), and (link: /terms/emate-300 text: eMate 300). It could provide up to 100 mA of current to an external device.
+
+The (link: /terms/newtlight-8m text: NewtLight-8M) and (link: /terms/newtlight-9m text: NewtLight-9M) also featured a magnetic base.
+
+NewtLight is also the name of the software developed by (link: /sources/frank-grundel text: Frank Gründel) to control hardware accessories such as the (link: /terms/newteye text: NewtEye), (link: /terms/newtled text: NewtLED), and NewtLight.
+
+(image: /assets/images/newtlight-2x.gif alt: Screenshot of the NewtLight application width: 236)
+
+----
+
+Resource:
+
+- [Green is better: NewtLight](https://web.archive.org/web/20060505012242/http://homepage.mac.com/adriano.angelillis/PhotoAlbum1.html)
+- [PDA-Soft: NewtLight](https://www.pda-soft.de/newtlight.html) (English)
+- [PDA-Soft: NewtLight](https://www.pda-soft.de/ge_newtlight.html) (Deutsche)
+
+----
+
+Related:
+
+- /terms/newtled
+- /terms/newtleye
+- /terms/newtlight-8
+- /terms/newtlight-8m
+- /terms/newtlight-9
+- /terms/newtlight-9m
+- /terms/notwen
+- /terms/usb
+
+----
+
+Source:
+
+- /sources/adriano-angelillis
+- /sources/frank-grundel

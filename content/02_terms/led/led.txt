@@ -1,0 +1,27 @@
+Title: LED
+
+----
+
+Date: 15 February 2025
+
+----
+
+Text:
+
+Light Emitting Diode
+
+An electronic component consisting of a simple semiconductor that emits light when current passes through it.
+
+----
+
+Related:
+
+- /terms/newteye
+- /terms/newtled
+- /terms/newtlight
+
+----
+
+Source:
+
+- /sources/foldoc

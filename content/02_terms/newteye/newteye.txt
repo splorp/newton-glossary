@@ -1,0 +1,26 @@
+Title: NewtEye
+
+----
+
+Date: 15 February 2025
+
+----
+
+Text:
+
+A hardware accessory designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) consisting of a customized (link: /terms/led text: LED) that plugged into a (link: /terms/mini-din text: Mini-DIN) serial port on a Newton device. The NewtEye could be turned on and off using Frank Gründel’s (link: /terms/newtlight text: NewtLight) utility.
+
+----
+
+Related:
+
+- /terms/led
+- /terms/newtled
+- /terms/newtlight
+- /terms/notwen
+
+----
+
+Source:
+
+- /sources/adriano-angelillis
