@@ -18,7 +18,7 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the (link: /latest text: Latest Additions) page.
 
-### 4.3.3
+### 4.4.0
 
 15 February 2025
 
