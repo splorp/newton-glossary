@@ -1,0 +1,17 @@
+Title: Adriano Angelillis
+
+----
+
+Date: 05 February 2025
+
+----
+
+Text:
+
+An Italian hardware hacker and one time proprietor of the (link: /terms/notwen text: Notwen) website. Angelillis was known for designing and selling various (link: /terms/dongle text: dongles) and adapters that took advantage of the multifunctional (link: /terms/newton-interconnect text: Newton InterConnect) port.
+
+----
+
+Resource:
+
+- [Notwen Website](https://web.archive.org/web/20071023061154/http://notwen.com/)

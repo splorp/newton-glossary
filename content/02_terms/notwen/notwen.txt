@@ -1,0 +1,42 @@
+Title: Notwen
+
+----
+
+Date: 05 February 2025
+
+----
+
+Text:
+
+A website operated by (link: /sources/adriano-angelillis text: Adriano Angelillis) that provided information about his various hardware accessories for the Newton platform. Most of the projects took advantage of the multifunctional (link: /terms/newton-interconnect text: Newton InterConnect) port, such as the (link: /terms/newtpod text: NewtPod), (link: /terms/newtcast text: NewtCast), (link: /terms/newtusb text: NewtUSB), (link: /terms/newtk text: NewtK), (link: /terms/NewtSplit text: NewtSplit), and (link: /terms/newtlight text: NewtLight).
+
+Notwen is Newton spelled backwards.
+
+----
+
+Resource:
+
+- [Notwen Website](https://web.archive.org/web/20071023061154/http://notwen.com/)
+- [Adriano Angelillis: Green is better](https://web.archive.org/web/20060118082441/http://homepage.mac.com/adriano.angelillis/Menu10.html)
+
+----
+
+Related:
+
+- /terms/newtac
+- /terms/newtcast
+- /terms/newtcom
+- /terms/newteye
+- /terms/newtk
+- /terms/newtled
+- /terms/newtlight
+- /terms/newton-interconnect
+- /terms/newtpod
+- /terms/newtsplit
+- /terms/newtusb
+
+----
+
+Source:
+
+- /sources/adriano-angelillis
