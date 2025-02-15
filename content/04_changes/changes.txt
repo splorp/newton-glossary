@@ -29,6 +29,7 @@ Sources: 193
 
 + Added 17 new terms
 + Added 2 new sources
++ Updated and expanded dozens of existing entries
 + Fixed a couple of issues with the sorting on the (link: /terms text: Terms) and (link: /sources text: Sources) pages
 + Updated [Kirby](https://getkirby.com/) to version [4.6.0](https://github.com/getkirby/kirby/releases/tag/4.6.0)
 
