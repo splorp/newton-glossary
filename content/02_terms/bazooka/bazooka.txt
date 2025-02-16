@@ -14,9 +14,6 @@ The code name of the external (link: /terms/newton-keyboard text: Newton Keyboar
 
 Related:
 
-- /terms/frankenbuckey
-- /terms/newtway
-- /terms/newton-keyboard-enabler
 - /terms/newton-keyboard
 
 ----

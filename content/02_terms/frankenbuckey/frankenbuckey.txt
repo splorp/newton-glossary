@@ -24,11 +24,10 @@ Resource:
 
 Related:
 
-- /terms/bazooka
-- /terms/newtway
 - /terms/newtk
 - /terms/newton-keyboard
 - /terms/newton-keyboard-enabler
+- /terms/newtway
 
 ----
 

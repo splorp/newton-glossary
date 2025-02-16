@@ -23,7 +23,6 @@ Resource:
 
 Related:
 
-- /terms/bazooka
 - /terms/frankenbuckey
 - /terms/newtk
 - /terms/newton-keyboard
