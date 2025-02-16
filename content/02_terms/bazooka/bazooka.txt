@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-The code name of the Newton keyboard.
+The code name of the external (link: /terms/newton-keyboard text: Newton Keyboard).
 
 ----
 
@@ -17,6 +17,7 @@ Related:
 - /terms/frankenbuckey
 - /terms/newtway
 - /terms/newton-keyboard-enabler
+- /terms/newton-keyboard
 
 ----
 

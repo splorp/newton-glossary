@@ -12,7 +12,7 @@ A standard (link: /terms/din text: DIN) type of connector, generally used to con
 
 The serial port found on a (link: /terms/original-messagepad text: Original MessagePad), (link: /terms/messagepad-100 text: MessagePad 100), (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), or (link: /terms/messagepad-130 text: MessagePad 130) device uses a (link: /terms/din-8 text: DIN-8) version of the Mini-DIN connector, so called because it has eight pins.
 
-Newton peripherals such as the Newton Keyboard and (link: /terms/newton-fax-modem text: Newton Fax Modem) also use the DIN-8 connector.
+Newton peripherals such as the (link: /terms/newton-keyboard text: Newton Keyboard) and (link: /terms/newton-fax-modem text: Newton Fax Modem) also use the DIN-8 connector.
 
 The (link: /terms/emate-300 text: eMate 300), the (link: /terms/newton-serial-adapter text: Newton Serial Adapter), and the (link: /terms/geoport-telecom-adapter text: GeoPort Telecom Adapter) use a (link: /terms/din-9 text: DIN-9) connector, which is compatible with the DIN-8 version, but has an additional pin to optionally provide power to an external device.
 

@@ -1,0 +1,27 @@
+Title: Newton Keyboard
+
+----
+
+Date: 16 February 2025
+
+----
+
+Text:
+
+A lightweight, portable external keyboard designed by [Apple](https://www.apple.com/) that connected to a Newton device using the serial port.
+
+The code name of Newton Keyboard was (link: /terms/bazooka text: Bazooka).
+
+----
+
+- [The Newted Community: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](https://www.newted.org/download/manuals/NewtonKeyboardUIGuide.pdf)
+
+----
+
+Related:
+
+- /terms/bazooka
+- /terms/frankenbuckey
+- /terms/newtk
+- /terms/newtway
+- /terms/newton-keyboard-enabler
