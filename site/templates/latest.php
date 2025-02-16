@@ -3,7 +3,7 @@
 
 <?php $latest_pages = pages('terms', 'sources')->children()->filterBy('date', '!=', '')->sortBy(function ($pages) {
 	return $pages->date()->toDate();
-}, 'desc')->limit(100); ?>
+}, 'desc')->limit(120); ?>
 
 <section>
 	<article>
