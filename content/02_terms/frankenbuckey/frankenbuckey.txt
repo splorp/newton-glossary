@@ -26,6 +26,7 @@ Related:
 
 - /terms/bazooka
 - /terms/newtway
+- /terms/newtk
 - /terms/newton-keyboard-enabler
 
 ----

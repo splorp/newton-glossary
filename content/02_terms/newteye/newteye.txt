@@ -15,6 +15,7 @@ A hardware accessory designed by (link: /sources/adriano-angelillis text: Adrian
 Related:
 
 - /terms/led
+- /terms/newtk
 - /terms/newtled
 - /terms/newtlight
 - /terms/notwen

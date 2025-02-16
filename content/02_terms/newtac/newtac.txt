@@ -1,0 +1,33 @@
+Title: NewtAC
+
+----
+
+Date: 16 February 2025
+
+----
+
+Text:
+
+A hardware accessory designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) that could provide regulated power to a (link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagepad-2100 text: MessagePad 2100), or (link: /terms/emate-300 text: eMate 300) device via a standard (link: /terms/usb text: USB) port.
+
+----
+
+Resource:
+
+- [Notwen: NewtAC](https://web.archive.org/web/20080907025212/http://www.notwen.com/newtac/)
+
+----
+
+Related:
+
+- /terms/notwen
+- /terms/power-port
+- /terms/rhythm-method
+- /terms/usb
+- /terms/wall-wart
+
+----
+
+Source:
+
+- /sources/adriano-angelillis

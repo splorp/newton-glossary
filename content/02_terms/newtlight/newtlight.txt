@@ -18,7 +18,7 @@ The (link: /terms/newtlight-9 text: NewtLight-9) utilized a (link: /terms/din-9 
 
 The (link: /terms/newtlight-8m text: NewtLight-8M) and (link: /terms/newtlight-9m text: NewtLight-9M) also featured a magnetic base.
 
-NewtLight is also the name of the software developed by (link: /sources/frank-grundel text: Frank Gründel) to control hardware accessories such as the (link: /terms/newteye text: NewtEye), (link: /terms/newtled text: NewtLED), and NewtLight.
+NewtLight is also the name of the software developed by (link: /sources/frank-grundel text: Frank Gründel) to control hardware accessories such as the (link: /terms/newteye text: NewtEye), (link: /terms/newtled text: NewtLed), and NewtLight.
 
 (image: /assets/images/newtlight-2x.gif alt: Screenshot of the NewtLight application width: 236)
 
@@ -34,6 +34,7 @@ Resource:
 
 Related:
 
+- /terms/newtk
 - /terms/newtled
 - /terms/newtleye
 - /terms/newtlight-8

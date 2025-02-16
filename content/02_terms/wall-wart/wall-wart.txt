@@ -15,6 +15,7 @@ A derogatory term describing an AC power adapter plugged into an electrical outl
 Related:
 
 - /terms/ac-port
+- /terms/newtac
 - /terms/power-port
 - /terms/rhythm-method
 

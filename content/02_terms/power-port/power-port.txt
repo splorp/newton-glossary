@@ -18,6 +18,7 @@ Related:
 
 - /terms/ac-port
 - /terms/battery-booster-pack
+- /terms/newtac
 - /terms/rhythm-method
 - /terms/wall-wart
 

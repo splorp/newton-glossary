@@ -1,0 +1,38 @@
+Title: NewtK
+
+----
+
+Date: 16 February 2025
+
+----
+
+Text:
+
+A hardware accessory designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) that provided a way to connect both an external keyboard and a (link: /terms/usb text: USB) powered (link: /terms/led text: LED) lamp using the serial port on a Newton device.
+
+NewtK adapters were available for both the Palm Stowaway keyboard and the (link: /terms/newton-keyboard text: Newton Keyboard).
+
+----
+
+Resource:
+
+- [Green is better: NewtK](https://web.archive.org/web/20060125152846/http://homepage.mac.com/adriano.angelillis/PhotoAlbum19.html)
+
+----
+
+Related:
+
+- /terms/newteye
+- /terms/newtled
+- /terms/newtlight
+- /terms/newton-keyboard
+- /terms/newton-keyboard-enabler
+- /terms/newtway
+- /terms/notwen
+- /terms/usb
+
+----
+
+Source:
+
+- /sources/adriano-angelillis

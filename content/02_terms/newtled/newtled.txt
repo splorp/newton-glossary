@@ -1,0 +1,33 @@
+Title: NewtLed
+
+----
+
+Date: 15 February 2025
+
+----
+
+Text:
+
+A hardware accessory designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) consisting of a flexible (link: /terms/led text: LED) lamp that plugged into a (link: /terms/mini-din text: Mini-DIN) serial port on a Newton device. The NewtLed could be turned on and off using Frank Gründel’s (link: /terms/newtlight text: NewtLight) utility.
+
+----
+
+Resource:
+
+- [Notwen: NewtLed](https://web.archive.org/web/20080628004438/http://notwen.com/newtled/)
+
+----
+
+Related:
+
+- /terms/led
+- /terms/newteye
+- /terms/newtk
+- /terms/newtlight
+- /terms/notwen
+
+----
+
+Source:
+
+- /sources/adriano-angelillis

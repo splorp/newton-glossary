@@ -25,6 +25,7 @@ Related:
 - /terms/deep-toast
 - /terms/long-term-storage
 - /terms/memory-effect
+- /terms/newtac
 - /terms/nicd
 - /terms/nimh
 - /terms/polyswitch
