@@ -16,6 +16,12 @@ Holding down the “Command” key on a keyboard connected to a (link: /terms/ne
 
 ----
 
+Resource:
+
+- [The Newted Community: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](https://www.newted.org/download/manuals/NewtonKeyboardUIGuide.pdf)
+
+----
+
 Related:
 
 - /terms/auto-repeat

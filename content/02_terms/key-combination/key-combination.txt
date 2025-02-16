@@ -12,6 +12,12 @@ A series of keys that are typed at the same time on a keyboard, usually consisti
 
 ----
 
+Resource:
+
+- [The Newted Community: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](https://www.newted.org/download/manuals/NewtonKeyboardUIGuide.pdf)
+
+----
+
 Related:
 
 - /terms/auto-repeat

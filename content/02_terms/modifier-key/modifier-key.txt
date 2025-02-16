@@ -12,6 +12,12 @@ A key that affects the function of the alphanumeric keys on a keyboard. The use 
 
 ----
 
+Resource:
+
+- [The Newted Community: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](https://www.newted.org/download/manuals/NewtonKeyboardUIGuide.pdf)
+
+----
+
 Related:
 
 - /terms/auto-repeat

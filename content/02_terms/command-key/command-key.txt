@@ -14,6 +14,12 @@ The command key is also the name of a modifier key found on a keyboard.
 
 ----
 
+Resource:
+
+- [The Newted Community: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](https://www.newted.org/download/manuals/NewtonKeyboardUIGuide.pdf)
+
+----
+
 Related:
 
 - /terms/auto-repeat
