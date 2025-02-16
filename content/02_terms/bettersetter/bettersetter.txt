@@ -17,7 +17,7 @@ An (link: /terms/application text: application) developed by (link: /sources/fra
 Resource:
 
 - [PDA-Soft: BetterSetter](https://www.pda-soft.de/bettersetter.html) (English)
-- [PDA-Soft: DotClock](https://www.pda-soft.de/ge_bettersetter.html) (Deutsche)
+- [PDA-Soft: BetterSetter](https://www.pda-soft.de/ge_bettersetter.html) (Deutsche)
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 Light Emitting Diode
 
-An electronic component consisting of a simple semiconductor that emits light when current passes through it.
+An electronic component consisting of a simple semiconductor that emits light when a current is passed through it.
 
 ----
 
