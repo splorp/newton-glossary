@@ -27,11 +27,10 @@ Related:
 - /terms/newton-keyboard
 - /terms/newton-keyboard-enabler
 - /terms/newtway
-- /terms/nke
 - /terms/stowaway
 
 ----
 
 Source:
 
-- /sources//gopi-flaherty
+- /sources/gopi-flaherty

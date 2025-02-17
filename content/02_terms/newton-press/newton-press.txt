@@ -29,4 +29,4 @@ Related:
 
 Source:
 
-- /source/newton-press
+- /sources/newton-press
