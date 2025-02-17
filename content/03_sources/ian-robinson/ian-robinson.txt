@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-Author of a fairly comprehensive tutorial on Newton data storage and programmatic interaction with data soups.
+Author of a fairly comprehensive tutorial on (link: /terms/newton-os text: Newton OS) data storage and programmatic interaction with data (link: /terms/soup text: soups).
 
 ----
 
