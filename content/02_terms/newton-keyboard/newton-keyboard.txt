@@ -14,6 +14,8 @@ The code name of Newton Keyboard was (link: /terms/bazooka text: Bazooka).
 
 ----
 
+Resource:
+
 - [The Newted Community: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](https://www.newted.org/download/manuals/NewtonKeyboardUIGuide.pdf)
 
 ----
@@ -25,3 +27,4 @@ Related:
 - /terms/newtk
 - /terms/newtway
 - /terms/newton-keyboard-enabler
+- /terms/stowaway

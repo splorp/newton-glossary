@@ -1,0 +1,39 @@
+Title: Stowaway
+
+----
+
+Date: 17 February 2025
+
+----
+
+Text:
+
+A shorthand reference to the [Palm Portable Stowaway Keyboard](https://web.archive.org/web/20000510122503/http://thinkoutside.com/palm.html), a foldable external keyboard designed by (link: /sources/think-outside text: Think Outside) for use with Palm devices.
+
+The Stowaway keyboard could be connected to a Newton device using a (link: /terms/newtway text: Newtway) adapter and (link: /terms/newton-os text: Newton OS) driver (link: /terms/extension text: extension) developed by (link: /sources/daniel-padilla text: Daniel Padilla).
+
+----
+
+Resource:
+
+- [Think Outside: The Palm Portable Keyboard](https://web.archive.org/web/20000510122503/http://thinkoutside.com/palm.html)
+- [Dan Bricklin: Stowaway Keyboard](https://web.archive.org/web/20110830172947/https://danbricklin.com/log/stowaway.htm)
+- [The Newtway Stowaway Connector](http://ispinn.com/newtway/)
+- [Splorp: Connecting a Stowaway Keyboard to a Newton](https://www.splorp.com/newton/stowaway/)
+- [My Apple Newton: Newtway v2 Arrives](https://myapplenewton.blogspot.com/2008/05/newtway-v2-arrives-stowaway-keyboard.html)
+
+----
+
+Related:
+
+- /terms/frankenbuckey
+- /terms/newtk
+- /terms/newtway
+- /terms/newton-keyboard
+- /terms/newton-keyboard-enabler
+
+----
+
+Source:
+
+- /sources/think-outside

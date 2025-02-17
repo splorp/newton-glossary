@@ -28,6 +28,7 @@ Related:
 - /terms/newton-keyboard
 - /terms/newton-keyboard-enabler
 - /terms/newtway
+- /terms/stowaway
 
 ----
 

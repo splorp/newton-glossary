@@ -24,9 +24,11 @@ Resource:
 
 Related:
 
-- /terms/bazooka
 - /terms/frankenbuckey
+- /terms/newtk
+- /terms/newton-keyboard
 - /terms/newton-keyboard-enabler
+- /terms/stowaway
 
 ----
 

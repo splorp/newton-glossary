@@ -10,7 +10,7 @@ Text:
 
 A hardware accessory designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) that provided a way to connect both an external keyboard and a (link: /terms/usb text: USB) powered (link: /terms/led text: LED) lamp using the serial port on a Newton device.
 
-NewtK adapters were available for both the Palm Stowaway keyboard and the (link: /terms/newton-keyboard text: Newton Keyboard).
+NewtK adapters were available for both the [Palm Portable Stowaway Keyboard](https://web.archive.org/web/20000510122503/http://thinkoutside.com/palm.html) and the (link: /terms/newton-keyboard text: Newton Keyboard).
 
 ----
 
@@ -29,6 +29,7 @@ Related:
 - /terms/newton-keyboard-enabler
 - /terms/newtway
 - /terms/notwen
+- /terms/stowaway
 - /terms/usb
 
 ----
