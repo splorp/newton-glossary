@@ -23,6 +23,7 @@ Resource:
 Related:
 
 - /terms/newteye
+- /terms/newtkey
 - /terms/newtled
 - /terms/newtlight
 - /terms/newton-keyboard

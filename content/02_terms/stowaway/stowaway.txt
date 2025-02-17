@@ -28,6 +28,7 @@ Related:
 
 - /terms/frankenbuckey
 - /terms/newtk
+- /terms/newtkey
 - /terms/newtway
 - /terms/newton-keyboard
 - /terms/newton-keyboard-enabler
