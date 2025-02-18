@@ -1,0 +1,36 @@
+Title: PIE Developers
+
+----
+
+Date: 18 February 2025
+
+----
+
+Text:
+
+A bimonthly magazine published between 1993 and 1994 aimed at developers creating products for the (link: /terms/newton-os text: Newton OS) platform and other technologies emerging from Apple’s (link: /terms/pie text: PIE) (Personal Interactive Electronics) division.
+
+The publication changed it name to (link: /terms/pda-developers text: PDA Developers) in the fall of 1994 and began including articles pertaining to other handheld computing platforms. In 1997, it changed its name to (link: /terms/the-handheld-systems-journal text: The Handheld Systems Journal), finally ceasing publication in early 1999.
+
+----
+
+Resource:
+
+- [Creative Digital Publishing: The Handheld Systems Journal](https://web.archive.org/web/19970710163402/http://www.cdpubs.com:80/hhsj.html)
+- [Creative Digital Publishing: Handheld Systems Cumulative Annotated Table of Contents](https://web.archive.org/web/20001117053800/http://www.cdpubs.com/hhsys/hhsys0199.txt)
+- [Creative Digital Publishing: Handheld Systems Excerpts](https://web.archive.org/web/19970710163742/http://www.cdpubs.com/excerpts.html)
+- [Wired: How To Hack the Newton](https://web.archive.org/web/20161222053315/https://www.wired.com/1994/04/how-to-hack-the-newton/)
+
+----
+
+Related:
+
+- /terms/pda-developers
+- /terms/pie
+- /terms/the-handheld-systems-journal
+
+----
+
+Source:
+
+- /sources/creative-digital-publishing
