@@ -1,8 +1,8 @@
-Title: Newtie
+Title: Newtonian
 
 ----
 
-Date: 21 November 2004
+Date: 18 February 2025
 
 ----
 
@@ -10,7 +10,7 @@ Text:
 
 An affectionate nickname for a Newton user.
 
-Not to be confused with a (link: /terms/newtie-award text: Newtie Award).
+The annual (link: /terms/newtie-award text: Newtie Awards) created by (link: /sources/rich-lindsay text: Rich Lindsay) featured a “Newtonian of the Year” category.
 
 ----
 
@@ -21,10 +21,10 @@ Related:
 - /terms/green-bug
 - /terms/green-widow
 - /terms/newtbie
-- /terms/newtie-award
-- /terms/newtoneer
-- /terms/newtonian
+- /terms/newtie
 - /terms/newtonite
+- /terms/newtonian
+- /terms/newtoneer
 - /terms/newtophyte
 - /terms/post-messagepad-syndrome
 
@@ -33,3 +33,4 @@ Related:
 Source:
 
 - /sources/newtontalk
+- /sources/rich-lindsay

@@ -24,6 +24,7 @@ Related:
 
 - /terms/king-of-newtonia
 - /terms/newtie
+- /terms/newtonian
 - /terms/the-newties
 - /terms/this-old-newt
 

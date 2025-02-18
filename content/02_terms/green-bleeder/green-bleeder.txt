@@ -22,6 +22,7 @@ Related:
 - /terms/newtbie
 - /terms/newtie
 - /terms/newtoneer
+- /terms/newtonian
 - /terms/newtonite
 - /terms/newtophyte
 - /terms/post-messagepad-syndrome
