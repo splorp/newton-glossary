@@ -14,6 +14,12 @@ The annual (link: /terms/newtie-award text: Newtie Awards) created by (link: /so
 
 ----
 
+Resource:
+
+- [The Register: Apple pen-tablet plan revives Newtonian handwriting](https://www.theregister.com/2009/11/13/apple_pen_tablet_patent_filing/)
+
+----
+
 Related:
 
 - /terms/bleeding-green
