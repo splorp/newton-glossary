@@ -17,6 +17,7 @@ NewtKey also provides additional functionality, such as an caps lock indicator, 
 Resource:
 
 - [Gopi Flaherty: NewtKey 1.2](https://web.archive.org/web/19991003032356/http://www.contrib.andrew.cmu.edu/usr/gf2e/newtkey/)
+- [UNNA: NewtKey 1.1](http://www.unna.org/view.php?/drivers/keyboard/NewtKey1.1)
 
 ----
 
