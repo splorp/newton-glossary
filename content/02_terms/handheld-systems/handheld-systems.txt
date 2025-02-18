@@ -1,4 +1,4 @@
-Title: The Handheld Systems Journal
+Title: Handheld Systems
 
 ----
 
@@ -7,6 +7,8 @@ Date: 18 February 2025
 ----
 
 Text:
+
+Also known as _The Handheld Systems Journal_.
 
 See: (link: /terms/pie-developers text: PIE Developers)
 
