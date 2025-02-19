@@ -34,5 +34,6 @@ Related:
 - /terms/stylus
 - /terms/tap
 - /terms/tap-and-a-half
+- /terms/tappable
 - /terms/tapped
 - /terms/tapping

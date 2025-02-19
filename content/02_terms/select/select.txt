@@ -26,6 +26,8 @@ Related:
 - /terms/selection-box
 - /terms/tap
 - /terms/tap-and-a-half
+- /terms/tappable
+- /terms/tapped
 - /terms/tapping
 - /terms/user-interface
 

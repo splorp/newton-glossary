@@ -26,9 +26,10 @@ Related:
 - /terms/dragging
 - /terms/pen
 - /terms/tap
+- /terms/tap-and-a-half
+- /terms/tappable
 - /terms/tapped
 - /terms/tapping
-- /terms/tap-and-a-half
 
 ----
 
