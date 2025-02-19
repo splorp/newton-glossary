@@ -10,6 +10,8 @@ Text:
 
 A menu or (link: /terms/list text: list) of choices that appears when the user (link: /terms/tap text: taps) an adjacent text label marked by a solid (link: /terms/diamond text: diamond). A picker can also appear when a user taps a (link: /terms/button text: button) such as a (link: /terms/routing-button text: routing button). The user (link: /terms/select text: selects) one of the items in the list by (link: /terms/tapping text: tapping) it.
 
+Also referred to as a (link: /terms/picker-list text: Picker List), (link: /terms/pop-up text: Pop-up), or (link: /terms/pop-up-list text: Pop-up List).
+
 ----
 
 Related:
@@ -26,6 +28,8 @@ Related:
 - /terms/people-picker
 - /terms/picker-list
 - /terms/please-picker
+- /terms/pop-up
+- /terms/pop-up-list
 - /terms/protocol-picker
 - /terms/show-picker
 - /terms/snooze-picker
