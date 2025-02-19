@@ -10,7 +10,7 @@ Text:
 
 A function built into Newton device that can automatically perform certain tasks, such as dialing a telephone number, searching for information, or scheduling an appointment. Assist is accessed by entering a (link: /terms/request-word text: request word) into the (link: /terms/assist-slip text: assist slip) triggering the corresponding (link: /terms/action text: action). For example, entering the “call” request word into the assist slip will trigger an action to dial a telephone number.
 
-Also referred to as (link: /terms/assistant text: Assistant) and (link: /terms/newton-assistant text: Newton Assistant) in earlier versions of (link: /terms/newton-os text: Newton OS).
+Also referred to as (link: /terms/assistant text: Assistant), (link: /terms/intelligent-assistant text: Intelligent Assistant), and (link: /terms/newton-assistant text: Newton Assistant).
 
 ----
 
@@ -26,6 +26,7 @@ Related:
 - /terms/action
 - /terms/assist-slip
 - /terms/assistant
+- /terms/intelligent-assistant
 - /terms/intelligent-assistance-architecture
 - /terms/neat-bong
 - /terms/neat-bong-assist

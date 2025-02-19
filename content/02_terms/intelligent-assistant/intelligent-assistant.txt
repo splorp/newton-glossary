@@ -1,0 +1,18 @@
+Title: Intelligent Assistant
+
+----
+
+Date: 19 February 2025
+
+----
+
+Text:
+
+See: (link: /terms/assist text: Assist)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-user-interface-guidelines
