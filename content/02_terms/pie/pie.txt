@@ -22,6 +22,7 @@ Related:
 - /terms/newton-developer-mailing
 - /terms/newton-developer-support
 - /terms/newton-partners-program
+- /terms/pda-developers
 - /terms/pie-developer-info
 - /terms/pie-developer-talk
 - /terms/pie-partners-program

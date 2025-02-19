@@ -8,7 +8,7 @@ Date: 17 July 2024
 
 Text:
 
-A (link: /terms/picture-button text: picture button) located on the left side of a (link: /terms/separator-bar text: separator bar), depicting the type of item appearing below.
+A (link: /terms/picture-button text: picture button) located on the left side of a (link: /terms/status-bar text: status bar), depicting the type of item appearing below.
 
 For example, in the (link: /terms/notepad text: Notepad) application, (link: /terms/tapping text: tapping) an item info (link: /terms/button text: button) displays an (link: /terms/item-info-slip text: item info slip), that displays statistics and related information for an item.
 
