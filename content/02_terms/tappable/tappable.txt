@@ -1,0 +1,35 @@
+Title: Tappable
+
+----
+
+Date: 19 February 2025
+
+----
+
+Text:
+
+(link: /terms/user-interface text: User interface) elements that are designed to be (link: /terms/tapped text: tapped) using a (link: /terms/pen text: pen).
+
+In most cases, tappable (link: /terms/control text: controls) are located at the bottom of the (link: /terms/screen text: screen) when in (link: /terms/portrait-mode text: portrait mode) or on one side of the screen when in (link: /terms/landscape-mode text: landscape mode). This allows the user to enter data in the middle of the screen, preventing important information from being obscured when (link: /terms/tapping text: tapping) a (link: /terms/button text: button) or other control.
+
+----
+
+Related:
+
+- /terms/double-tap
+- /terms/double-tapping
+- /terms/drag
+- /terms/dragging
+- /terms/pen
+- /terms/penning
+- /terms/tap
+- /terms/tap-and-a-half
+- /terms/tapped
+- /terms/tapping
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

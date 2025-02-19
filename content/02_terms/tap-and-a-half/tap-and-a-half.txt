@@ -24,6 +24,7 @@ Related:
 - /terms/pen
 - /terms/penning
 - /terms/tap
+- /terms/tappable
 - /terms/tapped
 - /terms/tapping
 
