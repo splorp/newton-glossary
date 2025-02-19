@@ -10,6 +10,8 @@ Text:
 
 An (link: /terms/item-info-slip text: item info slip) that reports statistics on the amount of memory installed and available to a Newton device.
 
+The (link: /terms/slip text: slip) is displayed by (link: /terms/tapping text: tapping) the (link: /terms/info-button text: info button) in the (link: /terms/status-bar text: status bar) at the bottom of the (link: /terms/extras-drawer text: Extras Drawer) and selecting (link: /terms/memory-info text: Memory Info) in the (link: /terms/picker text: picker).
+
 (image: /assets/images/memory-info-slip-2x.gif alt: Screenshot of the Memory Info Slip width: 320)
 
 ----
@@ -18,6 +20,7 @@ Related:
 
 - /terms/container-view
 - /terms/item-info-slip
+- /terms/memory-info
 - /terms/ram
 - /terms/slip
 - /terms/system-ram

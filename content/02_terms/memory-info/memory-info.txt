@@ -1,0 +1,30 @@
+Title: Memory Info
+
+----
+
+Date: 19 February 2025
+
+----
+
+Text:
+
+An item listed in the (link: /terms/info-picker text: info picker) of the (link: /terms/extras-drawer text: Extras Drawer).
+
+Selecting “Memory Info” in the (link: /terms/picker text: picker) displays the (link: /terms/memory-info-slip text: Memory Info slip).
+
+----
+
+Related:
+
+- /terms/extras-drawer
+- /terms/item-picker
+- /terms/memory-info-slip
+- /terms/ram
+- /terms/system-ram
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
