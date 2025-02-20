@@ -10,6 +10,8 @@ Text:
 
 A portable computer system utilizing a (link: /terms/touch-screen text: touch screen) display. Earlier tablets required a (link: /terms/pen text: pen) to interact with the touch screen, whereas modern tablet devices utilize the user’s fingers to interact with the touch screen. A Newton device can be considered a tablet computer.
 
+Also referred to as a (link: /terms/tablet text: Tablet) or (link: /terms/slate-computer text: Slate Computer).
+
 ----
 
 Related:
@@ -17,6 +19,7 @@ Related:
 - /terms/desktop-computer
 - /terms/laptop-computer
 - /terms/pen
+- /terms/slate-computer
 - /terms/tablet
 - /terms/tablettop
 - /terms/touch-screen
