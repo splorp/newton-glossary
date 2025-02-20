@@ -10,6 +10,8 @@ Text:
 
 In (link: /terms/newtonscript text: NewtonScript), a persistently stored (link: /terms/object text: object) that contains a series of (link: /terms/frame text: frames) called (link: /terms/entry text: entries). Like a (link: /terms/database text: database), a soup has indexes that are used to access entries in a sorted order. One aspect of a soup that sets it apart from an object oriented database is the “smart” (link: /terms/flattening text: flattening) of entries before they are added to the soup.
 
+Also referred to as a (link: /terms/data-soup text: Data Soup), (link: /terms/object-store text: Object Store), or (link: /terms/persistant-object-database text: Persistant Object Database).
+
 ----
 
 Related:
@@ -18,6 +20,7 @@ Related:
 - /terms/corrupt-soup
 - /terms/cursor
 - /terms/data-definition
+- /terms/data-soup
 - /terms/database
 - /terms/entry
 - /terms/entry-aliases
@@ -30,6 +33,7 @@ Related:
 - /terms/name-reference
 - /terms/newtonscript
 - /terms/object
+- /terms/persistant-object-database
 - /terms/ragout
 - /terms/reference
 - /terms/slot
@@ -51,3 +55,4 @@ Source:
 
 - /sources/newton-programmers-guide
 - /sources/eckhart-koppen
+- /sources/walter-smith
