@@ -19,6 +19,7 @@ Related:
 - /terms/green-bug
 - /terms/green-widow
 - /terms/newtbie
+- /terms/newtevangelist
 - /terms/newtie
 - /terms/newtonian
 - /terms/newtonite

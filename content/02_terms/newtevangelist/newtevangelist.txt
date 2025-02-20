@@ -1,0 +1,42 @@
+Title: NewtEvangelist
+
+----
+
+Date: 20 February 2025
+
+----
+
+Text:
+
+A vocal proponent and booster of the Newton platform.
+
+Prominent Newton evangelists include developer (link: /sources/adam-tow text: Adam Tow) and publisher (link: /sources/steve-holden text: Steve Holden).
+
+----
+
+Resource:
+
+- [MSNUG: Newton Hall of Fame](https://cf.psl.msu.edu/hallofame.htm)
+
+----
+
+Related:
+
+- /terms/bleeding-green
+- /terms/green-bleeder
+- /terms/green-bug
+- /terms/green-widow
+- /terms/newtbie
+- /terms/newtie
+- /terms/newtie-award
+- /terms/newtoneer
+- /terms/newtonian
+- /terms/newtonite
+- /terms/newtophyte
+- /terms/post-messagepad-syndrome
+
+----
+
+Source:
+
+- /sources/newton-hall-of-fame

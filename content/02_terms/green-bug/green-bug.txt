@@ -18,6 +18,7 @@ Related:
 - /terms/green-bleeder
 - /terms/green-widow
 - /terms/newtbie
+- /terms/newtevangelist
 - /terms/newtie
 - /terms/newtoneer
 - /terms/newtonian

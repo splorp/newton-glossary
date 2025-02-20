@@ -21,6 +21,7 @@ Related:
 - /terms/green-bug
 - /terms/green-widow
 - /terms/newtbie
+- /terms/newtevangelist
 - /terms/newtie-award
 - /terms/newtoneer
 - /terms/newtonian
