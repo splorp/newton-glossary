@@ -8,7 +8,7 @@ Date: 11 December 2024
 
 Text:
 
-A system enhancement developed by (link: /sources/byte-size text: Byte-Size Software) that provides easy access to various tools for editing text, changing (link: /terms/font text: font) attributes, and managing (link: /terms/clipboard text: clipboard) actions. The tools are automatically displayed as (link: /terms/button text: buttons) in a floating (link: /terms/palette text: palette) when text is (link: /terms/select text: selected).
+A system enhancement developed by (link: /sources/byte-size text: Byte-Size Software) that provides easy access to various tools for editing text, changing (link: /terms/font text: font) attributes, and managing (link: /terms/clipboard text: clipboard) actions. The tools are automatically displayed as (link: /terms/button text: buttons) in a (link: /terms/floating-palette text: floating palette) when text is (link: /terms/select text: selected).
 
 (image: /assets/images/hilite2000-2x.gif alt: Screenshot of the Hilite2000 floating palette width: 80)
 

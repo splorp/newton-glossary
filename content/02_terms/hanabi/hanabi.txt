@@ -10,7 +10,7 @@ Text:
 
 A utility developed by Yoshiyuki Hashimoto that provides an easy way to (link: /terms/input text: input) Japanese Hiragana (link: /terms/character text: characters) on a Newton device.
 
-Using the (link: /terms/tapbar text: TapBar) button manager, Hanabi implemented a set of multifunction (link: /terms/button text: buttons) in a floating (link: /terms/palette text: palette).
+Using the (link: /terms/tapbar text: TapBar) button manager, Hanabi implemented a set of multifunction (link: /terms/button text: buttons) in a (link: /terms/floating-palette text: floating palette).
 
 (image: /assets/images/hanabi-2x.gif alt: Screenshot of the Hanabi floating palette width: 320)
 

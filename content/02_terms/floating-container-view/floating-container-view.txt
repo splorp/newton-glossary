@@ -10,6 +10,8 @@ Text:
 
 In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/container-view text: container view) that initially appears in front of all open (link: /terms/sibling-view text: sibling views).
 
+Also referred to as a (link: /terms/floater text: Floater) or (link: /terms/floating-window text: Floating Window).
+
 ----
 
 Related:
@@ -17,6 +19,8 @@ Related:
 - /terms/application-base-view
 - /terms/child-view
 - /terms/container-view
+- /terms/floater
+- /terms/floating-window
 - /terms/glance
 - /terms/key-view
 - /terms/layout-view
@@ -36,3 +40,4 @@ Related:
 Source:
 
 - /sources/newton-user-interface-guidelines
+- /sources/newton-programmers-reference

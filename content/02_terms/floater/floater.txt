@@ -1,0 +1,17 @@
+Title: Floater
+
+----
+
+Date: 21 February 2025
+
+----
+
+Text:
+
+See: (link: /terms/floating-container-view text: Floating Container View)
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference

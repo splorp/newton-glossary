@@ -8,7 +8,7 @@ Date: 20 January 2025
 
 Text:
 
-A system enhancement developed by Yosuke “Basuke” Suzuki that allows the user to create custom (link: /terms/button text: buttons) that reside in the (link: /terms/status-bar text: status bar) of the (link: /terms/notepad text: Notepad) as well as floating (link: /terms/palette text: palettes) containing multiple buttons which can be collapsed when not in use.
+A system enhancement developed by Yosuke “Basuke” Suzuki that allows the user to create custom (link: /terms/button text: buttons) that reside in the (link: /terms/status-bar text: status bar) of the (link: /terms/notepad text: Notepad) as well as (link: /terms/floating-palette text: floating palettes) containing multiple buttons which can be collapsed when not in use.
 
 An example of TapBar in use can be found in (link: /terms/hanabi text: Hanabi), a utility for entering Japanese (link: /terms/character text: characters) on a Newton device.
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A small control that a user can (link: /terms/drag text: drag) to move a (link: /terms/container-view text: container view) such as a (link: /terms/palette text: palette) or floating window. The drag handle is indicated by a small black tab with a central hole, centered on the top border of the container view.
+A small control that a user can (link: /terms/drag text: drag) to move a (link: /terms/container-view text: container view) such as a (link: /terms/palette text: palette) or (link: /terms/floating-window text: floating window). The drag handle is indicated by a small black tab with a central hole, centered on the top border of the container view.
 
 Also referred to as a (link: /terms/picture-hanger text: Picture Hanger).
 
