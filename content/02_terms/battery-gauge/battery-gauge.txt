@@ -45,7 +45,6 @@ Related:
 - /terms/recelled
 - /terms/receller
 - /terms/rhythm-method
-- /terms/rmp
 - /terms/status-bar
 - /terms/trickle-charging
 - /terms/user-interface

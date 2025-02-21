@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An illumination technology consisting of a thin film phosphor layer sandwiched between a substrate. When charged, the phosphor in that emits visible light. The electroluminescent (link: /terms/backlight text: backlight) found in Newton devices starting with the [MessagePad 130](messagepad-130) has a distinctive bright green colour.
+An illumination technology consisting of a thin film phosphor layer sandwiched between a substrate. When activated with an electrical charge, the phosphor emits visible light. The electroluminescent (link: /terms/backlight text: backlight) found in Newton devices starting with the [MessagePad 130](messagepad-130) has a distinctive bright green colour.
 
 Also referred to as an (link: /terms/elp text: ELP).
 

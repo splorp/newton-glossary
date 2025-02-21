@@ -29,7 +29,6 @@ Related:
 - /terms/battery-pack
 - /terms/cell
 - /terms/charge-state
-- /terms/deep-toast
 - /terms/krm
 - /terms/long-term-storage
 - /terms/memory-effect

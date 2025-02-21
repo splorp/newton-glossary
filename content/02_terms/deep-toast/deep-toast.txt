@@ -8,11 +8,11 @@ Date: 01 December 2016
 
 Text:
 
-The status or (link: /terms/charge-state text: charge state) of a rechargeable (link: /terms/battery text: battery) in a Newton device that can no longer effectively hold a charge. The status message appears as (link: /terms/deeptoast text: deepToast) in the battery test section of the (link: /terms/newttest text: NewtTest) utility.
+The status or (link: /terms/charge-state text: charge state) of a rechargeable (link: /terms/battery text: battery) in a Newton device that can no longer effectively hold a charge. The status message appears as (link: /terms/deeptoast text: deepToast) in the battery test section of the (link: /terms/newttest text: NewtTest) utility and the Battery Statistics (link: /terms/slip text: slip) in (link: /terms/avis-backdrop text: Avi's Backdrop).
 
 Deep Toast can also refer to a catastrophic hardware failure, such as a fatal hard drive crash.
 
-(image: /assets/images/deep-toast-2x.gif alt: Screenshot of the Battery Statistics window in Avi’s Backdrop showing a deepToast charge state message width: 220)
+(image: /assets/images/deep-toast-2x.gif alt: Screenshot of the Battery Statistics slip in Avi’s Backdrop showing a “deepToast” charge state message width: 220)
 
 ----
 

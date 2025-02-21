@@ -38,7 +38,6 @@ Related:
 - /terms/recelled
 - /terms/receller
 - /terms/rhythm-method
-- /terms/rmp
 - /terms/super-capacitor
 - /terms/thermistor
 - /terms/trickle-charging
