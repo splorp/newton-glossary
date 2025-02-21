@@ -14,6 +14,7 @@ The code name of the (link: /terms/messagepad-110 text: MessagePad 110) device. 
 
 Related:
 
+- /terms/charging
 - /terms/cradle
 - /terms/jellyfish
 - /terms/lindy-crib

@@ -28,11 +28,17 @@ Related:
 - /terms/cage
 - /terms/cell
 - /terms/charge-state
+- /terms/charged
+- /terms/charging
 - /terms/deep-toast
+- /terms/discharged
+- /terms/discharging
+- /terms/fast-charging
 - /terms/long-term-storage
 - /terms/memory-effect
 - /terms/nicd
 - /terms/nimh
+- /terms/preliminary-charging
 - /terms/recell
 - /terms/recelled
 - /terms/receller
@@ -40,6 +46,7 @@ Related:
 - /terms/sled
 - /terms/super-capacitor
 - /terms/tray
+- /terms/trickle-charging
 
 ----
 

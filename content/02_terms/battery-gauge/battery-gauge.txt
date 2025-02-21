@@ -26,14 +26,20 @@ Related:
 - /terms/battery-tray
 - /terms/cell
 - /terms/charge-state
+- /terms/charged
+- /terms/charging
 - /terms/deep-toast
+- /terms/discharged
+- /terms/discharging
 - /terms/extras-drawer
+- /terms/fast-charging
 - /terms/gauge
 - /terms/long-term-storage
 - /terms/mah
 - /terms/memory-effect
 - /terms/nicd
 - /terms/nimh
+- /terms/preliminary-charging
 - /terms/progress-indicator
 - /terms/recell
 - /terms/recelled
@@ -41,6 +47,7 @@ Related:
 - /terms/rhythm-method
 - /terms/rmp
 - /terms/status-bar
+- /terms/trickle-charging
 - /terms/user-interface
 
 ----

@@ -1,0 +1,51 @@
+Title: Preliminary Charging
+
+----
+
+Date: 21 February 2025
+
+----
+
+Text:
+
+The (link: /terms/charge-state text: charge state) of a rechargeable (link: /terms/battery text: battery) indicating that it is currently having its electrical energy restored using a pulsed schedule that gradually increases its voltage to a level at which it can be efficiently (link: /terms/fast-charging text: fast charged). Generally, (link: /terms/charging text: charging) occurs when a device is connected to an external power source.
+
+This mode of charging is initially used for charging a heavily (link: /terms/discharged text: discharged) battery.
+
+----
+
+Related:
+
+- /terms/battery
+- /terms/battery-gauge
+- /terms/battery-pack
+- /terms/battery-tray
+- /terms/cell
+- /terms/charge-state
+- /terms/charged
+- /terms/charging
+- /terms/deep-toast
+- /terms/discharged
+- /terms/discharging
+- /terms/fast-charging
+- /terms/long-term-storage
+- /terms/mah
+- /terms/memory-effect
+- /terms/newttest
+- /terms/nicd
+- /terms/nimh
+- /terms/not-charging
+- /terms/polyswitch
+- /terms/recell
+- /terms/recelled
+- /terms/receller
+- /terms/rhythm-method
+- /terms/rmp
+- /terms/thermistor
+- /terms/trickle-charging
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

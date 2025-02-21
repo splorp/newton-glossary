@@ -26,16 +26,23 @@ Related:
 - /terms/battery-tray
 - /terms/cell
 - /terms/charge-state
+- /terms/charged
+- /terms/charging
 - /terms/deep-toast
+- /terms/discharged
+- /terms/discharging
+- /terms/fast-charging
 - /terms/holy-shit-yellow
 - /terms/lts
 - /terms/memory-effect
 - /terms/nicd
 - /terms/nimh
 - /terms/polyswitch
+- /terms/preliminary-charging
 - /terms/rhythm-method
 - /terms/super-capacitor
 - /terms/thermistor
+- /terms/trickle-charging
 
 ----
 

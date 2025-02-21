@@ -21,13 +21,19 @@ Related:
 - /terms/battery-pack
 - /terms/battery-tray
 - /terms/charge-state
+- /terms/charged
+- /terms/charging
 - /terms/deep-toast
+- /terms/discharged
+- /terms/discharging
+- /terms/fast-charging
 - /terms/long-term-storage
 - /terms/mah
 - /terms/memory-effect
 - /terms/nicd
 - /terms/nimh
 - /terms/polyswitch
+- /terms/preliminary-charging
 - /terms/recell
 - /terms/recelled
 - /terms/receller
@@ -35,6 +41,7 @@ Related:
 - /terms/rmp
 - /terms/super-capacitor
 - /terms/thermistor
+- /terms/trickle-charging
 
 ----
 

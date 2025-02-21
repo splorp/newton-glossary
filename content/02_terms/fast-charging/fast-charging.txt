@@ -1,14 +1,14 @@
-Title: Recell
+Title: Fast Charging
 
 ----
 
-Date: 21 November 2004
+Date: 21 February 2025
 
 ----
 
 Text:
 
-The process of replacing the nonfunctioning (link: /terms/cell text: cells) in a rechargeable (link: /terms/battery-pack text: battery pack) with new cells.
+The (link: /terms/charge-state text: charge state) of a rechargeable (link: /terms/battery text: battery) indicating that it is currently having its electrical energy restored in the most efficient way possible. Generally, (link: /terms/charging text: charging) occurs when a device is connected to an external power source.
 
 ----
 
@@ -27,11 +27,14 @@ Related:
 - /terms/discharging
 - /terms/fast-charging
 - /terms/long-term-storage
+- /terms/mah
 - /terms/memory-effect
+- /terms/newttest
 - /terms/nicd
 - /terms/nimh
+- /terms/not-charging
 - /terms/polyswitch
-- /terms/preliminary-charging
+- /terms/recell
 - /terms/recelled
 - /terms/receller
 - /terms/rhythm-method
@@ -43,4 +46,4 @@ Related:
 
 Source:
 
-- /sources/christian-burk
+- /sources/newton-programmers-guide

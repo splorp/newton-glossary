@@ -1,14 +1,14 @@
-Title: Recell
+Title: Discharging
 
 ----
 
-Date: 21 November 2004
+Date: 21 February 2025
 
 ----
 
 Text:
 
-The process of replacing the nonfunctioning (link: /terms/cell text: cells) in a rechargeable (link: /terms/battery-pack text: battery pack) with new cells.
+The (link: /terms/charge-state text: charge state) of a rechargeable (link: /terms/battery text: battery) indicating that it is currently releasing electrical energy.
 
 ----
 
@@ -24,18 +24,20 @@ Related:
 - /terms/charging
 - /terms/deep-toast
 - /terms/discharged
-- /terms/discharging
 - /terms/fast-charging
 - /terms/long-term-storage
+- /terms/mah
 - /terms/memory-effect
+- /terms/newttest
 - /terms/nicd
 - /terms/nimh
+- /terms/not-charging
 - /terms/polyswitch
 - /terms/preliminary-charging
+- /terms/recell
 - /terms/recelled
 - /terms/receller
 - /terms/rhythm-method
-- /terms/rmp
 - /terms/thermistor
 - /terms/trickle-charging
 
@@ -43,4 +45,4 @@ Related:
 
 Source:
 
-- /sources/christian-burk
+- /sources/newton-programmers-guide

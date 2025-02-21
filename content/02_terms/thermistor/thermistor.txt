@@ -8,7 +8,7 @@ Date: 08 December 2024
 
 Text:
 
-A semiconductor with an electrical resistance that changes in response to temperature. A thermistor is used in conjunction with a (link: /terms/polyswitch text: polyswitch) in rechargeable (link: /terms/battery-pack text: battery packs) to prevent charging the (link: /terms/cell text: cells) if the temperature exceeds a certain threshold.
+A semiconductor with an electrical resistance that changes in response to temperature. A thermistor is used in conjunction with a (link: /terms/polyswitch text: polyswitch) in rechargeable (link: /terms/battery-pack text: battery packs) to prevent (link: /terms/charging text: charging) the (link: /terms/cell text: cells) if the temperature exceeds a certain threshold.
 
 Thermistors can be found in battery packs used in (link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagepad-2100 text: MessagePad 2100), and (link: /terms/emate-300 text: eMate 300) devices.
 
@@ -27,17 +27,24 @@ Related:
 - /terms/battery-pack
 - /terms/cell
 - /terms/charge-state
+- /terms/charged
+- /terms/charging
 - /terms/deep-toast
+- /terms/discharged
+- /terms/discharging
+- /terms/fast-charging
 - /terms/long-term-storage
 - /terms/memory-effect
 - /terms/nicd
 - /terms/nimh
 - /terms/polyswitch
+- /terms/preliminary-charging
 - /terms/recell
 - /terms/recelled
 - /terms/receller
 - /terms/rhythm-method
 - /terms/rmp
+- /terms/trickle-charging
 
 ----
 

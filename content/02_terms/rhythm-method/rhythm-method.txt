@@ -8,7 +8,7 @@ Date: 01 December 2016
 
 Text:
 
-The process of repeatedly removing and inserting a rechargeable (link: /terms/battery-pack text: battery pack) from a Newton device to stimulate charging.
+The process of repeatedly removing and inserting a rechargeable (link: /terms/battery-pack text: battery pack) from a Newton device to stimulate (link: /terms/charging text: charging).
 
 Can also refer to repeatedly unplugging and reinserting an AC power adapter into the (link: /terms/power-port text: power port) of a Newton device.
 
@@ -22,7 +22,12 @@ Related:
 - /terms/battery-tray
 - /terms/cell
 - /terms/charge-state
+- /terms/charged
+- /terms/charging
 - /terms/deep-toast
+- /terms/discharged
+- /terms/discharging
+- /terms/fast-charging
 - /terms/long-term-storage
 - /terms/memory-effect
 - /terms/newtac
@@ -30,7 +35,9 @@ Related:
 - /terms/nimh
 - /terms/polyswitch
 - /terms/power-port
+- /terms/preliminary-charging
 - /terms/thermistor
+- /terms/trickle-charging
 - /terms/wall-wart
 
 ----

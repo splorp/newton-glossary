@@ -30,7 +30,12 @@ Related:
 - /terms/battery-tray
 - /terms/cell
 - /terms/charge-state
+- /terms/charged
+- /terms/charging
 - /terms/deeptoast
+- /terms/discharged
+- /terms/discharging
+- /terms/fast-charging
 - /terms/long-term-storage
 - /terms/mah
 - /terms/memory-effect
@@ -38,13 +43,14 @@ Related:
 - /terms/nicd
 - /terms/nimh
 - /terms/polyswitch
+- /terms/preliminary-charging
 - /terms/recell
 - /terms/recelled
 - /terms/receller
 - /terms/rhythm-method
-- /terms/rmp
 - /terms/thermistor
 - /terms/toast
+- /terms/trickle-charging
 
 ----
 
