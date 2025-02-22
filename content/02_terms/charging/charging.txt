@@ -10,6 +10,8 @@ Text:
 
 The (link: /terms/charge-state text: charge state) of a rechargeable (link: /terms/battery text: battery) indicating that it is currently having its electrical energy restored. Generally, charging occurs when a device is connected to an external power source.
 
+On an (link: /terms/emate-300 text: eMate 300) device, the (link: /terms/charging-light text: charging light) on the top of the case is orange when the battery is charging.
+
 ----
 
 Related:
@@ -21,6 +23,7 @@ Related:
 - /terms/cell
 - /terms/charge-state
 - /terms/charged
+- /terms/charging-light
 - /terms/deep-toast
 - /terms/discharged
 - /terms/discharging
@@ -46,3 +49,4 @@ Related:
 Source:
 
 - /sources/newton-programmers-guide
+- /sources/emate-300-users-manual

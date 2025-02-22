@@ -16,6 +16,7 @@ An electronic component consisting of a simple semiconductor that emits light wh
 
 Related:
 
+- /terms/charging-light
 - /terms/newteye
 - /terms/newtled
 - /terms/newtlight

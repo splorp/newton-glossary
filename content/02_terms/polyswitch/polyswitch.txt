@@ -29,6 +29,7 @@ Related:
 - /terms/charge-state
 - /terms/charged
 - /terms/charging
+- /terms/charging-light
 - /terms/deep-toast
 - /terms/discharged
 - /terms/discharging

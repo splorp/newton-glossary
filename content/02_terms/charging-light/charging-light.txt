@@ -1,4 +1,4 @@
-Title: Not Charging
+Title: Charging Light
 
 ----
 
@@ -8,7 +8,9 @@ Date: 21 February 2025
 
 Text:
 
-The (link: /terms/charge-state text: charge state) of a rechargeable (link: /terms/battery text: battery) indicating that it is fully (link: /terms/charged text: charged) and has reached its electrical energy storage capacity.
+An (link: /terms/led text: LED) located on the top of an (link: /terms/emate-300 text: eMate 300) device that indicates the whether the (link: /terms/battery text: battery) is being (link: /terms/charged text: charged) or not.
+
+When the light is green, the battery is fully charged. When the light is orange the battery is being charged. If the light is off, a power adapter is not currently plugged into the eMate.
 
 ----
 
@@ -17,29 +19,28 @@ Related:
 - /terms/battery
 - /terms/battery-gauge
 - /terms/battery-pack
-- /terms/battery-tray
 - /terms/cell
 - /terms/charge-state
 - /terms/charged
 - /terms/charging
-- /terms/charging-light
 - /terms/deep-toast
 - /terms/discharged
 - /terms/discharging
+- /terms/emate-300
 - /terms/fast-charging
+- /terms/led
 - /terms/long-term-storage
 - /terms/mah
 - /terms/memory-effect
-- /terms/newttest
 - /terms/nicd
 - /terms/nimh
+- /terms/not-charging
 - /terms/polyswitch
 - /terms/preliminary-charging
 - /terms/recell
 - /terms/recelled
 - /terms/receller
 - /terms/rhythm-method
-- /terms/rmp
 - /terms/thermistor
 - /terms/trickle-charging
 
@@ -47,4 +48,4 @@ Related:
 
 Source:
 
-- /sources/newton-programmers-guide
+- /sources/emate-300-users-manual

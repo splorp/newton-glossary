@@ -8,7 +8,7 @@ Date: 15 January 2018
 
 Text:
 
-Published by [Apple](https://www.apple.com/) in 1997, this is the definitive reference for configuring and integrating the (link: /terms/emate-300 text: eMate 300) device into a classroom or educational setting.
+Published by [Apple](https://www.apple.com/) in 1997, this is the definitive reference for configuring and integrating the (link: /terms/emate-300 text: eMate 300) device into a classroom or educational setting. It was accompanied by the (link: /sources/emate-300-users-manual text: eMate 300 User’s Manual).
 
 ----
 
