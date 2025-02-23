@@ -10,7 +10,7 @@ Text:
 
 An (link: /terms/led text: LED) located on the top of an (link: /terms/emate-300 text: eMate 300) device that indicates the whether the (link: /terms/battery text: battery) is being (link: /terms/charged text: charged) or not.
 
-When the light is green, the battery is fully charged. When the light is orange the battery is being charged. If the light is off, a power adapter is not currently plugged into the eMate.
+When the light is green, the battery is fully charged. When the light is orange the battery is (link: /terms/charging text: charging). If the light is off, a power adapter is not currently plugged into the device.
 
 ----
 
