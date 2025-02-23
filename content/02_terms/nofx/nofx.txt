@@ -16,7 +16,7 @@ An (link: /terms/extension text: extension) created by (link: /sources/jeremy-wy
 
 Resource:
 
-- [The Newted Community: noFX](https://newted.org/resources/nofx/)
+- [The Newted Community: noFX](https://www.newted.org/resources/nofx/)
 - [Jeremy Wyld: NewtonScript](https://web.archive.org/web/19981206204551/http://www.best.com/~clmelara/jwyld/pkgs.shtml)
 
 ----

@@ -16,7 +16,7 @@ Quick Xtras will only run on devices running Newton OS 2.0 with a (link: /terms/
 
 Resource:
 
-- [The Newted Community: Quick Xtras](https://newted.org/resources/quickxtras/)
+- [The Newted Community: Quick Xtras](https://www.newted.org/resources/quickxtras/)
 - [Jeremy Wyld: NewtonScript](https://web.archive.org/web/19981206204551/http://www.best.com/~clmelara/jwyld/pkgs.shtml)
 
 ----

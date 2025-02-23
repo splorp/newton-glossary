@@ -18,7 +18,7 @@ Using (link: /terms/newton-toolkit text: Newton Toolkit), the list of (link: /te
 
 Resource:
 
-- [The Newted Community: More Routing](https://newted.org/resources/morerouting/)
+- [The Newted Community: More Routing](https://www.newted.org/resources/morerouting/)
 - [Jeremy Wyld: NewtonScript](https://web.archive.org/web/19981206204551/http://www.best.com/~clmelara/jwyld/pkgs.shtml)
 
 ----

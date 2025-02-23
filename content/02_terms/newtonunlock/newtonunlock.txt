@@ -14,7 +14,7 @@ A utility created by (link: /sources/jeremy-wyld text: Jeremy Wyld) that can byp
 
 Resource:
 
-- [The Newted Community: NewtonUnlock](https://newted.org/resources/newtonunlock/)
+- [The Newted Community: NewtonUnlock](https://www.newted.org/resources/newtonunlock/)
 
 ----
 
