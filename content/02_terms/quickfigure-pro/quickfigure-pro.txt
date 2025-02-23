@@ -35,6 +35,8 @@ Related:
 - /terms/quickfigure-exchange
 - /terms/quickfigure-works
 - /terms/spreadsheet
+- /terms/workbook
+- /terms/worksheet
 
 ----
 

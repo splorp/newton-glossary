@@ -8,7 +8,7 @@ Date: 23 February 2025
 
 Text:
 
-A collection of individual (link: /terms/worksheet text: worksheets) or (link: /terms/spreadsheet text: spreadsheets) created by the (link: /terms/quickfigure-pro text: QuickFigure Pro) software.
+A collection of individual (link: /terms/worksheet text: worksheets) created by the (link: /terms/quickfigure-pro text: QuickFigure Pro) application.
 
 ----
 

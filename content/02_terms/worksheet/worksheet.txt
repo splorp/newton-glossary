@@ -8,7 +8,9 @@ Date: 23 February 2025
 
 Text:
 
-A single (link: /terms/spreadsheet text: spreadsheet) in a (link: /terms/workbook text: workbook) created by the (link: /terms/quickfigure-pro text: QuickFigure Pro) software.
+A single (link: /terms/spreadsheet text: spreadsheet) created by the (link: /terms/quickfigure-pro text: QuickFigure Pro) and (link: /terms/quickfigure-works text: QuickFigure Works) applications.
+
+QuickFigure Pro allows the user to combine multiple worksheets into a (link: /terms/workbook text: workbook).
 
 ----
 
