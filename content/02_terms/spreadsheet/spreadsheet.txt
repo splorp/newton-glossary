@@ -25,6 +25,7 @@ Related:
 - /terms/drawing
 - /terms/newton-works
 - /terms/paper
+- /terms/quickfigure-exchange
 - /terms/quickfigure-pro
 - /terms/quickfigure-works
 - /terms/stationery

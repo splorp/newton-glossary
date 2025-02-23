@@ -1,0 +1,17 @@
+Title: QF Exchange
+
+----
+
+Date: 23 February 2025
+
+----
+
+Text:
+
+See (link: /terms/quickfigure-exchange text: QuickFigure Exchange).
+
+----
+
+Source:
+
+- /sources/pelicanware
