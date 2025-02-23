@@ -10,7 +10,7 @@ Text:
 
 The current state of a (link: /terms/battery text: battery) that has reached its electrical energy storage capacity.
 
-On an (link: /terms/emate-300 text: eMate 300) device, the (link: /terms/charging-light text: charging light) on the top of the case is green when the battery is fully charged.
+On an (link: /terms/emate-300 text: eMate 300) device, the (link: /terms/charging-status-light text: charging light) on the top of the case is green when the battery is fully charged.
 
 Being charged is the opposite of (link: /terms/charged text: discharged).
 
@@ -26,7 +26,7 @@ Related:
 - /terms/charge-state
 - /terms/charged
 - /terms/charging
-- /terms/charging-light
+- /terms/charging-status-light
 - /terms/deep-toast
 - /terms/discharging
 - /terms/fast-charging

@@ -1,0 +1,55 @@
+Title: Charging Status Light
+
+----
+
+Date: 21 February 2025
+
+----
+
+Text:
+
+An (link: /terms/led text: LED) located on the top of an (link: /terms/emate-300 text: eMate 300) device that indicates the whether the (link: /terms/battery text: battery) is being (link: /terms/charged text: charged) or not.
+
+When the light is green, the battery is fully charged. When the light is orange the battery is (link: /terms/charging text: charging). If the light is off, a power adapter is not currently plugged into the device.
+
+Also referred to as a (link: /terms/charging-light text: Charging Light).
+
+----
+
+Related:
+
+- /terms/battery
+- /terms/battery-gauge
+- /terms/battery-pack
+- /terms/cell
+- /terms/charge-state
+- /terms/charged
+- /terms/charging
+- /terms/charging-light
+- /terms/deep-toast
+- /terms/discharged
+- /terms/discharging
+- /terms/emate-300
+- /terms/fast-charging
+- /terms/led
+- /terms/long-term-storage
+- /terms/mah
+- /terms/memory-effect
+- /terms/nicd
+- /terms/nimh
+- /terms/not-charging
+- /terms/polyswitch
+- /terms/preliminary-charging
+- /terms/recell
+- /terms/recelled
+- /terms/receller
+- /terms/rhythm-method
+- /terms/thermistor
+- /terms/trickle-charging
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/emate-300-users-manual
