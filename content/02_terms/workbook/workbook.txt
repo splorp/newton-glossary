@@ -1,0 +1,37 @@
+Title: Workbook
+
+----
+
+Date: 23 February 2025
+
+----
+
+Text:
+
+A collection of individual (link: /terms/worksheet text: worksheets) or (link: /terms/spreadsheet text: spreadsheets) created by the (link: /terms/quickfigure-pro text: QuickFigure Pro) software.
+
+----
+
+Resource:
+
+- [PelicanWare: QuickFigure Product Information](https://web.archive.org/web/20031002141719/http://pelicanware.com/qfp.html)
+- [PelicanWare: QuickFigure Pro Version 4.0 User’s Manual](https://web.archive.org/web/20031206143520/http://www.pelicanware.com/download/QFP4.pdf)
+- [The Newted Community: QuickFigure Pro Version 4.0 User’s Manual](https://www.newted.org/download/manuals/QuickFigureProUsersManual.pdf)
+- [The Newted Community: QuickFigure Pro Version 4.0 User’s Manual Addendum](https://www.newted.org/download/manuals/QuickFigureProUsersManualAddendum.pdf)
+
+----
+
+Related:
+
+- /terms/newton-works
+- /terms/qchart
+- /terms/qsort
+- /terms/quickfigure-pro
+- /terms/spreadsheet
+- /terms/worksheet
+
+----
+
+Source:
+
+- /sources/pelicanware

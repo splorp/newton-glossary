@@ -10,6 +10,8 @@ Text:
 
 The document format (or (link: /terms/stationery text: stationery)) provided by the (link: /terms/quickfigure-works text: QuickFigure Works) component of the (link: /terms/newton-works text: Newton Works) application. A spreadsheet allows the user to store, analyze, manipulate, and calculate data such as numbers, formulas, and text.
 
+Also referred to as a (link: /terms/worksheet text: worksheet).
+
 ----
 
 Resource:
@@ -29,6 +31,8 @@ Related:
 - /terms/quickfigure-pro
 - /terms/quickfigure-works
 - /terms/stationery
+- /terms/workbook
+- /terms/worksheet
 
 ----
 

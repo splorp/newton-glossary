@@ -1,0 +1,41 @@
+Title: Worksheet
+
+----
+
+Date: 23 February 2025
+
+----
+
+Text:
+
+A single (link: /terms/spreadsheet text: spreadsheet) in a (link: /terms/workbook text: workbook) created by the (link: /terms/quickfigure-pro text: QuickFigure Pro) software.
+
+----
+
+Resource:
+
+- [PelicanWare: QuickFigure Product Information](https://web.archive.org/web/20031002141719/http://pelicanware.com/qfp.html)
+- [PelicanWare: QuickFigure Pro Version 4.0 User’s Manual](https://web.archive.org/web/20031206143520/http://www.pelicanware.com/download/QFP4.pdf)
+- [The Newted Community: QuickFigure Pro Version 4.0 User’s Manual](https://www.newted.org/download/manuals/QuickFigureProUsersManual.pdf)
+- [The Newted Community: QuickFigure Pro Version 4.0 User’s Manual Addendum](https://www.newted.org/download/manuals/QuickFigureProUsersManualAddendum.pdf)
+- [The Newted Community: QuickFigure Works Version 1.0 User’s Manual](https://www.newted.org/download/manuals/QuickFigureWorksUsersManual.pdf)
+- [UNNA: QuickFigure Works Version 1.0 User’s Manual](http://www.unna.org/unna/applications/NewtonWorks/qfworks101/qfworks.pdf)
+
+----
+
+Related:
+
+- /terms/newton-works
+- /terms/qchart
+- /terms/qsort
+- /terms/quickfigure-exchange
+- /terms/quickfigure-pro
+- /terms/quickfigure-works
+- /terms/spreadsheet
+- /terms/workbook
+
+----
+
+Source:
+
+- /sources/pelicanware
