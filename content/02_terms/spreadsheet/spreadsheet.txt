@@ -16,6 +16,7 @@ Also referred to as a (link: /terms/worksheet text: worksheet).
 
 Resource:
 
+- [The Newted Community: The eMate: Learning Works](https://www.newted.org/download/manuals/eMateLearningWorks.pdf)
 - [UNNA: The eMate: Learning Works](http://www.unna.org/unna/apple/documentation/eMateISTE-Basics/works.pdf)
 
 ----

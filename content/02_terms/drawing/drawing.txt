@@ -14,6 +14,7 @@ The document format (or (link: /terms/stationery text: stationery)) used by the 
 
 Resource:
 
+- [The Newted Community: The eMate: Learning Works](https://www.newted.org/download/manuals/eMateLearningWorks.pdf)
 - [UNNA: The eMate: Learning Works](http://www.unna.org/unna/apple/documentation/eMateISTE-Basics/works.pdf)
 
 ----
