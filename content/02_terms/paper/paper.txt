@@ -12,6 +12,8 @@ The document format (or (link: /terms/stationery text: stationery)) used by the 
 
 (image: /assets/images/paper-2x.gif alt: Screenshot of a blank Paper document in Newton Works width: 482)
 
+Also referred to as a (link: /terms/word-processing-document text: Word Processing Document).
+
 ----
 
 Resource:
@@ -29,4 +31,5 @@ Related:
 - /terms/newton-works
 - /terms/spreadsheet
 - /terms/stationery
+- /terms/word-processing-document
 - /terms/works-practice
