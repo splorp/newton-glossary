@@ -28,6 +28,7 @@ Related:
 - /terms/availworks
 - /terms/backdrop
 - /terms/calculations
+- /terms/data-entry-mode
 - /terms/drawing
 - /terms/graphing-calculator
 - /terms/newtworks

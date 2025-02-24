@@ -28,6 +28,7 @@ Resource:
 Related:
 
 - /terms/newton-works
+- /terms/data-entry-mode
 - /terms/qchart
 - /terms/qsort
 - /terms/quickfigure-exchange

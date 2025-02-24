@@ -29,6 +29,7 @@ Resource:
 Related:
 
 - /terms/availworks
+- /terms/data-entry-mode
 - /terms/newton-works
 - /terms/qf-pro
 - /terms/quickfigure

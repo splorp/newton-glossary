@@ -23,6 +23,7 @@ Resource:
 
 Related:
 
+- /terms/data-entry-mode
 - /terms/newton-works
 - /terms/quickfigure-pro
 - /terms/quickfigure-works
