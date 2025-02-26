@@ -10,13 +10,14 @@ Text:
 
 An outline-based help interface that uses (link: /terms/help-book text: help book) data created by the (link: /terms/newton-book-maker text: Newton Book Maker). Generally used to provide information about a specific (link: /terms/application text: applications). The help browser provides only a subset of the capabilities of the (link: /terms/newton-book-reader text: Newton Book Reader).
 
-The Help browser can be accessed by (link: /terms/tapping text: tapping) the “How Do I?” button in the (link: /terms/assist-slip text: Assist slip).
+The Help browser can be accessed by (link: /terms/tapping text: tapping) the “How Do I?” button in the (link: /terms/assist-slip text: Assist slip) or the built-in (link: /terms/help text: Help) application located in the (link: /terms/extras-drawer text: Extras Drawer).
 
 ----
 
 Related:
 
 - /terms/copperfield
+- /terms/help
 - /terms/help-book
 - /terms/how-do-i
 - /terms/kiosk

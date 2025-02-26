@@ -1,0 +1,25 @@
+Title: Help
+
+----
+
+Date: 26 February 2025
+
+----
+
+Text:
+
+The built-in (link: /terms/application text: application) for accessing the (link: /terms/help-browser text: help browser).
+
+----
+
+Related:
+
+- /terms/help-book
+- /terms/help-browser
+- /terms/how-do-i
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
