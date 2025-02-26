@@ -25,4 +25,5 @@ Related:
 - /terms/gesture
 - /terms/pen
 - /terms/print-recognizer
+- /terms/printing
 - /terms/recognizer

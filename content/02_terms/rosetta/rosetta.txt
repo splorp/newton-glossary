@@ -35,6 +35,7 @@ Related:
 - /terms/mondello
 - /terms/neuropen
 - /terms/print-recognizer
+- /terms/printing
 - /terms/recognized-text
 - /terms/recognizer
 - /terms/rosetta-stone

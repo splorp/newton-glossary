@@ -37,6 +37,7 @@ Related:
 - /terms/neuropen
 - /terms/paragraph
 - /terms/print-recognizer
+- /terms/printing
 - /terms/recognized-text
 - /terms/recognizer
 - /terms/rosetta

@@ -8,7 +8,7 @@ Date: 19 April 2017
 
 Text:
 
-A type of writing where the (link: /terms/character text: characters) are joined together.
+A type of writing where the (link: /terms/character text: characters) or individual letters are joined together, as opposed to (link: /terms/printing text: printing) where the characters are separated from each other.
 
 ----
 
@@ -17,4 +17,13 @@ Related:
 - /terms/calligrapher
 - /terms/cursive-recognizer
 - /terms/handwriting-recognition
+- /terms/letter-by-letter
+- /terms/letter-shapes
+- /terms/printing
 - /terms/try-letters
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

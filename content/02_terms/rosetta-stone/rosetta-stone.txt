@@ -15,6 +15,7 @@ The code name of the Mac OS version of (link: /terms/rosetta text: Rosetta), the
 Related:
 
 - /terms/calligrapher
+- /terms/cursive
 - /terms/cursive-recognizer
 - /terms/eat-up-martha
 - /terms/egg-freckles
@@ -28,6 +29,7 @@ Related:
 - /terms/mondello
 - /terms/neuropen
 - /terms/print-recognizer
+- /terms/printing
 - /terms/recognized-text
 - /terms/recognizer
 - /terms/rosetta

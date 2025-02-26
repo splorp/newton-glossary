@@ -16,6 +16,7 @@ Also referred to as (link: /terms/hw-instructor text: HW Instructor).
 
 Related:
 
+- /terms/cursive
 - /terms/cursive-recognizer
 - /terms/emate-tour
 - /terms/guest-user
@@ -23,6 +24,7 @@ Related:
 - /terms/hw-instructor
 - /terms/newton-tour
 - /terms/print-recognizer
+- /terms/printing
 - /terms/works-practice
 - /terms/writing-practice
 

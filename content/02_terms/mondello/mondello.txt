@@ -22,6 +22,7 @@ Resource:
 Related:
 
 - /terms/calligrapher
+- /terms/cursive
 - /terms/cursive-recognizer
 - /terms/eat-up-martha
 - /terms/egg-freckles
@@ -30,6 +31,7 @@ Related:
 - /terms/inkwell
 - /terms/neuropen
 - /terms/print-recognizer
+- /terms/printing
 - /terms/recognized-text
 - /terms/recognizer
 - /terms/rosetta

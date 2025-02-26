@@ -47,6 +47,7 @@ Related:
 - /terms/pen-alignment
 - /terms/prefs
 - /terms/print-recognizer
+- /terms/printing
 - /terms/realign
 - /terms/recognized-text
 - /terms/recognizer
