@@ -14,6 +14,8 @@ An input (link: /terms/container-view text: container view) that is displayed if
 
 If the user wrote something before (link: /terms/tapping text: tapping) the Assist button, such as a (link: /terms/request-word text: request word), but did not provide enough information to clearly specify an action, the Assist slip displays those words and includes a message prompting the user to provide additional information.
 
+Tapping the (link: /terms/how-do-i text: How Do I?) button displays an outline-based (link: /terms/help-browser text: help browser).
+
 The Assist slip is also referred to as the (link: /terms/assist-drawer text: Assist Drawer) in some Apple documentation, even though it is not technically a (link: /terms/drawer text: drawer).
 
 ----

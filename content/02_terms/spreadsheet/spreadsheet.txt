@@ -25,6 +25,7 @@ Related:
 
 - /terms/availworks
 - /terms/calculations
+- /terms/data-entry-mode
 - /terms/drawing
 - /terms/newton-works
 - /terms/paper

@@ -10,7 +10,7 @@ Text:
 
 A term or phrase that triggers an (link: /terms/action text: action) when processed by the (link: /terms/assist text: Assist) function.
 
-For example, entering the “call” request word into the (link: /terms/assist-slip text: assist slip) will trigger an action to dial a telephone number.
+For example, entering the “call” request word into the (link: /terms/assist-slip text: Assist slip) will trigger an action to dial a telephone number.
 
 Request words can have (link: /terms/synonyms text: synonyms) for a action. For example, “ring”, “dial”, and “phone” are synonyms for the request word “call”.
 
