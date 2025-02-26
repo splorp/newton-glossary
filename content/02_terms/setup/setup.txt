@@ -1,0 +1,30 @@
+Title: Setup
+
+----
+
+Date: 25 February 2025
+
+----
+
+Text:
+
+An (link: /terms/application text: application) used to personalize a Newton device.
+
+By stepping through a series of screens, the user can set the (link: /terms/pen-alignment text: pen alignment), country, current date and time, whether their preferred handwriting style is (link: /terms/cursive text: cursive) or (link: /terms/printing text: printing), as well as personal information, including an electronic signature.
+
+(image: /assets/images/setup-welcome-2x.gif alt: Screenshot of the Setup application showing the initial Welcome screen width: 322)
+
+----
+
+Related:
+
+- /terms/handwriting-recognition
+- /terms/owner-info
+- /terms/pen-alignment
+- /terms/teacher-setup
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

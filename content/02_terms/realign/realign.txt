@@ -27,6 +27,7 @@ Related:
 - /terms/digitizer
 - /terms/handwriting-recognition
 - /terms/pen
+- /terms/setup
 - /terms/tap
 - /terms/tapping
 

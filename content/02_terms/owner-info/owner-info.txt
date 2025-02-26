@@ -20,6 +20,7 @@ Related:
 - /terms/owner-card
 - /terms/people-picker
 - /terms/persona
+- /terms/setup
 - /terms/worksite
 
 ----

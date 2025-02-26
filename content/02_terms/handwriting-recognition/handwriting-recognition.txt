@@ -52,6 +52,7 @@ Related:
 - /terms/recognizer
 - /terms/rosetta
 - /terms/rosetta-stone
+- /terms/setup
 - /terms/text-recognition
 - /terms/try-letters
 - /terms/writehere

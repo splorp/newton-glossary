@@ -30,6 +30,7 @@ Related:
 - /terms/handwriting-recognition
 - /terms/pen
 - /terms/realign
+- /terms/setup
 - /terms/tap
 - /terms/tapping
 

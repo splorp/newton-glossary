@@ -28,6 +28,7 @@ Related:
 - /terms/pen-alignment
 - /terms/prefs
 - /terms/realign
+- /terms/setup
 - /terms/tap
 - /terms/tapping
 
