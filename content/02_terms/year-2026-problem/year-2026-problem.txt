@@ -23,6 +23,7 @@ Resource:
 - [40Hz: Just checking …](https://40hz.org/Pages/mottek/2016/2016-02-14/)
 - [40Hz: Newton Year 2010 Problem](https://40hz.org/Pages/newton/hacking/newton-year-2010-problem/)
 - [GitHub: Y2026 and beyond](https://github.com/pguyot/Einstein/issues/24)
+- [Adam Tow: Getting the Newton MessagePad 2000 and 2100 to work in 2025](https://tow.com/2025/02/10/getting-the-newton-messagepad-2000-and-2100-to-work-in-2025/)
 
 ----
 
