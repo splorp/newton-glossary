@@ -8,13 +8,13 @@ Date: 10 December 2023
 
 Text:
 
-A (link: /terms/button text: button) located in the (link: /terms/assist-slip text: Assist slip) which when (link: /terms/tapped text: tapped) displays an outline-based (link: /terms/help-browser text: help browser) for (link: /terms/application text: applications) and system services in (link: /terms/newton-os text: Newton OS).
+A (link: /terms/button text: button) located in the (link: /terms/assist-slip text: Assist slip) that displays an outline-based (link: /terms/help-browser text: help browser) for (link: /terms/application text: applications) and system services in (link: /terms/newton-os text: Newton OS).
+
+(image: /assets/images/how-do-i-2x.gif alt: Screenshot of the How Do I? help browser width: 223)
 
 (link: /terms/tapping text: Tapping) a topic in the browser expands the outline to display subtopics or specific instructions for that topic.
 
 The help browser can also be accessed using the built-in (link: /terms/help text: Help) application located in the (link: /terms/extras-drawer text: Extras Drawer).
-
-(image: /assets/images/how-do-i-2x.gif alt: Screenshot of the How Do I? help browser width: 223)
 
 ----
 
