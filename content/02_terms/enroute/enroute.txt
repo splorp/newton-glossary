@@ -12,6 +12,14 @@ An integrated internet email package developed by [Netstrategy Software](https:/
 
 ----
 
+Resource:
+
+- [GitHub: EnRoute for Newton OS](https://github.com/lrtitze/EnRoute-for-Newton-OS)
+- [Netstrategy Software: EnRoute 1.4.2 User Manual](https://web.archive.org/web/19980526122648/http://www.netstrat.com/assets/images/EnRoute_i-net_1.4.2_Manual.pdf)
+- [EnRoute i-net Twentieth Birthday Website](https://web.archive.org/web/20180121020722/https://enroute4newton.com/)
+
+----
+
 Related:
 
 - /terms/aloha
