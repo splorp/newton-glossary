@@ -17,8 +17,11 @@ A list containing the names of people and companies from the (link: /terms/name-
 Related:
 
 - /terms/button
+- /terms/company
+- /terms/group
 - /terms/name-file
 - /terms/owner-info
+- /terms/person
 - /terms/picker
 - /terms/user-interface
 

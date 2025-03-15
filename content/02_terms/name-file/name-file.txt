@@ -10,6 +10,8 @@ Text:
 
 The built-in (link: /terms/application text: application) for storing and organizing information related to a list of contacts. The name, address, telephone number, and other information pertaining to a contact is displayed on a (link: /terms/view text: view) known as a (link: /terms/card text: card).
 
+A card can be created in the Name File for a (link: /terms/person text: person), (link: /terms/company text: company), or (link: /terms/group text: group) of contacts.
+
 Also referred to as (link: /terms/names text: Names).
 
 ----
@@ -21,15 +23,22 @@ Related:
 - /terms/cadenza
 - /terms/cadenza-connect
 - /terms/card
+- /terms/company
 - /terms/dateman
+- /terms/group
 - /terms/lookout
 - /terms/moreinfo
-- /terms/name-card
 - /terms/names
 - /terms/newtourage
 - /terms/newtsync
+- /terms/owner-card
 - /terms/people-picker
+- /terms/person
 - /terms/personal-information-manager
+- /terms/untitled
+- /terms/untitled-company
+- /terms/untitled-group
+- /terms/untitled-person
 - /terms/vcard
 
 ----

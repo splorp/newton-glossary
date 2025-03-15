@@ -1,0 +1,36 @@
+Title: Untitled Person
+
+----
+
+Date: 15 March 2025
+
+----
+
+Text:
+
+A (link: /terms/view text: view) of information displayed in the (link: /terms/name-file text: Name File) for a (link: /terms/person text: person) or individual that does not have any information entered into the “First” or “Last” name (link: /terms/field text: fields).
+
+An “Untitled Person” card will appear listed alphabetically under “U” in the Name File (link: /terms/overview text: overview).
+
+(image: /assets/images/untitled-person-2x.gif alt: Screenshot of an Untitled Person slip width: 320)
+
+----
+
+Related:
+
+- /terms/card
+- /terms/name-file
+- /terms/person
+- /terms/untitled
+- /terms/untitled-calculations
+- /terms/untitled-company
+- /terms/untitled-drawing
+- /terms/untitled-group
+- /terms/untitled-paper
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
+- /sources/messagepad-handbook-1995

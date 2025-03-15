@@ -1,0 +1,36 @@
+Title: Untitled Company
+
+----
+
+Date: 15 March 2025
+
+----
+
+Text:
+
+A (link: /terms/view text: view) of information displayed in the (link: /terms/name-file text: Name File) for a (link: /terms/company text: company) that does not have any information entered into the “Company” (link: /terms/field text: field).
+
+An “Untitled Company” card will appear listed alphabetically under “U” in the Name File (link: /terms/overview text: overview).
+
+(image: /assets/images/untitled-company-2x.gif alt: Screenshot of an Untitled Company slip” width: 320)
+
+----
+
+Related:
+
+- /terms/card
+- /terms/company
+- /terms/name-file
+- /terms/untitled
+- /terms/untitled-calculations
+- /terms/untitled-drawing
+- /terms/untitled-group
+- /terms/untitled-paper
+- /terms/untitled-person
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
+- /sources/messagepad-handbook-1995

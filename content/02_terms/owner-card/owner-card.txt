@@ -18,6 +18,7 @@ Related:
 - /terms/name-file
 - /terms/owner
 - /terms/owner-info
+- /terms/person
 - /terms/persona
 
 ----

@@ -1,0 +1,44 @@
+Title: Untitled
+
+----
+
+Date: 09 March 2025
+
+----
+
+Text:
+
+A (link: /terms/newton-works text: Newton Works) document that has not been assigned a title in the (link: /terms/title-slip text: title slip).
+
+For example, when a user creates a new (link: /terms/drawing text: drawing) document, the default title will be “(link: /terms/untitled-drawing text: Untitled Drawing)”. Similarly, the default title for a (link: /terms/word-processing-document text: word processing document) will be “(link: /terms/untitled-paper text: Untitled Paper)”.
+
+Also a entry in the (link: /terms/name-file text: Name File) for a (link: /terms/person text: person), (link: /terms/company text: company), or (link: /terms/group text: group) that has not been assigned a name.
+
+For example, when a user creates a new entry for an individual in the Name File (link: /terms/application text: application), the default title will be “(link: /terms/untitled-person text: Untitled Person)”.
+
+----
+
+Related:
+
+- /terms/calculations
+- /terms/company
+- /terms/drawing
+- /terms/group
+- /terms/name-file
+- /terms/newton-works
+- /terms/person
+- /terms/spreadsheet
+- /terms/untitled-calculations
+- /terms/untitled-company
+- /terms/untitled-drawing
+- /terms/untitled-group
+- /terms/untitled-paper
+- /terms/untitled-person
+- /terms/word-processing-document
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/messagepad-2000-user-manual

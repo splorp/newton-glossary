@@ -28,8 +28,10 @@ Related:
 - /terms/cis
 - /terms/combo-card
 - /terms/compactflash
+- /terms/company
 - /terms/external-store
 - /terms/flash-card
+- /terms/group
 - /terms/hot-insertion
 - /terms/hot-removal
 - /terms/locked-icon
@@ -43,6 +45,7 @@ Related:
 - /terms/owner-card
 - /terms/pc-card
 - /terms/pcmcia
+- /terms/person
 - /terms/protection-card
 - /terms/slot
 - /terms/slot-jam

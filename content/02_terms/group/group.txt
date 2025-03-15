@@ -1,0 +1,37 @@
+Title: Group
+
+----
+
+Date: 15 March 2025
+
+----
+
+Text:
+
+A (link: /terms/view text: view) displayed in the (link: /terms/name-file text: Name File) pertaining to a collection of contacts. Information such as the group name, the type of group, and other details can be entered using a (link: /terms/slip text: slip).
+
+A group provides a way to conveniently send faxes or email messages to several individuals, companies, or organizations all at once.
+
+Also referred to as a (link: /terms/group-address text: Group Address).
+
+(image: /assets/images/group-2x.gif alt: Screenshot of a Group slip with a People Picker being used to select contacts from the Name File” width: 320)
+
+----
+
+Related:
+
+- /terms/card
+- /terms/company
+- /terms/group-address
+- /terms/name-file
+- /terms/people-picker
+- /terms/person
+- /terms/untitled-group
+- /terms/vcard
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
+- /sources/messagepad-handbook-1995
