@@ -8,7 +8,7 @@ Date: 12 February 2017
 
 Text:
 
-A standalone FTP client for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/tactile text: Tactile Systems). NewtFTP allowed the user to transfer (link: /terms/package text: packages), (link: /terms/name-file text: Name File) cards, and other types of data between a Newton device and an FTP server. Packages residing on a server could be installed directly onto the Newton. Likewise, text files residing on a server could be converted into (link: /terms/notepad text: Notepad) or (link: /terms/newton-works text: Newton Works) documents.
+A standalone FTP client for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/tactile text: Tactile Systems). NewtFTP allowed the user to transfer (link: /terms/package text: packages), (link: /terms/name-file text: Name File) cards, and other types of data between a Newton device and an FTP server. Packages residing on a server could be installed directly onto the Newton. Similarly, text files residing on a server could be converted into (link: /terms/notepad text: Notepad) or (link: /terms/newton-works text: Newton Works) documents.
 
 (image: /assets/images/newtftp-2x.gif alt: Screenshot of NewtFTP width: 320)
 

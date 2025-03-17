@@ -14,11 +14,14 @@ An “Untitled Person” card will appear listed alphabetically under “U” in
 
 (image: /assets/images/untitled-person-2x.gif alt: Screenshot of an Untitled Person slip width: 320)
 
+Untitled Person is also a field found in (link: /terms/company text: company) entries created with an earlier version of (link: /terms/newton-os text: Newton OS) that have information in the “Birthday” field.
+
 ----
 
 Related:
 
 - /terms/card
+- /terms/company
 - /terms/name-file
 - /terms/person
 - /terms/untitled
