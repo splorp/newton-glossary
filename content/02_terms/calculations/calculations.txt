@@ -26,6 +26,7 @@ Related:
 - /terms/paper
 - /terms/spreadsheet
 - /terms/stationery
+- /terms/title-slip
 
 ----
 

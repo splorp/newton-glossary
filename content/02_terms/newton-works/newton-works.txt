@@ -37,6 +37,7 @@ Related:
 - /terms/quickfigure-pro
 - /terms/quickfigure-works
 - /terms/spreadsheet
+- /terms/title-slip
 - /terms/twerx
 - /terms/works
 - /terms/works-practice

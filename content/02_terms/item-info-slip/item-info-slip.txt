@@ -25,6 +25,7 @@ Related:
 - /terms/item-info-button
 - /terms/memory-info-slip
 - /terms/slip
+- /terms/title-slip
 - /terms/user-interface
 
 ----

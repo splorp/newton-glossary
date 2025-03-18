@@ -31,5 +31,6 @@ Related:
 - /terms/newton-works
 - /terms/spreadsheet
 - /terms/stationery
+- /terms/title-slip
 - /terms/word-processing-document
 - /terms/works-practice

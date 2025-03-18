@@ -33,6 +33,7 @@ Related:
 - /terms/quickfigure-pro
 - /terms/quickfigure-works
 - /terms/stationery
+- /terms/title-slip
 - /terms/workbook
 - /terms/worksheet
 

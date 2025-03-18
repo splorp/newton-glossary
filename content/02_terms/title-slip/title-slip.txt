@@ -1,0 +1,34 @@
+Title: Title Slip
+
+----
+
+Date: 17 March 2025
+
+----
+
+Text:
+
+An (link: /terms/item-info-slip text: item info slip) pertaining to a (link: /terms/newton-works text: Newton Works) document, such as (link: /terms/paper text: paper), (link: /terms/drawing text: drawing), or (link: /terms/spreadsheet text: spreadsheet).
+
+The (link: /terms/slip text: slip) displays statistics and related information for a document, including the title, type, creation date, last modification date, size, (link: /terms/store text: store) location, and the number of pages. A user can (link: /terms/edit text: edit) a document’s title in the (link: /terms/slip text: slip).
+
+The title slip appears when creating a new document or can be accessed by (link: /terms/tapping text: tapping) the (link: /terms/picture-button text: picture button) next to the document title.
+
+(image: /assets/images/item-info-slip-2x.gif alt: Screenshot of on Item Info Slip for a note width: 318)
+
+----
+
+Related:
+
+- /terms/item-info-slip
+- /terms/newton-works
+- /terms/picture-button
+- /terms/slip
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/newton-programmers-guide

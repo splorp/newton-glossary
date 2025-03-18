@@ -28,6 +28,7 @@ Related:
 - /terms/newton-works
 - /terms/person
 - /terms/spreadsheet
+- /terms/title-slip
 - /terms/untitled-calculations
 - /terms/untitled-company
 - /terms/untitled-drawing

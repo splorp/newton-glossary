@@ -30,6 +30,7 @@ Related:
 - /terms/notification-slip
 - /terms/routing-slip
 - /terms/status-slip
+- /terms/title-slip
 
 ----
 
