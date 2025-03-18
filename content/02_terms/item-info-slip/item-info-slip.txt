@@ -14,7 +14,7 @@ The item info slip is accessed by (link: /terms/tapping text: tapping) the (link
 
 Also known as an (link: /terms/info-slip text: Info Slip).
 
-(image: /assets/images/item-info-slip-2x.gif alt: Screenshot of on Item Info Slip for a note width: 318)
+(image: /assets/images/item-info-slip-2x.gif alt: Screenshot of an Item Info Slip for a note width: 318)
 
 ----
 
