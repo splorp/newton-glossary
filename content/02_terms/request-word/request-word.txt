@@ -12,7 +12,7 @@ A term or phrase that triggers an (link: /terms/action text: action) when proces
 
 For example, entering the “call” request word into the (link: /terms/assist-slip text: Assist slip) will trigger an action to dial a telephone number.
 
-Request words can have (link: /terms/synonyms text: synonyms) for a action. For example, “ring”, “dial”, and “phone” are synonyms for the request word “call”.
+Request words can have (link: /terms/synonyms text: synonyms) for an action. For example, “ring”, “dial”, and “phone” are synonyms for the request word “call”.
 
 ----
 

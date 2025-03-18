@@ -8,7 +8,7 @@ Date: 29 July 2024
 
 Text:
 
-An image of a open lock used to indicate that data contained on a (link: /terms/store text: store) or in a (link: /terms/soup text: soup) entry is located on writable (link: /terms/storage-card text: storage card).
+An image of an open lock used to indicate that data contained on a (link: /terms/store text: store) or in a (link: /terms/soup text: soup) entry is located on writable (link: /terms/storage-card text: storage card).
 
 For example, a (link: /terms/card-slip text: card slip) will display an unlocked icon if the (link: /terms/write-protection-switch text: write-protection switch) on a storage card is in the unlocked position.
 

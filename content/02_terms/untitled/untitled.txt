@@ -12,7 +12,7 @@ A (link: /terms/newton-works text: Newton Works) document that has not been assi
 
 For example, when a user creates a new (link: /terms/drawing text: drawing) document, the default title will be “(link: /terms/untitled-drawing text: Untitled Drawing)”. Similarly, the default title for a (link: /terms/word-processing-document text: word processing document) will be “(link: /terms/untitled-paper text: Untitled Paper)”.
 
-Also a entry in the (link: /terms/name-file text: Name File) for a (link: /terms/person text: person), (link: /terms/company text: company), or (link: /terms/group text: group) that has not been assigned a name.
+Also an entry in the (link: /terms/name-file text: Name File) for a (link: /terms/person text: person), (link: /terms/company text: company), or (link: /terms/group text: group) that has not been assigned a name.
 
 For example, when a user creates a new entry for an individual in the Name File (link: /terms/application text: application), the default title will be “(link: /terms/untitled-person text: Untitled Person)”.
 
