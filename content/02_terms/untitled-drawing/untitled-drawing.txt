@@ -1,0 +1,31 @@
+Title: Untitled Drawing
+
+----
+
+Date: 18 March 2025
+
+----
+
+Text:
+
+A (link: /terms/drawing text: drawing) document created in the (link: /terms/newton-works text: Newton Works) application that has not been assigned a title in the (link: /terms/title-slip text: title slip).
+
+(image: /assets/images/untitled-drawing-2x.gif alt: Screenshot of an untitled Drawing document in Newton Works width: 482)
+
+----
+
+Related:
+
+- /terms/drawing
+- /terms/newton-works
+- /terms/title-slip
+- /terms/untitled
+- /terms/untitled-calculations
+- /terms/untitled-paper
+- /terms/untitled-spreadsheet
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide

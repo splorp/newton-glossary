@@ -10,6 +10,8 @@ Text:
 
 The document format (or (link: /terms/stationery text: stationery)) used by the word processor component of the (link: /terms/newton-works text: Newton Works) application. The Newton Works word processor does not utilize (link: /terms/handwriting-recognition text: handwriting recognition), so text must be entered into the word processor using a keyboard.
 
+When a new paper document is created, it is assigned the default title “(link: /terms/untitled-paper text: Untitled Paper)”, which can be changed in the (link: /terms/title slip text: title slip).
+
 (image: /assets/images/paper-2x.gif alt: Screenshot of a blank Paper document in Newton Works width: 482)
 
 Also referred to as a (link: /terms/word-processing-document text: Word Processing Document).
@@ -32,5 +34,7 @@ Related:
 - /terms/spreadsheet
 - /terms/stationery
 - /terms/title-slip
+- /terms/untitled
+- /terms/untitled-paper
 - /terms/word-processing-document
 - /terms/works-practice

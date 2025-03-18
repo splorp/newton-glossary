@@ -39,5 +39,10 @@ Related:
 - /terms/spreadsheet
 - /terms/title-slip
 - /terms/twerx
+- /terms/untitled
+- /terms/untitled-calculations
+- /terms/untitled-drawing
+- /terms/untitled-paper
+- /terms/untitled-spreadsheet
 - /terms/works
 - /terms/works-practice

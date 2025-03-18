@@ -35,7 +35,7 @@ Related:
 - /terms/untitled-group
 - /terms/untitled-paper
 - /terms/untitled-person
-- /terms/word-processing-document
+- /terms/untitled-spreadsheet
 
 ----
 

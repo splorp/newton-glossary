@@ -10,6 +10,8 @@ Text:
 
 The document format (or (link: /terms/stationery text: stationery)) provided by the (link: /terms/quickfigure-works text: QuickFigure Works) component of the (link: /terms/newton-works text: Newton Works) application. A spreadsheet allows the user to store, analyze, manipulate, and calculate data such as numbers, formulas, and text.
 
+When a new spreadsheet document is created, it is assigned the default title “(link: /terms/untitled-spreadsheet text: Untitled Spreadsheet)”, which can be changed in the (link: /terms/title slip text: title slip).
+
 Also referred to as a (link: /terms/worksheet text: worksheet).
 
 ----
@@ -34,6 +36,8 @@ Related:
 - /terms/quickfigure-works
 - /terms/stationery
 - /terms/title-slip
+- /terms/untitled
+- /terms/untitled-spreadsheet
 - /terms/workbook
 - /terms/worksheet
 

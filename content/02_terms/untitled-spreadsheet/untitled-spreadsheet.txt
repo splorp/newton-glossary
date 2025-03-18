@@ -1,0 +1,31 @@
+Title: Untitled Spreadsheet
+
+----
+
+Date: 18 March 2025
+
+----
+
+Text:
+
+A (link: /terms/spreadsheet text: spreadsheet) document created in the (link: /terms/newton-works text: Newton Works) application that has not been assigned a title in the (link: /terms/title-slip text: title slip).
+
+(image: /assets/images/untitled-spreadsheet-2x.gif alt: Screenshot of an untitled Spreadsheet document in Newton Works width: 482)
+
+----
+
+Related:
+
+- /terms/newton-works
+- /terms/spreadsheet
+- /terms/title-slip
+- /terms/untitled
+- /terms/untitled-calculations
+- /terms/untitled-drawing
+- /terms/untitled-paper
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
