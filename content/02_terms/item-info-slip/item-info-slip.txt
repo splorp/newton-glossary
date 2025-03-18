@@ -16,6 +16,8 @@ Also known as an (link: /terms/info-slip text: Info Slip).
 
 (image: /assets/images/item-info-slip-2x.gif alt: Screenshot of an Item Info Slip for a note width: 318)
 
+(link: /terms/newton-works text: Newton Works) implements a similar slip that includes additional details about (link: /terms/paper text: paper), (link: /terms/drawing text: drawing), and (link: /terms/spreadsheet text: spreadsheet) documents called a (link: /terms/title-slip text: title slip).
+
 ----
 
 Related:
