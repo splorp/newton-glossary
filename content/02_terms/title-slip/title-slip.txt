@@ -14,16 +14,25 @@ The (link: /terms/slip text: slip) displays statistics and related information f
 
 The title slip appears when creating a new document or can be accessed by (link: /terms/tapping text: tapping) the (link: /terms/picture-button text: picture button) next to the document title.
 
-(image: /assets/images/title-slip-2x.gif alt: Screenshot of a Title Slip for a note width: 318)
+(image: /assets/images/title-slip-2x.gif alt: Screenshot of a Title Slip for a Newton Works document width: 478)
 
 ----
 
 Related:
 
+- /terms/calculations
+- /terms/drawing
 - /terms/item-info-slip
 - /terms/newton-works
+- /terms/paper
 - /terms/picture-button
 - /terms/slip
+- /terms/spreadsheet
+- /terms/untitled
+- /terms/untitled-calculations
+- /terms/untitled-drawing
+- /terms/untitled-paper
+- /terms/untitled-spreadsheet
 - /terms/user-interface
 
 ----
