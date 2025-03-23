@@ -22,10 +22,7 @@ Related:
 - /terms/company
 - /terms/name-file
 - /terms/untitled
-- /terms/untitled-calculations
-- /terms/untitled-drawing
 - /terms/untitled-group
-- /terms/untitled-paper
 - /terms/untitled-person
 
 ----

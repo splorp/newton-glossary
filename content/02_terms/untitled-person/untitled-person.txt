@@ -25,11 +25,8 @@ Related:
 - /terms/name-file
 - /terms/person
 - /terms/untitled
-- /terms/untitled-calculations
 - /terms/untitled-company
-- /terms/untitled-drawing
 - /terms/untitled-group
-- /terms/untitled-paper
 
 ----
 
