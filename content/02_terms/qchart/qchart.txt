@@ -9,7 +9,7 @@ Date: 23 February 2025
 Text:
 
 A graphing and charting (link: /terms/extension text: extension) for the (link: /terms/quickfigure-works text: QuickFigure Works) and (link: /terms/quickfigure-pro text: QuickFigure Pro) applications. QChart can display data from a (link: /terms/worksheet text: worksheet) as an x-y plot, line chart, bar chart, or pie chart.
-.
+
 ----
 
 Resource:
