@@ -1,14 +1,14 @@
-Title: Newtoneer
+Title: Newtino
 
 ----
 
-Date: 21 November 2004
+Date: 24 March 2025
 
 ----
 
 Text:
 
-An affectionate nickname for a Newton user. Attributable to a friendly greeting occasionally expressed on the (link: /terms/newtontalk text: NewtonTalk) mailing list.
+An affectionate name for a Newton user, coined by (link: /sources/matthias-melcher text: Matthias Melcher) on the (link: /terms/newtontalk text: NewtonTalk) mailing list.
 
 ----
 
@@ -21,7 +21,7 @@ Related:
 - /terms/newtbie
 - /terms/newtevangelist
 - /terms/newtie
-- /terms/newtino
+- /terms/newtoneer
 - /terms/newtonian
 - /terms/newtonite
 - /terms/newtophyte

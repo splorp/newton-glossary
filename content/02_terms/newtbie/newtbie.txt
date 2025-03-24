@@ -20,6 +20,7 @@ Related:
 - /terms/green-widow
 - /terms/newtevangelist
 - /terms/newtie
+- /terms/newtino
 - /terms/newtoneer
 - /terms/newtonian
 - /terms/newtonite

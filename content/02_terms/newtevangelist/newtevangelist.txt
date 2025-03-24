@@ -28,7 +28,7 @@ Related:
 - /terms/green-widow
 - /terms/newtbie
 - /terms/newtie
-- /terms/newtie-award
+- /terms/newtino
 - /terms/newtoneer
 - /terms/newtonian
 - /terms/newtonite

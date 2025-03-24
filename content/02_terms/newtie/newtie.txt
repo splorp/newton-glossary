@@ -23,6 +23,7 @@ Related:
 - /terms/newtbie
 - /terms/newtevangelist
 - /terms/newtie-award
+- /terms/newtino
 - /terms/newtoneer
 - /terms/newtonian
 - /terms/newtonite
