@@ -17,6 +17,7 @@ A Minnesotan user group organized by Tim De Chant.
 Related:
 
 - /terms/anug
+- /terms/bscng
 - /terms/dang
 - /terms/dnug
 - /terms/fnewton

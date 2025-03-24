@@ -15,6 +15,7 @@ An organized group of Newton enthusiasts. Commonly abbreviated as (link: /terms/
 Related:
 
 - /terms/anug
+- /terms/bscng
 - /terms/dang
 - /terms/dnug
 - /terms/fnewton

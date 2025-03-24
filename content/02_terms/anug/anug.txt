@@ -22,7 +22,8 @@ Resource:
 
 Related:
 
-- /terms/adaug
+- /terms/anug
+- /terms/bscng
 - /terms/dang
 - /terms/dnug
 - /terms/fnewton

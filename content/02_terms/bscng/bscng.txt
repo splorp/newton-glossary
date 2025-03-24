@@ -1,29 +1,29 @@
-Title: OaNUG
+Title: BSCNG
 
 ----
 
-Date: 27 October 2024
+Date: 23 March 2025
 
 ----
 
 Text:
 
-Ottawa Area Newton User Group
+Boston Computer Society Newton Group
 
-Founded around 1996, OaNUG was based in Ottawa, Ontario.
+Formed by Al Willis in 1992, it later changed its name to (link: /terms/bospdaug text: BosPDAUG) (Boston PDA Users Group) and describing itself as “… an organization of professional and non-professional programmers and hardware designers for various PDA platforms including Pilot and Newton.”
 
 ----
 
 Resource:
 
-- [OaNUG Website](https://web.archive.org/web/19990224060929/http://www.igs.net/~oanug/)
+- [Boston PDA Users Group Website](https://web.archive.org/web/20010417230225/http://www.bospdaug.org/)
 
 ----
 
 Related:
 
 - /terms/anug
-- /terms/bscng
+- /terms/bospdaug
 - /terms/dang
 - /terms/dnug
 - /terms/fnewton
@@ -45,9 +45,11 @@ Related:
 - /terms/ngn
 - /terms/noise
 - /terms/nose
+- /terms/nug
 - /terms/nug-central
 - /terms/nugom
 - /terms/nycnug
+- /terms/oanug
 - /terms/oznug
 - /terms/random
 - /terms/sane
@@ -65,4 +67,4 @@ Related:
 
 Source:
 
-- /sources/newton-reference
+- /sources/newton-hall-of-fame
