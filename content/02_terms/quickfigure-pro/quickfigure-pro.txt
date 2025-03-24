@@ -28,7 +28,9 @@ Resource:
 
 Related:
 
+- /terms/address
 - /terms/availworks
+- /terms/cell
 - /terms/data-entry-mode
 - /terms/newton-works
 - /terms/qf-pro

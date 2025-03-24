@@ -1,0 +1,17 @@
+Title: QuickFigure Works User’s Manual
+
+----
+
+Date: 23 March 2025
+
+----
+
+Text:
+
+The user manual for the (link: /terms/spreadsheet text: spreadsheet) component of (link: /terms/newton-works text: Newton Works), the integrated (link: /terms/application text: application) developed by [Apple](https://www.apple.com/) for Newton devices.
+
+----
+
+Resource:
+
+- [The Newted Community: QuickFigure Works User’s Manual](https://www.newted.org/download/manuals/QuickFigureWorksUsersManual.pdf)

@@ -27,8 +27,10 @@ Resource:
 
 Related:
 
-- /terms/newton-works
+- /terms/address
+- /terms/cell
 - /terms/data-entry-mode
+- /terms/newton-works
 - /terms/qchart
 - /terms/qsort
 - /terms/quickfigure-exchange

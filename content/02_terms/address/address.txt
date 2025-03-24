@@ -10,10 +10,13 @@ Text:
 
 A binary value specifying where in the memory a chunk of data or code exists.
 
+In a (link: /terms/spreadsheet text: spreadsheet) document, the address of a (link: /terms/cell text: cell) corresponds to the column and the row where it is located.
+
 ----
 
 Related:
 
+- /terms/cell
 - /terms/heaven-or-hell
 - /terms/magic-pointer
 - /terms/mapping
@@ -22,6 +25,7 @@ Related:
 - /terms/mmu-tables
 - /terms/physical-address
 - /terms/pointer
+- /terms/spreadsheet
 - /terms/system-memory
 - /terms/virtual-address
 - /terms/virtual-memory
@@ -30,4 +34,4 @@ Related:
 
 Source:
 
-- /sources/newton-programmers-guide
+- /sources/quickfiqure-works

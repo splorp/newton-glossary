@@ -10,18 +10,20 @@ Text:
 
 The ability to enter or edit information in a (link: /terms/spreadsheet text: spreadsheet).
 
-By (link: /terms/tapping text: tapping) on a spreadsheet cell, the cell is (link: /terms/highlight text: highlighted) and the user is able to enter information into that cell. On an (link: /terms/emate-300 text: eMate 300), pressing Return, Tab, or Enter on the keyboard will take the user out of data entry mode. When not in data entry mode, pressing an arrow key, Return, or Tab will move the highlight to another cell.
+By (link: /terms/tapping text: tapping) on a spreadsheet (link: /terms/cell text: cell), the cell is (link: /terms/highlight text: highlighted) and the user is able to enter information into that cell. On an (link: /terms/emate-300 text: eMate 300), pressing Return, Tab, or Enter on the keyboard will take the user out of data entry mode. When not in data entry mode, pressing an arrow key, Return, or Tab will move the highlight to another cell.
 
 ----
 
 Related:
 
+- /terms/address
 - /terms/availworks
-- /terms/spreadsheet
+- /terms/cell
 - /terms/newton-works
 - /terms/quickfigure-exchange
 - /terms/quickfigure-pro
 - /terms/quickfigure-works
+- /terms/spreadsheet
 - /terms/workbook
 - /terms/worksheet
 

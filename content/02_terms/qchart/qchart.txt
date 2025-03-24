@@ -25,6 +25,8 @@ Resource:
 
 Related:
 
+- /terms/address
+- /terms/cell
 - /terms/graphing-calculator
 - /terms/qsort
 - /terms/quickfigure-exchange

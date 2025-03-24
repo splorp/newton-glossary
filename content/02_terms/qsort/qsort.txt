@@ -8,7 +8,7 @@ Date: 23 February 2025
 
 Text:
 
-An (link: /terms/extension text: extension) for the (link: /terms/quickfigure-pro text: QuickFigure Pro) application that provides sorting tools when working with a (link: /terms/worksheet text: worksheet). Ranges of cells can be sorted by numeric, text, or date criteria, as well as in ascending or descending order.
+An (link: /terms/extension text: extension) for the (link: /terms/quickfigure-pro text: QuickFigure Pro) application that provides sorting tools when working with a (link: /terms/worksheet text: worksheet). Ranges of (link: /terms/cells text: cells) can be sorted by numeric, text, or date criteria, as well as in ascending or descending order.
 
 ----
 
@@ -23,6 +23,8 @@ Resource:
 
 Related:
 
+- /terms/address
+- /terms/cell
 - /terms/qchart
 - /terms/quickfigure-pro
 - /terms/spreadsheet
