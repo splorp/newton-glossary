@@ -32,6 +32,8 @@ Related:
 - /terms/availworks
 - /terms/cell
 - /terms/data-entry-mode
+- /terms/formula
+- /terms/function
 - /terms/newton-works
 - /terms/qf-pro
 - /terms/quickfigure

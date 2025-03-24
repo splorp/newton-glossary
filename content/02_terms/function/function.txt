@@ -10,11 +10,14 @@ Text:
 
 A named section of a computer program that performs a specific task and can return a value.
 
+In a (link: /terms/spreadsheet text: spreadsheet) document, a function is a pre-written (link: /terms/formula text: formula) provided by the spreadsheet (link: /terms/application text: application).
+
 ----
 
 Related:
 
 - /terms/finite-state-machine
+- /terms/formula
 - /terms/function-object
 - /terms/function-stack-call
 - /terms/global
@@ -22,5 +25,13 @@ Related:
 - /terms/message
 - /terms/method
 - /terms/receiver
+- /terms/spreadsheet
 - /terms/stack
 - /terms/stack-activation-record
+
+----
+
+Source:
+
+- /sources/techencyclopedia
+- /sources/quickfigure-works

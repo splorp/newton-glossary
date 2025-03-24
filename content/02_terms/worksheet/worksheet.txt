@@ -30,6 +30,8 @@ Related:
 - /terms/address
 - /terms/cell
 - /terms/data-entry-mode
+- /terms/formula
+- /terms/function
 - /terms/newton-works
 - /terms/qchart
 - /terms/qsort

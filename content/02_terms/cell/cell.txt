@@ -10,7 +10,7 @@ Text:
 
 A device that converts chemical energy into electrical energy. A (link: /terms/battery text: battery) is usually comprised of two or more interconnected cells.
 
-A cell is also a component of a (link: /terms/spreadsheet text: spreadsheet) document that can contain text labels, numeric values, or formulas. The (link: /terms/address text: address) of a spreadsheet (link: /terms/cell text: cell) corresponds to the column and the row where it is located. For example, the address for a cell in the first column of the second row is designated as A2.
+A cell is also a component of a (link: /terms/spreadsheet text: spreadsheet) document that can contain text labels, numeric values, or (link: /terms/formula text: formulas). The (link: /terms/address text: address) of a spreadsheet (link: /terms/cell text: cell) corresponds to the column and the row where it is located. For example, the address for a cell in the first column of the second row is designated as A2.
 
 ----
 
@@ -52,3 +52,4 @@ Related:
 Source:
 
 - /sources/techencyclopedia
+- /sources/quickfigure-works

@@ -8,7 +8,7 @@ Date: 23 November 2017
 
 Text:
 
-The document format (or (link: /terms/stationery text: stationery)) provided by the (link: /terms/quickfigure-works text: QuickFigure Works) component of the (link: /terms/newton-works text: Newton Works) application. A spreadsheet consists of rows and columns of (link: /terms/cell text: cells) and allows the user to store, analyze, manipulate, and calculate data such as numbers, formulas, and text.
+The document format (or (link: /terms/stationery text: stationery)) provided by the (link: /terms/quickfigure-works text: QuickFigure Works) component of the (link: /terms/newton-works text: Newton Works) application. A spreadsheet consists of rows and columns of (link: /terms/cell text: cells) and allows the user to store, analyze, manipulate, and calculate data such as numbers, (link: /terms/formulas text: formula), and text.
 
 When a new spreadsheet document is created, it is assigned the default title “(link: /terms/untitled-spreadsheet text: Untitled Spreadsheet)”, which can be changed in the (link: /terms/title slip text: title slip).
 
@@ -31,6 +31,8 @@ Related:
 - /terms/cell
 - /terms/data-entry-mode
 - /terms/drawing
+- /terms/formula
+- /terms/function
 - /terms/newton-works
 - /terms/paper
 - /terms/quickfigure-exchange

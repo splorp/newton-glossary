@@ -30,6 +30,8 @@ Related:
 - /terms/calculations
 - /terms/data-entry-mode
 - /terms/drawing
+- /terms/formula
+- /terms/function
 - /terms/graphing-calculator
 - /terms/newtworks
 - /terms/paper

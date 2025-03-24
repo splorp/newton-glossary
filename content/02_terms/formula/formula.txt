@@ -1,0 +1,40 @@
+Title: Formula
+
+----
+
+Date: 23 March 2025
+
+----
+
+Text:
+
+A sequence of values, (link: /terms/cell text: cell) addresses, (link: /terms/function text: functions), or operators entered into a (link: /terms/spreadsheet text: spreadsheet) that produces a new value from existing values.
+
+----
+
+Resource:
+
+- [The Newted Community: QuickFigure Works User’s Manual](https://www.newted.org/download/manuals/QuickFigureWorksUsersManual.pdf)
+
+----
+
+Related:
+
+- /terms/address
+- /terms/availworks
+- /terms/calculations
+- /terms/cell
+- /terms/data-entry-mode
+- /terms/function
+- /terms/newton-works
+- /terms/quickfigure-exchange
+- /terms/quickfigure-pro
+- /terms/quickfigure-works
+- /terms/workbook
+- /terms/worksheet
+
+----
+
+Source:
+
+- /sources/quickfigure-works

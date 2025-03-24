@@ -19,6 +19,8 @@ Related:
 - /terms/address
 - /terms/availworks
 - /terms/cell
+- /terms/formula
+- /terms/function
 - /terms/newton-works
 - /terms/quickfigure-exchange
 - /terms/quickfigure-pro

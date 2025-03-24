@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A software (link: /terms/part text: part) that contains a background (link: /terms/application text: application) or (link: /terms/extension text: extension) which is not accessed through an (link: /terms/icon text: icon) in the (link: /terms/extras-drawer text: Extras Drawer). Auto parts can include application (link: /terms/stationery text: stationery), formula or preference panels, (link: /terms/routing text: routing) formats, and communication (link: /terms/transport text: transports). Auto parts also have the option of being automatically removed after they are installed.
+A software (link: /terms/part text: part) that contains a background (link: /terms/application text: application) or (link: /terms/extension text: extension) which is not accessed through an (link: /terms/icon text: icon) in the (link: /terms/extras-drawer text: Extras Drawer). Auto parts can include application (link: /terms/stationery text: stationery), (link: /terms/formula text: formula) or preference panels, (link: /terms/routing text: routing) formats, and communication (link: /terms/transport text: transports). Auto parts also have the option of being automatically removed after they are installed.
 
 ----
 
