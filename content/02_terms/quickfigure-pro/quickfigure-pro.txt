@@ -35,6 +35,7 @@ Related:
 - /terms/formula
 - /terms/function
 - /terms/newton-works
+- /terms/operator
 - /terms/qf-pro
 - /terms/quickfigure
 - /terms/quickfigure-exchange

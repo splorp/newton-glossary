@@ -1,4 +1,4 @@
-Title: Formula
+Title: Operator
 
 ----
 
@@ -8,7 +8,7 @@ Date: 23 March 2025
 
 Text:
 
-A sequence of values, (link: /terms/cell text: cell) addresses, (link: /terms/function text: functions), or (link: /terms/operator text: operators) entered into a (link: /terms/spreadsheet text: spreadsheet) that produces a new value from existing values.
+A (link: /terms/character text: character) used to specify an arithmetic operation (such as addition, subtraction, multiplication, or division) that will be performed on values using a (link: /terms/formula text: formula) in a (link: /terms/spreadsheet text: spreadsheet) document.
 
 ----
 
@@ -25,9 +25,9 @@ Related:
 - /terms/calculations
 - /terms/cell
 - /terms/data-entry-mode
+- /terms/formula
 - /terms/function
 - /terms/newton-works
-- /terms/operator
 - /terms/quickfigure-exchange
 - /terms/quickfigure-pro
 - /terms/quickfigure-works

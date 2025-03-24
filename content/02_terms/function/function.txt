@@ -24,6 +24,7 @@ Related:
 - /terms/local
 - /terms/message
 - /terms/method
+- /terms/operator
 - /terms/receiver
 - /terms/spreadsheet
 - /terms/stack

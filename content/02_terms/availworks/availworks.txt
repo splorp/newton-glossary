@@ -29,6 +29,7 @@ Related:
 - /terms/formula
 - /terms/function
 - /terms/newton-works
+- /terms/operator
 - /terms/quickfigure-pro
 - /terms/quickfigure-works
 - /terms/spreadsheet

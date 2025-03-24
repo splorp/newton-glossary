@@ -23,8 +23,6 @@ Resource:
 
 Related:
 
-- /terms/address
-- /terms/cell
 - /terms/newton-works
 - /terms/qchart
 - /terms/qsort

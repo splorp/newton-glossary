@@ -33,6 +33,7 @@ Related:
 - /terms/formula
 - /terms/function
 - /terms/newton-works
+- /terms/operator
 - /terms/qchart
 - /terms/qsort
 - /terms/quickfigure-exchange

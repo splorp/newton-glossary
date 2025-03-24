@@ -10,6 +10,8 @@ Text:
 
 Any symbol or glyph that has a widely understood meaning and can convey information. Most characters — such as letters, numbers, and punctuation — can be displayed on the (link: /terms/screen text: screen), sent in an email message, transmitted in a fax, or (link: /terms/output text: output) on a printer.
 
+Specific characters are used as (link: /terms/operator text: operators) in a (link: /terms/spreadsheet text: spreadsheet) document.
+
 ----
 
 Related:
@@ -18,6 +20,7 @@ Related:
 - /terms/font-size
 - /terms/font-spec
 - /terms/font-style
+- /terms/operator
 - /terms/point
 - /terms/style-run
 - /terms/styles
