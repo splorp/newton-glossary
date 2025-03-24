@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A voluminous list of (link: /terms/newton-os text: Newton OS) and application specific (link: /terms/easter-egg text: easter eggs) compiled by [Oliver O. Fross](http://www.oliverfross.com/).
+A voluminous list of (link: /terms/newton-os text: Newton OS) and (link: /terms/application text: application) specific (link: /terms/easter-egg text: easter eggs) compiled by [Oliver O. Fross](http://www.oliverfross.com/).
 
 ----
 

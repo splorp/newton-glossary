@@ -8,7 +8,7 @@ Date: 19 January 2025
 
 Text:
 
-A Japanese application development and technical book publishing company founded by Yoshiyuki Hashimoto. Arguably best known for their (link: /terms/Hanabi text: Hanabi) utility for entering Hiragana (link: /terms/character text: characters) on a Newton device.
+A Japanese (link: /terms/application text: application) development and technical book publishing company founded by Yoshiyuki Hashimoto. Arguably best known for their (link: /terms/Hanabi text: Hanabi) utility for entering Hiragana (link: /terms/character text: characters) on a Newton device.
 
 ----
 

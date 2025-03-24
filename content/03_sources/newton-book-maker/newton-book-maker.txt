@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-Published by [Apple](https://www.apple.com/) in 1995, this is the manual for the (link: /terms/newton-book-maker text: Newton Book Maker) software, describing how to create digital books and application help for (link: /terms/newton-os text: Newton OS).
+Published by [Apple](https://www.apple.com/) in 1995, this is the manual for the (link: /terms/newton-book-maker text: Newton Book Maker) software, describing how to create digital books and (link: /terms/application text: application) help for (link: /terms/newton-os text: Newton OS).
 
 ----
 
