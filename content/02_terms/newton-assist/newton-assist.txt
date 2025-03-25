@@ -1,0 +1,29 @@
+Title: Newton Assist
+
+----
+
+Date: 24 March 2025
+
+----
+
+Text:
+
+A Newton-focused column written by Jeremy Templer that appeared in the Australian edition of (link: /sources/macworld text: Macworld Magazine). The last Newton Assist column was published in April 1998.
+
+----
+
+Resource:
+
+- [MacTech: Newton Q & A: Ask The Llama](https://preserve.mactech.com/articles/develop/issue_26/newtonqa.html)
+
+----
+
+Related:
+
+- /terms/ask-the-llama
+
+----
+
+Source:
+
+- /sources/macworld
