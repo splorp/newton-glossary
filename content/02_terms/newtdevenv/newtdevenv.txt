@@ -17,18 +17,23 @@ Also referred to as (link: /terms/nde text: NDE) and (link: /terms/newt text: Ne
 Resource:
 
 - [CommuniCrossings: NewtDevEnv Product Information](https://communicrossings.com/html/newton/newtdev.htm)
+- [CommuniCrossings: Building Newton Applications with Newt](https://communicrossings.com/html/newton/newtatut.htm)
+- [The Newted Community: Building Newton Applications with Newt](https://www.newted.org/download/manuals/NEWTATU6.PDF)
 
 ----
 
 Related:
 
-- /terms/nde
 - /terms/macintosh-programmers-workshop
+- /terms/nde
 - /terms/newt
 - /terms/newtapp
+- /terms/newtatut
+- /terms/newtdraw
 - /terms/newton-c-tools
 - /terms/newton-toolkit
 - /terms/newtonscript
+- /terms/newtturt
 - /terms/script
 
 ----

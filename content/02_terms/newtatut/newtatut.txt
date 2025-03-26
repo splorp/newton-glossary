@@ -1,0 +1,38 @@
+Title: NewtATut
+
+----
+
+Date: 26 March 2025
+
+----
+
+Text:
+
+Newt Application Tutorial
+
+A interactive (link: /terms/newton-book text: Newton book) created by (link: /sources/steve-weyer text: Steve Weyer) that describes how to develop a simple (link: /terms/application text: applications) directly on a Newton device using (link: /terms/newtonscript text: NewtonScript) and the (link: /terms/newtdevenv text: NewtDevEnv) application development framework.
+
+NewtATut is based on an article that first appeared in (link: /terms/pie-developers text: PIE Developers) magazine. 
+
+----
+
+Resource:
+
+- [CommuniCrossings: NewtATut](https://communicrossings.com/html/newton/newtpkgs.htm#NewtATut )
+- [CommuniCrossings: Building Newton Applications with Newt](https://communicrossings.com/html/newton/newtatut.htm)
+- [The Newted Community: Building Newton Applications with Newt](https://www.newted.org/download/manuals/NEWTATU6.PDF)
+
+----
+
+Related:
+
+- /terms/newtdevenv
+- /terms/newtdraw
+- /terms/newtonscript
+- /terms/newturt
+
+----
+
+Source:
+
+- /sources/steve-weyer

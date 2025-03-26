@@ -1,0 +1,37 @@
+Title: NewtDraw
+
+----
+
+Date: 25 March 2025
+
+----
+
+Text:
+
+A plugin for Steve Weyer’s (link: /terms/newtdevenv text: NewtDevEnv) application development framework that provides Turtle-style drawing functionality.
+
+Weyer also created (link: /terms/newtturt text: NewtTurT), an interactive tutorial explaining the use of the NewtDraw plugin.
+
+----
+
+Resource:
+
+- [CommuniCrossings: NewtDevEnv Plug-Ins](https://communicrossings.com/html/newton/regnewt/intro.htm#Plugins)
+- [CommuniCrossings: Newt Turtle Info](https://communicrossings.com/html/newton/newtdev/turtle.htm)
+- [CommuniCrossings: NewtTurT](https://communicrossings.com/html/newton/newtpkgs.htm#NewtTurT)
+- [CommuniCrossings: Turtle Graphics Programming with Newt](https://communicrossings.com/html/newton/newtturt.htm)
+- [The Newted Community: Turtle Graphics Programming with Newt](https://www.newted.org/download/manuals/NEWTTUR6.PDF)
+
+----
+
+Related:
+
+- /terms/newtatut
+- /terms/newtdevenv
+- /terms/newtturt
+
+----
+
+Source:
+
+- /sources/steve-weyer
