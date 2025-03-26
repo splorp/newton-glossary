@@ -1,0 +1,41 @@
+Title: Small Box
+
+----
+
+Date: 26 March 2025
+
+----
+
+Text:
+
+A miniature representation of an item that has been copied to the (link: /terms/clipboard text: clipboard).
+
+The box appears at the edge of the (link: /terms/screen text: screen) and displays (link: /terms/invert text: inverted) text or (link: /terms/ink-text text: ink text), depending on the content of the item on the clipboard.
+
+(image: /assets/images/small-box-2x.gif alt: Screenshot of a Small Box displaying part of the contents of the clipboard width: 320)
+
+Also referred to as a (link: /terms/miniature-box text: miniature box).
+
+A small box may also be displayed in a string of text if a particular (link: /terms/character text: character) does not have an equivalent ASCII representation in the current (link: /terms/font text: font).
+
+----
+
+Related:
+
+- /terms/character
+- /terms/clipboard
+- /terms/cliphoard
+- /terms/dark-box
+- /terms/darkened-box
+- /terms/hilite2000
+- /terms/miniature-box
+- /terms/options
+- /terms/tap-and-a-half
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
+- /sources/messagepad-2000-user-manual
+- /sources/newtsbug

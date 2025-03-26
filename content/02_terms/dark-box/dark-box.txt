@@ -1,4 +1,4 @@
-Title: Darkened Box
+Title: Dark Box
 
 ----
 
@@ -14,4 +14,4 @@ See: (link: /terms/highlight text: Highlight)
 
 Source:
 
-- /sources/emate-300-teachers-guide
+- /sources/newton-works-word-processor

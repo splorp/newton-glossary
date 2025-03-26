@@ -10,12 +10,13 @@ Text:
 
 To make something visually distinct, typically when text or a (link: /terms/control text: control) is (link: /terms/select text: selected). Usually indicated by reversing or (link: /terms/invert text: inverting) black and white areas.
 
-For example, if the user (link: /terms/select text: selects) a word on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen), the highlighted word will appear to have a (link: /terms/darkened-box text: darkened box) around it, distinguishing it from the unselected text.
+For example, if the user (link: /terms/select text: selects) a word on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen), the highlighted word will appear to have a (link: /terms/dark-box text: dark box) around it, distinguishing it from the unselected text.
 
 ----
 
 Related:
 
+- /terms/dark-box
 - /terms/darkened-box
 - /terms/deselect
 - /terms/heavy-mark

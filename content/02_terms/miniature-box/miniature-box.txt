@@ -8,24 +8,7 @@ Date: 30 January 2025
 
 Text:
 
-A small representation of an item that has been copied to the (link: /terms/clipboard text: clipboard).
-
-The box appears at the edge of the (link: /terms/screen text: screen) and displays (link: /terms/invert text: inverted) text or (link: /terms/ink-text text: ink text), depending on the content of the item on the clipboard.
-
-(image: /assets/images/miniature-box-2x.gif alt: Screenshot of a Miniature Box displaying part of the contents of the clipboard width: 320)
-
-Also referred to as a (link: /terms/darkened-box text: darkened box).
-
-----
-
-Related:
-
-- /terms/clipboard
-- /terms/cliphoard
-- /terms/darkened-box
-- /terms/hilite2000
-- /terms/options
-- /terms/tap-and-a-half
+See: (link: /terms/small-box text: Small Box)
 
 ----
 
