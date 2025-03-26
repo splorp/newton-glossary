@@ -20,6 +20,7 @@ Related:
 
 - /terms/card
 - /terms/company
+- /terms/default-title
 - /terms/name-file
 - /terms/untitled
 - /terms/untitled-group

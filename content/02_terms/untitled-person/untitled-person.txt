@@ -22,6 +22,7 @@ Related:
 
 - /terms/card
 - /terms/company
+- /terms/default-title
 - /terms/name-file
 - /terms/person
 - /terms/untitled

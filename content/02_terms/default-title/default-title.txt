@@ -1,0 +1,33 @@
+Title: Default Title
+
+----
+
+Date: 26 March 2025
+
+----
+
+Text:
+
+A predetermined name provided by the (link: /terms/operating-system text: operating system) or software program. The default title acts a placeholder until the user specifically names or describes a document, (link: /terms/event text: event), contact, or (link: /terms/note text: note) using either the (link: /terms/item-info-slip text: item info slip) or (link: /terms/title-slip text: title slip). In many cases, a default title will include the word “(link: /terms/untitled text: Untitled)”.
+
+----
+
+Related:
+
+- /terms/item-info-slip
+- /terms/title-slip
+- /terms/untitled
+- /terms/untitled-calculations
+- /terms/untitled-company
+- /terms/untitled-drawing
+- /terms/untitled-group
+- /terms/untitled-paper
+- /terms/untitled-person
+- /terms/untitled-spreadsheet
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/newton-programmers-reference

@@ -16,6 +16,7 @@ A (link: /terms/paper text: paper) document created in the (link: /terms/newton-
 
 Related:
 
+- /terms/default-title
 - /terms/newton-works
 - /terms/paper
 - /terms/title-slip

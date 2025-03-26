@@ -30,6 +30,7 @@ Related:
 - /terms/calculations
 - /terms/cell
 - /terms/data-entry-mode
+- /terms/default-title
 - /terms/drawing
 - /terms/formula
 - /terms/function

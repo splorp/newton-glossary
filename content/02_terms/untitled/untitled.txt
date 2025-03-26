@@ -10,7 +10,7 @@ Text:
 
 A (link: /terms/newton-works text: Newton Works) document that has not been assigned a title in the (link: /terms/title-slip text: title slip).
 
-For example, when a user creates a new (link: /terms/drawing text: drawing) document, the default title will be “(link: /terms/untitled-drawing text: Untitled Drawing)”. Similarly, the default title for a (link: /terms/word-processing-document text: word processing document) will be “(link: /terms/untitled-paper text: Untitled Paper)”.
+For example, when a user creates a new (link: /terms/drawing text: drawing) document, the (link: /terms/default-title text: default title) will be “(link: /terms/untitled-drawing text: Untitled Drawing)”. Similarly, the default title for a (link: /terms/word-processing-document text: word processing document) will be “(link: /terms/untitled-paper text: Untitled Paper)”.
 
 Also an entry in the (link: /terms/name-file text: Name File) for a (link: /terms/person text: person), (link: /terms/company text: company), or (link: /terms/group text: group) that has not been assigned a name.
 
@@ -22,6 +22,7 @@ Related:
 
 - /terms/calculations
 - /terms/company
+- /terms/default-title
 - /terms/drawing
 - /terms/group
 - /terms/name-file

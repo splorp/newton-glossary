@@ -19,6 +19,7 @@ An “Untitled Group” card will appear listed alphabetically under “U” in 
 Related:
 
 - /terms/card
+- /terms/default-title
 - /terms/group
 - /terms/name-file
 - /terms/untitled

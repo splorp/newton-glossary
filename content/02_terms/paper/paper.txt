@@ -29,6 +29,7 @@ Resource:
 Related:
 
 - /terms/calculations
+- /terms/default-title
 - /terms/drawing
 - /terms/newton-works
 - /terms/spreadsheet

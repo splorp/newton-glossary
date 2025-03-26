@@ -16,6 +16,7 @@ A (link: /terms/spreadsheet text: spreadsheet) document created in the (link: /t
 
 Related:
 
+- /terms/default-title
 - /terms/newton-works
 - /terms/spreadsheet
 - /terms/title-slip

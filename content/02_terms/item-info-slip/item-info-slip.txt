@@ -23,6 +23,7 @@ Also known as an (link: /terms/info-slip text: Info Slip).
 Related:
 
 - /terms/container-view
+- /terms/default-title
 - /terms/info-slip
 - /terms/item-info-button
 - /terms/memory-info-slip

@@ -26,6 +26,7 @@ Resource:
 Related:
 
 - /terms/calculations
+- /terms/default-title
 - /terms/draw-paper
 - /terms/newton-works
 - /terms/paper

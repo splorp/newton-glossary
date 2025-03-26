@@ -26,6 +26,7 @@ Resource:
 
 Related:
 
+- /terms/default-title
 - /terms/drawing
 - /terms/graphical-calculations
 - /terms/graphing-calculator
