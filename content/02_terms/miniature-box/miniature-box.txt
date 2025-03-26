@@ -14,12 +14,15 @@ The box appears at the edge of the (link: /terms/screen text: screen) and displa
 
 (image: /assets/images/miniature-box-2x.gif alt: Screenshot of a Miniature Box displaying part of the contents of the clipboard width: 320)
 
+Also referred to as a (link: /terms/darkened-box text: darkened box).
+
 ----
 
 Related:
 
 - /terms/clipboard
 - /terms/cliphoard
+- /terms/darkened-box
 - /terms/hilite2000
 - /terms/options
 - /terms/tap-and-a-half
