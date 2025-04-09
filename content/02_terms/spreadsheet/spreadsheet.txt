@@ -12,6 +12,8 @@ The document format (or (link: /terms/stationery text: stationery)) provided by 
 
 When a new spreadsheet document is created, it is assigned the default title “(link: /terms/untitled-spreadsheet text: Untitled Spreadsheet)”, which can be changed in the (link: /terms/title slip text: title slip).
 
+The Spreadsheet stationery is called (link: /terms/quickfigure-spreadsheet text: QuickFigure Spreadsheet) in the title slip.
+
 Also referred to as a (link: /terms/worksheet text: worksheet).
 
 ----
@@ -38,6 +40,7 @@ Related:
 - /terms/paper
 - /terms/quickfigure-exchange
 - /terms/quickfigure-pro
+- /terms/quickfigure-spreadsheet
 - /terms/quickfigure-works
 - /terms/stationery
 - /terms/title-slip
