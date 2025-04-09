@@ -6,7 +6,7 @@
 Kirby License
 ---------------------------------------
 
-http://getkirby.com/license
+https://getkirby.com/license
 
 */
 
@@ -28,6 +28,11 @@ return [
 	'cache' => [
 		'pages' => [
 			'active' => true
+		]
+	],
+	'panel' => [
+		'vue' => [
+			'compiler' => false
 		]
 	],
 	'kirbytext' => [
