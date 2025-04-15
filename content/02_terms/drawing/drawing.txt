@@ -10,6 +10,8 @@ Text:
 
 The document format (or (link: /terms/stationery text: stationery)) used by the drawing component of the (link: /terms/newton-works text: Newton Works) application.
 
+(image: /assets/images/drawing-2x.gif alt: Screenshot of a Drawing document in Newton Works width: 482)
+
 When a new drawing document is created, it is assigned the default title “(link: /terms/untitled-drawing text: Untitled Drawing)”, which can be changed in the (link: /terms/title slip text: title slip).
 
 For some reason, the Drawing stationery is called (link: /terms/draw-paper text: Draw Paper) in the title slip.
