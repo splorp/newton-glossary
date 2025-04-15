@@ -18,14 +18,20 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the (link: /latest text: Latest Additions) page.
 
-### _$v
+### 4.5.0
 
-Terms: _$t
-Sources: _$s
+15 April 2025
+
+Terms: 1,753
+Sources: 197
 
 #### Summary of changes:
 
-+ Updated [Kirby](https://getkirby.com/) to version [4.6.1](https://github.com/getkirby/kirby/releases/tag/4.6.1)
++ Added 80 new terms
++ Added 4 new sources
++ Updated and expanded hundreds of existing entries
++ Increased the number of recent entries displayed on the (link: /latest text: Latest Additions) page
++ Updated [Kirby](https://getkirby.com/) to version [4.7.0](https://github.com/getkirby/kirby/releases/tag/4.7.0)
 
 ### 4.4.0
 
