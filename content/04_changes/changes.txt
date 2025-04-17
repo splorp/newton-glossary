@@ -18,6 +18,15 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the (link: /latest text: Latest Additions) page.
 
+### _$v
+
+Terms: _$t
+Sources: _$s
+
+#### Summary of changes:
+
++ Implemented [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) for more robust handling of AI content scrapers
+
 ### 4.5.0
 
 15 April 2025
@@ -183,7 +192,7 @@ Sources: 149
 + Fixed an issue when displaying terms that share the same spelling
 + Expanded the [Open Graph](https://ogp.me/) meta tags
 + Removed support for [Twitter Cards](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started)
-+ Updated the robots meta tag to exclude machine learning bots
++ Updated the robots meta tag to exclude AI content scrapers
 + Updated [Kirby](https://getkirby.com/) to version [4.1.2](https://github.com/getkirby/kirby/releases/tag/4.1.2)
 + Updated [Kirby Redirects](https://github.com/bnomei/kirby3-redirects) plugin to version [4.2.0](https://github.com/bnomei/kirby3-redirects/releases/tag/v4.2.0)
 + Updated [Alphabetise](https://github.com/splorp/kirby-alphabetise) plugin to version [0.1.3](https://github.com/splorp/kirby-alphabetise/releases/tag/0.1.3)
@@ -214,7 +223,7 @@ Sources: 146
 + Added 6 new sources
 + Updated and expanded dozens of existing entries
 + Added descriptions to the (link: /latest/feed text: RSS feed) for the (link: /latest text: Latest Additions) page
-+ Updated the (link: /robots.txt text: robots.txt) file to exclude machine learning bots
++ Updated the (link: /robots.txt text: robots.txt) file to exclude AI content scrapers
 + Updated [Kirby](https://getkirby.com/) to version [3.10.0](https://github.com/getkirby/kirby/releases/tag/3.10.0) for [PHP 8.3](https://www.php.net/releases/8.3/en.php) support
 
 ### 3.1.1
@@ -610,7 +619,7 @@ Sources: 49
 + Added 51 new terms
 + Added 4 new sources
 + Updated and expanded numerous existing entries
-+ Not released publicly
++ Not released to the public
 
 ### 1.0.4
 
@@ -713,4 +722,4 @@ Sources: 23
 
 #### Summary of changes:
 
-+ Not released publicly
++ Not released to the public
