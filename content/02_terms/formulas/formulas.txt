@@ -1,0 +1,30 @@
+Title: Formulas
+
+----
+
+Date: 04 May 2025
+
+----
+
+Text:
+
+The built-in (link: /terms/application text: application) that performs measurement conversions and other specialized calculations. These include converting metric units to imperial units, calculating loan payments and net present value, determining currency exchange rates, and various date related conversions.
+
+(image: /assets/images/formulas-2x.gif alt: Screenshot of the Formulas application width: 240)
+
+----
+
+Related:
+
+- /terms/calculations
+- /terms/calculator
+- /terms/formula
+- /terms/graphing-calculator
+- /terms/numeric
+- /terms/spreadsheet
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

@@ -26,11 +26,15 @@ Resource:
 
 Related:
 
+- /terms/calculator
 - /terms/default-title
 - /terms/drawing
+- /terms/formula
+- /terms/formulas
 - /terms/graphical-calculations
 - /terms/graphing-calculator
 - /terms/newton-works
+- /terms/operator
 - /terms/paper
 - /terms/spreadsheet
 - /terms/stationery

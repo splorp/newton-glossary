@@ -23,8 +23,10 @@ Related:
 - /terms/address
 - /terms/availworks
 - /terms/calculations
+- /terms/calculator
 - /terms/cell
 - /terms/data-entry-mode
+- /terms/formulas
 - /terms/function
 - /terms/newton-works
 - /terms/operator

@@ -32,11 +32,13 @@ Related:
 - /terms/address
 - /terms/availworks
 - /terms/calculations
+- /terms/calculator
 - /terms/cell
 - /terms/data-entry-mode
 - /terms/default-title
 - /terms/drawing
 - /terms/formula
+- /terms/formulas
 - /terms/function
 - /terms/newton-works
 - /terms/paper

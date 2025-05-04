@@ -1,0 +1,33 @@
+Title: Calculator
+
+----
+
+Date: 04 May 2025
+
+----
+
+Text:
+
+The built-in (link: /terms/application text: application) that performs simple arithmatic and calculations. Information can be copied to the (link: /terms/clipboard text: clipboard) to be used in other applications.
+
+More advanced calculations can be performed using the (link: /terms/graphing-calculator text: Graphing Calculator) in the (link: /terms/newton-works text: Newton Works) application.
+
+(image: /assets/images/calculator-2x.gif alt: Screenshot of the Calculator application width: 186)
+
+----
+
+Related:
+
+- /terms/calculations
+- /terms/formula
+- /terms/formulas
+- /terms/graphing-calculator
+- /terms/numeric
+- /terms/operator
+- /terms/spreadsheet
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
