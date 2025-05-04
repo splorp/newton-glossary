@@ -8,7 +8,7 @@ Date: 19 January 2024
 
 Text:
 
-The code name of the unreleased Japanese version of the (link: /terms/expertpad text: ExpertPad), a Newton device developed by Sharp Electronics.
+The code name of the unreleased Japanese version of the (link: /terms/expertpad text: ExpertPad), a Newton device developed by (link: /terms/sharp text: Sharp).
 
 A third-party device that utilizes a licensed version of (link: /terms/newton-os text: Newton OS) is commonly referred to as a (link: /terms/clone text: clone).
 
@@ -26,6 +26,7 @@ Related:
 
 - /terms/clone
 - /terms/expertpad
+- /terms/sharp
 
 ----
 

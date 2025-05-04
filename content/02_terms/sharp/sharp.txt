@@ -1,0 +1,23 @@
+Title: Sharp
+
+----
+
+Date: 04 May 2025
+
+----
+
+Text:
+
+A Japanese electronics company that manufactured several Newton devices for [Apple](https://www.apple.com/), including the (link: /terms/original-messagepad text: Original MessagePad) and (link: /terms/messagepad-2000 text: MessagePad 2000).
+
+Sharp produced two versions of the (link: /terms/expertpad text: ExpertPad), their own take on a (link: /terms/pda text: PDA) running (link: /terms/newton-os text: Newton OS).
+
+The company was also responsible for developing the ASK (link: /terms/infrared text: infrared) communication (link: /terms/protocol text: protocol) used in early Newton devices.
+
+----
+
+Related:
+
+- /terms/ask
+- /terms/expertpad
+- /terms/galileo

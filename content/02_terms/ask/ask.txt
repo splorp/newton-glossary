@@ -10,7 +10,7 @@ Text:
 
 Amplitude Shift Keying
 
-An (link: /terms/infrared text: infrared) communication (link: /terms/protocol text: protocol) developed by Sharp and used in early Newton devices, including the (link: /terms/original-messagepad text: Original MessagePad), (link: /terms/messagepad-100 text: MessagePad 100), (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), and (link: /terms/messagepad-130 text: MessagePad 130). The ASK protocol is not compatible with the more common (link: /terms/irda text: IrDA) standard, which was implemented in the (link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagepad-2100 text: MessagePad 2100), and (link: /terms/emate-300 text: eMate 300).
+An (link: /terms/infrared text: infrared) communication (link: /terms/protocol text: protocol) developed by (link: /terms/sharp text: Sharp) and used in early Newton devices, including the (link: /terms/original-messagepad text: Original MessagePad), (link: /terms/messagepad-100 text: MessagePad 100), (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), and (link: /terms/messagepad-130 text: MessagePad 130). The ASK protocol is not compatible with the more common (link: /terms/irda text: IrDA) standard, which was implemented in the (link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagepad-2100 text: MessagePad 2100), and (link: /terms/emate-300 text: eMate 300).
 
 Also referred to as (link: /terms/sharp-ask text: Sharp ASK) and (link: /terms/sharpir text: SharpIR).
 
@@ -28,6 +28,7 @@ Related:
 - /terms/newtir
 - /terms/protocol
 - /terms/serial-infrared
+- /terms/sharp
 - /terms/sharp-ask
 - /terms/sharpir
 - /terms/slow-infrared
