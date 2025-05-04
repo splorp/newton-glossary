@@ -10,6 +10,8 @@ Text:
 
 The built-in (link: /terms/application text: application) which provides an interactive means to practice and adapt your writing style in order to improve (link: /terms/handwriting-recognition text: handwriting recognition).
 
+(image: /assets/images/writing-practice-2x.gif alt: Screenshot of the Writing Practice application width: 236)
+
 ----
 
 Related:
