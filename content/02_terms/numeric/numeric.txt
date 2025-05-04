@@ -8,7 +8,7 @@ Date: 31 August 2017
 
 Text:
 
-An onscreen (link: /terms/keyboard text: keyboard) that appears when the (link: /terms/keyboard-button text: keyboard button) is (link: /terms/tapped text: tapped). The numeric keyboard is designed for easily entering numbers and calculations into (link: /terms/application text: applications) such as as (link: /terms/newton-works text: Newton Works). Several other onscreen keyboards are available for entering specific types of data, including (link: /terms/typewriter text: Typewriter), (link: /terms/phone text: Phone), and (link: /terms/time-date text: Time/Date).
+An onscreen (link: /terms/keyboard text: keyboard) that appears when the (link: /terms/keyboard-button text: keyboard button) is (link: /terms/tapped text: tapped). The numeric keyboard is designed for easily entering numbers and (link: /terms/operator text: operators) into (link: /terms/application text: applications) that perform calculations such as (link: /terms/newton-works text: Newton Works). Several other onscreen keyboards are available for entering specific types of data, including (link: /terms/typewriter text: Typewriter), (link: /terms/phone text: Phone), and (link: /terms/time-date text: Time/Date).
 
 (image: /assets/images/numeric-2x.gif alt: Screenshot of the Numeric Keyboard width: 122)
 

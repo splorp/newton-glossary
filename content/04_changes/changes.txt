@@ -25,6 +25,7 @@ Sources: _$s
 
 #### Summary of changes:
 
++ Added new terms
 + Implemented [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) for more robust handling of AI content scrapers
 
 ### 4.5.0
@@ -697,7 +698,7 @@ Sources: 31
 + Added 38 new terms
 + Added 6 new sources
 + Updated and expanded numerous existing entries
-+ Not released publicly
++ Not released to the public
 
 ### 1.0.0b2
 
