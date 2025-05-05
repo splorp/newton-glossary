@@ -25,6 +25,7 @@ Related:
 - /terms/isp
 - /terms/login-script
 - /terms/logout-script
+- /terms/mnp
 - /terms/modeminos
 - /terms/newton-fax-modem
 - /terms/prefs

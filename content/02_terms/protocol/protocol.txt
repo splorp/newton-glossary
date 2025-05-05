@@ -31,6 +31,7 @@ Related:
 - /terms/localtalk
 - /terms/mbed-tls
 - /terms/mime
+- /terms/mnp
 - /terms/newtir
 - /terms/obex
 - /terms/pop

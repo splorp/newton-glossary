@@ -1,0 +1,34 @@
+Title: LlamaTalk
+
+----
+
+Date: 05 May 2025
+
+----
+
+Text:
+
+An (link: /terms/application text: application) that demonstrated communication between a (link: /terms/newton-os text: Newton OS) device and Mac OS using (link: /terms/adsp text: ADSP) or (link: /terms/mnp text: MNP) networking (link: /terms/protocol text: protocols).
+
+LlamaTalk was supplied as (link: /terms/newtonscript text: NewtonScript) sample code by [Apple](https://www.apple.com/) through (link: /terms/pie-developers text: PIE Developers) magazine.
+
+----
+
+Resource:
+
+- [UNNA: LlamaTalk Sample Code](http://www.unna.org/unna/apple/development/Examples/SampleCodeMac/Basic%20LlamaTalk-1.sea.hqx)
+
+----
+
+Related:
+
+- /terms/adsp
+- /terms/mnp
+- /terms/newtonscript
+- /terms/protollama
+
+----
+
+Source:
+
+- /sources/newton-technology-journal

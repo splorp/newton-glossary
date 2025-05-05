@@ -21,6 +21,7 @@ Related:
 - /terms/internet-setup
 - /terms/local-area-network
 - /terms/localtalk
+- /terms/mnp
 - /terms/network-interface-card
 - /terms/newton-internet-enabler
 - /terms/protocol

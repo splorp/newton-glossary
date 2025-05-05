@@ -1,0 +1,31 @@
+Title: MNP
+
+----
+
+Date: 05 May 2025
+
+----
+
+Text:
+
+Microcom Networking Protocol
+
+A suite of error correction and data compression (link: /terms/protocol text: protocols) commonly used in early high speed (link: /terms/modem text: modems).
+
+----
+
+Related:
+
+- /terms/adsp
+- /terms/appletalk
+- /terms/ethertalk
+- /terms/llamatalk
+- /terms/localtalk
+- /terms/modem
+- /terms/protocol
+
+----
+
+Source:
+
+- /sources/techencyclopedia

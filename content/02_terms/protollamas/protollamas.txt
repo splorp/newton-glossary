@@ -1,0 +1,36 @@
+Title: ProtoLlamas
+
+----
+
+Date: 05 May 2025
+
+----
+
+Text:
+
+A zoomorphic reference to a programming term used in (link: /terms/newton-os text: Newton OS) sample code.
+
+The sentence _“ProtoLlamas graze in their (link: /terms/slot text: slots) and data bubbles away in multiple (link: /terms/soup text: soups).”_ is from a 1994 article written by John Cartan for (link: /sources/wired text: Wired Magazine).
+
+In (link: /terms/newtonscript text: NewtonScript), `protoLlamaTalk` is a (link: /terms/user-proto text: user proto) containing the main (link: /terms/protocol text: protocol) source and data structures used by the (link: /terms/llamatalk text: LlamaTalk) sample code originally supplied through the (link: /terms/pie-developers text: PIE Developers) magazine.
+
+----
+
+Resource:
+
+- [Wired: How To Hack the Newton](https://web.archive.org/web/20210728053028/https://www.wired.com/1994/04/how-to-hack-the-newton/)
+
+----
+
+Related:
+
+- /terms/llamatalk
+- /terms/newtonscript
+- /terms/proto
+- /terms/user-proto
+
+----
+
+Source:
+
+- /sources/wired

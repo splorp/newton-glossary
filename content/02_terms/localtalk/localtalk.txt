@@ -20,6 +20,7 @@ Related:
 - /terms/ethertalk
 - /terms/internet-setup
 - /terms/local-area-network
+- /terms/mnp
 - /terms/newton-internet-enabler
 - /terms/phonenet
 - /terms/protocol
