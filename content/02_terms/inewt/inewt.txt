@@ -1,0 +1,44 @@
+Title: iNewt
+
+----
+
+Date: 05 May 2025
+
+----
+
+Text:
+
+An project instigated by (link: /sources/charles-mangin text: Charles Mangin) to modify a (link: /terms/messagepad-2000 text: MessagePad 2000), creating “a rounder, more friendly” device with a bright white finish. Later the iNewt project evolved into the concept of modifying a MessagePad 2000 case to enclose an iPhone.
+
+Also referred to as (link: /terms/the-great-white-newt text: The Great White Newt) and (link: /terms/inewton text: iNewton).
+
+iNewt is also a tongue in cheek reference to the rumoured [Apple](https://www.apple.com/) tablet computer prior to the introduction of what would become known as the iPad.
+
+----
+
+Resource:
+
+- [Flickr: Charles Mangin’s iNewt](https://www.flickr.com/photos/charles_mangin/albums/72157624835706634/)
+- [Newton Traveler: The Great White Newt](https://web.archive.org/web/20030417160325/http://www.newtontraveler.com/white.html)
+- [NewtonTalk: The Apple Tablet (aka iNewt) saga](https://www.newtontalk.net/archive/newtontalk/2009-November/038849.html)
+- [The Register: Apple pen-tablet plan revives Newtonian handwriting](https://www.theregister.com/2009/11/13/apple_pen_tablet_patent_filing/)
+
+----
+
+Related:
+
+- /terms/blueberry-frozen
+- /terms/frozen-ghost
+- /terms/frozen-newton
+- /terms/inewton
+- /terms/messagepad-2000
+- /terms/newton-aluminum-shell-project
+- /terms/the-great-white-newt
+- /terms/the-incredible-shrinking-newt
+
+----
+
+Source:
+
+- /sources/charles-mangin
+- /sources/newtontalk

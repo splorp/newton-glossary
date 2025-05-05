@@ -1,0 +1,20 @@
+Title: Charles Mangin
+
+----
+
+Date: 05 May 2025
+
+----
+
+Text:
+
+Mangin is a retrocomputing enthusiast and self-proclaimed “Mac Nerd”, best known within the Newton community for his (link: /terms/the-incredible-shrinking-newt text: iNewt) project.
+
+----
+
+Resource:
+
+- [Newton Traveler Website](https://web.archive.org/web/20030217185756/http://www.newtontraveler.com/)
+- [Flickr: Charles Mangin](https://www.flickr.com/photos/charles_mangin/)
+- [GitHub: Charles Mangin](https://github.com/option8)
+- [Mastodon: Option8](https://oldbytes.space/@Option8)
