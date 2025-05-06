@@ -17,7 +17,7 @@ Also referred to as (link: /terms/GOD text: G.O.D.) and (link: /terms/the-grip t
 Resource:
 
 - [UNNA: Newton Technology Journal: Surviving the Grip](http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal/NTJ_3_02.pdf)
-- [UNNA: Double-Tap Magazine: Newton Still Needs the Card](http://www.unna.org/view.php?/apple/documentation/developer/Articles/NewtonStillNeedsTheCard.rtf)
+- [The Newted Community: “Newton still needs the card you removed.”](https://www.newted.org/download/manuals/Newton_Still_Needs_The_Card_You_Removed.pdf)
 
 ----
 
