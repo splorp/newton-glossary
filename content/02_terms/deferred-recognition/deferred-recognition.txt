@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The process of recognizing an (link: /terms/ink-word text: ink word) that was drawn by the user at an earlier time. Usually initiated when the user (link: /terms/double-tap text: double taps) on an ink word. Deferred recognition was introduced with (link: /terms/newton-os text: Newton OS) 1.3.
+The process of recognizing an (link: /terms/ink-word text: ink word) that was drawn by the user at an earlier time. Usually initiated when the user (link: /terms/double-tap text: double-taps) on an ink word. Deferred recognition was introduced with (link: /terms/newton-os text: Newton OS) 1.3.
 
 ----
 

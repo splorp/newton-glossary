@@ -16,7 +16,7 @@ Resource:
 
 - [Newton Inc. Website: Newton Tools](https://web.archive.org/web/19980529084336/http://www.newton-inc.com/dev/othertoolsdl.html)
 - [UNNA: Newton Technology Journal: Surviving the Grip](http://www.unna.org/view.php?/apple/documentation/developer/NewtonTechnologyJournal/NTJ_3_02.pdf)
-- [UNNA: Double Tap Magazine: Newton Still Needs the Card](http://www.unna.org/view.php?apple/documentation/developer/Articles/NewtonStillNeedsTheCard.rtf)
+- [UNNA: Double-Tap Magazine: Newton Still Needs the Card](http://www.unna.org/view.php?/apple/documentation/developer/Articles/NewtonStillNeedsTheCard.rtf)
 
 ----
 
