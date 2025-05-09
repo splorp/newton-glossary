@@ -14,7 +14,7 @@ A communication (link: /terms/protocol text: protocol) that allows the (link: /t
 
 SLIP was superceded by (link: /terms/ppp text: PPP).
 
-For the user interface element, see (link: /terms/slip text: Slip).
+For the (link: /terms/user-interface text: user interface) element, see (link: /terms/slip text: Slip).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A button used in (link: /terms/application text: applications) to invoke (link: /terms/routing text: routing) functions. When (link: /terms/tapped text: tapped), it displays an (link: /terms/action-picker text: action picker) listing the various routing actions available for the current item.
+A (link: /terms/button text: button) used in (link: /terms/application text: applications) to invoke (link: /terms/routing text: routing) functions. When (link: /terms/tapped text: tapped), it displays an (link: /terms/action-picker text: action picker) listing the various routing actions available for the current item.
 
 Also referred to as an (link: /terms/envelope-button text: Envelope Button) or (link: /terms/routing-button text: Routing Button).
 

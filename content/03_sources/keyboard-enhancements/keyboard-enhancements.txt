@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-This supplement presents user interface guidelines for the enhanced keyboard features in (link: /terms/newton-os text: Newton OS) 2.1.
+This supplement presents (link: /terms/user-interface text: user interface) guidelines for the enhanced keyboard features in (link: /terms/newton-os text: Newton OS) 2.1.
 
 ----
 

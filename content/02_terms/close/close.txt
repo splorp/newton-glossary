@@ -18,7 +18,6 @@ Related:
 - /terms/close-box
 - /terms/container-view
 - /terms/large-close-box
-- /terms/x
 
 ----
 
