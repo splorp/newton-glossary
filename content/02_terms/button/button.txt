@@ -22,6 +22,7 @@ Related:
 - /terms/button-provider
 - /terms/close-box
 - /terms/corrector-button
+- /terms/default-button
 - /terms/dictionary-button
 - /terms/edit-notes
 - /terms/envelope-button

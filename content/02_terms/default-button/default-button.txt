@@ -1,0 +1,31 @@
+Title: Default Button
+
+----
+
+Date: 09 May 2025
+
+----
+
+Text:
+
+A (link: /terms/button text: button) or (link: /terms/close-box text: close box) in a (link: /terms/slip text: slip) that is differentiated by heavy black lines above and below the button. This visual distinction only appears in (link: /terms/newton-os text: Newton OS) 2.1 when a physical keyboard such as the (link: /terms/newton-keyboard text: Newton keyboard) is connected to the Newton device.
+
+Pressing the Return key on the keyboard performs the same action as (link: /terms/tapping text: tapping) a default button.
+
+(image: /assets/images/default-button-2x.gif alt: Screenshot of a Default Button in a slip width: 320)
+
+----
+
+Related:
+
+- /terms/button
+- /terms/close-box
+- /terms/newton-keyboard
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/keyboard-enhancements
