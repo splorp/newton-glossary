@@ -46,6 +46,7 @@ Related:
 - /terms/emate-1000
 - /terms/emate-3000
 - /terms/floppy-lid
+- /terms/full-newton-system
 - /terms/goosebumps-vomit-green
 - /terms/k
 - /terms/k-diags

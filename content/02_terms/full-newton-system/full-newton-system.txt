@@ -1,0 +1,33 @@
+Title: Full Newton System
+
+----
+
+Date: 12 May 2025
+
+----
+
+Text:
+
+A mode of operation on an (link: /terms/emate-300 text: eMate 300) that makes all features and (link: /terms/application text: applications) available to a single user. This mode is specified using the (link: /terms/teacher-setup text: Teacher Setup) application.
+
+The alternative to Full Newton System mode is (link: /terms/classroom-mode text: Classroom Mode) which is typically used where multiple users are accessing the same device.
+
+(image: /assets/images/full-newton-system-2x.gif alt: Screenshot of the Teacher Setup application with Full Newton System selected width: 236)
+
+----
+
+Related:
+
+- /terms/base-classroom-state
+- /terms/classroom-dock
+- /terms/classroom-exchange
+- /terms/classroom-mode
+- /terms/dock-options
+- /terms/emate-300
+- /terms/teacher-setup
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
