@@ -18,7 +18,6 @@ Related:
 - /terms/close
 - /terms/close-box
 - /terms/user-interface
-- /terms/x
 
 ----
 
