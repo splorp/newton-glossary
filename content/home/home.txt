@@ -14,4 +14,6 @@ Text:
 
 Since its humble beginnings in 2001, the Newton Glossary has grown into one of most comprehensive collections of terms, definitions, acronyms, colloquialisms, and other bits of trivia relating to the Apple Newton.
 
+The glossary currently includes _$t (link: /terms text: terms) and _$s (link: /sources text: sources).
+
 This is a work in progress. Mind your head.
