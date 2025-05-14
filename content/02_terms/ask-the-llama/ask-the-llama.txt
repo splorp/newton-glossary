@@ -25,6 +25,7 @@ Related:
 - /terms/llama
 - /terms/llamados
 - /terms/newton-assist
+- /terms/newton-notes
 - /terms/newton-systems-group
 
 ----

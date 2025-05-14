@@ -1,0 +1,29 @@
+Title: Newton Notes
+
+----
+
+Date: 14 May 2025
+
+----
+
+Text:
+
+A column focused on the Newton platform written by David MacNeill. The column began in September 1993 and continued until February 1999, appearing is several publications, including _Pen Computing_, _Mac Monthly_, and _On The Go Magazine_.
+
+----
+
+Resource:
+
+- [Pen Computing: Newton Notes Archive](https://www.pencomputing.com/Newton/)
+
+----
+
+Related:
+
+- /terms/ask-the-llama
+
+----
+
+Source:
+
+- /sources/pen-computing
