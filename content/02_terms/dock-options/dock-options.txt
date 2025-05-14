@@ -27,6 +27,7 @@ Related:
 - /terms/classroom-dock
 - /terms/classroom-exchange
 - /terms/classroom-mode
+- /terms/classroom-options
 - /terms/connection
 - /terms/dock
 - /terms/docking

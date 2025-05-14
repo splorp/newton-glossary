@@ -22,6 +22,7 @@ Related:
 - /terms/base-classroom-state
 - /terms/classroom-exchange
 - /terms/classroom-mode
+- /terms/classroom-options
 - /terms/connection
 - /terms/dock
 - /terms/dock-options

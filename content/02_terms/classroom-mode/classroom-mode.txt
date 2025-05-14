@@ -21,6 +21,7 @@ Related:
 - /terms/base-classroom-state
 - /terms/classroom-dock
 - /terms/classroom-exchange
+- /terms/classroom-options
 - /terms/dock-options
 - /terms/emate-300
 - /terms/full-newton-system
