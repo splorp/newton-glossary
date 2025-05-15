@@ -1,4 +1,4 @@
-Title: Simple
+ Title: Simple
 
 ----
 
@@ -10,7 +10,7 @@ Text:
 
 A proportionally spaced sans serif typeface based on (link: /terms/geneva text: Geneva). Simple is one of the default bitmap (link: /terms/font text: fonts) included in (link: /terms/newton-os text: Newton OS).
 
-(image: /assets/images/simple-2x.gif alt: Screenshot showing various sizes of the Simple bitmap font width: 246)
+(image: /assets/images/simple-2x-n.gif alt: Screenshot showing various sizes of the Simple bitmap font width: 240)
 
 ----
 
