@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A consumer product developed by [Apple](https://www.apple.com/) that included the (link: /terms/newton-connection text: Newton Connection) software, a serial cable, and related documentation for connecting Newton devices to Mac OS and Windows computers, allowing the user to exchange and (link: /terms/synchronize text: synchronize) information with common desktop (link: /terms/application text: applications).
+A consumer product developed by [Apple](https://www.apple.com/) that included the (link: /terms/newton-connection text: Newton Connection) software, a (link: /terms/newton-serial-cable text: Newton serial cable), and related documentation for connecting Newton devices to Mac OS and Windows computers, allowing the user to exchange and (link: /terms/synchronize text: synchronize) information with common desktop (link: /terms/application text: applications).
 
 When first released, there were two versions of the Newton Connection Kit. The original Newton Connection Kit provided the means to backup data and install packages. The (link: /terms/newton-connection-pro-kit text: Newton Connection Pro Kit) added support for data import and export. The two products were later combined into a single kit to eliminate some confusion.
 
@@ -38,6 +38,7 @@ Related:
 - /terms/newton-connection-pro-kit
 - /terms/newton-connection-utilities
 - /terms/newton-package-installer
+- /terms/newton-serial-cable
 - /terms/nwt
 - /terms/package-installer
 - /terms/synchronize

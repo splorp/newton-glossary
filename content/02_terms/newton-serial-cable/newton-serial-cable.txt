@@ -1,0 +1,25 @@
+Title: Newton Serial Cable
+
+----
+
+Date: 20 May 2025
+
+----
+
+Text:
+
+A cable sold by [Apple](https://www.apple.com/) for connecting a Newton device to a Mac OS or Windows computer via the serial connector. Different cables were available for each platform, the Mac OS cable featuring a (link: /terms/mini-din text: Mini-DIN) connector and the Windows version sporting a D-sub connector.
+
+Newton serial cables were included as part of the (link: /terms/newton-connection-kit text: Newton Connection Kit).
+
+----
+
+Related:
+
+- /terms/newton-connection-kit
+
+----
+
+Source:
+
+- /sources/newton-connection-kit
