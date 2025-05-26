@@ -8,13 +8,14 @@ Date: 28 May 2024
 
 Text:
 
-Software developed by Dr David Fong that allows the user to install (link: /terms/package text: packages) on a Newton device using a computer running Amiga OS without the need of a Mac OS emulator.
+Software developed by [David Fong](https://www.davidfong.org/) that allows the user to install (link: /terms/package text: packages) on a Newton device using a computer running Amiga OS.
 
 ----
 
 Resource:
 
 - [Aminet: AmigaNPI](https://aminet.net/package/misc/emu/AmigaNPI)
+- [AmigaNPI 1.4 Release Notes](https://web.archive.org/web/20001015070728/http://users.bigpond.com/vkelim/newton_AmigaNPI.html)
 
 ----
 
