@@ -24,6 +24,7 @@ Related:
 - /terms/gnuton
 - /terms/leibniz
 - /terms/newton-os
+- /terms/poor-mans-newton
 
 ----
 

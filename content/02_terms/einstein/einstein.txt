@@ -27,6 +27,7 @@ Related:
 - /terms/green
 - /terms/leibniz
 - /terms/newton-os
+- /terms/poor-mans-newton
 - /terms/unarmed
 - /terms/undo-overview
 - /terms/wilma

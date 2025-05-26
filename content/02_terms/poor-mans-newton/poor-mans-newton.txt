@@ -1,0 +1,36 @@
+Title: Poor Man’s Newton
+
+----
+
+Date: 26 May 2025
+
+----
+
+Text:
+
+A [HyperCard](https://hypercard.org/) stack created by Joseph Cicinelli that simulated some of the features found in Newton OS, such as storing contacts in the (link: /terms/name-file text: Name File), adding notes to the (link: /terms/notepad text: Notepad), and viewing a (link: /terms/mini-calendar text: Mini-Calendar) as found in the (link: /terms/date-book text: Date Book) application.
+
+(image: /assets/images/poor-mans-newton-2x.gif alt: Screenshot of the Poor Man’s Newton HyperCard stack width: 365)
+
+----
+
+Resource:
+
+- [Newton Poetry: Poor Man’s Newton: MessagePad emulator on your Classic Mac](http://newtonpoetry.com/2009/02/02/poor-mans-newton-messagepad-emulator-on-your-classic-mac/)
+- [UNNA: Poor Man’s Newton](http://www.unna.org/unna/macos/PoorMansNewton1.4.sit)
+
+----
+
+Related:
+
+- /terms/einstein
+- /terms/gnuton
+- /terms/green
+- /terms/leibniz
+- /terms/newton-os
+
+----
+
+Source:
+
+- /sources/newton-poetry
