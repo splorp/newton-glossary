@@ -18,15 +18,20 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the (link: /latest text: Latest Additions) page.
 
-### _$v
+### 4.5.1
 
-Terms: _$t
-Sources: _$s
+27 May 2025
+
+Terms: 1,768
+Sources: 198
 
 #### Summary of changes:
 
-+ Added new terms
++ Added new 15 terms
++ Added new 1 source
++ The home page now features the current number of (link: /terms text: Terms) and (link: /sources text: Sources)
 + Implemented [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) for more robust handling of AI content scrapers
++ Updated [Kirby](https://getkirby.com/) to version [4.7.2](https://github.com/getkirby/kirby/releases/tag/4.7.2)
 
 ### 4.5.0
 
