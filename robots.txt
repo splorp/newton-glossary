@@ -1,6 +1,6 @@
 # robots.txt
 # newtonglossary.com
-# updated 05 April 2025
+# updated 27 May 2025
 
 Sitemap: https://newtonglossary.com/sitemap
 
@@ -18,8 +18,9 @@ User-agent: Brightbot 1.0
 User-agent: Bytespider
 User-agent: CCBot
 User-agent: ChatGPT-User
-User-agent: Claude-Web
 User-agent: ClaudeBot
+User-agent: Claude-User
+User-agent: Claude-SearchBot
 User-agent: cohere-ai
 User-agent: cohere-training-data-crawler
 User-agent: Cotoyogi
@@ -30,6 +31,7 @@ User-agent: FacebookBot
 User-agent: Factset_spyderbot
 User-agent: FirecrawlAgent
 User-agent: FriendlyCrawler
+User-agent: Google-CloudVertexBot
 User-agent: Google-Extended
 User-agent: GoogleOther
 User-agent: GoogleOther-Image
@@ -42,8 +44,11 @@ User-agent: img2dataset
 User-agent: imgproxy
 User-agent: ISSCyberRiskCrawler
 User-agent: Kangaroo Bot
+User-agent: meta-externalagent
 User-agent: Meta-ExternalAgent
+User-agent: meta-externalfetcher
 User-agent: Meta-ExternalFetcher
+User-agent: MistralAI-User/1.0
 User-agent: NovaAct
 User-agent: OAI-SearchBot
 User-agent: omgili
@@ -53,6 +58,7 @@ User-agent: PanguBot
 User-agent: Perplexity-User
 User-agent: PerplexityBot
 User-agent: PetalBot
+User-agent: QualifiedBot
 User-agent: Scrapy
 User-agent: SemrushBot-OCOB
 User-agent: SemrushBot-SWA
@@ -61,5 +67,6 @@ User-agent: TikTokSpider
 User-agent: Timpibot
 User-agent: VelenPublicWebCrawler
 User-agent: Webzio-Extended
+User-agent: wpbot
 User-agent: YouBot
 Disallow: /
