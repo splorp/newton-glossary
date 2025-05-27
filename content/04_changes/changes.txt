@@ -18,6 +18,15 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the (link: /latest text: Latest Additions) page.
 
+### _$v
+
+Terms: _$t
+Sources: _$s
+
+#### Summary of changes:
+
++ Updated [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) to version [1.31](https://github.com/ai-robots-txt/ai.robots.txt/releases/tag/v1.31)
+
 ### 4.5.1
 
 27 May 2025
