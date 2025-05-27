@@ -8,7 +8,7 @@ Date: 10 February 2017
 
 Text:
 
-A proportionally spaced sans serif typeface based on (link: /terms/geneva text: Geneva). Simple is one of the default bitmap (link: /terms/font text: fonts) included in (link: /terms/newton-os text: Newton OS).
+A proportionally spaced sans serif typeface based on (link: /terms/geneva text: Geneva). Simple is one of the default (link: /terms/bitmap text: bitmap) (link: /terms/font text: fonts) included in (link: /terms/newton-os text: Newton OS).
 
 (image: /assets/images/simple-2x-n.gif alt: Screenshot showing various sizes of the Simple bitmap font width: 240)
 
@@ -22,6 +22,7 @@ Resource:
 
 Related:
 
+- /terms/bitmap
 - /terms/casual
 - /terms/character
 - /terms/espy-sans

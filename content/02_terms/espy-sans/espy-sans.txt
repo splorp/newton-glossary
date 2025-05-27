@@ -8,7 +8,7 @@ Date: 06 September 2024
 
 Text:
 
-A sans serif bitmap (link: /terms/font text: font) used when defining text in a (link: /terms/book-source-file text: book source file) that will be processed with (link: /terms/newton-book-maker text: Newton Book Maker) or (link: /terms/newton-toolkit text: Newton Toolkit). It is also a font that can be specified when creating a (link: /terms/newton-book text: Newton book) with the (link: /terms/newton-press text: Newton Press) software.
+A sans serif (link: /terms/bitmap text: bitmap) (link: /terms/font text: font) used when defining text in a (link: /terms/book-source-file text: book source file) that will be processed with (link: /terms/newton-book-maker text: Newton Book Maker) or (link: /terms/newton-toolkit text: Newton Toolkit). It is also a font that can be specified when creating a (link: /terms/newton-book text: Newton book) with the (link: /terms/newton-press text: Newton Press) software.
 
 (image: /assets/images/espy-sans-2x-n.gif alt: Screenshot showing various sizes of the Espy Sans bitmap font width: 246)
 
@@ -33,6 +33,7 @@ Resource:
 Related:
 
 - /terms/assist
+- /terms/bitmap
 - /terms/casual
 - /terms/character
 - /terms/easter-egg

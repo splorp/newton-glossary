@@ -8,13 +8,14 @@ Date: 24 May 2001
 
 Text:
 
-A sequence of bits in memory that represent the (link: /terms/pixel text: pixels) of an image to be displayed.
+A sequence of bits in memory that represent the (link: /terms/pixel text: pixels) of an image or (link: /terms/font text: font) to be displayed.
 
 ----
 
 Related:
 
 - /terms/binary-object
+- /terms/font
 - /terms/pixel
 - /terms/resource
 
