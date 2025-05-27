@@ -10,7 +10,7 @@ Text:
 
 A Newton device developed by [Schlumberger](https://www.slb.com/) as a dedicated, vertical market solution for the French healthcare industry. The device was based on the (link: /terms/messagepad-2000 text: MessagePad 2000), utiliziling a (link: /terms/modem text: modem) and a pair of smartcard readers to facilitate secure digital transactions for processing claims and accessing patient records through the [SESAM-Vitale](https://www.sesam-vitale.fr/) health insurance system. The Watson fit into a (link: /terms/cradle text: cradle) which contained the modem, a serial port for connection to a (link: /terms/desktop-computer text: desktop comupter), and circuitry to recharge the (link: /terms/battery-pack text: battery pack).
 
-Mistakenly referred to as the (link: /terms/dr-watson text: Dr Watson) is some situations.
+Mistakenly referred to as the (link: /terms/dr-watson text: Dr Watson) in some situations.
 
 A third-party device that utilizes a licensed version of (link: /terms/newton-os text: Newton OS) is commonly referred to as a (link: /terms/clone text: clone).
 
