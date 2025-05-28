@@ -14,6 +14,12 @@ Also referred to as a (link: /terms/data-soup text: Data Soup), (link: /terms/ob
 
 ----
 
+Resource:
+
+- [Canicula: Soups on the Newton](https://web.archive.org/web/20160206045037/http://www.canicula.com/newton/prog/soups.htm)
+
+----
+
 Related:
 
 - /terms/application-definition-format

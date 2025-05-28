@@ -15,4 +15,4 @@ Author of a fairly comprehensive tutorial on (link: /terms/newton-os text: Newto
 Resource:
 
 - [Canicula: Ian Robinson’s Soapbox](https://canicula.com/wp/)
-- [Canicula: Newton Data Storage](https://web.archive.org/web/20160206045037/http://www.canicula.com/newton/prog/soups.htm)
+- [Canicula: Soups on the Newton](https://web.archive.org/web/20160206045037/http://www.canicula.com/newton/prog/soups.htm)

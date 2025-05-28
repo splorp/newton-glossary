@@ -12,6 +12,12 @@ A virtual (link: /terms/soup text: soup) maintained by the (link: /terms/operati
 
 ----
 
+Resource:
+
+- [Canicula: Soups on the Newton](https://web.archive.org/web/20160206045037/http://www.canicula.com/newton/prog/soups.htm)
+
+----
+
 Related:
 
 - /terms/default-store

@@ -12,6 +12,12 @@ In (link: /terms/newtonscript text: NewtonScript), one of the constituent (link:
 
 ----
 
+Resource:
+
+- [Canicula: Soups on the Newton](https://web.archive.org/web/20160206045037/http://www.canicula.com/newton/prog/soups.htm)
+
+----
+
 Related:
 
 - /terms/default-store
