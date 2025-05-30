@@ -11,3 +11,13 @@ Description: Search the glossary for terms, sources, and other information.
 ----
 
 Text:
+
+The search function looks for complete word combinations.
+
+For example, searching for “(link: /search?q=routing+slip text: routing slip)” will only return items that contain that exact combination of words.
+
+If you are not getting adequate results, try using fewer terms in your search.
+
+For example, searching for “(link: /search?q=routing text: routing)” will return all items containing that word, including ”routing slip”.
+
+You do not need to use quotes around search terms.

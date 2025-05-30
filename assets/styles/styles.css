@@ -243,6 +243,14 @@ section a:hover {
 	font-size: 13px;
 	}
 
+summary {
+	margin-bottom: 10px;
+	}
+
+details {
+	margin: -10px 0 10px 0;
+	}
+
 footer {
 	border-top: 1px solid #999;
 	font-size: 13px;

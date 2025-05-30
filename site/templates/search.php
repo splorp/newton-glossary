@@ -4,10 +4,13 @@
 <section>
 	<article>
 		<h2><?php echo html($page->title()) ?></h2>
-		<?php echo $page->text()->kirbytext() ?>
+		<details>
+			<summary><a>Need help searching for something?</a></summary>
+			<?php echo $page->text()->kirbytext() ?>
+		</details>
 		<form action="<?= $site->url() . '/' . $page ?>">
 			<input type="search" name="q" placeholder="What are you looking for?" value="<?= html($query) ?>" autofocus>
-			<input type="submit" value="Go!" />
+			<input type="submit" value="Go!">
 		</form>
 
 		<?php if($pagination->total() > 0) : ?>
