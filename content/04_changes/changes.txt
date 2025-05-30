@@ -38,6 +38,7 @@ Sources: 198
 
 + Added new 15 terms
 + Added new 1 source
++ Updated and expanded dozens of existing entries
 + The home page now features the current number of (link: /terms text: Terms) and (link: /sources text: Sources)
 + Implemented [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) for more robust handling of AI content scrapers
 + Updated [Kirby](https://getkirby.com/) to version [4.7.2](https://github.com/getkirby/kirby/releases/tag/4.7.2)

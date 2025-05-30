@@ -5,7 +5,7 @@
 	<article>
 		<h2><?php echo html($page->title()) ?></h2>
 		<details>
-			<summary><a>Need help searching for something?</a></summary>
+			<summary><a>Need help?</a></summary>
 			<?php echo $page->text()->kirbytext() ?>
 		</details>
 		<form action="<?= $site->url() . '/' . $page ?>">

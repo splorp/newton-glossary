@@ -18,6 +18,6 @@ For example, searching for “(link: /search?q=routing+slip text: routing slip)�
 
 If you are not getting adequate results, try using fewer terms in your search.
 
-For example, searching for “(link: /search?q=routing text: routing)” will return all items containing that word, including ”routing slip”.
+For example, searching for “(link: /search?q=routing text: routing)” will return all items containing that word, including “routing slip”.
 
 You do not need to use quotes around search terms.
