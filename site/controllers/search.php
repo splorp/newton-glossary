@@ -1,7 +1,7 @@
 <?php
 	return function ($site) {
 		$query	 = get('q');
-		$results = $site->search($query, 'title|text');
+		$results = $site->bettersearch($query, 'title|text')->not('search');
 		$results = $results->paginate(10);
 
 		return [
