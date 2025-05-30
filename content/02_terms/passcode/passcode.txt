@@ -27,6 +27,7 @@ Related:
 - /terms/beeper-number
 - /terms/newton-messaging-card
 - /terms/newtonunlock
+- /terms/password
 - /terms/pin
 - /terms/security
 

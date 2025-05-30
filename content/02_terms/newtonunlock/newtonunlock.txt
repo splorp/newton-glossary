@@ -22,6 +22,7 @@ Related:
 
 - /terms/passcode
 - /terms/pin
+- /terms/password
 - /terms/security
 
 ----
