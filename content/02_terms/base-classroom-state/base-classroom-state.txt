@@ -20,6 +20,7 @@ Related:
 - /terms/classroom-options
 - /terms/dock-options
 - /terms/emate-300
+- /terms/teacher-password
 - /terms/teacher-setup
 
 ----

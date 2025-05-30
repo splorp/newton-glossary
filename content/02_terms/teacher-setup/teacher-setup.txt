@@ -27,6 +27,7 @@ Related:
 - /terms/emate-300
 - /terms/full-newton-system
 - /terms/setup
+- /terms/teacher-password
 
 ----
 

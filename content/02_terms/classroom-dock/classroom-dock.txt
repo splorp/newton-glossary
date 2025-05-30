@@ -28,6 +28,7 @@ Related:
 - /terms/dock-options
 - /terms/docking
 - /terms/emate-300
+- /terms/teacher-password
 - /terms/teacher-setup
 
 ----

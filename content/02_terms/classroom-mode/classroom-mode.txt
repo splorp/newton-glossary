@@ -25,6 +25,7 @@ Related:
 - /terms/dock-options
 - /terms/emate-300
 - /terms/full-newton-system
+- /terms/teacher-password
 - /terms/teacher-setup
 
 ----

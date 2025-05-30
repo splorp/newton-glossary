@@ -60,4 +60,5 @@ Related:
 - /terms/shay
 - /terms/spring-issue
 - /terms/tablettop
+- /terms/teacher-password
 - /terms/teacher-setup

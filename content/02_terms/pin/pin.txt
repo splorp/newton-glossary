@@ -28,6 +28,7 @@ Related:
 - /terms/password
 - /terms/security
 - /terms/system-password
+- /terms/teacher-password
 
 ----
 

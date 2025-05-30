@@ -25,6 +25,7 @@ Related:
 - /terms/password
 - /terms/pin
 - /terms/prefs
+- /terms/teacher-password
 
 ----
 
