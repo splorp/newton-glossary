@@ -24,6 +24,7 @@ Related:
 - /terms/communication-port
 - /terms/dongle
 - /terms/dongle-destroyer
+- /terms/mini-plug
 - /terms/newton-interconnect
 - /terms/newton-serial-adapter
 - /terms/ser-001

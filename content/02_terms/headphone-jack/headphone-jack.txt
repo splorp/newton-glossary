@@ -1,0 +1,28 @@
+Title: Headphone Jack
+
+----
+
+Date: 01 June 2025
+
+----
+
+Text:
+
+A connector located on an (link: /terms/emate-300 text: eMate 300) that allows the user to plug in headphones or other audio (link: /terms/output text: output) devices that uses a standard (link: /terms/mini-plug text: mini-plug). When something is plugged into the headphone jack on an eMate, the internal speaker is disabled.
+
+Also referred to as a (link: /terms/headphone-port text: Headphone Port).
+
+----
+
+Related:
+
+- /terms/headphone-port
+- /terms/mini-plug
+- /terms/output
+- /terms/sound
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide

@@ -1,0 +1,28 @@
+Title: Mini-Plug
+
+----
+
+Date: 01 June 2025
+
+----
+
+Text:
+
+A small, standardized audio connector found on headphones and other audio equipment.
+
+The (link: /terms/emate-300 text: eMate 300) includes a (link: /terms/headphone-jack text: headphone jack) compatible with a mini-plug.
+
+----
+
+Related:
+
+- /terms/headphone-jack
+- /terms/multifunction-interconnect-adapter
+- /terms/output
+- /terms/sound
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide

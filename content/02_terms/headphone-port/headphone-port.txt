@@ -1,0 +1,17 @@
+Title: Headphone Port
+
+----
+
+Date: 01 June 2025
+
+----
+
+Text:
+
+See: (link: /terms/headphone-jack text: Headphone Jack)
+
+----
+
+Source:
+
+- /sources/apple-service-source
