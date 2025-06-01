@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-Information transferred from a Newton device to some external destination. Examples of output destinations include printer, (link: /terms/modem text: modem), serial cable, and infrared (link: /terms/beaming text: beaming).
+Information transferred from a Newton device to some external destination. Examples of output destinations include printer, (link: /terms/modem text: modem), serial cable, audio, and infrared (link: /terms/beaming text: beaming).
 
 ----
 
