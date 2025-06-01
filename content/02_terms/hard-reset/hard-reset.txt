@@ -10,7 +10,7 @@ Text:
 
 A method of (link: /terms/reset text: resetting) the (link: /terms/newton-os text: Newton OS) which completely erases all data in the internal memory of a Newton device. A hard reset erases all (link: /terms/application text: applications) and (link: /terms/package text: packages) installed by the user, and resets (link: /terms/pen text: pen) alignment, date, time, (link: /terms/time-zones text: time zone), and other (link: /terms/preferences text: preferences).
 
-Also referred to as a (link: /terms/brain-wipe text: Brain Wipe).
+Also referred to as a (link: /terms/brain-wipe text: brain wipe).
 
 Not to be confused with a (link: /terms/cold-boot text: cold boot), which also removes any (link: /terms/system-update text: system updates) that have been installed on certain Newton devices.
 
@@ -27,13 +27,10 @@ Related:
 
 - /terms/brain-wipe
 - /terms/cold-boot
-- /terms/deep-reset
-- /terms/hardware-reset
 - /terms/power-reset
 - /terms/reset
 - /terms/reset-button
 - /terms/soft-reset
-- /terms/software-reset
 - /terms/system-reset
 - /terms/warm-boot
 

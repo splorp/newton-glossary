@@ -18,7 +18,6 @@ Related:
 - /terms/power-reset
 - /terms/reset
 - /terms/soft-reset
-- /terms/software-reset
 
 ----
 

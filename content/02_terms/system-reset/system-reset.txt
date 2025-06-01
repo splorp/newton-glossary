@@ -23,14 +23,11 @@ Related:
 
 - /terms/brain-wipe
 - /terms/cold-boot
-- /terms/deep-reset
 - /terms/hard-reset
-- /terms/hardware-reset
 - /terms/power-reset
 - /terms/reset
 - /terms/reset-button
 - /terms/soft-reset
-- /terms/software-reset
 - /terms/warm-boot
 
 ----

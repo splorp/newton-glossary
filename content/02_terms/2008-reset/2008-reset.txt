@@ -30,7 +30,6 @@ Related:
 - /terms/fix2010
 - /terms/newtpocalypse
 - /terms/real-time-clock
-- /terms/reset
 - /terms/y2008
 - /terms/y2010-diagnostic
 - /terms/year-2010-problem
