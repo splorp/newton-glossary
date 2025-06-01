@@ -1,0 +1,30 @@
+Title: Newt Boot
+
+----
+
+Date: 01 June 2025
+
+----
+
+Text:
+
+A durable, padded carrying case for (link: /terms/messagepad text: MessagePad) and other (link: /terms/PDA text: PDA) devices designed and manufactured by Colleen “Cavenewt” Thompson in Jackson, Wyoming. One of the “exclusive” features of the Newt Boot was the (link: /terms/tube-card-retainer text: Tube Card Retainer).
+
+----
+
+Resource:
+
+- [Newt Boot Product Information](https://web.archive.org/web/19971026231526/http://www.wyoming.com/~cavenewt/NewtBoot/)
+
+----
+
+Related:
+
+- /terms/boot
+- /terms/tube-card-retainer
+
+----
+
+Source:
+
+- /sources/newton-solutions-Guide

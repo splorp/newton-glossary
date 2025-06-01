@@ -1,0 +1,38 @@
+Title: Boot
+
+----
+
+Date: 01 June 2025
+
+----
+
+Text:
+
+The startup process where a computer begins executing instructions stored in (link: /terms/rom text: ROM) or (link: /terms/flash-memory text: flash memory).
+
+A boot is also a protective casing usually made of a flexible and shock-absorbing material.
+
+The Harris (link: /terms/supertech-2000 text: SuperTech 2000) device utilized a rubberized boot to increase its durability when used in extreme environmental conditions.
+
+----
+
+Related:
+
+- /terms/bootstrapping
+- /terms/boot-up-chime
+- /terms/cold-boot
+- /terms/newt-boot
+- /terms/brain-wipe
+- /terms/hard-reset
+- /terms/power-reset
+- /terms/reset
+- /terms/reset-button
+- /terms/soft-reset
+- /terms/software-reset
+- /terms/system-reset
+
+----
+
+Source:
+
+- /sources/techencyclopedia

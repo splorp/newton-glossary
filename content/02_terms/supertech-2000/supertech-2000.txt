@@ -10,6 +10,8 @@ Text:
 
 A ruggedized Newton device developed by the (link: /terms/dracon text: Dracon) division of [Harris Corporation](https://web.archive.org/web/19970605091858/http://www.harris.com/) based on the (link: /terms/messagepad-120 text: MessagePad 120), but with a (link: /terms/backlit text: backlit) display like the (link: /terms/messagepad-130 text: MessagePad 130). Dubbed a (link: /terms/craft-digital-assistant text: Craft Digital Assistant) or (link: /terms/cda text: CDA), the SuperTech 2000 featured technologies such as built-in wireless networking, peer-to-peer voice communication, and allowed telecommunication field technicians to access work orders and other information through the telephone system. The Digital Ocean (link: /terms/tarpon text: Tarpon) is a modified and improved version of the SuperTech 2000.
 
+The SuperTech 2000 utilized a rubberized (link: /terms/boot text: boot) to increase its durability when used in extreme environmental conditions.
+
 A third-party device that utilizes a licensed version of (link: /terms/newton-os text: Newton OS) is commonly referred to as a (link: /terms/clone text: clone).
 
 ----
@@ -26,6 +28,7 @@ Resource:
 Related:
 
 - /terms/access-device-2000
+- /terms/boot
 - /terms/clone
 - /terms/craft-digital-assistant
 - /terms/dracon

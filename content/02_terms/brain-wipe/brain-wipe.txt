@@ -21,6 +21,7 @@ Resource:
 
 Related:
 
+- /terms/boot
 - /terms/cold-boot
 - /terms/hard-reset
 - /terms/power-reset

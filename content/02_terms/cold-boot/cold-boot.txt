@@ -25,6 +25,7 @@ Resource:
 
 Related:
 
+- /terms/boot
 - /terms/brain-wipe
 - /terms/hard-reset
 - /terms/power-reset

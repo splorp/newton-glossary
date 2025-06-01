@@ -1,0 +1,19 @@
+Title: Newton Solutions Guide
+
+----
+
+Date: 01 June 2025
+
+----
+
+Text:
+
+A product catalogue published by [JointSolutions Marketing](https://web.archive.org/web/19990428171233/http://www.jointsolutions.com/) containing information on hardware, software, and accessories for the Newton platform.
+
+----
+
+Resource:
+
+- [The Newted Community: Newton Solutions Guide (1995)](https://www.newted.org/download/manuals/NewtonSolutionsGuide1995.pdf)
+- [The Newted Community: Newton Solutions Guide (1996)](https://www.newted.org/download/manuals/NewtonSolutionsGuide1996.pdf)
+- [UNNA: Newton Solutions Guide (1996)](http://www.unna.org/unna/apple/documentation/software/NewtonSolutionsGuide.pdf)
