@@ -24,6 +24,9 @@ Related:
 - /terms/newton-book-maker
 - /terms/newton-book-reader
 - /terms/np
+- /terms/paperback
+- /terms/paperback-book
+- /terms/pbbookmaker
 
 ----
 

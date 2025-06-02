@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: (link: /terms/newton-book text: Newton Book)
+See: (link: /terms/help-book text: Help Book), (link: /terms/newton-book text: Newton Book), and (link: /terms/paperback-book text: Paperback Book)

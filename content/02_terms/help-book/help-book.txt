@@ -23,6 +23,7 @@ Related:
 - /terms/newton-book-maker
 - /terms/newton-book-reader
 - /terms/newton-press
+- /terms/paperback-book
 
 ----
 

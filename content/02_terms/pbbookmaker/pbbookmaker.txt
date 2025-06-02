@@ -1,0 +1,34 @@
+Title: PBBookMaker
+
+----
+
+Date: 02 June 2025
+
+----
+
+Text:
+
+A UNIX command line program developed by (link: /terms/paul-guyot text: Paul Guyot) and others that will create (link: /terms/paperback-book text: Paperback book) packages from (link: /terms/text-file text: text files), reproducing the functionality of the original (link: /terms/Paperback text: Paperback) application. PBBookMaker utilizes the Desktop Connection Library ((link: /terms/dcl text: DCL) to build (link: /terms/package text: packages) that can be viewed on a Newton device.
+
+----
+
+Resource:
+
+- [NewtonTalk: Towards DCL 1.1 : PBBookMaker for Unix](http://newtontalk.net/archive/newtontalk/2004-April/0533.html)
+- [Chuma: Paperback Online Book Maker](https://ritsuko.chuma.org/paperback/)
+- [The Paperback Page](https://web.archive.org/web/20171018055006/https://thefedors.com/pobox/)
+
+----
+
+Related:
+
+- /terms/dcl
+- /terms/paperback
+- /terms/paperback-book
+- /terms/pbbookmaker
+
+----
+
+Source:
+
+- /sources/paul-guyot

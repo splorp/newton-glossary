@@ -25,6 +25,7 @@ Related:
 - /terms/newton-digital-book
 - /terms/newton-press
 - /terms/newts-cape
+- /terms/paperback-book
 - /terms/project-newtonberg
 
 ----

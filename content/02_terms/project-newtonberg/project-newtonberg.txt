@@ -25,3 +25,6 @@ Related:
 - /terms/newton-book-reader
 - /terms/newton-press
 - /terms/newts-cape
+- /terms/paperback
+- /terms/paperback-book
+- /terms/pbbookmaker

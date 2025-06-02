@@ -1,0 +1,33 @@
+Title: Paperback
+
+----
+
+Date: 02 June 2025
+
+----
+
+Text:
+
+Software developed by (link: /sources/david-fedor text: David Fedor) that converts lightly formatted (link: /terms/text-file text: text files) into book (link: /terms/package text: packages) that can be viewed on a Newton device.
+
+A book created by the Paperback (link: /terms/application text: application) does not include the robust formatting options or (link: /terms/newtonscript text: NewtonScript) support that a (link: /terms/newton-book text: Newton book) created using (link: /terms/newton-book-maker text: Newton Book Maker) or (link: /terms/Newton Press text: Newton Press) provides.
+
+----
+
+Resource:
+
+- [The Paperback Page](https://web.archive.org/web/20171018055006/https://thefedors.com/pobox/)
+- [Chuma: Paperback Online Book Maker](https://ritsuko.chuma.org/paperback/)
+- [NewtonTalk: Towards DCL 1.1 : PBBookMaker for Unix](http://newtontalk.net/archive/newtontalk/2004-April/0533.html)
+- [GitHub: Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export)
+
+----
+
+Related:
+
+- /terms/newton-book
+- /terms/newton-book-maker
+- /terms/newton-press
+- /terms/paperback-book
+- /terms/pbbookmaker
+- /terms/project-newtonberg

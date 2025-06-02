@@ -1,0 +1,31 @@
+Title: Paperback Book
+
+----
+
+Date: 02 June 2025
+
+----
+
+Text:
+
+An electronic document designed to be viewed on a Newton device. This type of document is created using tools such as the (link: /terms/paperback text: Paperback) application or the online book maker developed by (link: /sources/victor-rehorst text: Victor Rehorst) and delivered as an installable (link: /terms/package text: package).
+
+Paperback books do not feature the robust formatting options or (link: /terms/newtonscript text: NewtonScript) support found in (link: /terms/newton-book text: Newton books).
+
+----
+
+Resource:
+
+- [The Paperback Page](https://web.archive.org/web/20171018055006/https://thefedors.com/pobox/)
+- [Chuma: Paperback Online Book Maker](https://ritsuko.chuma.org/paperback/)
+- [GitHub: Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export)
+
+----
+
+Related:
+
+- /terms/help-book
+- /terms/newton-book
+- /terms/paperback
+- /terms/pbbookmaker
+- /terms/project-newtonberg

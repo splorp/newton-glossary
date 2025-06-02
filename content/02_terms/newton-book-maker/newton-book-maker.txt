@@ -32,6 +32,9 @@ Related:
 - /terms/newton-book-reader
 - /terms/newton-press
 - /terms/newton-toolkit
+- /terms/paperback
+- /terms/paperback-book
+- /terms/pbbookmaker
 - /terms/project-newtonberg
 
 ----
