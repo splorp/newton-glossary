@@ -16,7 +16,7 @@ Paperback books do not feature the robust formatting options or (link: /terms/ne
 
 Resource:
 
-- [The Paperback Page](https://web.archive.org/web/20171018055006/https://thefedors.com/pobox/)
+- [Servant Software: The Paperback Page](https://web.archive.org/web/20171018055006/https://thefedors.com/pobox/)
 - [Chuma: Paperback Online Book Maker](https://ritsuko.chuma.org/paperback/)
 - [GitHub: Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export)
 
