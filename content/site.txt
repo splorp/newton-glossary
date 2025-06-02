@@ -121,6 +121,18 @@ Redirects:
   fromuri: /terms/softwareburo-muller
   touri: /sources/softwareburo-muller
   code: _301
+- 
+  fromuri: /sources/the-new-york-times
+  touri: /sources/new-york-times
+  code: _301
+- 
+  fromuri: /sources/the-independant
+  touri: /sources/independent
+  code: _301
+- 
+  fromuri: /sources/the-simpsons
+  touri: /sources/simpsons
+  code: _301
 
 ----
 
