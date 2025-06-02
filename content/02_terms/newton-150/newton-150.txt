@@ -14,4 +14,4 @@ See: (link: /terms/messagepad-150 text: MessagePad 150)
 
 Source:
 
-- /sources/the-new-york-times
+- /sources/new-york-times

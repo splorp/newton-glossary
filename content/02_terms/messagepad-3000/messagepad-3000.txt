@@ -32,4 +32,4 @@ Related:
 Source:
 
 - /sources/mackido
-- /sources/the-new-york-times
+- /sources/new-york-times

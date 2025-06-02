@@ -14,4 +14,4 @@ See: (link: /terms/eat-up-martha text: Eat Up Martha)
 
 Source:
 
-- /sources/the-simpsons
+- /sources/simpsons
