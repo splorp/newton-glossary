@@ -26,9 +26,9 @@ Resource:
 Related:
 
 - /terms/book-definition-file
-- /terms/book-source-file
 - /terms/book-maker
 - /terms/book-maker-commands
+- /terms/book-source-file
 - /terms/command
 - /terms/copperfield
 - /terms/help-book

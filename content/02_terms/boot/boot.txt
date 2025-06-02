@@ -8,11 +8,11 @@ Date: 01 June 2025
 
 Text:
 
-The startup process where a computer begins executing instructions stored in (link: /terms/rom text: ROM) or (link: /terms/flash-memory text: flash memory).
+The startup process where a computer begins executing instructions stored in (link: /terms/rom text: ROM) or (link: /terms/flash-memory text: flash memory). A device will boot after it has been (link: /terms/reset text: reset) in some manner.
 
 A boot is also a protective casing usually made of a flexible and shock-absorbing material.
 
-The Harris (link: /terms/supertech-2000 text: SuperTech 2000) device utilized a rubberized boot to increase its durability when used in extreme environmental conditions.
+For example, the Harris (link: /terms/supertech-2000 text: SuperTech 2000) device utilized a rubberized boot to increase its durability when used in extreme environmental conditions.
 
 ----
 
