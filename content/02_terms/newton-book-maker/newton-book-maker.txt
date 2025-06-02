@@ -16,6 +16,13 @@ Also referred to as (link: /terms/book-maker text: Book Maker) and (link: /terms
 
 ----
 
+Resource:
+
+- [UNNA: Newton Book Maker User’s Guide](http://www.unna.org/unna/apple/development/Bookmaker/BookmakerUsersGuide.pdf)
+- [The Newted Community: Newton Book Maker User’s Guide](https://www.newted.org/download/manuals/NewtonBookMakerUsersGuide.pdf)
+
+----
+
 Related:
 
 - /terms/book-definition-file
