@@ -2,8 +2,9 @@
     "name": "bvdputte/bettersearch",
     "description": "A search plugin for Kirby (v3+ that searches for full word combinations rather than just individual words.",
     "license": "MIT",
+    "homepage": "https://github.com/bvdputte/kirby-bettersearch/",
     "type": "kirby-plugin",
-    "version": "2.1.1",
+    "version": "2.1.3",
     "authors": [
         {
             "name": "Bart Vandeputte",
