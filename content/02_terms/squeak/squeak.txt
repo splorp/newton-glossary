@@ -15,6 +15,7 @@ The sound made by a Newton device after pressing and holding the (link: /terms/p
 Related:
 
 - /terms/alert-sound
+- /terms/boot-up-chime
 - /terms/broink
 - /terms/clank
 - /terms/heavy-mark

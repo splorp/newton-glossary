@@ -18,6 +18,7 @@ For example, the Harris (link: /terms/supertech-2000 text: SuperTech 2000) devic
 
 Related:
 
+- /terms/boot-up-chime
 - /terms/bootstrapping
 - /terms/brain-wipe
 - /terms/cold-boot

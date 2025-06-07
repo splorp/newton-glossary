@@ -1,0 +1,28 @@
+Title: Boot Up Chime
+
+----
+
+Date: 07 June 2025
+
+----
+
+Text:
+
+The sound made by a Newton device when powered on after having been (link: /terms/reset text: reset) in some manner.
+
+----
+
+Related:
+
+- /terms/boot
+- /terms/alert-sound
+- /terms/hot-dog-song
+- /terms/poof
+- /terms/squeak
+- /terms/volume
+
+----
+
+Source:
+
+- /sources/apple-service-source

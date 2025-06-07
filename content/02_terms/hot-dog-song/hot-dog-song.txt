@@ -30,6 +30,7 @@ Related:
 - /terms/about-newton
 - /terms/alert-sound
 - /terms/area-51
+- /terms/boot-up-chime
 - /terms/brandyn
 - /terms/broink
 - /terms/clank

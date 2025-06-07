@@ -15,6 +15,7 @@ The sound that accompanies the “(link: /terms/going-up-in-smoke text: going up
 Related:
 
 - /terms/alert-sound
+- /terms/boot-up-chime
 - /terms/broink
 - /terms/clank
 - /terms/going-up-in-smoke
