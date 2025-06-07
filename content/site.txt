@@ -161,4 +161,4 @@ Powered by (link: https://getkirby.com/ text: Kirby title: The CMS that adapts t
 
 ----
 
-Version: 4.5.2
+Version: 4.6.0
