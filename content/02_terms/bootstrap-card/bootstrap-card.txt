@@ -25,7 +25,6 @@ Resource:
 Related:
 
 - /terms/boot
-- /terms/bootstrap
 - /terms/bootstrapping
 - /terms/card
 - /terms/card-slip

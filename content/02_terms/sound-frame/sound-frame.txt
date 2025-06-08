@@ -24,6 +24,7 @@ Related:
 - /terms/part-frame
 - /terms/sample
 - /terms/slot
+- /terms/sound
 - /terms/volume
 
 ----

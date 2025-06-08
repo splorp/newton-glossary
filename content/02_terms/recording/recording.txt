@@ -25,6 +25,7 @@ Related:
 - /terms/notepad
 - /terms/outline
 - /terms/prefs
+- /terms/sound
 - /terms/stationery
 - /terms/volume
 

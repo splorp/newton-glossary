@@ -14,11 +14,12 @@ The sound made by a Newton device when powered on after having been (link: /term
 
 Related:
 
-- /terms/boot
 - /terms/alert-sound
+- /terms/boot
 - /terms/hot-dog-song
 - /terms/poof
 - /terms/squeak
+- /terms/sound
 - /terms/volume
 
 ----

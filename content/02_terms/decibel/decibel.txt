@@ -17,6 +17,7 @@ Commonly abbreviated as (link: /terms/db text: dB).
 Related:
 
 - /terms/db
+- /terms/sound
 - /terms/volume
 
 ----

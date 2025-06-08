@@ -20,6 +20,7 @@ Related:
 - /terms/codec
 - /terms/nr404
 - /terms/slot
+- /terms/sound
 - /terms/sound-frame
 - /terms/volume
 

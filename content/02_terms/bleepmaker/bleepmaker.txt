@@ -29,6 +29,7 @@ Related:
 - /terms/channel
 - /terms/nr404
 - /terms/sample
+- /terms/sound
 - /terms/volume
 
 ----

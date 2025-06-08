@@ -25,4 +25,5 @@ Related:
 - /terms/bleepmaker
 - /terms/channel
 - /terms/sample
+- /terms/sound
 - /terms/volume

@@ -27,6 +27,7 @@ Related:
 - /terms/codec
 - /terms/noteyak
 - /terms/recognized-text
+- /terms/sound
 - /terms/speaktext
 - /terms/text-to-speech
 - /terms/volume
