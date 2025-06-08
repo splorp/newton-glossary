@@ -10,11 +10,14 @@ Text:
 
 An audible warning from the Newton’s speaker that warns the user of an unusual or potentially undesirable situation. An alert sound can also be accompanied by an (link: /terms/alert-box text: alert box) or (link: /terms/notification-alert text: notification alert).
 
+On devices running (link: /terms/newton-os text: Newton OS) 1.x, alert sounds are called (link: /terms/alert-sound-effects text: alert sound effects) in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
+
 ----
 
 Related:
 
 - /terms/alert-box
+- /terms/alert-sound-effects
 - /terms/bleepmaker
 - /terms/boot-up-chime
 - /terms/clank

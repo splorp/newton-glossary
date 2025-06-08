@@ -1,0 +1,17 @@
+Title: Alert Sound Effects
+
+----
+
+Date: 08 June 2025
+
+----
+
+Text:
+
+See: (link: /terms/alert-sound text: Alert Sound)
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1993
