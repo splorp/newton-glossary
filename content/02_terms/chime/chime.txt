@@ -1,0 +1,17 @@
+Title: Chime
+
+----
+
+Date: 07 June 2025
+
+----
+
+Text:
+
+See: (link: /terms/boot-up-chime text: Boot Up Chime)
+
+----
+
+Source:
+
+- /sources/apple-service-source

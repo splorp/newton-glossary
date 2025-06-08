@@ -16,6 +16,7 @@ Related:
 
 - /terms/alert-sound
 - /terms/boot
+- /terms/chime
 - /terms/hot-dog-song
 - /terms/poof
 - /terms/squeak
