@@ -25,7 +25,14 @@ Sources: _$s
 
 #### Summary of changes:
 
-+ Updated [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) to version [1.31](https://github.com/ai-robots-txt/ai.robots.txt/releases/tag/v1.31)
++ Added new terms
++ Added new sources
++ Updated and expanded dozens of existing entries
++ Implemented [Kirby Bettersearch](https://github.com/bvdputte/kirby-bettersearch) plugin
++ Added some help text on the (link: /search text: Search) page
++ Adjusted the layout of links in the footer for smaller screens
++ Updated [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) to version [1.34](https://github.com/ai-robots-txt/ai.robots.txt/releases/tag/v1.34)
++ Updated [Kirby](https://getkirby.com/) to version [4.8.0](https://github.com/getkirby/kirby/releases/tag/4.8.0)
 
 ### 4.5.1
 
