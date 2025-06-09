@@ -12,7 +12,7 @@ A list of various (link: /terms/routing text: routing) actions available for the
 
 (image: /assets/images/action-picker-2x.gif alt: Screenshot of an Action Button with Picker width: 113)
 
-Also referred to as a (link: /terms/routing-menu text: Routing Menu) or (link: /terms/routing-picker text: Routing Picker).
+Also referred to as an (link: /terms/action-menu text: Action Menu), (link: /terms/routing-menu text: Routing Menu), or (link: /terms/routing-picker text: Routing Picker).
 
 ----
 
@@ -20,6 +20,7 @@ Related:
 
 - /terms/action
 - /terms/action-button
+- /terms/action-menu
 - /terms/more-routing
 - /terms/picker
 - /terms/routing
