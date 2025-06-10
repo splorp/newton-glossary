@@ -10,6 +10,8 @@ Text:
 
 The sound made by a Newton device after pressing and holding the (link: /terms/pen text: pen) on the (link: /terms/screen text: screen) until a large dot known as a (link: /terms/heavy-mark text: heavy mark) appears. Used to indicate the start of the action when (link: /terms/select text: selecting) a block of text or a (link: /terms/shape text: shape).
 
+Also referred to as (link: /terms/squeek text: Squeek).
+
 ----
 
 Related:
@@ -26,6 +28,7 @@ Related:
 - /terms/select
 - /terms/selection
 - /terms/sound
+- /terms/squeek
 - /terms/user-interface
 - /terms/volume
 
@@ -33,4 +36,5 @@ Related:
 
 Source:
 
-- /sources/enroute
+- /sources/messagepad-handbook-1995
+- /sources/messagepad-2000-user-manual

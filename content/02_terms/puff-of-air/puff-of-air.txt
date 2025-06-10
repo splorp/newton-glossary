@@ -1,0 +1,17 @@
+Title: Puff of Air
+
+----
+
+Date: 10 June 2025
+
+----
+
+Text:
+
+See: (link: /terms/poof text: Poof)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

@@ -1,0 +1,17 @@
+Title: Squeek
+
+----
+
+Date: 10 June 2025
+
+----
+
+Text:
+
+See: (link: /terms/squeak text: Squeak)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

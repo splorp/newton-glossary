@@ -8,12 +8,15 @@ Date: 18 December 2001
 
 Text:
 
-The sound that accompanies the “(link: /terms/going-up-in-smoke text: going up in smoke)” animation after deleting text or ink drawings by (link: /terms/scrubbing text: scrubbing) with the (link: /terms/pen text: pen) on the (link: /terms/screen text: screen) of a Newton device.
+The (link: /terms/sound-effect text: sound effect) that accompanies the “(link: /terms/going-up-in-smoke text: going up in smoke)” animation after deleting text or (link: /terms/ink text: ink) drawings by (link: /terms/scrubbing text: scrubbing) with the (link: /terms/pen text: pen) on the (link: /terms/screen text: screen) of a Newton device.
+
+Also referred to as (link: /terms/puff-of-air text: Puff of Air).
 
 ----
 
 Related:
 
+- /terms/action-sound-effects
 - /terms/alert-sound
 - /terms/boot-up-chime
 - /terms/broink
@@ -22,6 +25,7 @@ Related:
 - /terms/hot-dog-song
 - /terms/poof
 - /terms/poof-it
+- /terms/puff-of-air
 - /terms/scribble
 - /terms/scrub
 - /terms/scrubbing
