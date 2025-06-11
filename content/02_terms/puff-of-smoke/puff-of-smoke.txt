@@ -14,4 +14,4 @@ See: (link: /terms/going-up-in-smoke text: Going Up In Smoke)
 
 Source:
 
-- /sources/grant-hutchinson
+- /sources/newtontalk
