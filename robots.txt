@@ -1,6 +1,6 @@
 # robots.txt
 # newtonglossary.com
-# updated 05 June 2025
+# updated 11 June 2025
 
 Sitemap: https://newtonglossary.com/sitemap
 
@@ -15,6 +15,7 @@ User-agent: Andibot
 User-agent: anthropic-ai
 User-agent: Applebot
 User-agent: Applebot-Extended
+User-agent: bedrockbot
 User-agent: Brightbot 1.0
 User-agent: Bytespider
 User-agent: CCBot
@@ -29,6 +30,7 @@ User-agent: Cotoyogi
 User-agent: Crawlspace
 User-agent: Diffbot
 User-agent: DuckAssistBot
+User-agent: EchoboxBot
 User-agent: FacebookBot
 User-agent: Factset_spyderbot
 User-agent: FirecrawlAgent
