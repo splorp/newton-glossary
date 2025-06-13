@@ -28,7 +28,6 @@ Related:
 - /terms/hot-dog-song
 - /terms/poof
 - /terms/poof-it
-- /terms/scribble
 - /terms/scrub
 - /terms/scrubbing
 - /terms/sound

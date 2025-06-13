@@ -22,7 +22,6 @@ Related:
 - /terms/pen
 - /terms/poof
 - /terms/poof-it
-- /terms/scribble
 - /terms/scrub
 - /terms/scrubbing
 - /terms/zigzag

@@ -21,7 +21,6 @@ Related:
 - /terms/poof
 - /terms/poof-it
 - /terms/puff-of-smoke
-- /terms/scribble
 - /terms/scrub
 - /terms/scrubbing
 - /terms/smoke-clouds
