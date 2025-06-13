@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A low level (link: /terms/debugger text: debugger) for (link: /terms/newton-os text: Newton OS) development that runs on a Mac OS computer connected to a Newton device via serial cable. It is used to help (link: /terms/debug text: debug) C, C++, or (link: /terms/arm text: ARM) assembler code running on the Newton device. The name is a nod to the [MacsBug](https://web.archive.org/web/20070520203932/http://developer.apple.com/tools/debuggers/MacsBug) debugger for Mac OS.
+A low level (link: /terms/debugger text: debugger) for (link: /terms/newton-os text: Newton OS) development that runs on a Mac OS computer connected to a Newton device via serial cable. It is used to help (link: /terms/debug text: debug) C, C++, or (link: /terms/arm text: ARM) assembler code running on a Newton device. The name is a nod to the [MacsBug](https://web.archive.org/web/20070520203932/http://developer.apple.com/tools/debuggers/MacsBug) debugger for Mac OS.
 
 ----
 

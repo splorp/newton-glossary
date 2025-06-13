@@ -8,7 +8,7 @@ Date: 07 June 2025
 
 Text:
 
-The sound made by a Newton device when powered on after having been (link: /terms/reset text: reset) in some manner.
+The sound played by a Newton device when powered on after having been (link: /terms/reset text: reset) in some manner.
 
 ----
 

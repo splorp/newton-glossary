@@ -8,11 +8,11 @@ Date: 24 May 2001
 
 Text:
 
-To suspend the activity of an (link: /terms/application text: application) or (link: /terms/extension text: extension) package. Freezing a (link: /terms/package text: package) is similar to removing an (link: /terms/external-store text: external store) that a package is stored on. In most cases, a (link: /terms/frozen-package text: frozen package) should free up memory on the Newton device.
+To suspend the activity of an (link: /terms/application text: application) or (link: /terms/extension text: extension) package. Freezing a (link: /terms/package text: package) is similar to removing an (link: /terms/external-store text: external store) that a package is stored on. In most cases, a (link: /terms/frozen-package text: frozen package) should free up memory on a Newton device.
 
 To reactivate a package, you (link: /terms/thaw text: thaw) it.
 
-Freeze also refers to a situation where the (link: /terms/operating-system text: operating system) becomes unresponsive, usually due to a lack of (link: /terms/heap-space text: heap space). This often requires the Newton device to be (link: /terms/reset text: reset).
+Freeze also refers to a situation where the (link: /terms/operating-system text: operating system) becomes unresponsive, usually due to a lack of (link: /terms/heap-space text: heap space). This often requires a Newton device to be (link: /terms/reset text: reset).
 
 ----
 

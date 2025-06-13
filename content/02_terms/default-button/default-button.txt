@@ -8,7 +8,7 @@ Date: 09 May 2025
 
 Text:
 
-A (link: /terms/button text: button) or (link: /terms/close-box text: close box) in a (link: /terms/slip text: slip) that is differentiated by heavy black lines above and below the button. This visual distinction only appears in (link: /terms/newton-os text: Newton OS) 2.1 on an (link: /terms/emate-300 text: eMate 300) or when a physical keyboard such as the (link: /terms/newton-keyboard text: Newton keyboard) is connected to the Newton device.
+A (link: /terms/button text: button) or (link: /terms/close-box text: close box) in a (link: /terms/slip text: slip) that is differentiated by heavy black lines above and below the button. This visual distinction only appears in (link: /terms/newton-os text: Newton OS) 2.1 on an (link: /terms/emate-300 text: eMate 300) or when a physical keyboard such as the (link: /terms/newton-keyboard text: Newton keyboard) is connected to a Newton device.
 
 Pressing the Return key on a keyboard performs the same action as (link: /terms/tapping text: tapping) a default button.
 

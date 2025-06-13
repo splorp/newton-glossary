@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A black-framed (link: /terms/container-view text: container view) displaying a static message indicating that the Newton device is busy completing a lengthy process. For example, a (link: /terms/status-slip text: status slip) uses a status box (link: /terms/view text: view).
+A black-framed (link: /terms/container-view text: container view) displaying a static message indicating that a Newton device is busy completing a lengthy process. For example, a (link: /terms/status-slip text: status slip) uses a status box (link: /terms/view text: view).
 
 ----
 

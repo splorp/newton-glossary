@@ -8,7 +8,7 @@ Date: 05 September 2017
 
 Text:
 
-An option in the (link: /terms/handwriting-recognition text: handwriting recognition) preferences which provides temporary settings for another user. When selected, any (link: /terms/preferences text: preferences) changed by the guest user will not affect the preferences previously set by the (link: /terms/owner text: owner) of the Newton device.
+An option in the (link: /terms/handwriting-recognition text: handwriting recognition) preferences which provides temporary settings for another user. When selected, any (link: /terms/preferences text: preferences) changed by the guest user will not affect the preferences previously set by the (link: /terms/owner text: owner) of a Newton device.
 
 Also referred to as (link: /terms/guest-mode text: Guest Mode).
 

@@ -10,7 +10,7 @@ Text:
 
 An internal project at [Apple](https://www.apple.com/) which combined a keyboard and screen cover for a (link: /terms/messagepad-2000 text: MessagePad 2000) or (link: /terms/messagepad-2100 text: MessagePad 2100) device.
 
-There were reportedly two versions of the Frankenbuckey, also referred to as an “Integrated Accessories Investigation” by the third-party industrial design firm working with Apple. One was an enclosure with a built-in keyboard that held the Newton device and the other design replaced the standard (link: /terms/screen text: screen) cover with one that integrated a keyboard.
+There were reportedly two versions of the Frankenbuckey, also referred to as an “Integrated Accessories Investigation” by the third-party industrial design firm working with Apple. One was an enclosure with a built-in keyboard that held a Newton device and the other design replaced the standard (link: /terms/screen text: screen) cover with one that integrated a keyboard.
 
 (image: /assets/images/frankenbuckey-2x.jpg alt: Newton Integrated Accessories Investigation width: 450)
 

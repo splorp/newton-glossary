@@ -8,7 +8,7 @@ Date: 16 December 2024
 
 Text:
 
-A condition where the (link: /terms/heap text: heap) used to allocate memory in C++ code (the (link: /terms/c-heap text: C++ heap)) is the same area being used by (link: /terms/newton-os text: Newton OS) for system related (link: /terms/objects text: objects) (the (link: /terms/system-heap text: system heap)). When this area of memory is overwritten, the heap becomes (link: /terms/corrupted text: corrupted) or modified, requiring the Newton device to be (link: /terms/reset text: reset).
+A condition where the (link: /terms/heap text: heap) used to allocate memory in C++ code (the (link: /terms/c-heap text: C++ heap)) is the same area being used by (link: /terms/newton-os text: Newton OS) for system related (link: /terms/objects text: objects) (the (link: /terms/system-heap text: system heap)). When this area of memory is overwritten, the heap becomes (link: /terms/corrupted text: corrupted) or modified, requiring a Newton device to be (link: /terms/reset text: reset).
 
 ----
 
