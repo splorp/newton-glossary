@@ -1,0 +1,18 @@
+Title: Hilite Sound
+
+----
+
+Date: 13 June 2025
+
+----
+
+Text:
+
+See: (link: /terms/squeak text: Squeak)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference
