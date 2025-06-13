@@ -21,6 +21,7 @@ Related:
 - /terms/boot-up-chime
 - /terms/broink
 - /terms/clank
+- /terms/click
 - /terms/going-up-in-smoke
 - /terms/hot-dog-song
 - /terms/poof

@@ -1,0 +1,44 @@
+Title: Pen Sound Effects
+
+----
+
+Date: 10 June 2025
+
+----
+
+Text:
+
+Sounds that are played in conjunction with the use of the (link: /terms/pen text: pen) such as (link: /terms/tapping text: tapping) and (link: /terms/highlighting text: highlighting) items on the (link: /terms/screen text: screen).
+
+For example, when a user (link: /terms/tap text: taps) a (link: /terms/button text: button), a (link: /terms/click text: click) sound will be played. Similarly, when using the pen to create a (link: /terms/heavy-mark text: heavy mark) when (link: /terms/select text: selecting) an item, a (link: /terms/squeak text: squeak) sound is played.
+
+Pen sound effects can be turned on and off in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
+
+----
+
+Related:
+
+- /terms/action-sound-effects
+- /terms/alert-sound
+- /terms/boot-up-chime
+- /terms/broink
+- /terms/clank
+- /terms/click
+- /terms/going-up-in-smoke
+- /terms/hot-dog-song
+- /terms/poof
+- /terms/poof-it
+- /terms/scribble
+- /terms/scrub
+- /terms/scrubbing
+- /terms/sound
+- /terms/squeak
+- /terms/volume
+- /terms/zig-zag
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
+- /sources/messagepad-2000-getting-started

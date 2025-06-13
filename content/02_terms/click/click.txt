@@ -1,0 +1,18 @@
+Title: Click
+
+----
+
+Date: 13 June 2025
+
+----
+
+Text:
+
+The sound made by a Newton device when the user (link: /terms/tap text: taps) a (link: /terms/user-interface text: user interface) element such as a (link: /terms/button text: button) or (link: /terms/close-box text: close box).
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference

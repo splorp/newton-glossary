@@ -21,6 +21,7 @@ Related:
 - /terms/dragging
 - /terms/palette
 - /terms/pen
+- /terms/pen-sound-effects
 - /terms/penning
 - /terms/slider
 - /terms/tap

@@ -23,11 +23,13 @@ Related:
 - /terms/bleepmaker
 - /terms/boot-up-chime
 - /terms/clank
+- /terms/click
 - /terms/hot-dog-song
 - /terms/notification-alert
 - /terms/notification-slip
 - /terms/notify-button
 - /terms/notify-picker
+- /terms/pen-sound-effects
 - /terms/poof
 - /terms/sound
 - /terms/squeak

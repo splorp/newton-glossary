@@ -25,6 +25,7 @@ Related:
 - /terms/drag
 - /terms/dragging
 - /terms/pen
+- /terms/pen-sound-effects
 - /terms/tap
 - /terms/tap-and-a-half
 - /terms/tappable

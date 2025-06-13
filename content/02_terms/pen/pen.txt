@@ -28,6 +28,7 @@ Related:
 - /terms/pdap
 - /terms/pen-alignment
 - /terms/pen-holder
+- /terms/pen-sound-effects
 - /terms/pen-tray
 - /terms/penning
 - /terms/styli

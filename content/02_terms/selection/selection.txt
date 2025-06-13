@@ -19,6 +19,7 @@ Related:
 - /terms/double-tapping
 - /terms/drag
 - /terms/dragging
+- /terms/pen-sound-effects
 - /terms/select
 - /terms/selection-box
 - /terms/tap

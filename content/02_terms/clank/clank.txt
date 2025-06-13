@@ -20,6 +20,7 @@ Related:
 - /terms/boot-up-chime
 - /terms/broink
 - /terms/clanking
+- /terms/click
 - /terms/hot-dog-song
 - /terms/local-scroll-arrows
 - /terms/poof

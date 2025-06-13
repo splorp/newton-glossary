@@ -28,6 +28,7 @@ Related:
 - /terms/decibel
 - /terms/nr404
 - /terms/output
+- /terms/pen-sound-effects
 - /terms/prefs
 - /terms/recording
 - /terms/sample

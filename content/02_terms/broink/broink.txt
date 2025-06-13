@@ -16,6 +16,7 @@ Related:
 
 - /terms/clamshell
 - /terms/clank
+- /terms/click
 - /terms/dhp
 - /terms/display
 - /terms/emate-300

@@ -22,6 +22,7 @@ Related:
 - /terms/highlight
 - /terms/highlighting-mark
 - /terms/hilite2000
+- /terms/pen-sound-effects
 - /terms/selection
 - /terms/selection-box
 - /terms/tap

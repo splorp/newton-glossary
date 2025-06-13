@@ -20,11 +20,13 @@ Related:
 - /terms/boot-up-chime
 - /terms/broink
 - /terms/clank
+- /terms/click
 - /terms/heavy-mark
 - /terms/highlight
 - /terms/hilite-sound
 - /terms/hot-dog-song
 - /terms/pen
+- /terms/pen-sound-effects
 - /terms/poof
 - /terms/select
 - /terms/selection
