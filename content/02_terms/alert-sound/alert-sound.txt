@@ -33,7 +33,7 @@ Related:
 - /terms/pen-sound-effects
 - /terms/poof
 - /terms/sound
-- /terms/sound-effects
+- /terms/sound-effect
 - /terms/squeak
 - /terms/volume
 

@@ -12,7 +12,7 @@ A section found in the (link: /terms/prefs text: Prefs) application.
 
 In the Sound (link: /terms/slip text: slip), the user can specify whether audio is played through the internal speaker, through an external (link: /terms/output text: output) device, or both.
 
-The user can also set the (link: /terms/alert-sound text: alert sound), the (link: /terms/volume text: volume) of those alerts, and whether or not (link: /terms/sound-effects text: sound effects) are played during certain (link: /terms/user-interface text: user interface) interactions or when using the (link: /terms/pen text: pen).
+The user can also set the (link: /terms/alert-sound text: alert sound), the (link: /terms/volume text: volume) of those alerts, and whether or not (link: /terms/sound-effect text: sound effects) are played during certain (link: /terms/user-interface text: user interface) interactions or when using the (link: /terms/pen text: pen).
 
 (image: /assets/images/sound-2x.gif alt: Screenshot of the Sound preference slip width: 240)
 

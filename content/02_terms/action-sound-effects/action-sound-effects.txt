@@ -32,7 +32,7 @@ Related:
 - /terms/scrub
 - /terms/scrubbing
 - /terms/sound
-- /terms/sound-effects
+- /terms/sound-effect
 - /terms/squeak
 - /terms/volume
 - /terms/zig-zag
