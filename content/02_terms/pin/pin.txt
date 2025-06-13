@@ -26,6 +26,7 @@ Related:
 - /terms/newtonunlock
 - /terms/passcode
 - /terms/password
+- /terms/password-slip
 - /terms/security
 - /terms/system-password
 - /terms/teacher-password

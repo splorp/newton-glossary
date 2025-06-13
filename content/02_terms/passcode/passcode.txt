@@ -28,6 +28,7 @@ Related:
 - /terms/newton-messaging-card
 - /terms/newtonunlock
 - /terms/password
+- /terms/password-slip
 - /terms/pin
 - /terms/security
 

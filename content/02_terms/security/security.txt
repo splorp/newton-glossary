@@ -23,6 +23,7 @@ Related:
 - /terms/newtonunlock
 - /terms/passcode
 - /terms/password
+- /terms/password-slip
 - /terms/pin
 - /terms/prefs
 - /terms/teacher-password

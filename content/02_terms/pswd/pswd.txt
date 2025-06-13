@@ -1,0 +1,17 @@
+Title: Pswd
+
+----
+
+Date: 13 June 2025
+
+----
+
+Text:
+
+See: (link: /terms/password text: Password)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

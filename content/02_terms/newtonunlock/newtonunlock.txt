@@ -23,6 +23,7 @@ Related:
 - /terms/passcode
 - /terms/pin
 - /terms/password
+- /terms/password-slip
 - /terms/security
 
 ----
