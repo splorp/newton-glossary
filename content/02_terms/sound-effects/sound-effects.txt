@@ -1,0 +1,11 @@
+Title: Sound Effects
+
+----
+
+Date: 08 June 2025
+
+----
+
+Text:
+
+See: (link: /terms/alert-sound text: Alert Sound), (link: /terms/action-sound-effects text: Action Sound Effects), and (link: /terms/pen-sound-effects text: Pen Sound Effects)

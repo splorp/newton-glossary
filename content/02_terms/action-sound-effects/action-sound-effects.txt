@@ -1,0 +1,45 @@
+Title: Action Sound Effects
+
+----
+
+Date: 10 June 2025
+
+----
+
+Text:
+
+Sounds that are played in conjunction with certain (link: /terms/user-interface text: user interface) interactions.
+
+For example, a (link: /terms/sound-effect text: sound effect) is played when the (link: /terms/extras-drawer text: Extras Drawer) is opened and closed, or when text is (link: /terms/scrub text: scrubbed) out in the (link: /terms/notepad text: Notepad) application, a “(link: /terms/poof text: poof)” sound is played.
+
+Action sound effects can be turned on and off in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
+
+----
+
+Related:
+
+- /terms/alert-sound
+- /terms/boot-up-chime
+- /terms/broink
+- /terms/clank
+- /terms/click
+- /terms/extras-drawer
+- /terms/going-up-in-smoke
+- /terms/hot-dog-song
+- /terms/pen-sound-effects
+- /terms/poof
+- /terms/poof-it
+- /terms/scrub
+- /terms/scrubbing
+- /terms/sound
+- /terms/sound-effects
+- /terms/squeak
+- /terms/volume
+- /terms/zig-zag
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
+- /sources/messagepad-2000-getting-started

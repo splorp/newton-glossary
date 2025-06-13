@@ -14,6 +14,7 @@ To erase or delete words or images using a (link: /terms/zig-zag text: zig-zag) 
 
 Related:
 
+- /terms/action-sound-effects
 - /terms/gesture
 - /terms/going-up-in-smoke
 - /terms/pen

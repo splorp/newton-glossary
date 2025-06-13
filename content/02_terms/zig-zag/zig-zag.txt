@@ -16,6 +16,7 @@ Also referred to as (link: /terms/zigzag text: Zigzag).
 
 Related:
 
+- /terms/action-sound-effects
 - /terms/gesture
 - /terms/going-up-in-smoke
 - /terms/pen
