@@ -19,6 +19,7 @@ Related:
 - /terms/highlight
 - /terms/highlight-mark
 - /terms/hilite2000
+- /terms/pen-sound-effects
 - /terms/select
 - /terms/selection
 - /terms/selection-box

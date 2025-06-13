@@ -12,6 +12,21 @@ The sound made by a Newton device when the user (link: /terms/tap text: taps) a 
 
 ----
 
+Related:
+
+- /terms/alert-sound
+- /terms/boot-up-chime
+- /terms/broink
+- /terms/clank
+- /terms/hot-dog-song
+- /terms/pen-sound-effects
+- /terms/poof
+- /terms/sound
+- /terms/squeak
+- /terms/volume
+
+----
+
 Source:
 
 - /sources/newton-programmers-guide
