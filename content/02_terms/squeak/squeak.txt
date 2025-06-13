@@ -25,6 +25,7 @@ Related:
 - /terms/highlight
 - /terms/hilite-sound
 - /terms/hot-dog-song
+- /terms/paper-crumpling
 - /terms/pen
 - /terms/pen-sound-effects
 - /terms/poof

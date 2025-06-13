@@ -26,6 +26,7 @@ Related:
 - /terms/extras-drawer
 - /terms/going-up-in-smoke
 - /terms/hot-dog-song
+- /terms/paper-crumpling
 - /terms/pen-sound-effects
 - /terms/poof
 - /terms/poof-it

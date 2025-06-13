@@ -30,6 +30,7 @@ Related:
 - /terms/notification-slip
 - /terms/notify-button
 - /terms/notify-picker
+- /terms/paper-crumpling
 - /terms/pen-sound-effects
 - /terms/poof
 - /terms/sound

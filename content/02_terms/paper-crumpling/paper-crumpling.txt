@@ -1,0 +1,43 @@
+Title: Paper Crumpling
+
+----
+
+Date: 13 June 2025
+
+----
+
+Text:
+
+The initial (link: /terms/action-sound-effect text: action sound effect) that accompanies the animation simulating a deleted (link: /terms/Notepad text: Notepad) item being wadded into a ball before be tossed into a trash can.
+
+Also referred to as (link: /terms/crumple text: Crumple).
+
+----
+
+Related:
+
+- /terms/action-sound-effects
+- /terms/alert-sound
+- /terms/boot-up-chime
+- /terms/broink
+- /terms/clank
+- /terms/click
+- /terms/crumple
+- /terms/going-up-in-smoke
+- /terms/hot-dog-song
+- /terms/poof
+- /terms/poof-it
+- /terms/puff-of-air
+- /terms/scrub
+- /terms/scrubbing
+- /terms/sound
+- /terms/squeak
+- /terms/volume
+- /terms/zig-zag
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference

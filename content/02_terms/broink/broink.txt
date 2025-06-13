@@ -21,6 +21,7 @@ Related:
 - /terms/display
 - /terms/emate-300
 - /terms/floppy-lid
+- /terms/paper-crumpling
 - /terms/poof
 - /terms/spring-issue
 - /terms/squeak

@@ -23,6 +23,7 @@ Related:
 - /terms/click
 - /terms/hot-dog-song
 - /terms/local-scroll-arrows
+- /terms/paper-crumpling
 - /terms/poof
 - /terms/roll-view
 - /terms/scroll

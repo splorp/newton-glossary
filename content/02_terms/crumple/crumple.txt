@@ -1,0 +1,18 @@
+Title: Crumple
+
+----
+
+Date: 10 June 2025
+
+----
+
+Text:
+
+See: (link: /terms/paper-crumpling text: Paper Crumpling)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference

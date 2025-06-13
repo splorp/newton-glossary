@@ -17,6 +17,7 @@ Also referred to as (link: /terms/puff-of-smoke text: Puff of Smoke) and (link: 
 Related:
 
 - /terms/action-sound-effects
+- /terms/paper-crumpling
 - /terms/dissipating-smoke
 - /terms/poof
 - /terms/poof-it

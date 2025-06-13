@@ -19,6 +19,7 @@ Related:
 - /terms/action-sound-effects
 - /terms/gesture
 - /terms/going-up-in-smoke
+- /terms/paper-crumpling
 - /terms/pen
 - /terms/poof
 - /terms/poof-it
