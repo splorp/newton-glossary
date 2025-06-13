@@ -8,7 +8,7 @@ Date: 13 June 2025
 
 Text:
 
-See: (link: /terms/password text: Password)
+See: (link: /terms/password text: Password) and (link: /terms/password-slip text: Password Slip)
 
 ----
 
