@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An audible warning from the Newton’s speaker that warns the user of an unusual or potentially undesirable situation. An alert sound can also be accompanied by an (link: /terms/alert-box text: alert box) or (link: /terms/notification-alert text: notification alert).
+An audible warning that indicates an unusual or potentially undesirable situation. An alert sound can also be accompanied by an (link: /terms/alert-box text: alert box) or (link: /terms/notification-alert text: notification alert).
 
 The alert sound can be changed in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
 
@@ -29,6 +29,7 @@ Related:
 - /terms/notify-button
 - /terms/notify-picker
 - /terms/poof
+- /terms/sound
 - /terms/squeak
 - /terms/volume
 
