@@ -36,6 +36,8 @@ Related:
 - /terms/clank
 - /terms/click
 - /terms/cuckoo
+- /terms/drawer-closing
+- /terms/drawer-opening
 - /terms/easter-egg
 - /terms/egg-freckles
 - /terms/espy-sans

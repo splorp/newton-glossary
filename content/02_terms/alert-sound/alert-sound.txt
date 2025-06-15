@@ -25,6 +25,8 @@ Related:
 - /terms/boot-up-chime
 - /terms/clank
 - /terms/click
+- /terms/drawer-closing
+- /terms/drawer-opening
 - /terms/hot-dog-song
 - /terms/notification-alert
 - /terms/notification-slip

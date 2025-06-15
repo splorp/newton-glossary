@@ -20,6 +20,8 @@ Related:
 - /terms/boot-up-chime
 - /terms/broink
 - /terms/clank
+- /terms/drawer-closing
+- /terms/drawer-opening
 - /terms/hot-dog-song
 - /terms/paper-crumpling
 - /terms/pen-sound-effects

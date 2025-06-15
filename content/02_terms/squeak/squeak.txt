@@ -21,6 +21,8 @@ Related:
 - /terms/broink
 - /terms/clank
 - /terms/click
+- /terms/drawer-closing
+- /terms/drawer-opening
 - /terms/heavy-mark
 - /terms/highlight
 - /terms/hilite-sound

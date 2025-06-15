@@ -18,6 +18,8 @@ Related:
 - /terms/clank
 - /terms/click
 - /terms/dhp
+- /terms/drawer-closing
+- /terms/drawer-opening
 - /terms/display
 - /terms/emate-300
 - /terms/floppy-lid

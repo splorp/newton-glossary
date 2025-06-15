@@ -22,6 +22,8 @@ Related:
 - /terms/broink
 - /terms/clanking
 - /terms/click
+- /terms/drawer-closing
+- /terms/drawer-opening
 - /terms/hot-dog-song
 - /terms/local-scroll-arrows
 - /terms/paper-crumpling

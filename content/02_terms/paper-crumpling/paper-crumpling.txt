@@ -23,6 +23,8 @@ Related:
 - /terms/clank
 - /terms/click
 - /terms/crumple
+- /terms/drawer-closing
+- /terms/drawer-opening
 - /terms/going-up-in-smoke
 - /terms/hot-dog-song
 - /terms/poof

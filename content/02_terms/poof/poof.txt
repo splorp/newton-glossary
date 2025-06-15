@@ -22,6 +22,8 @@ Related:
 - /terms/broink
 - /terms/clank
 - /terms/click
+- /terms/drawer-closing
+- /terms/drawer-opening
 - /terms/going-up-in-smoke
 - /terms/hot-dog-song
 - /terms/paper-crumpling

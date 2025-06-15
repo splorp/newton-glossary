@@ -1,0 +1,47 @@
+Title: Drawer Closing
+
+----
+
+Date: 14 June 2025
+
+----
+
+Text:
+
+The (link: /terms/action-sound-effects text: action sound effect) that plays when the (link: /terms/extras-drawer text: Extras Drawer) application is closed.
+
+Also referred to as (link: /terms/drawerclose text: drawerClose).
+
+A complementary (link: /terms/sound-effect text: sound effect) called (link: /terms/drawer-opening text: Drawer Opeing) is played when the Extras Drawer is opened.
+
+----
+
+Related:
+
+- /terms/action-sound-effects
+- /terms/alert-sound
+- /terms/boot-up-chime
+- /terms/broink
+- /terms/chord
+- /terms/clank
+- /terms/click
+- /terms/drawerclose
+- /terms/drawer-opening
+- /terms/extras-drawer
+- /terms/going-up-in-smoke
+- /terms/hot-dog-song
+- /terms/paper-crumpling
+- /terms/poof
+- /terms/poof-it
+- /terms/puff-of-air
+- /terms/scrub
+- /terms/sound
+- /terms/squeak
+- /terms/volume
+- /terms/zig-zag
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
