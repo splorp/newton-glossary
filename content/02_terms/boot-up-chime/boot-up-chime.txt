@@ -16,14 +16,15 @@ Related:
 
 - /terms/alert-sound
 - /terms/boot
+- /terms/broink
 - /terms/chime
 - /terms/clank
 - /terms/click
 - /terms/hot-dog-song
 - /terms/paper-crumpling
 - /terms/poof
-- /terms/squeak
 - /terms/sound
+- /terms/squeak
 - /terms/volume
 
 ----

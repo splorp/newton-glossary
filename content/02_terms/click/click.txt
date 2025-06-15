@@ -8,7 +8,9 @@ Date: 13 June 2025
 
 Text:
 
-The sound made by a Newton device when the user (link: /terms/tap text: taps) a (link: /terms/user-interface text: user interface) element such as a (link: /terms/button text: button) or (link: /terms/close-box text: close box).
+The (link: /terms/pen-sound-effects text: pen sound effect) made by a Newton device when the user (link: /terms/tap text: taps) a (link: /terms/user-interface text: user interface) element such as a (link: /terms/button text: button) or (link: /terms/close-box text: close box).
+
+On Newton devices running (link: /terms/newton-os text: Newton OS) 2.0 and later, Click is also one of the options for the (link: /terms/alert-sound text: alert sound) which can be selected in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
 
 ----
 

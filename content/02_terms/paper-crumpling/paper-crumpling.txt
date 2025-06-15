@@ -8,7 +8,7 @@ Date: 13 June 2025
 
 Text:
 
-The initial (link: /terms/action-sound-effect text: action sound effect) that accompanies the animation simulating a deleted (link: /terms/Notepad text: Notepad) item being wadded into a ball before be tossed into a trash can.
+The initial (link: /terms/action-sound-effect text: action sound effect) that is played when deleting an item in the (link: /terms/Notepad text: Notepad) application. The sound accompanies an animation which simulates an item being wadded into a ball before be tossed into a trash can.
 
 Also referred to as (link: /terms/crumple text: Crumple).
 
