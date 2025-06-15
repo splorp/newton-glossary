@@ -22,6 +22,7 @@ Related:
 - /terms/poof
 - /terms/poof-it
 - /terms/scribble
+- /terms/scrubbed
 - /terms/scrubbing
 - /terms/zig-zag
 
