@@ -24,7 +24,6 @@ Related:
 - /terms/poof
 - /terms/poof-it
 - /terms/scrub
-- /terms/scrubbing
 - /terms/zigzag
 
 ----

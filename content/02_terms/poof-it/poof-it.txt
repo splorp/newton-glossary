@@ -19,7 +19,6 @@ Related:
 - /terms/paper-crumpling
 - /terms/poof
 - /terms/scrub
-- /terms/scrubbing
 - /terms/zig-zag
 
 ----

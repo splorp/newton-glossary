@@ -16,7 +16,6 @@ Related:
 
 - /terms/button
 - /terms/clank
-- /terms/clanking
 - /terms/icon
 - /terms/roll-view
 - /terms/scroll

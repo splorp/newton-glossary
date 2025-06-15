@@ -23,7 +23,6 @@ Related:
 - /terms/poof-it
 - /terms/puff-of-smoke
 - /terms/scrub
-- /terms/scrubbing
 - /terms/smoke-clouds
 - /terms/wavy-border
 - /terms/zig-zag

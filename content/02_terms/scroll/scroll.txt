@@ -15,7 +15,6 @@ To cause the currently displayed data to move off the (link: /terms/screen text:
 Related:
 
 - /terms/clank
-- /terms/clanking
 - /terms/local-scroll-arrows
 - /terms/roll-view
 - /terms/scroll-arrows
