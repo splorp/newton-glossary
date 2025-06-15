@@ -19,6 +19,7 @@ Related:
 - /terms/alert-sound
 - /terms/boot-up-chime
 - /terms/broink
+- /terms/chord
 - /terms/clank
 - /terms/drawer-closing
 - /terms/drawer-opening

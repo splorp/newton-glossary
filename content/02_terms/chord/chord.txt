@@ -1,0 +1,40 @@
+Title: Chord
+
+----
+
+Date: 14 June 2025
+
+----
+
+Text:
+
+An (link: /terms/alert-sound text: alert sound) which can be selected in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
+
+Chord is the same sound as the (link: /terms/boot-up-chime text: boot up chime) heard when a Newton device is powered on after having been (link: /terms/reset text: reset).
+
+
+----
+
+Related:
+
+- /terms/alert-sound
+- /terms/boot-up-chime
+- /terms/broink
+- /terms/clank
+- /terms/click
+- /terms/drawer-closing
+- /terms/drawer-opening
+- /terms/hot-dog-song
+- /terms/paper-crumpling
+- /terms/pen-sound-effects
+- /terms/poof
+- /terms/sound
+- /terms/squeak
+- /terms/volume
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference

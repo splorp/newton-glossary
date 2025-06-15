@@ -15,6 +15,7 @@ The distinct sound made by an (link: /terms/emate-300 text: eMate 300) when the 
 Related:
 
 - /terms/clamshell
+- /terms/chord
 - /terms/clank
 - /terms/click
 - /terms/dhp

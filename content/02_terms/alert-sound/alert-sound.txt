@@ -23,6 +23,7 @@ Related:
 - /terms/alert-sound-effects
 - /terms/bleepmaker
 - /terms/boot-up-chime
+- /terms/chord
 - /terms/clank
 - /terms/click
 - /terms/drawer-closing
