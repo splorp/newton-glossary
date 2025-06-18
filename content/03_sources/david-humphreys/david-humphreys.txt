@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-The famous “PCBMan” was the creator of several Newton hardware enhancements, including the (link: /terms/ser-001 text: SER-001) serial port modification and the (link: /terms/em300 text: EM300) memory upgrade board.
+The famous “(link: /terms/pcbman text: PCBman)” was the creator of several Newton hardware enhancements, including the (link: /terms/ser-001 text: SER-001) serial port modification and the (link: /terms/em300 text: EM300) memory upgrade board.
 
 ----
 
