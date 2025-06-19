@@ -30,21 +30,22 @@ Before submitting new terms or suggestion corrections to existing entries, pleas
 
 Other glossarial references we love.
 
-+ [A Devil’s Dictionary of Educational Technology](https://medium.com/@bryanalexander/a-devils-dictionary-of-educational-technology-1c3ea9a0b932) by _[Bryan Alexander](https://bryanalexander.org/)_
-+ [Apple Style Guide](https://support.apple.com/guide/applestyleguide/welcome/web) by _[Apple](https://www.apple.com/)_
++ [A Devil’s Dictionary of Educational Technology](https://bryanalexander.medium.com/a-devils-dictionary-of-educational-technology-1c3ea9a0b932) by _[Bryan Alexander](https://bryanalexander.org/)_
++ [The Apple Store Glossary](https://departmentmap.store/glossary) _by [Michael Steeber](https://departmentmap.store/michaelsteeber)_
++ [Apple Style Guide](https://support.apple.com/en-ca/guide/applestyleguide/welcome/web) by _[Apple](https://www.apple.com/)_
 + [Dictionary of Archives Terminology](https://dictionary.archivists.org/) _by [Society of American Archivists](https://archivists.org/aboutsaa)_
 + [Dictionary of Canadianisms on Historical Principles](https://www.dchp.ca/dchp2/) by _[Stefan Dollinger](https://ubc.academia.edu/StefanDollinger)_
 + [Discogs Database Glossary](https://support.discogs.com/hc/en-us/articles/360004017694-Database-Glossary) _by [Discogs](https://www.discogs.com/)_
 + [Free Online Dictionary of Computing](https://foldoc.org/) _by [Denis Howe](https://foldoc.org/Denis+Howe)_
 + [Google Fonts Glossary](https://fonts.google.com/knowledge/glossary) _by [Google Fonts](https://fonts.google.com/)_
 + [Green’s Dictionary of Slang](https://greensdictofslang.com/) _by Jonathon Green_
++ [Historical Dictionary of Science Fiction](https://sfdictionary.com/) _by [Jesse Sheidlower](https://www.jessesword.com/)_
++ [The IKEA Dictionary](https://lar5.com/ikea/) _by [Lars Petrus](https://lar5.com/)_
 + [Jargon File](http://catb.org/~esr/jargon/) _by [Eric S. Raymond](http://www.catb.org/~esr/)_
-+ [List of LGBTQ+ Terms](https://www.stonewall.org.uk/list-lgbtq-terms) _by [Stonewall](https://www.stonewall.org.uk/)_
++ [List of LGBTQ+ Terms](https://www.stonewall.org.uk/resources/list-lgbtq-terms) _by [Stonewall](https://www.stonewall.org.uk/)_
 + [Neoglossary](https://neoglossary.tumblr.com/) _by [Riccardo Mori](https://morrick.me)_
 + [Online Etymology Dictionary](https://www.etymonline.com/) _by [Douglas Harper](http://slavenorth.com/columns/bio.htm)_
 + [Rands Management Glossary](https://randsinrepose.com/glossary/) _by [Michael Lopp](https://randsinrepose.com/about/)_
-+ [The Apple Store Glossary](https://departmentmap.store/glossary) _by [Michael Steeber](https://departmentmap.store/michaelsteeber)_
-+ [The IKEA Dictionary](https://lar5.com/ikea/) _by [Lars Petrus](https://lar5.com/)_
 + [Typography Terms and Definitions](https://www.monotype.com/resources/expertise/typography-terms-and-definitions) _by [Monotype](https://www.monotype.com/)_
 + [WebGlossary.info](https://webglossary.info/) _by [Jens Oliver Meiert](https://meiert.com/en/)_
 
