@@ -20,7 +20,6 @@ Related:
 
 - /terms/alert-sound
 - /terms/boot-up-chime
-- /terms/broink
 - /terms/chord
 - /terms/clank
 - /terms/click

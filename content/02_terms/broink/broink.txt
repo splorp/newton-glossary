@@ -15,19 +15,11 @@ The distinct sound made by an (link: /terms/emate-300 text: eMate 300) when the 
 Related:
 
 - /terms/clamshell
-- /terms/chord
-- /terms/clank
-- /terms/click
 - /terms/dhp
-- /terms/drawer-closing
-- /terms/drawer-opening
 - /terms/display
 - /terms/emate-300
 - /terms/floppy-lid
-- /terms/paper-crumpling
-- /terms/poof
 - /terms/spring-issue
-- /terms/squeak
 
 ----
 
