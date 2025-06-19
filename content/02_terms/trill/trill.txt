@@ -1,8 +1,8 @@
-Title: Chord
+Title: Trill
 
 ----
 
-Date: 14 June 2025
+Date: 19 June 2025
 
 ----
 
@@ -10,8 +10,9 @@ Text:
 
 An (link: /terms/alert-sound text: alert sound) which can be selected in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
 
-Chord is the same sound as the (link: /terms/boot-up-chime text: boot up chime) heard when a Newton device is powered on after having been (link: /terms/reset text: reset).
+Trill is one of the four original (link: /terms/alert-sound-effects text: alert sound effects) available in (link: /terms/newton-os text: Newton OS) 1.3 and earlier.
 
+Also referred to as (link: /terms/funbeep text: funBeep).
 
 ----
 
@@ -19,6 +20,7 @@ Related:
 
 - /terms/alert-sound
 - /terms/boot-up-chime
+- /terms/chord
 - /terms/clank
 - /terms/click
 - /terms/drawer-closing
@@ -29,7 +31,6 @@ Related:
 - /terms/poof
 - /terms/sound
 - /terms/squeak
-- /terms/trill
 - /terms/volume
 
 ----

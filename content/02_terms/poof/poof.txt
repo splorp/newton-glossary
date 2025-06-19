@@ -33,6 +33,7 @@ Related:
 - /terms/scrub
 - /terms/sound
 - /terms/squeak
+- /terms/trill
 - /terms/volume
 - /terms/zig-zag
 

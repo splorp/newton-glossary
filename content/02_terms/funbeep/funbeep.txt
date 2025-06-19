@@ -1,0 +1,18 @@
+Title: funBeep
+
+----
+
+Date: 19 June 2025
+
+----
+
+Text:
+
+See: (link: /terms/trill text: Trill)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference

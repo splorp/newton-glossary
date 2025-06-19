@@ -28,6 +28,7 @@ Related:
 - /terms/poof
 - /terms/sound
 - /terms/squeak
+- /terms/trill
 - /terms/volume
 
 ----

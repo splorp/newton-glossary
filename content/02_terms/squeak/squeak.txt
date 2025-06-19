@@ -36,6 +36,7 @@ Related:
 - /terms/selection
 - /terms/sound
 - /terms/squeek
+- /terms/trill
 - /terms/user-interface
 - /terms/volume
 

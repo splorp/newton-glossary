@@ -32,6 +32,7 @@ Related:
 - /terms/power-on
 - /terms/sound
 - /terms/squeak
+- /terms/trill
 - /terms/volume
 - /terms/wakeupbeep
 
