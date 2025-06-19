@@ -10,7 +10,7 @@ Text:
 
 An (link: /terms/alert-sound text: alert sound) which can be selected in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
 
-Trill is one of the four original (link: /terms/alert-sound-effects text: alert sound effects) available in (link: /terms/newton-os text: Newton OS) 1.3 and earlier.
+Chord is one of four alert sounds available in all versions of (link: /terms/newton-os text: Newton OS).
 
 Also referred to as (link: /terms/funbeep text: funBeep).
 

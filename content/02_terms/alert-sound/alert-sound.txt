@@ -12,6 +12,8 @@ An audible warning that indicates an unusual or potentially undesirable situatio
 
 The alert sound can be changed in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
 
+The Bell, (link: /terms/chord text: Chord), (link: /terms/trill text: Trill), and Xylo alert sounds first appeared in (link: /terms/newton-os text: Newton OS) 1.0 and are available in all subsequent versions of the (link: /terms/operating-system text: operating system). Newton OS 2.0 introduced additional alert sounds, including Birdie, Buzzer, Chirp, Click, Do Re Mi, Echo, Gong, Out There, Psssssst, Spring, Wheep, and Whoop.
+
 On devices running (link: /terms/newton-os text: Newton OS) 1.x, alert sounds are called (link: /terms/alert-sound-effects text: alert sound effects).
 
 ----

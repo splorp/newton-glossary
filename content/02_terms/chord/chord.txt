@@ -10,8 +10,9 @@ Text:
 
 An (link: /terms/alert-sound text: alert sound) which can be selected in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
 
-Chord is the same sound as the (link: /terms/boot-up-chime text: boot up chime) heard when a Newton device is powered on after having been (link: /terms/reset text: reset).
+Chord is one of four alert sounds available in all versions of (link: /terms/newton-os text: Newton OS).
 
+It is the same sound as the (link: /terms/boot-up-chime text: boot up chime) heard when a Newton device is powered on after having been (link: /terms/reset text: reset).
 
 ----
 
