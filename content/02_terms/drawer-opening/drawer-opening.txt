@@ -12,7 +12,7 @@ The (link: /terms/action-sound-effects text: action sound effect) that plays whe
 
 Also referred to as (link: /terms/draweropen text: drawerOpen).
 
-A complementary (link: /terms/sound-effect text: sound effect) called (link: /terms/drawer-closing text: Drawer Closing) is played when the Extras Drawer is closed.
+A complementary (link: /terms/sound-effect text: sound effect) called “(link: /terms/drawer-closing text: drawer closing)” is played when the Extras Drawer is closed.
 
 ----
 

@@ -26,6 +26,7 @@ Related:
 - /terms/click
 - /terms/drawer-closing
 - /terms/drawer-opening
+- /terms/funbeep
 - /terms/hot-dog-song
 - /terms/paper-crumpling
 - /terms/pen-sound-effects
