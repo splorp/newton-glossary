@@ -27,11 +27,11 @@ Sources: _$s
 
 + Added new terms
 + Added new sources
-+ Updated and expanded dozens of existing entries
++ Updated and expanded hundreds of existing entries
 + Implemented [Kirby Bettersearch](https://github.com/bvdputte/kirby-bettersearch) plugin
 + Added some help text on the (link: /search text: Search) page
 + Adjusted the layout of links in the footer for smaller screens
-+ Updated [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) to version [1.36](https://github.com/ai-robots-txt/ai.robots.txt/releases/tag/v1.36)
++ Updated [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) to version [1.37](https://github.com/ai-robots-txt/ai.robots.txt/releases/tag/v1.37)
 + Updated [Kirby](https://getkirby.com/) to version [4.8.0](https://github.com/getkirby/kirby/releases/tag/4.8.0)
 
 ### 4.5.1
