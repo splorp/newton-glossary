@@ -23,6 +23,7 @@ Related:
 - /terms/action-sound-effects
 - /terms/alert-box
 - /terms/alert-sound-effects
+- /terms/bell
 - /terms/bleepmaker
 - /terms/boot-up-chime
 - /terms/chord
@@ -43,6 +44,7 @@ Related:
 - /terms/squeak
 - /terms/trill
 - /terms/volume
+- /terms/xylo
 
 ----
 

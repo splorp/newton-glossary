@@ -19,6 +19,7 @@ Action sound effects can be turned on and off in the (link: /terms/sound text: S
 Related:
 
 - /terms/alert-sound
+- /terms/bell
 - /terms/boot-up-chime
 - /terms/chord
 - /terms/clank
@@ -38,6 +39,7 @@ Related:
 - /terms/squeak
 - /terms/trill
 - /terms/volume
+- /terms/xylo
 - /terms/zig-zag
 
 ----

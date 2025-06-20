@@ -19,6 +19,7 @@ The boot up chime can be used as an (link: /terms/alert-sound text: alert sound)
 Related:
 
 - /terms/alert-sound
+- /terms/bell
 - /terms/boot
 - /terms/chime
 - /terms/chord
@@ -35,6 +36,7 @@ Related:
 - /terms/trill
 - /terms/volume
 - /terms/wakeupbeep
+- /terms/xylo
 
 ----
 

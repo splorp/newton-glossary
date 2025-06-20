@@ -17,6 +17,7 @@ On Newton devices running (link: /terms/newton-os text: Newton OS) 2.0 and later
 Related:
 
 - /terms/alert-sound
+- /terms/bell
 - /terms/boot-up-chime
 - /terms/chord
 - /terms/clank
@@ -30,6 +31,7 @@ Related:
 - /terms/squeak
 - /terms/trill
 - /terms/volume
+- /terms/xylo
 
 ----
 

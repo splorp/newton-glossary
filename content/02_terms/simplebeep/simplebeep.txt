@@ -1,0 +1,18 @@
+Title: simpleBeep
+
+----
+
+Date: 20 June 2025
+
+----
+
+Text:
+
+See: (link: /terms/bell text: Bell)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference

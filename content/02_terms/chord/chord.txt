@@ -19,6 +19,7 @@ It is the same sound as the (link: /terms/boot-up-chime text: boot up chime) hea
 Related:
 
 - /terms/alert-sound
+- /terms/bell
 - /terms/boot-up-chime
 - /terms/clank
 - /terms/click
@@ -32,6 +33,7 @@ Related:
 - /terms/squeak
 - /terms/trill
 - /terms/volume
+- /terms/xylo
 
 ----
 

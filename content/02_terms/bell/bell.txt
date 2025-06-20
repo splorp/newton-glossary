@@ -1,8 +1,8 @@
-Title: Trill
+Title: Bell
 
 ----
 
-Date: 19 June 2025
+Date: 20 June 2025
 
 ----
 
@@ -10,16 +10,15 @@ Text:
 
 An (link: /terms/alert-sound text: alert sound) which can be selected in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
 
-Trill is one of four alert sounds available in all versions of (link: /terms/newton-os text: Newton OS).
+Bell is one of four alert sounds available in all versions of (link: /terms/newton-os text: Newton OS).
 
-Also referred to as (link: /terms/funbeep text: funBeep).
+Also referred to as (link: /terms/simplebeep text: simpleBeep).
 
 ----
 
 Related:
 
 - /terms/alert-sound
-- /terms/bell
 - /terms/boot-up-chime
 - /terms/chord
 - /terms/clank
@@ -29,9 +28,12 @@ Related:
 - /terms/hot-dog-song
 - /terms/paper-crumpling
 - /terms/pen-sound-effects
+- /terms/plunk
 - /terms/poof
+- /terms/simplebeep
 - /terms/sound
 - /terms/squeak
+- /terms/trill
 - /terms/volume
 - /terms/xylo
 

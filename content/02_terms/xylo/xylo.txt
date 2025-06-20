@@ -1,8 +1,8 @@
-Title: Trill
+Title: Xylo
 
 ----
 
-Date: 19 June 2025
+Date: 20 June 2025
 
 ----
 
@@ -10,9 +10,9 @@ Text:
 
 An (link: /terms/alert-sound text: alert sound) which can be selected in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
 
-Trill is one of four alert sounds available in all versions of (link: /terms/newton-os text: Newton OS).
+Xylo is one of four alert sounds available in all versions of (link: /terms/newton-os text: Newton OS).
 
-Also referred to as (link: /terms/funbeep text: funBeep).
+Also referred to as (link: /terms/plink text: Plink) and (link: /terms/plinkbeep text: plinkBeep).
 
 ----
 
@@ -29,11 +29,14 @@ Related:
 - /terms/hot-dog-song
 - /terms/paper-crumpling
 - /terms/pen-sound-effects
+- /terms/plink
+- /terms/plinkbeep
+- /terms/plunk
 - /terms/poof
 - /terms/sound
 - /terms/squeak
+- /terms/trill
 - /terms/volume
-- /terms/xylo
 
 ----
 
