@@ -25,17 +25,13 @@ Related:
 - /terms/crumple
 - /terms/drawer-closing
 - /terms/drawer-opening
-- /terms/going-up-in-smoke
 - /terms/hot-dog-song
+- /terms/plunk
 - /terms/poof
-- /terms/poof-it
-- /terms/puff-of-air
-- /terms/scrub
 - /terms/sound
 - /terms/squeak
 - /terms/trill
 - /terms/volume
-- /terms/zig-zag
 
 ----
 

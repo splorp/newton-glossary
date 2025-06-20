@@ -16,7 +16,6 @@ Related:
 
 - /terms/action-sound-effects
 - /terms/going-up-in-smoke
-- /terms/paper-crumpling
 - /terms/poof
 - /terms/scrub
 - /terms/zig-zag
