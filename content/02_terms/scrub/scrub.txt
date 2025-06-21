@@ -8,13 +8,14 @@ Date: 24 May 2001
 
 Text:
 
-To erase or delete words or images using a (link: /terms/zig-zag text: zig-zag) gesture with the (link: /terms/pen text: pen). Also referred to as a (link: /terms/scribble text: scribble) gesture in the beta version of (link: /terms/newton-os text: Newton OS) included on the (link: /terms/notepad text: Newton Notepad) device.
+To (link: /terms/delete text: delete) text or (link: /terms/ink text: ink) drawings using a (link: /terms/zig-zag text: zig-zag) gesture with the (link: /terms/pen text: pen). Also referred to as a (link: /terms/scribble text: scribble) gesture in the beta version of (link: /terms/newton-os text: Newton OS) included on the (link: /terms/notepad text: Newton Notepad) device.
 
 ----
 
 Related:
 
 - /terms/action-sound-effects
+- /terms/delete
 - /terms/gesture
 - /terms/going-up-in-smoke
 - /terms/pen

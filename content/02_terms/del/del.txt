@@ -1,0 +1,17 @@
+Title: del
+
+----
+
+Date: 21 June 2025
+
+----
+
+Text:
+
+See: (link: /terms/delete text: Delete)
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

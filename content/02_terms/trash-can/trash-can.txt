@@ -1,0 +1,34 @@
+Title: Trash Can
+
+----
+
+Date: 21 June 2025
+
+----
+
+Text:
+
+A component of the animation that occurs when an item is (link: /terms/delete text: deleted) in an (link: /terms/application text: application) such as the (link: /terms/Notepad text: Notepad).
+
+The animation simulates an item being wadded into a ball before be tossed into a trash can.
+
+When the animated item hits the trash can, a “(link: /terms/plunk text: plunk)” is played.
+
+----
+
+Related:
+
+- /terms/action-sound-effects
+- /terms/delete
+- /terms/going-up-in-smoke
+- /terms/paper-crumpling
+- /terms/plunk
+- /terms/trash
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference

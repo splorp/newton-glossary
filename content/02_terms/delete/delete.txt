@@ -1,0 +1,43 @@
+Title: Delete
+
+----
+
+Date: 21 June 2025
+
+----
+
+Text:
+
+The (link: /terms/action text: action) performed to remove or erase text, images, documents, (link: /terms/application text: applications), (link: /terms/package text: packages), or other data.
+
+Delete is one of the options located in the (link: /terms/action-picker text: action picker).
+
+To delete text or (link: /terms/ink text: ink) drawings on a Newton device, you can use the (link: /terms/pen text: pen) to (link: /terms/scrub text: scrub) the information using a (link: /terms/zig-zag text: zig-zag) gesture.
+
+When using the onscreen (link: /terms/typewriter text: typewriter) keyboard or entering a (link: /terms/pin text: PIN), the Delete key is labeled “(link: /terms/del text: del)”.
+
+Also referred to as (link: /terms/trash text: Trash).
+
+----
+
+Related:
+
+- /terms/action
+- /terms/action-button
+- /terms/action-picker
+- /terms/del
+- /terms/gesture
+- /terms/going-up-in-smoke
+- /terms/poof
+- /terms/poof-it
+- /terms/trash
+- /terms/trash-can
+- /terms/user-interface
+- /terms/zig-zag
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
+- /sources/messagepad-2000-user-manual

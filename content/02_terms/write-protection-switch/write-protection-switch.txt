@@ -8,7 +8,7 @@ Date: 17 July 2024
 
 Text:
 
-A small, sliding lever located on a (link: /terms/storage-card text: storage card) used to prevent storing, moving, deleting, or changing information on the card.
+A small, sliding lever located on a (link: /terms/storage-card text: storage card) used to prevent storing, moving, (link: /terms/delete text: deleting), or changing information on the card.
 
 Also referred to as a (link: /terms/card-lock-switch text: Card Lock Switch), (link: /terms/protection-switch text: Protection Switch), or (link: /terms/write-protect-switch text: Write-Protect Switch).
 

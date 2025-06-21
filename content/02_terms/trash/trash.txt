@@ -1,0 +1,18 @@
+Title: Trash
+
+----
+
+Date: 21 June 2025
+
+----
+
+Text:
+
+See: (link: /terms/delete text: Delete) and (link: /terms/trash-can text: Trash Can)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference

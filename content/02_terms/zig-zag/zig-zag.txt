@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A back and forth (link: /terms/gesture text: gesture) made with the (link: /terms/pen text: pen). This gesture is usually performed in order to erase or delete words or images on the (link: /terms/screen text: screen) of a Newton device.
+A back and forth (link: /terms/gesture text: gesture) made with the (link: /terms/pen text: pen). This gesture is usually performed in order to (link: /terms/delete text: delete) text or (link: /terms/ink text: ink) drawings on the (link: /terms/screen text: screen) of a Newton device.
 
 Also referred to as (link: /terms/zigzag text: Zigzag).
 
@@ -17,6 +17,7 @@ Also referred to as (link: /terms/zigzag text: Zigzag).
 Related:
 
 - /terms/action-sound-effects
+- /terms/delete
 - /terms/gesture
 - /terms/going-up-in-smoke
 - /terms/pen

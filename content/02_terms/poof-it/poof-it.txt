@@ -8,13 +8,14 @@ Date: 06 October 2002
 
 Text:
 
-To erase something on a Newton device using the (link: /terms/scrubbing text: scrubbing) gesture, as described by (link: /sources/anton-balaban text: Anton Balaban)’s young son.
+To (link: /terms/delete text: delete) something on a Newton device using the (link: /terms/scrubbing text: scrubbing) gesture, as described by (link: /sources/anton-balaban text: Anton Balaban)’s young son.
 
 ----
 
 Related:
 
 - /terms/action-sound-effects
+- /terms/delete
 - /terms/going-up-in-smoke
 - /terms/poof
 - /terms/scrub

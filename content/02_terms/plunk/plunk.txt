@@ -8,7 +8,7 @@ Date: 20 June 2025
 
 Text:
 
-The (link: /terms/action-sound-effect text: action sound effect) that is played after the initial “(link: /terms/paper-crumpling text: paper crumpling)” sound when deleting an item in an (link: /terms/application text: application) such as the (link: /terms/Notepad text: Notepad). The sound accompanies an animation which simulates an item being wadded into a ball before be tossed into a (link: /terms/trash-can text: trash can).
+The (link: /terms/action-sound-effect text: action sound effect) that is played after the initial “(link: /terms/paper-crumpling text: paper crumpling)” sound when (link: /terms/delete text: deleting) an item in an (link: /terms/application text: application) such as the (link: /terms/Notepad text: Notepad). The sound accompanies an animation which simulates an item being wadded into a ball before be tossed into a (link: /terms/trash-can text: trash can).
 
 Also referred to as (link: /terms/paper-hitting-trash text: Paper Hitting Trash).
 
@@ -23,6 +23,7 @@ Related:
 - /terms/chord
 - /terms/clank
 - /terms/click
+- /terms/delete
 - /terms/drawer-closing
 - /terms/drawer-opening
 - /terms/hot-dog-song

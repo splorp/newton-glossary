@@ -14,7 +14,7 @@ Tapping “Try Letters” causes the Newton system to ignore the recognition dic
 
 (image: /assets/images/correction-picker-2x.gif alt: Screenshot of the Correction Picker width: 79)
 
-Tapping a letter in the corrector view pops up a different correction picker, listing alternate letters as well as commands to insert and delete individual (link: /terms/character text: characters).
+Tapping a letter in the corrector view pops up a different correction picker, listing alternate letters as well as commands to insert and s individual (link: /terms/character text: characters).
 
 ----
 

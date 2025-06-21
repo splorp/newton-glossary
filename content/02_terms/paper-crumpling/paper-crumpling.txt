@@ -8,7 +8,7 @@ Date: 13 June 2025
 
 Text:
 
-The initial (link: /terms/action-sound-effect text: action sound effect) that is played when deleting an item in the (link: /terms/Notepad text: Notepad) application. The sound accompanies an animation which simulates an item being wadded into a ball before be tossed into a trash can.
+The initial (link: /terms/action-sound-effect text: action sound effect) that is played when (link: /terms/delete text: deleting) an item in an (link: /terms/application text: application) such as the (link: /terms/Notepad text: Notepad). The sound accompanies an animation which simulates an item being wadded into a ball before be tossed into a (link: /terms/trash-can text: trash can). When the animated item hits the trash can, a second “(link: /terms/plunk text: plunk)” sound is played.
 
 Also referred to as (link: /terms/crumple text: Crumple).
 
@@ -24,6 +24,7 @@ Related:
 - /terms/clank
 - /terms/click
 - /terms/crumple
+- /terms/delete
 - /terms/drawer-closing
 - /terms/drawer-opening
 - /terms/hot-dog-song
@@ -31,6 +32,7 @@ Related:
 - /terms/poof
 - /terms/sound
 - /terms/squeak
+- /terms/trash-can
 - /terms/trill
 - /terms/volume
 - /terms/xylo

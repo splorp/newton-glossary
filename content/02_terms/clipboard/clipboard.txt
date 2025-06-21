@@ -10,7 +10,7 @@ Text:
 
 A specific section of memory used for temporary storage of data that is being duplicated or moved from one (link: /terms/application text: application) to another.
 
-In most situations, when an item is transferred to the clipboard, the previous contents of the clipboard are deleted.
+In most situations, when an item is transferred to the clipboard, the previous contents of the clipboard are (link: /terms/delete text: deleted).
 
 Support for multiple clipboards was introduced in (link: /terms/newton-os text: Newton OS) 2.0, but the feature was not enabled by default.
 
