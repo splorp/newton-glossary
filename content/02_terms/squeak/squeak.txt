@@ -32,6 +32,7 @@ Related:
 - /terms/paper-crumpling
 - /terms/pen
 - /terms/pen-sound-effects
+- /terms/plunk
 - /terms/poof
 - /terms/select
 - /terms/selection

@@ -28,6 +28,7 @@ Related:
 - /terms/hot-dog-song
 - /terms/local-scroll-arrows
 - /terms/paper-crumpling
+- /terms/plunk
 - /terms/poof
 - /terms/roll-view
 - /terms/scroll

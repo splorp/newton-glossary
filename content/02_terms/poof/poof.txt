@@ -28,6 +28,7 @@ Related:
 - /terms/going-up-in-smoke
 - /terms/hot-dog-song
 - /terms/paper-crumpling
+- /terms/plunk
 - /terms/poof-it
 - /terms/puff-of-air
 - /terms/scrub

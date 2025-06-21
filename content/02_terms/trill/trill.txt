@@ -30,6 +30,7 @@ Related:
 - /terms/hot-dog-song
 - /terms/paper-crumpling
 - /terms/pen-sound-effects
+- /terms/plunk
 - /terms/poof
 - /terms/sound
 - /terms/squeak

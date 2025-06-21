@@ -1,0 +1,18 @@
+Title: Paper Hitting Trash
+
+----
+
+Date: 20 June 2025
+
+----
+
+Text:
+
+See: (link: /terms/plunk text: Plunk)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference
