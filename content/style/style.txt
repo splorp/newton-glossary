@@ -112,6 +112,8 @@ Acceptable hyphenated terms include:
 
 ### Miscellaneous considerations
 
+When mentioning the Newton operating system, use “Newton OS” rather than “the Newton OS” unless you are referring broadly  to “the Newton OS platform” or specifically to something such as “the Newton OS 2.0 update”.
+
 When describing the effects of an action, use the more enabling term “can” rather than “may”.
 
 _Example:_
