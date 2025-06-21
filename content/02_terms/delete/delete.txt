@@ -8,15 +8,13 @@ Date: 21 June 2025
 
 Text:
 
-The (link: /terms/action text: action) performed to remove or erase text, images, documents, (link: /terms/application text: applications), (link: /terms/package text: packages), or other data.
+The (link: /terms/action text: action) performed to remove or erase text, images, documents, (link: /terms/application text: applications), (link: /terms/package text: packages), or other data. To (link: /terms/trash text: trash) something means to delete it.
 
 Delete is one of the options located in the (link: /terms/action-picker text: action picker).
 
 To delete text or (link: /terms/ink text: ink) drawings on a Newton device, you can use the (link: /terms/pen text: pen) to (link: /terms/scrub text: scrub) the information using a (link: /terms/zig-zag text: zig-zag) gesture.
 
-When using the onscreen (link: /terms/typewriter text: typewriter) keyboard or entering a (link: /terms/pin text: PIN), the Delete key is labeled “(link: /terms/del text: del)”.
-
-Also referred to as (link: /terms/trash text: Trash).
+When using the onscreen (link: /terms/typewriter text: typewriter) keyboard or entering a (link: /terms/pin text: PIN) on a Newton device, the Delete key is labeled “(link: /terms/del text: del)”.
 
 ----
 
