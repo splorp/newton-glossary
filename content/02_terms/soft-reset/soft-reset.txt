@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A method of (link: /terms/reset text: resetting) the (link: /terms/newton-os text: Newton OS) by pressing the (link: /terms/reset-button text: reset button). A soft reset does not erase any user data, (link: /terms/application text: applications), packages, (link: /terms/handwriting-recognition text: handwriting recognition) training, or (link: /terms/preferences text: preferences).
+A method of resetting (link: /terms/newton-os text: Newton OS) by pressing the (link: /terms/reset-button text: reset button). A soft (link: /terms/reset text: reset) does not erase any user data, (link: /terms/application text: applications), packages, (link: /terms/handwriting-recognition text: handwriting recognition) training, or (link: /terms/preferences text: preferences).
 
 A soft reset or (link: /terms/restart text: restart) can also be performed directly by the (link: /terms/operating-system text: operating system). For example, after replacing the information on a Newton device through a (link: /terms/restore text: restore), the user will be prompted to (link: /terms/restart text: restart) the device.
 

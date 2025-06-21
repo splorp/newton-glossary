@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-A method of (link: /terms/reset text: resetting) the (link: /terms/newton-os text: Newton OS) by pressing the (link: /terms/reset-button text: reset button) and holding down the power switch. A power reset does not erase any user data, (link: /terms/application text: applications), packages, (link: /terms/handwriting-recognition text: handwriting recognition) training, or (link: /terms/preferences text: preferences). However, it does reset the power manager.
+A method of resetting (link: /terms/newton-os text: Newton OS) by pressing the (link: /terms/reset-button text: reset button) and holding down the power switch. A power (link: /terms/reset text: reset) does not erase any user data, (link: /terms/application text: applications), packages, (link: /terms/handwriting-recognition text: handwriting recognition) training, or (link: /terms/preferences text: preferences). However, it does reset the power manager.
 
 Also referred to as a (link: /terms/deep-reset text: deep reset) or (link: /terms/hardware-reset text: hardware reset).
 

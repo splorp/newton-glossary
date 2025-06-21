@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The process by which the (link: /terms/newton-os text: Newton OS) stores keystrokes which have been typed faster than the system can handle right away. The stored keystrokes are processed by the system after a short delay.
+The process by which (link: /terms/newton-os text: Newton OS) stores keystrokes which have been typed faster than the system can handle right away. The stored keystrokes are processed by the system after a short delay.
 
 ----
 

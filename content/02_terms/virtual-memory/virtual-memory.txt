@@ -8,7 +8,11 @@ Date: 31 May 2001
 
 Text:
 
-A technique involving the (link: /terms/memory-management-unit text: memory management unit) (MMU) to use more (link: /terms/memory-page text: memory pages) than are physically available. On a Newton device, the data contained in the various (link: /terms/store text: stores) is translated, uncompressed, and (link: /terms/mapping text: mapped) to memory pages when needed by the processor. When the memory pages are not needed, the (link: /terms/newton-os text: Newton OS) can take the page and reallocate it somewhere else. In this scenario, a Newton device is able to handle very large stores with a small amount of (link: /terms/dram text: DRAM). Unlike traditional virtual memory mechanisms, the (link: /terms/heap text: heap) (particularly the (link: /terms/newtonscript-heap text: NewtonScript heap)) is generally not included into the virtual memory mechanism, although the Newton OS can support it.
+A technique involving the (link: /terms/memory-management-unit text: memory management unit) (MMU) to use more (link: /terms/memory-page text: memory pages) than are physically available.
+
+On a Newton device, the data contained in the various (link: /terms/store text: stores) is translated, uncompressed, and (link: /terms/mapping text: mapped) to memory pages when needed by the processor. When the memory pages are not needed, (link: /terms/newton-os text: Newton OS) can take the page and reallocate it somewhere else. In this scenario, a Newton device is able to handle very large stores with a small amount of (link: /terms/dram text: DRAM).
+
+Unlike traditional virtual memory mechanisms, the (link: /terms/heap text: heap) (particularly the (link: /terms/newtonscript-heap text: NewtonScript heap)) is generally not included into the virtual memory mechanism, although Newton OS can support it.
 
 ----
 

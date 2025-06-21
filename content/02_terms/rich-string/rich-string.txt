@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A string (link: /terms/object text: object) that contains embedded (link: /terms/ink-word text: ink words). Rich strings create a compact representation for strings that contain ink words and can be used with most of the string processing (link: /terms/function text: functions) provided in the (link: /terms/newton-os text: Newton OS).
+A string (link: /terms/object text: object) that contains embedded (link: /terms/ink-word text: ink words). Rich strings create a compact representation for strings that contain ink words and can be used with most of the string processing (link: /terms/function text: functions) provided in (link: /terms/newton-os text: Newton OS).
 
 ----
 

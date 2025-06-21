@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A document which provides comprehensive documentation for the routines, system (link: /terms/prototype text: prototypes), data structures, (link: /terms/constant text: constants), and error codes defined by the (link: /terms/newton-os text: Newton OS).
+A document which provides comprehensive documentation for the routines, system (link: /terms/prototype text: prototypes), data structures, (link: /terms/constant text: constants), and error codes defined by (link: /terms/newton-os text: Newton OS).
 
 Also referred to as (link: /terms/npr text: NPR).
 

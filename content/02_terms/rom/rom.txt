@@ -12,7 +12,7 @@ Read-Only Memory
 
 A type of non-volatile data storage which is manufactured with permanent data.
 
-The (link: /terms/newton-os text: Newton OS) resides in ROM and cannot be changed or deleted directly.
+(link: /terms/newton-os text: Newton OS) resides in ROM and cannot be changed or deleted directly.
 
 Also known as (link: /terms/mrom text: MROM) (Mask Read-Only Memory) because the stored data is determined during the masking stage of manufacturing process.
 

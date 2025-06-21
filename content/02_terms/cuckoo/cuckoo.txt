@@ -8,7 +8,7 @@ Date: 06 September 2024
 
 Text:
 
-An (link: /terms/easter-egg text: easter egg) hidden in the preferences (link: /terms/slip text: slip) of the (link: /terms/date-book text: Date Book) application that plays a “cuckoo” sound while displaying the names of three people who worked on the (link: /terms/newton-os text: Newton OS) — Scott Jenson, Fred Tou, and (link: /sources/jeremy-wyld text: Jeremy Wyld).
+An (link: /terms/easter-egg text: easter egg) hidden in the preferences (link: /terms/slip text: slip) of the (link: /terms/date-book text: Date Book) application that plays a “cuckoo” sound while displaying the names of three people who worked on (link: /terms/newton-os text: Newton OS) — Scott Jenson, Fred Tou, and (link: /sources/jeremy-wyld text: Jeremy Wyld).
 
 ----
 

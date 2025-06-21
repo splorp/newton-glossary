@@ -8,7 +8,7 @@ Date: 07 August 2024
 
 Text:
 
-A project instigated by (link: /sources/david-arnold text: David Arnold) with the goal of developing an emulator inspired by the (link: /terms/newton-os text: Newton OS) using the Python programming language.
+A project instigated by (link: /sources/david-arnold text: David Arnold) with the goal of developing an emulator inspired by (link: /terms/newton-os text: Newton OS) using the Python programming language.
 
 GNUton was originally conceived to be a part of an open source development environment consisting of a virtual machine, storage architecture, templates for general (link: /terms/operating-system text: operating system) features and (link: /terms/user-interface text: user interface) elements, and support for executing native (link: /terms/newtonscript text: NewtonScript).
 
