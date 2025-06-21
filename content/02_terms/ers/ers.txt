@@ -12,7 +12,7 @@ Engineering Requirements Specification
 
 A shorthand term produced by Apple’s product marketing team that represented the defining of features required by the end user of a Newton product.
 
-ERS is mentioned in the Newton OS 2.1 Engineering Documents and the Newton Font Specifications.
+ERS is mentioned in the [Newton OS 2.1 Engineering Documents](https://www.newted.org/download/manuals/NewtonOS21EngDoc.pdf) and the [Newton Font Specifications](https://www.newted.org/download/manuals/NewtonFontSpecifications.pdf).
 
 ----
 
