@@ -21,8 +21,8 @@ Resource:
 
 - [Kallisys: Desktop Connection Library: Escale 1.0.1](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
 - [Kallisys: Escale User’s Guide for Escale 1.0](https://web.archive.org/web/20080212130906/http://www.kallisys.com/newton/dcl/escale-user-guide/)
-- [The Newted Community: Escale User’s Guide for Escale 1.0](https://www.newted.org/download/manuals/EscaleUsersGuide10.pdf)
-- [The Newted Community: Escale User’s Guide for Escale 1.0.1](https://www.newted.org/download/manuals/EscaleUsersGuide101.pdf)
+- [The Newted Community: Escale User’s Guide for Escale 1.0](https://www.newted.org/download/manuals/Escale10UsersGuide.pdf)
+- [The Newted Community: Escale User’s Guide for Escale 1.0.1](https://www.newted.org/download/manuals/Escale101UsersGuide.pdf)
 - [SourceForge: Escale](https://sourceforge.net/projects/escale/)
 
 ----
