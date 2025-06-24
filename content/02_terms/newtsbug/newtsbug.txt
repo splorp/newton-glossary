@@ -12,6 +12,13 @@ A low level (link: /terms/debugger text: debugger) for (link: /terms/newton-os t
 
 ----
 
+Resource:
+
+- [The Newted Community: Newtsbug 1.0 User’s Guide](https://www.newted.org/download/manuals/Newtsbug10UsersGuide.pdf)
+- [The Newted Community: Newtsbug 1.0.1 User’s Guide](https://www.newted.org/download/manuals/Newtsbug101UsersGuide.pdf)
+
+----
+
 Related:
 
 - /terms/bugtrap

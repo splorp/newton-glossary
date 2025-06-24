@@ -15,4 +15,5 @@ Published by [Apple](https://www.apple.com/) in 1997, this is the definitive ref
 Resource:
 
 - [UNNA: Planet Newton Mirror: Newton C++ Tools](http://mirrors.unna.org/download.planetnewton.com/download/programming/applec++tools.htm)
-- [The Newted Community: Newtsbug User’s Guide](https://www.newted.org/download/manuals/NewtsbugUsersGuide.pdf)
+- [The Newted Community: Newtsbug 1.0 User’s Guide](https://www.newted.org/download/manuals/Newtsbug10UsersGuide.pdf)
+- [The Newted Community: Newtsbug 1.0.1 User’s Guide](https://www.newted.org/download/manuals/Newtsbug101UsersGuide.pdf)
