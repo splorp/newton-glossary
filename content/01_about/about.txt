@@ -53,7 +53,7 @@ Other glossarial references we love.
 
 This iteration of the glossary is formatted in [Markdown](https://daringfireball.net/projects/markdown/) using plain text files and published with [Kirby](https://getkirby.com/) — an extensible content management system built on PHP.
 
-We run our stylesheets through [CSSLint](https://csslint.net/) because tidy code is better code … and we don’t mind getting our feelings hurt.
+We run our stylesheets through [Stylelint](https://stylelint.io/) because tidy code is better code … and we don’t mind getting our feelings hurt.
 
 The entire project resides in a public [GitHub](https://github.com/splorp/newton-glossary/) repository, providing easy access for contributors, relatively pain-free upkeep, and peace of mind.
 
