@@ -3,7 +3,7 @@
 
 <?php
 	/* Nab the current version of the site */
-	$v = $site->version();
+	$r = $site->release();
 	/* Nab the number of term and source pages */
 	$t = number_format(page('terms')->children()->count());
 	$s = number_format(page('sources')->children()->count());
