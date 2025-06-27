@@ -12,9 +12,9 @@
 	echo $buffer . PHP_EOL . PHP_EOL;
 	// Determine other content fields
 	foreach ($fields as $fieldname => $fieldtype) :
- 		if($page->content()->get($fieldname)->isNotEmpty()) {
- 			echo ucwords($fieldname) . ': ';
- 			if($fieldtype == 'related') {
+		if($page->content()->get($fieldname)->isNotEmpty()) {
+			echo ucwords($fieldname) . ': ';
+			if($fieldtype == 'related') {
 				$n = false;
 				foreach($page->content()->get($fieldname)->toPages() as $fieldpage):
 					if ($n) : echo ', ';
@@ -24,7 +24,7 @@
 				endforeach;
 				echo PHP_EOL . PHP_EOL;
 			} else {
- 				echo $page->content()->get($fieldname) . PHP_EOL . PHP_EOL;
+				echo $page->content()->get($fieldname) . PHP_EOL . PHP_EOL;
 			}
 		}
 	endforeach;

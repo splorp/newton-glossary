@@ -2,6 +2,10 @@
 
 Export [Kirby](https://getkirby.com/) CMS content for use with the [Paperback Book Maker](https://ritsuko.chuma.org/paperback/).
 
+This plugin is compatible with Kirby 3, Kirby 4, and Kirby 5.
+
+For [Kirby 2](https://github.com/getkirby-v2) sites, download version [1.0.1](https://github.com/splorp/kirby-paperback-export/releases/tag/1.0.1) of the plugin.
+
 ## What does this plugin do?
 
 The plugin generates a lightly formatted plain text file from a set of pages specified by the user. The text file is used to create a “book” package which can be viewed on a Newton OS device.
@@ -155,6 +159,9 @@ return [
 
 ## Release Notes
 
+### 2.0.7
++ Changed `version` field to avoid conflict with Kirby 5 reserved field names
+
 ### 2.0.6
 + Improved handling of pages containing `<img>` elements
 
@@ -201,7 +208,7 @@ A tip of the hat to [Pedro Borges](https://pedroborg.es/) and his [Kirby XML Sit
 
 ## License
 
-Copyright © 2017–2023 Grant Hutchinson
+Copyright © 2017–2025 Grant Hutchinson
 
 This project is licensed under the short and sweet [MIT License](https://opensource.org/licenses/MIT). This license allows you to do anything pretty much anything you want with the contents of the repository, as long as you provide proper attribution and don’t hold anyone liable.
 

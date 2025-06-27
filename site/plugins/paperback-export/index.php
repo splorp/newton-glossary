@@ -38,7 +38,7 @@ Kirby::plugin('splorp/paperback-export', [
 				$pages       = site()->index();
 				$title       = site()->title();
 				$description = site()->description();
-				$version     = site()->version();
+				$release     = site()->release();
 				$filename    = str::slug($title);
 
 				/* Check whether to include unlisted pages */
@@ -64,7 +64,7 @@ Kirby::plugin('splorp/paperback-export', [
 				/* Define template and variables */
 
 				$template  = __DIR__ . '/snippets/export.php';
-				$paperback = tpl::load($template, compact('languages', 'pages', 'title', 'description', 'prefix', 'fields', 'version', 'datestamp', 'filename'));
+				$paperback = tpl::load($template, compact('languages', 'pages', 'title', 'description', 'prefix', 'fields', 'release', 'datestamp', 'filename'));
 
 				return new response($paperback, 'txt');
 			}
