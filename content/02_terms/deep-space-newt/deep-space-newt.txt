@@ -23,8 +23,14 @@ Resource:
 
 Related:
 
+- /terms/chiral
+- /terms/deep-green
 - /terms/dsn
 - /terms/dsnewt
+- /terms/jig
+- /terms/motile
+- /terms/newtendo
+- /terms/yazi
 
 ----
 

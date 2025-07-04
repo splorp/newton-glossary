@@ -20,6 +20,17 @@ Resource:
 
 ----
 
+Related:
+
+- /terms/chiral
+- /terms/deep-space-newt
+- /terms/jig
+- /terms/motile
+- /terms/newtendo
+- /terms/yazi
+
+----
+
 Source:
 
 - /sources/joachim-bondo

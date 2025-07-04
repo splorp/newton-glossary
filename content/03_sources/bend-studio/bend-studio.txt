@@ -1,0 +1,20 @@
+Title: Bend Studio
+
+----
+
+Date: 04 July 2025
+
+----
+
+Text:
+
+A game development company founded in 1992 by Marc Blank and Michael Berlyn. Originally known as Blank, Berlyn & Co., the company took its current name from Bend, Oregon where it is based.
+
+The company's first games were _Columbo’s Mystery Capers_ and _Dell Crossword Puzzles_ for the (link: /terms/newton-os text: Newton OS) platform. Both games were released in late 1993 by (link: /terms/starcore text: StarCore), Apple's publishing label for Newton software. They release two other games for Newton OS in 1994, (link: /terms/motile text: Motile) and a follow up title to their previous crossword puzzle game.
+
+----
+
+Resource:
+
+- [Bend Studio Website](https://www.bendstudio.com/)
+- [Wikipedia: Bend Studio](https://en.wikipedia.org/wiki/Bend_Studio)

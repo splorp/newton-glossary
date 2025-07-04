@@ -1,0 +1,40 @@
+Title: Motile
+
+----
+
+Date: 04 July 2025
+
+----
+
+Text:
+
+A game originally developed in 1994 by (link: /sources/bend-studio text: Bend Studio) for (link: /terms/newton-os text: Newton OS) and distributed by (link: /terms/starcore text: StarCore) on a (link: /terms/pcmcia text: PCMCIA) card.
+
+The challenge of the game was to manipulate an animated character through a labyrinth by (link: /terms/scrubbing text: scrubbing) out and constructing walls, while avoiding various traps.
+
+An updated version of the game compatible with Newton OS 2.0 was distributed by (link: /sources/tactile text: Tactile Systems) as a downloadable product in 1997.
+
+----
+
+Resource:
+
+- [Tactile Systems: Motile](https://web.archive.org/web/19980130104032/http://tactile.com/motile.html)
+- [UNNA: Motile](http://www.unna.org/view.php?/games/Motile)
+
+----
+
+Related:
+
+- /terms/chiral
+- /terms/deep-green
+- /terms/deep-space-newt
+- /terms/jig
+- /terms/newtendo
+- /terms/starcore
+- /terms/yazi
+
+----
+
+Source:
+
+- /sources/bend-studio

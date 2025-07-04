@@ -28,7 +28,13 @@ Resource:
 Related:
 
 - /terms/bytecode
+- /terms/chiral
+- /terms/deep-green
+- /terms/deep-space-newt
+- /terms/jig
 - /terms/lisp
+- /terms/motile
+- /terms/newtendo
 
 ----
 

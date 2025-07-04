@@ -14,6 +14,11 @@ A jigsaw puzzle game for (link: /terms/newton-os text: Newton OS) developed by [
 
 Related:
 
+- /terms/chiral
+- /terms/deep-green
+- /terms/deep-space-newt
 - /terms/jigsaw-strategy-game
-- /terms/pie
+- /terms/motile
+- /terms/newtendo
 - /terms/starcore
+- /terms/yazi
