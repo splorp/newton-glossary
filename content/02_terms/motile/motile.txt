@@ -12,6 +12,8 @@ A game originally developed in 1994 by (link: /sources/bend-studio text: Bend St
 
 The challenge of the game was to manipulate an animated character through a labyrinth by (link: /terms/scrubbing text: scrubbing) out and constructing walls, while avoiding various traps.
 
+(image: /assets/images/motile-2x.gif alt: Screenshot of Motile width: 242)
+
 An updated version of the game compatible with Newton OS 2.0 was distributed by (link: /sources/tactile text: Tactile Systems) as a downloadable product in 1997.
 
 ----
