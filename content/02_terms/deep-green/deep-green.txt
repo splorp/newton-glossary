@@ -8,7 +8,9 @@ Date: 21 November 2004
 
 Text:
 
-A chess program developed by (link: /sources/joachim-bondo text: Joachim Bondo). [Deep Green](https://web.archive.org/web/20141206191359/http://bondo.net/newton/deepgreen.html) for (link: /terms/newton-os text: Newton OS) was built on an existing chess game engine ported by Jens Martin Bengaard from Scott Ludwig’s [PocketChess](https://web.archive.org/web/20190210075914/http://www.scottlu.com/Content/PocketChess.html) for the [PalmPilot](https://en.wikipedia.org/wiki/PalmPilot).
+A chess program developed by (link: /sources/joachim-bondo text: Joachim Bondo) for (link: /terms/newton-os text: Newton OS).
+
+Deep Green was built on an existing chess game engine ported by Jens Martin Bengaard from Scott Ludwig’s [PocketChess](https://web.archive.org/web/20190210075914/http://www.scottlu.com/Content/PocketChess.html) for the [PalmPilot](https://en.wikipedia.org/wiki/PalmPilot).
 
 An updated version of [Deep Green for iOS](https://web.archive.org/web/20120925074001/http://cocoastuff.dk/products/deepgreen) was released in 2008.
 
