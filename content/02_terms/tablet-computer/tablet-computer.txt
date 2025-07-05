@@ -18,6 +18,7 @@ Related:
 
 - /terms/desktop-computer
 - /terms/laptop-computer
+- /terms/nomadic
 - /terms/pen
 - /terms/slate-computer
 - /terms/tablet

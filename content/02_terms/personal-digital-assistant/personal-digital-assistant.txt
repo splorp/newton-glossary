@@ -17,6 +17,7 @@ Commonly referred to as a (link: /terms/pda text: PDA).
 Related:
 
 - /terms/craft-digital-assistant
+- /terms/nomadic
 - /terms/pda
 
 ----

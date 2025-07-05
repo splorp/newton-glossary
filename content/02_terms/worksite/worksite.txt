@@ -22,6 +22,7 @@ Related:
 - /terms/emporium
 - /terms/home-city
 - /terms/locale
+- /terms/nomadic
 - /terms/owner-info
 - /terms/time-zones
 - /terms/world-map

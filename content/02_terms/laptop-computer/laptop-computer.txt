@@ -16,4 +16,5 @@ Related:
 
 - /terms/desktop-computer
 - /terms/laptop
+- /terms/nomadic
 - /terms/tablet-computer

@@ -1,0 +1,34 @@
+Title: Nomadic
+
+----
+
+Date: 05 July 2025
+
+----
+
+Text:
+
+A feature of an electronic device that is not tied to a specific location. Whereas (link: /terms/desktop-computer text: desktop computers) are generally stationary devices that do not change location, devices such as (link: /terms/laptop-computer text: laptop computers), smartphones, or (link: /terms/personal-digital-assistant text: personal digital assistants) such as Newton (link: /terms/messagepad text: MessagePad) are considered nomadic and are easily transported from location to location.
+
+----
+
+Resource:
+
+- [Grazing on the Commons: The Emergence of Part 15](https://www.clemson.edu/centers-institutes/iep/documents/grazing-commons-henry-goldberg.pdf)
+- [PCMag Encyclopedia: Nomadic Computing](https://www.pcmag.com/encyclopedia/term/nomadic-computing)
+
+----
+
+Related:
+
+- /terms/laptop-computer
+- /terms/personal-digital-assistant
+- /terms/tablet-computer
+- /terms/worksite
+
+----
+
+Source:
+
+- /sources/henry-goldberg
+- /sources/techencyclopedia
