@@ -10,7 +10,7 @@ Text:
 
 The sound made by a Newton device when powered on after having been (link: /terms/reset text: reset) in some manner.
 
-Also referred to as (link: /terms/chime text: Chime), (link: /terms/chord text: Chord), (link: /terms/power-on text: Power On), and (link: /terms/wakeupbeep text: wakeupBeep).
+Also referred to as (link: /terms/boot-sound text: Boot Sound), (link: /terms/chime text: Chime), (link: /terms/chord text: Chord), (link: /terms/power-on text: Power On), and (link: /terms/wakeupbeep text: wakeupBeep).
 
 The boot up chime can be used as an (link: /terms/alert-sound text: alert sound) by selecting (link: /terms/chord text: Chord) in the “Alert Sound” (link: /terms/picker text: picker) located in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
 
@@ -21,6 +21,7 @@ Related:
 - /terms/alert-sound
 - /terms/bell
 - /terms/boot
+- /terms/boot-sound
 - /terms/chime
 - /terms/chord
 - /terms/clank
