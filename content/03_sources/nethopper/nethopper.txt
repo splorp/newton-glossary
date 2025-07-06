@@ -14,4 +14,6 @@ The user manual for	(link: /terms/nethopper text: NetHopper), the first commerci
 
 Resource:
 
-- [UNNA: NetHopper Version 3.2 User’s Manual](http://www.unna.org/unna/internet/web-browsers/NetHopper3.2/NetHopper_3.2_User's_Guide.pdf)
+- [The Newted Community: NetHopper 3.0 User’s Manual](https://www.newted.org/download/manuals/NetHopper30UsersManual.pdf)
+- [The Newted Community: NetHopper 3.2 User’s Manual](https://www.newted.org/download/manuals/NetHopper32UsersManual.pdf)
+- [UNNA: NetHopper 3.2 User’s Manual](http://www.unna.org/unna/internet/web-browsers/NetHopper3.2/NetHopper_3.2_User's_Guide.pdf)
