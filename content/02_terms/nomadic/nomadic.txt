@@ -8,7 +8,7 @@ Date: 05 July 2025
 
 Text:
 
-A feature of an electronic device that is not tied to a specific location. Whereas (link: /terms/desktop-computer text: desktop computers) are generally stationary devices that do not change location, devices such as (link: /terms/laptop-computer text: laptop computers), smartphones, or (link: /terms/personal-digital-assistant text: personal digital assistants) such as Newton (link: /terms/messagepad text: MessagePad) are considered nomadic and are easily transported from location to location.
+The concept of not tied to a specific location. Whereas (link: /terms/desktop-computer text: desktop computers) are generally stationary devices that do not change location, devices such as (link: /terms/laptop-computer text: laptop computers), smartphones, or (link: /terms/personal-digital-assistant text: personal digital assistants) such as Newton (link: /terms/messagepad text: MessagePad) are considered nomadic and are easily transported from location to location.
 
 ----
 
