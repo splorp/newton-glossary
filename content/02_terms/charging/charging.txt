@@ -23,6 +23,7 @@ Related:
 - /terms/cell
 - /terms/charge-state
 - /terms/charged
+- /terms/charging-cart
 - /terms/charging-status-light
 - /terms/deep-toast
 - /terms/discharged

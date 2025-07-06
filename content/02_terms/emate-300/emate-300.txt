@@ -33,6 +33,7 @@ Related:
 - /terms/bmate
 - /terms/broink
 - /terms/business-emate
+- /terms/charging-cart
 - /terms/charging-status-light
 - /terms/clamshell
 - /terms/clamshell-newton
