@@ -32,6 +32,7 @@ Related:
 - /terms/littlelisp
 - /terms/macintosh-common-lisp
 - /terms/newtonscript
+- /terms/ns-basic
 - /terms/ralph
 - /terms/yazi
 

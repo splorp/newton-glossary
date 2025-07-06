@@ -20,6 +20,7 @@ Related:
 - /terms/lisp
 - /terms/macintosh-common-lisp
 - /terms/newtonscript
+- /terms/ns-basic
 - /terms/ralph
 - /terms/senior
 - /terms/smirkers

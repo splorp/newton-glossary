@@ -36,6 +36,7 @@ Related:
 - /terms/mcl
 - /terms/newton-toolkit
 - /terms/newtonscript
+- /terms/ns-basic
 - /terms/ralph
 
 ----

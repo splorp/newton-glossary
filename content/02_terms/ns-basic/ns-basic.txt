@@ -1,0 +1,37 @@
+Title: NS BASIC
+
+----
+
+Date: 06 July 2025
+
+----
+
+Text:
+
+An implementation of the [BASIC](https://en.wikipedia.org/wiki/BASIC) programming language for (link: /terms/newton-os text: Newton OS). NS BASIC was developed by the NS BASIC Corporation based in Toronto Ontario. The software was also available for other platforms such as Palm OS and Windows CE.
+
+----
+
+Resource:
+
+- [NS BASIC Corporation: NS BASIC Newton](https://www.nsbasic.com/newton/)
+- [The Newted Community: NS BASIC Handbook](https://www.newted.org/download/manuals/NSBasicHandbook.pdf)
+- [UNNA: NS BASIC](http://www.unna.org/view.php?/development/languages/NSBasic)
+
+----
+
+Related:
+
+- /terms/denali
+- /terms/dylan
+- /terms/lisp
+- /terms/littlelisp
+- /terms/macintosh-common-lisp
+- /terms/newtonscript
+- /terms/ralph
+
+----
+
+Source:
+
+- /sources/ns-basic-handbook
