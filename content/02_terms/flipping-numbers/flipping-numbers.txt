@@ -1,0 +1,17 @@
+Title: Flipping Numbers
+
+----
+
+Date: 08 July 2025
+
+----
+
+Text:
+
+See: (link: /terms/number-picker text: Number Picker)
+
+----
+
+Source:
+
+- /sources/newton-technology-journal

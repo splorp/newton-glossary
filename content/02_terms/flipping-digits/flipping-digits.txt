@@ -1,0 +1,18 @@
+Title: Flipping Digits
+
+----
+
+Date: 08 July 2025
+
+----
+
+Text:
+
+See: (link: /terms/number-picker text: Number Picker)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-user-interface-guidelines
