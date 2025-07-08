@@ -57,13 +57,14 @@ We run our stylesheets through [Stylelint](https://stylelint.io/) because tidy c
 
 The entire project resides in a public [GitHub](https://github.com/splorp/newton-glossary/) repository, providing easy access for contributors, relatively pain-free upkeep, and peace of mind.
 
-To add a bit of spit and polish to our Kirby experience, we use the following handy dandy plugins.
+To add a bit of spit and polish to our Kirby experience, we use the following plugins and other open source whatnots.
 
-+ [Kirby Bettersearch](https://github.com/bvdputte/kirby-bettersearch) _by [Bart Vandeputte](https://bartvandeputte.be)_
++ [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) _by [Cory Dransfeldt](https://www.coryd.dev/)_
++ [Kirby Bettersearch](https://github.com/bvdputte/kirby-bettersearch) _by [Bart Vandeputte](https://bartvandeputte.be/)_
 + [Kirby Clear Cache](https://owebstudio.com/kirby/plugins/clear-cache) _by [Oweb Studio](https://owebstudio.com/)_
-+ [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) _by [Pedro Borges](https://pedroborg.es/)_
++ [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) _by [Pedro Borges](https://github.com/pedroborges)_
 + [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) _by [Grant Hutchinson](https://splorp.com/)_
 + [Kirby Redirects](https://github.com/bnomei/kirby3-redirects) _by [Bruno Meilick](https://bnomei.github.io/)_
-+ [XML Sitemap Stylesheet](https://github.com/pedroborges/xml-sitemap-stylesheet) _by [Pedro Borges](https://pedroborg.es/)_
++ [XML Sitemap Stylesheet](https://github.com/pedroborges/xml-sitemap-stylesheet) _by [Pedro Borges](https://github.com/pedroborges)_
 
 And finally, god bless [BBEdit](https://www.barebones.com/products/bbedit/).
