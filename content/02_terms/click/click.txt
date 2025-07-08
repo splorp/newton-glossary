@@ -16,6 +16,7 @@ On Newton devices running (link: /terms/newton-os text: Newton OS) 2.0 and later
 
 Related:
 
+- /terms/alarm-wakeup
 - /terms/alert-sound
 - /terms/bell
 - /terms/boot-up-chime

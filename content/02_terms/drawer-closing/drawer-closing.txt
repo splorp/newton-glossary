@@ -19,6 +19,7 @@ A complementary (link: /terms/sound-effect text: sound effect) called “(link: 
 Related:
 
 - /terms/action-sound-effects
+- /terms/alarm-wakeup
 - /terms/alert-sound
 - /terms/bell
 - /terms/boot-up-chime

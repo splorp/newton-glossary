@@ -19,6 +19,7 @@ Pen sound effects can be turned on and off in the (link: /terms/sound text: Soun
 Related:
 
 - /terms/action-sound-effects
+- /terms/alarm-wakeup
 - /terms/alert-sound
 - /terms/bell
 - /terms/boot-up-chime

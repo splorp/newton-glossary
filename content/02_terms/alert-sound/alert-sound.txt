@@ -23,6 +23,7 @@ On devices running (link: /terms/newton-os text: Newton OS) 1.x, alert sounds ar
 Related:
 
 - /terms/action-sound-effects
+- /terms/alarm-wakeup
 - /terms/alert-box
 - /terms/alert-sound-effects
 - /terms/bell

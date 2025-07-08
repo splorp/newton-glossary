@@ -1,0 +1,17 @@
+Title: Wakeup
+
+----
+
+Date: 08 July 2025
+
+----
+
+Text:
+
+See: (link: /terms/alarm-wakeup text: Alarm Wakeup)
+
+----
+
+Source:
+
+- /sources/ns-basic-handbook

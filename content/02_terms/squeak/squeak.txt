@@ -16,6 +16,7 @@ Also referred to as (link: /terms/hilitesound text: hiliteSound), (link: /terms/
 
 Related:
 
+- /terms/alarm-wakeup
 - /terms/alert-sound
 - /terms/bell
 - /terms/boot-up-chime

@@ -18,6 +18,7 @@ It is the same sound as the (link: /terms/boot-up-chime text: boot up chime) hea
 
 Related:
 
+- /terms/alarm-wakeup
 - /terms/alert-sound
 - /terms/bell
 - /terms/boot-up-chime

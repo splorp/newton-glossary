@@ -28,6 +28,7 @@ Resource:
 Related:
 
 - /terms/about-newton
+- /terms/alarm-wakeup
 - /terms/alert-sound
 - /terms/area-51
 - /terms/bell

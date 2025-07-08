@@ -18,6 +18,7 @@ Also referred to as (link: /terms/funbeep text: funBeep).
 
 Related:
 
+- /terms/alarm-wakeup
 - /terms/alert-sound
 - /terms/bell
 - /terms/boot-up-chime

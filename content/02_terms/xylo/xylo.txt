@@ -18,6 +18,7 @@ Also referred to as (link: /terms/plink text: Plink) and (link: /terms/plinkbeep
 
 Related:
 
+- /terms/alarm-wakeup
 - /terms/alert-sound
 - /terms/bell
 - /terms/boot-up-chime

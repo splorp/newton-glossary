@@ -18,6 +18,7 @@ Also referred to as (link: /terms/simplebeep text: simpleBeep).
 
 Related:
 
+- /terms/alarm-wakeup
 - /terms/alert-sound
 - /terms/boot-up-chime
 - /terms/chord

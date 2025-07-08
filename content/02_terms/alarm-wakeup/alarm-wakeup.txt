@@ -1,0 +1,48 @@
+Title: Alarm Wakeup
+
+----
+
+Date: 08 July 2025
+
+----
+
+Text:
+
+The sound that is played when a Newton device is automatically powered on to display an (link: /terms/alarm text: alarm).
+
+Also referred to as (link: /terms/alarmwakeup text: alarmWakeup) and (link: /terms/wakeup text: Wakeup).
+
+----
+
+Related:
+
+- /terms/action-sound-effects
+- /terms/alarmwakeup
+- /terms/alert-sound
+- /terms/bell
+- /terms/boot-up-chime
+- /terms/chord
+- /terms/clank
+- /terms/click
+- /terms/delete
+- /terms/drawer-closing
+- /terms/drawer-opening
+- /terms/hot-dog-song
+- /terms/paper-crumpling
+- /terms/paper-hitting-trash
+- /terms/plunk
+- /terms/sound
+- /terms/squeak
+- /terms/trash-can
+- /terms/trill
+- /terms/volume
+- /terms/wakeup
+- /terms/xylo
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference
+- /sources/ns-basic-handbook

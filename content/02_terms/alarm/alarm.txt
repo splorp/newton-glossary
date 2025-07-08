@@ -10,7 +10,7 @@ Text:
 
 A section found in the (link: /terms/prefs text: Prefs) application.
 
-In the Alarm (link: /terms/slip text: slip), the user can set the type of sound used for the minute timer and (link: /terms/calendar text: calendar) alarms. The daily alarm has its own sound and cannot be changed. The user can also specify other settings such as the (link: /terms/volume text: volume) for all alarms, whether the system volume overrides the alarm volume, and whether (link: /terms/persistent-alarms text: persistent alarms) are enabled.
+In the Alarm (link: /terms/slip text: slip), the user can set the type of sound used for the minute timer and (link: /terms/calendar text: calendar) alarms. The daily alarm has its own “(link: /terms/alarm-wakeup text: alarm wakeup)” sound known as and cannot be changed. The user can also specify other settings such as the (link: /terms/volume text: volume) for all alarms, whether the system volume overrides the alarm volume, and whether (link: /terms/persistent-alarms text: persistent alarms) are enabled.
 
 (image: /assets/images/alarm-2x.gif alt: Screenshot of the Alarm preference slip width: 240)
 
@@ -18,6 +18,7 @@ In the Alarm (link: /terms/slip text: slip), the user can set the type of sound 
 
 Related:
 
+- /terms/alarm-wakeup
 - /terms/alert-sound
 - /terms/calendar
 - /terms/clock
