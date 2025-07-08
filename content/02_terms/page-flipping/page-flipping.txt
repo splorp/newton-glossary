@@ -1,0 +1,47 @@
+Title: Page Flipping
+
+----
+
+Date: 08 July 2025
+
+----
+
+Text:
+
+The (link: /terms/action-sound-effect text: action sound effect) played when (link: /terms/scrolling text: scrolling) through items in (link: /terms/application text: applications) such as the (link: /terms/datebook text: Datebook) and (link: /terms/notepad text: Notepad) using the (link: /terms/universal-scroll-arrows text: universal scroll arrows).
+
+Also referred to as (link: /terms/flip text: Flip) and (link: /terms/notepad-scroll-sound text: Notepad Scroll Sound).
+
+----
+
+Related:
+
+- /terms/action-sound-effects
+- /terms/alarm-wakeup
+- /terms/alert-sound
+- /terms/bell
+- /terms/boot-up-chime
+- /terms/chord
+- /terms/clank
+- /terms/click
+- /terms/drawer-closing
+- /terms/drawer-opening
+- /terms/flip
+- /terms/hot-dog-song
+- /terms/notepad-scroll-sound
+- /terms/page-flipping
+- /terms/paper-crumpling
+- /terms/plunk
+- /terms/poof
+- /terms/scroll
+- /terms/sound
+- /terms/squeak
+- /terms/trill
+- /terms/volume
+- /terms/xylo
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

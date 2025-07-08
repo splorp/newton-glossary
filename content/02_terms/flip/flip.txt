@@ -1,0 +1,18 @@
+Title: Flip
+
+----
+
+Date: 08 July 2025
+
+----
+
+Text:
+
+See: (link: /terms/page-flipping text: Page Flipping)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference

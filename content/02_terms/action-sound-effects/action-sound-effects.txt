@@ -30,6 +30,7 @@ Related:
 - /terms/extras-drawer
 - /terms/going-up-in-smoke
 - /terms/hot-dog-song
+- /terms/page-flipping
 - /terms/paper-crumpling
 - /terms/pen-sound-effects
 - /terms/plunk

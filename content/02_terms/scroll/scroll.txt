@@ -16,6 +16,7 @@ Related:
 
 - /terms/clank
 - /terms/local-scroll-arrows
+- /terms/page-flipping
 - /terms/roll-view
 - /terms/scroll-arrows
 - /terms/scroller

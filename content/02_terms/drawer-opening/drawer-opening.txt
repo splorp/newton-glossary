@@ -30,6 +30,7 @@ Related:
 - /terms/draweropen
 - /terms/extras-drawer
 - /terms/hot-dog-song
+- /terms/page-flipping
 - /terms/paper-crumpling
 - /terms/plunk
 - /terms/poof

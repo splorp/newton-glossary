@@ -28,6 +28,7 @@ Related:
 - /terms/drawer-opening
 - /terms/hot-dog-song
 - /terms/local-scroll-arrows
+- /terms/page-flipping
 - /terms/paper-crumpling
 - /terms/plunk
 - /terms/poof
