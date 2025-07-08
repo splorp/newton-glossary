@@ -42,7 +42,7 @@ Sources: 200
 
 + Added 48 new terms
 + Added 2 new sources
-+ Updated and expanded hundreds of existing entries
++ Updated and expanded dozens of existing entries
 + Implemented [Kirby Bettersearch](https://github.com/bvdputte/kirby-bettersearch) plugin
 + Added some help text on the (link: /search text: Search) page
 + Adjusted the layout of links in the footer for smaller screens
@@ -77,7 +77,7 @@ Sources: 197
 
 + Added 80 new terms
 + Added 4 new sources
-+ Updated and expanded hundreds of existing entries
++ Updated and expanded dozens of existing entries
 + Increased the number of recent entries displayed on the (link: /latest text: Latest Additions) page
 + Updated [Kirby](https://getkirby.com/) to version [4.7.0](https://github.com/getkirby/kirby/releases/tag/4.7.0)
 
@@ -107,7 +107,7 @@ Sources: 191
 
 + Added 48 new terms
 + Added 6 new sources
-+ Updated and expanded hundreds of existing entries
++ Updated and expanded dozens of existing entries
 + Added an [Open Graph](https://ogp.me/) meta tag for [fediverse author attribution](https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/)
 
 ### 4.3.2
