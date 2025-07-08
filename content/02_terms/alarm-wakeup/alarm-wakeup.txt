@@ -30,7 +30,6 @@ Related:
 - /terms/hot-dog-song
 - /terms/page-flipping
 - /terms/paper-crumpling
-- /terms/paper-hitting-trash
 - /terms/plunk
 - /terms/sound
 - /terms/squeak

@@ -39,7 +39,6 @@ Related:
 - /terms/sound
 - /terms/squeak
 - /terms/trill
-- /terms/universal-scroll-arrows
 - /terms/volume
 - /terms/xylo
 

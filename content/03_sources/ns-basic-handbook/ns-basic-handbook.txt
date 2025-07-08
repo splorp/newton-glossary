@@ -8,7 +8,7 @@ Date: 06 July 2025
 
 Text:
 
-The user manual for	(link: /terms/ns-basic text: NS BASIC), an implementation of the [BASIC](https://en.wikipedia.org/wiki/BASIC) programming language for (link: /terms/newton-os text: Newton OS). NS BASIC was created by the NS BASIC Corporation, based in Toronto, Ontario.
+The user manual for (link: /terms/ns-basic text: NS BASIC), an implementation of the [BASIC](https://en.wikipedia.org/wiki/BASIC) programming language for (link: /terms/newton-os text: Newton OS) developed by the NS BASIC Corporation, now known as simply [NSB](https://www.nsbasic.com/).
 
 ----
 

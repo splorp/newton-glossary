@@ -8,7 +8,7 @@ Date: 06 July 2025
 
 Text:
 
-An implementation of the [BASIC](https://en.wikipedia.org/wiki/BASIC) programming language for (link: /terms/newton-os text: Newton OS). NS BASIC was developed by the NS BASIC Corporation based in Toronto Ontario. The software was also available for other platforms such as Palm OS and Windows CE.
+An implementation of the [BASIC](https://en.wikipedia.org/wiki/BASIC) programming language for (link: /terms/newton-os text: Newton OS). Developed by the NS BASIC Corporation based in Toronto, the software was also available for other platforms such as Palm OS and Windows CE.
 
 ----
 
