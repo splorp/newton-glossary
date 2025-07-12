@@ -25,8 +25,11 @@ Related:
 - /terms/chord
 - /terms/clank
 - /terms/click
+- /terms/do-re-mi
 - /terms/drawer-closing
 - /terms/drawer-opening
+- /terms/echo
+- /terms/gong
 - /terms/hot-dog-song
 - /terms/page-flipping
 - /terms/paper-crumpling

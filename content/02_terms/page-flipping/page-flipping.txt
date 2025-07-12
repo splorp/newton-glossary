@@ -27,9 +27,12 @@ Related:
 - /terms/chord
 - /terms/clank
 - /terms/click
+- /terms/do-re-mi
 - /terms/drawer-closing
 - /terms/drawer-opening
+- /terms/echo
 - /terms/flip
+- /terms/gong
 - /terms/hot-dog-song
 - /terms/notepad-scroll-sound
 - /terms/page-flipping

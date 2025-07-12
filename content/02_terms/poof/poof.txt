@@ -28,9 +28,12 @@ Related:
 - /terms/clank
 - /terms/click
 - /terms/delete
+- /terms/do-re-mi
 - /terms/drawer-closing
 - /terms/drawer-opening
+- /terms/echo
 - /terms/going-up-in-smoke
+- /terms/gong
 - /terms/hot-dog-song
 - /terms/page-flipping
 - /terms/paper-crumpling

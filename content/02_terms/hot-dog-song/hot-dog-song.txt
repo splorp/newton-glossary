@@ -41,11 +41,14 @@ Related:
 - /terms/clank
 - /terms/click
 - /terms/cuckoo
+- /terms/do-re-mi
 - /terms/drawer-closing
 - /terms/drawer-opening
 - /terms/easter-egg
+- /terms/echo
 - /terms/egg-freckles
 - /terms/espy-sans
+- /terms/gong
 - /terms/larryy
 - /terms/lesv
 - /terms/lyon

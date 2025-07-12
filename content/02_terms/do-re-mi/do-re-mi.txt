@@ -1,4 +1,4 @@
-Title: Buzzer
+Title: Do Re Mi
 
 ----
 
@@ -10,7 +10,7 @@ Text:
 
 An (link: /terms/alert-sound text: alert sound) which can be selected in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
 
-Buzzer is only available as an alert sound in (link: /terms/newton-os text: Newton OS) 2.0 and later.
+Do Re Mi is only available as an alert sound in (link: /terms/newton-os text: Newton OS) 2.0 and later.
 
 ----
 
@@ -21,11 +21,11 @@ Related:
 - /terms/bell
 - /terms/birdie
 - /terms/boot-up-chime
+- /terms/buzzer
 - /terms/chirp
 - /terms/chord
 - /terms/clank
 - /terms/click
-- /terms/do-re-mi
 - /terms/drawer-closing
 - /terms/drawer-opening
 - /terms/echo

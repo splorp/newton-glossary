@@ -1,4 +1,4 @@
-Title: Buzzer
+Title: Gong
 
 ----
 
@@ -10,7 +10,7 @@ Text:
 
 An (link: /terms/alert-sound text: alert sound) which can be selected in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
 
-Buzzer is only available as an alert sound in (link: /terms/newton-os text: Newton OS) 2.0 and later.
+Gong is only available as an alert sound in (link: /terms/newton-os text: Newton OS) 2.0 and later.
 
 ----
 
@@ -21,6 +21,7 @@ Related:
 - /terms/bell
 - /terms/birdie
 - /terms/boot-up-chime
+- /terms/buzzer
 - /terms/chirp
 - /terms/chord
 - /terms/clank
@@ -29,7 +30,6 @@ Related:
 - /terms/drawer-closing
 - /terms/drawer-opening
 - /terms/echo
-- /terms/gong
 - /terms/hot-dog-song
 - /terms/page-flipping
 - /terms/paper-crumpling

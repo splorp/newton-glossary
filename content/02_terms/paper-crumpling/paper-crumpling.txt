@@ -29,8 +29,11 @@ Related:
 - /terms/click
 - /terms/crumple
 - /terms/delete
+- /terms/do-re-mi
 - /terms/drawer-closing
 - /terms/drawer-opening
+- /terms/echo
+- /terms/gong
 - /terms/hot-dog-song
 - /terms/page-flipping
 - /terms/plunk
