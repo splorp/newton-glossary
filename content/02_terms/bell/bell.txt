@@ -20,7 +20,10 @@ Related:
 
 - /terms/alarm-wakeup
 - /terms/alert-sound
+- /terms/birdie
 - /terms/boot-up-chime
+- /terms/buzzer
+- /terms/chirp
 - /terms/chord
 - /terms/clank
 - /terms/click

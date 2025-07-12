@@ -21,8 +21,11 @@ Related:
 - /terms/alarm-wakeup
 - /terms/alert-sound
 - /terms/bell
+- /terms/birdie
 - /terms/boot
 - /terms/boot-sound
+- /terms/buzzer
+- /terms/chirp
 - /terms/chime
 - /terms/chord
 - /terms/clank

@@ -1,8 +1,8 @@
-Title: Chord
+Title: Chirp
 
 ----
 
-Date: 14 June 2025
+Date: 12 July 2025
 
 ----
 
@@ -10,9 +10,7 @@ Text:
 
 An (link: /terms/alert-sound text: alert sound) which can be selected in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
 
-Chord is one of four alert sounds available in all versions of (link: /terms/newton-os text: Newton OS).
-
-It is the same sound as the (link: /terms/boot-up-chime text: boot up chime) heard when a Newton device is powered on after having been (link: /terms/reset text: reset).
+Chirp is only available as an alert sound in (link: /terms/newton-os text: Newton OS) 2.0 and later.
 
 ----
 
@@ -24,7 +22,7 @@ Related:
 - /terms/birdie
 - /terms/boot-up-chime
 - /terms/buzzer
-- /terms/chirp
+- /terms/chord
 - /terms/clank
 - /terms/click
 - /terms/drawer-closing
@@ -35,15 +33,9 @@ Related:
 - /terms/pen-sound-effects
 - /terms/plunk
 - /terms/poof
+- /terms/simplebeep
 - /terms/sound
 - /terms/squeak
 - /terms/trill
 - /terms/volume
 - /terms/xylo
-
-----
-
-Source:
-
-- /sources/newton-programmers-guide
-- /sources/newton-programmers-reference
