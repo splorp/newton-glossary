@@ -20,6 +20,7 @@ Resource:
 
 Related:
 
+- /terms/cradle
 - /terms/charging
 - /terms/charging-status-light
 - /terms/emate-300
