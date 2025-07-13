@@ -24,8 +24,8 @@ Resource:
 
 Related:
 
-- /terms/backlit
 - /terms/backlight
+- /terms/backlit
 - /terms/cradle
 - /terms/crib
 - /terms/dante
@@ -35,6 +35,7 @@ Related:
 - /terms/messagepad
 - /terms/messagepad-110
 - /terms/messagepad-120
+- /terms/mp1x0
 - /terms/mp130
 - /terms/nmp-130
 - /terms/quark

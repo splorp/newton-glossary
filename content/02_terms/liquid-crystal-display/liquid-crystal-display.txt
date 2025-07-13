@@ -16,8 +16,8 @@ Commonly known as an (link: /terms/lcd text: LCD).
 
 Related:
 
-- /terms/backlit
 - /terms/backlight
+- /terms/backlit
 - /terms/display-area
 - /terms/lcd
 - /terms/non-display-area

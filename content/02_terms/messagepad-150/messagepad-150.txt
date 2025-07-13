@@ -25,8 +25,8 @@ Resource:
 
 Related:
 
-- /terms/backlit
 - /terms/backlight
+- /terms/backlit
 - /terms/indiglo-newton
 - /terms/messagepad
 - /terms/messagepad-130

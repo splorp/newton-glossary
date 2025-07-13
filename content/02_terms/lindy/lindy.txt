@@ -17,7 +17,6 @@ Related:
 - /terms/charging
 - /terms/cradle
 - /terms/jellyfish
-- /terms/lindy-crib
 - /terms/lizzy
 - /terms/messagepad
 - /terms/messagepad-110

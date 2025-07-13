@@ -29,8 +29,8 @@ Resource:
 Related:
 
 - /terms/01-2k
-- /terms/backlit
 - /terms/backlight
+- /terms/backlit
 - /terms/dongle
 - /terms/dongle-destroyer
 - /terms/implant-2000

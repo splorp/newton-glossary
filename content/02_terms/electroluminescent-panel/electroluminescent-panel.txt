@@ -16,8 +16,8 @@ Also referred to as an (link: /terms/elp text: ELP).
 
 Related:
 
-- /terms/backlit
 - /terms/backlight
+- /terms/backlit
 - /terms/el
 - /terms/elp
 - /terms/indiglo-newton

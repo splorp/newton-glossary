@@ -22,6 +22,8 @@ Related:
 - /terms/messagepad-2100
 - /terms/miniature-multimedia-machine
 - /terms/mp
+- /terms/mp1x0
+- /terms/mp2x00
 - /terms/newton-lc
 - /terms/notepad
 - /terms/original-messagepad

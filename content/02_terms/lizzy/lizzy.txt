@@ -22,7 +22,6 @@ Related:
 
 - /terms/jellyfish
 - /terms/lindy
-- /terms/lindy-crib
 - /terms/messagepad
 - /terms/messagepad-110
 

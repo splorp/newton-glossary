@@ -30,8 +30,8 @@ Related:
 - /terms/01-2k1
 - /terms/01-21k
 - /terms/andante
-- /terms/backlit
 - /terms/backlight
+- /terms/backlit
 - /terms/dongle
 - /terms/dongle-destroyer
 - /terms/frozen-ghost
