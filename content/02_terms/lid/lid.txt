@@ -37,6 +37,7 @@ Related:
 - /terms/latch
 - /terms/locking-tab
 - /terms/screen-lid
+- /terms/screen-protector
 - /terms/spring-issue
 
 ----

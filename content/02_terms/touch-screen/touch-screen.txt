@@ -25,6 +25,7 @@ Related:
 - /terms/non-display-area
 - /terms/pen
 - /terms/screen
+- /terms/screen-protector
 - /terms/tablet-computer
 - /terms/tablettop
 - /terms/the-barrier

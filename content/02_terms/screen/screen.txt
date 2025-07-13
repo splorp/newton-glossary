@@ -23,6 +23,7 @@ Related:
 - /terms/pixel
 - /terms/portrait-mode
 - /terms/rotate
+- /terms/screen-protector
 - /terms/the-barrier
 - /terms/touch-screen
 

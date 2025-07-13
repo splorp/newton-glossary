@@ -1,0 +1,29 @@
+Title: Screen Protector
+
+----
+
+Date: 13 July 2025
+
+----
+
+Text:
+
+A transparent membrane designed to cover the (link: /terms/screen text: screen) of a device such as a (link: /terms/pda text: PDA), smartphone, (link: /terms/tablet text: tablet), or (link: /terms/laptop-computer text: laptop computer) to protect it from damage and wear. Screen protectors can consist of plastic film, ultra thin tempered glass, or a liquid which strengthen the screen material itself.
+
+The removable (link: /terms/lid text: lid) found on most (link: /terms/messagepad text: MessagePad) devices also acts a screen protector when the device is not in use.
+
+----
+
+Related:
+
+- /terms/display-area
+- /terms/lid
+- /terms/screen
+- /terms/the-barrier
+- /terms/touch-screen
+
+----
+
+Source:
+
+- /sources/techencyclopedia

@@ -8,7 +8,7 @@ Date: 13 July 2025
 
 Text:
 
-A (link: /terms/screen text: screen) protector manufactured by (link: /sources/roadrunner-tracks text: RoadRunner Tracks) consisting of a unique, coated membrane that provided a “chemical, abrasion, and reflection resistant” surface with a texture similar to paper.
+A (link: /terms/screen-protector text: screen protector) manufactured by (link: /sources/roadrunner-tracks text: RoadRunner Tracks) consisting of a unique, coated membrane that provided a “chemical, abrasion, and reflection resistant” surface with a texture similar to paper.
 
 ----
 
@@ -20,6 +20,7 @@ Related:
 
 - /terms/display-area
 - /terms/screen
+- /terms/screen-protector
 - /terms/touch-screen
 
 ----
