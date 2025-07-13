@@ -27,4 +27,5 @@ Related:
 - /terms/screen
 - /terms/tablet-computer
 - /terms/tablettop
+- /terms/the-barrier
 - /terms/touchpad

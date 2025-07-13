@@ -1,0 +1,29 @@
+Title: The Barrier
+
+----
+
+Date: 13 July 2025
+
+----
+
+Text:
+
+A (link: /terms/screen text: screen) protector manufactured by (link: /sources/roadrunner-tracks text: RoadRunner Tracks) consisting of a unique, coated membrane that provided a “chemical, abrasion, and reflection resistant” surface with a texture similar to paper.
+
+----
+
+- [Roadrunner Tracks: The Barrier Product Information](https://web.archive.org/web/19980109210937/http://roadrunnertracks.com/barrier.html)
+
+----
+
+Related:
+
+- /terms/display-area
+- /terms/screen
+- /terms/touch-screen
+
+----
+
+Source:
+
+- /sources/roadrunner-tracks

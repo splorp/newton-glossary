@@ -24,6 +24,7 @@ Related:
 - /terms/portrait-mode
 - /terms/rotate
 - /terms/screen
+- /terms/the-barrier
 - /terms/touch-screen
 
 ----

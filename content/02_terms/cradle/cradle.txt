@@ -22,6 +22,7 @@ Related:
 - /terms/messagepad-110
 - /terms/messagepad-120
 - /terms/messagepad-130
+- /terms/the-wedge
 - /terms/watson
 
 ----

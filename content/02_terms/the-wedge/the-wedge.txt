@@ -1,0 +1,28 @@
+Title: The Wedge
+
+----
+
+Date: 13 July 2025
+
+----
+
+Text:
+
+A simple stand manufactured by (link: /sources/roadrunner-tracks text: RoadRunner Tracks) to hold a (link: /terms/messagepad text: MessagePad) device. The stand was made from transparent thermoplastic and designed to hold the MessagePad at a slight angle when sitting on a desk or other work surface.
+
+----
+
+- [Roadrunner Tracks: The Wedge Product Information](https://web.archive.org/web/19980125195642/http://www.roadrunnertracks.com/wedge.html)
+- [60kMLA Forums: FS: The Wedge](https://68kmla.org/bb/index.php?threads/fs-the-wedge-newton-stand.49410/)
+
+----
+
+Related:
+
+- /terms/cradle
+
+----
+
+Source:
+
+- /sources/roadrunner-tracks
