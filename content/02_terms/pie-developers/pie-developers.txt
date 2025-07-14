@@ -18,7 +18,7 @@ In 1997, it changed its name to (link: /terms/handheld-systems text: The Handhel
 
 Resource:
 
-- [Creative Digital Publishing: The Handheld Systems Journal](https://web.archive.org/web/19970710163402/http://www.cdpubs.com:80/hhsj.html)
+- [Creative Digital Publishing: The Handheld Systems Journal](https://web.archive.org/web/19970710163402/http://www.cdpubs.com/hhsj.html)
 - [Creative Digital Publishing: Cumulative Annotated Table of Contents](https://web.archive.org/web/20001117053800/http://www.cdpubs.com/hhsys/hhsys0199.txt)
 - [Creative Digital Publishing: Handheld Systems Excerpts](https://web.archive.org/web/19970710163742/http://www.cdpubs.com/excerpts.html)
 - [Wired: How To Hack the Newton](https://web.archive.org/web/20161222053315/https://www.wired.com/1994/04/how-to-hack-the-newton/)
