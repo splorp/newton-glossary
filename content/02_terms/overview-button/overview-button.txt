@@ -8,7 +8,7 @@ Date: 27 August 2018
 
 Text:
 
-A dot-shaped (link: /terms/button text: button) used to change the current view of items being displayed on the (link: /terms/screen text: screen). Instead of showing the details of an individual item, an (link: /terms/overview text: overview) presents a summarized list of multiple items.
+A (link: /terms/dot text: dot)-shaped (link: /terms/button text: button) used to change the current view of items being displayed on the (link: /terms/screen text: screen). Instead of showing the details of an individual item, an (link: /terms/overview text: overview) presents a summarized list of multiple items.
 
 The overview button is located between the (link: /terms/universal-scroll-arrows text: universal scroll arrows) in the standard (link: /terms/button-bar text: button bar) found on all Newton devices.
 

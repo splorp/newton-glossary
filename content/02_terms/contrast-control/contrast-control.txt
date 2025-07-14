@@ -10,9 +10,7 @@ Text:
 
 A (link: /terms/control text: control) that allows the user to adjust the (link: /terms/contrast text: contrast) of the (link: /terms/screen text: screen) on a Newton device. Adjusting the contrast can make the image appearing on the screen lighter or darker.
 
-On (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), and (link: /terms/messagepad-130 text: MessagePad 130) devices, the contrast control is a physical (link: /terms/thumbwheel text: thumbwheel) on the side of the case.
-
-On an (link: /terms/emate-300 text: eMate 300), the contrast control is a physical (link: /terms/slider text: slider) located above the keyboard.
+On (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), and (link: /terms/messagepad-130 text: MessagePad 130) devices, the contrast control is a physical (link: /terms/thumbwheel text: thumbwheel) on the side of the case, whereas on (link: /terms/emate-300 text: eMate 300) devices, it is a physical (link: /terms/slider text: slider) located above the keyboard.
 
 On (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices, the contrast control is an onscreen slider located in the (link: /terms/extras-drawer text: Extras Drawer).
 
