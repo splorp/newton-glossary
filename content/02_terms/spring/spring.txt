@@ -30,6 +30,7 @@ Related:
 - /terms/drawer-closing
 - /terms/drawer-opening
 - /terms/echo
+- /terms/gong
 - /terms/hot-dog-song
 - /terms/out-there
 - /terms/page-flipping
@@ -39,7 +40,6 @@ Related:
 - /terms/poof
 - /terms/psssssst
 - /terms/sound
-- /terms/spring
 - /terms/squeak
 - /terms/trill
 - /terms/volume
