@@ -52,6 +52,8 @@ Related:
 - /terms/trill
 - /terms/user-interface
 - /terms/volume
+- /terms/wheep
+- /terms/whoop
 - /terms/xylo
 
 ----

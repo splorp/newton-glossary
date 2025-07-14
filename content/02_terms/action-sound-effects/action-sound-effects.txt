@@ -51,6 +51,8 @@ Related:
 - /terms/squeak
 - /terms/trill
 - /terms/volume
+- /terms/wheep
+- /terms/whoop
 - /terms/xylo
 - /terms/zig-zag
 

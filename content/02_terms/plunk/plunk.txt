@@ -47,6 +47,8 @@ Related:
 - /terms/trash-can
 - /terms/trill
 - /terms/volume
+- /terms/wheep
+- /terms/whoop
 - /terms/xylo
 
 ----

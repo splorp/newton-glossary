@@ -49,6 +49,8 @@ Related:
 - /terms/trill
 - /terms/volume
 - /terms/wakeupbeep
+- /terms/wheep
+- /terms/whoop
 - /terms/xylo
 
 ----

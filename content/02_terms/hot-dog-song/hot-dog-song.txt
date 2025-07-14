@@ -70,6 +70,8 @@ Related:
 - /terms/stafford
 - /terms/trill
 - /terms/volume
+- /terms/wheep
+- /terms/whoop
 - /terms/xylo
 
 ----
