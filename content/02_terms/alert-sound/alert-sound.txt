@@ -41,6 +41,7 @@ Related:
 - /terms/echo
 - /terms/gong
 - /terms/hot-dog-song
+- /terms/out-there
 - /terms/notification-alert
 - /terms/notification-slip
 - /terms/notify-button
@@ -50,8 +51,10 @@ Related:
 - /terms/pen-sound-effects
 - /terms/plunk
 - /terms/poof
+- /terms/psssssst
 - /terms/sound
 - /terms/sound-effect
+- /terms/spring
 - /terms/squeak
 - /terms/trill
 - /terms/volume

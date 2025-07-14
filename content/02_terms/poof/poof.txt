@@ -35,13 +35,16 @@ Related:
 - /terms/going-up-in-smoke
 - /terms/gong
 - /terms/hot-dog-song
+- /terms/out-there
 - /terms/page-flipping
 - /terms/paper-crumpling
 - /terms/plunk
 - /terms/poof-it
+- /terms/psssssst
 - /terms/puff-of-air
 - /terms/scrub
 - /terms/sound
+- /terms/spring
 - /terms/squeak
 - /terms/trill
 - /terms/volume

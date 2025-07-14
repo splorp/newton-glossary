@@ -1,8 +1,8 @@
-Title: Bell
+Title: Spring
 
 ----
 
-Date: 20 June 2025
+Date: 12 July 2025
 
 ----
 
@@ -10,9 +10,7 @@ Text:
 
 An (link: /terms/alert-sound text: alert sound) which can be selected in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
 
-Bell is one of four alert sounds available in all versions of (link: /terms/newton-os text: Newton OS).
-
-Also referred to as (link: /terms/simplebeep text: simpleBeep).
+Spring is only available as an alert sound in (link: /terms/newton-os text: Newton OS) 2.0 and later.
 
 ----
 
@@ -20,6 +18,7 @@ Related:
 
 - /terms/alarm-wakeup
 - /terms/alert-sound
+- /terms/bell
 - /terms/birdie
 - /terms/boot-up-chime
 - /terms/buzzer
@@ -31,7 +30,6 @@ Related:
 - /terms/drawer-closing
 - /terms/drawer-opening
 - /terms/echo
-- /terms/gong
 - /terms/hot-dog-song
 - /terms/out-there
 - /terms/page-flipping
@@ -40,17 +38,9 @@ Related:
 - /terms/plunk
 - /terms/poof
 - /terms/psssssst
-- /terms/simplebeep
 - /terms/sound
 - /terms/spring
 - /terms/squeak
 - /terms/trill
 - /terms/volume
 - /terms/xylo
-
-----
-
-Source:
-
-- /sources/newton-programmers-guide
-- /sources/newton-programmers-reference

@@ -35,12 +35,15 @@ Related:
 - /terms/gong
 - /terms/hot-dog-song
 - /terms/notepad-scroll-sound
+- /terms/out-there
 - /terms/page-flipping
 - /terms/paper-crumpling
 - /terms/plunk
 - /terms/poof
+- /terms/psssssst
 - /terms/scroll
 - /terms/sound
+- /terms/spring
 - /terms/squeak
 - /terms/trill
 - /terms/volume

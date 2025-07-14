@@ -36,12 +36,15 @@ Related:
 - /terms/echo
 - /terms/gong
 - /terms/hot-dog-song
+- /terms/out-there
 - /terms/page-flipping
 - /terms/paper-crumpling
 - /terms/plunk
 - /terms/poof
 - /terms/power-on
+- /terms/psssssst
 - /terms/sound
+- /terms/spring
 - /terms/squeak
 - /terms/trill
 - /terms/volume
