@@ -39,6 +39,7 @@ Related:
 - /terms/paper-crumpling
 - /terms/paper-hitting-trash
 - /terms/plunk
+- /terms/poof
 - /terms/psssssst
 - /terms/sound
 - /terms/spring

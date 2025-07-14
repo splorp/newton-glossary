@@ -67,8 +67,8 @@ Related:
 - /terms/sound
 - /terms/spring
 - /terms/squeak
-- /terms/trill
 - /terms/stafford
+- /terms/trill
 - /terms/volume
 - /terms/xylo
 

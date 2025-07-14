@@ -37,7 +37,6 @@ Related:
 - /terms/pen-sound-effects
 - /terms/plunk
 - /terms/poof
-- /terms/simplebeep
 - /terms/psssssst
 - /terms/sound
 - /terms/spring
