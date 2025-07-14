@@ -10,7 +10,7 @@ Text:
 
 An (link: /terms/alert-sound text: alert sound) which can be selected in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
 
-Psssssst is one of four alert sounds available in all versions of (link: /terms/newton-os text: Newton OS).
+Psssssst is only available as an alert sound in (link: /terms/newton-os text: Newton OS) 2.0 and later.
 
 ----
 
