@@ -10,13 +10,19 @@ Text:
 
 A (link: /terms/user-interface text: user interface) element or (link: /terms/object text: object) in a (link: /terms/container-view text: container view) that a user can manipulate with a (link: /terms/pen text: pen) to cause instant action with visible results or to change settings that modify a future action.
 
+A control can also be a physical (link: /terms/slider text: slider), (link: /terms/knob text: knob), or (link: /terms/thumbwheel text: thumbwheel) on a device, used to adjust settings such as (link: /terms/volume text: volume) or screen (link: /terms/contrast text: contrast).
+
 ----
 
 Related:
 
 - /terms/container-view
+- /terms/contrast-control
 - /terms/object
+- /terms/slider
+- /terms/thumbwheel
 - /terms/user-interface
+- /terms/volume
 
 ----
 

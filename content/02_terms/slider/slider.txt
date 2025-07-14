@@ -10,6 +10,8 @@ Text:
 
 A (link: /terms/control text: control) with a (link: /terms/marker text: marker) that acts as an (link: /terms/indicator text: indicator) of magnitude, position, probability, degree, or some other amount within a range of possible values. The user can adjust the value by (link: /terms/dragging text: dragging) the marker.
 
+A slider can also be a physical control located on a device, used to adjust settings such as (link: /terms/volume text: volume) or screen (link: /terms/contrast text: contrast).
+
 ----
 
 Related:

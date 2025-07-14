@@ -1,0 +1,27 @@
+Title: Thumbwheel
+
+----
+
+Date: 14 July 2025
+
+----
+
+Text:
+
+The physical (link: /terms/contrast-control text: contrast control) located on the side of (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), and (link: /terms/messagepad-130 text: MessagePad 130) devices.
+
+Also referred to as a (link: /terms/knob text: knob).
+
+----
+
+Related:
+
+- /terms/control
+- /terms/contrast-control
+- /terms/knob
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995

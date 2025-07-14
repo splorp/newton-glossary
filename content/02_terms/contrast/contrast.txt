@@ -1,0 +1,18 @@
+Title: Contrast
+
+----
+
+Date: 14 July 2025
+
+----
+
+Text:
+
+See: (link: /terms/contrast-control text: Contrast Control)
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995
+- /sources/messagepad-2000-user-manual

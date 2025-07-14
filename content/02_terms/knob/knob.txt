@@ -8,10 +8,11 @@ Date: 18 September 2024
 
 Text:
 
-See: (link: /terms/marker text: Marker)
+See: (link: /terms/marker text: Marker) and (link: /terms/Thumbwheel text: Thumbwheel)
 
 ----
 
 Source:
 
 - /sources/newton-user-interface-guidelines
+- /sources/messagepad-handbook-1995
