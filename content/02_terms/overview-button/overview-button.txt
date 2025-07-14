@@ -21,6 +21,7 @@ Related:
 - /terms/clank
 - /terms/controls-left
 - /terms/controls-right
+- /terms/dot
 - /terms/icon
 - /terms/local-scroll-arrows
 - /terms/overview
