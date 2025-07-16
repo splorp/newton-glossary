@@ -21,6 +21,7 @@ Resource:
 
 Related:
 
+- /terms/data-pcs
 - /terms/laptop-computer
 - /terms/personal-digital-assistant
 - /terms/tablet-computer

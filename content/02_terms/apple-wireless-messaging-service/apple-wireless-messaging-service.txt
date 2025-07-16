@@ -29,12 +29,14 @@ Related:
 - /terms/ardis-personal-messaging
 - /terms/awms
 - /terms/beeper-number
+- /terms/data-pcs
 - /terms/message-module
 - /terms/newscard
 - /terms/newton-messaging-card
 - /terms/newton-messaging-enabler
 - /terms/pagecard
 - /terms/passcode
+- /terms/pcs
 - /terms/pin
 - /terms/tango
 - /terms/swims

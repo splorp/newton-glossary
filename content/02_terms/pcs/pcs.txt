@@ -1,0 +1,32 @@
+Title: PCS
+
+----
+
+Date: 16 July 2025
+
+----
+
+Text:
+
+Personal Communication Services
+
+Telecommunication services provided over a wireless connection that combines voice messaging, text messaging, voicemail, and other features for use on a portable device, such as a (link: /terms/personal-digital-assistant text: personal digital assistant). These services are usually delivered over a cellular or radio network.
+
+----
+
+Related:
+
+- /terms/apple-mobile-message-system
+- /terms/apple-notification-service
+- /terms/apple-wireless-messaging-service
+- /terms/ardis
+- /terms/ardis-personal-messaging
+- /terms/cdpd
+- /terms/data-pcs
+- /terms/swims
+
+----
+
+Source:
+
+- /sources/foldoc

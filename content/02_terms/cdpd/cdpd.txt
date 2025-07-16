@@ -16,6 +16,13 @@ A defunct wireless data service developed in the early 1990s. CDPD was available
 
 Related:
 
+- /terms/apple-mobile-message-system
+- /terms/apple-notification-service
+- /terms/apple-wireless-messaging-service
+- /terms/ardis
+- /terms/ardis-personal-messaging
+- /terms/data-pcs
+- /terms/pcs
 - /terms/seahorse
 - /terms/tarpon
 

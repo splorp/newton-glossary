@@ -28,5 +28,8 @@ Related:
 - /terms/apple-notification-service
 - /terms/apple-wireless-messaging-service
 - /terms/ardis-personal-messaging
+- /terms/cdpd
+- /terms/data-pcs
 - /terms/marco
+- /terms/pcs
 - /terms/swims

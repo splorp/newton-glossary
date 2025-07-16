@@ -31,11 +31,13 @@ Related:
 - /terms/apple-wireless-messaging-service
 - /terms/ardis
 - /terms/ardis-personal-messaging
+- /terms/data-pcs
 - /terms/message-module
 - /terms/newscard
 - /terms/newton-messaging-card
 - /terms/newton-messaging-enabler
 - /terms/pagecard
+- /terms/pcs
 - /terms/tango
 - /terms/swims
 

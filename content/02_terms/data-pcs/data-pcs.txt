@@ -1,0 +1,41 @@
+Title: Data-PCS
+
+----
+
+Date: 16 July 2025
+
+----
+
+Text:
+
+Data Personal Communication Services
+
+A radio service proposed by [Apple](https://www.apple.com/) in 1991 that would have provided local area, high speed data communication supporting collaborative computing and networking among portable devices, including (link: /terms/laptop-computer text: laptops) and (link: /terms/personal-digital-assistant text: personal digital assistants) such as the Newton (link: /terms/messagepad text: MessagePad).
+
+----
+
+Resource:
+
+- [TidBITS: Data-PCS, Please](https://tidbits.com/1991/05/06/data-pcs-please/)
+- [Grazing on the Commons: The Emergence of Part 15](https://www.clemson.edu/centers-institutes/iep/documents/grazing-commons-henry-goldberg.pdf)
+
+----
+
+Related:
+
+- /terms/apple-mobile-message-system
+- /terms/apple-notification-service
+- /terms/apple-wireless-messaging-service
+- /terms/ardis
+- /terms/ardis-personal-messaging
+- /terms/cdpd
+- /terms/nomadic
+- /terms/pcs
+- /terms/swims
+
+----
+
+Source:
+
+- /sources/henry-goldberg
+- /sources/tidbits
