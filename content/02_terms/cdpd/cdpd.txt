@@ -22,6 +22,7 @@ Related:
 - /terms/ardis
 - /terms/ardis-personal-messaging
 - /terms/data-pcs
+- /terms/nomadic
 - /terms/pcs
 - /terms/seahorse
 - /terms/tarpon
