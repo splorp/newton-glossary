@@ -34,6 +34,7 @@ Related:
 - /terms/notion
 - /terms/persistent-alarms
 - /terms/personal-information-manager
+- /terms/pimple
 - /terms/to-do-list
 
 ----

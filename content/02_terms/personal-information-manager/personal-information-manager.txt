@@ -20,3 +20,4 @@ Related:
 - /terms/name-file
 - /terms/moreinfo
 - /terms/pim
+- /terms/pimple

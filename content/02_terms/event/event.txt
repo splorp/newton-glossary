@@ -27,6 +27,7 @@ Related:
 - /terms/mini-calendar
 - /terms/moreinfo
 - /terms/newtonscript
+- /terms/pimple
 
 ----
 

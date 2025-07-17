@@ -1,0 +1,41 @@
+Title: PIMple
+
+----
+
+Date: 17 July 2025
+
+----
+
+Text:
+
+A system enhancement developed by (link: /sources/byte-size text: Byte-Size Software) that provides a compact (link: /terms/calendar text: calendar) view of information from the (link: /terms/date-book text: Date Book) application, allowing the user to quickly view their schedule, including available time slots, as well as conflicting (link: /terms/meeting text: meetings).
+
+(image: /assets/images/pimple-2x.gif alt: Screenshot of the PIMple floating calendar width: 139)
+
+----
+
+Resource:
+
+- [Byte-Size Software: PIMple Product Information](https://web.archive.org/web/20040415111901fw_/http://home.earthlink.net/~firstvln/bytesize/pimple.html)
+- [UNNA: PIMple 3.0](http://www.unna.org/view.php?/applications/pim/PIMple3.0)
+
+----
+
+Related:
+
+- /terms/action-names
+- /terms/date-book
+- /terms/event
+- /terms/meeting
+- /terms/moreinfo
+- /terms/name-file
+- /terms/newttodo
+- /terms/notion
+- /terms/personal-information-manager
+- /terms/to-do-list
+
+----
+
+Source:
+
+- /sources/byte-size

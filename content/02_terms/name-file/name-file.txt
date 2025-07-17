@@ -35,6 +35,7 @@ Related:
 - /terms/people-picker
 - /terms/person
 - /terms/personal-information-manager
+- /terms/pimple
 - /terms/untitled
 - /terms/untitled-company
 - /terms/untitled-group

@@ -22,6 +22,7 @@ Related:
 - /terms/meeting-notes
 - /terms/mini-calendar
 - /terms/moreinfo
+- /terms/pimple
 
 ----
 
