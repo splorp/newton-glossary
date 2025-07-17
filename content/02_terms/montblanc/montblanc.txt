@@ -21,6 +21,7 @@ Related:
 - /terms/figaro
 - /terms/junior
 - /terms/messageslate
+- /terms/pocket-crystal
 - /terms/pocket-newton
 - /terms/senior
 

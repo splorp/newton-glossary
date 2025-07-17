@@ -20,6 +20,7 @@ Related:
 - /terms/cadillac
 - /terms/figaro
 - /terms/montblanc
+- /terms/pocket-crystal
 - /terms/senior
 - /terms/tablet-computer
 

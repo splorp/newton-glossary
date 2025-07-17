@@ -30,6 +30,7 @@ Related:
 - /terms/figaro
 - /terms/messageslate
 - /terms/montblanc
+- /terms/pocket-crystal
 - /terms/senior
 
 ----

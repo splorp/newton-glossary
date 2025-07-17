@@ -1,0 +1,36 @@
+Title: Pocket Crystal
+
+----
+
+Date: 16 July 2025
+
+----
+
+Text:
+
+The code name of a portable, agent-based, networked device being developed at the same time as the (link: /terms/Figaro text: Figaro) project at [Apple](https://www.apple.com/). Pocket Crystal was eventually spun out as [General Magic](https://en.wikipedia.org/wiki/General_Magic) to become [Magic Cap](https://en.wikipedia.org/wiki/Magic_Cap), the (link: /terms/operating system text: operating system) used in the [Sony Magic Link](https://en.wikipedia.org/wiki/Magic_Link) and [Motorola Envoy](https://en.wikipedia.org/wiki/Motorola_Envoy) devices.
+
+----
+
+Resource:
+
+- [Low End Mac: The Story Behind Apple’s Newton](https://lowendmac.com/2013/the-story-behind-apples-newton/)
+
+----
+
+Related:
+
+- /terms/batman
+- /terms/bunwarmer
+- /terms/bic
+- /terms/cadillac
+- /terms/figaro
+- /terms/messageslate
+- /terms/montblanc
+- /terms/senior
+
+----
+
+Source:
+
+- /sources/low-end-mac

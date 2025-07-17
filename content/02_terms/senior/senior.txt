@@ -38,6 +38,7 @@ Related:
 - /terms/messageslate
 - /terms/montblanc
 - /terms/newton-plus
+- /terms/pocket-crystal
 - /terms/smirkers
 
 ----
