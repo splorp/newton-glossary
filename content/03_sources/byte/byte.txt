@@ -1,0 +1,19 @@
+Title: Byte
+
+----
+
+Date: 17 July 2025
+
+----
+
+Text:
+
+An influential monthly magazine focused primarily on microcomputers and software, but also covering a wide range of other related topics. First published in 1975, the magazine survived several acquisitions, producing its final print issue in July 2998. Byte continued as an online publication in one form or another until 2013.
+
+----
+
+Resource:
+
+- [Byte Magazine Website](https://web.archive.org/web/19961220002207/http://www.byte.com/)
+- [Vintage Apple: Vintage Byte Magazine Library](https://vintageapple.org/byte/)
+- [Wikipedia: Byte](https://en.wikipedia.org/wiki/Byte_(magazine))

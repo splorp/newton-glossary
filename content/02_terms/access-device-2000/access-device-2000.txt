@@ -25,4 +25,5 @@ Related:
 - /terms/access-device
 - /terms/ad2000
 - /terms/clone
+- /terms/hapi
 - /terms/supertech-2000

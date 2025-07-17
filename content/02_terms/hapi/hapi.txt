@@ -1,0 +1,32 @@
+Title: HAPI
+
+----
+
+Date: 17 July 2025
+
+----
+
+Text:
+
+Harris Application Programming Interface
+
+An extension to (link: /terms/newtonscript text: NewtonScript) developed by [Harris Corporation](https://web.archive.org/web/19970605091858/http://www.harris.com/) that provided additional (link: /terms/function text: function) calls, (link: /terms/frame text: frames), and (link: /terms/template text: templates) to encourage integration between (link: /terms/newton-os text: Newton OS) and its (link: /terms/access-device-2000 text: Access Device 2000) and (link: /terms/supertech-2000 text: SuperTech 2000) devices.
+
+----
+
+Resource:
+
+- [Byte: The Newton Goes Vertical](https://web.archive.org/web/19990506181350/http://byte.com/art/9501/sec8/art1.htm)
+
+----
+
+Related:
+
+- /terms/api
+- /terms/newtonscript
+
+----
+
+Source:
+
+- /sources/byte

@@ -32,6 +32,7 @@ Related:
 - /terms/clone
 - /terms/craft-digital-assistant
 - /terms/dracon
+- /terms/hapi
 - /terms/st2k
 - /terms/st2000
 - /terms/tarpon

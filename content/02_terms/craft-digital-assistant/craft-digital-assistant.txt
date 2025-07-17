@@ -23,5 +23,6 @@ Related:
 
 - /terms/cda
 - /terms/dracon
+- /terms/hapi
 - /terms/personal-digital-assistant
 - /terms/supertech-2000
