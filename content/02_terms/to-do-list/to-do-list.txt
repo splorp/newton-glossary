@@ -16,7 +16,10 @@ Related:
 
 - /terms/checklist
 - /terms/date-book
+- /terms/flashpoint
+- /terms/getting-things-done
 - /terms/newttodo
+- /terms/nitch
 - /terms/notion
 
 ----

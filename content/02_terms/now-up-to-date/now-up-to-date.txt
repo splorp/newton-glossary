@@ -23,5 +23,4 @@ Related:
 - /terms/notes2notes
 - /terms/nud
 - /terms/nwt
-- /terms/personal-information-manager
 - /terms/synchronize

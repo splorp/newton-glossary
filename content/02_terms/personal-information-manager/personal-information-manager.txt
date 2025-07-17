@@ -17,7 +17,12 @@ Commonly referred to as a (link: /terms/pim text: PIM).
 Related:
 
 - /terms/action-names
-- /terms/name-file
+- /terms/dateman
+- /terms/date-book
 - /terms/moreinfo
+- /terms/name-file
+- /terms/newttodo
+- /terms/notion
 - /terms/pim
 - /terms/pimple
+- /terms/to-do-list

@@ -32,5 +32,4 @@ Related:
 - /terms/notes2notes
 - /terms/now-up-to-date
 - /terms/nwt
-- /terms/personal-information-manager
 - /terms/synchronize
