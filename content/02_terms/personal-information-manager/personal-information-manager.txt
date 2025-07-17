@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A software program that stores and organizes personal data such as names, addresses, and other means of contact.
+A software program that stores and organizes personal data including contacts, appointments, and tasks.
 
 Commonly referred to as a (link: /terms/pim text: PIM).
 

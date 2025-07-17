@@ -22,6 +22,7 @@ Related:
 - /terms/content-script
 - /terms/denali
 - /terms/dylan
+- /terms/hapi
 - /terms/lisp
 - /terms/littlelisp
 - /terms/macintosh-common-lisp
