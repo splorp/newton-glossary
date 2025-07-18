@@ -10,7 +10,7 @@ Text:
 
 Personal Interactive Electronics
 
-A short lived division of [Apple](https://www.apple.com/) which handled the development and marketing of the Newton platform. Apple’s support program for Newton developers was known as the (link: /terms/pie-partners-program text: PIE Partners Program).
+A short-lived division of [Apple](https://www.apple.com/) which handled the development and marketing of the Newton platform. Apple’s support program for Newton developers was known as the (link: /terms/pie-partners-program text: PIE Partners Program).
 
 ----
 
