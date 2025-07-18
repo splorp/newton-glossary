@@ -1,0 +1,34 @@
+Title: Apple Research Labs
+
+----
+
+Date: 18 July 2025
+
+----
+
+Text:
+
+The short-lived renaming of Apple’s (link: /terms/advanced-technology-group text: Advanced Technology Group), used briefly before the return of Steve Jobs and the shuttering of the group.
+
+Also referred to as (link: /terms/arl text: ARL).
+
+----
+
+Resource:
+
+- [CNET: Apple shutters Advanced Technology Group](https://web.archive.org/web/20110617061415/http://news.cnet.com/2100-1001-203996.html)
+- [Wikipedia: Apple Advanced Technology Group](https://en.wikipedia.org/wiki/Apple_Advanced_Technology_Group)
+
+----
+
+Related:
+
+- /terms/advanced-technology-group
+- /terms/arl
+- /terms/newton-systems-group
+
+----
+
+Source:
+
+- /sources/larry-yaeger
