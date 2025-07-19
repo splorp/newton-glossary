@@ -22,6 +22,8 @@ Related:
 - /terms/isp
 - /terms/logout-script
 - /terms/modem
+- /terms/modem-setup
+- /terms/newton-modem-enabler
 - /terms/script
 
 ----

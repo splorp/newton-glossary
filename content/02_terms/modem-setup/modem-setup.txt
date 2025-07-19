@@ -1,0 +1,34 @@
+Title: Modem Setup
+
+----
+
+Date: 19 July 2025
+
+----
+
+Text:
+
+A (link: /terms/package text: package) that provides configuration settings for a modem. Along with the (link: /terms/newton-modem-enabler text: Newton Modem Enabler) software, modem setup packages allowed the use of third-party modems with Newton devices.
+
+----
+
+Resource:
+
+- [Apple Support: Newton MessagePad Modem Enabler 1.0: Read Me](https://web.archive.org/web/20020214062107/http://karchive.info.apple.com/article.html?artnum=19140)
+
+----
+
+Related:
+
+- /terms/isp
+- /terms/login-script
+- /terms/logout-script
+- /terms/modem
+- /terms/newton-fax-modem
+- /terms/newton-modem-enabler
+
+----
+
+Source:
+
+- /sources/applecare-knowledge-archive

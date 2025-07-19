@@ -21,6 +21,8 @@ Related:
 - /terms/login-script
 - /terms/logout-script
 - /terms/modem
+- /terms/modem-setup
+- /terms/newton-modem-enabler
 - /terms/newton-internet-enabler
 - /terms/ppp
 - /terms/slip-protocol

@@ -1,0 +1,35 @@
+Title: Newton Modem Enabler
+
+----
+
+Date: 19 July 2025
+
+----
+
+Text:
+
+Software that allows the use of third-party modems with a Newton device. Early versions of the Modem Enabler (link: /terms/extension text: extension) needed to be installed along with one or more separate (link: /terms/modem-setup text: modem setup) packages that provided configuration settings specific to each modem. In later versions of (link: /terms/newton-os text: Newton OS), individual modems were supported using their own enabler (link: /terms/package text: package).
+
+----
+
+Resource:
+
+- [Apple Support: Newton MessagePad Modem Enabler 1.0: Read Me](https://web.archive.org/web/20020214062107/http://karchive.info.apple.com/article.html?artnum=19140)
+
+----
+
+Related:
+
+- /terms/isp
+- /terms/login-script
+- /terms/logout-script
+- /terms/modem
+- /terms/modem-enabler
+- /terms/modem-setup
+- /terms/newton-fax-modem
+
+----
+
+Source:
+
+- /sources/applecare-knowledge-archive

@@ -20,6 +20,8 @@ Related:
 - /terms/isp
 - /terms/login-script
 - /terms/modem
+- /terms/modem-setup
+- /terms/newton-modem-enabler
 - /terms/script
 
 ----
