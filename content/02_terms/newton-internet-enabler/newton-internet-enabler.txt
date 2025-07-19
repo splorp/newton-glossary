@@ -28,6 +28,7 @@ Related:
 
 - /terms/dhcp
 - /terms/dns
+- /terms/enabler
 - /terms/internet-setup
 - /terms/ip
 - /terms/nethopper

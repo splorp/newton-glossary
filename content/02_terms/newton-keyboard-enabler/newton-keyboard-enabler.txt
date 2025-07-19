@@ -23,7 +23,9 @@ Resource:
 
 Related:
 
+- /terms/enabler
 - /terms/frankenbuckey
+- /terms/keyboard-enabler
 - /terms/newtk
 - /terms/newtkey
 - /terms/newton-keyboard

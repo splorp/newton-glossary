@@ -20,6 +20,7 @@ Resource:
 
 Related:
 
+- /terms/enabler
 - /terms/isp
 - /terms/login-script
 - /terms/logout-script

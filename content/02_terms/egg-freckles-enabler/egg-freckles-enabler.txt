@@ -24,6 +24,7 @@ Related:
 
 - /terms/easter-egg
 - /terms/egg-freckles
+- /terms/enabler
 - /terms/handwriting-recognition
 
 ----

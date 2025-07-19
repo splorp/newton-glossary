@@ -25,6 +25,7 @@ Related:
 
 - /terms/application-signature
 - /terms/clone
+- /terms/enabler
 - /terms/dcl
 - /terms/watson
 
