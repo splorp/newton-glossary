@@ -1,0 +1,32 @@
+Title: Microcosmic God
+
+----
+
+Date: 18 July 2025
+
+----
+
+Text:
+
+The job title appearing on the business card of (link: /sources/larry-yaeger text: Larry Yaeger) when he was part of the Advanced Technology Group within [Apple](https://www.apple.com/).
+
+_“Microcosmic God”_ is the title of a science fiction story written in 1941 by American author [Theodore Sturgeon](https://en.wikipedia.org/wiki/Theodore_Sturgeon). The story is an early example of the “pocket universe” concept used in science fiction, hence its adoption by Yaeger while working on the Newton project.
+
+----
+
+Resource:
+
+- [The Register: Apple pen-tablet plan revives Newtonian handwriting](https://www.theregister.com/2009/11/13/apple_pen_tablet_patent_filing/)
+- [Wikipedia: Microcosmic God](https://en.wikipedia.org/wiki/Microcosmic_God)
+
+----
+
+Related:
+
+- /terms/larryy
+
+----
+
+Source:
+
+- /sources/register

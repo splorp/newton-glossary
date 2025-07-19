@@ -10,6 +10,8 @@ Text:
 
 Currently a software engineer at [Google](https://www.google.com/), Yaeger’s contributions to the Newton are numerous. As a member of the Advanced Technology Group at [Apple](https://www.apple.com/), he was Technical Lead in the development of the neural network print recognition system known as (link: /terms/rosetta text: Rosetta), the world’s first genuinely usable handwriting recognition system.
 
+During his tenure in the Advanced Technology Group, the job title on Yaeger’s business card was “(link: /terms/microcosmic-god text: Microcosmic God)”.
+
 ----
 
 Resource:
@@ -18,3 +20,4 @@ Resource:
 - [Larry Yaeger: Apple Newton Handwriting Recognition](https://shinyverse.org/larryy/ANHR.html)
 - [Ars Technica: In the Loop with Larry Yaeger](https://arstechnica.com/apple/2005/06/504/)
 - [Matej Horvat: An interview with Larry Yaeger](https://matejhorvat.si/en/newton/larryy/)
+- [The Register: Apple pen-tablet plan revives Newtonian handwriting](https://www.theregister.com/2009/11/13/apple_pen_tablet_patent_filing/)

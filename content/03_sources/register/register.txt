@@ -1,0 +1,17 @@
+Title: The Register
+
+----
+
+Date: 18 July 2025
+
+----
+
+Text:
+
+A British online news publication focused on enterprise and information technology. Co-founded in 1994 by Mike Magee and John Lettice as a sporadic email newsletter, The Register turned to daily online publishing in 1998.
+
+----
+
+Resource:
+
+- [The Register Website](https://www.theregister.com/)
