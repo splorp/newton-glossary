@@ -18,15 +18,18 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the (link: /latest text: Latest Additions) page.
 
-### _$r
+### 5.0.0
 
-Terms: _$t
-Sources: _$s
+21 July 2025
+
+Terms: 1,864
+Sources: 206
 
 #### Summary of changes:
 
-+ Added new terms
-+ Added new sources
++ Added 48 new terms
++ Added 6 new sources
++ Updated and expanded dozens of existing entries
 + Updated [Kirby](https://getkirby.com/) to version [5.0.0](https://github.com/getkirby/kirby/releases/tag/5.0.0)
 + Updated [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin to version [2.0.7](https://github.com/splorp/kirby-paperback-export/releases/tag/2.0.7)
 + Updated [Kirby Redirects](https://github.com/bnomei/kirby3-redirects) plugin to version [5.0.0](https://github.com/bnomei/kirby3-redirects/releases/tag/v5.0.0)
