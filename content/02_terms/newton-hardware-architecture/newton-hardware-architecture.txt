@@ -1,0 +1,31 @@
+Title: Newton Hardware Architecture
+
+----
+
+Date: 23 July 2025
+
+----
+
+Text:
+
+A marketing-focused term for the physical and performance-related specifications of a Newton device.
+
+Hardware specifications include information pertaining to (link: /terms/CPU text: CPU), the amount of (link: /terms/ram text: RAM) and (link: /terms/rom text: ROM), communications and expansion port availability, (link: /terms/screen text: screen) resolution, audio capabilities, and other details.
+
+----
+
+Resource:
+
+- [Newton Inc.: MessagePad 2000 Datasheet](https://web.archive.org/web/19980204042002/http://www.newton-inc.com/product_info/devices/MP2000/MP2000ds.html)
+
+----
+
+Related:
+
+- /terms/newton-intelligence
+
+----
+
+Source:
+
+- /sources/newton-inc

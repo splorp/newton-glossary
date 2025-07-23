@@ -30,6 +30,7 @@ Related:
 - /terms/ink
 - /terms/inkwell
 - /terms/neuropen
+- /terms/newton-recognition-architecture
 - /terms/print-recognizer
 - /terms/printing
 - /terms/recognized-text

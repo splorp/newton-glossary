@@ -8,10 +8,28 @@ Date: 24 May 2001
 
 Text:
 
-A marketing-focused name for the core technologies behind the (link: /terms/newton-os text: Newton OS) platform. Newton Intelligence allowed the software to anticipate the behaviour of the user, learning and acting on those assumptions.
+A marketing-focused term for the core technologies behind the (link: /terms/newton-os text: Newton OS) platform, encompassing (link: /terms/intelligent-assistance-architecture text: Intelligent Assistance Architecture), (link: /terms/newton-communications-architecture text: Newton Communications Architecture), (link: /terms/newton-information-architecture text: Newton Information Architecture), (link: /terms/newton-recognition-architecture text: Newton Recognition Architecture), and the (link: /terms/newton-hardware-architecture text: Newton Hardware Architecture).
+
+This combination of technologies allowed a Newton device to anticipate the behaviour of the user, learning and acting on those assumptions.
+
+----
+
+Resource:
+
+- [Newton Inc.: MessagePad 2000 Datasheet](https://web.archive.org/web/19980204042002/http://www.newton-inc.com/product_info/devices/MP2000/MP2000ds.html)
 
 ----
 
 Related:
 
+- /terms/intelligent-assistance-architecture
+- /terms/newton-communications-architecture
+- /terms/newton-hardware-architecture
+- /terms/newton-information-architecture
 - /terms/newton-os
+- /terms/newton-recognition-architecture
+----
+
+Source:
+
+- /sources/newton-inc

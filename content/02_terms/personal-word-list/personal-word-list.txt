@@ -25,6 +25,7 @@ Related:
 - /terms/grammar
 - /terms/handwriting-recognition
 - /terms/lexical-dictionary
+- /terms/newton-recognition-architecture
 - /terms/recently-written-words
 - /terms/review-dictionary
 - /terms/symbols-dictionary

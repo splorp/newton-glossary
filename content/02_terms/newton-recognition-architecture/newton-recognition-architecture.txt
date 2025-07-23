@@ -1,0 +1,37 @@
+Title: Newton Recognition Architecture
+
+----
+
+Date: 23 July 2025
+
+----
+
+Text:
+
+A marketing-focused term for the (link: /terms/newton-os text: Newton OS) technologies that provide (link: /terms/handwriting-recognition text: handwriting recognition), assisted by built-in (link: /terms/dictionary text: dictionaries), pop-up (link: /terms/keyboard text: keyboards) to simplify entering of different types of data, and recognition of simple graphics and geometric (link: /terms/shape text: shapes).
+
+----
+
+Resource:
+
+- [Newton Inc.: MessagePad 2000 Datasheet](https://web.archive.org/web/19980204042002/http://www.newton-inc.com/product_info/devices/MP2000/MP2000ds.html)
+
+----
+
+Related:
+
+- /terms/cursive-recognizer
+- /terms/dictionary
+- /terms/handwriting-recognition
+- /terms/mondello
+- /terms/neuropen
+- /terms/newton-intelligence
+- /terms/newton-os
+- /terms/print-recognizer
+- /terms/rosetta
+
+----
+
+Source:
+
+- /sources/newton-inc

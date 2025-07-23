@@ -26,8 +26,13 @@ Related:
 
 - /terms/deutsche-newton
 - /terms/einstein
-- /terms/leibniz
+- /terms/intelligent-assistance-architecture
 - /terms/kernel
+- /terms/leibniz
+- /terms/newton-communications-architecture
+- /terms/newton-information-architecture
+- /terms/newton-intelligence
+- /terms/newton-recognition-architecture
 - /terms/nos
 - /terms/operating-system
 - /terms/os

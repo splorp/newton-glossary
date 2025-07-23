@@ -35,6 +35,7 @@ Related:
 - /terms/letter-shapes
 - /terms/mondello
 - /terms/neuropen
+- /terms/newton-recognition-architecture
 - /terms/paragraph
 - /terms/print-recognizer
 - /terms/printing

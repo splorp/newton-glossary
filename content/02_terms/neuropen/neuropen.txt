@@ -29,6 +29,7 @@ Related:
 - /terms/ink
 - /terms/inkwell
 - /terms/mondello
+- /terms/newton-recognition-architecture
 - /terms/print-recognizer
 - /terms/printing
 - /terms/recognized-text

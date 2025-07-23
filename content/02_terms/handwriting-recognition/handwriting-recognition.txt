@@ -43,6 +43,7 @@ Related:
 - /terms/letter-shapes
 - /terms/mondello
 - /terms/neuropen
+- /terms/newton-recognition-architecture
 - /terms/pen
 - /terms/pen-alignment
 - /terms/prefs

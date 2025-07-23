@@ -34,6 +34,7 @@ Related:
 - /terms/lyon
 - /terms/mondello
 - /terms/neuropen
+- /terms/newton-recognition-architecture
 - /terms/print-recognizer
 - /terms/printing
 - /terms/recognized-text

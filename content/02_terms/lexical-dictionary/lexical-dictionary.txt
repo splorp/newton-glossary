@@ -21,6 +21,7 @@ Related:
 - /terms/expand-dictionary
 - /terms/grammar
 - /terms/handwriting-recognition
+- /terms/newton-recognition-architecture
 - /terms/personal-word-list
 - /terms/recently-written-words
 - /terms/review-dictionary
