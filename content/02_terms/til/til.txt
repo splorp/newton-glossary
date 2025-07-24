@@ -16,7 +16,6 @@ A technical support (link: /terms/database text: database) maintained by [Apple]
 
 Related:
 
-- /terms/database
 - /terms/kbase
 - /terms/newtil
 

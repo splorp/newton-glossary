@@ -14,7 +14,6 @@ A nickname for the AppleCare Knowledge Base or (link: /sources/applecare-knowled
 
 Related:
 
-- /terms/database
 - /terms/newtil
 - /terms/til
 

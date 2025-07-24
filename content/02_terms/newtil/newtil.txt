@@ -22,6 +22,5 @@ Resource:
 
 Related:
 
-- /terms/database
 - /terms/kbase
 - /terms/til
