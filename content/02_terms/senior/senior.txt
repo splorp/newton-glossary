@@ -39,6 +39,7 @@ Related:
 - /terms/montblanc
 - /terms/newton-plus
 - /terms/pocket-crystal
+- /terms/scaldapanini
 - /terms/smirkers
 
 ----

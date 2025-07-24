@@ -1,0 +1,17 @@
+Title: Computer History Museum
+
+----
+
+Date: 24 July 2025
+
+----
+
+Text:
+
+A museum and non-profit organization located in Mountain View, Califorina. The museum maintains a voluminous collection of artifacts and is dedicated to _“decoding computing’s ongoing impact on our world”_ through preservation, conversation, and education.
+
+----
+
+Resource:
+
+- [Computer History Museum Website](https://computerhistory.org/)

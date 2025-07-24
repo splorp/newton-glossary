@@ -1,0 +1,39 @@
+Title: Scaldapanini
+
+----
+
+Date: 24 July 2025
+
+----
+
+Text:
+
+Another affectionate nickname for some (link: /terms/bunwarmer text: Bunwarmer)-style prototypes that were based on the MessagePad 110 form factor.
+
+Scaldapanini roughly translates from Italian to “sandwich warmer”."
+
+----
+
+Resource:
+
+- [Computer History Museum: Newton MessagePad prototype(https://www.computerhistory.org/collections/catalog/102633644)
+
+----
+
+Related:
+
+- /terms/batman
+- /terms/bunwarmer
+- /terms/bic
+- /terms/cadillac
+- /terms/figaro
+- /terms/messageslate
+- /terms/montblanc
+- /terms/pocket-crystal
+- /terms/senior
+
+----
+
+Source:
+
+- /sources/computer-history-museum

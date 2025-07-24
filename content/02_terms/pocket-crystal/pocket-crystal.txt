@@ -27,6 +27,7 @@ Related:
 - /terms/figaro
 - /terms/messageslate
 - /terms/montblanc
+- /terms/scaldapanini
 - /terms/senior
 
 ----

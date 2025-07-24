@@ -21,6 +21,7 @@ Related:
 - /terms/figaro
 - /terms/montblanc
 - /terms/pocket-crystal
+- /terms/scaldapanini
 - /terms/senior
 - /terms/tablet-computer
 

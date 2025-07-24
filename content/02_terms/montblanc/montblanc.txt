@@ -23,6 +23,7 @@ Related:
 - /terms/messageslate
 - /terms/pocket-crystal
 - /terms/pocket-newton
+- /terms/scaldapanini
 - /terms/senior
 
 ----

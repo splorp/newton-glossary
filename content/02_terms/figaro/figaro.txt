@@ -31,6 +31,7 @@ Related:
 - /terms/messageslate
 - /terms/montblanc
 - /terms/pocket-crystal
+- /terms/scaldapanini
 - /terms/senior
 
 ----
