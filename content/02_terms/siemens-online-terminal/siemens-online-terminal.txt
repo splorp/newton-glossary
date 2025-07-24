@@ -8,7 +8,11 @@ Date: 25 March 2017
 
 Text:
 
-A prototype device developed by [Siemens](https://www.siemens.com/) that was positioned as an “all-in-one communication terminal” employing a (link: /terms/user-interface text: user interface) based on (link: /terms/newton-os text: Newton OS) and combining several communication services including wireless telephony, fax, voice messaging, web access, and email. Siemens also developed the (link: /terms/notephone text: NotePhone) which combined a telephone and fax (link: /terms/modem text: modem) with the equivalent of an (link: /terms/original-messagepad text: Original MessagePad).
+A prototype device developed by [Siemens](https://www.siemens.com/) that was positioned as an “all-in-one communication terminal” employing a (link: /terms/user-interface text: user interface) based on (link: /terms/newton-os text: Newton OS) and the same (link: /terms/n2 text: N2) hardware platform used for the (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100).
+
+The device combined several communication services including wireless telephony, fax, voice messaging, web access, and email.
+
+Siemens also developed the (link: /terms/notephone text: NotePhone) which combined a telephone and fax (link: /terms/modem text: modem) with the equivalent of an (link: /terms/original-messagepad text: Original MessagePad).
 
 Erroneously referred to as a (link: /terms/notephone-2000 text: NotePhone 2000) or (link: /terms/notephone-ii text: NotePhone II), the Siemens Online Terminal is also known as the (link: /terms/oad text: OAD) (Online Access Device) and the (link: /terms/atnet text: @net).
 
@@ -39,6 +43,7 @@ Related:
 - /terms/notephone-2000
 - /terms/notephone-ii
 - /terms/oad
+- /terms/secretary-station
 - /terms/tae
 
 ----
