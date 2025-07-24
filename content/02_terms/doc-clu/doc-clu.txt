@@ -1,0 +1,17 @@
+Title: Doc Clu
+
+----
+
+Date: 23 July 2025
+
+----
+
+Text:
+
+See: (link: /terms/doctor-clu text: Doctor Clu)
+
+----
+
+Source:
+
+- /sources/newtontalk
