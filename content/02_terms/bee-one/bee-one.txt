@@ -1,0 +1,28 @@
+Title: Bee-One
+
+----
+
+Date: 24 July 2025
+
+----
+
+Text:
+
+A relational (link: /terms/database text: database) developed by Ludovic Durand-Texte and distributed by (link: /terms/power-box text: Power Box). The software consisted of a server (link: /terms/application text: application) on a Mac OS computer which could be used to (link: /terms/synchronize text: synchronize) information created in [4th Dimension](https://en.wikipedia.org/wiki/4th_Dimension_(software)) with an application running on a Newton device.
+
+----
+
+Resource:
+
+- [Power Box: Bee-One Product Information](https://web.archive.org/web/19970414130229/http://www.powerbox.fr/beeone.html)
+
+----
+
+Related:
+
+- /terms/accordian
+- /terms/database
+- /terms/encyclopedia
+- /terms/notable
+- /terms/power-box
+- /terms/sloup

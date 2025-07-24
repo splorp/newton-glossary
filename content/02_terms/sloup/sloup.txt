@@ -23,6 +23,7 @@ Resource:
 Related:
 
 - /terms/accordian
+- /terms/bee-one
 - /terms/notable
 - /terms/revelar-connection-utility
 - /terms/slurpee

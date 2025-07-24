@@ -22,6 +22,7 @@ Resource:
 
 Related:
 
+- /terms/bee-one
 - /terms/database
 - /terms/encyclopedia
 - /terms/notable

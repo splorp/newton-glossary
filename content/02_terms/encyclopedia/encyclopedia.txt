@@ -22,6 +22,7 @@ Related:
 
 - /terms/accordian
 - /terms/bauhaus
+- /terms/bee-one
 - /terms/database
 - /terms/denali
 - /terms/dylan

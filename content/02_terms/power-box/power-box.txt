@@ -1,0 +1,26 @@
+Title: Power Box
+
+----
+
+Date: 23 July 2025
+
+----
+
+Text:
+
+Founded by Jean-Paul Florencia in 1994, Power Box became one of the predominant European mail order catalogues for (link: /terms/newton-os text: Newton OS) hardware and software. The company also carried products for other (link: /terms/personal-digital-assistant text: personal digital assistant) platforms.
+
+Power Box was also the distributor of (link: /terms/bee-one text: Bee-One), a relational (link: /terms/database text: database) for (link: /terms/newton-os text: Newton OS).
+
+----
+
+Resource:
+
+- [Power Box Website](https://web.archive.org/web/19970414130154/http://www.powerbox.fr/)
+
+----
+
+Related:
+
+- /terms/bee-one
+- /terms/the-newton-store
