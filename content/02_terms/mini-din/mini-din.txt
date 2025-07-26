@@ -21,6 +21,7 @@ The (link: /terms/emate-300 text: eMate 300), the (link: /terms/newton-serial-ad
 Related:
 
 - /terms/communication-port
+- /terms/d-subminiature
 - /terms/din
 - /terms/din-8
 - /terms/din-9

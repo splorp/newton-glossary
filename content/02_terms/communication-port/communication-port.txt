@@ -17,6 +17,7 @@ The (link: /terms/newton-interconnect text: Newton InterConnect) port found on (
 Related:
 
 - /terms/appletalk
+- /terms/d-subminiature
 - /terms/din
 - /terms/dongle
 - /terms/dongle-destroyer

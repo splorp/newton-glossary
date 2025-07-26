@@ -17,6 +17,7 @@ A hardware interface standard for low speed, serial peripherals such as keyboard
 Related:
 
 - /terms/communication-port
+- /terms/d-subminiature
 - /terms/din
 - /terms/ftdi
 - /terms/geoport

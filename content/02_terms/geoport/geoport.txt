@@ -25,6 +25,7 @@ Related:
 
 - /terms/appletalk
 - /terms/communication-port
+- /terms/d-subminiature
 - /terms/din
 - /terms/geoport-telecom-adapter
 - /terms/mini-din

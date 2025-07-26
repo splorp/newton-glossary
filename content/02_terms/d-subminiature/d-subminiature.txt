@@ -1,0 +1,38 @@
+Title: D-Subminiature
+
+----
+
+Date: 26 July 2025
+
+----
+
+Text:
+
+A standard for electrical connectors, generally used for serial communication, networking, or video. The “D” in the name of each connector comes from the D-shaped metal shield surrounding the pins or sockets. This shape ensures the connector can only be inserted one way. The second letter in the name indicates the size of the connector. The number following the two letters designates the number of pins or sockets in the connector.
+
+For example, a (link: /terms/db-25 text: DB-25) connector has 25 pins or sockets.
+
+(link: /terms/de-9 text: DE-9) connectors are often misnamed as (link: /terms/db-9 text: DB-9) connectors, due to the widespread use of DB-25 connectors on early personal computers.
+
+Also known as (link: /terms/d-sub text: D-Sub).
+
+----
+
+Related:
+
+- /terms/communication-port
+- /terms/d-sub
+- /terms/db-9
+- /terms/db-25
+- /terms/dc-37
+- /terms/de-9
+- /terms/din
+- /terms/mini-din
+- /terms/newton-interconnect
+- /terms/usb
+
+----
+
+Source:
+
+- /sources/techencyclopedia

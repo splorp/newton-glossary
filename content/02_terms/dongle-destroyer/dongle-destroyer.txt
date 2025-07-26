@@ -17,6 +17,7 @@ An example of a dongle destroyer is the (link: /terms/ser-001 text: SER-001) ser
 Related:
 
 - /terms/communication-port
+- /terms/d-subminiature
 - /terms/din
 - /terms/dongle
 - /terms/dongle-killer

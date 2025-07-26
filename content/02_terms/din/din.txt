@@ -14,9 +14,11 @@ A type of connector defined by the German standards institute, [Deutsches Instit
 
 Related:
 
-- /terms/din-8
-- /terms/din-9
+- /terms/communication-port
+- /terms/d-subminiature
 - /terms/mini-din
+- /terms/newton-interconnect
+- /terms/usb
 
 ----
 

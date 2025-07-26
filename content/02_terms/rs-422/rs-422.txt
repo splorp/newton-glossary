@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A standard for serial communication between computers and peripheral devices that supports increased data transfer rates and longer cabling distance than (link: /terms/rs-232 text: RS-232). Devices supporting the RS-422 standard are generally outfitted with either DB-25 or DC-37 connectors.
+A standard for serial communication between computers and peripheral devices that supports increased data transfer rates and longer cabling distance than (link: /terms/rs-232 text: RS-232). Devices supporting the RS-422 standard are generally outfitted with either (link: /terms/db-25 text: DB-25) or (link: /terms/dc-37 text: DC-37) connectors.
 
 An RS-232 compatible version of RS-422 using a (link: /terms/mini-din text: Mini-DIN) connector was used on Mac OS computers and peripherals, eventually being replaced by (link: /terms/usb text: USB).
 
@@ -19,6 +19,7 @@ Related:
 - /terms/appletalk
 - /terms/communication-port
 - /terms/din
+- /terms/d-subminiature
 - /terms/ftdi
 - /terms/geoport
 - /terms/mini-din

@@ -17,6 +17,7 @@ An example of a dongle is the (link: /terms/newton-serial-adapter text: Newton S
 Related:
 
 - /terms/communication-port
+- /terms/d-subminiature
 - /terms/din
 - /terms/dongle-destroyer
 - /terms/geoport-telecom-adapter

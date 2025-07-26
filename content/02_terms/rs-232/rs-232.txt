@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A standard for serial communication between computers and peripheral devices such as (link: /terms/modem text: modems) and terminals. Devices that support RS-232 are generally outfitted with either DB-25 or DE-9 connectors.
+A standard for serial communication between computers and peripheral devices such as (link: /terms/modem text: modems) and terminals. Devices that support RS-232 are generally outfitted with either (link: /terms/db-25 text: DB-25) or (link: /terms/de-9 text: DE-9) connectors.
 
 ----
 
@@ -16,6 +16,7 @@ Related:
 
 - /terms/appletalk
 - /terms/communication-port
+- /terms/d-subminiature
 - /terms/din
 - /terms/ftdi
 - /terms/geoport

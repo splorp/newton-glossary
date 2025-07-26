@@ -27,14 +27,18 @@ Related:
 - /terms/appletalk
 - /terms/auto-dock
 - /terms/communication-port
+- /terms/d-subminiature
+- /terms/din
 - /terms/dongle
 - /terms/dongle-destroyer
 - /terms/ftdi
 - /terms/jae
+- /terms/mini-din
 - /terms/multifunction-interconnect-adapter
 - /terms/newton-serial-adapter
 - /terms/nic
 - /terms/ser-001
+- /terms/usb
 
 ----
 
