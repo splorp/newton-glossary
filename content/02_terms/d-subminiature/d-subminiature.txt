@@ -10,11 +10,18 @@ Text:
 
 A standard for electrical connectors, generally used for serial communication, networking, or video. The “D” in the name of each connector comes from the D-shaped metal shield surrounding the pins or sockets. This shape ensures the connector can only be inserted one way. The second letter in the name indicates the size of the connector. The number following the two letters designates the number of pins or sockets in the connector.
 
-For example, a (link: /terms/db-25 text: DB-25) connector has 25 pins or sockets.
+For example, a (link: /terms/de-9 text: DE-9) connector has 9 pins, a (link: /terms/db-25 text: DB-25) connector has 25 pins, and a (link: /terms/dc-37 text: DC-37) connector has 37 pins.
 
 (link: /terms/de-9 text: DE-9) connectors are often misnamed as (link: /terms/db-9 text: DB-9) connectors, due to the widespread use of DB-25 connectors on early personal computers.
 
 Also known as (link: /terms/d-sub text: D-Sub).
+
+----
+
+Resource:
+
+- [Wikipedia: D-subminiature](https://en.wikipedia.org/wiki/D-subminiature)
+- [SparkFun: It's a DE9, Not a DB9. (But We Know What You Mean)](https://news.sparkfun.com/14298)
 
 ----
 
@@ -35,4 +42,4 @@ Related:
 
 Source:
 
-- /sources/techencyclopedia
+- /sources/wikipedia
