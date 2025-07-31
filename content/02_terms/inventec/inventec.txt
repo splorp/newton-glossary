@@ -1,0 +1,30 @@
+Title: Inventec
+
+----
+
+Date: 31 July 2025
+
+----
+
+Text:
+
+A Taiwanese electronics company that manufactured the (link: /terms/messagepad-110 text: MessagePad 110) device for [Apple](https://www.apple.com/).
+
+----
+
+Resource:
+
+- [Inventec Website](https://www.inventec.com/)
+- [Pen Computing: Why Did Apple Kill Newton?](https://www.pencomputing.com/Newton/AppleKillsNewton(PCM22).html)
+
+----
+
+Related:
+
+- /terms/sharp
+
+----
+
+Source:
+
+- /sources/pen-computing

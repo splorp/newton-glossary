@@ -27,6 +27,7 @@ Related:
 - /terms/ask
 - /terms/expertpad
 - /terms/galileo
+- /terms/inventec
 
 ----
 
