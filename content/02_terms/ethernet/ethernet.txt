@@ -22,6 +22,7 @@ Related:
 - /terms/local-area-network
 - /terms/localtalk
 - /terms/mnp
+- /terms/ne2000
 - /terms/network-interface-card
 - /terms/newton-internet-enabler
 - /terms/protocol

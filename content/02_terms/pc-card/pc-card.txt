@@ -29,6 +29,7 @@ Related:
 - /terms/locked-icon
 - /terms/locked-switch-icon
 - /terms/locking-tab
+- /terms/ne2000
 - /terms/network-interface-card
 - /terms/newscard
 - /terms/newton-messaging-card
