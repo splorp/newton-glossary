@@ -23,4 +23,3 @@ Resource:
 Related:
 
 - /terms/newton-interconnect
-- /terms/nic
