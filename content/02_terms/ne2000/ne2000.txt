@@ -8,7 +8,9 @@ Date: 01 August 2025
 
 Text:
 
-A widely adopted (link: /terms/ethernet text: ethernet) networking (link: /terms/card text: card) developed by [Novell](https://web.archive.org/web/20140101051318/http://www.novell.com/home/). Using a specific (link: /terms/device-driver text: device driver) installed as an (link: /terms/extension text: extension), this (link: /terms/pcmcia text: PCMCIA) card is compatible with certain Newton devices.
+A widely adopted (link: /terms/ethernet text: ethernet) networking (link: /terms/card text: card) developed by [Novell](https://web.archive.org/web/20140101051318/http://www.novell.com/home/).
+
+Using a specific (link: /terms/device-driver text: device driver) installed as an (link: /terms/extension text: extension), the (link: /terms/pcmcia text: PCMCIA) version of this card is compatible with certain Newton devices.
 
 Also referred to as (link: /terms/ne2k text: NE2K).
 
