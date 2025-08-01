@@ -19,6 +19,7 @@ Related:
 - /terms/craft-digital-assistant
 - /terms/nomadic
 - /terms/pda
+- /terms/pen-based-computing
 
 ----
 

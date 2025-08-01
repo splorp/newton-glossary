@@ -27,6 +27,8 @@ Related:
 - /terms/handwriting-recognition
 - /terms/pdap
 - /terms/pen-alignment
+- /terms/pen-based-computing
+- /terms/pen-based-interface
 - /terms/pen-holder
 - /terms/pen-sound-effects
 - /terms/pen-tray

@@ -24,6 +24,8 @@ Related:
 - /terms/liquid-crystal-display
 - /terms/non-display-area
 - /terms/pen
+- /terms/pen-based-computing
+- /terms/pen-based-interface
 - /terms/screen
 - /terms/screen-protector
 - /terms/tablet-computer

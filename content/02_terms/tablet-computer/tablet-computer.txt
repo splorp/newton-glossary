@@ -20,6 +20,7 @@ Related:
 - /terms/laptop-computer
 - /terms/nomadic
 - /terms/pen
+- /terms/pen-based-computing
 - /terms/slate-computer
 - /terms/tablet
 - /terms/tablettop

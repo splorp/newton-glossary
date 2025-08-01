@@ -19,6 +19,7 @@ Related:
 - /terms/gui
 - /terms/interface
 - /terms/newton-user-interface
+- /terms/pen-based-interface
 - /terms/user-interface
 
 ----

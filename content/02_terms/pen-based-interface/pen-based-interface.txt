@@ -1,0 +1,29 @@
+Title: Pen-based Interface
+
+----
+
+Date: 01 August 2025
+
+----
+
+Text:
+
+The means of interaction between a user and a computing device using a (link: /terms/pen text: pen) or (link: /terms/stylus text: stylus) on a (link: /terms/screen text: screen).
+
+----
+
+Related:
+
+- /terms/graphical-user-interface
+- /terms/newton-user-interface
+- /terms/pen
+- /terms/penning
+- /terms/pen-based-computing
+- /terms/touch-screen
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide

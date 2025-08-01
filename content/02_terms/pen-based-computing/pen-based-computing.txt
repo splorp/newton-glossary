@@ -1,0 +1,34 @@
+Title: Pen-based Computing
+
+----
+
+Date: 01 August 2025
+
+----
+
+Text:
+
+The use of a (link: /terms/pen text: pen) or (link: /terms/stylus text: stylus) as the primary means of interacting with the (link: /terms/user-interface text: user interface) of a computer or other device.
+
+----
+
+Resource:
+
+- [Pen-Based Computing History Museum Website](https://www.penbasedcomputing.com/)
+
+----
+
+Related:
+
+- /terms/pen
+- /terms/pen-based-interface
+- /terms/penning
+- /terms/personal-digital-assistant
+- /terms/tablettop
+- /terms/touch-screen
+
+----
+
+Source:
+
+- /sources/pen-based-computing
