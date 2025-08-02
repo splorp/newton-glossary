@@ -10,6 +10,14 @@ Text:
 
 To touch or (link: /terms/tap text: tap) the same spot on the (link: /terms/screen text: screen), or nearly the same spot, twice in rapid succession with the (link: /terms/pen text: pen). Essentially the same action as double clicking a mouse button on a (link: /terms/desktop-computer text: desktop computer), (link: /terms/laptop-computer text: laptop), or equivalent device.
 
+Double-Tap was also a short-lived magazine published in 1993 and 1994 by the Software Frameworks Association. Focused on both the technical and business side of software development, it covered (link: /terms/newton-os text: Newton OS) and other (link: /terms/personal-digital-assistant text: personal digital assistant) platforms, such as the Tandy Zoomer.
+
+----
+
+Resource:
+
+- [Usenet: Connection Kit Offer](https://groups.google.com/g/comp.sys.mac.oop.macapp3/c/ExJa1NagXVE/m/ynlaSL9Op3wJ)
+
 ----
 
 Related:
@@ -17,13 +25,19 @@ Related:
 - /terms/double-tapping
 - /terms/drag
 - /terms/dragging
+- /terms/gecko
+- /terms/infonote
+- /terms/newtnews
+- /terms/newtnews-pro
 - /terms/pen
 - /terms/pen-sound-effects
 - /terms/penning
+- /terms/protoreality
 - /terms/tap
 - /terms/tap-and-a-half
 - /terms/tappable
 - /terms/tapped
+- /terms/tapped-in
 - /terms/tapping
 
 ----

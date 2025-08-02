@@ -20,6 +20,7 @@ Resource:
 
 Related:
 
+- /terms/double-tap
 - /terms/gecko
 - /terms/infonote
 - /terms/nanug

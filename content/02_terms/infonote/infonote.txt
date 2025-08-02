@@ -22,6 +22,7 @@ Resource:
 
 Related:
 
+- /terms/double-tap
 - /terms/gecko
 - /terms/mpadclub
 - /terms/newtnews
