@@ -1,0 +1,36 @@
+Title: Fragmentation
+
+----
+
+Date: 02 August 2025
+
+----
+
+Text:
+
+When data is stored in non-contiguous areas in (link: /terms/ram text: RAM) or on a (link: /terms/storage-card text: storage card).
+
+In (link: /terms/newton-os text: Newton OS), as (link: /terms/soup text: soup) entries are updated, new data may be stored in available free space, rather than space directly beside the existing data. As data becomes more fragmented, accessing and retrieving that data is less efficient.
+
+A (link: /terms/memory-fragmentation text: memory fragmentation) bug in the (link: /terms/operating-system text: operating system) of the (link: /terms/original-messagepad text: Original MessagePad) severely affected the (link: /terms/handwriting-recognition text: handwriting recognition) when the device was introduced.
+
+----
+
+Resource:
+
+- [Pen Computing: Why Did Apple Kill Newton?](https://www.pencomputing.com/Newton/AppleKillsNewton(PCM22).html)
+
+----
+
+Related:
+
+- /terms/memory-fragmentation
+- /terms/ram
+- /terms/store
+
+----
+
+Source:
+
+- /sources/techencyclopedia
+- /sources/pen-computing

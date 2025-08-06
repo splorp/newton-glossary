@@ -1,0 +1,17 @@
+Title: Memory Fragmentation
+
+----
+
+Date: 02 August 2025
+
+----
+
+Text:
+
+See: (link: /terms/fragmentation text: Fragmentation)
+
+----
+
+Source:
+
+- /sources/pen-computing

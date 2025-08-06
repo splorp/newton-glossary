@@ -16,6 +16,7 @@ Related:
 
 - /terms/default-store
 - /terms/external-store
+- /terms/fragmentation
 - /terms/internal-store
 - /terms/member-soup
 - /terms/package-store
