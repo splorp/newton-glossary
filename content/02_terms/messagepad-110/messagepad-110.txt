@@ -21,6 +21,7 @@ Resource:
 - [Apple Support: Newton MessagePad: Comparison to other Models](https://web.archive.org/web/20020220090722/http://karchive.info.apple.com/article.html?artnum=14761)
 - [Apple Support: Newton MessagePad 110: Description](https://web.archive.org/web/20020220091529/http://karchive.info.apple.com/article.html?artnum=14759)
 - [Apple Support: Newton MessagePad 110: Specifications](https://web.archive.org/web/20020220091539/http://karchive.info.apple.com/article.html?artnum=14760)
+- [The Newted Community: MessagePad 110](https://www.newted.org/download/manuals/MessagePad_130.pdf)
 
 ----
 

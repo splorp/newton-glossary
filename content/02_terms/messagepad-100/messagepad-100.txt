@@ -20,6 +20,8 @@ Resource:
 
 - [Apple Support: Newton MessagePad 100: Description](https://web.archive.org/web/20011225140154/http://karchive.info.apple.com/article.html?artnum=14839)
 - [Apple Support: Newton MessagePad 100: Specifications](https://web.archive.org/web/20011225150408/http://karchive.info.apple.com/article.html?artnum=14838)
+- [The Newted Community: Newton MessagePad 100](https://www.newted.org/download/manuals/Newton_MessagePad_100.pdf)
+- [The Newted Community: MessagePad 100 Setup and Handwriting Guide](https://www.newted.org/download/manuals/0305736ANMP100SUHG.PDF)
 
 ----
 
