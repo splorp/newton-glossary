@@ -27,6 +27,7 @@ Related:
 - /terms/jig
 - /terms/motile
 - /terms/newtendo
+- /terms/newthack
 - /terms/yazi
 
 ----

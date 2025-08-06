@@ -20,5 +20,6 @@ Related:
 - /terms/jigsaw-strategy-game
 - /terms/motile
 - /terms/newtendo
+- /terms/newthack
 - /terms/starcore
 - /terms/yazi

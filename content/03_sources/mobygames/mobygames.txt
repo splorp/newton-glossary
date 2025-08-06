@@ -1,0 +1,18 @@
+Title: MobyGames
+
+----
+
+Date: 06 August 2025
+
+----
+
+Text:
+
+A website founded in 1999 by [Jim Leonard](https://trixter.oldskool.org/) and [Brian Hirt](https://www.mobygames.com/user/10/felglar/) with the goal _“to meticulously catalog all relevant information about electronic games”_. MobyGames allows individual users to contribute, rate, and review any title in the massive database, including games for the (link: /terms/newton-os text: Newton OS) platform.
+
+----
+
+Resource:
+
+- [MobyGame Website](https://www.mobygames.com/)
+- [MobyGames: Newton Games List](https://www.mobygames.com/platform/newton/)

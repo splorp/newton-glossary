@@ -29,6 +29,7 @@ Related:
 - /terms/jig
 - /terms/motile
 - /terms/nes-packager
+- /terms/newthack
 - /terms/rom
 - /terms/yazi
 

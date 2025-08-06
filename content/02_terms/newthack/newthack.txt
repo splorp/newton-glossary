@@ -1,0 +1,39 @@
+Title: NewtHack
+
+----
+
+Date: 06 August 2025
+
+----
+
+Text:
+
+A role-playing adventure game for (link: /terms/newton-os text: Newton OS) developed by Christopher A. Dopp. NewtHack echoes the same multi-level dungeon gaming style popularized by classic titles such as [Rogue](https://en.wikipedia.org/wiki/Rogue_(video_game)) and [NetHack](https://en.wikipedia.org/wiki/NetHack).
+
+(image: /assets/images/newthack-2x.gif alt: Screenshot of NewtHack width: 256)
+
+----
+
+Resource:
+
+- [NewtHack Product Information](https://web.archive.org/web/19990429064422/http://flashpt.com/~cdopp/NewtHack.html)
+- [MobyGames: NewtHack](https://www.mobygames.com/game/97441/newthack/)
+- [UNNA: NewtHack 1.1](http://www.unna.org/view.php?/games/NewtHack1_1)
+
+----
+
+Related:
+
+- /terms/chiral
+- /terms/deep-green
+- /terms/deep-space-newt
+- /terms/jig
+- /terms/motile
+- /terms/newtendo
+- /terms/yazi
+
+----
+
+Source:
+
+- /sources/mobygames

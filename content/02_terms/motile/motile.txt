@@ -32,6 +32,7 @@ Related:
 - /terms/deep-space-newt
 - /terms/jig
 - /terms/newtendo
+- /terms/newthack
 - /terms/starcore
 - /terms/yazi
 
