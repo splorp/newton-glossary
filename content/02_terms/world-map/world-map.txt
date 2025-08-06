@@ -23,5 +23,4 @@ Related:
 - /terms/middle-of-nowhere
 - /terms/owner-info
 - /terms/time-zones
-- /terms/time-zones
 - /terms/worksite
