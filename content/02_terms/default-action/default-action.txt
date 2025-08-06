@@ -14,6 +14,7 @@ The completion action that users are most likely to take among the safe alternat
 
 Related:
 
+- /terms/default-button
 - /terms/key-view
 - /terms/user-interface
 

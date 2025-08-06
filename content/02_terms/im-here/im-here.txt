@@ -15,10 +15,12 @@ A (link: /terms/button text: button) in early versions of the (link: /terms/time
 Related:
 
 - /terms/away-city
+- /terms/button
 - /terms/emporium
 - /terms/home-city
 - /terms/locale
 - /terms/time-zones
+- /terms/user-interface
 - /terms/worksite
 - /terms/world-map
 

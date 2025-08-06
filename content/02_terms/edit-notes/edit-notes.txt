@@ -25,6 +25,7 @@ Related:
 - /terms/event
 - /terms/meeting
 - /terms/meeting-notes
+- /terms/user-interface
 
 ----
 

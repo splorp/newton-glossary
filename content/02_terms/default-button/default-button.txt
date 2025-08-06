@@ -20,6 +20,7 @@ Related:
 
 - /terms/button
 - /terms/close-box
+- /terms/default-action
 - /terms/emate-300
 - /terms/newton-keyboard
 - /terms/user-interface
