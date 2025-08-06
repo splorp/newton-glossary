@@ -8,7 +8,11 @@ Date: 06 August 2025
 
 Text:
 
-A website founded in 1999 by [Jim Leonard](https://trixter.oldskool.org/) and [Brian Hirt](https://www.mobygames.com/user/10/felglar/) with the goal _“to meticulously catalog all relevant information about electronic games”_. MobyGames allows individual users to contribute, rate, and review any title in the massive database, including games for the (link: /terms/newton-os text: Newton OS) platform.
+A website founded in 1999 by [Jim Leonard](https://trixter.oldskool.org/) and [Brian Hirt](https://www.mobygames.com/user/10/felglar/) “… to meticulously catalog all relevant information about electronic games.”
+
+The website allows individual users to contribute, rate, and review any title in the massive database, including games for the (link: /terms/newton-os text: Newton OS) platform.
+
+In 2002, MobyGames was acquired by Atari. Yes, that [Atari](https://atari.com/).
 
 ----
 
@@ -16,3 +20,4 @@ Resource:
 
 - [MobyGame Website](https://www.mobygames.com/)
 - [MobyGames: Newton Games List](https://www.mobygames.com/platform/newton/)
+- [Press Release: Atari Completes MobyGames Acquisition](https://atari.com/blogs/newsroom/atari-completes-mobygames-acquisition-details-plans-for-the-site-s-continued-support)
