@@ -8,7 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-The (link: /terms/locale text: locale) or (link: /terms/emporium text: emporium) that is displayed as a counterpoint to your (link: /terms/home-city text: home city). It defines the country dialing code, (link: /terms/time-zones text: time zone), and other locale specific information. Sometimes called the _“I’m here”_ city.
+The (link: /terms/locale text: locale) or (link: /terms/emporium text: emporium) that is displayed as a counterpoint to your (link: /terms/home-city text: home city). It defines the country dialing code, (link: /terms/time-zones text: time zone), and other locale specific information.
+
+Also referred to as the “(link: /terms/im-here-city text: I’m Here City)”.
 
 ----
 
@@ -16,6 +18,8 @@ Related:
 
 - /terms/emporium
 - /terms/home-city
+- /terms/im-here
+- /terms/im-here-city
 - /terms/locale
 - /terms/time-zones
 - /terms/worksite

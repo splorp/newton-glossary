@@ -1,0 +1,29 @@
+Title: I’m Here
+
+----
+
+Date: 06 August 2025
+
+----
+
+Text:
+
+A (link: /terms/button text: button) in early versions of the (link: /terms/time-zones text: Time Zones) application which allowed the user to set a specific city as their current location or (link: /terms/away-city text: away city).
+
+----
+
+Related:
+
+- /terms/away-city
+- /terms/emporium
+- /terms/home-city
+- /terms/locale
+- /terms/time-zones
+- /terms/worksite
+- /terms/world-map
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1993

@@ -23,6 +23,7 @@ Related:
 - /terms/away-city
 - /terms/emporium
 - /terms/home-city
+- /terms/im-here
 - /terms/owner-info
 - /terms/prefs
 - /terms/time-zones

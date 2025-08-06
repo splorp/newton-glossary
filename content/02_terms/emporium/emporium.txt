@@ -20,6 +20,7 @@ Related:
 
 - /terms/away-city
 - /terms/home-city
+- /terms/im-here
 - /terms/locale
 - /terms/owner-info
 - /terms/time-zones

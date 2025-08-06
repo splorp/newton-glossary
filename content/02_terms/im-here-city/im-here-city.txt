@@ -1,0 +1,17 @@
+Title: I’m Here City
+
+----
+
+Date: 06 August 2025
+
+----
+
+Text:
+
+See: (link: /terms/away-city text: Away City)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
