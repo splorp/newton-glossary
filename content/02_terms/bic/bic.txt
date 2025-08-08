@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The code name of the second generation, tablet-style Newton hardware prototype, sucessor to the (link: /terms/cadillac text: Cadillac).
+The code name of the second generation, tablet style Newton hardware prototype, sucessor to the (link: /terms/cadillac text: Cadillac).
 
 In the (link: /sources/appledesign text: AppleDesign: The Work of the Apple Industrial Design Group) book, the Bic device shown has the name (link: /terms/messageslate text: MessageSlate) printed on the case.
 

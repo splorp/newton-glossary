@@ -8,7 +8,7 @@ Date: 25 March 2025
 
 Text:
 
-A plugin for Steve Weyer’s (link: /terms/newtdevenv text: NewtDevEnv) application development framework that provides Turtle-style drawing functionality.
+A plugin for Steve Weyer’s (link: /terms/newtdevenv text: NewtDevEnv) application development framework that provides Turtle style drawing functionality.
 
 Weyer also created (link: /terms/newtturt text: NewtTurT), an interactive tutorial explaining the use of the NewtDraw plugin.
 
