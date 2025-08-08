@@ -12,6 +12,8 @@ The built-in (link: /terms/application text: application) which provides an inte
 
 Also referred to as (link: /terms/hw-instructor text: HW Instructor).
 
+The (link: /terms/getting-started-card text: Getting Started Card) that shipped with the (link: /terms/original-messagepad text: Original MessagePad) and (link: /terms/messagepad-100 text: MessagePad 100) included a similar application called (link: /terms/instructor text: Instructor).
+
 ----
 
 Related:
@@ -19,9 +21,12 @@ Related:
 - /terms/cursive
 - /terms/cursive-recognizer
 - /terms/emate-tour
+- /terms/game
+- /terms/getting-started-card
 - /terms/guest-user
 - /terms/handwriting-recognition
 - /terms/hw-instructor
+- /terms/instructor
 - /terms/newton-tour
 - /terms/print-recognizer
 - /terms/printing
@@ -33,3 +38,4 @@ Related:
 Source:
 
 - /sources/messagepad-2000-user-manual
+- /sources/messagepad-setup-guide

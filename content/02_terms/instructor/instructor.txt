@@ -1,0 +1,17 @@
+Title: Instructor
+
+----
+
+Date: 08 August 2025
+
+----
+
+Text:
+
+See: (link: /terms/handwriting-instructor text: Handwriting Instructor)
+
+----
+
+Source:
+
+- /sources/messagepad-setup-guide

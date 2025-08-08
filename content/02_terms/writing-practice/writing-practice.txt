@@ -17,6 +17,7 @@ The built-in (link: /terms/application text: application) which provides an inte
 Related:
 
 - /terms/emate-tour
+- /terms/game
 - /terms/handwriting-instructor
 - /terms/handwriting-recognition
 - /terms/newton-tour

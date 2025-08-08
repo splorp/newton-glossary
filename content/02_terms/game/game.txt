@@ -1,0 +1,29 @@
+Title: Game
+
+----
+
+Date: 08 August 2025
+
+----
+
+Text:
+
+An (link: /terms/application text: application) found on the (link: /terms/getting-started-card text: Getting Started Card) that shipped with the (link: /terms/original-messagepad text: Original MessagePad) and (link: /terms/messagepad-100 text: MessagePad 100).
+
+Officially titled (link: /terms/calligrapher text: CalliGrapher), the game was co-developed by (link: /sources/paragraph-international text: ParaGraph International) and [Apple](https://www.apple.com/) to encourage users to practice their handwriting, while gathering information to help improve the accuracy of the (link: /terms/handwriting-recognition text: handwriting recognition) system.
+
+----
+
+Related:
+
+- /terms/calligrapher
+- /terms/getting-started-card
+- /terms/handwriting-instructor
+- /terms/handwriting-recognition
+- /terms/writing-practice
+
+----
+
+Source:
+
+- /sources/messagepad-setup-guide

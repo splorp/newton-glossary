@@ -10,12 +10,16 @@ Text:
 
 The built-in (link: /terms/application text: application) which provides an interactive tutorial for learning the basics of a (link: /terms/messagepad text: MessagePad) device and its various features. On an (link: /terms/emate-300 text: eMate 300) device, a similar tutorial is named (link: /terms/emate-tour text: eMate Tour).
 
+The (link: /terms/getting-started-card text: Getting Started Card) that shipped with the (link: /terms/original-messagepad text: Original MessagePad) and (link: /terms/messagepad-100 text: MessagePad 100) also included a tutorial application called (link: /terms/tour text: Tour).
+
+
 ----
 
 Related:
 
 - /terms/emate-tour
 - /terms/handwriting-instructor
+- /terms/tour
 - /terms/works-practice
 - /terms/writing-practice
 
@@ -24,3 +28,4 @@ Related:
 Source:
 
 - /sources/messagepad-2000-user-manual
+- /sources/messagepad-setup-guide

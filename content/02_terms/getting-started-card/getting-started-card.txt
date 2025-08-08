@@ -12,6 +12,12 @@ A (link: /terms/pcmcia text: PCMCIA) card that shipped with the (link: /terms/or
 
 The card contains three (link: /terms/application text: applications) to help the user learn about the Newton device and how to use various features of (link: /terms/newton-os text: Newton OS).
 
+(link: /terms/instructor text: Instructor) provided tips and techniques for using the (link: /terms/handwriting-recognition text: handwriting recognition).
+
+(link: /terms/tour text: Tour) walked through various capabilities of the device.
+
+(link: /terms/game text: Game) encouraged the user to practice their handwriting through an arcade style game, gathering information to help improve the accuracy of the handwriting recognition.
+
 ----
 
 Related:
@@ -19,13 +25,16 @@ Related:
 - /terms/application-card
 - /terms/card
 - /terms/card-slip
+- /terms/game
 - /terms/happy-hour
+- /terms/instructor
 - /terms/messagepad-100
 - /terms/original-messagepad
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/slot
 - /terms/slot-jam
+- /terms/tour
 
 ----
 

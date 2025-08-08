@@ -9,6 +9,9 @@ Date: 24 May 2001
 Text:
 
 The cursive (link: /terms/handwriting-recognition text: handwriting recognition) system developed by (link: /sources/paragraph text: ParaGraph International) and found in all Newton devices except the (link: /terms/emate-300 text: eMate 300). CalliGrapher was also used as the (link: /terms/print-recognizer text: print recognizer) in early Newton devices such as the (link: /terms/messagepad-100 text: MessagePad 100).
+
+CalliGrapher was also the official title of the (link: /terms/game text: Game) application found on the (link: /terms/getting-started-card text: Getting Started Card) that shipped with the (link: /terms/original-messagepad text: Original MessagePad) and (link: /terms/messagepad-100 text: MessagePad 100). The CalliGrapher game was co-developed by Paragraph and Apples
+
 ----
 
 Resource:
@@ -21,6 +24,8 @@ Related:
 
 - /terms/cursive
 - /terms/cursive-recognizer
+- /terms/game
+- /terms/getting-started-card
 - /terms/handwriting-instructor
 - /terms/handwriting-recognition
 - /terms/ink
@@ -34,3 +39,8 @@ Related:
 - /terms/rosetta
 - /terms/rosetta-stone
 - /terms/writing-practice
+
+----
+
+- /sources/paragraph
+- /sources/messagepad-setup-guide

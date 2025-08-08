@@ -30,6 +30,7 @@ Related:
 - /terms/batman
 - /terms/batman-concept
 - /terms/batmobile
+- /terms/getting-started-card
 - /terms/h1000
 - /terms/junior
 - /terms/messagepad
