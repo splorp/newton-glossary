@@ -17,7 +17,6 @@ Related:
 - /terms/gesture
 - /terms/graffiti
 - /terms/pen
-- /terms/recognizer
 
 ----
 

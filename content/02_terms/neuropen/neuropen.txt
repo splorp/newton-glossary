@@ -33,7 +33,6 @@ Related:
 - /terms/print-recognizer
 - /terms/printing
 - /terms/recognized-text
-- /terms/recognizer
 - /terms/rosetta
 - /terms/rosetta-stone
 

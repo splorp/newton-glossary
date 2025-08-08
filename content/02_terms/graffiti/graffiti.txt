@@ -26,4 +26,3 @@ Related:
 - /terms/pen
 - /terms/print-recognizer
 - /terms/printing
-- /terms/recognizer

@@ -51,7 +51,6 @@ Related:
 - /terms/printing
 - /terms/realign
 - /terms/recognized-text
-- /terms/recognizer
 - /terms/rosetta
 - /terms/rosetta-stone
 - /terms/setup
