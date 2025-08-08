@@ -49,6 +49,7 @@ Related:
 - /terms/egg-freckles
 - /terms/espy-sans
 - /terms/gong
+- /terms/happy-hour
 - /terms/larryy
 - /terms/lesv
 - /terms/lyon

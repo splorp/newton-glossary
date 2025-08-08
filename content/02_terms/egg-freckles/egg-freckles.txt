@@ -39,6 +39,7 @@ Related:
 - /terms/egg-freckles-enabler
 - /terms/espy-sans
 - /terms/handwriting-recognition
+- /terms/happy-hour
 - /terms/hot-dog-song
 - /terms/larryy
 - /terms/lesv

@@ -34,6 +34,7 @@ Related:
 - /terms/combo-card
 - /terms/external-store
 - /terms/flash-card
+- /terms/getting-started-card
 - /terms/hot-insertion
 - /terms/hot-removal
 - /terms/locked-icon

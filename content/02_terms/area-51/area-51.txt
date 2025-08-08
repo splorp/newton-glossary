@@ -34,6 +34,7 @@ Related:
 - /terms/egg-freckles
 - /terms/espy-sans
 - /terms/groom-lake
+- /terms/happy-hour
 - /terms/hot-dog-song
 - /terms/icon
 - /terms/larryy

@@ -1,0 +1,34 @@
+Title: Getting Started Card
+
+----
+
+Date: 08 August 2025
+
+----
+
+Text:
+
+A (link: /terms/pcmcia text: PCMCIA) card that shipped with the (link: /terms/original-messagepad text: Original MessagePad) and (link: /terms/messagepad-100 text: MessagePad 100) along with a printed (link: /sources/messagepad-setup-guide text: setup guide).
+
+The card contains three (link: /terms/application text: applications) to help the user learn about the Newton device and how to use various features of (link: /terms/newton-os text: Newton OS).
+
+----
+
+Related:
+
+- /terms/application-card
+- /terms/card
+- /terms/card-slip
+- /terms/happy-hour
+- /terms/messagepad-100
+- /terms/original-messagepad
+- /terms/pc-card
+- /terms/pcmcia
+- /terms/slot
+- /terms/slot-jam
+
+----
+
+Source:
+
+- /sources/messagepad-setup-guide

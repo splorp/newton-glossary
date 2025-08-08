@@ -1,0 +1,49 @@
+Title: Happy Hour
+
+----
+
+Date: 08 August 2025
+
+----
+
+Text:
+
+An (link: /terms/easter-egg text: easter egg) 
+
+Insert the (link: /terms/getting-started-card text: Getting Started card). In the Notepad application, write “schedule Happy Hour Fri”, then (link: /terms/tap text: tap) the (link: /terms/assist text: Assist) button.
+
+Back in the day, Apple was notorious for their Friday “happy hour bashes”.
+
+----
+
+Resource:
+
+- [Oliver’s List of Newton Easter Eggs](https://web.archive.org/web/20090215012820/http://oof.org/newton/)
+- [MacKiDo: Apple Easter Eggs](https://www.mackido.com/EasterEggs/Newton.html)
+
+----
+
+Related:
+
+- /terms/about-newton
+- /terms/area-51
+- /terms/brandyn
+- /terms/cuckoo
+- /terms/easter-egg
+- /terms/egg-freckles
+- /terms/espy-sans
+- /terms/getting-started-card
+- /terms/hot-dog-song
+- /terms/larryy
+- /terms/lesv
+- /terms/lyon
+- /terms/middle-of-nowhere
+- /terms/neat-bong
+- /terms/stafford
+
+----
+
+Source:
+
+- /sources/mackido
+- /sources/olivers-list

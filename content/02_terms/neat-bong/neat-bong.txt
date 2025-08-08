@@ -30,6 +30,7 @@ Related:
 - /terms/easter-egg
 - /terms/egg-freckles
 - /terms/espy-sans
+- /terms/happy-hour
 - /terms/hot-dog-song
 - /terms/ko-isono
 - /terms/larryy

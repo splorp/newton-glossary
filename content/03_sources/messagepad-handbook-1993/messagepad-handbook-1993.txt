@@ -8,4 +8,4 @@ Date: 12 June 2001
 
 Text:
 
-Published by [Apple](https://www.apple.com/) in 1993, this is the definitive user manual for the (link: /terms/original-messagepad text: Original MessagePad).
+Published by [Apple](https://www.apple.com/) in 1993, this is the definitive user manual for the (link: /terms/original-messagepad text: Original MessagePad), accompanied by the (link: /sources/messagepad-setup-guide text: MessagePad Setup Guide) and the (link: /terms/getting-started-card text: Getting Started Card).

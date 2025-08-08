@@ -1,0 +1,17 @@
+Title: MessagePad Setup Guide
+
+----
+
+Date: 08 August 2025
+
+----
+
+Text:
+
+Published by [Apple](https://www.apple.com/) in 1993, this supplemental manual accompanied the original (link: /sources/messagepad-handbook-1993 text: MessagePad Handbook), covering topics related to using a (link: /terms/messagepad text: MessagePad) device for the first time, including installation of the batteries, powering on the device, using the (link: /terms/getting-started-card text: Getting Started Card), and important initial software settings.
+
+----
+
+Resource:
+
+- [The Newted Community: MessagePad 100 Setup and Handwriting Guide](https://www.newted.org/download/manuals/0305736ANMP100SUHG.PDF)

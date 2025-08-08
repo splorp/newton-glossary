@@ -30,6 +30,7 @@ Related:
 - /terms/cuckoo
 - /terms/egg-freckles
 - /terms/egg-freckles-enabler
+- /terms/happy-hour
 - /terms/hot-dog-song
 - /terms/ko-isono
 - /terms/larryy
