@@ -1,0 +1,11 @@
+Title: Guided Tour
+
+----
+
+Date: 08 August 2025
+
+----
+
+Text:
+
+See: (link: /terms/newton-tour text: Newton Tour)

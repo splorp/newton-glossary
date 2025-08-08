@@ -1,0 +1,17 @@
+Title: Message Box
+
+----
+
+Date: 08 August 2025
+
+----
+
+Text:
+
+See: (link: /terms/notification-alert text: Notification Alert)
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1993

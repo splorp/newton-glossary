@@ -12,12 +12,14 @@ The built-in (link: /terms/application text: application) which provides an inte
 
 The (link: /terms/getting-started-card text: Getting Started Card) that shipped with the (link: /terms/original-messagepad text: Original MessagePad) and (link: /terms/messagepad-100 text: MessagePad 100) also included a tutorial application called (link: /terms/tour text: Tour).
 
+Also referred to as (link: /terms/guided-tour text: Guided Tour) when the user inserts the Getting Started Card and (link: /terms/tap text: taps) the (link: /terms/card text: Card) application.
 
 ----
 
 Related:
 
 - /terms/emate-tour
+- /terms/guided-tour
 - /terms/handwriting-instructor
 - /terms/tour
 - /terms/works-practice

@@ -12,7 +12,7 @@ A (link: /terms/view text: view) of information pertaining to an entry in the (l
 
 Also referred to as a (link: /terms/name-card text: Name Card).
 
-Card is also an (link: /terms/application text: application) that allows the user to retrieve information about a PC card inserted into a Newton device, displaying that information in a (link: /terms/card-slip text: card slip).
+Card is also an (link: /terms/application text: application) that allows the user to retrieve information about a PC card inserted into a Newton device, displaying that information in a (link: /terms/card-slip text: card slip) or (link: /terms/alert-box text: alert box).
 
 Card can also refer to a (link: /terms/pc-card text: PC Card) or (link: /terms/compactflash text: CompactFlash) card.
 

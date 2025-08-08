@@ -12,9 +12,9 @@ An (link: /terms/alert-box text: alert box) that appears on the (link: /terms/sc
 
 A notification alert includes a (link: /terms/close-box text: close box) and can be accompanied by an (link: /terms/alert-sound text: alert sound).
 
-Also referred to as a (link: /terms/notification-slip text: Notification Slip).
-
 (image: /assets/images/notification-alert-2x.gif alt: Screenshot of a Notification Alert width: 208)
+
+Also referred to as a (link: /terms/message-box text: Message Box), (link: /terms/notice text: Notice), and (link: /terms/notification-slip text: Notification Slip).
 
 ----
 
@@ -24,6 +24,8 @@ Related:
 - /terms/alert-sound
 - /terms/confirmation-alert
 - /terms/confirmation-slip
+- /terms/message-box
+- /terms/notice
 - /terms/notification-slip
 - /terms/notify-button
 - /terms/notify-picker
