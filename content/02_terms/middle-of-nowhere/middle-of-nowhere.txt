@@ -8,7 +8,7 @@ Date: 06 September 2024
 
 Text:
 
-An easter egg found in the (link: /terms/time-zones text: Time Zones) application where (link: /terms/tapping text: tapping) in the empty space of any ocean shown on the (link: /terms/world-map text: world map) displays the location as “Middle of Nowhere”.
+An easter egg hidden in the (link: /terms/time-zones text: Time Zones) application where (link: /terms/tapping text: tapping) in the empty space of any ocean shown on the (link: /terms/world-map text: world map) displays the location as “Middle of Nowhere”.
 
 (image: /assets/images/middle-of-nowhere-2x.gif alt: Screenshot of the Time Zones application showing a “Middle of Nowhere” location width: 234)
 

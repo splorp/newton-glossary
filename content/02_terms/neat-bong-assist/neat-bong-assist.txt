@@ -8,7 +8,7 @@ Date: 26 January 2025
 
 Text:
 
-A reference to the (link: /terms/neat-bong text: Neat Bong) easter egg found in (link: /terms/newton-os text: Newton OS) 2.0.
+A reference to the (link: /terms/neat-bong text: Neat Bong) easter egg hidden in (link: /terms/newton-os text: Newton OS) 2.0.
 
 “Neat Bong Assist” is an anagram of “Gaston Bastiaens”, the unpredictable former general manager of Apple’s (link: /terms/pie text: PIE) (Personal Interactive Electronics) division and the (link: /terms/newton-systems-group text: Newton Systems Group).
 
