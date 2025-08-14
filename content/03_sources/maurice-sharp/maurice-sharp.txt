@@ -8,7 +8,9 @@ Date: 24 August 2016
 
 Text:
 
-A senior technical support engineer and developer in the (link: /terms/newton-systems-group text: Newton Systems Group) at [Apple](https://www.apple.com/) from 1992 through 1997. During his tenure, Sharp designed and implemented the prototype which would eventually become (link: /terms/newton-toolkit text: Newton ToolKit). As a member of (link: /terms/developer-technical-services text: Developer Technical Services), he was known by his nom de plume, (link: /terms/dr-llama text: Dr Llama).
+A senior technical support engineer and developer in the (link: /terms/newton-systems-group text: Newton Systems Group) at [Apple](https://www.apple.com/) from 1992 through 1997. During his tenure, Sharp designed and implemented the prototype which would eventually become (link: /terms/newton-toolkit text: Newton ToolKit).
+
+As a member of (link: /terms/developer-technical-services text: Developer Technical Services), he was known by his nom de plume, (link: /terms/dr-llama text: Dr Llama), authoring articles for publications such as [Develop](http://preserve.mactech.com/articles/develop/) and (link: /terms/newton-technical-journal text: Newton Technical Journal), as well as being the columnist behind (link: /terms/ask-the-llama text: Ask The Llama).
 
 According to Sharp, he is also the “Mo” in (link: /terms/modeminos text: Modeminos).
 
@@ -18,4 +20,5 @@ Resource:
 
 - [Maurice Sharp Website](https://web.archive.org/web/20160502065242/http://www.mauricesharp.com/)
 - [LinkedIn: Maurice Sharp](https://www.linkedin.com/in/msharp/)
+- [MacTech: Newton Q & A: Ask The Llama](http://preserve.mactech.com/articles/develop/issue_26/newtonqa.html)
 - [Folklore: LISP: The root of Newton Toolkit](https://web.archive.org/web/20151121200141/https://www.folklore.org/StoryView.py?project=Newton&story=LISP:_The_root_of_Newton_Toolkit.txt)
