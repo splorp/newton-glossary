@@ -16,7 +16,7 @@ Llama is also used as an example of a valid (link: /terms/application text: appl
 
 Resource:
 
-- [MacTech: Newton Q & A: Ask The Llama](https://preserve.mactech.com/articles/develop/issue_26/newtonqa.html)
+- [MacTech: Newton Q & A: Ask The Llama](http://preserve.mactech.com/articles/develop/issue_26/newtonqa.html)
 
 ----
 

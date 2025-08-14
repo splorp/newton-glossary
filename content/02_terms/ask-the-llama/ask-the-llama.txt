@@ -14,7 +14,7 @@ A technical question and answer column written for Apple’s developer publicati
 
 Resource:
 
-- [MacTech: Newton Q & A: Ask The Llama](https://preserve.mactech.com/articles/develop/issue_26/newtonqa.html)
+- [MacTech: Newton Q & A: Ask The Llama](http://preserve.mactech.com/articles/develop/issue_26/newtonqa.html)
 
 ----
 

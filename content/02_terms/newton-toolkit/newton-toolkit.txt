@@ -18,7 +18,7 @@ Newton Toolkit for Mac OS X (also referred to as (link: /terms/ntx text: NTX)) i
 
 Resource:
 
-- [MacTech: Newton Toolkit](https://preserve.mactech.com/articles/mactech/Vol.09/09.11/NewtonToolkit/index.html)
+- [MacTech: Newton Toolkit](http://preserve.mactech.com/articles/mactech/Vol.09/09.11/NewtonToolkit/index.html)
 - [UNNA: Newton Toolkit](http://www.unna.org/view.php?/apple/development/NTK)
 - [The Newted Community: Newton Toolkit User’s Guide](https://www.newted.org/download/manuals/NewtonToolkitUsersGuide.pdf)
 - [The Newted Community: Newton Toolkit Enhancements](https://www.newted.org/download/manuals/NewtonToolkitEnhancements.pdf)

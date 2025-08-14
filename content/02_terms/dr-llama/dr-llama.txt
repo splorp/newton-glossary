@@ -16,7 +16,7 @@ For reasons yet to be determined, Sharp was also known as (link: /terms/commande
 
 Resource:
 
-- [MacTech: Newton Q & A: Ask The Llama](https://preserve.mactech.com/articles/develop/issue_26/newtonqa.html)
+- [MacTech: Newton Q & A: Ask The Llama](http://preserve.mactech.com/articles/develop/issue_26/newtonqa.html)
 
 ----
 
