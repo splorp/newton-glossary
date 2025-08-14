@@ -8,17 +8,17 @@ Date: 08 August 2025
 
 Text:
 
-A (link: /terms/pcmcia text: PCMCIA) card that shipped with the (link: /terms/messagepad-100 text: MessagePad 100) along with a printed (link: /sources/messagepad-setup-guide text: setup guide).
+A (link: /terms/pcmcia text: PCMCIA) card that shipped with the (link: /terms/messagepad-100 text: MessagePad 100), containing three (link: /terms/application text: applications) to help the user learn about the device and features of (link: /terms/newton-os text: Newton OS).
 
-The (link: /terms/card text: card) contains three (link: /terms/application text: applications) to help the user learn about the Newton device and features of (link: /terms/newton-os text: Newton OS).
+The (link: /terms/instructor text: Instructor) application provides tips for using the (link: /terms/handwriting-recognition text: handwriting recognition).
 
-(link: /terms/instructor text: Instructor) provides tips and techniques for using the (link: /terms/handwriting-recognition text: handwriting recognition).
+The (link: /terms/tour text: Tour) application walks the user through various capabilities of the device.
 
-(link: /terms/tour text: Tour) walks the user through various capabilities of the device.
+The (link: /terms/game text: Game) application encourages the user to practice their handwriting through an arcade style game, gathering information while playing to help improve the accuracy of the handwriting recognition.
 
-(link: /terms/game text: Game) encourages the user to practice their handwriting through an arcade style game, gathering information while playing to help improve the accuracy of the handwriting recognition.
+This particular (link: /terms/card text: card) is required to activate an (link: /terms/easter-egg text: easter egg) known as (link: /terms/happy-hour text: Happy Hour).
 
-While the Getting Started card is inserted, contact information for (link: /terms/apple-assurance text: Apple Assurance) and Canadian Support and Service are added to the (link: /terms/name-file text: Name File).
+Related to this easter egg, while the card is inserted, contact information for (link: /terms/apple-assurance text: Apple Assurance) and Canadian Support and Service are added to the (link: /terms/name-file text: Name File).
 
 ----
 
