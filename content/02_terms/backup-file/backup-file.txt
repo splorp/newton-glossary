@@ -10,15 +10,24 @@ Text:
 
 A file residing on a (link: /terms/storage-card text: storage card), (link: /terms/desktop-computer text: desktop computer), or (link: /terms/laptop-computer text: laptop computer) that contains a copy of the information from a Newton device.
 
+A backup file created by (link: /terms/newton-backup-utility text: Newton Backup Utility) or (link: /terms/newton-connection-utilities text: Newton Connection Utilities) of a (link: /terms/storage-card text: storage card) that has not been named in the (link: /terms/card-slip text: card slip) is known generically as a (link: /terms/card-file text: card file).
+
 ----
 
 Related:
 
 - /terms/backup
-- /terms/card-slip
+- /terms/card-file
 - /terms/nbk
 - /terms/nbku
 - /terms/newton-backup-express
 - /terms/newton-backup-utility
+- /terms/newton-connection-utilities
 - /terms/restore
 - /terms/storage-card
+
+----
+
+Source:
+
+- /sources/newton-backup-utility-users-guide

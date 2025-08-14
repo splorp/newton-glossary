@@ -1,0 +1,18 @@
+Title: Card File
+
+----
+
+Date: 14 August 2025
+
+----
+
+Text:
+
+See: (link: /terms/backup-file text: Backup File) and (link: /terms/name-file text: Name File)
+
+----
+
+Source:
+
+- /sources/maurice-sharp
+- /sources/newton-backup-utility-users-guide
