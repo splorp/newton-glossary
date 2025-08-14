@@ -1,0 +1,22 @@
+Title: Computer
+
+----
+
+Date: 13 August 2025
+
+----
+
+Text:
+
+The built-in (link: /terms/application text: application) in prerelease versions of (link: /terms/newton-os text: Newton OS) 1.0 used to perform the action of connecting to another computer. In later versions of Newton OS, the application is named (link: /terms/connection text: Connection) and (link: /terms/dock text: Dock).
+
+----
+
+Related:
+
+- /terms/auto-dock
+- /terms/classroom-dock
+- /terms/connection
+- /terms/dock
+- /terms/dock-options
+- /terms/docking

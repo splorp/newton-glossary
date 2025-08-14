@@ -21,6 +21,7 @@ In the Auto Dock (link: /terms/slip text: slip), the user can enable or disable 
 Related:
 
 - /terms/classroom-dock
+- /terms/computer
 - /terms/connection
 - /terms/dock
 - /terms/dock-options

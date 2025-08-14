@@ -23,6 +23,7 @@ Related:
 - /terms/classroom-exchange
 - /terms/classroom-mode
 - /terms/classroom-options
+- /terms/computer
 - /terms/connection
 - /terms/dock
 - /terms/dock-options

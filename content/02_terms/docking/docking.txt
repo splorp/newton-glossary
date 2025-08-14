@@ -18,6 +18,7 @@ Related:
 - /terms/cdcl
 - /terms/classroom-dock
 - /terms/classroom-exchange
+- /terms/computer
 - /terms/connection
 - /terms/dcl
 - /terms/dock
