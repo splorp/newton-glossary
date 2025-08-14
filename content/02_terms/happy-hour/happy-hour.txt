@@ -8,11 +8,11 @@ Date: 08 August 2025
 
 Text:
 
-An (link: /terms/easter-egg text: easter egg) 
+An (link: /terms/easter-egg text: easter egg) hidden in (link: /terms/newton-os text: Newton OS) that schedules a (link: /terms/meeting text: meeting) in the (link: /terms/date-book text: Date Book) titled “(link: /terms/apple-assurance text: Apple Assurance)" on the closest upcoming Friday.
 
-Insert the (link: /terms/getting-started-card text: Getting Started card). In the Notepad application, write “schedule Happy Hour Fri”, then (link: /terms/tap text: tap) the (link: /terms/assist text: Assist) button.
+To activate this easter egg, the (link: /terms/getting-started-card text: Getting Started card) must be inserted into a (link: /terms/messagepad text: MessagePad) device running Newton OS . In the (link: /terms/notepad text: Notepad) application, write “schedule Happy Hour Fri”, then (link: /terms/tap text: tap) the (link: /terms/assist text: Assist) button.
 
-Back in the day, Apple was notorious for their Friday “happy hour bashes”.
+Back in the day, [Apple](https://www.apple.com/) was apparently known for its Friday afternoon “bashes”.
 
 ----
 
@@ -26,6 +26,7 @@ Resource:
 Related:
 
 - /terms/about-newton
+- /terms/apple-assurance
 - /terms/area-51
 - /terms/brandyn
 - /terms/cuckoo

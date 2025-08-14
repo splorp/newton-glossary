@@ -1,0 +1,33 @@
+Title: Apple Assurance
+
+----
+
+Date: 14 August 2025
+
+----
+
+Text:
+
+An [Apple](https://www.apple.com/) program first launched in 1992 that provided customers with free technical and product support for as long as they owned their Apple product. In October 1997, Apple began charging for the service.
+
+Apple Assurance is a prominent part of an (link: /terms/easter-egg text: easter egg) hidden in (link: /terms/newton-os text: Newton OS) known as (link: /terms/happy-hour text: Happy Hour). Relatedly, the contact information for Apple Assurance is added to the (link: /terms/name-file text: Name File) when the (link: /terms/getting-started-card text: Getting Started card) is inserted into certain Newton devices.
+
+----
+
+Resource:
+
+- [TidBITS: Apple Assurance Service](https://tidbits.com/1993/04/05/apple-assurance-service/)
+- [Federal Trade Commission: Apple Computer Settles FTC Charges That its "Apple Assurance" Program Was Deceptive](https://www.ftc.gov/news-events/news/press-releases/1999/01/apple-computer-settles-ftc-charges-its-apple-assurance-program-was-deceptive)
+
+----
+
+Related:
+
+- /terms/getting-started-card
+- /terms/happy-hour
+
+----
+
+Source:
+
+- /sources/tidbits
