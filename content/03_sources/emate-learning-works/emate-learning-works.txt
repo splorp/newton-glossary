@@ -8,10 +8,10 @@ Date: 18 August 2025
 
 Text:
 
-Written by Irene Smith and Sharon Yoder in 1998, this one of several titles published by the International Society for Technology in Education (ISTE) to help educators and students familiarize themselves with computers and software, including the (link: /terms/emate-300 text: eMate 300) and (link: /terms/newton-works text: Newton Works).
+Written by Irene Smith and Sharon Yoder in 1998, this is one of several _“Instant Success”_ titles published by the International Society for Technology in Education (ISTE) to help educators and students familiarize themselves with using computers and software, including the (link: /terms/emate-300 text: eMate 300) and (link: /terms/newton-works text: Newton Works).
 
 ----
 
 Resource:
 
-- [The Newted Community: The eMate: Learning Works](https://www.newted.org/download/manuals/eMateLearningWorks)
+- [The Newted Community: The eMate: Learning Works](https://www.newted.org/download/manuals/eMateLearningWorks.pdf)
