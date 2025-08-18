@@ -8,7 +8,7 @@ Date: 26 January 2025
 
 Text:
 
-An (link: /terms/easter-egg text: easter egg) in (link: /terms/newton-os text: Newton OS) that displays the names of members of the Newton development team. The easter egg is activated by writing “About Newton” in the (link: /terms/notepad text: Notepad) application, (link: /terms/highlight text: highlighting) the text, and (link: /terms/tapping text: tapping) the (link: /terms/assist text: Assist) button.
+An (link: /terms/easter-egg text: easter egg) in (link: /terms/newton-os text: Newton OS) that displays the names of members of the Newton development team. The easter egg is activated by writing “About Newton” in the (link: /terms/notepad text: Notepad) application, (link: /terms/highlighting text: highlighting) the text, and (link: /terms/tapping text: tapping) the (link: /terms/assist text: Assist) button.
 
 In Newton OS 1.x, the list of names is followed by a tribute to the late Newton engineer (link: /terms/ko-isono text: Ko Isono).
 
