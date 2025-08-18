@@ -18,14 +18,20 @@ Incremental changes are listed in the project’s [commit history](https://githu
 
 Recently added terms and sources can be found on the (link: /latest text: Latest Additions) page.
 
-### _$r
+### 5.0.1
 
-Terms: _$t
-Sources: _$s
+18 August 2025
+
+Terms: 1,906
+Sources: 211
 
 #### Summary of changes:
 
-+ 
++ Added 42 new terms
++ Added 5 new sources
++ Updated and expanded dozens of existing entries
++ Updated [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) to version [1.39](https://github.com/ai-robots-txt/ai.robots.txt/releases/tag/v1.39)
++ Updated [Kirby](https://getkirby.com/) to version [5.0.3](https://github.com/getkirby/kirby/releases/tag/5.0.3)
 
 ### 5.0.0
 
