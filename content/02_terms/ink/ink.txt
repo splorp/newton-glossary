@@ -32,6 +32,8 @@ Related:
 - /terms/ink-window
 - /terms/ink-word
 - /terms/inker
+- /terms/inking
+- /terms/inking-mode
 - /terms/inkwell
 - /terms/mondello
 - /terms/neuropen

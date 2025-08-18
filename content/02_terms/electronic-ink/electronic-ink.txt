@@ -20,6 +20,8 @@ Related:
 - /terms/ink-text
 - /terms/ink-word
 - /terms/inker
+- /terms/inking
+- /terms/inking-mode
 - /terms/recognized-text
 - /terms/shape
 - /terms/shapes

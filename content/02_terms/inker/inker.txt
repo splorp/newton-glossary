@@ -18,6 +18,8 @@ Related:
 - /terms/ink
 - /terms/ink-text
 - /terms/ink-word
+- /terms/inking
+- /terms/inking-mode
 - /terms/input
 
 ----

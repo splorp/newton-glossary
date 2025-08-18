@@ -1,0 +1,31 @@
+Title: Inking Mode
+
+----
+
+Date: 18 August 2025
+
+----
+
+Text:
+
+A mode of input in (link: /terms/newton-os text: Newton OS) that allows the creation of (link: /terms/electronic-ink text: electronic ink) when using the (link: /terms/pen text: pen) on the (link: /terms/screen text: screen). Inking mode is automatically disabled when the user taps a (link: /terms/user-interface text: user interface) element such as a (link: /terms/button text: button) or (link: /terms/checkbox text: checkbox).
+
+When (link: /terms/select text: selecting) text or an (link: /terms/object text: object) on the screen, inking mode changes to (link: /terms/highlight-mode text: highlight mode).
+
+----
+
+Related:
+
+- /terms/deferred-recognition
+- /terms/electronic-ink
+- /terms/highlight-mode
+- /terms/ink
+- /terms/inker
+- /terms/inking
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference

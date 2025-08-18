@@ -23,6 +23,7 @@ Related:
 - /terms/highlighting-mark
 - /terms/highlighting-mode
 - /terms/hilite2000
+- /terms/inking-mode
 - /terms/invert
 - /terms/select
 - /terms/selection

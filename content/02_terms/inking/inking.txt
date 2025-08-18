@@ -1,0 +1,28 @@
+Title: Inking
+
+----
+
+Date: 18 August 2025
+
+----
+
+Text:
+
+The process of creating (link: /terms/electronic-ink text: electronic ink) when using the (link: /terms/pen text: pen) on the (link: /terms/screen text: screen).
+
+----
+
+Related:
+
+- /terms/deferred-recognition
+- /terms/electronic-ink
+- /terms/ink
+- /terms/inker
+- /terms/inking-mode
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference
