@@ -33,6 +33,7 @@ Related:
 - /terms/h2k
 - /terms/heavy-mark
 - /terms/highlight
+- /terms/highlight-mode
 - /terms/highlighting-mark
 - /terms/invert
 - /terms/options

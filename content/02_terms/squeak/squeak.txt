@@ -33,6 +33,7 @@ Related:
 - /terms/gong
 - /terms/heavy-mark
 - /terms/highlight
+- /terms/highlight-mode
 - /terms/hilite-sound
 - /terms/hilitesound
 - /terms/hot-dog-song

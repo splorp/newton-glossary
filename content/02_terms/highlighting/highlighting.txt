@@ -1,0 +1,18 @@
+Title: Hilite
+
+----
+
+Date: 13 June 2025
+
+----
+
+Text:
+
+See: (link: /terms/highlight text: Highlight)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference

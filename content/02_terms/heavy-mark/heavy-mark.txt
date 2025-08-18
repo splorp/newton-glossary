@@ -22,6 +22,7 @@ Related:
 - /terms/dot
 - /terms/dragging
 - /terms/highlight
+- /terms/highlight-mode
 - /terms/highlighting-mark
 - /terms/hilite2000
 - /terms/pen

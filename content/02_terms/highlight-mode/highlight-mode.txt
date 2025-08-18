@@ -1,0 +1,36 @@
+Title: Highlight Mode
+
+----
+
+Date: 16 August 2025
+
+----
+
+Text:
+
+A mode of input in (link: /terms/newton-os text: Newton OS) that allows the (link: /terms/selection text: selection) of text or objects on the (link: /terms/screen text: screen). A (link: /terms/squeak text: squeak) sound is played to indicate that the Newton device is in highlight mode, rather than (link: /terms/inking-mode text: inking mode), after creating a (link: /terms/highlighting-mark text: highlighting mark) with the (link: /terms/pen text: pen).
+
+Also referred to as (link: /terms/highlighting-mode text: Highlighting Mode).
+
+
+----
+
+Related:
+
+- /terms/deselect
+- /terms/heavy-mark
+- /terms/highlight
+- /terms/highlighting-mark
+- /terms/highlighting-mode
+- /terms/hilite2000
+- /terms/invert
+- /terms/select
+- /terms/selection
+- /terms/selection-box
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference

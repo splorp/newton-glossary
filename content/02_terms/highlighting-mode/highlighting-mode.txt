@@ -1,0 +1,17 @@
+Title: Highlighting Mode
+
+----
+
+Date: 16 August 2025
+
+----
+
+Text:
+
+See: (link: /terms/highlight-mode text: Highlight Mode)
+
+----
+
+Source:
+
+- /sources/emate-learning-works

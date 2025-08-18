@@ -12,7 +12,7 @@ To make something visually distinct, typically when text or a (link: /terms/cont
 
 For example, if the user (link: /terms/select text: selects) a word on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen), the highlighted word will appear to have a (link: /terms/dark-box text: dark box) around it, distinguishing it from the unselected text.
 
-Also referred to as (link: /terms/hilite text: Hilite).
+Also referred to as (link: /terms/hilite text: Hilite), (link: /terms/hiliting text: Hiliting), and (link: /terms/highlighting text: Highlighting).
 
 
 ----
@@ -23,9 +23,11 @@ Related:
 - /terms/darkened-box
 - /terms/deselect
 - /terms/heavy-mark
+- /terms/highlighting
 - /terms/highlighting-mark
 - /terms/hilite
 - /terms/hilite2000
+- /terms/hiliting
 - /terms/invert
 - /terms/select
 - /terms/selection

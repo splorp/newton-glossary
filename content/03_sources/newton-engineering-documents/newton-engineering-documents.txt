@@ -1,0 +1,20 @@
+Title: Newton OS 2.1 Engineering Documents
+
+----
+
+Date: 16 August 2025
+
+----
+
+Text:
+
+Published by [Apple](https://www.apple.com/) in 1996 and 1997 as a companion to the (link: /sources/newton-programmers-guide text: Newton Programmer’s Guide), this is the preliminary version of what would become the official addendum covering changes and additions to (link: /terms/newton-os text: Newton OS) 2.1.
+
+----
+
+Resource:
+
+- [The Newted Community: Newton OS 2.1 Engineering Documents](https://www.newted.org/download/manuals/NewtonOS21EngDoc1996.pdf) (1996)
+- [The Newted Community: Newton OS 2.1 Engineering Documents](https://www.newted.org/download/manuals/NewtonOS21EngDoc1997.pdf) (1997)
+- [UNNA: Newton Programmer’s Guide: OS 2.1 Addendum](http://www.unna.org/unna/apple/documentation/developer/ProgrammersGuideOS2.1Addenum.pdf)
+- [The Newted Community: Newton Programmer’s Guide: OS 2.1 Addendum](https://www.newted.org/download/manuals/NewtonProgrammerGuide21Add.pdf)
