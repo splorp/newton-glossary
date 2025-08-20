@@ -1,0 +1,36 @@
+Title: Traffic Cop
+
+----
+
+Date: 20 August 2025
+
+----
+
+Text:
+
+Software documented by [Apple](https://www.apple.com/) that purportedly provided serial port arbitration and management of applications utilizing the (link: /terms/desktop-integration-library text: Desktop Integration Library) to connect to Newton devices.
+
+Traffic Cop operated in two modes as either an (link: /terms/application text: application) or (link: /terms/device-driver text: device driver) on a Mac OS or Windows computer.
+
+Setup mode displayed a list of applications that could be launched by Traffic Cop, such as (link: /terms/newton-connection-kit text: Newton Connection Kit).
+
+Management mode was used to manage applications that had been defined during setup mode, as well as monitor and configure any serial ports available on the hardware running the Traffic Cop software.
+
+Also referred to as (link: /terms/tcop text: TCOP).
+
+----
+
+Resource:
+
+- [The Newted Community: Preliminary Traffic Cop Specification](https://www.newted.org/download/manuals/DIL_TCOP.pdf)
+
+----
+
+Related:
+
+- /terms/cdil
+- /terms/desktop-integration-library
+- /terms/fdil
+- /terms/hlfdil
+- /terms/pdil
+- /terms/tcop
