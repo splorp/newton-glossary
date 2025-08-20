@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The built-in (link: /terms/application text: application) for setting (link: /terms/owner text: owner) and (link: /terms/worksite text: worksite) information on a Newton device. It is possible to set up multiple owner profiles or (link: /terms/persona text: personas) for the same owner.
+The built-in (link: /terms/application text: application) for setting (link: /terms/owner text: owner) and (link: /terms/worksite text: worksite) information on a Newton device. It is possible to setup multiple owner profiles or (link: /terms/persona text: personas) for the same owner.
 
 (image: /assets/images/owner-info-2x.gif alt: Screenshot of the Owner Info application width: 256)
 

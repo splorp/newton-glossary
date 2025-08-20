@@ -12,7 +12,7 @@ Protocol Desktop Integration Library
 
 A code layer containing the (link: /terms/protocol text: protocol) used to communicate with the (link: /terms/connection text: Connection) and (link: /terms/dock text: Dock) applications on Newton devices.
 
-This code is part of the (link: /terms/desktop-integration-library text: Desktop Integration Library) provided to developers by [Apple](https://www.apple.com/).
+This code is part of the (link: /terms/desktop-integration-library text: Desktop Integration Library) ((link: /terms/dil text: DIL)) provided to developers by [Apple](https://www.apple.com/).
 
 ----
 
