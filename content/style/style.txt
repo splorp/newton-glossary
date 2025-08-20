@@ -98,6 +98,7 @@ _Examples:_
 + Use “finite state” instead of “finite-state”
 + Use “frontend” instead of “front-end”
 + Use “onscreen” instead of “on-screen”
++ Use “setup” instead of “set-up”
 
 Acceptable hyphenated terms include:
 
