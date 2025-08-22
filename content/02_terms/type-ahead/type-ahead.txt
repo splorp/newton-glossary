@@ -15,7 +15,10 @@ The process by which (link: /terms/newton-os text: Newton OS) stores keystrokes 
 Related:
 
 - /terms/auto-repeat
+- /terms/character-key
 - /terms/command-key
+- /terms/delete-key
+- /terms/function-key
 - /terms/key-combination
 - /terms/keyboard
 - /terms/keyboard-equivalent

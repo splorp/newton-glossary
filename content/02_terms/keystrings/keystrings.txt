@@ -15,7 +15,10 @@ Groups of individual key presses collected by (link: /terms/newton-os text: Newt
 Related:
 
 - /terms/auto-repeat
+- /terms/character-key
 - /terms/command-key
+- /terms/delete-key
+- /terms/function-key
 - /terms/key-combination
 - /terms/key-view
 - /terms/keyboard

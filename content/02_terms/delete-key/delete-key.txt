@@ -1,0 +1,38 @@
+Title: Delete Key
+
+----
+
+Date: 22 August 2025
+
+----
+
+Text:
+
+A key on a keyboard that removes the currently selected text. If no text is selected, the Delete key removes the character preceding the (link: /terms/caret text: caret). If an image or (link: /terms/picture text: picture) is currently selected, the Delete key will remove the selected item, providing the (link: /terms/application text: application) supports it.
+
+Also referred to as the (link: /terms/del-key text: Del Key).
+
+----
+
+Related:
+
+- /terms/auto-repeat
+- /terms/character-key
+- /terms/command-key
+- /terms/del-key
+- /terms/delete
+- /terms/function-key
+- /terms/key-combination
+- /terms/keyboard
+- /terms/keyboard-equivalent
+- /terms/keystrings
+- /terms/keystroke-events
+- /terms/modifier-key
+- /terms/type-ahead
+- /terms/typewriter
+
+----
+
+Source:
+
+- /sources/keyboard-enhancements

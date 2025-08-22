@@ -21,7 +21,10 @@ Resource:
 Related:
 
 - /terms/auto-repeat
+- /terms/character-key
 - /terms/command-key
+- /terms/delete-key
+- /terms/function-key
 - /terms/keyboard
 - /terms/keyboard-equivalent
 - /terms/keystrings

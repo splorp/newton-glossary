@@ -1,0 +1,36 @@
+Title: Function Key
+
+----
+
+Date: 22 August 2025
+
+----
+
+Text:
+
+A key located on an (link: /terms/emate-300 text: eMate 300) that provides a shortcut or specific action such as closing a (link: /terms/slip text: slip), launching an (link: /terms/application text: application), toggling the (link: /terms/backlight text: backlight), or other actions usually found in the (link: /terms/button-bar text: button bar) on other Newton devices.
+
+Function keys are located in their own row at the top of the eMate keyboard.
+
+----
+
+Related:
+
+- /terms/auto-repeat
+- /terms/character-key
+- /terms/command-key
+- /terms/delete-key
+- /terms/key-combination
+- /terms/keyboard
+- /terms/keyboard-equivalent
+- /terms/keystrings
+- /terms/keystroke-events
+- /terms/modifier-key
+- /terms/type-ahead
+- /terms/typewriter
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide

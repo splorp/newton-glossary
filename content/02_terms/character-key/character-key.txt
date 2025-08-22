@@ -1,0 +1,37 @@
+Title: Character Key
+
+----
+
+Date: 22 August 2025
+
+----
+
+Text:
+
+A key on a keyboard that allows the user to enter letters, numerals, punctuation, and spaces.
+
+The tab key, Return key, and (link: /terms/delete-key text: Delete key) are also considered character keys, affecting text by indenting a line of text, creating a new line, or deleting characters.
+
+----
+
+Related:
+
+- /terms/auto-repeat
+- /terms/command-key
+- /terms/delete-key
+- /terms/function-key
+- /terms/key-combination
+- /terms/keyboard
+- /terms/keyboard-equivalent
+- /terms/keystrings
+- /terms/keystroke-events
+- /terms/modifier-key
+- /terms/type-ahead
+- /terms/typewriter
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/newton-user-interface-guidelines

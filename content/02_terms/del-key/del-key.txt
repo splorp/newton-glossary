@@ -1,0 +1,17 @@
+Title: Del Key
+
+----
+
+Date: 22 August 2025
+
+----
+
+Text:
+
+See: (link: /terms/delete-key text: Delete Key)
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines
