@@ -12,7 +12,7 @@ Kirby::plugin('bnomei/redirects', [
         'querystring' => true,
         'only-empty-results' => false,
         'map' => function (): array|Closure|Field {
-            return kirby()->site()->redirects(); //@phpstan-ignore-line
+            return kirby()->site()->redirects(); // @phpstan-ignore-line
         }, // array, closure with structure-field or array
         'shield' => [
             'enabled' => true,

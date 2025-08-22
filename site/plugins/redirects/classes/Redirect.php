@@ -8,17 +8,26 @@ use Kirby\Toolkit\V;
 
 class Redirect
 {
-    private string $fromuri;
+    private ?string $fromuri;
 
-    private string $touri;
+    private ?string $touri;
 
     private int $code;
 
-    public function __construct(string $fromuri, string $touri, string|int|null $code = 301)
+    public function __construct(?string $fromuri = null, ?string $touri = null, string|int|null $code = 301)
     {
         $this->fromuri = $fromuri;
         $this->touri = $touri;
         $this->code = self::normalizeCode($code);
+    }
+
+    public function set(string $fromuri, string $touri, string|int|null $code = 301)
+    {
+        $this->fromuri = $fromuri;
+        $this->touri = $touri;
+        $this->code = self::normalizeCode($code);
+
+        return $this;
     }
 
     public function matches(string $url): bool
@@ -31,6 +40,23 @@ class Redirect
             $from.'/', // issue #10
         ])) {
             return true;
+        }
+
+        $mightBeRegex = false;
+        if (str_contains($from, '.*') ||
+            str_contains($from, '.+') ||
+            str_contains($from, '*') ||
+            str_contains($from, '(') ||
+            str_contains($from, '|') ||
+            str_contains($from, '{') ||
+            str_contains($from, '$') ||
+            str_contains($from, '^') ||
+            str_contains($from, '<')) {
+            $mightBeRegex = true;
+        }
+
+        if ($mightBeRegex === false) {
+            return false;
         }
 
         // regex
@@ -50,12 +76,12 @@ class Redirect
 
     public function from(): string
     {
-        return $this->fromuri;
+        return trim($this->fromuri ?? '');
     }
 
     public function to(): string
     {
-        return $this->touri;
+        return trim($this->touri ?? '');
     }
 
     public function code(): int

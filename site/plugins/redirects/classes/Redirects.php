@@ -27,6 +27,7 @@ class Redirects
             'map' => option('bnomei.redirects.map'),
             'parent' => null, // will be set by loadRedirectsFromSource
             'shield.enabled' => option('bnomei.redirects.shield.enabled'),
+            'shield.generic' => option('bnomei.redirects.shield.generic'),
             'shield.wordpress' => option('bnomei.redirects.shield.wordpress'),
             'shield.joomla' => option('bnomei.redirects.shield.joomla'),
             'shield.drupal' => option('bnomei.redirects.shield.drupal'),
@@ -47,8 +48,9 @@ class Redirects
 
         $this->loadRedirectsFromSource($this->options['map']);
         $this->addShieldToRedirects();
+        $this->buildLookup();
         // keep map around to allow update/removes
-        //$this->options['map'] = null; // NOPE!
+        // $this->options['map'] = null; // NOPE!
     }
 
     public function option(?string $key = null): mixed
@@ -75,22 +77,33 @@ class Redirects
         return $this->options['redirects'];
     }
 
-    private function addShieldToRedirects(): bool
+    private function addShieldToRedirects(): array
     {
         if ($this->options['shield.enabled'] !== true) {
-            return false;
+            return $this->options['redirects'];
+        }
+        // array_merge is not working properly here, so we do it manually
+        foreach ([
+            'shield.generic',
+            'shield.wordpress',
+            'shield.joomla',
+            'shield.drupal',
+            'shield.magento',
+            'shield.shopify',
+        ] as $shield) {
+            foreach ($this->options[$shield] as $redirect) {
+                $this->options['redirects'][] = $redirect;
+            }
         }
 
-        $this->options['redirects'] = array_merge(
-            $this->options['shield.wordpress'],
-            $this->options['shield.joomla'],
-            $this->options['shield.drupal'],
-            $this->options['shield.magento'],
-            $this->options['shield.shopify'],
-            $this->options['redirects']
-        );
+        return $this->options['redirects'];
+    }
 
-        return true;
+    private function buildLookup(): array
+    {
+        $this->options['redirects'] = array_column($this->options['redirects'], null, 'fromuri');
+
+        return $this->options['redirects'];
     }
 
     public function redirects(): array
@@ -145,11 +158,26 @@ class Redirects
         return $this->updateRedirects($data);
     }
 
+    public function sortAndUpdate(): bool
+    {
+        $r = $this->redirects();
+        $r = A::sort($r, 'fromuri', 'asc');
+
+        return $this->updateRedirects($r);
+    }
+
     public function updateRedirects(array $data): bool
     {
         $parent = $this->getParent();
         if (! $parent) {
             return false;
+        }
+
+        // retrieve again for mutability
+        if ($parent instanceof Site) {
+            $parent = kirby()->site();
+        } else {
+            $parent = kirby()->page($parent->id());
         }
 
         return (bool) kirby()->impersonate('kirby', function () use ($parent, $data) {
@@ -183,9 +211,9 @@ class Redirects
         return kirby()->cache('bnomei.redirects')->flush();
     }
 
-    public function checkForRedirect(): ?Redirect
+    public function checkForRedirect(?string $uri = null): ?Redirect
     {
-        $requesturi = (string) $this->options['request.uri'];
+        $requesturi = $uri ?? (string) $this->options['request.uri'];
         if (static::isKnownValidRoute($requesturi)) {
             return null;
         }
@@ -195,19 +223,26 @@ class Redirects
             return null;
         }
 
+        $r = new Redirect;
+        // try direct lookup first and only do that in a match
+        if (array_key_exists($requesturi, $map)) {
+            $map = [$map[$requesturi]];
+        }
         foreach ($map as $redirect) {
             if (! array_key_exists('fromuri', $redirect) ||
                 ! array_key_exists('touri', $redirect)
             ) {
                 continue;
             }
-            $redirect = new Redirect(
+
+            $r = $r->set(
                 $this->makeRelativePath(A::get($redirect, 'fromuri', '')),
                 A::get($redirect, 'touri', ''),
                 A::get($redirect, 'code', $this->option('code'))
             );
-            if ($redirect->matches($requesturi)) {
-                return $redirect;
+
+            if ($r->matches($requesturi)) {
+                return $r;
             }
         }
 
