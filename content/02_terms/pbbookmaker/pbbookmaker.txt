@@ -8,7 +8,7 @@ Date: 02 June 2025
 
 Text:
 
-A UNIX command line program developed by (link: /terms/paul-guyot text: Paul Guyot) and others that will create (link: /terms/paperback-book text: Paperback book) packages from (link: /terms/text-file text: text files), reproducing the functionality of the original (link: /terms/Paperback text: Paperback) application. PBBookMaker utilizes the Desktop Connection Library ((link: /terms/dcl text: DCL) to build (link: /terms/package text: packages) that can be viewed on a Newton device.
+A UNIX command line program developed by (link: /terms/paul-guyot text: Paul Guyot) and others that will create (link: /terms/paperback-book text: Paperback book) packages from (link: /terms/text-file text: text files), reproducing the functionality of the original (link: /terms/Paperback text: Paperback) application. PBBookMaker utilizes the Desktop Connection Library ((link: /terms/dcl text: DCL)) to build (link: /terms/package text: packages) that can be viewed on a Newton device.
 
 ----
 
