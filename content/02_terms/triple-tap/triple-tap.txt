@@ -8,7 +8,7 @@ Date: 24 August 2025
 
 Text:
 
-To touch or (link: /terms/tap text: tap) the same spot on the (link: /terms/screen text: screen), or nearly the same spot, three times in rapid succession with the (link: /terms/pen text: pen).
+To touch or (link: /terms/tap text: tap) the same spot on the (link: /terms/screen text: screen), or nearly the same spot, three times in rapid succession with the (link: /terms/pen text: pen). Essentially the same action as triple clicking a mouse button on a (link: /terms/desktop-computer text: desktop computer), (link: /terms/laptop-computer text: laptop), or equivalent device.
 
 ----
 
