@@ -14,7 +14,7 @@ Delete is one of the options located in the (link: /terms/action-picker text: ac
 
 To delete text or (link: /terms/ink text: ink) drawings on a Newton device, you can use the (link: /terms/pen text: pen) to (link: /terms/scrub text: scrub) the information using a (link: /terms/zig-zag text: zig-zag) gesture.
 
-When using the onscreen (link: /terms/typewriter text: typewriter) keyboard or entering a (link: /terms/pin text: PIN) on a Newton device, the (link: /terms/delete-key text: Delete key) is labeled “(link: /terms/del text: del)”.
+Delete also refers to the (link: /terms/delete-key text: Delete key) on a keyboard. When using the onscreen (link: /terms/typewriter text: typewriter) keyboard or entering a (link: /terms/pin text: PIN) on a Newton device, the (link: /terms/delete-key text: Delete key) is labeled “(link: /terms/del text: del)”.
 
 ----
 
