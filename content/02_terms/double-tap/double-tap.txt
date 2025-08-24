@@ -39,6 +39,8 @@ Related:
 - /terms/tapped
 - /terms/tapped-in
 - /terms/tapping
+- /terms/triple-tap
+- /terms/triple-tapping
 
 ----
 

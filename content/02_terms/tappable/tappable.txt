@@ -27,6 +27,8 @@ Related:
 - /terms/tap-and-a-half
 - /terms/tapped
 - /terms/tapping
+- /terms/triple-tap
+- /terms/triple-tapping
 - /terms/user-interface
 
 ----

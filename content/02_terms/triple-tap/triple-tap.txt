@@ -1,14 +1,14 @@
-Title: Tapped
+Title: Triple-Tap
 
 ----
 
-Date: 12 April 2017
+Date: 24 August 2025
 
 ----
 
 Text:
 
-When the (link: /terms/screen text: screen) has been touched briefly with the (link: /terms/pen text: pen), generally interacting with part of the (link: /terms/user-interface text: user interface).
+To touch or (link: /terms/tap text: tap) the same spot on the (link: /terms/screen text: screen), or nearly the same spot, three times in rapid succession with the (link: /terms/pen text: pen).
 
 ----
 
@@ -24,8 +24,8 @@ Related:
 - /terms/tap
 - /terms/tap-and-a-half
 - /terms/tappable
+- /terms/tapped
 - /terms/tapping
-- /terms/triple-tap
 - /terms/triple-tapping
 
 ----

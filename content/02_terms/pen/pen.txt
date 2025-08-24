@@ -40,3 +40,5 @@ Related:
 - /terms/tappable
 - /terms/tapped
 - /terms/tapping
+- /terms/triple-tap
+- /terms/triple-tapping

@@ -25,3 +25,5 @@ Related:
 - /terms/tap-and-a-half
 - /terms/tappable
 - /terms/tapped
+- /terms/triple-tap
+- /terms/triple-tapping
