@@ -10,7 +10,7 @@ Text:
 
 In (link: /terms/newtonscript text: NewtonScript), going back to the point in a software program after calling another operation such as a (link: /terms/function text: function). When a function is called and completed, it may also return a result in the form of a value.
 
-Delete also refers to the (link: /terms/return-key text: Return key) on a keyboard.
+Return also refers to the (link: /terms/return-key text: Return key) on a keyboard.
 
 ----
 

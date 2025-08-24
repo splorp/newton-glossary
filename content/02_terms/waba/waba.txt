@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A highly portable, simplified implementation of the [Java](https://java.com/) virtual machine created specifically for small computing devices. (link: /sources/sean-luke text: Sean Luke) is responsible for the (link: /terms/newton-os text: Newton OS) version of Waba.
+A highly portable, simplified implementation of the [Java](https://java.com/) virtual machine created specifically for small computers. (link: /sources/sean-luke text: Sean Luke) is responsible for the (link: /terms/newton-os text: Newton OS) version of Waba.
 
 ----
 

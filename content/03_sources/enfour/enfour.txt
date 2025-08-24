@@ -8,7 +8,7 @@ Date: 06 February 2024
 
 Text:
 
-A company founded by Richard and Tracy Northcott that specialized in multilingual software solutions and (link: /terms/font text: fonts) for various computing devices and platforms, including (link: /terms/newton-os text: Newton OS). The company is arguably best known for its (link: /terms/unifep text: UniFEP) and (link: /terms/unidict text: UniDict) software.
+A company founded by Richard and Tracy Northcott that specialized in multilingual software solutions and (link: /terms/font text: fonts) for various computers and platforms, including (link: /terms/newton-os text: Newton OS). The company is arguably best known for its (link: /terms/unifep text: UniFEP) and (link: /terms/unidict text: UniDict) software.
 
 ----
 

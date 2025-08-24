@@ -8,7 +8,7 @@ Date: 17 February 2025
 
 Text:
 
-A shorthand reference to the [Stowaway Portable Keyboard](https://web.archive.org/web/20011214024411/http://www.thinkoutside.com/products.asp), a foldable external keyboard designed by (link: /sources/think-outside text: Think Outside) for use with mobile computing devices.
+A shorthand reference to the [Stowaway Portable Keyboard](https://web.archive.org/web/20011214024411/http://www.thinkoutside.com/products.asp), a foldable external keyboard designed by (link: /sources/think-outside text: Think Outside) for use with mobile computers.
 
 The Stowaway keyboard could be connected to a Newton device using the (link: /terms/newtway text: Newtway) adapter and a driver (link: /terms/extension text: extension) developed by (link: /sources/daniel-padilla text: Daniel Padilla).
 

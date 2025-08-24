@@ -8,7 +8,7 @@ Date: 01 August 2025
 
 Text:
 
-The means of interaction between a user and a computing device using a (link: /terms/pen text: pen) or (link: /terms/stylus text: stylus) on a (link: /terms/screen text: screen).
+The means of interaction between a user and a computer using a (link: /terms/pen text: pen) or (link: /terms/stylus text: stylus) on a (link: /terms/screen text: screen).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The completion action that users are most likely to take among the safe alternatives in the (link: /terms/key-view text: key view). For example, (link: /terms/tapping text: tapping) the “Ok” (link: /terms/button text: button) or pressing the “Enter” key when presented with a (link: /terms/confirmation-slip text: confirmation slip).
+The completion action that users are most likely to take among the safe alternatives in the (link: /terms/key-view text: key view). For example, (link: /terms/tapping text: tapping) the “Ok” (link: /terms/button text: button) or pressing the (link: /terms/return-key text: Return key) when presented with a (link: /terms/confirmation-slip text: confirmation slip).
 
 ----
 
