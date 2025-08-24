@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A small handheld computer — such as a Newton device — that typically provides calendar, contact management, and note-taking (link: /terms/application text: applications). Small integrated keyboards or pen-based (link: /terms/input text: input) systems are commonly used to enter data or interact with the device. The original term was coined by former [Apple](https://www.apple.com/) CEO [John Sculley](https://en.wikipedia.org/wiki/John_Sculley).
+A small handheld computer — such as a Newton device — that typically provides calendar, contact management, and note-taking (link: /terms/application text: applications). Small integrated keyboards or pen-based (link: /terms/input text: input) systems are commonly used to (link: /terms/enter text: enter) data or interact with the device. The original term was coined by former [Apple](https://www.apple.com/) CEO [John Sculley](https://en.wikipedia.org/wiki/John_Sculley).
 
 Commonly referred to as a (link: /terms/pda text: PDA).
 

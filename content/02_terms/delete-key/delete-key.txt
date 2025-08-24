@@ -23,6 +23,7 @@ Related:
 - /terms/command-key
 - /terms/del-key
 - /terms/delete
+- /terms/enter-key
 - /terms/function-key
 - /terms/key-combination
 - /terms/keyboard

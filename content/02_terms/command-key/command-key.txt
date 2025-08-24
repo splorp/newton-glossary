@@ -25,6 +25,7 @@ Related:
 - /terms/auto-repeat
 - /terms/character-key
 - /terms/delete-key
+- /terms/enter-key
 - /terms/function-key
 - /terms/key-combination
 - /terms/keyboard

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The handheld instrument used to enter data into a Newton device via the (link: /terms/screen text: screen).
+The handheld instrument used to (link: /terms/enter text: enter) data into a Newton device via the (link: /terms/screen text: screen).
 
 Also referred to as a (link: /terms/stylus text: Stylus).
 

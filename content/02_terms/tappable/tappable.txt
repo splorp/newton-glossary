@@ -10,7 +10,7 @@ Text:
 
 A (link: /terms/user-interface text: user interface) element that is designed to be (link: /terms/tapped text: tapped) using a (link: /terms/pen text: pen).
 
-In most cases, tappable (link: /terms/control text: controls) are located at the bottom of the (link: /terms/screen text: screen) when in (link: /terms/portrait-mode text: portrait mode) or on one side of the screen when in (link: /terms/landscape-mode text: landscape mode). This allows the user to enter data in the middle of the screen, preventing important information from being obscured when (link: /terms/tapping text: tapping) a (link: /terms/button text: button) or other control.
+In most cases, tappable (link: /terms/control text: controls) are located at the bottom of the (link: /terms/screen text: screen) when in (link: /terms/portrait-mode text: portrait mode) or on one side of the screen when in (link: /terms/landscape-mode text: landscape mode). This allows the user to (link: /terms/enter text: enter) data in the middle of the screen, preventing important information from being obscured when (link: /terms/tapping text: tapping) a (link: /terms/button text: button) or other control.
 
 ----
 

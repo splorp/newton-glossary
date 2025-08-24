@@ -1,14 +1,14 @@
-Title: Keystrings
+Title: Enter Key
 
 ----
 
-Date: 12 August 2024
+Date: 24 August 2025
 
 ----
 
 Text:
 
-Groups of individual key presses collected by (link: /terms/newton-os text: Newton OS) that are batch processed, improving performance and user response times.
+A (link: /terms/character-key text: character key) located on a keyboard that performs the same action as the (link: /terms/return-key text: Return key).
 
 ----
 
@@ -17,13 +17,14 @@ Related:
 - /terms/auto-repeat
 - /terms/character-key
 - /terms/command-key
+- /terms/default-button
 - /terms/delete-key
-- /terms/enter-key
+- /terms/enter
 - /terms/function-key
 - /terms/key-combination
-- /terms/key-view
 - /terms/keyboard
 - /terms/keyboard-equivalent
+- /terms/keystrings
 - /terms/keystroke-events
 - /terms/modifier-key
 - /terms/return-key
@@ -34,4 +35,4 @@ Related:
 
 Source:
 
-- /sources/newton-programmers-guide
+- /sources/keyboard-enhancements

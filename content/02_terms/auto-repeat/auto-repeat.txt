@@ -17,6 +17,7 @@ Related:
 - /terms/character-key
 - /terms/command-key
 - /terms/delete-key
+- /terms/enter-key
 - /terms/function-key
 - /terms/key-combination
 - /terms/keyboard
