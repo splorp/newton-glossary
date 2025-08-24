@@ -30,6 +30,7 @@ Related:
 - /terms/keyboard-equivalent
 - /terms/keystrings
 - /terms/keystroke-events
+- /terms/return-key
 - /terms/type-ahead
 - /terms/typewriter
 

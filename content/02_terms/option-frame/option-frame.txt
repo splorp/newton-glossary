@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/frame text: frame) passed as a parameter to an (link: /terms/endpoint text: endpoint) method that selects the communication tool to use; controls its configuration and operation; and returns result code information from the endpoint (link: /terms/method text: method).
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/frame text: frame) passed as a parameter to an (link: /terms/endpoint text: endpoint) method that selects the communication tool to use; controls its configuration and operation; and (link: /terms/return text: returns) result code information from the endpoint (link: /terms/method text: method).
 
 ----
 
@@ -20,6 +20,7 @@ Related:
 - /terms/newtonscript
 - /terms/object
 - /terms/part-frame
+- /terms/return
 - /terms/sound-frame
 
 ----

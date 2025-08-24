@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A named section of a computer program that performs a specific task and can return a value.
+A named section of a computer program that performs a specific task and can (link: /terms/return text: return) a value.
 
 In a (link: /terms/spreadsheet text: spreadsheet) document, a function is a pre-written (link: /terms/formula text: formula) provided by the spreadsheet (link: /terms/application text: application).
 
@@ -26,6 +26,7 @@ Related:
 - /terms/method
 - /terms/operator
 - /terms/receiver
+- /terms/return
 - /terms/spreadsheet
 - /terms/stack
 - /terms/stack-activation-record
