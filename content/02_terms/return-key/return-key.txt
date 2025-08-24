@@ -8,7 +8,7 @@ Date: 24 August 2025
 
 Text:
 
-A (link: /terms/character-key text: character key) located on a keyboard that moves the (link: /terms/caret text: caret) or (link: /terms/insertion-point text: insertion point).
+A (link: /terms/character-key text: character key) located on a keyboard that moves the (link: /terms/caret text: caret) or text (link: /terms/insertion-point text: insertion point).
 
 In a (link: /terms/field text: field) that allows entering multiple lines of text, the Return key ends the current paragraph and moves the caret to the beginning of the next line. In a field that allows entering one line of text, the Return key moves the caret to the next field or (link: /terms/input-line text: input line) in the same (link: /terms/container-view text: container view).
 
@@ -32,6 +32,7 @@ Related:
 - /terms/keystroke-events
 - /terms/modifier-key
 - /terms/return
+- /terms/tab-key
 - /terms/type-ahead
 - /terms/typewriter
 

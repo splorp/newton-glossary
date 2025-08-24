@@ -1,0 +1,41 @@
+Title: Tab Key
+
+----
+
+Date: 24 August 2025
+
+----
+
+Text:
+
+A (link: /terms/character-key text: character key) located on a keyboard that moves the (link: /terms/caret text: caret) or text (link: /terms/insertion-point text: insertion point).
+
+In a (link: /terms/field text: field) that allows entering multiple lines of text, the Tab key moves the caret to the next (link: /terms/tab-stop text: tab stop). In a field that allows entering one line of text, the Tab key moves the caret to the next field or (link: /terms/input-line text: input line) in the same (link: /terms/container-view text: container view).
+
+----
+
+Related:
+
+- /terms/auto-repeat
+- /terms/character-key
+- /terms/command-key
+- /terms/delete-key
+- /terms/enter-key
+- /terms/function-key
+- /terms/key-combination
+- /terms/keyboard
+- /terms/keyboard-equivalent
+- /terms/keystrings
+- /terms/keystroke-events
+- /terms/modifier-key
+- /terms/return-key
+- /terms/tab
+- /terms/tab-stop
+- /terms/type-ahead
+- /terms/typewriter
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

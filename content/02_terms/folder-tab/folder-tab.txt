@@ -20,7 +20,9 @@ Related:
 - /terms/folder-button
 - /terms/folder-slip
 - /terms/global-folder
+- /terms/index-tab
 - /terms/local-folder
+- /terms/tab
 - /terms/unfiled
 - /terms/unfiled-icons
 - /terms/user-interface

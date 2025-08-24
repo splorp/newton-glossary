@@ -10,7 +10,7 @@ Text:
 
 A key on a keyboard that allows the user to (link: /terms/enter text: enter) letters, numerals, punctuation, and spaces.
 
-The Tab key, (link: /terms/return-key text: Return key), (link: /terms/enter-key text: Enter key), and (link: /terms/delete-key text: Delete key) are also considered character keys, affecting text by indenting a line of text, creating a new line, or deleting characters.
+The (link: /terms/tab-key text: Tab key), (link: /terms/return-key text: Return key), (link: /terms/enter-key text: Enter key), and (link: /terms/delete-key text: Delete key) are also considered character keys, affecting text by indenting a line of text, creating a new line, or deleting characters.
 
 ----
 

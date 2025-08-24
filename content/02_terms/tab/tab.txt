@@ -1,0 +1,17 @@
+Title: Tab
+
+----
+
+Date: 24 August 2025
+
+----
+
+Text:
+
+See: (link: /terms/index-tab text: Index Tab), (link: /terms/folder-tab text: Folder Tab), (link: /terms/tab-key text: Tab Key), and (link: /terms/tab-stop text: Tab Stop)
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

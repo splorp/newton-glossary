@@ -10,7 +10,7 @@ Text:
 
 A (link: /terms/character-key text: character key) located on a keyboard that removes the currently selected text.
 
-If no text is selected, the Delete key removes the character preceding the (link: /terms/caret text: caret) or (link: /terms/insertion-point text: insertion point). If an image or (link: /terms/picture text: picture) is currently selected, the Delete key will remove the selected item, providing the (link: /terms/application text: application) supports it.
+If no text is selected, the Delete key removes the character preceding the (link: /terms/caret text: caret) or text (link: /terms/insertion-point text: insertion point). If an image or (link: /terms/picture text: picture) is currently selected, the Delete key will remove the selected item, providing the (link: /terms/application text: application) supports it.
 
 Also referred to as the (link: /terms/del-key text: Del Key).
 

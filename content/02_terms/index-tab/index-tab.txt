@@ -1,0 +1,30 @@
+Title: Index Tab
+
+----
+
+Date: 24 August 2025
+
+----
+
+Text:
+
+A (link: /terms/control text: control) that provides a faster method of navigating a long list of (link: /terms/picker text: picker) items by augmenting (link: /terms/scroll-arrow text: scroll arrows) with a series of small, alphabetically labeled (link: /terms/tab text: tabs) displayed along the right edge of a picker.
+
+(link: /terms/tapping text: Tapping) an index tab (link: /terms/scroll text: scrolls) to the items that begin with the first letter displayed on the tab. (link: /terms/double-tapping text: Double-tapping) an index tab scrolls to the items that begin with the second letter of the tab. (link: /terms/triple-tapping text: Triple-tapping) an index tab scrolls to the picker items that begin with the third letter of the tab.
+
+----
+
+Related:
+
+- /terms/container-view
+- /terms/control
+- /terms/folder-tab
+- /terms/picker
+- /terms/tab
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

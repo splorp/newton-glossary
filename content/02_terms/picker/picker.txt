@@ -20,6 +20,7 @@ Related:
 - /terms/button
 - /terms/caret-picker
 - /terms/diamond
+- /terms/index-tab
 - /terms/info-picker
 - /terms/list
 - /terms/new-picker
