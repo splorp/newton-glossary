@@ -8,7 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-The capability of displaying different kinds of data within a single (link: /terms/application text: application). For example, various types of stationery can display a text (link: /terms/note text: note), (link: /terms/checklist text: checklist), (link: /terms/outline text: outline), or (link: /terms/recording text: recording) in the (link: /terms/notepad text: Notepad) application. Stationery also facilitates the viewing of the same data in different ways — such as the “Card” and “All Info” views in the (link: /terms/name-file text: Name File) application.
+The capability of displaying different kinds of data within a single (link: /terms/application text: application). For example, various types of stationery can display a text (link: /terms/note text: note), (link: /terms/checklist text: checklist), (link: /terms/outline text: outline), or (link: /terms/recording text: recording) in the (link: /terms/notepad text: Notepad) application.
+
+Stationery also facilitates the viewing of the same data in different ways — such as the “Card” and “All Info” views in the (link: /terms/name-file text: Name File) application.
 
 Implementing stationery involves writing (link: /terms/data-definition text: data definitions) and (link: /terms/view-definition text: view definitions).
 
