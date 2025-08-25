@@ -1,0 +1,17 @@
+Title: Paragraph Settings
+
+----
+
+Date: 25 August 2025
+
+----
+
+Text:
+
+See: (link: /terms/ruler text: Ruler)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

@@ -8,7 +8,7 @@ Date: 24 August 2025
 
 Text:
 
-A location on a horizontal line used to control the position, indentation, and alignment of text and images in a document. In a (link: /terms/newton-works text: Newton Works) document, a tab stop is usually indicated by a small icon in conjunction with a ruler. Different tab stops can be selected to specify whether text and images are aligned to the left, to the right, centered, or using the decimal point in numeric information.
+A location on a horizontal line used to control the position, indentation, and alignment of text and images in a document. In a (link: /terms/newton-works text: Newton Works) document, a tab stop is usually indicated by a small icon in conjunction with a (link: /terms/ruler text: ruler). Different tab stops can be selected to specify whether text and images are aligned to the left, to the right, centered, or using the decimal point in numeric information.
 
 The (link: /terms/tab-key text: Tab key) located on a keyboard moves the (link: /terms/caret text: caret) or text (link: /terms/insertion-point text: insertion point) from one tab stop to the next.
 
@@ -20,6 +20,7 @@ Related:
 
 - /terms/keyboard
 - /terms/paper
+- /terms/ruler
 - /terms/tab
 - /terms/tab-key
 - /terms/typewriter

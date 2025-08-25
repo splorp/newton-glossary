@@ -21,6 +21,7 @@ Related:
 - /terms/font-style
 - /terms/newton-works
 - /terms/point
+- /terms/ruler
 - /terms/styles
 - /terms/text-run
 - /terms/word-wrap

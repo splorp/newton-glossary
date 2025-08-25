@@ -1,0 +1,32 @@
+Title: Ruler
+
+----
+
+Date: 25 August 2025
+
+----
+
+Text:
+
+A (link: /terms/user-interface text: user interface) element consisting of a linear scale that relates various (link: /terms/paragraph-settings text: paragraph settings). A ruler is generally used when formatting a (link: /terms/word-processing-document text: word processing document), including margins, line spacing, justification, and (link: /terms/tab-stop text: tab stop) settings.
+
+Applications such as (link: /terms/newton-press text: Newton Press) and the word processing component of (link: /terms/newton-works text: Newton Works) both utilize a ruler.
+
+----
+
+Related:
+
+- /terms/newton-press
+- /terms/newton-works
+- /terms/paper
+- /terms/paragraph-settings
+- /terms/style-run
+- /terms/tab-stop
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-works-word-processor
