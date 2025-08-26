@@ -8,11 +8,11 @@ Date: 15 January 2023
 
 Text:
 
-A toolbar interface for the (link: /terms/inkwell text: Ink) handwriting recognition system built into certain versions of Mac OS X. The Ink Bar provided quick access to various (link: /terms/preferences text: preferences) and (link: /terms/modifier-keys text: modifier keys).
+A floating (link: /terms/palette text: palette) or (link: /terms/toolbar text: toolbar) interface for the (link: /terms/inkwell text: Ink) handwriting recognition system built into certain versions of Mac OS X. The Ink Bar provided quick access to various (link: /terms/preferences text: preferences) and (link: /terms/modifier-keys text: modifier keys).
 
 Also referred to as (link: /terms/inkbar text: InkBar), (link: /terms/ink-bar text: Ink Bar), and (link: /terms/ink-toolbar text: Ink Toolbar).
 
-(image: /assets/images/ink-window-jaguar-2x.gif alt: Screenshot of the Ink Window toolbar in Mac OS X Jaguar width: 337)
+(image: /assets/images/ink-window-jaguar-2x.gif alt: Screenshot of the Ink Window palette in Mac OS X Jaguar width: 337)
 
 ----
 
@@ -32,6 +32,7 @@ Related:
 - /terms/ink-window
 - /terms/inkbar
 - /terms/inkwell
+- /terms/toolbar
 - /terms/user-interface
 
 ----

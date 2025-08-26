@@ -1,0 +1,37 @@
+Title: Toolbar
+
+----
+
+Date: 26 August 2025
+
+----
+
+Text:
+
+A (link: /terms/user-interface text: user interface) element consisting of a row of (link: /terms/icon text: icons) representing various tools, (link: /terms/command text: commands), or (link: /terms/action text: actions) associated with an (link: /terms/application text: application).
+
+(link: /terms/tapping text: Tapping) an icon will perform the action or change the mode of operation related to that icon.
+
+Also referred to as a (link: /terms/floating-palette text: floating palette).
+
+----
+
+Related:
+
+- /terms/barkeep
+- /terms/button
+- /terms/button-bar
+- /terms/dash-board
+- /terms/palette
+- /terms/icon
+- /terms/separator-bar
+- /terms/status-bar
+- /terms/tapbar
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/newton-programmers-guide

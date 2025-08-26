@@ -10,6 +10,8 @@ Text:
 
 A small (link: /terms/floating-container-view text: floating container view) that provides (link: /terms/control text: controls) for modifying the contents of other (link: /terms/view text: views). The palette appears on top of other views of the same (link: /terms/application text: application) and remains open for use in all visible views. The user can move the palette using a (link: /terms/drag-handle text: drag handle).
 
+Also referred to as a (link: /terms/toolbar text: toolbar).
+
 ----
 
 Related:
