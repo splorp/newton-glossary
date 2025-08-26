@@ -20,15 +20,9 @@ For example, when a user creates a new entry for an individual in the Name File 
 
 Related:
 
-- /terms/calculations
-- /terms/company
 - /terms/default-title
-- /terms/drawing
-- /terms/group
 - /terms/name-file
 - /terms/newton-works
-- /terms/person
-- /terms/spreadsheet
 - /terms/title-slip
 - /terms/untitled-calculations
 - /terms/untitled-company

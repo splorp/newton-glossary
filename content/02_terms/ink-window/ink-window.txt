@@ -32,6 +32,7 @@ Related:
 - /terms/ink-window
 - /terms/inkbar
 - /terms/inkwell
+- /terms/user-interface
 
 ----
 

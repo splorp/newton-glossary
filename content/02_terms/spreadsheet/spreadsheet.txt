@@ -48,7 +48,6 @@ Related:
 - /terms/quickfigure-works
 - /terms/stationery
 - /terms/title-slip
-- /terms/untitled
 - /terms/untitled-spreadsheet
 - /terms/workbook
 - /terms/worksheet
