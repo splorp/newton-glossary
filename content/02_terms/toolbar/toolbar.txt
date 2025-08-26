@@ -12,7 +12,7 @@ A (link: /terms/user-interface text: user interface) element consisting of a row
 
 (link: /terms/tapping text: Tapping) an icon will perform the action or change the mode of operation related to that icon.
 
-Also referred to as a (link: /terms/floating-palette text: floating palette).
+If a toolbar is constructed as a (link: /terms/floating-container-view text: floating container view), it can also be referred to as a (link: /terms/palette text: palette).
 
 ----
 
@@ -22,12 +22,15 @@ Related:
 - /terms/button
 - /terms/button-bar
 - /terms/dash-board
-- /terms/palette
 - /terms/icon
+- /terms/killbb
+- /terms/palette
+- /terms/ryo
 - /terms/separator-bar
 - /terms/status-bar
 - /terms/tapbar
 - /terms/user-interface
+- /terms/vitamin-a
 
 ----
 

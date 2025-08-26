@@ -26,6 +26,7 @@ Related:
 - /terms/soft-button
 - /terms/status-box
 - /terms/status-slip
+- /terms/toolbar
 - /terms/user-interface
 
 ----

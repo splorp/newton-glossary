@@ -33,6 +33,7 @@ Related:
 - /terms/ryo
 - /terms/soft-button
 - /terms/tapbar
+- /terms/toolbar
 - /terms/user-interface
 
 ----

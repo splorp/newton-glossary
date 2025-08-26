@@ -26,6 +26,7 @@ Related:
 - /terms/folder-button
 - /terms/item-info-button
 - /terms/status-bar
+- /terms/toolbar
 - /terms/user-interface
 
 ----

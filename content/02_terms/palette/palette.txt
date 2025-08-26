@@ -21,6 +21,7 @@ Related:
 - /terms/drag-handle
 - /terms/floating-container-view
 - /terms/floating-palette
+- /terms/toolbar
 - /terms/user-interface
 - /terms/view
 
