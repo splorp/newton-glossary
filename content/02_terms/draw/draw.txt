@@ -1,0 +1,27 @@
+Title: Draw
+
+----
+
+Date: 26 August 2025
+
+----
+
+Text:
+
+The component of the (link: /terms/newton-works text: Newton Works) application that can be used to create (link: /terms/drawing text: drawing) documents.
+
+Also referred to as the (link: /terms/draw-application text: Draw Application).
+
+----
+
+Related:
+
+- /terms/drawing
+- /terms/draw-application
+- /terms/draw-paper
+- /terms/newton-works
+- /terms/untitled-drawing
+
+----
+
+- /sources/newton-programmers-guide

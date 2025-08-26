@@ -1,0 +1,15 @@
+Title: Draw Application
+
+----
+
+Date: 26 August 2025
+
+----
+
+Text:
+
+See: (link: /terms/draw text: Draw)
+
+----
+
+- /sources/newton-programmers-guide

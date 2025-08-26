@@ -29,6 +29,7 @@ Related:
 - /terms/backdrop
 - /terms/calculations
 - /terms/data-entry-mode
+- /terms/draw
 - /terms/drawing
 - /terms/formula
 - /terms/function

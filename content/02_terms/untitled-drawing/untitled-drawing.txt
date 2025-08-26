@@ -17,6 +17,7 @@ A (link: /terms/drawing text: drawing) document created in the (link: /terms/new
 Related:
 
 - /terms/default-title
+- /terms/draw
 - /terms/drawing
 - /terms/newton-works
 - /terms/title-slip

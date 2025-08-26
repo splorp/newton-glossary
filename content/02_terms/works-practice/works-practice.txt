@@ -15,6 +15,7 @@ The built-in (link: /terms/application text: application) which provides an inte
 Related:
 
 - /terms/paper
+- /terms/draw
 - /terms/drawing
 - /terms/newton-works
 - /terms/emate-tour
