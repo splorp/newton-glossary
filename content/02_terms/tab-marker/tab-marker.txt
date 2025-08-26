@@ -1,0 +1,27 @@
+Title: Tab Marker
+
+----
+
+Date: 26 August 2025
+
+----
+
+Text:
+
+A small (link: /terms/icon text: icon) located on a (link: /terms/ruler text: ruler) that indicates the type and position of a (link: /terms/tab stop text: tab stop).
+
+----
+
+Related:
+
+- /terms/paper
+- /terms/ruler
+- /terms/tab
+- /terms/tab-key
+- /terms/tab-stop
+
+----
+
+Source:
+
+- /sources/newton-works-word-processor
