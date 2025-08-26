@@ -18,12 +18,10 @@ Also referred to as a (link: /terms/tab text: Tab).
 
 Related:
 
-- /terms/keyboard
 - /terms/paper
 - /terms/ruler
 - /terms/tab
 - /terms/tab-key
-- /terms/typewriter
 
 ----
 
