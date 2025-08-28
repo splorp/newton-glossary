@@ -18,7 +18,9 @@ Related:
 - /terms/display-area
 - /terms/electroluminescent-panel
 - /terms/indiglo-newton
+- /terms/lava
 - /terms/liquid-crystal-display
 - /terms/screen
+- /terms/silk
 - /terms/sleep
 - /terms/transflective

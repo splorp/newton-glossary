@@ -1,0 +1,20 @@
+Title: Hayes Haugen
+
+----
+
+Date: 28 August 2025
+
+----
+
+Text:
+
+An engineer and game developer based in Seattle, Washington. Haugen was the founder of [Revolutionary Software Front](http://web.archive.org/web/20010201144500/http://revolution.cx/) and developer of software for various mobile computing platforms.
+
+His software for (link: /terms/newton-os text: Newton OS) includes the (link: /terms/lava text: Lava) utility for controlling activation of the (link: /terms/backlight text: backlight) and (link: /terms/lextionary text: Lextionary), arguably the largest English language dictionary for the Newton platform.
+
+----
+
+Resource:
+
+- [LinkedIn: Hayes Haugen](https://www.linkedin.com/in/hayes-haugen-1b52476/)
+- [The Revolutionary Software Front Ancient History Page](http://web.archive.org/web/20010201164400/http://revolution.cx/CompleteListing.htm)

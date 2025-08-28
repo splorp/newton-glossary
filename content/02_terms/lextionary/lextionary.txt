@@ -1,0 +1,31 @@
+Title: Lextionary
+
+----
+
+Date: 28 August 2025
+
+----
+
+Text:
+
+An English language (link: /terms/dictionary text: dictionary) for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/hayes-haugen text: Hayes Haugen). Lexionary contains nearly 120,000 definitions, synonyms, and extensive semantic cross-references. The software was also available for the Pocket PC platform.
+
+(image: /assets/images/lextionary-2x.gif alt: Screenshot of the Lextionary application width: 242)
+
+----
+
+Resource:
+
+- [Hayes Haugen: Lextionary Product Information](http://web.archive.org/web/20060205091647/http://revolution.cx/dictionary.html)
+
+----
+
+Related:
+
+- /terms/dictionary
+
+----
+
+Source:
+
+- /sources/hayes-haugen

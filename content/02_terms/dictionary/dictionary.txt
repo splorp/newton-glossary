@@ -23,6 +23,7 @@ Related:
 - /terms/grammar
 - /terms/handwriting-recognition
 - /terms/lexical-dictionary
+- /terms/lextionary
 - /terms/newton-recognition-architecture
 - /terms/personal-word-list
 - /terms/recently-written-words

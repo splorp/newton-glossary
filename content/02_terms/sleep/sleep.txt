@@ -21,6 +21,7 @@ In the Sleep (link: /terms/slip text: slip), the user can specify the period of 
 Related:
 
 - /terms/backlight
+- /terms/lava
 - /terms/prefs
 - /terms/wake
 
