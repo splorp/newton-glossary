@@ -16,10 +16,12 @@ Related:
 
 - /terms/address
 - /terms/constant
+- /terms/magic-pointer-object
 - /terms/magic-pointers-table
 - /terms/newtonscript
 - /terms/object
 - /terms/pointer
+- /terms/pointer-object
 - /terms/reference
 - /terms/script
 - /terms/system-patch-pages

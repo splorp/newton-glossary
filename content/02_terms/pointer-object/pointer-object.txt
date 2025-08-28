@@ -1,0 +1,17 @@
+Title: Pointer Object
+
+----
+
+Date: 28 August 2025
+
+----
+
+Text:
+
+See: (link: /terms/magic-pointer text: Magic Pointer)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
