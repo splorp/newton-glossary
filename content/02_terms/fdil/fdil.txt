@@ -16,6 +16,17 @@ This code is part of the (link: /terms/desktop-integration-libraries text: Deskt
 
 ----
 
+Resource:
+
+- [The Newted Community: Newton Desktop Integration Libraries Beta 2](https://www.newted.org/download/manuals/DIL_12_Beta.pdf)
+- [The Newted Community: Desktop Integration Libraries 2.0: DIL Interface](https://www.newted.org/download/manuals/DIL_20_Chapter_1_DIL_Interface.pdf)
+- [The Newted Community: Desktop Integration Libraries 2.0: CDIL Interface](https://www.newted.org/download/manuals/DIL_20_Chapter_2_CDIL.pdf)
+- [The Newted Community: Desktop Integration Libraries 2.0: FDIL Interface](https://www.newted.org/download/manuals/DIL_20_Chapter_3_FDIL.pdf)
+- [The Newted Community: Desktop Integration Libraries 2.0: PDIL Interface](https://www.newted.org/download/manuals/DIL_20_Chapter_4_PDIL.pdf)
+- [The Newted Community: DIL 2.0 Release Notes](https://www.newted.org/download/manuals/DIL_20_Release_Notes.pdf)
+
+----
+
 Related:
 
 - /terms/cdil
@@ -28,4 +39,4 @@ Related:
 
 Source:
 
-- /sources/planet-newton
+- /sources/newton-technology-journal
