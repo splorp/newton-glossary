@@ -8,7 +8,7 @@ Date: 19 December 2016
 
 Text:
 
-A (link: /terms/package text: package) developed by (link: /sources/catamount text: Catamount Software) that enhances the activation of the (link: /terms/backlight text: backlight). Silk also provides a (link: /terms/floating-palette text: floating palette) of standard controls on Newton devices equipped with (link: /terms/hard-button text: hard buttons), otherwise known as (link: /terms/silkscreen-button text: silkscreen buttons).
+A (link: /terms/package text: package) developed by (link: /sources/catamount text: Catamount Software) that enhances the activation of the (link: /terms/backlight text: backlight). Silk also provides a (link: /terms/floating-palette text: floating palette) of standard controls on Newton devices equipped with (link: /terms/hard-button text: hard buttons).
 
 ----
 
@@ -21,8 +21,6 @@ Resource:
 Related:
 
 - /terms/backlight
-- /terms/hard-button
-- /terms/silkscreen-button
 - /terms/lava
 
 ----

@@ -14,9 +14,9 @@ Text:
 
 Major releases, updates, and improvements.
 
-Incremental changes are listed in the project’s [commit history](https://github.com/splorp/newton-glossary/commits/master).
+Recently added terms and sources are listed in the (link: /latest text: latest additions).
 
-Recently added terms and sources can be found on the (link: /latest text: Latest Additions) page.
+Incremental changes are listed in the [code commit history](https://github.com/splorp/newton-glossary/commits/master).
 
 ### _$r
 
