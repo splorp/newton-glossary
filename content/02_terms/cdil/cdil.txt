@@ -8,17 +8,17 @@ Date: 24 May 2001
 
 Text:
 
-Communication Desktop Integration Layer
+Communication Desktop Integration Library
 
-A code layer that provides a stream-based interface for exchanging data with Newton devices over a variety of communications services.
+A collection of code written in the C programming language that provides a stream-based interface for exchanging data with Newton devices over a variety of communications services.
 
-This code is part of the (link: /terms/desktop-integration-library text: Desktop Integration Library) ((link: /terms/dil text: DIL)) provided to developers by [Apple](https://www.apple.com/).
+This code is part of the (link: /terms/desktop-integration-libraries text: Desktop Integration Libraries) ((link: /terms/dil text: DIL)) provided to developers by [Apple](https://www.apple.com/).
 
 ----
 
 Related:
 
-- /terms/desktop-integration-library
+- /terms/desktop-integration-libraries
 - /terms/fdil
 - /terms/hlfdil
 - /terms/pdil

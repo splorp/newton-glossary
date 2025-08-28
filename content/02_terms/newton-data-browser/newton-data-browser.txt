@@ -20,7 +20,7 @@ Resource:
 
 Related:
 
-- /terms/desktop-integration-library
+- /terms/desktop-integration-libraries
 - /terms/dil-tester
 - /terms/ndb
 - /terms/ndu

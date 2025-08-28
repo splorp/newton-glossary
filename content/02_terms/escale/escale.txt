@@ -12,7 +12,7 @@ An (link: /terms/application text: application) created by (link: /sources/pual-
 
 Functionality includes (link: /terms/synchronize text: synchronizing) information between a Newton device and the Address Book application, installing (link: /terms/package text: packages), and using a physical keyboard as an (link: /terms/input text: input) peripheral.
 
-Rather than relying on the code found in the (link: /terms/desktop-integration-library text: Desktop Integration Library) provided by [Apple](https://www.apple.com/), Escale utilizes the Desktop Connection Library ((link: /terms/dcl text: DCL)), allowing native integration of the Newton (link: /terms/docking text: docking) protocol over (link: /terms/tcp-ip text: TCP/IP) as well as serial and (link: /terms/appletalk text: AppleTalk) connections.
+Rather than relying on the code found in the (link: /terms/desktop-integration-libraries text: Desktop Integration Libraries) provided by [Apple](https://www.apple.com/), Escale utilizes the Desktop Connection Library ((link: /terms/dcl text: DCL)), allowing native integration of the Newton (link: /terms/docking text: docking) protocol over (link: /terms/tcp-ip text: TCP/IP) as well as serial and (link: /terms/appletalk text: AppleTalk) connections.
 
 
 ----

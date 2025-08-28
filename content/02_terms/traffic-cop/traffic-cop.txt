@@ -8,7 +8,7 @@ Date: 20 August 2025
 
 Text:
 
-Software documented by [Apple](https://www.apple.com/) that purportedly provided serial port arbitration and management of applications utilizing the (link: /terms/desktop-integration-library text: Desktop Integration Library) to connect to Newton devices.
+Software documented by [Apple](https://www.apple.com/) that purportedly provided serial port arbitration and management of applications utilizing the (link: /terms/desktop-integration-libraries text: Desktop Integration Libraries) to connect to Newton devices.
 
 Traffic Cop operated in two modes as either an (link: /terms/application text: application) or (link: /terms/device-driver text: device driver) on a Mac OS or Windows computer.
 
@@ -29,7 +29,7 @@ Resource:
 Related:
 
 - /terms/cdil
-- /terms/desktop-integration-library
+- /terms/desktop-integration-libraries
 - /terms/fdil
 - /terms/hlfdil
 - /terms/pdil

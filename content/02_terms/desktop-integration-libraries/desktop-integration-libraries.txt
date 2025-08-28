@@ -1,4 +1,4 @@
-Title: Desktop Integration Library
+Title: Desktop Integration Libraries
 
 ----
 
@@ -15,6 +15,18 @@ A (link: /terms/dil text: DIL) is a slightly modified version of the code that e
 DILs allow you to connect via communication protocols such as (link: /terms/tcp-ip text: TCP/IP), (link: /terms/irda text: IrDA), (link: /terms/adsp text: ADSP), and (link: /terms/mnp text: MNP) to Mac OS and Windows computers. Specifically, DILs facilitate the encoding and decoding of data via the Newton Streamed Object Format ((link: /terms/nsof text: NSOF)).
 
 (link: /terms/newton-data-browser text: Newton Data Browser) is an example of a DIL-based program.
+
+----
+
+Resource:
+
+- [The Newted Community: Newton Desktop Integration Libraries Beta 2](https://www.newted.org/download/manuals/DIL_12_Beta.pdf)
+- [The Newted Community: Desktop Integration Libraries 2.0: Chapter 1: DIL Interface](https://www.newted.org/download/manuals/DIL_20_Chapter_1_DIL_Interface.pdf)
+- [The Newted Community: Desktop Integration Libraries 2.0: Chapter 2: CDIL Interface](https://www.newted.org/download/manuals/DIL_20_Chapter_2_CDIL.pdf)
+- [The Newted Community: Desktop Integration Libraries 2.0: Chapter 3: FDIL Interface](https://www.newted.org/download/manuals/DIL_20_Chapter_3_FDIL.pdf)
+- [The Newted Community: Desktop Integration Libraries 2.0: Chapter 4: PDIL Interface](https://www.newted.org/download/manuals/DIL_20_Chapter_4_PDIL.pdf)
+- [The Newted Community: DIL 2.0 Release Notes](https://www.newted.org/download/manuals/DIL_20_Release_Notes.pdf)
+- [The Newted Community: Preliminary Traffic Cop Specification](https://www.newted.org/download/manuals/DIL_TCOP.pdf)
 
 ----
 

@@ -133,6 +133,10 @@ Redirects:
   fromuri: /sources/the-simpsons
   touri: /sources/simpsons
   code: _301
+- 
+  fromuri: /terms/desktop-integration-library
+  touri: /terms/desktop-integration-libraries
+  code: _301
 
 ----
 

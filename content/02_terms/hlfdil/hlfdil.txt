@@ -8,18 +8,18 @@ Date: 24 May 2001
 
 Text:
 
-High Level Frame Desktop Integration Layer
+High Level Frame Desktop Integration Library
 
-A code layer responsible for the management of (link: /terms/newtonscript text: NewtonScript) compatible objects, superceded by the Frame Desktop Integration Layer or (link: /terms/fdil text: FDIL).
+A collection of code written in the C programming language responsible for the management of (link: /terms/newtonscript text: NewtonScript) compatible objects, superceded by the Frame Desktop Integration Library or (link: /terms/fdil text: FDIL).
 
-This code is part of the (link: /terms/desktop-integration-library text: Desktop Integration Library) ((link: /terms/dil text: DIL)) provided to developers by [Apple](https://www.apple.com/).
+This code is part of the (link: /terms/desktop-integration-libraries text: Desktop Integration Libraries) ((link: /terms/dil text: DIL)) provided to developers by [Apple](https://www.apple.com/).
 
 ----
 
 Related:
 
 - /terms/cdil
-- /terms/desktop-integration-library
+- /terms/desktop-integration-libraries
 - /terms/fdil
 - /terms/pdil
 - /terms/traffic-cop
