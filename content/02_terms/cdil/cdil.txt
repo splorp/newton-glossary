@@ -10,7 +10,7 @@ Text:
 
 Communication Desktop Integration Library
 
-A collection of code written in the C programming language that provides a stream-based interface for exchanging data with Newton devices over a variety of communications services.
+A collection of code written in the [C](https://en.wikipedia.org/wiki/C_(programming_language)) programming languags that provides a stream-based interface for exchanging data with Newton devices over a variety of communications services.
 
 This code is part of the (link: /terms/desktop-integration-libraries text: Desktop Integration Libraries) ((link: /terms/dil text: DIL)) provided to developers by [Apple](https://www.apple.com/).
 

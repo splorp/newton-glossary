@@ -10,7 +10,7 @@ Text:
 
 Protocol Desktop Integration Library
 
-A collection of code written in the C programming language containing the (link: /terms/protocol text: protocol) used to communicate with the (link: /terms/connection text: Connection) and (link: /terms/dock text: Dock) applications on Newton devices.
+A collection of code written in the [C](https://en.wikipedia.org/wiki/C_(programming_language)) programming language containing the (link: /terms/protocol text: protocol) used to communicate with the (link: /terms/connection text: Connection) and (link: /terms/dock text: Dock) applications on Newton devices.
 
 This code is part of the (link: /terms/desktop-integration-libraries text: Desktop Integration Libraries) ((link: /terms/dil text: DIL)) provided to developers by [Apple](https://www.apple.com/).
 

@@ -10,7 +10,7 @@ Text:
 
 The (link: /terms/operating-system text: operating system) of a Newton device.
 
-Newton OS was written entirely in the C++ programming language, designed with low power consumption and efficient use of memory.
+Newton OS was written entirely in the [C++](https://en.wikipedia.org/wiki/C%2B%2B) programming language, designed with low power consumption and efficient use of memory.
 
 Also referred to as (link: /terms/nos text: NOS).
 

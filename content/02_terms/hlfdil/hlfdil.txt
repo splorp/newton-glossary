@@ -10,7 +10,7 @@ Text:
 
 High Level Frame Desktop Integration Library
 
-A collection of code written in the C programming language responsible for the management of (link: /terms/newtonscript text: NewtonScript) compatible objects, superceded by the Frame Desktop Integration Library or (link: /terms/fdil text: FDIL).
+A collection of code written in the [C](https://en.wikipedia.org/wiki/C_(programming_language)) programming language responsible for the management of (link: /terms/newtonscript text: NewtonScript) compatible objects, superceded by the Frame Desktop Integration Library or (link: /terms/fdil text: FDIL).
 
 This code is part of the (link: /terms/desktop-integration-libraries text: Desktop Integration Libraries) ((link: /terms/dil text: DIL)) provided to developers by [Apple](https://www.apple.com/).
 
