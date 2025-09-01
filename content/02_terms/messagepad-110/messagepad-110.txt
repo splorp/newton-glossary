@@ -38,6 +38,7 @@ Related:
 - /terms/messagepad-130
 - /terms/mp1x0
 - /terms/mp110
+- /terms/newton-messagepad
 - /terms/nmp-110
 
 ----

@@ -35,6 +35,7 @@ Related:
 - /terms/junior
 - /terms/messagepad
 - /terms/mp100
+- /terms/newton-messagepad
 - /terms/nmp-100
 - /terms/original-messagepad
 - /terms/pocket-newton

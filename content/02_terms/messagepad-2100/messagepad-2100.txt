@@ -46,6 +46,7 @@ Related:
 - /terms/newton-aluminum-shell-project
 - /terms/newton-inc
 - /terms/newton-interconnect
+- /terms/newton-messagepad
 - /terms/nmp-2100
 - /terms/q
 - /terms/strongarm

@@ -37,6 +37,7 @@ Related:
 - /terms/messagepad-120
 - /terms/mp1x0
 - /terms/mp130
+- /terms/newton-messagepad
 - /terms/nmp-130
 - /terms/quark
 

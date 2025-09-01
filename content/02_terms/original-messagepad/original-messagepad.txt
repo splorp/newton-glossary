@@ -33,6 +33,7 @@ Related:
 - /terms/junior
 - /terms/messagepad
 - /terms/miniature-multimedia-machine
+- /terms/newton-messagepad
 - /terms/notepad
 - /terms/omp
 - /terms/pocket-newton

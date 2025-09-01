@@ -41,6 +41,7 @@ Related:
 - /terms/mp2000
 - /terms/n2
 - /terms/newton-interconnect
+- /terms/newton-messagepad
 - /terms/nmp-2000
 - /terms/original-messagepad-2000
 - /terms/q

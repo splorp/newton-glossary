@@ -1,0 +1,29 @@
+Title: Newton MessagePad
+
+----
+
+Date: 01 September 2025
+
+----
+
+Text:
+
+The full name used to describe [Apple](https://www.apple.com/) manufactured Newton devices in marketing materials and support documentation.
+
+The devices are more commonly referred to as simply a (link: /terms/messagepad text: MessagePad).
+
+Also known to as an (link: /terms/nmp text: NMP).
+
+----
+
+Related:
+
+- /terms/messagepad
+- /terms/messagepad-100
+- /terms/messagepad-110
+- /terms/messagepad-120
+- /terms/messagepad-130
+- /terms/messagepad-2000
+- /terms/messagepad-2100
+- /terms/nmp
+- /terms/original-messagepad

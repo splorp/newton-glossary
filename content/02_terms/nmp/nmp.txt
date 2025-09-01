@@ -8,12 +8,11 @@ Date: 21 November 2004
 
 Text:
 
-Newton MessagePad
-
-See: (link: /terms/messagepad text: MessagePad)
+See: (link: /terms/newton-messagepad text: Newton MessagePad) and (link: /terms/newton-movie-player text: Newton Movie Player)
 
 ----
 
 Source:
 
 - /sources/apple-history
+- /sources/lee-moon
