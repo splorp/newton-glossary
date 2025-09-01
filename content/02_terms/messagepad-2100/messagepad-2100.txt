@@ -42,6 +42,7 @@ Related:
 - /terms/mp2k1
 - /terms/mp2x00
 - /terms/mp21k
+- /terms/mp2100
 - /terms/n2
 - /terms/newton-aluminum-shell-project
 - /terms/newton-inc
