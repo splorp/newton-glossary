@@ -18,8 +18,6 @@ Related:
 - /terms/messagepad-2000
 - /terms/messagepad-2100
 - /terms/mp1x0
-- /terms/mp2000
-- /terms/mp2100
 
 ----
 

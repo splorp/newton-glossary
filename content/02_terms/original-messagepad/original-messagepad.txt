@@ -32,14 +32,9 @@ Related:
 - /terms/h1000
 - /terms/junior
 - /terms/messagepad
-- /terms/messagepad-100
 - /terms/miniature-multimedia-machine
-- /terms/mp100
-- /terms/nmp
 - /terms/notepad
 - /terms/omp
-- /terms/omp2k
-- /terms/original-messagepad-2000
 - /terms/pocket-newton
 - /terms/wedge
 

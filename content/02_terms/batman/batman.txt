@@ -29,7 +29,6 @@ Related:
 - /terms/h1000
 - /terms/junior
 - /terms/messagepad
-- /terms/omp
 - /terms/original-messagepad
 - /terms/pocket-newton
 - /terms/wedge

@@ -21,11 +21,8 @@ Related:
 - /terms/messagepad-2100
 - /terms/mp2k
 - /terms/mp2ku
-- /terms/mp2000
 - /terms/mp2000-plus
 - /terms/mp2000u
-- /terms/mp2100
-- /terms/omp2k
 - /terms/ump2k
 
 ----

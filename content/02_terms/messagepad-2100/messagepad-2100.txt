@@ -49,7 +49,6 @@ Related:
 - /terms/nmp-2100
 - /terms/q
 - /terms/strongarm
-- /terms/ump
 - /terms/voyager
 
 ----
