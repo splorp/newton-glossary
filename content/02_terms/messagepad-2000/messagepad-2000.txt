@@ -28,7 +28,7 @@ Resource:
 
 Related:
 
-- /terms/01-2k
+- /terms/2k
 - /terms/backlight
 - /terms/backlit
 - /terms/dongle

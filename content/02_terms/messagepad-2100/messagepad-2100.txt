@@ -27,8 +27,8 @@ Resource:
 
 Related:
 
-- /terms/01-2k1
-- /terms/01-21k
+- /terms/2k1
+- /terms/21k
 - /terms/andante
 - /terms/backlight
 - /terms/backlit
