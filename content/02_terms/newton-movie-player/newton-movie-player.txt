@@ -1,0 +1,38 @@
+Title: Newton Movie Player
+
+----
+
+Date: 01 September 2025
+
+----
+
+Text:
+
+(link: /terms/newton-toolkit text: Newton Toolkit) code developed by (link: /sources/lee-moon text: Lee Moon) for creating (link: /terms/application text: applications) that play a series of animated frames on a Newton device.
+
+The Newton Movie Player was later extended by (link: /terms/brad-tober text: Brad Tober) to play an audio track along with the sequential images, mimicking a video.
+
+(image: /assets/images/newton-movie-player-2x.gif alt: Screenshot of Newton Movie Player width: 200)
+
+Also referred to as (link: /terms/nmp text: NMP).
+
+----
+
+Resource:
+
+- [Brad Tober: Newton Movie Player](https://www.bradtober.com/newton/nmp.html)
+- [GitHub: Experimental Interface Lab: Newton Movie Player 2.0](https://newted.org/resources/nanocad/)
+- [UNNA: Newton Movie Player 0.91](http://www.unna.org/view.php?/utilites/graphics-movies/NewtonMoviePlayer0.91Demo)
+
+----
+
+Related:
+
+- /terms/nmp
+
+----
+
+Source:
+
+- /sources/brad-tober
+- /sources/lee-moon

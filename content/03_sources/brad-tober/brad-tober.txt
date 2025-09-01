@@ -1,0 +1,20 @@
+Title: Brad Tober
+
+----
+
+Date: 01 September 2025
+
+----
+
+Text:
+
+A multidisciplinary design professional involved in AI, product strategy, and experience architecture. Tober was instrumental in extending the functionality of the (link: /terms/newton-movie-player text: Newton Movie Player) code originally developed by (link: /sources/lee-moon text: Lee Moon).
+
+----
+
+Resource:
+
+- [Brad Tober Website](https://www.bradtober.com/)
+- [Brad Tober: Newton Media System](https://www.bradtober.com/newton/)
+- [GitHub: Brad Tober](https://github.com/btober)
+- [GitHub: Experimental Interface Lab: Newton Movie Player 2.0](https://newted.org/resources/nanocad/)
