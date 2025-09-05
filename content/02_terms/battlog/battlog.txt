@@ -1,14 +1,21 @@
-Title: Recelled
+Title: BattLog
 
 ----
 
-Date: 21 November 2004
+Date: 05 September 2025
 
 ----
 
 Text:
 
-The status of a (link: /terms/battery-pack text: battery pack) which has had nonfunctioning rechargeable (link: /terms/cell text: cells) replaced with new cells.
+An (link: /terms/application text: application) developed by (link: /sources/frank-grundel text: Frank Gründel) that monitors and tests the performance of rechargeable batteries in a Newton device.
+
+----
+
+Resource:
+
+- [PDA-Soft: BattLog](https://www.pda-soft.de/battlog.html) (English)
+- [PDA-Soft: BattLog](https://www.pda-soft.de/ge_battlog.html) (Deutsche)
 
 ----
 
@@ -18,7 +25,6 @@ Related:
 - /terms/battery-gauge
 - /terms/battery-pack
 - /terms/battery-tray
-- /terms/battlog
 - /terms/cell
 - /terms/charge-state
 - /terms/charged
@@ -29,12 +35,17 @@ Related:
 - /terms/discharging
 - /terms/fast-charging
 - /terms/long-term-storage
+- /terms/mah
 - /terms/memory-effect
+- /terms/newttest
 - /terms/nicd
 - /terms/nimh
+- /terms/not-charging
+- /terms/ntdg
 - /terms/polyswitch
 - /terms/preliminary-charging
 - /terms/recell
+- /terms/recelled
 - /terms/receller
 - /terms/rhythm-method
 - /terms/rmp
@@ -45,4 +56,4 @@ Related:
 
 Source:
 
-- /sources/christian-burk
+- /sources/frank-grundel

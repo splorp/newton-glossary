@@ -24,6 +24,7 @@ Related:
 - /terms/battery-gauge
 - /terms/battery-latch
 - /terms/battery-pack
+- /terms/battlog
 - /terms/battery-sled
 - /terms/cage
 - /terms/cell

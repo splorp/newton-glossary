@@ -21,6 +21,7 @@ Related:
 - /terms/battery-gauge
 - /terms/battery-pack
 - /terms/battery-tray
+- /terms/battlog
 - /terms/cell
 - /terms/charge-state
 - /terms/charged

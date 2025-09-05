@@ -24,6 +24,7 @@ Related:
 - /terms/battery-level-indicator
 - /terms/battery-pack
 - /terms/battery-tray
+- /terms/battlog
 - /terms/cell
 - /terms/charge-state
 - /terms/charged

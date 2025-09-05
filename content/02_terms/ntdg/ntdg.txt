@@ -1,0 +1,31 @@
+Title: NTDG
+
+----
+
+Date: 02 September 2025
+
+----
+
+Text:
+
+NewtonTalk Development Group
+
+A project originally coordinated by Max Bonilla through the (link: /terms/NewtonTalk text: NewtonTalk) mailing list. Formed in September 1998, the group hoped to encourage and support the development of software and other projects for the Newton community.
+
+One of the first NTDG projects was beta testing a (link: /terms/battery text: battery) monitoring (link: /terms/package text: package) created by (link: /sources/frank-grundel text: Frank Gründel) called (link: /terms/battlog text: BattLog).
+
+At one time, the group also maintained an archive of source code from (link: /sources/lee-moon text: Lee Moon).
+
+----
+
+Related:
+
+- /terms/battlog
+- /terms/newtontalk
+
+----
+
+Source:
+
+- /sources/planet-newton
+- /sources/newtontalk
