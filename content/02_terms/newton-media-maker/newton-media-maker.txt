@@ -1,0 +1,36 @@
+Title: Newton Media Maker
+
+----
+
+Date: 05 September 2025
+
+----
+
+Text:
+
+An unreleased (link: /terms/application text: application) for (link: /terms/newton-os text: Newton OS) developed by (link: /terms/brad-tober text: Brad Tober) that facilitates the conversion and creation of media files for use with (link: /terms/newton-movie-player text: Newton Movie Player) and (link: /terms/newton-audio-player text: Newton Audio Player).
+
+Newton Media Maker is part of the suite of multimedia technologies known as the (link: /terms/newton-media-system text: Newton Media System).
+
+Also referred to as (link: /terms/nmm text: NMM).
+
+----
+
+Resource:
+
+- [Brad Tober: Newton Media System](https://www.bradtober.com/newton/)
+
+----
+
+Related:
+
+- /terms/newton-audio-player
+- /terms/newton-media-system
+- /terms/newton-movie-player
+- /terms/nmm
+
+----
+
+Source:
+
+- /sources/brad-tober

@@ -1,0 +1,37 @@
+Title: Newton Media System
+
+----
+
+Date: 05 September 2025
+
+----
+
+Text:
+
+A suite of multimedia technologies for (link: /terms/newton-os text: Newton OS) developed by (link: /terms/brad-tober text: Brad Tober), based on the work of (link: /terms/lee-moon text: Lee Moon).
+
+The system includes (link: /terms/newton-movie-player text: Newton Movie Player) for playback of self-contained, animated images with accompanying audio, (link: /terms/newton-audio-player text: Newton Audio Player) for playback of self-contained audio files, and the unreleased (link: /terms/newton-media-maker text: Newton Media Maker) for creation of movie or audio files for use with the player (link: /terms/application text: applications).
+
+Also referred to as (link: /terms/nms text: NMS).
+
+----
+
+Resource:
+
+- [Brad Tober: Newton Media System](https://www.bradtober.com/newton/)
+
+----
+
+Related:
+
+- /terms/newton-audio-player
+- /terms/newton-media-maker
+- /terms/newton-movie-player
+- /terms/nms
+
+----
+
+Source:
+
+- /sources/brad-tober
+- /sources/lee-moon

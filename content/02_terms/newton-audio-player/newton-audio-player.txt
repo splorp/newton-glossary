@@ -1,0 +1,36 @@
+Title: Newton Audio Player
+
+----
+
+Date: 05 September 2025
+
+----
+
+Text:
+
+Software developed by (link: /terms/brad-tober text: Brad Tober) that allows playback of self-contained audio files on a Newton device. Newton Audio Player and (link: /terms/newton-movie-player text: Newton Movie Player) are based on the same underlying software known as the (link: /terms/newton-media-system text: Newton Media System).
+
+(image: /assets/images/newton-audio-player-2x.gif alt: Screenshot of Newton Audio Player width: 216)
+
+Also referred to as (link: /terms/nmp text: NAP).
+
+----
+
+Resource:
+
+- [Brad Tober: Newton Audio Player](https://www.bradtober.com/newton/nap.html)
+
+----
+
+Related:
+
+- /terms/nap
+- /terms/newton-media-maker
+- /terms/newton-media-system
+- /terms/newton-movie-player
+
+----
+
+Source:
+
+- /sources/brad-tober

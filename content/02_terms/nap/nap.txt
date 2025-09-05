@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: (link: /terms/newton-associates-program text: Newton Associates Program)
+See: (link: /terms/newton-associates-program text: Newton Associates Program) and (link: /terms/newton-audio-player text: Newton Audio Player)
