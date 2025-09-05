@@ -8,7 +8,7 @@ Date: 30 October 2001
 
 Text:
 
-The user manual for	(link: /terms/nethopper text: NetHopper), the first commercial web browser for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/allpen text: AllPen Software). The _NetHopper Version 3.0 User’s Manual_ can be found on the [eMate 300 Connectivity CD](https://web.archive.org/web/20020219100134/http://karchive.info.apple.com/article.html?artnum=38001).
+The user manual for (link: /terms/nethopper text: NetHopper), the first commercial web browser for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/allpen text: AllPen Software). The _NetHopper Version 3.0 User’s Manual_ can be found on the [eMate 300 Connectivity CD](https://web.archive.org/web/20020219100134/http://karchive.info.apple.com/article.html?artnum=38001).
 
 ----
 
