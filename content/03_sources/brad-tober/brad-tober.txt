@@ -17,4 +17,4 @@ Resource:
 - [Brad Tober Website](https://www.bradtober.com/)
 - [Brad Tober: Newton Media System](https://www.bradtober.com/newton/)
 - [GitHub: Brad Tober](https://github.com/btober)
-- [GitHub: Experimental Interface Lab: Newton Movie Player 2.0](https://newted.org/resources/nanocad/)
+- [GitHub: Experimental Interface Lab: Newton Movie Player 2.0](https://github.com/experimental-interface-lab/newtonmovieplayer)
