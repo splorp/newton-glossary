@@ -22,7 +22,6 @@ Resource:
 Related:
 
 - /terms/calligrapher
-- /terms/cursive
 - /terms/cursive-recognizer
 - /terms/eat-up-martha
 - /terms/egg-freckles

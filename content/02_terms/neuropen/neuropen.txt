@@ -21,7 +21,6 @@ Resource:
 Related:
 
 - /terms/calligrapher
-- /terms/cursive
 - /terms/cursive-recognizer
 - /terms/eat-up-martha
 - /terms/egg-freckles
@@ -31,7 +30,6 @@ Related:
 - /terms/mondello
 - /terms/newton-recognition-architecture
 - /terms/print-recognizer
-- /terms/printing
 - /terms/recognized-text
 - /terms/rosetta
 - /terms/rosetta-stone

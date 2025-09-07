@@ -30,7 +30,6 @@ Related:
 - /terms/mondello
 - /terms/neuropen
 - /terms/print-recognizer
-- /terms/printing
 - /terms/recognized-text
 - /terms/rosetta
 - /terms/rosetta-stone

@@ -15,7 +15,6 @@ A (link: /terms/handwriting-recognition text: handwriting recognition) setting w
 Related:
 
 - /terms/calligrapher
-- /terms/cursive
 - /terms/cursive-recognizer
 - /terms/dictionary
 - /terms/handwriting-recognition

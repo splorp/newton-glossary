@@ -22,7 +22,6 @@ Related:
 - /terms/corrector
 - /terms/corrector-button
 - /terms/corrector-view
-- /terms/cursive
 - /terms/cursive-recognizer
 - /terms/handwriting-recognition
 - /terms/letter-by-letter

@@ -15,7 +15,6 @@ A setting which helps improve (link: /terms/handwriting-recognition text: handwr
 Related:
 
 - /terms/calligrapher
-- /terms/cursive
 - /terms/cursive-recognizer
 - /terms/handwriting-recognition
 - /terms/letter-by-letter
