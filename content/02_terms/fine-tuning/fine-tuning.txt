@@ -1,0 +1,29 @@
+Title: Fine Tuning
+
+----
+
+Date: 05 September 2025
+
+----
+
+Text:
+
+A (link: /terms/handwriting-recognition text: handwriting recognition) option which adjusts how fast (link: /terms/newton-os text: Newton OS) will transform handwriting into (link: /terms/recognized-text text: recognized text).
+
+(image: /assets/images/fine-tuning-2x.gif alt: Screenshot of the Fine Tuning slip width: 240)
+
+----
+
+Related:
+
+- /terms/handwriting-recognition
+- /terms/letter-shapes
+- /terms/letter-by-letter
+- /terms/try-letters
+- /terms/recognized-text
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

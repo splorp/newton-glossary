@@ -17,6 +17,7 @@ Related:
 - /terms/calligrapher
 - /terms/cursive-recognizer
 - /terms/dictionary
+- /terms/fine-tuning
 - /terms/handwriting-recognition
 - /terms/letter-shapes
 - /terms/try-letters
