@@ -8,7 +8,7 @@ Date: 07 September 2017
 
 Text:
 
-Another name for the cursive (or connected) recognizer according to the (link: /sources/catamount text: Catamount Software) handwriting tips page. Likely in reference to (link: /sources/paragraph text: ParaGraph International), the company who created the (link: /terms/calligrapher text: CalliGrapher) handwriting recognition engine.
+Another name for the (link: /terms/cursive text: cursive) (or connected) recognizer according to the (link: /sources/catamount text: Catamount Software) handwriting tips page. Likely in reference to (link: /sources/paragraph text: ParaGraph International), the company who created the (link: /terms/calligrapher text: CalliGrapher) handwriting recognition engine.
 
 ----
 

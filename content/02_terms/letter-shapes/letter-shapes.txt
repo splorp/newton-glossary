@@ -8,7 +8,7 @@ Date: 07 November 2017
 
 Text:
 
-A setting which helps improve (link: /terms/handwriting-recognition text: handwriting recognition) by allowing the user to indicate which (link: /terms/character text: character) shapes are more common or seldom used when entering (link: /terms/cursive text: cursive) text.
+A (link: /terms/handwriting-recognition text: handwriting recognition) option which helps improve recognition by allowing the user to indicate which (link: /terms/character text: character) shapes are more common or seldom used when entering (link: /terms/cursive text: cursive) text.
 
 ----
 
