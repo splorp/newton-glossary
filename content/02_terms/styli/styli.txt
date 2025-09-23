@@ -18,7 +18,6 @@ Related:
 - /terms/pen
 - /terms/pen-holder
 - /terms/pen-tray
-- /terms/stylus
 
 ----
 
