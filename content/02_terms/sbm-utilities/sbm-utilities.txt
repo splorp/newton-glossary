@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A suite of (link: /terms/newton-os text: Newton OS) diagnostic and repair tools created by (link: /sources/softwareburo-muller text: Softwarebüro Müller).
+A suite of (link: /terms/newton-os text: Newton OS) diagnostic and repair tools developed by (link: /sources/softwareburo-muller text: Softwarebüro Müller).
 
 (image: /assets/images/sbm-utilities-2x.gif alt: Screenshot of SBM Utilities width: 240)
 

@@ -8,7 +8,7 @@ Date: 25 October 2017
 
 Text:
 
-A collection of multi-platform C++ class libraries created by (link: /sources/paul-guyot text: Paul Guyot), [Nicolas Zinovieff](https://github.com/krugazor), and [Michael Vacík](https://www.linkedin.com/in/mvacik). The (link: /terms/k text: K) libraries support the (link: /terms/dcl text: DCL), handling various functions that include (link: /terms/unicode text: Unicode) conversion, 64-bit math operations, and (link: /terms/newton-os text: Newton OS) specific DES encryption.
+A collection of multi-platform C++ class libraries developed by (link: /sources/paul-guyot text: Paul Guyot), [Nicolas Zinovieff](https://github.com/krugazor), and [Michael Vacík](https://www.linkedin.com/in/mvacik). The (link: /terms/k text: K) libraries support the (link: /terms/dcl text: DCL), handling various functions that include (link: /terms/unicode text: Unicode) conversion, 64-bit math operations, and (link: /terms/newton-os text: Newton OS) specific DES encryption.
 
 ----
 

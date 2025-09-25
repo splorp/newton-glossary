@@ -8,7 +8,7 @@ Date: 17 December 2024
 
 Text:
 
-A utility developed by (link: /sources/michael-vacik text: Michael Vacík) that sets the correct file type and creator for Newton (link: /terms/package text: packages) when used on a Mac OS X computer.
+Software developed by (link: /sources/michael-vacik text: Michael Vacík) that sets the correct file type and creator for Newton (link: /terms/package text: packages) when used on a Mac OS X computer.
 
 By default, any file with a `.pkg` (link: /terms/filename-extension text: filename extension) associates that file with the Mac OS X installer (link: /terms/application text: application). Packager processes a (link: /terms/package-file text: package file) so it is correctly recognized with an appropriate application such as (link: /terms/newton-connection-utilities text: Newton Connection Utilites) or (link: /terms/newten text: NewTen).
 

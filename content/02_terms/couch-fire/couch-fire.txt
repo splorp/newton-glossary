@@ -8,7 +8,7 @@ Date: 10 October 2024
 
 Text:
 
-An (link: /terms/application text: application) developed by [Tempest Productions](https://web.archive.org/web/19981203163832/http://tempestprod.com/) that allowed users to view television listings and program details directly on their Newton device.
+Software developed by [Tempest Productions](https://web.archive.org/web/19981203163832/http://tempestprod.com/) that allowed users to view television listings and program details directly on their Newton device.
 
 (image: /assets/images/couch-fire-2x.gif alt: Screenshot of Couch Fire width: 322)
 

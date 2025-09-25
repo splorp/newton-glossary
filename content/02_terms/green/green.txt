@@ -8,7 +8,7 @@ Date: 18 April 2024
 
 Text:
 
-A self-described "meta-project" created by (link: /sources/steven-frank text: Steven Frank) to explore (link: /terms/newton-os text: Newton OS) software and hardware through simple emulation. The primary goal of Green was to help understand and document the way that the (link: /terms/einstein text: Einstein) emulator behaved, then using that information to hopefully help contribute to the existing open source project.
+A self-described "meta-project" developed by (link: /sources/steven-frank text: Steven Frank) to explore (link: /terms/newton-os text: Newton OS) software and hardware through simple emulation. The primary goal of Green was to help understand and document the way that the (link: /terms/einstein text: Einstein) emulator behaved, then using that information to hopefully help contribute to the existing open source project.
 
 ----
 

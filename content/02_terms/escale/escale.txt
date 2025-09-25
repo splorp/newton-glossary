@@ -8,7 +8,7 @@ Date: 02 December 2024
 
 Text:
 
-An (link: /terms/application text: application) created by (link: /sources/pual-guyot text: Paul Guyot) that replicates functionality found in Apple’s (link: /terms/newton-connection-utilities text: Newton Connection Utilities) (NCU) for computers running the Mac OS X.
+Software developed by (link: /sources/paul-guyot text: Paul Guyot) that replicates functionality found in Apple’s (link: /terms/newton-connection-utilities text: Newton Connection Utilities) (NCU) for computers running the Mac OS X.
 
 Functionality includes (link: /terms/synchronize text: synchronizing) information between a Newton device and the Address Book application, installing (link: /terms/package text: packages), and using a physical keyboard as an (link: /terms/input text: input) peripheral.
 

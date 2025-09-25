@@ -8,7 +8,7 @@ Date: 16 January 2017
 
 Text:
 
-A command line utility for Unix (link: /terms/operating-system text: operating systems) that allows the user to install (link: /terms/package text: packages) on a Newton device over a serial connection. UnixNPI was originally created by (link: /sources/richard-li text: Richard Li) and is currently maintained by (link: /sources/victor-rehorst text: Victor Rehorst).
+A command line utility for Unix (link: /terms/operating-system text: operating systems) that allows the user to install (link: /terms/package text: packages) on a Newton device over a serial connection. UnixNPI was originally developed by (link: /sources/richard-li text: Richard Li) and is currently maintained by (link: /sources/victor-rehorst text: Victor Rehorst).
 
 (link: /terms/newten text: NewTen) is a version of UnixNPI that has been wrapped in a (link: /terms/graphical-user-interface text: graphical user interface) for Mac OS X.
 

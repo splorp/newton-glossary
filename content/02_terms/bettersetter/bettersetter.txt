@@ -8,7 +8,7 @@ Date: 10 July 2024
 
 Text:
 
-An (link: /terms/application text: application) developed by (link: /sources/frank-grundel text: Frank Gründel) that provides an alternative (link: /terms/user-interface text: user interface) for setting the time. BetterSetter replaces the analog clock interface found in (link: /terms/newton-os text: Newton OS) 1.x with a more intuitive (link: /terms/number-picker text: number picker).
+Software developed by (link: /sources/frank-grundel text: Frank Gründel) that provides an alternative (link: /terms/user-interface text: user interface) for setting the time. BetterSetter replaces the analog clock interface found in (link: /terms/newton-os text: Newton OS) 1.x with a more intuitive (link: /terms/number-picker text: number picker).
 
 (image: /assets/images/bettersetter-2x.gif alt: Screenshot of the BetterSetter application width: 186)
 

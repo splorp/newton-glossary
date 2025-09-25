@@ -8,7 +8,7 @@ Date: 05 November 2017
 
 Text:
 
-An online utility created by (link: /sources/victor-rehorst text: Victor Rehorst) that takes a [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) (NES) (link: /terms/rom text: ROM) image and creates a (link: /terms/package text: package) that can be used with the (link: /terms/newtendo text: Newtendo) emulator. The NES Packager is based on the (link: /terms/dcl text: DCL) communication framework.
+An online utility developed by (link: /sources/victor-rehorst text: Victor Rehorst) that takes a [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) (NES) (link: /terms/rom text: ROM) image and creates a (link: /terms/package text: package) that can be used with the (link: /terms/newtendo text: Newtendo) emulator. The NES Packager is based on the (link: /terms/dcl text: DCL) communication framework.
 
 ----
 

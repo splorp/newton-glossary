@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A desktop (link: /terms/application text: application) created by Thomas Tempelmann that allows the user to retrieve and edit data located on a Newton device. Also known variously as (link: /terms/dil-tester text: DIL Tester), (link: /terms/newton-dil-tester text: Newton DIL Tester), (link: /terms/newton-desktop-utility text: Newton Desktop Utility), (link: /terms/ndb text: NDB), and (link: /terms/ndu text: NDU).
+A desktop (link: /terms/application text: application) developed by Thomas Tempelmann that allows the user to retrieve and edit data located on a Newton device. Also known variously as (link: /terms/dil-tester text: DIL Tester), (link: /terms/newton-dil-tester text: Newton DIL Tester), (link: /terms/newton-desktop-utility text: Newton Desktop Utility), (link: /terms/ndb text: NDB), and (link: /terms/ndu text: NDU).
 
 ----
 

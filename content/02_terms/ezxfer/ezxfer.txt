@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A software utility by (link: /sources/ezshow-systems text: EZShow Systems) which facilitates the transfer of [Microsoft PowerPoint 97](https://en.wikipedia.org/wiki/Microsoft_PowerPoint) slides from a Windows computer to a Newton device. PowerPoint slides are converted to a (link: /terms/package-file text: package file) which can be transferred to a Newton device for use with the (link: /terms/ezpresenter text: EZPresenter) presentation software.
+Software developed by (link: /sources/ezshow-systems text: EZShow Systems) which facilitates the transfer of [Microsoft PowerPoint 97](https://en.wikipedia.org/wiki/Microsoft_PowerPoint) slides from a Windows computer to a Newton device. PowerPoint slides are converted to a (link: /terms/package-file text: package file) which can be transferred to a Newton device for use with the (link: /terms/ezpresenter text: EZPresenter) presentation software.
 
 ----
 

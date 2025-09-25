@@ -10,7 +10,7 @@ Text:
 
 Zig Desktop Connection Library
 
-A communication framework created by (link: /sources/eckhart-koppen text: Eckhart Köppen) written in the [Zig](https://ziglang.org/) programming language. Taking a cue from the earlier (link: /terms/dcl text: DCL), ZDCL was designed to connect to and interact with data stored on devices running (link: /terms/newton-os text: Newton OS) 2.0 and later via the built-in (link: /terms/docking text: docking) protocol, encoding and decoding (link: /terms/nsof text: NSOF) data. Connections are usually performed using a serial connection, but higher level (link: /terms/protocol text: protocol) layers can also run over other connection methods such as (link: /terms/tcp-ip text: TCP/IP).
+A communication framework developed by (link: /sources/eckhart-koppen text: Eckhart Köppen) written in the [Zig](https://ziglang.org/) programming language. Taking a cue from the earlier (link: /terms/dcl text: DCL), ZDCL was designed to connect to and interact with data stored on devices running (link: /terms/newton-os text: Newton OS) 2.0 and later via the built-in (link: /terms/docking text: docking) protocol, encoding and decoding (link: /terms/nsof text: NSOF) data. Connections are usually performed using a serial connection, but higher level (link: /terms/protocol text: protocol) layers can also run over other connection methods such as (link: /terms/tcp-ip text: TCP/IP).
 
 ----
 

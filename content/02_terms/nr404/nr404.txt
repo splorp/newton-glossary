@@ -8,7 +8,7 @@ Date: 05 January 2024
 
 Text:
 
-A drum machine and beatbox (link: /terms/application text: application) created by Steve Cronin and [Francis Preve](https://www.francispreve.com/). NR404 includes thirteen percussive instrument (link: /terms/sample text: samples) which can be assigned to one of four tracks, each with its own (link: /terms/volume text: volume) control. There are also settings for the time signature, numbers of measures, and tempo.
+A drum machine and beatbox (link: /terms/application text: application) developed by Steve Cronin and [Francis Preve](https://www.francispreve.com/). NR404 includes thirteen percussive instrument (link: /terms/sample text: samples) which can be assigned to one of four tracks, each with its own (link: /terms/volume text: volume) control. There are also settings for the time signature, numbers of measures, and tempo.
 
 (image: /assets/images/nr404-2x.gif alt: Screenshot of NR404 width: 320)
 

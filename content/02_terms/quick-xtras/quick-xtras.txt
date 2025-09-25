@@ -8,7 +8,7 @@ Date: 31 January 2025
 
 Text:
 
-An (link: /terms/extension text: extension) created by (link: /sources/jeremy-wyld text: Jeremy Wyld) that provides a small floating (link: /terms/button text: button) positioned just above the (link: /terms/silkscreen-button text: silkscreen buttons) on certain Newton devices. When the button is (link: /terms/tapped text: tapped), a (link: /terms/picker text: picker) is displayed listing the (link: /terms/folder text: folders) in the (link: /terms/extras-drawer text: Extras Drawer) as well as any (link: /terms/applications text: applications) in the currently selected folder.
+An (link: /terms/extension text: extension) developed by (link: /sources/jeremy-wyld text: Jeremy Wyld) that provides a small floating (link: /terms/button text: button) positioned just above the (link: /terms/silkscreen-button text: silkscreen buttons) on certain Newton devices. When the button is (link: /terms/tapped text: tapped), a (link: /terms/picker text: picker) is displayed listing the (link: /terms/folder text: folders) in the (link: /terms/extras-drawer text: Extras Drawer) as well as any (link: /terms/applications text: applications) in the currently selected folder.
 
 Quick Xtras will only run on devices running Newton OS 2.0 with a (link: /terms/screen text: screen) resolution of 320x240, such as the (link: /terms/messagepad-120 text: MessagePad 120) and (link: /terms/messagepad-130 text: MessagePad 130).
 

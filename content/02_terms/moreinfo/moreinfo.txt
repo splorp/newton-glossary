@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-An information management (link: /terms/application text: application) created by [Silverware Software](https://www.silverwaresoftware.com/) which seamlessly extends the built-in (link: /terms/date-book text: Date Book) and (link: /terms/name-file text: Name File) applications.
+An information management (link: /terms/application text: application) developed by [Silverware Software](https://www.silverwaresoftware.com/) which seamlessly extends the built-in (link: /terms/date-book text: Date Book) and (link: /terms/name-file text: Name File) applications.
 
 Also referred to as (link: /terms/mi text: MI).
 

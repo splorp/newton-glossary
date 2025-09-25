@@ -10,7 +10,7 @@ Text:
 
 Newt Application Tutorial
 
-A interactive (link: /terms/newton-book text: Newton book) created by (link: /sources/steve-weyer text: Steve Weyer) that describes how to develop a simple (link: /terms/application text: applications) directly on a Newton device using (link: /terms/newtonscript text: NewtonScript) and the (link: /terms/newtdevenv text: NewtDevEnv) application development framework.
+A interactive (link: /terms/newton-book text: Newton book) developed by (link: /sources/steve-weyer text: Steve Weyer) that describes how to develop a simple (link: /terms/application text: applications) directly on a Newton device using (link: /terms/newtonscript text: NewtonScript) and the (link: /terms/newtdevenv text: NewtDevEnv) application development framework.
 
 NewtATut is based on an article that first appeared in (link: /terms/pie-developers text: PIE Developers) magazine.
 

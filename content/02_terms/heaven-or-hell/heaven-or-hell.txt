@@ -8,7 +8,7 @@ Date: 05 January 2025
 
 Text:
 
-A utility by Yosuke “Basuke” Suzuki that addresses the annoying -10061 error that occurs on certain Newton devices with a large number of installed (link: /terms/package text: packages). Heaven or Hell proactively checks for invalid (link: /terms/address text: addresses) in the (link: /terms/virtual-memory text: virtual memory) manager.
+Software developed by Yosuke “Basuke” Suzuki that addresses the annoying -10061 error that occurs on certain Newton devices with a large number of installed (link: /terms/package text: packages). Heaven or Hell proactively checks for invalid (link: /terms/address text: addresses) in the (link: /terms/virtual-memory text: virtual memory) manager.
 
 (image: /assets/images/heaven-or-hell-2x.gif alt: Screenshot of the Heaven or Hell window width: 176)
 

@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-An (link: /terms/application text: application) developed by (link: /sources/revelar text: Revelar) that allows the user to manipulate (link: /terms/notepad text: Notepad) data on a Newton device using a (link: /terms/desktop-computer text: desktop computer) or (link: /terms/laptop-computer text: laptop).
+Software developed by (link: /sources/revelar text: Revelar) that allows the user to manipulate (link: /terms/notepad text: Notepad) data on a Newton device using a (link: /terms/desktop-computer text: desktop computer) or (link: /terms/laptop-computer text: laptop).
 
 ----
 

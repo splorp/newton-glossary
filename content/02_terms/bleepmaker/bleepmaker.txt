@@ -8,7 +8,7 @@ Date: 13 January 2025
 
 Text:
 
-An (link: /terms/application text: application) for creating and editing sounds on a Newton device developed by (link: /sources/makoto-kisanuki text: Makoto Kisanuki). BleepMaker utilizes a frequency modulation (FM) generator that synthesizes sounds by combining individual tones. A sound can be exported and used as an (link: /terms/alert-sound text: alert sound). Parameters for sounds can also be exported as hexadecimal data for viewing in the (link: /terms/Inspector text: Inspector).
+Software developed by (link: /sources/makoto-kisanuki text: Makoto Kisanuki) for creating and editing sounds on a Newton device. BleepMaker utilizes a frequency modulation (FM) generator that synthesizes sounds by combining individual tones. A sound can be exported and used as an (link: /terms/alert-sound text: alert sound). Parameters for sounds can also be exported as hexadecimal data for viewing in the (link: /terms/Inspector text: Inspector).
 
 (image: /assets/images/bleepmaker-2x.gif alt: Screenshot of BleepMaker 2.0 width: 319)
 

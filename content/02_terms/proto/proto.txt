@@ -12,7 +12,7 @@ In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/frame text: f
 
 Also referred to as a (link: /terms/prototype text: Prototype).
 
-Proto was also the original name of (link: /terms/prota text: Prota), an alternate implementation of (link: /terms/newtonscript text: NewtonScript) created by (link: /sources/walter-smith text: Walter Smith).
+Proto was also the original name of (link: /terms/prota text: Prota), an alternate implementation of (link: /terms/newtonscript text: NewtonScript) developed by (link: /sources/walter-smith text: Walter Smith).
 
 ----
 

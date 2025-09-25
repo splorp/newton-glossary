@@ -10,7 +10,7 @@ Text:
 
 Newt Turtle Tutorial
 
-An interactive (link: /terms/newton-book text: Newton book) created by (link: /sources/steve-weyer text: Steve Weyer) that describes how to create Turtle style graphics directly on a Newton device using (link: /terms/newtonscript text: NewtonScript), the (link: /terms/newtdevenv text: NewtDevEnv) application development framework, and the (link: /terms/newtdraw text: NewtDraw) plugin.
+An interactive (link: /terms/newton-book text: Newton book) developed by (link: /sources/steve-weyer text: Steve Weyer) that describes how to create Turtle style graphics directly on a Newton device using (link: /terms/newtonscript text: NewtonScript), the (link: /terms/newtdevenv text: NewtDevEnv) application development framework, and the (link: /terms/newtdraw text: NewtDraw) plugin.
 
 ----
 

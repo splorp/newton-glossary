@@ -8,7 +8,7 @@ Date: 17 February 2025
 
 Text:
 
-An (link: /terms/extension text: extension) created by (link: /sources/gopi-flaherty text: Gopi Flaherty) that allows a (link: /terms/newton-keyboard text: Newton Keyboard) to be used with older Newton devices, including the (link: /terms/original-messagepad text: Original MessagePad), (link: /terms/messagepad-100 text: MessagePad 100), and (link: /terms/messagepad-110 text: MessagePad 110).
+An (link: /terms/extension text: extension) developed by (link: /sources/gopi-flaherty text: Gopi Flaherty) that allows a (link: /terms/newton-keyboard text: Newton Keyboard) to be used with older Newton devices, including the (link: /terms/original-messagepad text: Original MessagePad), (link: /terms/messagepad-100 text: MessagePad 100), and (link: /terms/messagepad-110 text: MessagePad 110).
 
 NewtKey also provides additional functionality, such as an caps lock indicator, user-definable shortcuts, and the enabling of “Smart Quotes”.
 

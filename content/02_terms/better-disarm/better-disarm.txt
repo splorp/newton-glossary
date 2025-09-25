@@ -8,7 +8,7 @@ Date: 21 November 2004
 
 Text:
 
-An unreleased successor to the (link: /terms/rough-disarm text: Rough Disarm) disassembler created by (link: /sources/paul-guyot text: Paul Guyot). This version of the (link: /terms/macintosh-programmers-workshop text: Macintosh Programmers Workshop) (MPW) tool is reportedly more complex and relies on copyrighted source code to operate.
+An unreleased successor to the (link: /terms/rough-disarm text: Rough Disarm) disassembler developed by (link: /sources/paul-guyot text: Paul Guyot). This version of the (link: /terms/macintosh-programmers-workshop text: Macintosh Programmers Workshop) (MPW) tool is reportedly more complex and relies on copyrighted source code to operate.
 
 ----
 

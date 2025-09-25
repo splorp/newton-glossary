@@ -8,7 +8,7 @@ Date: 29 June 2017
 
 Text:
 
-A prototype version of the (link: /terms/newton-toolkit text: Newton Toolkit) development environment created by (link: /sources/maurice-sharp text: Maurice Sharp) using (link: /terms/macintosh-common-lisp text: Macintosh Common Lisp).
+A prototype version of the (link: /terms/newton-toolkit text: Newton Toolkit) development environment developed by (link: /sources/maurice-sharp text: Maurice Sharp) using (link: /terms/macintosh-common-lisp text: Macintosh Common Lisp).
 
 Also referred to as (link: /terms/eas text: EaS).
 

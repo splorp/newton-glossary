@@ -8,7 +8,7 @@ Date: 01 January 2024
 
 Text:
 
-A utility by (link: /sources/matej-horvat text: Matej Horvat) allows the user to create links in (link: /terms/note text: notes) that point to other notes.
+Software developed by (link: /sources/matej-horvat text: Matej Horvat) allows the user to create links in (link: /terms/note text: notes) that point to other notes.
 
 ----
 

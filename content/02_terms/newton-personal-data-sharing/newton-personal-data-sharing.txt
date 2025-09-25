@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A suite of software (link: /terms/package text: packages) that will allow certain Newton devices to act as a web server. Originally created by [Matt Vaughn](https://github.com/mwvaughn) and subsequently developed by (link: /sources/paul-guyot text: Paul Guyot), [Adam Tow](https://tow.com/), and (link: /sources/victor-rehorst text: Victor Rehorst).
+A suite of software (link: /terms/package text: packages) that will allow certain Newton devices to act as a web server. Originally developed by [Matt Vaughn](https://github.com/mwvaughn) and subsequently developed by (link: /sources/paul-guyot text: Paul Guyot), [Adam Tow](https://tow.com/), and (link: /sources/victor-rehorst text: Victor Rehorst).
 
 Also referred to as (link: /terms/npds text: NPDS).
 

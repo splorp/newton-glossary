@@ -8,7 +8,7 @@ Date: 18 December 2001
 
 Text:
 
-A contact management (link: /terms/application text: application) created by [Iambic Software](https://web.archive.org/web/19980526091703/http://www.iambic.com/) that enhances the capabilities of the built-in (link: /terms/name-file text: Name File) and (link: /terms/date-book text: Date Book) applications.
+A contact management (link: /terms/application text: application) developed by [Iambic Software](https://web.archive.org/web/19980526091703/http://www.iambic.com/) that enhances the capabilities of the built-in (link: /terms/name-file text: Name File) and (link: /terms/date-book text: Date Book) applications.
 
 Also referred to as (link: /terms/an text: AN).
 

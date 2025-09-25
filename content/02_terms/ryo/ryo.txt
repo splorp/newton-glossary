@@ -8,7 +8,7 @@ Date: 30 October 2001
 
 Text:
 
-A utility developed by Stephen Millman for adding (link: /terms/icon text: icons) to the (link: /terms/button-bar text: button bar) of the background (link: /terms/application text: application), facilitating the launching of commonly used applications. RYO also allows the creation of invisible (link: /terms/button text: buttons) that overlay the bottom halves of the silkscreened (link: /terms/hard-button text: hard buttons) found on (link: /terms/mp1x0 text: MP1x0) series Newton devices.
+Software developed by Stephen Millman for adding (link: /terms/icon text: icons) to the (link: /terms/button-bar text: button bar) of the background (link: /terms/application text: application), facilitating the launching of commonly used applications. RYO also allows the creation of invisible (link: /terms/button text: buttons) that overlay the bottom halves of the silkscreened (link: /terms/hard-button text: hard buttons) found on (link: /terms/mp1x0 text: MP1x0) series Newton devices.
 
 RYO is an acronym for “roll your own”.
 

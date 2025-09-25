@@ -8,7 +8,7 @@ Date: 16 April 2017
 
 Text:
 
-A utility created by (link: /sources/eckhart-koppen text: Eckhart Köppen) and (link: /sources/sean-luke text: Sean Luke) that allows the user to encrypt and decrypt a (link: /terms/note text: note) stored on a Newton device. Using the (link: /terms/blowfish text: Blowfish) encryption algorithm developed by (link: /sources/bruce-schneier text: Bruce Schneier), The Fish provides a very simple way to secure sensitive data.
+Software developed by (link: /sources/eckhart-koppen text: Eckhart Köppen) and (link: /sources/sean-luke text: Sean Luke) that allows the user to encrypt and decrypt a (link: /terms/note text: note) stored on a Newton device. Using the (link: /terms/blowfish text: Blowfish) encryption algorithm developed by (link: /sources/bruce-schneier text: Bruce Schneier), The Fish provides a very simple way to secure sensitive data.
 
 ----
 

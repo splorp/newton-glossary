@@ -8,7 +8,7 @@ Date: 24 January 2025
 
 Text:
 
-An (link: /terms/extension text: extension) created by (link: /sources/jeremy-wyld text: Jeremy Wyld) that adds settings to the (link: /terms/prefs text: Prefs) application to enable or disable various (link: /terms/user-interface text: user interface) effects on (link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagepad-2100 text: MessagePad 2100), and (link: /terms/emate-300 text: eMate 300) devices.
+An (link: /terms/extension text: extension) developed by (link: /sources/jeremy-wyld text: Jeremy Wyld) that adds settings to the (link: /terms/prefs text: Prefs) application to enable or disable various (link: /terms/user-interface text: user interface) effects on (link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagepad-2100 text: MessagePad 2100), and (link: /terms/emate-300 text: eMate 300) devices.
 
 (image: /assets/images/nofx-2x.gif alt: Screenshot of the noFX preference slip width: 240)
 

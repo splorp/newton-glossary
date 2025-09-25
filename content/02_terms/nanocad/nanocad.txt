@@ -8,7 +8,7 @@ Date: 31 August 2025
 
 Text:
 
-An (link: /terms/application text: application) developed by (link: /sources/lee-moon text: Lee Moon) for creating and viewing simple wireframe 3D objects on a Newton device.
+Software developed by (link: /sources/lee-moon text: Lee Moon) for creating and viewing simple wireframe 3D objects on a Newton device.
 
 (image: /assets/images/nanocad-2x.gif alt: Screenshot of NanoCAD width: 208)
 

@@ -8,7 +8,7 @@ Date: 30 January 2025
 
 Text:
 
-An (link: /terms/extension text: extension) created by (link: /sources/jeremy-wyld text: Jeremy Wyld) that inserts additional items into an (link: /terms/action picker text: action picker).
+An (link: /terms/extension text: extension) developed by (link: /sources/jeremy-wyld text: Jeremy Wyld) that inserts additional items into an (link: /terms/action picker text: action picker).
 
 (image: /assets/images/cliphoard-2x.gif alt: Screenshot of the Cliphoard preference slip width: 240)
 

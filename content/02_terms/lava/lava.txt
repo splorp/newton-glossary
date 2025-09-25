@@ -8,7 +8,7 @@ Date: 28 August 2025
 
 Text:
 
-An (link: /terms/application text: application) for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/hayes-haugen text: Hayes Haugen) that provides flexible options for controlling the activation of the (link: /terms/backlight text: backlight) and when the device goes to (link: /terms/sleep text: sleep). Lava also features the ability to display animated designs on the (link: /terms/screen text: screen) during periods of inactivity, acting similar to a screen saver.
+Software developed by (link: /sources/hayes-haugen text: Hayes Haugen) that provides flexible options for controlling the activation of the (link: /terms/backlight text: backlight) and when a Newton device goes to (link: /terms/sleep text: sleep). Lava also features the ability to display animated designs on the (link: /terms/screen text: screen) during periods of inactivity, acting similar to a screen saver.
 
 (image: /assets/images/lava-2x.gif alt: Screenshot of the Lava settings window width: 220)
 

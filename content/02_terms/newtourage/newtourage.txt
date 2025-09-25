@@ -8,7 +8,7 @@ Date: 31 May 2001
 
 Text:
 
-A desktop (link: /terms/application text: application) created by [John Del Pizzo](https://johndelpizzo.wordpress.com/) that allows a Newton device to (link: /terms/synchronize text: synchronize) contact information between the (link: /terms/name-file text: Name File) application and [Microsoft Entourage](https://en.wikipedia.org/wiki/Microsoft_Entourage).
+A desktop (link: /terms/application text: application) developed by [John Del Pizzo](https://johndelpizzo.wordpress.com/) that allows a Newton device to (link: /terms/synchronize text: synchronize) contact information between the (link: /terms/name-file text: Name File) application and [Microsoft Entourage](https://en.wikipedia.org/wiki/Microsoft_Entourage).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 16 January 2017
 
 Text:
 
-An (link: /terms/application text: application) for Mac OS X created by (link: /sources/steven-frank text: Steven Frank) that allows the user to install (link: /terms/package text: packages) on a Newton device or download a copy of the (link: /terms/rom text: ROM) over a serial connection. NewTen is based on (link: /terms/unixnpi text: UnixNPI), a command line (link: /terms/package-installer text: package installer) for Unix (link: /terms/operating-system text: operating systems).
+Software for Mac OS X developed by (link: /sources/steven-frank text: Steven Frank) that allows the user to install (link: /terms/package text: packages) on a Newton device or download a copy of the (link: /terms/rom text: ROM) over a serial connection. NewTen is based on (link: /terms/unixnpi text: UnixNPI), a command line (link: /terms/package-installer text: package installer) for Unix (link: /terms/operating-system text: operating systems).
 
 (image: /assets/images/newten-2x.gif alt: Screenshot of NewTen width: 420)
 

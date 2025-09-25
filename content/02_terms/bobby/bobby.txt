@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An (link: /terms/application text: application) created by (link: /sources/jason-rukman text: Jason Rukman) used during (link: /terms/device-driver text: device driver) development, specifically isolated testing of (link: /terms/lantern text: Lantern) drivers on a Newton device.
+Software developed by (link: /sources/jason-rukman text: Jason Rukman) used during (link: /terms/device-driver text: device driver) development, specifically isolated testing of (link: /terms/lantern text: Lantern) drivers on a Newton device.
 
 The name “Bobby” is a nod to London police officers who would use lanterns when patrolling or inspecting at night.
 
