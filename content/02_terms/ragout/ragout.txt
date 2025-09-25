@@ -23,11 +23,11 @@ Resource:
 Related:
 
 - /terms/corrupt-soup
+- /terms/doctor
 - /terms/member-soup
 - /terms/newtcase
 - /terms/sbm-utilities
 - /terms/soup
-- /terms/soup-doctor
 - /terms/soup-icon
 - /terms/soup-mover
 - /terms/soupervisor-mechanism

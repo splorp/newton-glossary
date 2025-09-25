@@ -19,10 +19,10 @@ Related:
 - /terms/corrupt-heap
 - /terms/corrupt-package
 - /terms/corrupted
+- /terms/doctor
 - /terms/member-soup
 - /terms/sbm-utilities
 - /terms/soup
-- /terms/soup-doctor
 - /terms/soup-icon
 - /terms/soupervisor-mechanism
 - /terms/union-soup

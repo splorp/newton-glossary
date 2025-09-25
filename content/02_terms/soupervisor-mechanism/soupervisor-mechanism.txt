@@ -14,6 +14,7 @@ The system service that presents the user with information about a (link: /terms
 
 Related:
 
+- /terms/doctor
 - /terms/entry
 - /terms/extras-drawer
 - /terms/icon
@@ -22,7 +23,6 @@ Related:
 - /terms/ragout
 - /terms/sbm-utilities
 - /terms/soup
-- /terms/soup-doctor
 - /terms/soup-icon
 - /terms/soup-mover
 - /terms/union-soup

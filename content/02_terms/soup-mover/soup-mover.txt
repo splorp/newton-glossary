@@ -20,12 +20,12 @@ Resource:
 
 Related:
 
+- /terms/doctor
 - /terms/member-soup
 - /terms/newtcase
 - /terms/ragout
 - /terms/sbm-utilities
 - /terms/soup
-- /terms/soup-doctor
 - /terms/soup-icon
 - /terms/soupervisor-mechanism
 - /terms/store

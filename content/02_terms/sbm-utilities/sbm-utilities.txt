@@ -23,8 +23,8 @@ Resource:
 
 Related:
 
+- /terms/doctor
 - /terms/sbm
-- /terms/soup-doctor
 
 ----
 

@@ -28,6 +28,7 @@ Related:
 - /terms/data-definition
 - /terms/data-soup
 - /terms/database
+- /terms/doctor
 - /terms/entry
 - /terms/entry-aliases
 - /terms/flatten
@@ -43,7 +44,6 @@ Related:
 - /terms/ragout
 - /terms/reference
 - /terms/slot
-- /terms/soup-doctor
 - /terms/soup-icon
 - /terms/soup-mover
 - /terms/soupervisor-mechanism
