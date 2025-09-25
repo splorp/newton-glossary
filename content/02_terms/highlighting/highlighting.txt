@@ -1,8 +1,8 @@
-Title: Hilite
+Title: Highlighting
 
 ----
 
-Date: 13 June 2025
+Date: 18 August 2025
 
 ----
 
@@ -14,5 +14,4 @@ See: (link: /terms/highlight text: Highlight)
 
 Source:
 
-- /sources/newton-programmers-guide
-- /sources/newton-programmers-reference
+- /sources/messagepad-handbook-1995
