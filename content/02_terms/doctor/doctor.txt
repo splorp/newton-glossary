@@ -10,6 +10,8 @@ Text:
 
 One of the modules included in the (link: /terms/sbm-utilities text: SBM Utilities) software that provides the user with the ability to browse, analyze, repair, or salvage data from a (link: /terms/corrupt-soup text: corrupt soup) on a Newton device.
 
+(image: /assets/images/doctor-2x.gif alt: Screenshot of the Doctor module of SBM Utilities width: 240)
+
 Also referred to as (link: /terms/soup-doctor text: Soup Doctor).
 
 ----
