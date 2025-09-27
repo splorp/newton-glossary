@@ -1,0 +1,32 @@
+Title: Pict2Pkg
+
+----
+
+Date: 26 September 2025
+
+----
+
+Text:
+
+Software developed by (link: /sources/nobuo-kawaguchi text: Nobuo Kawaguchi) to easily convert Mac OS PICT files to Newton (link: /terms/package text: packages), which can then be installed and viewed on a Newton device.
+
+----
+
+Resource:
+
+- [The Newted Community: Pict2Pkg 0.23](http://www.unna.org/view.php?/macos/Pict2Pkg0.23)
+- [UNNA: Pict2Pkg 0.23](https://www.newted.org/resources/pict2pkg/)
+- [Vector: Pict2Pkg 0.23](https://www.vector.co.jp/download/file/other/newton/fh031412.html) (Japanese)
+
+----
+
+Related:
+
+- /terms/package
+- /terms/package-file
+
+----
+
+Source:
+
+- /sources/nobuo-kawaguchi
