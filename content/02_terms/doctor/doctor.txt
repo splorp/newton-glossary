@@ -18,6 +18,7 @@ Also referred to as (link: /terms/soup-doctor text: Soup Doctor).
 
 Related:
 
+- /terms/cleaner
 - /terms/corrupt-soup
 - /terms/member-soup
 - /terms/sbm-utilities

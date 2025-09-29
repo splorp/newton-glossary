@@ -16,6 +16,7 @@ In some cases, a (link: /terms/corrupted text: corrupted) soup can be repaired o
 
 Related:
 
+- /terms/cleaner
 - /terms/corrupt-heap
 - /terms/corrupt-package
 - /terms/corrupted

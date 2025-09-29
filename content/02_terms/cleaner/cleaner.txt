@@ -1,0 +1,34 @@
+Title: Cleaner
+
+----
+
+Date: 29 September 2025
+
+----
+
+Text:
+
+One of the modules included in the (link: /terms/sbm-utilities text: SBM Utilities) software that provides the user with the ability to review and delete obsolete or orphaned (link: /terms/soup text: soup) entries and (link: /terms/application text: application) preferences that may remain on a Newton device after packages have been deleted.
+
+----
+
+Related:
+
+- /terms/corrupt-soup
+- /terms/doctor
+- /terms/member-soup
+- /terms/newtcase
+- /terms/ragout
+- /terms/sbm-utilities
+- /terms/soup
+- /terms/soup-icon
+- /terms/soup-mover
+- /terms/soupervisor-mechanism
+- /terms/store
+- /terms/union-soup
+
+----
+
+Source:
+
+- /sources/softwareburo-muller

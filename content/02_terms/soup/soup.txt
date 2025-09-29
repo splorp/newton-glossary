@@ -23,6 +23,7 @@ Resource:
 Related:
 
 - /terms/application-definition-format
+- /terms/cleaner
 - /terms/corrupt-soup
 - /terms/cursor
 - /terms/data-definition
