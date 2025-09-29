@@ -21,6 +21,8 @@ Related:
 - /terms/cleaner
 - /terms/corrupt-soup
 - /terms/member-soup
+- /terms/newtcase
+- /terms/ragout
 - /terms/sbm-utilities
 - /terms/soup
 - /terms/soup-doctor

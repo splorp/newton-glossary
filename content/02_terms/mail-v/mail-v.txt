@@ -12,7 +12,9 @@ An email (link: /terms/transport text: transport) developed by (link: /sources/s
 
 Mail V is also (link: /terms/mime text: MIME) compliant, enabling the user to send, receive, and forward attachments such as Newton (link: /terms/package text: packages), (link: /terms/notepad text: Notepad) sketches and recordings, as well as (link: /terms/vcard text: vCards).
 
-According to Simon, Mail V is pronounced “Mail Five” and not “Mail Vee” as often thought. The name was chosen in homage to [Mac OS X](https://en.wikipedia.org/wiki/MacOS#Mac_OS_X), which was usually read as “Mac OS Ten”.
+According to Simon, Mail V is pronounced “Mail Five” and not “Mail Vee”.
+
+The name was chosen in homage to [Mac OS X](https://en.wikipedia.org/wiki/MacOS#Mac_OS_X), which was often read as “Mac OS Ten”.
 
 ----
 

@@ -19,7 +19,7 @@ The (link: /terms/newton-os text: Newton OS) version of the software is based on
 Resource:
 
 - [UNNA: NanoCAD](http://www.unna.org/view.php?/applications/NanoCAD)
-- [The Newted Community: NanoCAD](https://newted.org/resources/nanocad/)
+- [The Newted Community: NanoCAD](https://www.newted.org/resources/nanocad/)
 - [Will Ware: NanoCAD in Java](http://web.archive.org/web/20051208030818/http://willware.net:8080/ncad.html)
 
 ----
