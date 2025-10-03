@@ -10,7 +10,7 @@ Text:
 
 A command line (link: /terms/compiler text: compiler) and (link: /terms/packager text: packager) for (link: /terms/newtonscript text: NewtonScript) that uses text files for programmatic (link: /terms/input text: input) rather than a graphical (link: /terms/user-interface text: user interface) found in development tools such as (link: /terms/newton-toolkit text: Newton Toolkit).
 
-tntk was developed by (link: /sources/eckhart-koppen text: Eckhart Köppen) for use on UNIX platforms and is based on the (link: /terms/newt0 text: Newt/0) code originally released by (link: /sources/gnue text: Makoto “gnue” Nukui).
+tntk was developed by (link: /sources/eckhart-koppen text: Eckhart Köppen) for use on UNIX platforms and is based on the (link: /terms/newt0 text: Newt/0) code originally released by (link: /sources/gnue text: Makoto “Gnue” Nukui).
 
 ----
 

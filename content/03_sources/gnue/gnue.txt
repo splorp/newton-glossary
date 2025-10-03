@@ -8,12 +8,12 @@ Date: 04 February 2024
 
 Text:
 
-Makoto “Gnue” Nukui is a Japanese developer of Mac OS and Newton software, including the (link: /terms/newt0 text: NEWT/0) compiler and interpreter for (link: /terms/newtonscript text: NewtonScript).
+A Japanese developer of software for Mac OS and (link: /terms/newton-os text: Newton OS), including (link: /terms/newton-text-encoding text: Newton Text Encoding) and the (link: /terms/newt0 text: NEWT/0) compiler and interpreter for (link: /terms/newtonscript text: NewtonScript).
 
 ----
 
 Resource:
 
 - [GNUE(鵺) Website](https://so-kukan.com/gnue/)
-- [GNUE(鵺): Newton](https://so-kukan.com/gnue/newton/)
+- [GNUE(鵺): Newton](https://web.archive.org/web/20240715175822/https://so-kukan.com/gnue/newton/)
 - [GitHub: gnue](https://github.com/gnue/)

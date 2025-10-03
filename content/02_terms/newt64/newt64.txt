@@ -10,7 +10,7 @@ Text:
 
 A prototype-oriented (link: /terms/newtonscript text: NewtonScript) interpreter and (link: /terms/compiler text: compiler) designed to run on 64-bit processors.
 
-NEWT/64 was developed by (link: /sources/matthias-melcher text: Matthias Melcher) and is based on the (link: /terms/newt0 text: Newt/0) code originally released by (link: /sources/gnue text: Makoto “gnue” Nukui).
+NEWT/64 was developed by (link: /sources/matthias-melcher text: Matthias Melcher) and is based on the (link: /terms/newt0 text: Newt/0) code originally released by (link: /sources/gnue text: Makoto “Gnue” Nukui).
 
 ----
 
