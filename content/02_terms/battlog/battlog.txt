@@ -8,7 +8,9 @@ Date: 05 September 2025
 
 Text:
 
-An (link: /terms/application text: application) developed by (link: /sources/frank-grundel text: Frank Gründel) that monitors and tests the performance of rechargeable batteries in a Newton device.
+Software developed by (link: /sources/frank-grundel text: Frank Gründel) that monitors and tests the performance of rechargeable batteries in a Newton device.
+
+(image: /assets/images/battlog-2x.gif alt: Screenshot of the BattLog application width: 236)
 
 ----
 
