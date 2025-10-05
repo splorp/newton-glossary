@@ -16,8 +16,8 @@ Software developed by (link: /sources/frank-grundel text: Frank Gründel) that m
 
 Resource:
 
-- [PDA-Soft: BattLog](https://www.pda-soft.de/battlog.html) (English)
-- [PDA-Soft: BattLog](https://www.pda-soft.de/ge_battlog.html) (Deutsche)
+- [The Newted Community: BattLog](https://www.newted.org/resources/battlog/)
+- [The Newted Community: BattLog 1.0 User’s Guide](https://www.newted.org/resources/battlog/BattLog-UsersGuide.pdf)
 
 ----
 
