@@ -165,4 +165,4 @@ Powered by (link: https://getkirby.com/ text: Kirby title: The CMS that adapts t
 
 ----
 
-Release: 5.0.2
+Release: 5.1.0
