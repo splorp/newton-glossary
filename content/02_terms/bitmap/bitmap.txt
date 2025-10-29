@@ -16,6 +16,7 @@ Related:
 
 - /terms/binary-object
 - /terms/font
+- /terms/newtpaint
 - /terms/pixel
 - /terms/resource
 

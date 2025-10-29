@@ -1,0 +1,34 @@
+Title: NewtPaint
+
+----
+
+Date: 29 October 2025
+
+----
+
+Text:
+
+A (link: /terms/bitmap text: bitmap) drawing, painting, and editing (link: /terms/application text: application) for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/landware text: LandWare). NewtPaint features tools and functionality similar to desktop applications such as [MacPaint](https://en.wikipedia.org/wiki/MacPaint).
+
+(image: /assets/images/newtpaint-2x.gif alt: Screenshot of NewtPaint width: 232)
+
+----
+
+Resource:
+
+- [LandWare: NewtPaint Product Information](https://web.archive.org/web/19980421221501/http://landware.com/products/newtpaint/newtpaintps.html)
+- [Pen Computing: NewtPaint 1.0 Review](https://www.pencomputing.com/archive/PCM_8/P8_newtpaint_review.html)
+
+----
+
+Related:
+
+- /terms/availworks
+- /terms/bitmap
+- /terms/newton-works
+
+----
+
+Source:
+
+- /sources/landware
