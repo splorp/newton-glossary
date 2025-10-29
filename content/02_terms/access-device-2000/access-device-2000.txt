@@ -26,4 +26,6 @@ Related:
 - /terms/ad2000
 - /terms/clone
 - /terms/hapi
+- /terms/seahorse
 - /terms/supertech-2000
+- /terms/tarpon

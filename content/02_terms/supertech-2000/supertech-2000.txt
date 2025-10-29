@@ -33,6 +33,7 @@ Related:
 - /terms/craft-digital-assistant
 - /terms/dracon
 - /terms/hapi
+- /terms/seahorse
 - /terms/st2k
 - /terms/st2000
 - /terms/tarpon

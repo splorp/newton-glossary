@@ -22,6 +22,7 @@ Resource:
 
 Related:
 
+- /terms/access-device-2000
 - /terms/cdpd
 - /terms/clone
 - /terms/dr-newton
