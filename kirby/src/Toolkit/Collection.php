@@ -553,7 +553,7 @@ class Collection extends Iterator implements Stringable
 				}
 			}
 
-			return new self($groups);
+			return new self($groups, !$caseInsensitive);
 		}
 
 		throw new Exception(
@@ -623,6 +623,18 @@ class Collection extends Iterator implements Stringable
 	public function isOdd(): bool
 	{
 		return $this->count() % 2 !== 0;
+	}
+
+	/**
+	 * Joins the collection elements into a string,
+	 * optionally using a Closure to transform the elements
+	 * @since 5.1.0
+	 */
+	public function join(
+		string $separator = ', ',
+		Closure|null $as = null
+	): string {
+		return implode($separator, $this->toArray($as));
 	}
 
 	/**

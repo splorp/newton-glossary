@@ -70,6 +70,8 @@ class Visitor
 	/**
 	 * Returns an array of all accepted languages
 	 * including their quality and locale
+	 *
+	 * @return \Kirby\Toolkit\Collection<\Kirby\Toolkit\Obj>
 	 */
 	public function acceptedLanguages(): Collection
 	{
@@ -165,16 +167,16 @@ class Visitor
 	 */
 	public function preferredMimeType(string ...$mimeTypes): string|null
 	{
-		foreach ($this->acceptedMimeTypes() as $acceptedMime) {
+		foreach ($this->acceptedMimeTypes() as $accepted) {
 			// look for direct matches
-			if (in_array($acceptedMime->type(), $mimeTypes, true)) {
-				return $acceptedMime->type();
+			if (in_array($accepted->type(), $mimeTypes, true) === true) {
+				return $accepted->type();
 			}
 
 			// test each option against wildcard `Accept` values
-			foreach ($mimeTypes as $expectedMime) {
-				if (Mime::matches($expectedMime, $acceptedMime->type()) === true) {
-					return $expectedMime;
+			foreach ($mimeTypes as $expected) {
+				if (Mime::matches($expected, $accepted->type()) === true) {
+					return $expected;
 				}
 			}
 		}
