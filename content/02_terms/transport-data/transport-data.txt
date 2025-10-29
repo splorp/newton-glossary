@@ -1,0 +1,35 @@
+Title: Transport Data
+
+----
+
+Date: 29 October 2025
+
+----
+
+Text:
+
+A California-based company founded by Charles Kuttner rumoured to have been developing a ruggedized handheld for the emergency medical and law enforcement industries based on the (link: /terms/newton-os text: Newton OS) platform shortly before the Newton project was (link: /terms/steved text: Steved).
+
+----
+
+Resource:
+
+- [Pen Computing: Why did Apple kill the Newton?](https://www.pencomputing.com/frames/newton_obituary.html)
+
+----
+
+Related:
+
+- /terms/access-device-2000
+- /terms/clone
+- /terms/dracon
+- /terms/seahorse
+- /terms/steved
+- /terms/supertech-2000
+- /terms/tarpon
+
+----
+
+Source:
+
+- /sources/pen-computing
