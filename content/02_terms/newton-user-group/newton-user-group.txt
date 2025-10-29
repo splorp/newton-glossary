@@ -36,7 +36,6 @@ Related:
 - /terms/ngn
 - /terms/noise
 - /terms/nose
-- /terms/nug
 - /terms/nug-central
 - /terms/nugom
 - /terms/nycnug

@@ -17,7 +17,7 @@ An integrated, multifunction (link: /terms/application text: application) for Ne
 Resource:
 
 - [PelicanWare: AvailWorks 3.0 Product Information](https://web.archive.org/web/20031205010441/http://www.pelicanware.com/aw.html)
-- [PelicanWare: AvailWorks 3.0 User Manual](https://web.archive.org/web/20031206033359/http://www.pelicanware.com/download/AW3Man.pdf)
+- [PelicanWare: AvailWorks User’s Manual](https://web.archive.org/web/20031206033359/http://www.pelicanware.com/download/AW3Man.pdf)
 - [The Newted Community: AvailWorks User’s Manual](https://www.newted.org/download/manuals/AvailWorksManual.pdf)
 
 ----
