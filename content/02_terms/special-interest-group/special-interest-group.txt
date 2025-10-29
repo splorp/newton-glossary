@@ -17,5 +17,5 @@ Also referred to as a (link: /terms/sig text: SIG).
 Related:
 
 - /terms/newton-user-group
-- /terms/nug
+- /terms/newtons4ever
 - /terms/sig

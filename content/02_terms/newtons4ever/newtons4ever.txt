@@ -1,0 +1,29 @@
+Title: Newtons4Ever
+
+----
+
+Date: 29 October 2025
+
+----
+
+Text:
+
+A [SETI@home](https://setiathome.berkeley.edu/) team formed by Max Bonilla in March 1999 consisting of Newton users contributing spare computer time to the search for extraterrestrial life. 
+
+----
+
+Resource:
+
+- [SETI@home: Newtons4Ever](https://setiathome.berkeley.edu/team_display.php?teamid=31334)
+
+----
+
+Related:
+
+- /terms/special-interest-group
+
+----
+
+Source:
+
+- /sources/planet-newton
