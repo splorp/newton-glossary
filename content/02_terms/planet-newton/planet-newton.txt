@@ -21,6 +21,7 @@ Resource:
 
 Related:
 
+- /terms/newton-city
 - /terms/newton-versions
 - /terms/newtontalk
 - /terms/pn

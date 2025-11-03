@@ -1,0 +1,33 @@
+Title: Newton City
+
+----
+
+Date: 03 November 2025
+
+----
+
+Text:
+
+A website run by (link: /sources/marisa-giancarla text: Marisa Giancarla) providing several Newton resources and online services including a BBS, Discord group chat, Hotline server, discussion forum, and email hosting.
+
+----
+
+Resource:
+
+- [Newton City Website](https://newtoncity.org/)
+- [Newton City BBS](https://bbs.newtoncity.org/)
+- [Discord: Apple Newton](https://discord.gg/PVEAJAQZMH)
+
+----
+
+Related:
+
+- /terms/planet-newton
+- /terms/the-newted-community
+- /terms/this-old-newt
+
+----
+
+Source:
+
+- /sources/marisa-giancarla

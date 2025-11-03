@@ -23,6 +23,7 @@ Related:
 
 - /terms/king-of-newtonia
 - /terms/newtie-award
+- /terms/newton-city
 - /terms/planet-newton
 - /terms/the-newted-community
 - /terms/the-newties

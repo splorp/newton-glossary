@@ -1,0 +1,19 @@
+Title: Marisa Giancarla
+
+----
+
+Date: 03 November 2025
+
+----
+
+Text:
+
+A software developer and systems administrator based in San Francisco, California. Marisa is the founder of the (link: /terms/newton-city text: Newton City) website.
+
+----
+
+Resource:
+
+- [GitHub: Marisa Giancarla](https://github.com/fstltna)
+- [LinkedIn: Marisa Giancarla]https://www.linkedin.com/in/marisagiancarla/
+- [Newton City Website](https://newtoncity.org/)
