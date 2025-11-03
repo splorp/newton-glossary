@@ -22,7 +22,9 @@ Resource:
 Related:
 
 - /terms/newted
+- /terms/planet-newton
 - /terms/soupbox
+- /terms/this-old-newt
 
 ----
 

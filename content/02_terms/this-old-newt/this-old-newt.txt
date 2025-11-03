@@ -23,8 +23,9 @@ Related:
 
 - /terms/king-of-newtonia
 - /terms/newtie-award
+- /terms/planet-newton
+- /terms/the-newted-community
 - /terms/the-newties
-- /terms/this-old-newt
 
 ----
 

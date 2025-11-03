@@ -24,6 +24,8 @@ Related:
 - /terms/newton-versions
 - /terms/newtontalk
 - /terms/pn
+- /terms/the-newted-community
+- /terms/this-old-newt
 - /terms/unna
 
 ----
