@@ -15,6 +15,7 @@ A structured collection of related files or data that is created and controlled 
 Related:
 
 - /terms/accordian
+- /terms/bee-one
 - /terms/db
 - /terms/encyclopedia
 - /terms/leverage
