@@ -25,5 +25,6 @@ Related:
 - /terms/database
 - /terms/encyclopedia
 - /terms/notable
+- /terms/leverage
 - /terms/power-box
 - /terms/sloup

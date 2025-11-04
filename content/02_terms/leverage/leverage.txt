@@ -1,0 +1,34 @@
+Title: Leverage
+
+----
+
+Date: 04 November 2025
+
+----
+
+Text:
+
+A powerful, programmable (link: /terms/database text: database) application for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/balcones text: Balcones Software). Features included easy creation of databases and queries, data exchange with desktop (link: /terms/application text: applications) such as [FileMaker Pro](https://en.wikipedia.org/wiki/FileMaker) and [Microsoft Access](https://en.wikipedia.org/wiki/Microsoft_Access), support for (link: /terms/stationery text: stationery), relational split screen viewing, and flexible printing options.
+
+(image: /assets/images/leverage-2x.gif alt: Screenshot of Leverage 2.0 width: 240)
+
+----
+
+Resource:
+
+- [Balcones Software: Leverage Product Information](https://web.archive.org/web/19980709132749/http://www.balconessoftware.com/)
+
+----
+
+Related:
+
+- /terms/accordian
+- /terms/bee-one
+- /terms/database
+- /terms/encyclopedia
+
+----
+
+Source:
+
+- /sources/balcones

@@ -26,6 +26,7 @@ Related:
 - /terms/database
 - /terms/encyclopedia
 - /terms/notable
+- /terms/leverage
 - /terms/revelar-connection-utility
 - /terms/sloup
 

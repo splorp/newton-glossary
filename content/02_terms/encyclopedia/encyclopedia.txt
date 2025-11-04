@@ -29,6 +29,7 @@ Related:
 - /terms/frame
 - /terms/junior
 - /terms/leibniz
+- /terms/leverage
 - /terms/ralph
 - /terms/soup
 
