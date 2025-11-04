@@ -17,10 +17,11 @@
 		<?php if($pagination->total() == 1) : go($results); endif ?>
 		<h3 class="rslt"><?php echo $pagination->total() . ' item'; echo ($pagination->total() > 1) ? 's' : ''; echo ' found'; ?></h3>
 		<ul>
-			<?php foreach($results as $result): ?>
-			<li><a href="<?php echo $site->url() . '/' . $result ?>"><?php echo $result->title()->html() ?></a><br>
+		<?php foreach($results as $result): ?>
+			<li><span class="mouseprint"><?php if($result->parent()) : echo Str::studly(rtrim($result->parent()->slug(), "s")); else : echo("Page"); endif; ?></span><br>
+			<a href="<?php echo $site->url() . '/' . $result ?>"><?php echo $result->title()->html() ?></a><br>
 			<?php echo $result->text()->excerpt(140) ?></li>
-			<?php endforeach ?>
+		<?php endforeach ?>
 		</ul>
 
 		<?php elseif($query != '') : ?>
