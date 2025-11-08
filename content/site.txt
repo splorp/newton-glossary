@@ -137,6 +137,10 @@ Redirects:
   fromuri: /terms/desktop-integration-library
   touri: /terms/desktop-integration-libraries
   code: _301
+- 
+  fromuri: /terms/local-area-network
+  touri: /terms/lan
+  code: _301
 
 ----
 
