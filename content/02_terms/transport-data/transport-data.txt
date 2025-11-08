@@ -20,13 +20,9 @@ Resource:
 
 Related:
 
-- /terms/access-device-2000
 - /terms/clone
 - /terms/dracon
-- /terms/seahorse
 - /terms/steved
-- /terms/supertech-2000
-- /terms/tarpon
 
 ----
 
