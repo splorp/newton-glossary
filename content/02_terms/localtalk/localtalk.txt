@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A specific implementation of the physical layer pertaining to (link: /terms/appletalk text: AppleTalk) networking (link: /terms/protocol text: protocol). Developed by [Apple](https://www.apple.com/) for communications between Mac OS computers and other platforms over a (link: /terms/local-area-network text: local area network), LocalTalk networks commonly use shielded twisted pair cables with self terminating connectors.
+A specific implementation of the physical layer pertaining to (link: /terms/appletalk text: AppleTalk) networking (link: /terms/protocol text: protocol). Developed by [Apple](https://www.apple.com/) for communications between Mac OS computers and other platforms over a (link: /terms/lan text: LAN), LocalTalk networks commonly use shielded twisted pair cables with self terminating connectors.
 
 ----
 
@@ -19,7 +19,7 @@ Related:
 - /terms/ethernet
 - /terms/ethertalk
 - /terms/internet-setup
-- /terms/local-area-network
+- /terms/lan
 - /terms/mnp
 - /terms/newton-internet-enabler
 - /terms/phonenet

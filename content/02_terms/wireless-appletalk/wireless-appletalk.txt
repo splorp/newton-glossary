@@ -20,7 +20,7 @@ Related:
 - /terms/ethertalk
 - /terms/grouper
 - /terms/infrared-appletalk
-- /terms/local-area-network
+- /terms/lan
 - /terms/localtalk
 - /terms/phonenet
 - /terms/wireless-access-point

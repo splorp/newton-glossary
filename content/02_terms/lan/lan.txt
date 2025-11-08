@@ -8,4 +8,25 @@ Date: 24 August 2016
 
 Text:
 
-See: (link: /terms/local-area-network text: Local Area Network)
+Local Area Network
+
+A data communications network that covers a small or geographically limited area. A LAN typically facilitates the interconnection of computers and other devices within a single building or multiple adjacent buildings. (link: /terms/ethernet text: Ethernet), (link: /terms/localtalk text: LocalTalk), and (link: /terms/wi-fi text: Wi-Fi) are examples of local area networks.
+
+----
+
+Related:
+
+- /terms/appletalk
+- /terms/ethernet
+- /terms/ethertalk
+- /terms/localtalk
+- /terms/phonenet
+- /terms/protocol
+- /terms/rj-45
+- /terms/wi-fi
+
+----
+
+Source:
+
+- /sources/foldoc

@@ -24,7 +24,7 @@ Related:
 - /terms/appletalk
 - /terms/ethernet
 - /terms/internet-setup
-- /terms/local-area-network
+- /terms/lan
 - /terms/localtalk
 - /terms/mnp
 - /terms/newton-internet-enabler

@@ -20,6 +20,7 @@ Related:
 - /terms/airconnect
 - /terms/airmac
 - /terms/airport
+- /terms/lan
 - /terms/orinoco
 - /terms/pc-card
 - /terms/skyline

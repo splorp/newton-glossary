@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A family of packet-based networking technologies originally developed at [Xerox PARC](https://www.parc.com/) in the early 1970s. Ethernet connects computers and other devices over a (link: /terms/local-area-network text: local area network) (LAN) using communication (link: /terms/protocol text: protocols) such as (link: /terms/appletalk text: AppleTalk) and (link: /terms/tcp-ip text: TCP/IP). Ethernet connections commonly use twisted pair cables with (link: /terms/rj-45 text: RJ-45) style connectors.
+A family of packet-based networking technologies originally developed at [Xerox PARC](https://www.parc.com/) in the early 1970s. Ethernet connects computers and other devices over a (link: /terms/lan text: LAN) using communication (link: /terms/protocol text: protocols) such as (link: /terms/appletalk text: AppleTalk) and (link: /terms/tcp-ip text: TCP/IP). Ethernet connections commonly use twisted pair cables with (link: /terms/rj-45 text: RJ-45) style connectors.
 
 ----
 
@@ -19,7 +19,7 @@ Related:
 - /terms/enet
 - /terms/ethertalk
 - /terms/internet-setup
-- /terms/local-area-network
+- /terms/lan
 - /terms/localtalk
 - /terms/mnp
 - /terms/ne2000

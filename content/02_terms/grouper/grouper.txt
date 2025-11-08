@@ -8,7 +8,7 @@ Date: 17 July 2017
 
 Text:
 
-A family of radio-based devices developed by (link: /sources/digital-ocean text: Digital Ocean) that provided (link: /terms/wireless-appletalk text: wireless AppleTalk) connectivity to (link: /terms/newton-os text: Newton OS) and Mac OS computers over a (link: /terms/local-area-network text: local area network).
+A family of radio-based devices developed by (link: /sources/digital-ocean text: Digital Ocean) that provided (link: /terms/wireless-appletalk text: wireless AppleTalk) connectivity to (link: /terms/newton-os text: Newton OS) and Mac OS computers over a (link: /terms/lan text: LAN).
 
 ----
 
@@ -27,7 +27,7 @@ Related:
 - /terms/grouper-100mps-plus
 - /terms/grouper-105mps
 - /terms/grouper-110mp
-- /terms/local-area-network
+- /terms/lan
 - /terms/seahorse
 - /terms/tarpon
 - /terms/wireless-access-point

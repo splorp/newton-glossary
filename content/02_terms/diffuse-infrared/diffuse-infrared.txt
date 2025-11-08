@@ -34,7 +34,7 @@ Related:
 - /terms/infrared
 - /terms/infrared-appletalk
 - /terms/irda
-- /terms/local-area-network
+- /terms/lan
 - /terms/serial-infrared
 - /terms/slow-infrared
 - /terms/transceiver

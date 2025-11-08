@@ -28,7 +28,7 @@ Related:
 - /terms/ethernet
 - /terms/ethertalk
 - /terms/infrared
-- /terms/local-area-network
+- /terms/lan
 - /terms/localtalk
 - /terms/phonenet
 - /terms/wireless-appletalk

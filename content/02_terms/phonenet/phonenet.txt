@@ -24,7 +24,7 @@ Related:
 - /terms/appletalk
 - /terms/ethernet
 - /terms/infrared-appletalk
-- /terms/local-area-network
+- /terms/lan
 - /terms/localtalk
 - /terms/mini-din
 - /terms/rj-11

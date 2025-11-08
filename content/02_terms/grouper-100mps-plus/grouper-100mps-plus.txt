@@ -8,7 +8,7 @@ Date: 01 October 2017
 
 Text:
 
-A member of the (link: /terms/grouper text: Grouper) family of devices developed by (link: /sources/digital-ocean text: Digital Ocean), this radio-based peripheral provided (link: /terms/wireless-appletalk text: wireless AppleTalk) connectivity over a (link: /terms/local-area-network text: local area network). Identical in functionality to the (link: /terms/grouper-100mps text: Grouper 100MPS), with additional hardware support for external data collection and (link: /terms/output text: output), such as barcode scanners, magnetic card readers, printers, and other serial devices with a (link: /terms/mini-din text: Mini-DIN) connector.
+A member of the (link: /terms/grouper text: Grouper) family of devices developed by (link: /sources/digital-ocean text: Digital Ocean), this radio-based peripheral provided (link: /terms/wireless-appletalk text: wireless AppleTalk) connectivity over a (link: /terms/lan text: LAN). Identical in functionality to the (link: /terms/grouper-100mps text: Grouper 100MPS), with additional hardware support for external data collection and (link: /terms/output text: output), such as barcode scanners, magnetic card readers, printers, and other serial devices with a (link: /terms/mini-din text: Mini-DIN) connector.
 
 Also referred to as a (link: /terms/100mps-plus text: 100MPS+).
 
@@ -32,7 +32,7 @@ Related:
 - /terms/grouper-100mps
 - /terms/grouper-105mps
 - /terms/grouper-110mp
-- /terms/local-area-network
+- /terms/lan
 - /terms/wireless-appletalk
 
 ----

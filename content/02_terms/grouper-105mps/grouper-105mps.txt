@@ -8,7 +8,7 @@ Date: 01 October 2017
 
 Text:
 
-A member of the (link: /terms/grouper text: Grouper) family of devices developed by (link: /sources/digital-ocean text: Digital Ocean), this radio-based peripheral provided (link: /terms/wireless-appletalk text: wireless AppleTalk) connectivity over a (link: /terms/local-area-network text: local area network). The Grouper 105MPS is essentially a bundle of existing products, consisting of the (link: /terms/grouper-100mps-plus text: Grouper 100MPS+) hardware, a barcode scanning wand, and inventory management software for (link: /terms/newton-os text: Newton OS). An optional laser scanner was also available for this device.
+A member of the (link: /terms/grouper text: Grouper) family of devices developed by (link: /sources/digital-ocean text: Digital Ocean), this radio-based peripheral provided (link: /terms/wireless-appletalk text: wireless AppleTalk) connectivity over a (link: /terms/lan text: LAN). The Grouper 105MPS is essentially a bundle of existing products, consisting of the (link: /terms/grouper-100mps-plus text: Grouper 100MPS+) hardware, a barcode scanning wand, and inventory management software for (link: /terms/newton-os text: Newton OS). An optional laser scanner was also available for this device.
 
 Also referred to as a (link: /terms/105mps text: 105MPS).
 
@@ -32,7 +32,7 @@ Related:
 - /terms/grouper-100mps
 - /terms/grouper-100mps-plus
 - /terms/grouper-110mp
-- /terms/local-area-network
+- /terms/lan
 - /terms/wireless-appletalk
 
 ----
