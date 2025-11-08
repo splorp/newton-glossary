@@ -24,6 +24,9 @@ Related:
 - /terms/newton-internet-enabler
 - /terms/phonenet
 - /terms/protocol
+- /terms/wi-fi
+- /terms/wireless-appletalk
+- /terms/wlan
 
 ----
 

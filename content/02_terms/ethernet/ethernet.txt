@@ -27,6 +27,9 @@ Related:
 - /terms/newton-internet-enabler
 - /terms/protocol
 - /terms/rj-45
+- /terms/wi-fi
+- /terms/wireless-appletalk
+- /terms/wlan
 
 ----
 

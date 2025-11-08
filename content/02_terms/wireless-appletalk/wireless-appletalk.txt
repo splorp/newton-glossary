@@ -23,4 +23,6 @@ Related:
 - /terms/lan
 - /terms/localtalk
 - /terms/phonenet
+- /terms/wi-fi
 - /terms/wireless-access-point
+- /terms/wlan

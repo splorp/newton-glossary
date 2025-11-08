@@ -21,7 +21,9 @@ Related:
 - /terms/airport
 - /terms/protocol
 - /terms/wavelan
+- /terms/wi-fi
 - /terms/wireless-access-point
+- /terms/wlan
 
 ----
 

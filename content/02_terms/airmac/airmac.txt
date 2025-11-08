@@ -24,4 +24,6 @@ Related:
 - /terms/airport
 - /terms/wavelan
 - /terms/wep
+- /terms/wi-fi
 - /terms/wireless-access-point
+- /terms/wlan

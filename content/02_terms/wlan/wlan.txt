@@ -1,0 +1,41 @@
+Title: WLAN
+
+----
+
+Date: 08 November 2025
+
+----
+
+Text:
+
+Wireless Local Area Network
+
+A data communications network that provides connectivity to wireless devices within a limited area using a (link: /terms/wireless-access-point text: wireless access point). A WLAN is commonly deployed alongside (link: /terms/ethernet text: Ethernet) in order that both wireless and wired devices can exchange data on the same network.
+
+Also referred to as (link: /terms/wireless-lan text: Wireless LAN).
+
+----
+
+Related:
+
+- /terms/802-11
+- /terms/airmac
+- /terms/airport
+- /terms/appletalk
+- /terms/ethernet
+- /terms/ethertalk
+- /terms/lan
+- /terms/localtalk
+- /terms/protocol
+- /terms/wavelan
+- /terms/wep
+- /terms/wi-fi
+- /terms/wireless-access-point
+- /terms/wireless-appletalk
+- /terms/wireless-lan
+
+----
+
+Source:
+
+- /sources/techencyclopedia

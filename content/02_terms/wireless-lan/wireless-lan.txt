@@ -1,0 +1,11 @@
+Title: Wireless LAN
+
+----
+
+Date: 08 November 2025
+
+----
+
+Text:
+
+See: (link: /terms/wlan text: WLAN)

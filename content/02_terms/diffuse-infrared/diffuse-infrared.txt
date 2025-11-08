@@ -38,7 +38,7 @@ Related:
 - /terms/serial-infrared
 - /terms/slow-infrared
 - /terms/transceiver
-- /terms/wireless-appletalk
+- /terms/wlan
 
 ----
 

@@ -25,6 +25,10 @@ Related:
 - /terms/pc-card
 - /terms/skyline
 - /terms/wep
+- /terms/wi-fi
+- /terms/wireless-access-point
+- /terms/wireless-appletalk
+- /terms/wlan
 
 ----
 

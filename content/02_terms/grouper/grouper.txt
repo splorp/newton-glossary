@@ -32,6 +32,7 @@ Related:
 - /terms/tarpon
 - /terms/wireless-access-point
 - /terms/wireless-appletalk
+- /terms/wlan
 
 ----
 
