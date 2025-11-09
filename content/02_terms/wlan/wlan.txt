@@ -10,7 +10,7 @@ Text:
 
 Wireless Local Area Network
 
-A data communications network that provides connectivity to wireless devices within a limited area using a (link: /terms/wireless-access-point text: wireless access point). A WLAN is commonly deployed alongside (link: /terms/ethernet text: Ethernet) in order that both wireless and wired devices can exchange data on the same network.
+A data communications network that provides connectivity to wireless devices within a limited area using a (link: /terms/wireless-access-point text: wireless access point). A WLAN is commonly deployed alongside (link: /terms/ethernet text: Ethernet) to support both wireless and wired devices on the same network.
 
 Also referred to as (link: /terms/wireless-lan text: Wireless LAN).
 
