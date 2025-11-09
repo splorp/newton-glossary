@@ -1,0 +1,17 @@
+Title: Socket Communications
+
+----
+
+Date: 09 November 2025
+
+----
+
+Text:
+
+A software and hardware developer that provided a wide range of connectivity solutions for multiple computing platforms. With a focus on mobile devices, their products included the (link: /terms/pagecard text: PageCard) wireless messaging card and the industry’s first (link: /terms/pc-card text: PC card) based (link: /terms/ethernet text: Ethernet) adapter.
+
+----
+
+Resource:
+
+- [Socket Communications Website](https://web.archive.org/web/19980208233349/http://www.socketcom.com/)
