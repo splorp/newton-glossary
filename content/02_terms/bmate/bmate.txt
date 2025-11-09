@@ -10,7 +10,7 @@ Text:
 
 The speculative, business-focused successor to the (link: /terms/emate-300 text: eMate 300).
 
-Code named (link: /terms/santa-fe text: Santa Fe), the bMate or (link: /terms/business-emate text: Business eMate) was rumoured to share the more powerful (link: /terms/strongarm text: StrongARM) processor and larger memory capacity found in the (link: /terms/messagepad-2100 text: MessagePad 2100), and include features such as an internal (link: /terms/modem text: modem), built-in (link: /terms/ethernet text: ethernet) networking, colour display, and a more “conservative” case design.
+Code named (link: /terms/santa-fe text: Santa Fe), the bMate or (link: /terms/business-emate text: Business eMate) was rumoured to share the more powerful (link: /terms/strongarm text: StrongARM) processor and larger memory capacity found in the (link: /terms/messagepad-2100 text: MessagePad 2100), and include features such as an internal (link: /terms/modem text: modem), built-in (link: /terms/ethernet text: Ethernet) networking, colour display, and a more “conservative” case design.
 
 Also referred to as the (link: /terms/emate-1000 text: eMate 1000), (link: /terms/emate-3000 text: eMate 3000), and (link: /terms/bizmate text: BizMate).
 

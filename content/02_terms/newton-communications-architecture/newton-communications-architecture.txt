@@ -10,7 +10,7 @@ Text:
 
 A marketing-focused term for the (link: /terms/newton-os text: Newton OS) technologies that provide built-in support for various serial communication and internet (link: /terms/protocol text: protocols), (link: /terms/modem text: modems), sending and receiving faxes, email, and connection of an external keyboard.
 
-Due to its modular design, the architecture was able to support additional communication capabilities as they became available such as (link: /terms/ethernet text: ethernet) and wireless networking.
+Due to its modular design, the architecture was able to support additional communication capabilities as they became available such as (link: /terms/ethernet text: Ethernet) and wireless networking.
 
 ----
 
