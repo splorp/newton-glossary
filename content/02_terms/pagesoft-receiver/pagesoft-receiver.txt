@@ -1,0 +1,37 @@
+Title: PageSoft Receiver
+
+----
+
+Date: 09 November 2025
+
+----
+
+Text:
+
+Software developed by (link: /sources/socket-communications text: Socket Communications) that allows messages received by the (link: /terms/pagecard text: PageCard) hardware to be downloaded into the (link: /terms/inbox text: InBox) on (link: /terms/newton-os text: Newton OS) devices.
+
+----
+
+Resource:
+
+- [Socket Communications: PageSoft Receiver](https://web.archive.org/web/19981203120217/http://www.socketcom.com/newton/nme.htm)
+- [Press Release: Socket Adds Newton Support to Wireless SDK](https://web.archive.org/web/19981203061628/http://www.socketcom.com/press/nwtsdkpr.htm)
+
+----
+
+Related:
+
+- /terms/apple-mobile-message-system
+- /terms/apple-notification-service
+- /terms/message-module
+- /terms/newton-message-intercept-kit
+- /terms/newton-messaging-enabler
+- /terms/pagecard
+- /terms/pagesoft
+- /terms/swims
+
+----
+
+Source:
+
+- /sources/socket-communications

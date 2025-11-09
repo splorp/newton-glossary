@@ -34,9 +34,12 @@ Related:
 - /terms/data-pcs
 - /terms/message-module
 - /terms/newscard
+- /terms/newton-message-intercept-kit
 - /terms/newton-messaging-card
 - /terms/newton-messaging-enabler
 - /terms/pagecard
+- /terms/pagesoft
+- /terms/pagesoft-receiver
 - /terms/pcs
 - /terms/tango
 - /terms/swims

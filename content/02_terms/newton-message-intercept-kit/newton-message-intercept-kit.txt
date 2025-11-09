@@ -1,0 +1,36 @@
+Title: Newton Message Intercept Kit
+
+----
+
+Date: 09 November 2025
+
+----
+
+Text:
+
+A collection of software tools and (link: /terms/pc-card text: PC card) hardware provided by [Socket Communications](/sources/socket-communications) as part the (link: /terms/pagecard text: PageCard) software developers kit ((link: /terms/sdk text: SDK)). The Newton Message Intercept Kit was designed to simplify the development of wireless applications for (link: /terms/newton-os text: Newton OS) devices.
+
+----
+
+Resource:
+
+- [Press Release: Socket Adds Newton Support to Wireless SDK](https://web.archive.org/web/19981203061628/http://www.socketcom.com/press/nwtsdkpr.htm)
+
+----
+
+Related:
+
+- /terms/apple-mobile-message-system
+- /terms/apple-notification-service
+- /terms/message-module
+- /terms/newton-messaging-enabler
+- /terms/pagecard
+- /terms/pagesoft
+- /terms/pagesoft-receiver
+- /terms/swims
+
+----
+
+Source:
+
+- /sources/socket-communications

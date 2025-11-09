@@ -30,9 +30,12 @@ Related:
 - /terms/message-module
 - /terms/messaging-enabler
 - /terms/newscard
-- /terms/nme
+- /terms/newton-message-intercept-kit
 - /terms/newton-messaging-card
+- /terms/nme
 - /terms/pagecard
+- /terms/pagecard-receiver
+- /terms/pagesoft
 - /terms/tango
 
 ----

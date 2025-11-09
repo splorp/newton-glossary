@@ -30,8 +30,11 @@ Related:
 - /terms/card-slip
 - /terms/message-module
 - /terms/newscard
+- /terms/newton-message-intercept-kit
 - /terms/newton-messaging-card
 - /terms/newton-messaging-enabler
+- /terms/pagesoft
+- /terms/pagesoft-receiver
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/slot

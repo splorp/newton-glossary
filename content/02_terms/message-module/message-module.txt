@@ -23,12 +23,15 @@ Related:
 - /terms/apple-mobile-message-system
 - /terms/apple-notification-service
 - /terms/apple-wireless-messaging-service
+- /terms/newscard
+- /terms/newton-message-intercept-kit
 - /terms/newton-messaging-card
 - /terms/newton-messaging-enabler
-- /terms/newscard
 - /terms/pagecard
-- /terms/tango
+- /terms/pagecard-receiver
+- /terms/pagesoft
 - /terms/swims
+- /terms/tango
 
 ----
 

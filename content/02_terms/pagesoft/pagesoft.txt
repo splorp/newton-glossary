@@ -1,0 +1,39 @@
+Title: PageSoft
+
+----
+
+Date: 09 November 2025
+
+----
+
+Text:
+
+Software developed by [Socket Communications](/sources/socket-communications) that allows messages and data received by the (link: /terms/pagecard text: PageCard) hardware to be routed to email (link: /terms/application text: applications) running on various computing platforms.
+
+(link: /terms/pagesoft-receiver text: PageSoft Receiver) is a version of PageSoft designed specifically for (link: /terms/newton-os text: Newton OS) devices.
+
+----
+
+Resource:
+
+- [Socket Communications: Paging Products](https://web.archive.org/web/19981203123559/http://www.socketcom.com/pagprods.htm)
+- [Press Release: Socket Adds Newton Support to Wireless SDK](https://web.archive.org/web/19981203061628/http://www.socketcom.com/press/nwtsdkpr.htm)
+
+----
+
+Related:
+
+- /terms/apple-mobile-message-system
+- /terms/apple-notification-service
+- /terms/message-module
+- /terms/newton-message-intercept-kit
+- /terms/newton-messaging-enabler
+- /terms/pagecard
+- /terms/pagesoft-receiver
+- /terms/swims
+
+----
+
+Source:
+
+- /sources/socket-communications
