@@ -1,0 +1,17 @@
+Title: NewtQuake
+
+----
+
+Date: 10 November 2025
+
+----
+
+Text:
+
+See: (link: /terms/newtonquake text: NewtonQuake)
+
+----
+
+Source:
+
+- /sources/newtontalk

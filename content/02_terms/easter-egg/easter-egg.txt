@@ -38,6 +38,7 @@ Related:
 - /terms/lyon
 - /terms/neat-bong
 - /terms/neat-bong-assist
+- /terms/newtonquake
 - /terms/stafford
 
 ----
