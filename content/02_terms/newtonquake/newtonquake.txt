@@ -8,13 +8,13 @@ Date: 10 November 2025
 
 Text:
 
-A rather elaborate and detailed April Fool’s joke perpetrated on the Newton community in 1998. NewtonQuake consisted of a (link: /terms/package text: package) that supposedly ran on a Newton device allowing the user to “play” the infamous [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)) video game. It also came with a Windows application that allegedly could convert Quake .pak archives into Newton packages.
+An elaborate April Fool’s joke perpetrated on the Newton community in 1998.
 
-In reality, the NewtonQuake package was nothing more than a large file containing mostly random blocks of characters and could not actually be installed on a Newton device.
+NewtonQuake consisted of a (link: /terms/package text: package) file that supposedly allowed the user to “play” a version of the infamous [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)) video game on a Newton device. It also came with a Windows application that allegedly could convert Quake .pak archives into Newton packages.
 
-Notably, two clear phrases appear within the content of the file.
+In reality, the NewtonQuake package was nothing more than a large file containing mostly random blocks of characters and could not actually be installed successfully on a Newton device.
 
-_“Newton Quake by Ravenous and KrystalMeph”_ and _“April Fools!”_
+If the NewtonQuake package is opened in a text editor, two clear phrases appear within the file itself … _“Newton Quake by Ravenous and KrystalMeph”_ and _“April Fools!”_
 
 Also referred to as (link: /terms/newtquake text: NewtQuake).
 
