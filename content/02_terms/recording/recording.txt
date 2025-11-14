@@ -25,7 +25,9 @@ Related:
 - /terms/notepad
 - /terms/outline
 - /terms/prefs
+- /terms/recording-slip
 - /terms/sound
+- /terms/sound-recorder-slip
 - /terms/stationery
 - /terms/volume
 

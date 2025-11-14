@@ -1,0 +1,30 @@
+Title: Sound Recorder Slip
+
+----
+
+Date: 14 November 2025
+
+----
+
+Text:
+
+A (link: /terms/slip text: slip) that lets the user control (link: /terms/sound text: sound) recording and playback in an (link: /terms/application text: application).
+
+(image: /assets/images/sound-recorder-slip-2x.gif alt: Screenshot of the Sound Recorder Slip width: 167)
+
+----
+
+Related:
+
+- /terms/slip
+- /terms/sound
+- /terms/recorder-slip
+- /terms/recording
+- /terms/recording-slip
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

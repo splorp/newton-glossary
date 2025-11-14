@@ -1,0 +1,17 @@
+Title: Recorder Slip
+
+----
+
+Date: 14 November 2025
+
+----
+
+Text:
+
+See: (link: /terms/sound-recorder-slip text: Sound Recorder Slip)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
