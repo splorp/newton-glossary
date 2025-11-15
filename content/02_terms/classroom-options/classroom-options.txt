@@ -10,7 +10,7 @@ Text:
 
 A (link: /terms/slip text: slip) in the (link: /terms/teacher-setup text: Teacher Setup) application that allows specifying various user-related settings when an (link: /terms/emate-300 text: eMate 300) is set to (link: /terms/classroom-mode text: Classroom Mode).
 
-Settings include selecting a default printer, enabling or disabling spell-checking, allowing multiple users to log into an eMate, as well as choosing which applications users are able to access. It also provides a means to edit individual users and their associated (link: /terms/password text: passwords).
+Settings include selecting a default printer, enabling or disabling spell-checking, allowing multiple users to log into an eMate, as well as selecting which applications users are able to access. It also provides a means to edit individual users and their associated (link: /terms/password text: passwords).
 
 (image: /assets/images/classroom-options-2x.gif alt: Screenshot of the Classroom Options slip width: 236)
 

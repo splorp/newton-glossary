@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An instruction that causes the Newton or a device connected to it to perform some action. The user issues a command by (link: /terms/tapping text: tapping) a (link: /terms/button text: button), choosing an item from a (link: /terms/picker text: picker), or typing a specific keystroke.
+An instruction that causes the Newton or a device connected to it to perform some action. The user issues a command by (link: /terms/tapping text: tapping) a (link: /terms/button text: button), selecting an item in a (link: /terms/picker text: picker), or typing a specific keystroke.
 
 Commands or (link: /terms/dot-commands text: dot commands) are also text-based instructions used to tag specific content items when creating a (link: /terms/newton-book text: Newton book) source file.
 

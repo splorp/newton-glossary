@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The permanent internal description of a place where a user interacts with their Newton device, commonly referred to as a (link: /terms/worksite text: worksite). Examples of named locales would be “Home” and “Office”. Choosing an emporium sets up location-specific information such as the area code, dialing prefix, (link: /terms/time-zones text: time zone), printer settings, and email addresses.
+The permanent internal description of a place where a user interacts with their Newton device, commonly referred to as a (link: /terms/worksite text: worksite). Examples of named locales would be “Home” and “Office”. Selecting an emporium sets up location-specific information such as the area code, dialing prefix, (link: /terms/time-zones text: time zone), printer settings, and email addresses.
 
 Sometimes referred to as a (link: /terms/locale text: Locale), which is are a group of user settings pertaining to a specific country.
 

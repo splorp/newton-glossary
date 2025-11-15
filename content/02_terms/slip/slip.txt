@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A (link: /terms/container-view text: container view) with a (link: /terms/matte-border text: matte border) displayed by an (link: /terms/application text: application) in order to obtain user (link: /terms/input text: input), or to present alternatives which a user can choose to determine the outcome of a task that has been started.
+A (link: /terms/container-view text: container view) with a (link: /terms/matte-border text: matte border) displayed by an (link: /terms/application text: application) in order to obtain user (link: /terms/input text: input), or to present alternatives which a user can select to determine the outcome of a task that has been started.
 
 In comparison, a slip is similar to a dialog box on a Mac OS or Windows computer.
 
