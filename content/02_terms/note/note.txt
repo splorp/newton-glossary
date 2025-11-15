@@ -23,5 +23,6 @@ Related:
 - /terms/outline
 - /terms/recording
 - /terms/scribble-pad
+- /terms/sound-stationery
 - /terms/stationery
 - /terms/the-fish

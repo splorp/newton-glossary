@@ -24,6 +24,7 @@ Related:
 - /terms/notion
 - /terms/outline
 - /terms/recording
+- /terms/sound-stationery
 - /terms/stationery
 - /terms/structured-list
 - /terms/to-do-list

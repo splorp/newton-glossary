@@ -35,6 +35,7 @@ Related:
 - /terms/paper
 - /terms/quickfigure-works
 - /terms/recording
+- /terms/sound-stationery
 - /terms/spreadsheet
 - /terms/view
 - /terms/view-definition

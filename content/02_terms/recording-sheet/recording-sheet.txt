@@ -1,0 +1,17 @@
+Title: Recording Sheet
+
+----
+
+Date: 15 November 2025
+
+----
+
+Text:
+
+See: (link: /terms/Recording text: Recording) and (link: /terms/sound-stationery text: Sound Stationery)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
