@@ -8,7 +8,7 @@ Date: 11 December 2025
 
 Text:
 
-Software developed by (link: /sources/nobuo-kawaguchi text: Nobuo Kawaguchi) that purportedly could convert Mac OS sound files to Newton (link: /terms/package text: packages), which can then be installed and played on a Newton device. It is not known if the software was actually released publicly.
+Software developed by (link: /sources/nobuo-kawaguchi text: Nobuo Kawaguchi) that converted Mac OS sound files to Newton (link: /terms/package text: packages), which could then be installed and played on a Newton device. It is not known if the software was ever released publicly.
 
 ----
 

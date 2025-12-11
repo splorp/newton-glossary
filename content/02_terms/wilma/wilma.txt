@@ -8,7 +8,7 @@ Date: 20 May 2024
 
 Text:
 
-Windows, iOS, Linux, MacOS, and Android
+Windows, iOS, Linux, Mac OS, and Android
 
 An acronym coined by (link: /sources/matthias-melcher text: Matthias Melcher) that combines the initial letters of various computing platforms used in modern Newton software development. It is used in a chart explaining how various development tools are interconnected as documented in the (link: /terms/undo-overview text: Unified Newton Development Overview).
 

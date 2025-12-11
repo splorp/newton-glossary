@@ -8,7 +8,7 @@ Date: 17 August 2024
 
 Text:
 
-A weekly trade journal founded in 1987, acquired by Ziff-Davis in 1988, and finally shuttered in 2001. MacWEEK was focused on Apple, MacOS, and other related industry information, including the Newton platform.
+A weekly trade journal founded in 1987, acquired by Ziff-Davis in 1988, and finally shuttered in 2001. MacWEEK was focused on Apple, Mac OS, and other related industry information, including the Newton platform.
 
 ----
 

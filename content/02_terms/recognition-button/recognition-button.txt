@@ -8,7 +8,9 @@ Date: 05 November 2017
 
 Text:
 
-A (link: /terms/picture-button text: picture button) containing an (link: /terms/icon text: icon) representing an “A” (link: /terms/character text: character). (link: /terms/tapping text: Tapping) the recognition button allows the user to select the method of (link: /terms/handwriting-recognition text: handwriting recognition) used to interpret what is being written or drawn. Recognition options include (link: /terms/text text: Text), (link: /terms/ink-word text: Ink Text), (link: /terms/shapes text: Shapes), and (link: /terms/sketches text: Sketches).
+A (link: /terms/picture-button text: picture button) containing an (link: /terms/icon text: icon) representing an “A” (link: /terms/character text: character).
+
+(link: /terms/tapping text: Tapping) the recognition button allows the user to select the method of (link: /terms/handwriting-recognition text: handwriting recognition) used to interpret what is being written or drawn. Recognition options include (link: /terms/text text: Text), (link: /terms/ink-word text: Ink Text), (link: /terms/shapes text: Shapes), and (link: /terms/sketches text: Sketches).
 
 Also referred to as a (link: /terms/recognizer-button text: Recognizer Button).
 

@@ -8,7 +8,7 @@ Date: 10 January 2024
 
 Text:
 
-In (link: /terms/newtonscript text: NewtonScript), the (link: /terms/frame text: frame) that defines a sound. The sound frame stores sound (link: /terms/sample text: sample) data and additional information used internally by the system in one or more (link: /terms/slot text: slots) defining various parameters. This information can include (link: /terms/binary-object text: binary objects) of the sound samples, the number of samples, the sampling rate, the (link: /terms/codec text: codec) used to encode the samples, the (link: /terms/volume text: volume) the samples should be played back at, and how many times they should be repeated or looped.
+In (link: /terms/newtonscript text: NewtonScript), the (link: /terms/frame text: frame) that defines a sound. The sound frame stores sound (link: /terms/sample text: sample) data and additional information used internally by the system in one or more (link: /terms/slot text: slots) defining various parameters. This information can include (link: /terms/binary-object text: binary objects) of the sound samples, the number of samples, the sampling rate, the (link: /terms/codec text: codec) used to encode the samples, the (link: /terms/volume text: volume) the samples should be played at, and how many times they should be repeated or looped.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 29 October 2025
 
 Text:
 
-A software development, distribution, and marketing company founded in 1994. LandWare specialized in products for MacOS, Windows, and multiple handheld computing platforms including (link: /terms/newton-os text: Newton OS).
+A software development, distribution, and marketing company founded in 1994. LandWare specialized in products for Mac OS, Windows, and multiple handheld computing platforms including (link: /terms/newton-os text: Newton OS).
 
 (link: /terms/newtpaint text: NewtPaint) is one of several Newton OS products developed by LandWare.
 
