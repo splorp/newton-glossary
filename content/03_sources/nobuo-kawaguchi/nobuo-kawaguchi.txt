@@ -10,7 +10,7 @@ Text:
 
 An engineering professor at Nagoya University specializing in mobile communication, ubiquitous computing, and behavior sensing. For several years he maintained (link: /terms/japan-newton-information text: Japan Newton Information), a website that provided news, information, and other resources related to the Newton platform.
 
-Kawaguchi is also the developer of several software utilities for Mac OS and (link: /terms/newton-os text: Newton OS), including (link: /terms/pict2pkg text: Pict2Pkg).
+Kawaguchi is also the developer of several software utilities for Mac OS and (link: /terms/newton-os text: Newton OS), including (link: /terms/pict2pkg text: Pict2Pkg) and (link: /terms/sound2pkg text: Sound2Pkg).
 
 ----
 

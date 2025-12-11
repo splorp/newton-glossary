@@ -26,4 +26,5 @@ Related:
 - /terms/channel
 - /terms/sample
 - /terms/sound
+- /terms/sound2pkg
 - /terms/volume

@@ -33,6 +33,7 @@ Related:
 - /terms/prefs
 - /terms/recording
 - /terms/sample
+- /terms/sound2pkg
 - /terms/sound-frame
 - /terms/sound-recorder-slip
 - /terms/sound-stationery

@@ -30,6 +30,7 @@ Related:
 - /terms/nr404
 - /terms/sample
 - /terms/sound
+- /terms/sound2pkg
 - /terms/volume
 
 ----
