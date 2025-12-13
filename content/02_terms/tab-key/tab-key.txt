@@ -28,7 +28,9 @@ Related:
 - /terms/keystrings
 - /terms/keystroke-events
 - /terms/modifier-key
+- /terms/receive-key
 - /terms/return-key
+- /terms/send-key
 - /terms/tab
 - /terms/tab-marker
 - /terms/tab-stop

@@ -30,7 +30,9 @@ Related:
 - /terms/keystrings
 - /terms/modifier-key
 - /terms/newtonscript
+- /terms/receive-key
 - /terms/return-key
+- /terms/send-key
 - /terms/tab-key
 - /terms/type-ahead
 - /terms/typewriter

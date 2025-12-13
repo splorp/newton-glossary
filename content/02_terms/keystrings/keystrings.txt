@@ -26,7 +26,9 @@ Related:
 - /terms/keyboard-equivalent
 - /terms/keystroke-events
 - /terms/modifier-key
+- /terms/receive-key
 - /terms/return-key
+- /terms/send-key
 - /terms/tab-key
 - /terms/type-ahead
 - /terms/typewriter

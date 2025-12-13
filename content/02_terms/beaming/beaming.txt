@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-Transmitting data to or receiving data from another device via an (link: /terms/infrared text: infrared) connection. Colloquially (and somewhat disturbingly) referred to as (link: /terms/squirting text: squirting) by early Newton developers.
+Transmitting data between devices via an (link: /terms/infrared text: infrared) connection. Colloquially (and somewhat disturbingly) referred to as (link: /terms/squirting text: squirting) by early Newton developers.
 
 ----
 
@@ -21,6 +21,8 @@ Related:
 - /terms/infrared-window
 - /terms/irda
 - /terms/newtir
+- /terms/receive-key
 - /terms/routing
+- /terms/send-key
 - /terms/squirting
 - /terms/transceiver

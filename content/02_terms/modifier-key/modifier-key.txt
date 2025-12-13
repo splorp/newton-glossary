@@ -31,7 +31,9 @@ Related:
 - /terms/keyboard-equivalent
 - /terms/keystrings
 - /terms/keystroke-events
+- /terms/receive-key
 - /terms/return-key
+- /terms/send-key
 - /terms/tab-key
 - /terms/type-ahead
 - /terms/typewriter

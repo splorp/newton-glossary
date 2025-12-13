@@ -31,7 +31,9 @@ Related:
 - /terms/keystrings
 - /terms/keystroke-events
 - /terms/modifier-key
+- /terms/receive-key
 - /terms/return
+- /terms/send-key
 - /terms/tab-key
 - /terms/type-ahead
 - /terms/typewriter
