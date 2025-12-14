@@ -14,6 +14,9 @@ A choice in the (link: /terms/tag-button text: tag button) picker which moves th
 
 Related:
 
+- /terms/in-box
+- /terms/inout-box
+- /terms/out-box
 - /terms/picker
 - /terms/tag-button
 - /terms/tag-picker

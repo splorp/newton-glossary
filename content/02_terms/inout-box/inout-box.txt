@@ -26,6 +26,7 @@ Related:
 - /terms/newtonmail
 - /terms/notify-button
 - /terms/out-box
+- /terms/put-away
 - /terms/routing
 - /terms/simplemail
 - /terms/transport

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A list in the (link: /terms/inout-box text: InOut Box) application where sent or queued items can be can be viewed, filed, (link: /terms/routing text: routed), and otherwise managed. The (link: /terms/in-box text: In Box) and Out Box are separate (link: /terms/application text: applications) in earlier versions of (link: /terms/newton-os text: Newton OS).
+A list in the (link: /terms/inout-box text: InOut Box) application where sent or queued items can be can be viewed, filed, (link: /terms/put-away text: put away), (link: /terms/routing text: routed), and otherwise managed. The (link: /terms/in-box text: In Box) and Out Box are separate (link: /terms/application text: applications) in earlier versions of (link: /terms/newton-os text: Newton OS).
 
 ----
 
@@ -20,6 +20,7 @@ Related:
 - /terms/mail-v
 - /terms/newtdump
 - /terms/newtonmail
+- /terms/put-away
 - /terms/routing
 - /terms/simplemail
 - /terms/transport
