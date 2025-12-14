@@ -12,7 +12,7 @@ A (link: /terms/function-key text: function key) located on the (link: /terms/em
 
 Pressing the Receive key will open a (link: /terms/slip text: slip) with the message “Looking for sender”. When another user presses the (link: /terms/send-key text: Send key) on an eMate or uses the (link: /terms/routing-button text: routing button) to beam an item on Newton device, the slip will disappear.
 
-Once received, the beamed item will be listed in the (link: /terms/in-box text: In Box).
+Once received, the (link: /terms/beamed-item text: beamed item) will be listed in the (link: /terms/in-box text: In Box).
 
 ----
 
@@ -43,14 +43,3 @@ Related:
 Source:
 
 - /sources/emate-300-teachers-guide
-
-
-
-
-
-
-
-When another user presses the Send key on their eMate, the slip will disappear and the beamed item with be received by your eMate.
-
-
-

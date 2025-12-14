@@ -1,0 +1,18 @@
+Title: Beamed Item
+
+----
+
+Date: 14 May 2025
+
+----
+
+Text:
+
+See: (link: /terms/beaming text: Beaming)
+
+----
+
+Source:
+
+- /sources/emate-300-users-manual
+- /sources/messagepad-2000-user-manual

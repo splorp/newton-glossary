@@ -15,6 +15,7 @@ Transmitting data between devices via an (link: /terms/infrared text: infrared) 
 Related:
 
 - /terms/beam
+- /terms/beamed-item
 - /terms/burrito-beamer
 - /terms/endpoint
 - /terms/infrared
