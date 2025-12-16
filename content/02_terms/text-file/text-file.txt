@@ -27,6 +27,7 @@ Related:
 - /terms/resource-file
 - /terms/rich-text-format
 - /terms/stream-file
+- /terms/text
 - /terms/txt
 
 ----

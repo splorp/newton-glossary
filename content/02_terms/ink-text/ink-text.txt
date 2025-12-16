@@ -27,6 +27,7 @@ Related:
 - /terms/recognition-button
 - /terms/recognized-text
 - /terms/sketch-ink
+- /terms/text
 
 ----
 

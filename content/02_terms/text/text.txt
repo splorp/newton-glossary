@@ -10,14 +10,21 @@ Text:
 
 A (link: /terms/handwriting-recognition text: handwriting recognition) setting selected by (link: /terms/tapping text: tapping) the (link: /terms/recognition-button text: recognition button). When this setting is selected, words and numbers written on a Newton device will be converted to (link: /terms/recognized-text text: recognized text).
 
+Text also refers to any data or file format that consists of human-readable, alphanumeric (link: /terms/character text: characters).
+
 ----
 
 Related:
 
+- /terms/character
 - /terms/handwriting-recognition
 - /terms/recognition-button
 - /terms/recognized-text
+- /terms/rich-text-format
 - /terms/shapes
+- /terms/text-file
+- /terms/text-run
+- /terms/txt
 
 ----
 

@@ -15,6 +15,7 @@ A document format originally developed by [Microsoft](https://www.microsoft.com/
 Related:
 
 - /terms/rtf
+- /terms/text
 - /terms/text-file
 
 ----
