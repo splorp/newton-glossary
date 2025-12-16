@@ -35,6 +35,7 @@ Related:
 - /terms/quickfigure-pro
 - /terms/quickfigure-works
 - /terms/spreadsheet
+- /terms/text-engine
 
 ----
 

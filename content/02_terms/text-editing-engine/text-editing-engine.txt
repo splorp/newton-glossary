@@ -1,0 +1,17 @@
+Title: Text-Editing Engine
+
+----
+
+Date: 16 December 2025
+
+----
+
+Text:
+
+See: (link: /terms/text-engine text: Text Engine)
+
+----
+
+Source:
+
+- /sources/newton-technology-journal

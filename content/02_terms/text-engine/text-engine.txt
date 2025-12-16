@@ -1,0 +1,49 @@
+Title: Text Engine
+
+----
+
+Date: 16 December 2025
+
+----
+
+Text:
+
+Software that provides a mechanism for creating, storing, manipulating, formatting, and otherwise editing a data structure consisting of (link: /terms/text text: text).
+
+A text engine can include functionality to adjust various typographic characteristics such as (link: /terms/font-size text: font size), (link: /terms/font-style text: font style), line spacing, margins, paragraph indents, justification, and embedding (link: /terms/picture text: pictures) or other graphical elements within the text itself.
+
+(link: /terms/newton works text: Newton Works) is an example of an (link: /terms/application text: application) that implements a text engine for its word processing feature.
+
+Also referred to as a (link: /terms/text-editing-engine text: Text-Editing Engine).
+
+----
+
+Resource:
+
+- [UNNA: Newton Technology Journal: Text Engine](http://www.unna.org/unna/apple/documentation/developer/NewtonTechnologyJournal/NTJ_3_01.pdf)
+
+----
+
+Related:
+
+- /terms/availworks
+- /terms/character
+- /terms/font
+- /terms/font-size
+- /terms/font-style
+- /terms/newton-works
+- /terms/paper
+- /terms/point
+- /terms/rich-text-format
+- /terms/style-run
+- /terms/styles
+- /terms/text
+- /terms/text-editing-engine
+- /terms/text-file
+- /terms/text-run
+
+----
+
+Source:
+
+- /sources/newton-technology-journal
