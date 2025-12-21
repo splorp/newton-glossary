@@ -18,10 +18,12 @@ Recently added terms and sources are listed in the (link: /latest text: latest a
 
 Incremental changes are listed in the [code commit history](https://github.com/splorp/newton-glossary/commits/master).
 
-### _$r
+### 5.1.0
 
-Terms: _$t
-Sources: _$s
+21 December 2025
+
+Terms: 1,974
+Sources: 219
 
 #### Summary of changes:
 
