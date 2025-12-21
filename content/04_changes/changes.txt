@@ -25,7 +25,12 @@ Sources: _$s
 
 #### Summary of changes:
 
-+ Updated [Kirby](https://getkirby.com/) to version [5.1.3](https://github.com/getkirby/kirby/releases/tag/5.1.3)
++ Added 24 new terms
++ Added 3 new sources
++ Updated and expanded dozens of existing entries
++ Search results now identify entries as either a Term, Source, or Page
++ Updated [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) to version [1.44](https://github.com/ai-robots-txt/ai.robots.txt/releases/tag/v1.44)
++ Updated [Kirby](https://getkirby.com/) to version [5.2.1](https://github.com/getkirby/kirby/releases/tag/5.2.1)
 
 ### 5.0.2
 
