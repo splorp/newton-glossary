@@ -12,7 +12,7 @@ Software developed by (link: /sources/lee-moon text: Lee Moon) for creating and 
 
 (image: /assets/images/nanocad-2x.gif alt: Screenshot of NanoCAD width: 208)
 
-The (link: /terms/newton-os text: Newton OS) version of the software is based on portions of the original NanoCAD software written in the [Java](https://www.java.com/) programming language by [Will Ware](http://web.archive.org/web/20051210084810/http://willware.net:8080/).
+The (link: /terms/newton-os text: Newton OS) version of the software is based on portions of the original NanoCAD software written in the [Java](https://www.java.com/) programming language by [Will Ware](https://web.archive.org/web/20051210084810/http://willware.net:8080/).
 
 ----
 
@@ -20,7 +20,7 @@ Resource:
 
 - [UNNA: NanoCAD](http://www.unna.org/view.php?/applications/NanoCAD)
 - [The Newted Community: NanoCAD](https://www.newted.org/resources/nanocad/)
-- [Will Ware: NanoCAD in Java](http://web.archive.org/web/20051208030818/http://willware.net:8080/ncad.html)
+- [Will Ware: NanoCAD in Java](https://web.archive.org/web/20051208030818/http://willware.net:8080/ncad.html)
 
 ----
 
