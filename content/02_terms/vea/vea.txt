@@ -1,0 +1,37 @@
+Title: Vea
+
+----
+
+Date: 27 December 2025
+
+----
+
+Text:
+
+Software developed by (link: /sources/planet-computing text: Planet Computing) that featured a set of diagramming tools similar to the (link: /terms/draw text: Draw) component of (link: /terms/newton-works text: Newton Works). In addition to allowing the user to select, position, and layer graphical (link: /terms/object text: objects) using templates for various planning tasks, Vea also provided an underlying (link: /terms/database text: database) which could be used to assign multiple properties to each object. 
+
+(image: /assets/images/vea-2x.gif alt: Screenshot of Vea width: 242)
+
+----
+
+Resource:
+
+- [UNNA: Vea](http://www.unna.org/view.php?/applications/Vea)
+- [The Newted Community: Vea](https://www.newted.org/resources/vea/)
+- [Planet Computing: Vea Product Information](https://web.archive.org/web/19980509000153/http://www.aplanet.com/prod01.htm)
+
+----
+
+Related:
+
+- /terms/accordian
+- /terms/bee-one
+- /terms/database
+- /terms/encyclopedia
+- /terms/leverage
+
+----
+
+Source:
+
+- /sources/planet-computing

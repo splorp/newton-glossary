@@ -26,6 +26,7 @@ Related:
 - /terms/bee-one
 - /terms/database
 - /terms/encyclopedia
+- /terms/vea
 
 ----
 

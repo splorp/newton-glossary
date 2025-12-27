@@ -20,6 +20,7 @@ Related:
 - /terms/encyclopedia
 - /terms/leverage
 - /terms/soup
+- /terms/vea
 
 ----
 

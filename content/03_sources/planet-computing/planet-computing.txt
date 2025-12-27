@@ -1,0 +1,17 @@
+Title: Planet Computing
+
+----
+
+Date: 27 December 2025
+
+----
+
+Text:
+
+A software company based in Austin, Texas that provided software for mobile computing, including the (link: /terms/vea text: Vea) diagramming (link: /terms/application text: application) for (link: /terms/newton-os text: Newton OS).
+
+----
+
+Resource:
+
+- [Planet Computing Website](https://web.archive.org/web/19980509000139/http://www.aplanet.com/)

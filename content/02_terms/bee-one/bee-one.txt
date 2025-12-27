@@ -28,3 +28,4 @@ Related:
 - /terms/leverage
 - /terms/power-box
 - /terms/sloup
+- /terms/vea
