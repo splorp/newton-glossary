@@ -8,7 +8,7 @@ Date: 04 November 2025
 
 Text:
 
-A software development company founded by John Miller in Austin, Texas. Balcones Software was best known for (link: /terms/leverage text: Leverage), its powerful (link: /terms/newton-os text: Newton OS) database application.
+A software development company founded by John Miller in Austin, Texas. Balcones Software was best known for (link: /terms/leverage text: Leverage), its powerful (link: /terms/newton-os text: Newton OS) database (link: /terms/application text: application).
 
 ----
 

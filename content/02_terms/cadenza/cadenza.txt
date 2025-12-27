@@ -8,7 +8,7 @@ Date: 27 September 2024
 
 Text:
 
-Software developed by (link: /sources/commontime text: CommonTime) that facilitated the (link: /terms/synchronization text: synchronization) of information between a Newton device and Lotus Notes using a control database running on a Windows computer.
+Software developed by (link: /sources/commontime text: CommonTime) that facilitated the (link: /terms/synchronization text: synchronization) of information between a Newton device and Lotus Notes using a control (link: /terms/database text: database) running on a Windows computer.
 
 Through the (link: /terms/in-out-box text: InOut Box), Cadenza users could read and reply to Lotus Notes mail, view and respond to meeting requests, perform (link: /terms/backup text: backups) of the data stored on their Newton device, as well as install (link: /terms/package text: packages) and (link: /terms/newton-book text: Newton books).
 

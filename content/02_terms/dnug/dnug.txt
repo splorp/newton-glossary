@@ -10,7 +10,7 @@ Text:
 
 Danish Newton User Group
 
-Founded by Jakob and Kristoffer Peterhänsel in 1997, DNUG was home to the Newton-Snak mailing list and (link: /terms/newton-versions text: Newton Versions), an online database listing updates to both free and commercial Newton software.
+Founded by Jakob and Kristoffer Peterhänsel in 1997, DNUG was home to the Newton-Snak mailing list and (link: /terms/newton-versions text: Newton Versions), an online (link: /terms/database text: database) listing updates to both free and commercial Newton software.
 
 ----
 
