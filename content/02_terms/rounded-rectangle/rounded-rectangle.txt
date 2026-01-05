@@ -9,6 +9,7 @@ Date: 24 May 2001
 Text:
 
 A (link: /terms/rectangle text: rectangle) with rounded corners. The (link: /terms/shape text: shape) is defined by the rectangle itself, along with the diameter of the circles forming the corners (called the diameter of curvature).
+
 ----
 
 Related:
