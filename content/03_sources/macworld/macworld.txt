@@ -18,4 +18,4 @@ Resource:
 
 - [Macworld Website](https://www.macworld.com/)
 - [Macworld Magazine Collection](https://archive.org/details/macworld-magazine)
-- [Australian Macworld Website](https://archive.org/search?query=%22australian+macworld%22)
+- [Australian Macworld Website](https://web.archive.org/web/20080912234323/http://www.macworld.com.au/)

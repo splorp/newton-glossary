@@ -12,15 +12,10 @@ A Newton-focused column written by Jeremy Templer that appeared in the Australia
 
 ----
 
-Resource:
-
-- [MacTech: Newton Q & A: Ask The Llama](http://preserve.mactech.com/articles/develop/issue_26/newtonqa.html)
-
-----
-
 Related:
 
 - /terms/ask-the-llama
+- /terms/newton-notes
 
 ----
 
