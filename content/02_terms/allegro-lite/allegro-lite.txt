@@ -1,0 +1,37 @@
+ Title: Allegro Lite
+
+----
+
+Date: 05 January 2026
+
+----
+
+Text:
+
+A scaled down version of Mac OS rumoured to be in development for portable and handheld computers after Newton development was (link: /terms/steved text: Steved).
+
+Allegro was the code name for Mac OS 8.5.
+
+----
+
+Resource:
+
+- [As The Apple Turns: Newton Gets Macified](http://appleturns.com/scene/?id=443)
+- [As The Apple Turns: Allegro in Full Force](http://appleturns.com/scene/?id=446)
+- [Macworld Australia: Succumbing to gravity](https://www.newted.org/resources/Succumbing-to-gravity-Australian-Macworld-1998-04.jpg)
+
+----
+
+Related:
+
+- /terms/an
+- /terms/andante
+- /terms/newton-pie
+- /terms/steved
+
+----
+
+Source:
+
+- /sources/as-the-apple-turns
+- /sources/macworld

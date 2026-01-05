@@ -25,6 +25,7 @@ Resource:
 Related:
 
 - /terms/action-names
+- /terms/allegro-lite
 - /terms/bn
 - /terms/dn
 - /terms/newton-pie
