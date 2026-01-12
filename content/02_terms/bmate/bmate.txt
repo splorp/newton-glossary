@@ -22,6 +22,7 @@ Resource:
 - [Pen Computing: Why Did Apple Kill Newton?](https://www.pencomputing.com/Newton/AppleKillsNewton(PCM22).html)
 - [Apple Recon: eMate 1000](https://web.archive.org/web/20010405015435/http://www.geocities.com/WallStreet/7744/emate1k.html)
 - [MacCentral: Newton News](https://web.archive.org/web/19981203050535/http://www.maccentral.com/features/012098_nn.shtml)
+- [Macworld Australia: Succumbing to Gravity](https://www.newted.org/resources/Succumbing-to-Gravity-Australian-Macworld-1998-04.jpg)
 - [ThessaSource: The Fate of the Newton](https://web.archive.org/web/19981205214656/http://www.thessasource.com/features/newton.html)
 - [Newton @ -AtMark-](https://web.archive.org/web/20080501032642/http://www.remus.dti.ne.jp/~sugiyama/199711_2news.html#19971117)
 
@@ -43,5 +44,6 @@ Source:
 - /sources/apple-recon
 - /sources/maccentral
 - /sources/macos-rumors
+- /sources/macworld
 - /sources/pen-computing
 - /sources/thessasource
