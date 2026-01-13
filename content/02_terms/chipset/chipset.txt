@@ -15,7 +15,6 @@ A collection of integrated circuits designed to be used together to provide spec
 Related:
 
 - /terms/asic
-- /terms/cl-ps7000
 - /terms/jelly-bean-parts
 - /terms/runt
 - /terms/vlsi

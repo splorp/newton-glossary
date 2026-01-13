@@ -17,7 +17,6 @@ N2 was also one of the code names for the (link: /terms/messagepad-2000 text: Me
 Related:
 
 - /terms/chipset
-- /terms/cl-ps7000
 - /terms/clone
 - /terms/rom-extension
 - /terms/voyager

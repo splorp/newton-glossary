@@ -24,7 +24,6 @@ Related:
 - /terms/asic
 - /terms/chipset
 - /terms/cirrus
-- /terms/cl-ps7000
 - /terms/voyager
 
 ----
