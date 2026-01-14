@@ -1,0 +1,21 @@
+Title: NS BASIC Corporation
+
+----
+
+Date: 06 July 2025
+
+----
+
+Text:
+
+A software development company founded in 1993 by George Henne and based in Toronto, Ontario. Specializing in creating programming tools for handheld devices, including their namesake (link: /terms/ns-basic text: NS BASIC) and (link: /terms/newtcard text: NewtCard) products for (link: /terms/newton-os text: Newton OS).
+
+The company is now known simply as NSB Corporation.
+
+----
+
+Resource:
+
+- [NSB Corporation Website](https://www.nsbasic.com/)
+- [NS BASIC Corporation: NS BASIC Newton](https://www.nsbasic.com/newton/)
+- [The Newted Community: NS BASIC Handbook](https://www.newted.org/download/manuals/NSBasicHandbook.pdf)

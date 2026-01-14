@@ -14,4 +14,4 @@ See: (link: /terms/alarm-wakeup text: Alarm Wakeup)
 
 Source:
 
-- /sources/ns-basic-handbook
+- /sources/ns-basic

@@ -57,4 +57,4 @@ Source:
 
 - /sources/newton-programmers-guide
 - /sources/newton-programmers-reference
-- /sources/ns-basic-handbook
+- /sources/ns-basic

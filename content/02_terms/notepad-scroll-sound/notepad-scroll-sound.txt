@@ -14,4 +14,4 @@ See: (link: /terms/page-flipping text: Page Flipping)
 
 Source:
 
-- /sources/ns-basic-handbook.txt
+- /sources/ns-basic

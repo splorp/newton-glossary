@@ -14,4 +14,4 @@ See: (link: /terms/boot-up-chime text: Boot Up Chime)
 
 Source:
 
-- /sources/ns-basic-handbook
+- /sources/ns-basic

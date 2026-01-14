@@ -122,6 +122,10 @@ Redirects:
   touri: /sources/softwareburo-muller
   code: _301
 - 
+  fromuri: /sources/ns-basic-handbook
+  touri: /sources/ns-basic
+  code: _301
+- 
   fromuri: /sources/the-new-york-times
   touri: /sources/new-york-times
   code: _301
