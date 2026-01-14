@@ -74,6 +74,10 @@ Redirects:
   touri: /terms/cpu
   code: _301
 - 
+  fromuri: /terms/desktop-integration-library
+  touri: /terms/desktop-integration-libraries
+  code: _301
+- 
   fromuri: /terms/electro-luminescent-panel
   touri: /terms/electroluminescent-panel
   code: _301
@@ -88,6 +92,10 @@ Redirects:
 - 
   fromuri: /terms/llama-dos
   touri: /terms/llamados
+  code: _301
+- 
+  fromuri: /terms/local-area-network
+  touri: /terms/lan
   code: _301
 - 
   fromuri: /terms/memory-management-unit
@@ -136,14 +144,6 @@ Redirects:
 - 
   fromuri: /sources/the-simpsons
   touri: /sources/simpsons
-  code: _301
-- 
-  fromuri: /terms/desktop-integration-library
-  touri: /terms/desktop-integration-libraries
-  code: _301
-- 
-  fromuri: /terms/local-area-network
-  touri: /terms/lan
   code: _301
 
 ----

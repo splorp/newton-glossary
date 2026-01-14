@@ -28,6 +28,7 @@ Related:
 - /terms/hammer
 - /terms/macintosh-programmers-workshop
 - /terms/newton-c-tools
+- /terms/newton-toolkit
 - /terms/viewframe
 
 ----
