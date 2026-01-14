@@ -29,6 +29,7 @@ Related:
 - /terms/newt
 - /terms/newtapp
 - /terms/newtatut
+- /terms/newtcard
 - /terms/newtdraw
 - /terms/newton-c-tools
 - /terms/newton-toolkit

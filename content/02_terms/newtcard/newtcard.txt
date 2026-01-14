@@ -1,0 +1,38 @@
+Title: NewtCard
+
+----
+
+Date: 14 January 2026
+
+----
+
+Text:
+
+An development (link: /terms/application text: application) for (link: /terms/newton-os text: Newton OS) similar to Apple’s <a href="https://hypercard.org/">HyperCard</a>. NewtCard allows the user to build a navigable “stack” of “cards” containing any combination of (link: /terms/text text: text), (link: /terms/shape text: shape) drawings, (link: /terms/bitmap text: bitmap) images, (link: /terms/field text: fields), (link: /terms/button text: buttons), and sounds. (link: /terms/script text: Scripts) written in a subset of (link: /terms/ns-basic text: NS BASIC) can be attached to stack, card, backgrounds, fields, and buttons.
+
+NewtCard was developed by the <a href="https://www.nsbasic.com/">NS BASIC Corporation</a> based in Toronto.
+
+----
+
+Resource:
+
+- [NS BASIC Corporation: NewtCard Product Information](https://www.nsbasic.com/newton/info/newtcard/)
+- [The Newted Community: NewtCard Handbook](https://www.newted.org/download/manuals/NewtCardHandbook.pdf)
+- [GitHub: NewtCard forNewton OS](https://github.com/nsbasic-archive/NewtCard-for-Newton-OS)
+
+----
+
+Related:
+
+- /terms/newtapp
+- /terms/newtdevenv
+- /terms/newton-toolkit
+- /terms/newtonscript
+- /terms/ns-basic
+- /terms/script
+
+----
+
+Source:
+
+- /sources/ns-basic

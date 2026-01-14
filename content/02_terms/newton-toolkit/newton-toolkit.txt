@@ -41,6 +41,7 @@ Related:
 - /terms/macintosh-programmers-workshop
 - /terms/minspector
 - /terms/newtapp
+- /terms/newtcard
 - /terms/newtdevenv
 - /terms/newton-book-maker
 - /terms/newton-c-tools

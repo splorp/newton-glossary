@@ -30,6 +30,7 @@ Related:
 - /terms/macintosh-programmers-workshop
 - /terms/nct
 - /terms/newtapp
+- /terms/newtcard
 - /terms/newtdevenv
 - /terms/newton-c-tools
 - /terms/newton-toolkit

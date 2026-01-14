@@ -15,6 +15,7 @@ A programming framework designed to help build complete, full-featured Newton (l
 Related:
 
 - /terms/macintosh-programmers-workshop
+- /terms/newtcard
 - /terms/newtdevenv
 - /terms/newton-c-tools
 - /terms/newton-toolkit
