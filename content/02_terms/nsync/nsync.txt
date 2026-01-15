@@ -8,7 +8,7 @@ Date: 21 November 2004
 
 Text:
 
-The original name for (link: /terms/newtsync text: NewtSync), the data synchronization software developed by John Anderson.
+The original name for (link: /terms/newtsync text: NewtSync), the data (link: /terms/synchronization text: synchronization) software developed by John Anderson.
 
 Not to be confused with the [overproduced boy band](https://en.wikipedia.org/wiki/NSYNC) with the similar name.
 

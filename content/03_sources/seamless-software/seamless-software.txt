@@ -8,7 +8,7 @@ Date: 24 December 2024
 
 Text:
 
-A software development company based in Denver, Colorado. Specializing in the integration of handheld devices with desktop computer systems, they are arguably best known for (link: /terms/lookout text: LookOut) data synchronization product.
+A software development company based in Denver, Colorado. Specializing in the integration of handheld devices with desktop computer systems, they are arguably best known for (link: /terms/lookout text: LookOut) data (link: /terms/synchronization text: synchronization) product.
 
 ----
 

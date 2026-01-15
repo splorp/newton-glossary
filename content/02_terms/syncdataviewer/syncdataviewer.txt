@@ -22,7 +22,7 @@ Resource:
 Related:
 
 - /terms/newton-data-viewer
-- /terms/synchronization
+- /terms/synchronize
 - /terms/transporter
 
 ----

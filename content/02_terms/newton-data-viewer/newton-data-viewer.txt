@@ -49,7 +49,7 @@ Related:
 - /terms/notes2notes
 - /terms/now-up-to-date
 - /terms/syncdataviewer
-- /terms/synchronization
+- /terms/synchronize
 - /terms/transporter
 
 ----
