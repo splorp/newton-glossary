@@ -19,6 +19,7 @@ Related:
 - /terms/cadenza
 - /terms/cadenza-connect
 - /terms/lookout
+- /terms/newton-data-viewer
 - /terms/newtourage
 - /terms/notes2notes
 - /terms/nud

@@ -1,0 +1,17 @@
+Title: NDV Exchange
+
+----
+
+Date: 15 January 2026
+
+----
+
+Text:
+
+See: (link: /terms/newton-data-viewer text: Newton Data Viewer)
+
+----
+
+Source:
+
+- /sources/pythia

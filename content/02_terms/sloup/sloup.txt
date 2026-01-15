@@ -24,6 +24,7 @@ Related:
 
 - /terms/accordian
 - /terms/bee-one
+- /terms/newton-data-viewer
 - /terms/notable
 - /terms/revelar-connection-utility
 - /terms/slurpee

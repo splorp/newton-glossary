@@ -37,6 +37,7 @@ Related:
 - /terms/newton-connection
 - /terms/newton-connection-pro-kit
 - /terms/newton-connection-utilities
+- /terms/newton-data-viewer
 - /terms/newton-package-installer
 - /terms/newton-serial-cable
 - /terms/nwt

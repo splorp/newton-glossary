@@ -1,0 +1,59 @@
+Title: Newton Data Viewer
+
+----
+
+Date: 15 January 2026
+
+----
+
+Text:
+
+Software developed by (link: /sources/pythia text: Pythia) and distributed by (link: /terms/starcore text: StarCore) that allowed a user to import, export, view, and manipulate data such as text files, spreadsheets, and lists.
+
+Based on existing Pythia products called (link: /terms/transporter text: TransPorter) and (link: /terms/syncdataviewer text: SyncDataViewer), the software consisted of a Mac OS or Windows (link: /terms/application text: application) called (link: /terms/newton-data-viewer-exchange-utility text: Newton Data Viewer Exchange Utility) and an associated (link: /terms/package text: package) installed on a Newton device called (link: /terms/newton-data-viewer-communication-tool text: Newton Data Viewer Communication Tool).
+
+The software provided a mechanism for downloading data from desktop applications such as Microsoft Excel, Microsoft Word, and FileMaker to a Newton device for viewing and modifying. The exchange program would then synchronize any changes back to the desktop computer.
+
+Newton Data Viewer was included with the (link: /terms/newton-connection-kit text: Newton Connection Kit) in Germany, but apparently it was never released in North America.
+
+Also referred to as (link: /terms/ndv text: NDV) and (link: /terms/ndv-exchange text: NDV Exchange).
+
+----
+
+Resource:
+
+- [Apple Support: Newton Data Viewer Not Available](http://web.archive.org/web/20001212141900/http://til.info.apple.com/techinfo.nsf/artnum/n15180)
+- [NewtonTalk: Newton Data Viewer](http://newtontalk.net/archive/newtontalk/2001-August/1470.html)
+- [Pythia: SyncServer Produkte](https://web.archive.org/web/19970130111600/http://www.pythia.de/pages/SyncServer/syncproducts_D.html) (Deutsch)
+- [Pythia: SyncServer Products](https://web.archive.org/web/19970130111931/http://www.pythia.de/pages/SyncServer/syncproducts_E.html) (English)
+
+----
+
+Related:
+
+- /terms/cadenza
+- /terms/cadenza-connect
+- /terms/escale
+- /terms/lookout
+- /terms/ndv
+- /terms/ndv-exchange
+- /terms/newton-connection
+- /terms/newton-connection-kit
+- /terms/newton-connection-pro-kit
+- /terms/newton-connection-utilities
+- /terms/newton-data-viewer-communication-tool
+- /terms/newton-data-viewer-exchange-utility
+- /terms/newtourage
+- /terms/newtsync
+- /terms/notes2notes
+- /terms/now-up-to-date
+- /terms/syncdataviewer
+- /terms/synchronization
+- /terms/transporter
+
+----
+
+Source:
+
+- /sources/apple-tech-info-library
+- /sources/pythia

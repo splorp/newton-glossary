@@ -1,0 +1,25 @@
+Title: TransPorter
+
+----
+
+Date: 15 January 2026
+
+----
+
+Text:
+
+The commercial version of the (link: /terms/newton-data-viewer-exchange-utility text: Newton Data Viewer Exchange Utility) software developed by (link: /sources/pythia text: Pythia) which provided a mechanism for downloading data from desktop (link: /terms/application text: applications) to a handheld device. The exchange program would also synchronize any changes back to the desktop computer.
+
+----
+
+Related:
+
+- /terms/newton-data-viewer
+- /terms/syncdataviewer
+- /terms/synchronization
+
+----
+
+Source:
+
+- /sources/pythia

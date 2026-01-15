@@ -1,0 +1,18 @@
+Title: Pythia Communication & Computer GmbH
+
+----
+
+Date: 15 January 2026
+
+----
+
+Text:
+
+A German software company that provided communication, system integration, and application development for handheld devices. Pythia was responsible for the (link: /terms/newton-data-viewer text: Newton Data Viewer) software that shipped with the (link: /terms/newton-connection-kit text: Newton Connection Kit) in Germany.
+
+----
+
+Resource:
+
+- [Pythia Website](https://web.archive.org/web/19970130111952/http://www.pythia.de/pages/homepage) (Deutsch)
+- [Pythia Website](https://web.archive.org/web/19970130111906/http://www.pythia.de/pages/home_E) (English)

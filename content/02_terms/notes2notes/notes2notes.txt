@@ -28,6 +28,7 @@ Related:
 - /terms/newton-connection-kit
 - /terms/newton-connection-pro-kit
 - /terms/newton-connection-utilities
+- /terms/newton-data-viewer
 - /terms/newtourage
 - /terms/notepad
 - /terms/now-up-to-date

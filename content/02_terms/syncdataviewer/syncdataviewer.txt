@@ -1,0 +1,32 @@
+Title: SyncDataViewer
+
+----
+
+Date: 15 January 2026
+
+----
+
+Text:
+
+The commercial version of the (link: /terms/newton-data-viewer-communication-tool text: Newton Data Viewer Communication Tool) application developed by (link: /sources/pythia text: Pythia) for displaying structured information and other data from desktop (link: /terms/application text: applications) in form of lists on a Newton device.
+
+----
+
+Resource:
+
+- [Pythia: SyncServer Produkte](https://web.archive.org/web/19970130111600/http://www.pythia.de/pages/SyncServer/syncproducts_D.html)(Deutsch)
+- [Pythia: SyncServer Products](https://web.archive.org/web/19970130111931/http://www.pythia.de/pages/SyncServer/syncproducts_E.html)(English)
+
+----
+
+Related:
+
+- /terms/newton-data-viewer
+- /terms/synchronization
+- /terms/transporter
+
+----
+
+Source:
+
+- /sources/pythia
