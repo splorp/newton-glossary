@@ -16,8 +16,8 @@ Related:
 
 - /terms/cadenza
 - /terms/cadenza-connect
-- /terms/lookout
 - /terms/escale
+- /terms/lookout
 - /terms/newton-connection
 - /terms/newton-connection-kit
 - /terms/newton-connection-pro-kit
@@ -27,7 +27,6 @@ Related:
 - /terms/newtsync
 - /terms/notes2notes
 - /terms/now-up-to-date
-- /terms/nsync
 - /terms/sync
 - /terms/synchronization
 - /terms/workfile
