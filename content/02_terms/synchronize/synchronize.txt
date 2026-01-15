@@ -18,6 +18,7 @@ Related:
 - /terms/cadenza-connect
 - /terms/escale
 - /terms/lookout
+- /terms/mobile-information-management
 - /terms/newton-connection
 - /terms/newton-connection-kit
 - /terms/newton-connection-pro-kit

@@ -1,0 +1,30 @@
+Title: Mobile Information Management
+
+----
+
+Date: 15 January 2026
+
+----
+
+Text:
+
+A term used to describe the capabilities of the (link: /terms/newton-data-viewer text: Newton Data Viewer) software, which involved downloading data from desktop (link: /terms/application text: applications) to a Newton device for viewing, modifying, and (link: /terms/synchronizing text: synchronizing) changes back to a desktop computer.
+
+----
+
+Resource:
+
+- [Apple Support: Newton Data Viewer Not Available](http://web.archive.org/web/20001212141900/http://til.info.apple.com/techinfo.nsf/artnum/n15180)
+
+----
+
+Related:
+
+- /terms/newton-data-viewer
+- /terms/synchronize
+
+----
+
+Source:
+
+- /sources/apple-tech-info-library
