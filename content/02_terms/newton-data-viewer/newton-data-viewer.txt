@@ -12,6 +12,8 @@ Software developed by (link: /sources/pythia text: Pythia) and distributed by (l
 
 Based on existing Pythia products called (link: /terms/transporter text: TransPorter) and (link: /terms/syncdataviewer text: SyncDataViewer), the software consisted of a Mac OS or Windows (link: /terms/application text: application) called (link: /terms/newton-data-viewer-exchange-utility text: Newton Data Viewer Exchange Utility) and an associated (link: /terms/package text: package) installed on a Newton device called (link: /terms/newton-data-viewer-communication-tool text: Newton Data Viewer Communication Tool).
 
+(image: /assets/images/newton-data-viewer-2x.gif alt: Screenshot of the Newton Data Viewer application width: 322)
+
 The software provided a mechanism for downloading data from desktop applications such as Microsoft Excel, Microsoft Word, and FileMaker to a Newton device for viewing and modifying. The exchange program would then (link: /terms/synchronize text: synchronize) any changes back to the desktop computer. Apple described this process as (link: /terms/mobile-information-management text: mobile information management).
 
 Newton Data Viewer was included with the (link: /terms/newton-connection-kit text: Newton Connection Kit) in Germany, but apparently it was never released in North America.
