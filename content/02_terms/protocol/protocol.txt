@@ -17,6 +17,7 @@ Related:
 - /terms/adsp
 - /terms/appletalk
 - /terms/ask
+- /terms/bonjour
 - /terms/dante
 - /terms/dcl
 - /terms/dhcp

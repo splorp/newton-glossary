@@ -1,0 +1,41 @@
+Title: Bonjour
+
+----
+
+Date: 24 January 2026
+
+----
+
+Text:
+
+A technology developed by [Apple](https://www.apple.com/) that provides an automated mechanism for creating networks of computers and other devices with little or no configuration. Rendezvous allows various services such as file sharing and printing to be registered on the network, allowing these services to be discoverable by other devices using standard (link: /terms/ip text: IP) protocols.
+
+Originally released as (link: /terms/rendezvous text: Rendezvous) in 2002, it was renamed in 2005 due to a trademark conflict.
+
+Also referred to as (link: /terms/zero-configuration-networking text: Zero Configuration Networking) and (link: /terms/zeroconf text: Zeroconf).
+
+----
+
+Resource:
+
+- [Apple: Mac OS X: Bonjour](https://web.archive.org/web/20050629233656/http://www.apple.com/macosx/features/bonjour/)
+- [Apple: Developer: Bonjour](https://web.archive.org/web/20080422211705/http://developer.apple.com/networking/bonjour/)
+- [Apple: Mac OS X: Rendezvous](https://web.archive.org/web/20021030230937/http://www.apple.com/macosx/jaguar/rendezvous.html)
+- [Apple: Developer: Rendezvous](https://web.archive.org/web/20021214234147/http://developer.apple.com/darwin/projects/rendezvous/)
+- [Press Release: Apple “Open Sources” Rendezvous](https://web.archive.org/web/20021017103944/http://www.apple.com/pr/library/2002/sep/25rendezvous.html)
+- [AppleInsider: Apple to rename Rendezvous technology “Bonjour”](https://web.archive.org/web/20071215144543/https://appleinsider.com/articles/05/02/18/apple_to_rename_rendezvous_technology_bonjour.html)
+
+----
+
+Related:
+
+- /terms/delivery
+- /terms/ip
+- /terms/protocol
+- /terms/rendezvous
+- /terms/zero-configuration-networking
+- /terms/zeroconf
+
+----
+
+- /sources/techencyclopedia

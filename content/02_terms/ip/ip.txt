@@ -16,6 +16,7 @@ Part of the (link: /terms/tcp-ip text: TCP/IP) communications (link: /terms/prot
 
 Related:
 
+- /terms/bonjour
 - /terms/dhcp
 - /terms/dns
 - /terms/imap
