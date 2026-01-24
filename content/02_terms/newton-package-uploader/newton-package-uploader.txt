@@ -16,6 +16,7 @@ Also referred to as (link: /terms/npu text: NPU).
 
 Related:
 
+- /terms/newtftp
 - /terms/newtonpkg
 - /terms/npu
 - /terms/package

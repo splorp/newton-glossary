@@ -23,7 +23,9 @@ Resource:
 
 Related:
 
+- /terms/newton-package-uploader
 - /terms/package-installer
+- /terms/toss
 
 ----
 

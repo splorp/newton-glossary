@@ -14,6 +14,7 @@ Software developed by (link: /sources/steve-weyer text: Steve Weyer) that allows
 
 Related:
 
+- /terms/newtftp
 - /terms/newton-package-uploader
 - /terms/newtonpkg
 - /terms/newtterm
