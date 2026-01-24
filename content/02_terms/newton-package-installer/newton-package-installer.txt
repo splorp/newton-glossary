@@ -17,6 +17,7 @@ Also referred to as (link: /terms/npi text: NPI).
 Related:
 
 - /terms/amiganpi
+- /terms/delivery
 - /terms/newten
 - /terms/newton-backup-express
 - /terms/newton-backup-utility

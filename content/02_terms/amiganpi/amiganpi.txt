@@ -21,6 +21,7 @@ Resource:
 
 Related:
 
+- /terms/delivery
 - /terms/newten
 - /terms/newton-backup-express
 - /terms/newton-backup-utility

@@ -15,6 +15,7 @@ A software program that facilitates the installation of (link: /terms/package te
 Related:
 
 - /terms/amiganpi
+- /terms/delivery
 - /terms/escale
 - /terms/newten
 - /terms/newtftp

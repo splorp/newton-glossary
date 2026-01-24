@@ -1,0 +1,46 @@
+Title: Delivery
+
+----
+
+Date: 23 January 2026
+
+----
+
+Text:
+
+Desktop Connection Library
+
+An (link: /terms/application text: application) created by (link: /sources/paul-guyot text: Paul Guyot) for installing (link: /terms/package text: packages) on a Newton device over (link: /terms/appletalk text: AppleTalk) and (link: /terms/tcp-ip text: TCP/IP) using Mac OS X.
+
+Delivery is based on the (link: /terms/desktop-connection-library text: Desktop Connection Library) framework and implements the (link: /terms/bonjour text: Bonjour) (also known as (link: /terms/rendezvous text: Rendezvous)) networking service.
+
+----
+
+Resource:
+
+- [GitHub: DCL](https://github.com/pguyot/DCL)
+- [SourceForge: DCL](https://sourceforge.net/projects/newton-dcl/)
+- [Kallisys: DCL](https://www.kallisys.com/files/newton/DCL/)
+- [Kallisys: Desktop Connection Library](https://web.archive.org/web/20080212130115/http://www.kallisys.com/newton/dcl/)
+- [40Hz: Newton Docking Protocol](https://40hz.org/Pages/newton/hacking/newton-docking-protocol/)
+
+----
+
+Related:
+
+- /terms/amiganpi
+- /terms/bonjour
+- /terms/dcl
+- /terms/escale
+- /terms/newten
+- /terms/newton-connection
+- /terms/newton-connection-utilities
+- /terms/newton-package-installer
+- /terms/package-installer
+- /terms/unixnpi
+
+----
+
+Source:
+
+- /sources/paul-guyot

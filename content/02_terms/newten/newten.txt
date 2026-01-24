@@ -25,6 +25,7 @@ Resource:
 Related:
 
 - /terms/amiganpi
+- /terms/delivery
 - /terms/newton-backup-express
 - /terms/newton-backup-utility
 - /terms/newton-connection

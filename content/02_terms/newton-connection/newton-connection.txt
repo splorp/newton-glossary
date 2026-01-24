@@ -32,6 +32,7 @@ Related:
 
 - /terms/backup
 - /terms/backup-file
+- /terms/delivery
 - /terms/escale
 - /terms/nbk
 - /terms/nbku

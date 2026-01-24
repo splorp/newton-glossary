@@ -30,6 +30,7 @@ Related:
 
 - /terms/connection
 - /terms/dcl
+- /terms/delivery
 - /terms/dock
 - /terms/docking
 - /terms/newton-connection
