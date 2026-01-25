@@ -14,6 +14,7 @@ To designate a (link: /terms/user-interface text: user interface) object by (lin
 
 Related:
 
+- /terms/bbeditor
 - /terms/deselect
 - /terms/double-tap
 - /terms/double-tapping

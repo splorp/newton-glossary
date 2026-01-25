@@ -28,6 +28,7 @@ Related:
 
 - /terms/clipboard
 - /terms/cliphoard
+- /terms/bbeditor
 - /terms/deselect
 - /terms/font
 - /terms/h2k

@@ -24,6 +24,7 @@ While still holding the pen down, move the pen to the top, right, or left edge o
 
 Related:
 
+- /terms/bbeditor
 - /terms/cliphoard
 - /terms/options
 - /terms/hilite2000

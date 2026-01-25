@@ -1,0 +1,41 @@
+Title: BBEditor
+
+----
+
+Date: 25 January 2026
+
+----
+
+Text:
+
+A system enhancement developed by (link: /sources/byte-size text: Byte-Size Software) consisting of a set of (link: /terms/button text: buttons) that provide quick access for editing, navigating, and (link: /terms/highlighting text: highlighting) and (link: /terms/select text: selecting) text, entering punctuation and user-definable (link: /terms/character text: characters), accessing the (link: /terms/clipboard text: clipboard), saving and retrieving (link: /terms/text text: text) clippings, as well as changing (link: /terms/font text: font) attributes.
+
+When activated, BBEditor overlay a portion of the (link: /terms/button-bar text: button bar), not the (link: /terms/input-area text: input area).
+
+(image: /assets/images/bbeditor-2x.gif alt: Screenshot of the BBEditor overlaying the button bar on a MessagePad 2000 width: 322)
+
+----
+
+Resource:
+
+- [Byte-Size Software: BBEditor Product Information](https://web.archive.org/web/20040806214412fw_/http://home.earthlink.net/~firstvln/bytesize/bbeditor.html)
+- [UNNA: BBEditor 1.0a](http://www.unna.org/view.php?/utilites/BBEditor1.0a)
+- [UNNA: BBEditor 1.7c](http://www.unna.org/view.php?/utilites/BBEditor1.7c)
+
+----
+
+Related:
+
+- /terms/button-bar
+- /terms/clipboard
+- /terms/font
+- /terms/highlight
+- /terms/hilite2000
+- /terms/select
+- /terms/styles
+
+----
+
+Source:
+
+- /sources/byte-size

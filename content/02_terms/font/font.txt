@@ -14,6 +14,7 @@ A complete set of (link: /terms/character text: characters) or glyphs from a giv
 
 Related:
 
+- /terms/bbeditor
 - /terms/bitmap
 - /terms/casual
 - /terms/character

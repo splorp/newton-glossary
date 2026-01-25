@@ -8,7 +8,7 @@ Date: 11 December 2024
 
 Text:
 
-A software company formed by Californian developer and violinist Way-Chung Wong. Byte-Size Software specialized in system enhancements and (link: /terms/application text: applications) for (link: /terms/newton-os text: Newton OS), including BBEditor, (link: /terms/hilite2000 text: Hilite2000), PunctPad, and PIMple.
+A software company formed by Californian developer and violinist Way-Chung Wong. Byte-Size Software specialized in system enhancements and (link: /terms/application text: applications) for (link: /terms/newton-os text: Newton OS), including (link: /terms/bbeditor text: BBEditor), (link: /terms/hilite2000 text: Hilite2000), PunctPad, and PIMple.
 
 ----
 

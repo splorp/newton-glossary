@@ -19,6 +19,7 @@ Also referred to as (link: /terms/hilite text: Hilite), (link: /terms/hiliting t
 
 Related:
 
+- /terms/bbeditor
 - /terms/dark-box
 - /terms/darkened-box
 - /terms/deselect

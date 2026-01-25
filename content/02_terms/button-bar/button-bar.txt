@@ -21,6 +21,7 @@ Button bar also refers to the set of (link: /terms/icon text: icons) located at 
 Related:
 
 - /terms/barkeep
+- /terms/bbeditor
 - /terms/button
 - /terms/button-host
 - /terms/button-provider
