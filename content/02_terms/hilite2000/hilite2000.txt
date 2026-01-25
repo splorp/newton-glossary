@@ -37,9 +37,9 @@ Related:
 - /terms/highlight-mode
 - /terms/highlighting-mark
 - /terms/invert
-- /terms/options
 - /terms/select
 - /terms/selection
+- /terms/styles
 
 ----
 

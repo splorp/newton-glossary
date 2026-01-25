@@ -12,7 +12,7 @@ A thick black (link: /terms/line text: line) with graphical (link: /terms/button
 
 (image: /assets/images/status-bar-2x.gif alt: Screenshot of the Status Bar width: 237)
 
-Button bar also refers to the set of (link: /terms/icon text: icons) located at the bottom of the Newton (link: /terms/screen text: screen) which are used to launch applications. On (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices, the button bar contains user modifiable (link: /terms/soft-button text: soft buttons), all other Newton devices utilize a permanent set of (link: /terms/hard-button text: hard buttons).
+Button bar also refers to the set of (link: /terms/icon text: icons) located at the bottom of the Newton (link: /terms/screen text: screen) which are used to launch applications. On (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices, the button bar contains user-modifiable (link: /terms/soft-button text: soft buttons), all other Newton devices utilize a permanent set of (link: /terms/hard-button text: hard buttons).
 
 (image: /assets/images/button-bar-2x.gif alt: Screenshot of the Button Bar width: 227)
 
