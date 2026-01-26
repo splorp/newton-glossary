@@ -10,7 +10,13 @@ Text:
 
 A (link: /terms/picture-button text: picture button) containing an (link: /terms/icon text: icon) representing an “A” (link: /terms/character text: character).
 
-(link: /terms/tapping text: Tapping) the recognition button allows the user to select the method of (link: /terms/handwriting-recognition text: handwriting recognition) used to interpret what is being written or drawn. Recognition options include (link: /terms/text text: Text), (link: /terms/ink-word text: Ink Text), (link: /terms/shapes text: Shapes), and (link: /terms/sketches text: Sketches).
+When (link: /terms/tapped text: tapped), it displays an (link: /terms/recognizer-picker text: recognizer picker) allowing the user to select the method of (link: /terms/handwriting-recognition text: handwriting recognition) used to interpret what is being written or drawn.
+
+Options include (link: /terms/text text: Text), (link: /terms/ink-word text: Ink Text), (link: /terms/shapes text: Shapes), and (link: /terms/sketches text: Sketches).
+
+In (link: /terms/newton-works text: Newton Works), the (link: /terms/quick-sketch text: Quick Sketch) slip also has a recognition button, but only the the Shapes and Sketches options are included.
+
+(image: /assets/images/recognizer-picker-2x.gif alt: Screenshot of a Recognition Button with Picker width: 121)
 
 Also referred to as a (link: /terms/recognizer-button text: Recognizer Button).
 
@@ -25,11 +31,12 @@ Related:
 - /terms/ink-text
 - /terms/picture-button
 - /terms/quick-sketch
+- /terms/recognized-text
 - /terms/recognizer-button
+- /terms/recognizer-picker
 - /terms/shapes
 - /terms/sketch
 - /terms/sketches
-- /terms/status-bar
 - /terms/text
 - /terms/user-interface
 

@@ -20,6 +20,7 @@ Related:
 - /terms/newton-works
 - /terms/picture
 - /terms/recognition-button
+- /terms/recognizer-picker
 - /terms/shape
 - /terms/shapes
 - /terms/sketch

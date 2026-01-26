@@ -19,6 +19,7 @@ Related:
 - /terms/character
 - /terms/handwriting-recognition
 - /terms/recognition-button
+- /terms/recognizer-picker
 - /terms/recognized-text
 - /terms/rich-text-format
 - /terms/shapes

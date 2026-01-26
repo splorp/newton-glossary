@@ -23,6 +23,7 @@ Related:
 - /terms/ink-text
 - /terms/ink-word
 - /terms/recognition-button
+- /terms/recognizer-picker
 - /terms/text
 
 ----

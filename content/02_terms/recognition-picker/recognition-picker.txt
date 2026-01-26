@@ -1,0 +1,11 @@
+Title: Recognition Picker
+
+----
+
+Date: 26 January 2026
+
+----
+
+Text:
+
+See: (link: /terms/recognizer-picker text: Recognizer Picker)

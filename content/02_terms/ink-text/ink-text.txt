@@ -26,6 +26,7 @@ Related:
 - /terms/raw-ink
 - /terms/recognition-button
 - /terms/recognized-text
+- /terms/recognizer-picker
 - /terms/sketch-ink
 - /terms/text
 
