@@ -1,0 +1,17 @@
+Title: The Newton PDA Platform 2.0
+
+----
+
+Date: 26 January 2026
+
+----
+
+Text:
+
+Published by [Apple](https://www.apple.com/) in November 1995, this document provides an comprehensive technology and feature overview and analysis of the 2.0 release of (link: /terms/newton-os text: Newton OS). The document is most definitely focused on marketing and enterprise audiences, rather than the consumer.
+
+----
+
+Resource:
+
+- [The Newted Community: The Newton PDA Platform 2.0](https://www.newted.org/download/manuals/The_Newton_PDA_Platform_2.0.pdf)

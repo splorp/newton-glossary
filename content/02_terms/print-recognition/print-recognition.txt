@@ -1,0 +1,11 @@
+Title: Print Recognition
+
+----
+
+Date: 26 January 2026
+
+----
+
+Text:
+
+See: (link: /terms/handwriting-recognition text: Handwriting Recognition)

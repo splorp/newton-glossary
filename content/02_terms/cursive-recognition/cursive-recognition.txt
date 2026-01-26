@@ -1,0 +1,17 @@
+Title: Cursive Recognition
+
+----
+
+Date: 26 January 2026
+
+----
+
+Text:
+
+See: (link: /terms/handwriting-recognition text: Handwriting Recognition)
+
+----
+
+Source:
+
+- /sources/newton-pda-platform

@@ -8,9 +8,9 @@ Date: 24 May 2001
 
 Text:
 
-The algorithmic conversion of handwritten or printed text into digital text.
+The algorithmic conversion of handwritten cursive or printed text into digital text.
 
-Also referred to as (link: /terms/text-recognition text: Text Recognition) and (link: /terms/hwr text: HWR).
+Also referred to as (link: /terms/cursive-recognition text: Cursive Recognition), (link: /terms/print-recognition text: Print Recognition), (link: /terms/text-recognition text: Text Recognition), and (link: /terms/hwr text: HWR).
 
 Handwriting Recognition is also a section found in the (link: /terms/prefs text: Prefs) application.
 
@@ -29,6 +29,7 @@ Related:
 - /terms/casual
 - /terms/centroid
 - /terms/cursive
+- /terms/cursive-recognition
 - /terms/cursive-recognizer
 - /terms/digitizer
 - /terms/eat-up-martha
@@ -49,9 +50,11 @@ Related:
 - /terms/pen
 - /terms/pen-alignment
 - /terms/prefs
+- /terms/print-recognition
 - /terms/print-recognizer
 - /terms/printing
 - /terms/realign
+- /terms/recognition-button
 - /terms/recognized-text
 - /terms/rosetta
 - /terms/rosetta-stone
