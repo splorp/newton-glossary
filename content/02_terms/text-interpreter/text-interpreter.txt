@@ -1,0 +1,11 @@
+Title: Text Interpreter
+
+----
+
+Date: 28 January 2026
+
+----
+
+Text:
+
+See: (link: /terms/cursive-recognizer text: Cursive Recognizer) and (link: /terms/print-recognizer text: Print Recognizer)

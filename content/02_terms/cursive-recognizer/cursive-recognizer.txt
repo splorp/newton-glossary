@@ -10,7 +10,9 @@ Text:
 
 The algorithmic component of the (link: /terms/handwriting-recognition text: handwriting recognition) system that identifies handwritten or (link: /terms/cursive text: cursive) characters, as opposed to printed or block (link: /terms/character text: characters).
 
-Also referred to as the (link: /terms/connected-recognizer text: Connected Recognizer).
+In prerelease versions of Newton OS 1.0, it is known as a (link: /terms/text-interpreter text: Text Interpreter).
+
+Also referred to as a (link: /terms/connected-recognizer text: Connected Recognizer) and (link: /terms/text-recognizer text: Text Recognizer).
 
 ----
 
@@ -43,6 +45,8 @@ Related:
 - /terms/recognizer
 - /terms/rosetta
 - /terms/rosetta-stone
+- /terms/text-interpreter
+- /terms/text-recognizer
 - /terms/try-letters
 - /terms/writing-practice
 
