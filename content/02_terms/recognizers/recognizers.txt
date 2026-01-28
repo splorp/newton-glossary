@@ -23,6 +23,7 @@ Related:
 - /terms/cursive-recognizer
 - /terms/gesture-recognizer
 - /terms/handwriting-recognition
+- /terms/interpreter
 - /terms/interpreters
 - /terms/newton-recognition-architecture
 - /terms/print-recognizer

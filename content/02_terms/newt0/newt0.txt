@@ -24,6 +24,8 @@ Related:
 
 - /terms/compiled
 - /terms/compiler
+- /terms/interpreted
+- /terms/interpreter
 - /terms/newt64
 - /terms/newton-toolkit
 - /terms/newtonscript

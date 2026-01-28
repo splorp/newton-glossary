@@ -21,6 +21,8 @@ Related:
 - /terms/build
 - /terms/compiled
 - /terms/compiler
+- /terms/interpreted
+- /terms/interpreter
 - /terms/layout-file
 - /terms/newton-toolkit
 - /terms/newtonscript

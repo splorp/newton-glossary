@@ -16,6 +16,8 @@ Related:
 
 - /terms/compiled
 - /terms/compiler
+- /terms/interpreted
+- /terms/interpreter
 - /terms/newton-toolkit
 - /terms/project
 - /terms/project-build

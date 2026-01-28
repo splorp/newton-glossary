@@ -8,7 +8,7 @@ Date: 17 January 2024
 
 Text:
 
-The hardware independent instructions that are interpreted when a (link: /terms/newtonscript text: NewtonScript) function executes.
+The hardware independent instructions that are (link: /terms/interpreted text: interpreted) when a (link: /terms/newtonscript text: NewtonScript) function executes.
 
 Also defined as an intermediate language that requires a runtime program for execution. For example, NewtonScript is (link: /terms/compiled text: compiled) into bytecode before being interpreted and executed by the (link: /terms/nsm text: NSM) virtual machine.
 
@@ -21,6 +21,8 @@ Related:
 - /terms/compiled
 - /terms/compiler
 - /terms/byte-code
+- /terms/interpreted
+- /terms/interpreter
 - /terms/nsm
 - /terms/newtonscript
 - /terms/waba

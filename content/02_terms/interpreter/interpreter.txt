@@ -1,0 +1,42 @@
+Title: Interpreter
+
+----
+
+Date: 28 January 2026
+
+----
+
+Text:
+
+Software that translates code written in a high-level programming language and then runs the program associated with the code at the same time.
+
+For example, (link: /terms/newton-toolkit text: Newton Toolkit) compiles (link: /terms/newtonscript text: NewtonScript) into bytecode and (link: /terms/newton-os text: Newton OS) contains a interpreter that translates the bytecode into data the system understands and can run.
+
+In prerelease versions of Newton OS 1.0, a (link: /terms/recognizer text: recognizer) component of the (link: /terms/handwriting-recognition text: handwriting recognition) system is also called an interpreter.
+
+----
+
+Related:
+
+- /terms/build
+- /terms/compiled
+- /terms/compiler
+- /terms/interpreted
+- /terms/leibniz
+- /terms/newt0
+- /terms/newt64
+- /terms/newton-toolkit
+- /terms/project
+- /terms/project-build
+- /terms/project-file
+- /terms/resource
+- /terms/resource-file
+- /terms/stream-file
+- /terms/text-file
+- /terms/tntk
+
+----
+
+Source:
+
+- /sources/techencyclopedia

@@ -32,6 +32,8 @@ Related:
 - /terms/encyclopedia
 - /terms/gnuton
 - /terms/green
+- /terms/interpreted
+- /terms/interpreter
 - /terms/lisp
 - /terms/macintosh-common-lisp
 - /terms/newton-os

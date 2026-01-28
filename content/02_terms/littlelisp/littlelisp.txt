@@ -25,6 +25,8 @@ Related:
 - /terms/bauhaus
 - /terms/dylan
 - /terms/etchasketch
+- /terms/interpreted
+- /terms/interpreter
 - /terms/leibniz
 - /terms/lisp
 - /terms/macintosh-common-lisp

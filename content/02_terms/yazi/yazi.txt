@@ -31,6 +31,8 @@ Related:
 - /terms/chiral
 - /terms/deep-green
 - /terms/deep-space-newt
+- /terms/interpreted
+- /terms/interpreter
 - /terms/jig
 - /terms/lisp
 - /terms/motile

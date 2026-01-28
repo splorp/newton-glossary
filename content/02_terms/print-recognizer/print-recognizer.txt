@@ -35,6 +35,7 @@ Related:
 - /terms/handwriting-recognition
 - /terms/ink
 - /terms/inkwell
+- /terms/interpreter
 - /terms/mondello
 - /terms/neuropen
 - /terms/newton-recognition-architecture

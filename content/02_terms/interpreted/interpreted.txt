@@ -1,22 +1,22 @@
-Title: Compiled
+Title: Interpreted
 
 ----
 
-Date: 17 December 2024
+Date: 28 January 2026
 
 ----
 
 Text:
 
-The result of using a software (link: /terms/compiler text: compiler) to convert various (link: /terms/project-file text: project files) containing source code and other (link: /terms/resource text: resources) into an executable program.
+The result of using a software (link: /terms/interpreter text: interpreter) to translate code written in a high-level programming language and then running the program associated with the code.
 
 ----
 
 Related:
 
 - /terms/build
+- /terms/compiled
 - /terms/compiler
-- /terms/interpreted
 - /terms/interpreter
 - /terms/leibniz
 - /terms/newt0
