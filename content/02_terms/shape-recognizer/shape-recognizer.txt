@@ -1,0 +1,35 @@
+Title: Shape Recognizer
+
+----
+
+Date: 28 January 2026
+
+----
+
+Text:
+
+The algorithmic component of the (link: /terms/handwriting-recognition text: handwriting recognition) system that identifies both simple and complex geometric (link: /terms/object text: objects), cleaning up drawings to produce straight lines and smooth curves. The shape recognizer also identifies symmetry, if that property is present in an drawn object.
+
+In prerelease versions of Newton OS 1.0, it is known as a (link: /terms/shape-interpreter text: Shape Interpreter).
+
+----
+
+Related:
+
+- /terms/cursive-recognizer
+- /terms/gesture-recognizer
+- /terms/handwriting-recognition
+- /terms/newton-recognition-architecture
+- /terms/object 
+- /terms/print-recognizer
+- /terms/recognizer
+- /terms/recognizers
+- /terms/shape
+- /terms/shape-interpreter
+- /terms/shapes
+
+----
+
+Source:
+
+- /sources/catamount

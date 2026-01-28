@@ -57,9 +57,11 @@ Related:
 - /terms/recognition-button
 - /terms/recognized-text
 - /terms/recognizer-picker
+- /terms/recognizers
 - /terms/rosetta
 - /terms/rosetta-stone
 - /terms/setup
+- /terms/shape-recognizer
 - /terms/text-recognition
 - /terms/try-letters
 - /terms/writehere

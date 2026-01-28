@@ -41,8 +41,10 @@ Related:
 - /terms/printing
 - /terms/recognized-text
 - /terms/recognizer
+- /terms/recognizers
 - /terms/rosetta
 - /terms/rosetta-stone
+- /terms/shape-recognizer
 - /terms/text-interpreter
 - /terms/text-recognizer
 - /terms/writing-practice

@@ -45,6 +45,7 @@ Related:
 - /terms/recognizer
 - /terms/rosetta
 - /terms/rosetta-stone
+- /terms/shape-recognizer
 - /terms/text-interpreter
 - /terms/text-recognizer
 - /terms/try-letters
@@ -56,3 +57,4 @@ Source:
 
 - /sources/catamount
 - /sources/paragraph
+- /sources/newton-programmers-guide

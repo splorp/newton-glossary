@@ -28,7 +28,10 @@ Related:
 - /terms/newton-intelligence
 - /terms/newton-os
 - /terms/print-recognizer
+- /terms/recognizer
+- /terms/recognizers
 - /terms/rosetta
+- /terms/shape-recognizer
 
 ----
 

@@ -1,0 +1,11 @@
+Title: Shape Interpreter
+
+----
+
+Date: 28 January 2026
+
+----
+
+Text:
+
+See: (link: /terms/shape-recognizer text: Shape Recognizer)
