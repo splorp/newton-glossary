@@ -22,6 +22,7 @@ Related:
 
 - /terms/cursive-recognizer
 - /terms/dictionary
+- /terms/gesture-recognizer
 - /terms/handwriting-recognition
 - /terms/mondello
 - /terms/neuropen

@@ -21,6 +21,7 @@ Recognizers are also components of the (link: /terms/Newton OS text: Newton OS) 
 Related:
 
 - /terms/cursive-recognizer
+- /terms/gesture-recognizer
 - /terms/handwriting-recognition
 - /terms/interpreters
 - /terms/newton-recognition-architecture

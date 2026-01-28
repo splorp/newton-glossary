@@ -23,6 +23,7 @@ Related:
 
 - /terms/crapfiti
 - /terms/gesture
+- /terms/gesture-recognizer
 - /terms/pen
 - /terms/print-recognizer
 - /terms/printing

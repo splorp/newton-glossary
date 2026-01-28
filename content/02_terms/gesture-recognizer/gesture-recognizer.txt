@@ -1,0 +1,35 @@
+Title: Gesture Recognizer
+
+----
+
+Date: 28 January 2026
+
+----
+
+Text:
+
+The algorithmic component of the (link: /terms/handwriting-recognition text: handwriting recognition) system that identifies a common set of (link: /terms/gesture text: gestures) made using the (link: /terms/pen text: pen) for corrections and editing. These recognized gestures include (link: /terms/tapping text: tapping), (link: /terms/scrubbing text: scrubbing), and drawing of the (link: /terms/caret text: caret).
+
+----
+
+Related:
+
+- /terms/caret
+- /terms/cursive-recognizer
+- /terms/gesture
+- /terms/handwriting-recognition
+- /terms/newton-recognition-architecture
+- /terms/print-recognizer
+- /terms/recognizer
+- /terms/recognizers
+- /terms/scrub
+- /terms/shape-recognizer
+- /terms/tapping
+- /terms/zig-zag
+
+----
+
+Source:
+
+- /sources/catamount
+- /sources/newton-programmers-guide

@@ -36,6 +36,7 @@ Related:
 - /terms/egg-freckles
 - /terms/fine-tuning
 - /terms/game
+- /terms/gesture-recognizer
 - /terms/guest-user
 - /terms/guester
 - /terms/handwriting-instructor

@@ -29,6 +29,7 @@ Related:
 - /terms/connected-recognizer
 - /terms/cursive
 - /terms/fine-tuning
+- /terms/gesture-recognizer
 - /terms/handwriting-instructor
 - /terms/handwriting-recognition
 - /terms/hwcr

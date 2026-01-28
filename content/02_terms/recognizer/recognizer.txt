@@ -8,4 +8,4 @@ Date: 12 June 2001
 
 Text:
 
-See: (link: /terms/cursive-recognizer text: Cursive Recognizer) and (link: /terms/print-recognizer text: Print Recognizer)
+See: (link: /terms/recognizers text: Recognizers), (link: /terms/cursive-recognizer text: Cursive Recognizer), (link: /terms/gesture-recognizer text: Gesture Recognizer), (link: /terms/print-recognizer text: Print Recognizer), and (link: /terms/shape-recognizer text: Shape Recognizer)

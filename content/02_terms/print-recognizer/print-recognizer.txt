@@ -30,6 +30,7 @@ Related:
 - /terms/disconnected-recognizer
 - /terms/eat-up-martha
 - /terms/egg-freckles
+- /terms/gesture-recognizer
 - /terms/handwriting-instructor
 - /terms/handwriting-recognition
 - /terms/ink
