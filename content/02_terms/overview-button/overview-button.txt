@@ -31,6 +31,7 @@ Related:
 - /terms/scroll-arrows
 - /terms/scroller
 - /terms/scrolling-list
+- /terms/toggle
 - /terms/universal-scroll-arrows
 - /terms/user-interface
 

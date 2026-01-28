@@ -32,6 +32,7 @@ Related:
 - /terms/tappable
 - /terms/tapped
 - /terms/tapping
+- /terms/toggle
 - /terms/triple-tap
 - /terms/triple-tapping
 - /terms/user-interface

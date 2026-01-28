@@ -26,6 +26,7 @@ Related:
 - /terms/selection-box
 - /terms/tap
 - /terms/tapping
+- /terms/toggle
 - /terms/user-interface
 
 ----

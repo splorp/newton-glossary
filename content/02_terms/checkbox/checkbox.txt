@@ -20,6 +20,7 @@ Related:
 - /terms/picture-radio-button
 - /terms/radio-button
 - /terms/select
+- /terms/toggle
 - /terms/user-interface
 
 ----

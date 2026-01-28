@@ -1,0 +1,30 @@
+Title: Toggle
+
+----
+
+Date: 28 January 2026
+
+----
+
+Text:
+
+To switch or alternate between two states by (link: /terms/tapping text: tapping) a (link: /terms/user-interface text: user interface) element such as a (link: /terms/button text: button).
+
+For example, tapping a (link: /terms/checkbox text: checkbox) will toggle between a checked or unchecked state. Likewise, tapping the (link: /terms/overview-button text: overview button) will switch between two levels of detail, such as information for an individual item or a list of multiple items.
+
+----
+
+Related:
+
+- /terms/select
+- /terms/deselect
+- /terms/checkbox
+- /terms/checklist
+- /terms/overview-button
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines
