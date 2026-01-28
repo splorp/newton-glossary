@@ -22,6 +22,7 @@ Related:
 - /terms/shape
 - /terms/sketch
 - /terms/sketches
+- /terms/text-recognizer-toggle
 
 ----
 

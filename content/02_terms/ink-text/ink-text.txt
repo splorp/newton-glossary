@@ -29,6 +29,7 @@ Related:
 - /terms/recognizer-picker
 - /terms/sketch-ink
 - /terms/text
+- /terms/text-recognizer-toggle
 
 ----
 

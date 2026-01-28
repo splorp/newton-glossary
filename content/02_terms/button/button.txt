@@ -53,6 +53,7 @@ Related:
 - /terms/status-bar
 - /terms/tag-button
 - /terms/text-button
+- /terms/text-recognizer-toggle
 - /terms/toolbar
 - /terms/try-letters
 - /terms/universal-scroll-arrows

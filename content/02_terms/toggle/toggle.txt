@@ -21,6 +21,7 @@ Related:
 - /terms/checkbox
 - /terms/checklist
 - /terms/overview-button
+- /terms/text-recognizer-toggle
 - /terms/user-interface
 
 ----

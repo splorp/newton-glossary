@@ -32,6 +32,7 @@ Related:
 - /terms/pop-up
 - /terms/pop-up-list
 - /terms/protocol-picker
+- /terms/recognizer-picker
 - /terms/show-picker
 - /terms/snooze-picker
 - /terms/tag-picker

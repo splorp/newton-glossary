@@ -49,6 +49,7 @@ Related:
 - /terms/shape-recognizer
 - /terms/text-interpreter
 - /terms/text-recognizer
+- /terms/text-recognizer-toggle
 - /terms/writing-practice
 
 ----

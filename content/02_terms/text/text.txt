@@ -25,6 +25,7 @@ Related:
 - /terms/shapes
 - /terms/text-engine
 - /terms/text-file
+- /terms/text-recognizer-toggle
 - /terms/text-run
 - /terms/txt
 

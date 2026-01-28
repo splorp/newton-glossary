@@ -25,6 +25,7 @@ Related:
 - /terms/recognition-button
 - /terms/recognizer-picker
 - /terms/text
+- /terms/text-recognizer-toggle
 
 ----
 

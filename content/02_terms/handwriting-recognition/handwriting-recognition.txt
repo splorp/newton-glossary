@@ -64,6 +64,7 @@ Related:
 - /terms/setup
 - /terms/shape-recognizer
 - /terms/text-recognition
+- /terms/text-recognizer-toggle
 - /terms/try-letters
 - /terms/writehere
 - /terms/writing-practice

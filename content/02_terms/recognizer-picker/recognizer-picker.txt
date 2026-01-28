@@ -33,6 +33,7 @@ Related:
 - /terms/sketch
 - /terms/sketches
 - /terms/text
+- /terms/text-recognizer-toggle
 - /terms/user-interface
 
 ----

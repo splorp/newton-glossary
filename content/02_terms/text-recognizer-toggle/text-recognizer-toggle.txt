@@ -1,0 +1,38 @@
+Title: Text Recognizer Toggle
+
+----
+
+Date: 28 January 2026
+
+----
+
+Text:
+
+A (link: /terms/picture-button text: picture button) containing an (link: /terms/icon text: icon) representing a pair of diagonal arrows and positioned next to the (link: /terms/recognizer-button text: recognizer buttons) in early versions of (link: /terms/newton-os text: Newton OS).
+
+The button is used to change the (link: /terms/handwriting-recognition text: handwriting recognition) into a mode that better accommodates entering of words that are not likely included in the default (link: /terms/word-list text: word list), as well as numbers or dates.
+
+(image: /assets/images/text-recognizer-toggle-2x.gif alt: Screenshot of the Text Recognizer Toggle activated and showing a slip with recognition modes Picker width: 240)
+
+(link: /terms/tapping text: Tapping) the button displays a (link: /terms/slip text: slip) that allows the user to choose (link: /terms/letter-by-letter text: letter-by-letter) or numbers as the method of recognition. Tapping the (link: /terms/close-box text: close box) in the slip turns off letter-by-letter recognition, prompting the user to add the words recognized in this mode to the (link: /terms/personal-word-list text: personal word list).
+
+----
+
+Related:
+
+- /terms/button
+- /terms/handwriting-recognition
+- /terms/letter-by-letter
+- /terms/picture-button
+- /terms/recognized-text
+- /terms/recognizer-button
+- /terms/recognizer-picker
+- /terms/text
+- /terms/toggle
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-setup-guide
