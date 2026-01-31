@@ -29,6 +29,8 @@ Related:
 - /terms/review-dictionary
 - /terms/symbols-dictionary
 - /terms/system-dictionary
+- /terms/user-word-list
+- /terms/word-list
 
 ----
 

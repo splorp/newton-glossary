@@ -12,6 +12,8 @@ A editable list of words that (link: /terms/newton-os text: Newton OS) uses in a
 
 The Personal Word List is displayed by (link: /terms/tapping text: tapping) the (link: /terms/dictionary-button text: dictionary button).
 
+Also referred to as the (link: /terms/user-word-list text: User Word List).
+
 ----
 
 Related:
@@ -31,6 +33,7 @@ Related:
 - /terms/symbols-dictionary
 - /terms/system-dictionary
 - /terms/user-dictionary
+- /terms/user-word-list
 - /terms/word-list
 
 ----

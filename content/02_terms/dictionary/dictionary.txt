@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A system construct against which (link: /terms/input text: input) strings are matched, as a means of ensuring valid (link: /terms/output text: output) from the (link: /terms/cursive-recognizer text: cursive) and (link: /terms/print-recognizer text: print) text recognizers. (link: /terms/newton-os text: Newton OS) supplies (link: /terms/system-dictionary text: system dictionaries) that define names, places, dates, times, telephone numbers, and commonly used words to the text recognizers. The user can expand the default vocabulary by adding new words to a (link: /terms/user-dictionary text: user dictionary).
+A system construct against which (link: /terms/input text: input) strings are matched, as a means of ensuring valid (link: /terms/output text: output) from the (link: /terms/cursive-recognizer text: cursive) and (link: /terms/print-recognizer text: print) text recognizers. (link: /terms/newton-os text: Newton OS) supplies (link: /terms/system-dictionary text: system dictionaries) that define names, places, dates, times, telephone numbers, and commonly used words to the (link: /terms/text-recognizer text: text recognizers). The user can expand the default vocabulary by adding new words to a (link: /terms/user-dictionary text: user dictionary).
 
 ----
 

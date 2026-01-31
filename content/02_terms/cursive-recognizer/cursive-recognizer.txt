@@ -12,7 +12,7 @@ The algorithmic component of the (link: /terms/handwriting-recognition text: han
 
 In prerelease versions of Newton OS 1.0, it is known as a (link: /terms/text-interpreter text: Text Interpreter).
 
-Also referred to as a (link: /terms/connected-recognizer text: Connected Recognizer), (link: /terms/paragraph-recognizer text: Paragraph Recognizer), and (link: /terms/text-recognizer text: Text Recognizer).
+Also referred to as a (link: /terms/connected-recognizer text: Connected Recognizer) and (link: /terms/text-recognizer text: Text Recognizer).
 
 ----
 
@@ -42,7 +42,6 @@ Related:
 - /terms/neuropen
 - /terms/newton-recognition-architecture
 - /terms/paragraph
-- /terms/paragraph-recognizer
 - /terms/print-recognizer
 - /terms/recognized-text
 - /terms/recognizer

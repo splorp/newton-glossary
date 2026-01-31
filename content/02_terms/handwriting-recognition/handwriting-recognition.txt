@@ -33,6 +33,7 @@ Related:
 - /terms/cursive-recognizer
 - /terms/digitizer
 - /terms/eat-up-martha
+- /terms/eff-grackles
 - /terms/egg-freckles
 - /terms/fine-tuning
 - /terms/game
@@ -61,8 +62,10 @@ Related:
 - /terms/recognizers
 - /terms/rosetta
 - /terms/rosetta-stone
+- /terms/serious-bandwidth
 - /terms/setup
 - /terms/shape-recognizer
+- /terms/tablespoons
 - /terms/test-drive1
 - /terms/text-recognition
 - /terms/text-recognizer-toggle

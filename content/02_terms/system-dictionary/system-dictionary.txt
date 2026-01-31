@@ -8,7 +8,7 @@ Date: 27 October 2017
 
 Text:
 
-A default (link: /terms/dictionary text: dictionary) supplied by (link: /terms/newton-os text: Newton OS) which defines commonly used words and (link: /terms/grammar text: grammar) constructs used by the text recognizers. System dictionaries are either an (link: /terms/enumerated-dictionary text: enumerated dictionary) or a (link: /terms/lexical-dictionary text: lexical dictionary).
+A default (link: /terms/dictionary text: dictionary) supplied by (link: /terms/newton-os text: Newton OS) which defines commonly used words and (link: /terms/grammar text: grammar) constructs used by the (link: /terms/text-recognizer text: text recognizers). System dictionaries are either an (link: /terms/enumerated-dictionary text: enumerated dictionary) or a (link: /terms/lexical-dictionary text: lexical dictionary).
 
 ----
 
