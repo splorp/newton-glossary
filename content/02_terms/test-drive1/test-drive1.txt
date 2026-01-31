@@ -10,15 +10,13 @@ Text:
 
 A paragraph of (link: /terms/text text: text) created by (link: /sources/larry-yaeger text: Larry Yaeger) consisting of words from the (link: /terms/system-dictionary text: system dictionary) in the original (link: /terms/newton-os text: Newton OS).
 
-This paragraph was used for benchmarking different versions of the (link: /terms/handwriting-recognition text: handwriting recognition) code against each other.
-
-According to Yaeger, it is known both as _“Test Drive1”_ (with a number one) or _“Test Drivel”_ (with a lowercase L), depending on how well the recognizer works at interpreting the text.
+Used for benchmarking different versions of the (link: /terms/handwriting-recognition text: handwriting recognition) code, the paragraph is known both as _“Test Drive1”_ (with a number one) or _“Test Drivel”_ (with a lowercase L), depending on how well the (link: /terms/recognizer text: recognizer) interpreted the text.
 
 ----
 
 Resource:
 
--[Larry Yaeger: Test Drive1](https://www.shinyverse.org/larryy/TestDrive1.html)
+- [Larry Yaeger: Test Drive1](https://www.shinyverse.org/larryy/TestDrive1.html)
 
 ----
 

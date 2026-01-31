@@ -12,6 +12,8 @@ An input (link: /terms/container-view text: container view) that allows the user
 
 (image: /assets/images/find-slip-2x.gif alt: Screenshot of the Find Slip width: 320)
 
+The standard Find slip contains a labeled (link: /terms/input-line text: input line) used to specify a term or phrase and several (link: /terms/radio-button text: radio buttons) used to specify the scope of the search.
+
 ----
 
 Related:
@@ -21,3 +23,9 @@ Related:
 - /terms/slip
 - /terms/user-interface
 - /terms/view
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines
