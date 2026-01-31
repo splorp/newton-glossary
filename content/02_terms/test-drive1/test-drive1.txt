@@ -1,0 +1,44 @@
+Title: Test Drive1
+
+----
+
+Date: 31 January 2026
+
+----
+
+Text:
+
+A paragraph of (link: /terms/text text: text) created by (link: /sources/larry-yaeger text: Larry Yaeger) consisting of words from the (link: /terms/system-dictionary text: system dictionary) in the original (link: /terms/newton-os text: Newton OS).
+
+This paragraph was used for benchmarking different versions of the (link: /terms/handwriting-recognition text: handwriting recognition) code against each other.
+
+According to Yaeger, it is known both as _“Test Drive1”_ (with a number one) or _“Test Drivel”_ (with a lowercase L), depending on how well the recognizer works at interpreting the text.
+
+----
+
+Resource:
+
+-[Larry Yaeger: Test Drive1](https://www.shinyverse.org/larryy/TestDrive1.html)
+
+----
+
+Related:
+
+- /terms/alt-rec
+- /terms/cursive-recognizer
+- /terms/eat-up-martha
+- /terms/eff-grackles
+- /terms/egg-freckles
+- /terms/print-recognizer
+- /terms/recognized-text
+- /terms/recognizers
+- /terms/serious-bandwidth
+- /terms/system-dictionary
+- /terms/tablespoons
+- /terms/test-drivel
+
+----
+
+Source:
+
+- /sources/larry-yaeger

@@ -49,6 +49,7 @@ Related:
 - /terms/rosetta
 - /terms/rosetta-stone
 - /terms/shape-recognizer
+- /terms/test-drive1
 - /terms/text-interpreter
 - /terms/text-recognizer
 - /terms/try-letters

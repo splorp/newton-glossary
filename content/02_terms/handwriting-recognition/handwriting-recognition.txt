@@ -63,6 +63,7 @@ Related:
 - /terms/rosetta-stone
 - /terms/setup
 - /terms/shape-recognizer
+- /terms/test-drive1
 - /terms/text-recognition
 - /terms/text-recognizer-toggle
 - /terms/try-letters

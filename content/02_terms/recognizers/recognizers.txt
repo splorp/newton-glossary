@@ -33,6 +33,7 @@ Related:
 - /terms/recognizer-picker
 - /terms/shape-recognition
 - /terms/shape-recognizer
+- /terms/test-drive1
 - /terms/text-recognizer
 - /terms/text-recognizer-toggle
 

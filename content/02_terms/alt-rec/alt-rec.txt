@@ -25,6 +25,7 @@ Related:
 - /terms/handwriting-recognition
 - /terms/print-recognizer
 - /terms/recognized-text
+- /terms/test-drive1
 
 ----
 
