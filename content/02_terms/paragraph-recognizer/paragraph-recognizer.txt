@@ -1,0 +1,17 @@
+Title: Paragraph Recognizer
+
+----
+
+Date: 30 January 2026
+
+----
+
+Text:
+
+See: (link: /terms/cursive-recognizer text: Cursive Recognizer) and (link: /terms/paragraph text: ParaGraph)
+
+----
+
+Source:
+
+- /sources/catamount

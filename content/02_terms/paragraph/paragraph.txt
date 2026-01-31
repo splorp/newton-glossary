@@ -8,12 +8,13 @@ Date: 07 September 2017
 
 Text:
 
-Another name for the (link: /terms/cursive text: cursive) (or connected) recognizer according to the (link: /sources/catamount text: Catamount Software) handwriting tips page. Likely in reference to (link: /sources/paragraph text: ParaGraph International), the company who created the (link: /terms/calligrapher text: CalliGrapher) handwriting recognition engine.
+The company responsible for the first generation of (link: /terms/handwriting-recognition text: handwriting recognition) that was included in (link: /terms/newton-os text: Newton OS). They later developed the (link: /terms/cursive-recognition text: cursive recognition) system for Newton OS 2.0, sometimes referred to as the (link: /terms/paragraph-recognizer text: Paragraph Recognizer). Commercially known as (link: /terms/calligrapher text: CalliGrapher), the software was also licensed to Microsoft for use in some of their tablet computers.
 
 ----
 
 Resource:
 
+- [Ars Technica: In the Loop with Larry Yaeger](https://arstechnica.com/gadgets/2005/06/504/)
 - [Catamount: Handwriting Tips for Newton Power Users](https://web.archive.org/web/20160319221639/http://www.catamount.com/HWRTips/HWRTips.html)
 
 ----
@@ -29,6 +30,7 @@ Related:
 - /terms/inkwell
 - /terms/mondello
 - /terms/neuropen
+- /terms/paragraph-recognizer
 - /terms/print-recognizer
 - /terms/recognized-text
 - /terms/rosetta
@@ -39,4 +41,6 @@ Related:
 
 Source:
 
+- /sources/ars-technica
 - /sources/catamount
+- /sources/paragraph

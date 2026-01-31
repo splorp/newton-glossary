@@ -1,0 +1,17 @@
+Title: Printed Recognizer
+
+----
+
+Date: 30 January 2026
+
+----
+
+Text:
+
+See: (link: /terms/print-recognizer text: Print Recognizer)
+
+----
+
+Source:
+
+- /sources/catamount
