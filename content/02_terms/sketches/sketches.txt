@@ -10,6 +10,8 @@ Text:
 
 A (link: /terms/handwriting-recognition text: handwriting recognition) setting selected by (link: /terms/tapping text: tapping) the (link: /terms/recognition-button text: recognition button). When this setting is selected, all drawings are stored as (link: /terms/electronic-ink text: electronic ink) and not converted to (link: /terms/shapes text: shapes).
 
+Also referred to as (link: /terms/sketches-recognition text: Sketches Recognition).
+
 ----
 
 Related:
@@ -23,6 +25,7 @@ Related:
 - /terms/shape
 - /terms/shapes
 - /terms/sketch
+- /terms/sketches-recognition
 - /terms/text-recognizer-toggle
 
 ----

@@ -10,6 +10,8 @@ Text:
 
 A (link: /terms/handwriting-recognition text: handwriting recognition) setting selected by (link: /terms/tapping text: tapping) the (link: /terms/recognition-button text: recognition button). When this setting is selected and the user draws a (link: /terms/shape text: shape) on a Newton device, curves will be smoothed and lines will be straightened automatically.
 
+Also referred to as (link: /terms/shape-recognition text: Shape Recognition).
+
 ----
 
 Related:
@@ -20,6 +22,7 @@ Related:
 - /terms/recognition-button
 - /terms/recognizer-picker
 - /terms/shape
+- /terms/shape-recognition
 - /terms/sketch
 - /terms/sketches
 - /terms/text-recognizer-toggle
