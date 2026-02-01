@@ -16,7 +16,7 @@ Recognizers are also components of the (link: /terms/Newton OS text: Newton OS) 
 
 (link: /terms/shape-recognizer text: Shape recognizers) identify both simple and complex geometric (link: /terms/object text: objects), cleaning up drawings to produce straight lines and smooth curves. The shape recognizer also identifies symmetry, if that property is present in an drawn object.
 
-According to the (link: /sources/newton-programmers-guide text: Newton Programmer’s Guide), the Newton platform could potentially support third-party recognizers, not just those built into the platform.
+(link: /terms/newton-os text: Newton OS) had the capability to support third-party recognizers, not just those built into the platform.
 
 ----
 

@@ -29,6 +29,7 @@ Related:
 - /terms/project
 - /terms/project-build
 - /terms/project-file
+- /terms/recognizer
 - /terms/resource
 - /terms/resource-file
 - /terms/stream-file
