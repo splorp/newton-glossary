@@ -1,0 +1,42 @@
+Title: Font Engine
+
+----
+
+Date: 01 February 2026
+
+----
+
+Text:
+
+Software that provides a mechanism for converting information from a digital (link: /terms/font text: font) into a (link: /terms/bitmap text: bitmap) image that can be displayed on the (link: /terms/screen text: screen) of a Newton device.
+
+(link: /terms/newton-os text: Newton OS) has the capability to support third-party font engines.
+
+----
+
+Resource:
+
+- [Apple Developer: TrueType Reference Manual: Font Engine](https://developer.apple.com/fonts/TrueType-Reference-Manual/RM02/Chap2.html)
+
+----
+
+Related:
+
+- /terms/character
+- /terms/engine
+- /terms/font
+- /terms/font-size
+- /terms/font-style
+- /terms/point
+- /terms/style-run
+- /terms/styles
+- /terms/text
+- /terms/text-engine
+- /terms/text-file
+- /terms/text-run
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
