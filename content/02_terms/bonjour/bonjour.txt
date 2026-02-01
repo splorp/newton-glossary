@@ -19,9 +19,9 @@ Also referred to as (link: /terms/zero-configuration-networking text: Zero Confi
 Resource:
 
 - [Apple: Mac OS X: Bonjour](https://web.archive.org/web/20050629233656/http://www.apple.com/macosx/features/bonjour/)
-- [Apple: Developer: Bonjour](https://web.archive.org/web/20080422211705/http://developer.apple.com/networking/bonjour/)
+- [Apple Developer: Bonjour](https://web.archive.org/web/20080422211705/http://developer.apple.com/networking/bonjour/)
 - [Apple: Mac OS X: Rendezvous](https://web.archive.org/web/20021030230937/http://www.apple.com/macosx/jaguar/rendezvous.html)
-- [Apple: Developer: Rendezvous](https://web.archive.org/web/20021214234147/http://developer.apple.com/darwin/projects/rendezvous/)
+- [Apple Developer: Rendezvous](https://web.archive.org/web/20021214234147/http://developer.apple.com/darwin/projects/rendezvous/)
 - [Press Release: Apple “Open Sources” Rendezvous](https://web.archive.org/web/20021017103944/http://www.apple.com/pr/library/2002/sep/25rendezvous.html)
 - [AppleInsider: Apple to rename Rendezvous technology “Bonjour”](https://web.archive.org/web/20071215144543/https://appleinsider.com/articles/05/02/18/apple_to_rename_rendezvous_technology_bonjour.html)
 
