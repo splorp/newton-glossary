@@ -21,6 +21,7 @@ Related:
 - /terms/newton-recognition-architecture
 - /terms/print-recognizer
 - /terms/recognizer
+- /terms/recognizer-engine
 - /terms/recognizers
 - /terms/scrub
 - /terms/shape-recognizer

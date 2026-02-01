@@ -1,0 +1,17 @@
+Title: Recognizer Engine
+
+----
+
+Date: 01 February 2026
+
+----
+
+Text:
+
+See: (link: /terms/recognizers text: Recognizers), (link: /terms/cursive-recognizer text: Cursive Recognizer), (link: /terms/gesture-recognizer text: Gesture Recognizer), (link: /terms/print-recognizer text: Print Recognizer), and (link: /terms/shape-recognizer text: Shape Recognizer)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

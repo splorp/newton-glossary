@@ -45,6 +45,7 @@ Related:
 - /terms/print-recognizer
 - /terms/recognized-text
 - /terms/recognizer
+- /terms/recognizer-engine
 - /terms/rosetta
 - /terms/rosetta-stone
 - /terms/shape-recognizer

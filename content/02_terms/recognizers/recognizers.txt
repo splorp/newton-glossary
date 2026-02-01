@@ -10,11 +10,13 @@ Text:
 
 A section found in the (link: /terms/Prefs text: Prefs) application of (link: /terms/newton-os text: Newton OS) 1.x that provides settings for various aspects of (link: /terms/shape-recognition text: shape recognition) and (link: /terms/text-recognition text: text recognition). In prerelease versions of Newton OS 1.0, this section is called (link: /terms/interpreters text: Interpreters). In Newton OS 2.x, this section is called (link: /terms/handwriting-recognition text: Handwriting Recognition).
 
-Recognizers are also components of the (link: /terms/Newton OS text: Newton OS) that handle the conversion of words, (link: /terms/shapes text: shapes), and a common set of (link: /terms/gesture text: gestures) for correcting and editing.
+Recognizers are also components of the (link: /terms/Newton OS text: Newton OS) that handle the conversion of words, (link: /terms/shapes text: shapes), and a common set of (link: /terms/gesture text: gestures) for correcting and editing. Also referred to as a (link: /terms/recognizer-engine text: recognizer engine).
 
 (link: /terms/text-recognizer text: Text recognizers) can handle (link: /terms/printing text: printing), (link: /terms/cursive text: cursive), or mixed handwriting, working together with software (link: /terms/dictionary text: dictionaries) to select words that accurately match what a user has written.
 
 (link: /terms/shape-recognizer text: Shape recognizers) identify both simple and complex geometric (link: /terms/object text: objects), cleaning up drawings to produce straight lines and smooth curves. The shape recognizer also identifies symmetry, if that property is present in an drawn object.
+
+According to the (link: /sources/newton-programmers-guide text: Newton Programmer’s Guide), the Newton platform could potentially support third-party recognizers, not just those built into the platform.
 
 ----
 
@@ -30,6 +32,7 @@ Related:
 - /terms/recognition-button
 - /terms/recognized-text
 - /terms/recognizer
+- /terms/recognizer-engine
 - /terms/recognizer-picker
 - /terms/shape-recognition
 - /terms/shape-recognizer
@@ -42,4 +45,5 @@ Related:
 Source:
 
 - /sources/messagepad-setup-guide
+- /sources/newton-programmers-guide
 - /sources/newton-user-interface-guidelines
