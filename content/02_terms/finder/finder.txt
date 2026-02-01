@@ -16,6 +16,8 @@ Not to be confused with the [Finder](https://en.wikipedia.org/wiki/Finder_(softw
 
 Related:
 
+- /terms/find
+- /terms/find-button
 - /terms/find-slip
 - /terms/frame
 - /terms/newtonscript

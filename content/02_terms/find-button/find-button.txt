@@ -1,0 +1,30 @@
+Title: Find Button
+
+----
+
+Date: 31 May 2001
+
+----
+
+Text:
+
+A (link: /terms/picture-button text: picture button) located in the (link: /terms/button-bar text: button bar) with an (link: /terms/icon text: icon) that looks like a magnifying glass. (link: /terms/tapping text: Tapping) the Find button opens a (link: /terms/find-slip text: Find slip), where the user can specify what to search for.
+
+----
+
+Related:
+
+- /terms/book-search-engine
+- /terms/button
+- /terms/button-bar
+- /terms/find
+- /terms/find-slip
+- /terms/finder
+- /terms/picture-button
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

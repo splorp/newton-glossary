@@ -1,0 +1,17 @@
+Title: Search Engine
+
+----
+
+Date: 01 February 2026
+
+----
+
+Text:
+
+See: (link: /terms/book-search-engine text: Book Search Engine) and (link: /terms/find text: Find)
+
+----
+
+Source:
+
+- /sources/newton-book-maker

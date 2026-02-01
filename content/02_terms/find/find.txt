@@ -1,0 +1,33 @@
+Title: Find
+
+----
+
+Date: 01 February 2026
+
+----
+
+Text:
+
+A system-wide feature built into (link: /terms/newton-os text: Newton OS) allows the user to search (link: /terms/application text: applications) for (link: /terms/text text: text), (link: /terms/dates text: dates), or other types of data.
+
+(link: /terms/tapping text: Tapping) the Find (link: /terms/button text: button) located in the (link: /terms/button-bar text: button bar) opens a (link: /terms/find-slip text: Find slip) where the user can specify what to look for.
+
+(image: /assets/images/find-slip-2x.gif alt: Screenshot of the Find Slip width: 320)
+
+Also referred to as a (link: /terms/search-engine text: Search Engine).
+
+----
+
+Related:
+
+- /terms/book-search-engine
+- /terms/finder
+- /terms/find-button
+- /terms/find-slip
+- /terms/search-engine
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

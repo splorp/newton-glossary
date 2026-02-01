@@ -1,0 +1,35 @@
+Title: Book Search Engine
+
+----
+
+Date: 01 February 2026
+
+----
+
+Text:
+
+A service provided by (link: /terms/newton-os text: Newton OS) that provides a means to search the content of a (link: /terms/newton-book text: Newton Book) using the (link: /terms/find-button text: Find button).
+
+Also referred to as (link: /terms/newton-book-search-engine text: Newton Book Search Engine) and (link: /terms/search-engine text: Search Engine).
+
+----
+
+Related:
+
+- /terms/find
+- /terms/find-button
+- /terms/find-slip
+- /terms/finder
+- /terms/help-book
+- /terms/newton-book
+- /terms/newton-book-maker
+- /terms/newton-book-reader
+- /terms/newton-book-search-engine
+- /terms/newton-press
+- /terms/search-engine
+
+----
+
+Source:
+
+- /sources/newton-book-maker

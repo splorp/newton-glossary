@@ -8,17 +8,22 @@ Date: 31 May 2001
 
 Text:
 
-An input (link: /terms/container-view text: container view) that allows the user to (link: /terms/enter text: enter) a term or phrase to be located within the data stored on a Newton device.
+An input (link: /terms/container-view text: container view) that allows the user to (link: /terms/enter text: enter) a term or phrase to be located within the data stored on a Newton device. (link: /terms/tapping text: Tapping) the (link: /terms/find-button text: Find button) located in the (link: /terms/button-bar text: button bar) will display the (link: /terms/slip text: slip). 
 
-(image: /assets/images/find-slip-2x.gif alt: Screenshot of the Find Slip width: 320)
+(image: /assets/images/find-slip-notepad-selected-2x.gif alt: Screenshot of the Find Slip with the Notepad radio button selected width: 320)
 
-The standard Find slip contains a labeled (link: /terms/input-line text: input line) used to specify a term or phrase and several (link: /terms/radio-button text: radio buttons) used to specify the scope of the search.
+The Find slip contains a labeled (link: /terms/input-line text: input line) where the user specifies what to look for and several (link: /terms/radio-button text: radio buttons) that can specify the scope of the search.
+
+For example, where to search can be set to everywhere on the newton device, the currently (link: /terms/select text: selected) items, or within the current (link: /terms/application text: application).
 
 ----
 
 Related:
 
+- /terms/book-search-engine
 - /terms/container-view
+- /terms/find
+- /terms/find-button
 - /terms/finder
 - /terms/slip
 - /terms/user-interface
