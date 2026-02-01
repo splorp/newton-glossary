@@ -1,0 +1,11 @@
+Title: Engine
+
+----
+
+Date: 01 February 2026
+
+----
+
+Text:
+
+See: (link: /terms/book-search-engine text: Book Search Engine), (link: /terms/text-engine text: Recognition Engine), and (link: /terms/text-engine text: Text Engine)

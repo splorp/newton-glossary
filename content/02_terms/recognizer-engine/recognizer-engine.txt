@@ -8,7 +8,26 @@ Date: 01 February 2026
 
 Text:
 
-See: (link: /terms/recognizers text: Recognizers), (link: /terms/cursive-recognizer text: Cursive Recognizer), (link: /terms/gesture-recognizer text: Gesture Recognizer), (link: /terms/print-recognizer text: Print Recognizer), and (link: /terms/shape-recognizer text: Shape Recognizer)
+Software that provides a mechanism for the conversion of (link: /terms/character text: characters), words, (link: /terms/shape text: shapes), (link: /terms/sketch text: sketches), and (link: /terms/gesture text: gestures) drawn with a (link: /terms/pen text: pen) on a (link: /terms/screen text: screen) into digital data that can be corrected, edited, modified, or otherwise parsed by the (link: /terms/operating-system text: operating system).
+
+(link: /terms/newton-os text: Newton OS) had the capability to support third-party (link: /terms/recognizers text: recognizers), not just those built into the platform.
+
+Also referred to as a (link: /terms/recognizer text: Recognizer).
+
+----
+
+Related:
+
+- /terms/engine
+- /terms/cursive-recognizer
+- /terms/gesture-recognizer
+- /terms/handwriting-recognition
+- /terms/interpreter
+- /terms/newton-recognition-architecture
+- /terms/print-recognizer
+- /terms/recognition-engine
+- /terms/recognizers
+- /terms/shape-recognizer
 
 ----
 

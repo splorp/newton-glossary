@@ -1,0 +1,17 @@
+Title: Recognition Engine
+
+----
+
+Date: 01 February 2026
+
+----
+
+Text:
+
+See: (link: /terms/recognizer-engine text: Recognizer Engine)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
