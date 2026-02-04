@@ -1,6 +1,6 @@
 .DS_Store
 .editorconfig
-.lock
+*.lock
 /media/*
 !/media/index.html
 /site/cache/*
