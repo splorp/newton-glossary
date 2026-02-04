@@ -8,7 +8,7 @@ Date: 10 February 2017
 
 Text:
 
-An upright, script-like typeface designed to look as if it was written by hand. Casual is one of the default (link: /terms/bitmap text: bitmap) (link: /terms/font text: fonts) included in (link: /terms/newton-os text: Newton OS) and is used when the (link: /terms/handwriting-recognition text: handwriting recognition) engine converts printed text into (link: /terms/recognized-text text: recognized text).
+An upright, script-like (link: /terms/typeface text: typeface) designed to look as if it was written by hand. Casual is one of the default (link: /terms/bitmap text: bitmap) (link: /terms/font text: fonts) included in (link: /terms/newton-os text: Newton OS) and is used when the (link: /terms/handwriting-recognition text: handwriting recognition) engine converts printed text into (link: /terms/recognized-text text: recognized text).
 
 (image: /assets/images/casual-2x-n.gif alt: Screenshot showing various sizes of the Casual bitmap font width: 296)
 
@@ -21,6 +21,7 @@ Related:
 - /terms/espy-sans
 - /terms/fancy
 - /terms/font
+- /terms/font-family
 - /terms/font-size
 - /terms/font-spec
 - /terms/font-style
@@ -32,6 +33,7 @@ Related:
 - /terms/styles
 - /terms/system
 - /terms/text-run
+- /terms/typeface
 
 ----
 

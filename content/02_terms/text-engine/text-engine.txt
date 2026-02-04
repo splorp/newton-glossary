@@ -31,6 +31,7 @@ Related:
 - /terms/engine
 - /terms/font
 - /terms/font-engine
+- /terms/font-family
 - /terms/font-size
 - /terms/font-style
 - /terms/newton-works
@@ -43,6 +44,7 @@ Related:
 - /terms/text-editing-engine
 - /terms/text-file
 - /terms/text-run
+- /terms/typeface
 
 ----
 

@@ -41,6 +41,7 @@ Related:
 - /terms/eworld
 - /terms/fancy
 - /terms/font
+- /terms/font-family
 - /terms/font-size
 - /terms/font-spec
 - /terms/font-style
@@ -53,6 +54,7 @@ Related:
 - /terms/system
 - /terms/text-run
 - /terms/to-do-list
+- /terms/typeface
 
 ----
 

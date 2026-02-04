@@ -8,7 +8,7 @@ Date: 23 October 2024
 
 Text:
 
-A serif (link: /terms/bitmap text: bitmap) (link: /terms/font text: font) used when defining text in a (link: /terms/book-source-file text: book source file) that will be processed with (link: /terms/newton-book-maker text: Newton Book Maker) or (link: /terms/newton-toolkit text: Newton Toolkit). It is also a font that can be specified when creating a (link: /terms/newton-book text: Newton book) with the (link: /terms/newton-press text: Newton Press) software.
+A serif (link: /terms/bitmap text: bitmap) (link: /terms/typeface text: typeface) used when defining text in a (link: /terms/book-source-file text: book source file) that will be processed with (link: /terms/newton-book-maker text: Newton Book Maker) or (link: /terms/newton-toolkit text: Newton Toolkit). It is also a font that can be specified when creating a (link: /terms/newton-book text: Newton book) with the (link: /terms/newton-press text: Newton Press) software.
 
 (image: /assets/images/new-york-2x-n.gif alt: Screenshot showing various sizes of the New York bitmap font width: 245)
 
@@ -30,6 +30,7 @@ Related:
 - /terms/espy-sans
 - /terms/fancy
 - /terms/font
+- /terms/font-family
 - /terms/font-size
 - /terms/font-spec
 - /terms/font-style
@@ -40,6 +41,7 @@ Related:
 - /terms/styles
 - /terms/system
 - /terms/text-run
+- /terms/typeface
 
 ----
 

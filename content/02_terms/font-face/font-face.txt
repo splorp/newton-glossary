@@ -1,0 +1,17 @@
+Title: Font Face
+
+----
+
+Date: 04 February 2026
+
+----
+
+Text:
+
+See: (link: /terms/font-style text: Font Style)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

@@ -8,7 +8,11 @@ Date: 24 May 2001
 
 Text:
 
-A complete set of (link: /terms/character text: characters) or glyphs from a given typeface design. For example, (link: /terms/system text: System) is a (link: /terms/bitmap text: bitmap) typeface included with (link: /terms/newton-os text: Newton OS), but 12 (link: /terms/point text: point) System Bold is a specific (link: /terms/font-style text: font style) of that typeface.
+A complete set of (link: /terms/character text: characters) or glyphs from a given (link: /terms/typeface text: typeface) design supplied in a specific physical or digital format.
+
+For example, (link: /terms/system text: System) is a typeface or (link: /terms/font-family text: font family) included with (link: /terms/newton-os text: Newton OS) that is comprised of several (link: /terms/font-size text: font sizes) and (link: /terms/font-style text: font styles). Whereas System is the typeface, the 12 (link: /terms/point text: point) System Bold style is an individual font within that typeface.
+
+The terms font and typeface are often used interchangeably.
 
 ----
 
@@ -22,6 +26,7 @@ Related:
 - /terms/eworld
 - /terms/fancy
 - /terms/font-engine
+- /terms/font-family
 - /terms/font-size
 - /terms/font-spec
 - /terms/font-style
@@ -33,6 +38,7 @@ Related:
 - /terms/styles
 - /terms/system
 - /terms/text-run
+- /terms/typeface
 
 ----
 

@@ -1,0 +1,43 @@
+Title: Font Family
+
+----
+
+Date: 04 February 2026
+
+----
+
+Text:
+
+A group of several individual (link: /terms/font text: fonts) that are related by an overall design or aesthetic. A font family generally includes various (link: /terms/font-style text: font styles), such as regular, italic, bold, and bold italic.
+
+Also referred to as a (link: /terms/font-style text: Typeface).
+
+----
+
+Related:
+
+- /terms/casual
+- /terms/character
+- /terms/espy-sans
+- /terms/eworld
+- /terms/fancy
+- /terms/font
+- /terms/font-engine
+- /terms/font-size
+- /terms/font-spec
+- /terms/font-style
+- /terms/geneva
+- /terms/new-york
+- /terms/point
+- /terms/simple
+- /terms/style-run
+- /terms/styles
+- /terms/system
+- /terms/text-run
+- /terms/typeface
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

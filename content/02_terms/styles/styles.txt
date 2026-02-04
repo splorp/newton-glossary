@@ -20,6 +20,7 @@ Related:
 - /terms/character
 - /terms/font
 - /terms/font-engine
+- /terms/font-family
 - /terms/font-size
 - /terms/font-spec
 - /terms/font-style
@@ -30,6 +31,7 @@ Related:
 - /terms/sketches
 - /terms/style-run
 - /terms/text-run
+- /terms/typeface
 
 ----
 

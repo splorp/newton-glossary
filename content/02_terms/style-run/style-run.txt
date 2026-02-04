@@ -17,6 +17,7 @@ Related:
 - /terms/character
 - /terms/font
 - /terms/font-engine
+- /terms/font-family
 - /terms/font-size
 - /terms/font-spec
 - /terms/font-style
@@ -26,6 +27,7 @@ Related:
 - /terms/styles
 - /terms/text-run
 - /terms/word-wrap
+- /terms/typeface
 
 ----
 

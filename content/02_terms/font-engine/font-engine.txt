@@ -25,6 +25,7 @@ Related:
 - /terms/character
 - /terms/engine
 - /terms/font
+- /terms/font-family
 - /terms/font-size
 - /terms/font-style
 - /terms/point
@@ -34,6 +35,7 @@ Related:
 - /terms/text-engine
 - /terms/text-file
 - /terms/text-run
+- /terms/typeface
 
 ----
 

@@ -8,7 +8,11 @@ Date: 24 May 2001
 
 Text:
 
-A set of stylistic variations pertaining to a (link: /terms/font text: font), other than its typeface family or (link: /terms/point text: point) size. Examples of font styles include bold, italic, and underline.
+A stylistic variation pertaining to a (link: /terms/font text: font), other than its (link: /terms/font-family text: font family) or (link: /terms/point text: point) size.
+
+Examples of font styles include regular, italic, bold, and underline.
+
+Also referred to as a (link: /terms/font-face text: Font Face).
 
 ----
 
@@ -17,12 +21,15 @@ Related:
 - /terms/character
 - /terms/font
 - /terms/font-engine
+- /terms/font-face
+- /terms/font-family
 - /terms/font-size
 - /terms/font-spec
 - /terms/point
 - /terms/style-run
 - /terms/styles
 - /terms/text-run
+- /terms/typeface
 
 ----
 
