@@ -18,14 +18,20 @@ Recently added terms and sources are listed in the (link: /latest text: latest a
 
 Incremental changes are listed in the [code commit history](https://github.com/splorp/newton-glossary/commits/master).
 
-### _$r
+### 5.1.1
 
-Terms: _$t
-Sources: _$s
+10 February 2026
+
+Terms: 2,030
+Sources: 223
 
 #### Summary of changes:
 
-+ 
++ Added 56 new terms
++ Added 4 new sources
++ Updated and expanded dozens of existing entries
++ Updated [Kirby Clear Cache](https://owebstudio.com/kirby/plugins/clear-cache) plugin to version 1.1.0
++ Updated [Kirby](https://getkirby.com/) to version [5.2.3](https://github.com/getkirby/kirby/releases/tag/5.2.3)
 
 ### 5.1.0
 
