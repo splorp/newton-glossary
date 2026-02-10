@@ -16,6 +16,7 @@ Also referred to as (link: /terms/sketches-recognition text: Sketches Recognitio
 
 Related:
 
+- /terms/drawing-engine
 - /terms/electronic-ink
 - /terms/handwriting-recognition
 - /terms/quick-sketch

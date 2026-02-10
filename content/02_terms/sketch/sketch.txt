@@ -18,6 +18,7 @@ Related:
 - /terms/electronic-ink
 - /terms/ink
 - /terms/picture
+- /terms/quick-sketch
 - /terms/shape
 - /terms/shapes
 - /terms/sketches
