@@ -27,6 +27,7 @@ Related:
 - /terms/palette
 - /terms/ryo
 - /terms/separator-bar
+- /terms/stamp-tool
 - /terms/status-bar
 - /terms/tapbar
 - /terms/user-interface

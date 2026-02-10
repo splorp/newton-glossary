@@ -1,0 +1,40 @@
+Title: Stamp
+
+----
+
+Date: 10 February 2026
+
+----
+
+Text:
+
+A visual (link: /terms/object text: object) consisting of a predetermined (link: /terms/bitmap text: bitmap) image.
+
+In (link: /terms/newton-works text: Newton Works), the (link: /terms/stamp-tool text: stamp tool) is used to select and add images to a (link: /terms/drawing text: drawing) document.
+
+Also referred as (link: /terms/clip-art text: Clip Art).
+
+----
+
+Related:
+
+- /terms/arc
+- /terms/clip-art
+- /terms/drawing-engine
+- /terms/line
+- /terms/oval
+- /terms/picture
+- /terms/polygon
+- /terms/rectangle
+- /terms/rounded-rectangle
+- /terms/shape
+- /terms/shapes
+- /terms/stamp-tool
+- /terms/wedge
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/emate-learning-works

@@ -33,6 +33,7 @@ Related:
 - /terms/rounded-rectangle
 - /terms/shape
 - /terms/shapes
+- /terms/stamp
 
 ----
 

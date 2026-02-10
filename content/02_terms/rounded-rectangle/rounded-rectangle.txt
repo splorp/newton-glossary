@@ -23,6 +23,7 @@ Related:
 - /terms/rectangle
 - /terms/shape
 - /terms/shapes
+- /terms/stamp
 - /terms/wedge
 
 ----

@@ -8,7 +8,7 @@ Date: 24 November 2017
 
 Text:
 
-An integrated, multifunction (link: /terms/application text: application) for Newton devices that includes tools for word processing, (link: /terms/spreadsheet text: spreadsheets), charts, drawing, and full-size page layout, plus a large selection of clip art supplied by [T/Maker](https://en.wikipedia.org/wiki/T/Maker). Originally developed by Avail Technology, marketing and development of the software was handed over to (link: /sources/pelicanware text: PelicanWare) in 1996.
+An integrated, multifunction (link: /terms/application text: application) for Newton devices that includes tools for word processing, (link: /terms/spreadsheet text: spreadsheets), charts, drawing, and full-size page layout, plus a large selection of (link: /terms/clip-art text: clip art) supplied by [T/Maker](https://en.wikipedia.org/wiki/T/Maker). Originally developed by Avail Technology, marketing and development of the software was handed over to (link: /sources/pelicanware text: PelicanWare) in 1996.
 
 (image: /assets/images/availworks-text-2x.gif alt: Screenshot of AvailWorks width: 242)
 

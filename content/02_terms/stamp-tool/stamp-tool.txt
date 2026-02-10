@@ -1,0 +1,35 @@
+Title: Stamp Tool
+
+----
+
+Date: 10 February 2026
+
+----
+
+Text:
+
+A tool found in (link: /terms/newton-works text: Newton Works) used to select and add (link: /terms/bitmap text: bitmap) images known as (link: /terms/stamp text: stamps) to a (link: /terms/drawing text: drawing) document.
+
+(link: /terms/tapping text: Tapping) on the stamp tool (link: /terms/icon text: icon) located in the (link: /terms/toolbar text: toolbar) of a (link: /terms/Draw text: Draw) document opens a (link: /terms/slip text: slip) displaying a selection of (link: /terms/clip-art text: clip art) stamps. A stamp is placed into the document by selecting a stamp with the (link: /terms/pen text: pen) and then tapping somewhere in the document, placing the selcted stamp.
+
+Tapping on the stamp image will cause (link: /terms/drag-handle text: drag handles) to appear around the stamp, allowing the user to resize the stamp.
+
+----
+
+Related:
+
+- /terms/draw
+- /terms/drawing
+- /terms/drawing-engine
+- /terms/newtonworks
+- /terms/stamp
+- /terms/toolbar
+- /terms/user-interface
+
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/newton-programmers-guide

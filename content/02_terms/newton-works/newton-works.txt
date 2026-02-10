@@ -42,6 +42,7 @@ Related:
 - /terms/quickfigure-pro
 - /terms/quickfigure-works
 - /terms/spreadsheet
+- /terms/stamp-tool
 - /terms/text-engine
 - /terms/title-slip
 - /terms/twerx

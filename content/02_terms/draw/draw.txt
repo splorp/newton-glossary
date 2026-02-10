@@ -20,6 +20,7 @@ Related:
 - /terms/draw-application
 - /terms/drawing-engine
 - /terms/newton-works
+- /terms/stamp-tool
 - /terms/untitled-drawing
 
 ----

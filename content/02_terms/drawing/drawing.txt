@@ -35,6 +35,7 @@ Related:
 - /terms/newton-works
 - /terms/paper
 - /terms/spreadsheet
+- /terms/stamp-tool
 - /terms/stationery
 - /terms/title-slip
 - /terms/untitled-drawing
