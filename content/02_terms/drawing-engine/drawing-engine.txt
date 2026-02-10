@@ -1,0 +1,43 @@
+Title: Drawing Engine
+
+----
+
+Date: 10 February 2026
+
+----
+
+Text:
+
+Software that provides a mechanism for rendering and manipulating graphical (link: /terms/object text: objects) that can be displayed on the (link: /terms/screen text: screen).
+
+In (link: /terms/newton-os text: Newton OS), objects can include (link: /terms/line text: lines), (link: /terms/rectangle text: rectangles), (link: /terms/rounded-rectangle text: rounded rectangles), (link: /terms/oval text: ovals), (link: /terms/polygon text: polygons), (link: /terms/arc text: arcs), freehand (link: /terms/sketch text: sketches), (link: /terms/stamp text: stamps), and (link: /terms/frame text: frames) containing (link: /terms/text text: text).
+
+A drawing engine allows the user to perform actions on objects (cut, copy, paste, move, scale, rotate, flip, duplicate, group, ungroup, (link: /terms/undo text: undo), (link: /terms/redo text: redo), alignment, etc.) and adjust visual paramenters of objects (stroke width, fill color, fill pattern, (link: /terms/font-size text: font size), (link: /terms/font-style text: font style), etc.) within an (link: /terms/application text: application).
+
+Newton OS also provides (link: /terms/shape-recognition text: shape recognition) as part of its drawing engine.
+
+----
+
+Related:
+
+- /terms/arc
+- /terms/engine
+- /terms/gravity
+- /terms/line
+- /terms/oval
+- /terms/picture
+- /terms/polygon
+- /terms/quick-sketch
+- /terms/rectangle
+- /terms/rounded-rectangle
+- /terms/shape
+- /terms/shape-recognizer
+- /terms/shapes
+- /terms/stamp
+- /terms/wedge
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

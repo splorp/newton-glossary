@@ -14,6 +14,7 @@ A drawing feature in (link: /terms/newton-os text: Newton OS) that causes the en
 
 Related:
 
+- /terms/drawing-engine
 - /terms/line
 - /terms/shape
 - /terms/shapes

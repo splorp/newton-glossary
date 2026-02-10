@@ -18,7 +18,7 @@ Related:
 
 - /terms/drawing
 - /terms/draw-application
-- /terms/draw-paper
+- /terms/drawing-engine
 - /terms/newton-works
 - /terms/untitled-drawing
 

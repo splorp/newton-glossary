@@ -16,6 +16,7 @@ A feature found in (link: /terms/newton-works text: Newton Works) that allows th
 
 Related:
 
+- /terms/drawing-engine
 - /terms/electronic-ink
 - /terms/newton-works
 - /terms/picture

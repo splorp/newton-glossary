@@ -14,6 +14,7 @@ A hand drawn image created on a Newton device using the (link: /terms/pen text: 
 
 Related:
 
+- /terms/drawing-engine
 - /terms/electronic-ink
 - /terms/ink
 - /terms/picture
