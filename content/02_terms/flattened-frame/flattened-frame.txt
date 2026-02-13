@@ -1,0 +1,37 @@
+Title: Flattened Frame
+
+----
+
+Date: 13 February 2026
+
+----
+
+Text:
+
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/frame text: frame) that has been converted into a (link: /terms/binary-object text: binary object) using a (link: /terms/translation-engine text: translation engine) when writing the data to a (link: /terms/soup text: soup).
+
+While writing a NewtonScript frame to a soup, the frame is flattened into a binary object, similar to the process used in the Translate global function.
+
+----
+
+Related:
+
+- /terms/entry
+- /terms/flatten
+- /terms/flattened-soup
+- /terms/flattener
+- /terms/flattening
+- /terms/frame
+- /terms/newtonscript
+- /terms/object
+- /terms/soup
+- /terms/translation-engine
+- /terms/unflatten
+- /terms/unflattener
+- /terms/unflattening
+
+----
+
+Source:
+
+- /sources/newton-technology-journal

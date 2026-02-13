@@ -22,6 +22,7 @@ Related:
 - /terms/finder
 - /terms/flatten
 - /terms/flattened-soup
+- /terms/flattener
 - /terms/flattening
 - /terms/function-call-stack
 - /terms/function-object
@@ -47,7 +48,7 @@ Related:
 - /terms/stack-activation-record
 - /terms/translation-engine
 - /terms/unflatten
-- /terms/unflattenation
+- /terms/unflattener
 - /terms/unflattening
 - /terms/union-soup
 - /terms/viewframe

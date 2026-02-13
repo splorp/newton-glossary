@@ -34,6 +34,7 @@ Related:
 - /terms/entry-aliases
 - /terms/flatten
 - /terms/flattened-soup
+- /terms/flattener
 - /terms/flattening
 - /terms/frame
 - /terms/item-frame
@@ -52,7 +53,7 @@ Related:
 - /terms/store-part
 - /terms/translation-engine
 - /terms/unflatten
-- /terms/unflattenation
+- /terms/unflattener
 - /terms/unflattening
 - /terms/union-soup
 - /terms/viewframe

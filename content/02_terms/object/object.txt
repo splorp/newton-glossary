@@ -24,6 +24,7 @@ Related:
 - /terms/entry-alias
 - /terms/flatten
 - /terms/flattened-soup
+- /terms/flattener
 - /terms/flattening
 - /terms/frame
 - /terms/function-object
@@ -44,7 +45,7 @@ Related:
 - /terms/stream-file
 - /terms/translation-engine
 - /terms/unflatten
-- /terms/unflattenation
+- /terms/unflattener
 - /terms/unflattening
 - /terms/user-interface
 - /terms/virtual-binary-object

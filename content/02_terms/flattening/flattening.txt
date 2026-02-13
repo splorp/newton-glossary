@@ -10,20 +10,24 @@ Text:
 
 In (link: /terms/newtonscript text: NewtonScript), the process of converting a frame (link: /terms/object text: object) into a stream of bytes before an (link: /terms/entry text: entry) is added to a (link: /terms/soup text: soup). The reverse of this process is (link: /terms/unflattening text: unflattening).
 
+Colloquially known as (link: /terms/flattenation text: Flattenation).
+
 ----
 
 Related:
 
 - /terms/entry
 - /terms/flatten
+- /terms/flattenation
 - /terms/flattened-soup
+- /terms/flattener
 - /terms/frame
 - /terms/newtonscript
 - /terms/object
 - /terms/soup
 - /terms/translation-engine
 - /terms/unflatten
-- /terms/unflattenation
+- /terms/unflattener
 - /terms/unflattening
 
 ----

@@ -16,14 +16,16 @@ Related:
 
 - /terms/entry
 - /terms/flatten
+- /terms/flattened-frame
 - /terms/flattened-soup
+- /terms/flattener
 - /terms/flattening
 - /terms/frame
 - /terms/newtonscript
 - /terms/object
 - /terms/soup
-- /terms/unflattenation
 - /terms/translation-engine
+- /terms/unflattener
 - /terms/unflattening
 
 ----

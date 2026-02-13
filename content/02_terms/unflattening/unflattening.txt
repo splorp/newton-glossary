@@ -18,7 +18,9 @@ Related:
 
 - /terms/entry
 - /terms/flatten
+- /terms/flattened-frame
 - /terms/flattened-soup
+- /terms/flattener
 - /terms/flattening
 - /terms/frame
 - /terms/newtonscript
@@ -27,6 +29,7 @@ Related:
 - /terms/translation-engine
 - /terms/unflatten
 - /terms/unflattenation
+- /terms/unflattener
 
 ----
 

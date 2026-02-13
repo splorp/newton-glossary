@@ -15,7 +15,9 @@ In (link: /terms/newtonscript text: NewtonScript), to convert a frame (link: /te
 Related:
 
 - /terms/entry
+- /terms/flattened-frame
 - /terms/flattened-soup
+- /terms/flattener
 - /terms/flattening
 - /terms/frame
 - /terms/newtonscript
@@ -23,7 +25,7 @@ Related:
 - /terms/soup
 - /terms/translation-engine
 - /terms/unflatten
-- /terms/unflattenation
+- /terms/unflattener
 - /terms/unflattening
 
 ----

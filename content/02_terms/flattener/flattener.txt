@@ -1,0 +1,38 @@
+Title: Flattener
+
+----
+
+Date: 13 February 2026
+
+----
+
+Text:
+
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/translation-engine text: translation engine) that converts a (link: /terms/frame text: frame) into a (link: /terms/binary object text: binary object) containing a (link: /terms/flattened frame text: flattened frame).
+
+To perform the opposite translation, you would use an (link: /terms/unflattener text: unflattener) translator.
+
+----
+
+Related:
+
+- /terms/binary-object
+- /terms/engine
+- /terms/flatten
+- /terms/flattened-frame
+- /terms/flattened-soup
+- /terms/flattening
+- /terms/frame
+- /terms/newtonscript
+- /terms/object
+- /terms/soup
+- /terms/translation-engine
+- /terms/unflatten
+- /terms/unflattener
+- /terms/unflattening
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference

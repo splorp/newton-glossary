@@ -16,9 +16,6 @@ Related:
 
 - /terms/alias
 - /terms/entry-alias
-- /terms/flatten
-- /terms/flattened-soup
-- /terms/flattening
 - /terms/frame
 - /terms/member-soup
 - /terms/name-reference
@@ -26,9 +23,6 @@ Related:
 - /terms/reference
 - /terms/slot
 - /terms/soup
-- /terms/unflatten
-- /terms/unflattenation
-- /terms/unflattening
 - /terms/union-soup
 
 ----
