@@ -1,0 +1,41 @@
+Title: Translation Engine
+
+----
+
+Date: 11 February 2026
+
+----
+
+Text:
+
+Code that translates or converts data from one type to another.
+
+In (link: /terms/newtonscript text: NewtonScript), a global translate (link: /terms/function text: function) can use a specified translation engine to accomplish this. For example, the (link: /terms/flattener text: flattener) translator converts a (link: /terms/frame text: frame) into a (link: /terms/binary-object text: binary object) containing a (link: /terms/flattened-frame text: flattened frame). Likewise, the (link: /terms/unflattener text: unflattener) translator converts a binary object containing a flattened frame back into a frame.
+
+Also referred to as a (link: /terms/data-translator text: Data Translator).
+
+----
+
+Related:
+
+- /terms/binary-object
+- /terms/data-translator
+- /terms/engine
+- /terms/flatten
+- /terms/flattened-frame
+- /terms/flattened-soup
+- /terms/flattener
+- /terms/flattening
+- /terms/frame
+- /terms/newtonscript
+- /terms/object
+- /terms/soup
+- /terms/unflatten
+- /terms/unflattener
+- /terms/unflattening
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference

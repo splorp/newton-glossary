@@ -8,4 +8,4 @@ Date: 01 February 2026
 
 Text:
 
-See: (link: /terms/book-search-engine text: Book Search Engine), (link: /terms/drawing-engine text: Drawing Engine), (link: /terms/font-engine text: Font Engine), (link: /terms/text-engine text: Recognition Engine), and (link: /terms/text-engine text: Text Engine)
+See: (link: /terms/book-search-engine text: Book Search Engine), (link: /terms/drawing-engine text: Drawing Engine), (link: /terms/font-engine text: Font Engine), (link: /terms/text-engine text: Recognition Engine), (link: /terms/text-engine text: Text Engine), and (link: /terms/translation-engine text: Translation Engine)
