@@ -10,6 +10,8 @@ Text:
 
 A term used to describe the capabilities of the (link: /terms/newton-data-viewer text: Newton Data Viewer) software, which involved downloading data from desktop (link: /terms/application text: applications) to a Newton device for viewing, modifying, and (link: /terms/synchronizing text: synchronizing) changes back to a desktop computer.
 
+Also referred to as (link: /terms/mim text: MIM).
+
 ----
 
 Resource:
@@ -20,6 +22,7 @@ Resource:
 
 Related:
 
+- /terms/mim
 - /terms/newton-data-viewer
 - /terms/synchronize
 
