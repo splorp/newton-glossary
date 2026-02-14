@@ -10,7 +10,9 @@ Text:
 
 Code that translates or converts data from one type to another.
 
-In (link: /terms/newtonscript text: NewtonScript), a global translate (link: /terms/function text: function) can use a specified translation engine to accomplish this. For example, the (link: /terms/flattener text: flattener) translator converts a (link: /terms/frame text: frame) into a (link: /terms/binary-object text: binary object) containing a (link: /terms/flattened-frame text: flattened frame). Likewise, the (link: /terms/unflattener text: unflattener) translator converts a binary object containing a flattened frame back into a frame.
+In (link: /terms/newtonscript text: NewtonScript), the (link: /terms/global text: global) `Translate` (link: /terms/function text: function) can use a specified translation engine to accomplish data translation.
+
+For example, the (link: /terms/flattener text: flattener) translator converts a (link: /terms/frame text: frame) into a (link: /terms/binary-object text: binary object) containing a (link: /terms/flattened-frame text: flattened frame). Likewise, the (link: /terms/unflattener text: unflattener) translator converts a binary object containing a flattened frame back into a frame.
 
 Also referred to as a (link: /terms/data-translator text: Data Translator).
 

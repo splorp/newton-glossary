@@ -1,0 +1,17 @@
+Title: Packetized Data
+
+----
+
+Date: 13 February 2026
+
+----
+
+Text:
+
+See: (link: /terms/framed-data text: Framed Data)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

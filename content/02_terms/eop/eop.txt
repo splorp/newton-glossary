@@ -10,7 +10,14 @@ Text:
 
 End of Packet
 
-A specific string of (link: /terms/character text: characters) that indicates the end of a packet of data.
+A specific string of (link: /terms/character text: characters) that indicates the end of a (link: /terms/packet text: packet) of data.
+
+----
+
+Related:
+
+- /terms/packet
+- /terms/packetize
 
 ----
 

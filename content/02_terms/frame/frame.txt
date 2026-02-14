@@ -10,6 +10,8 @@ Text:
 
 In (link: /terms/newtonscript text: NewtonScript), an unordered collection of (link: /terms/slot text: slots), each of which consists of a name and value pair. The value of a slot can be any type of (link: /terms/object text: object), and slots can be added or removed from frames dynamically. A frame can have a user-specified (link: /terms/class text: class). Frames can be used like records in Pascal and structs in C, and also as objects that respond to (link: /terms/message text: messages).
 
+In networking terms, a (link: /terms/packet text: packet) of data can also be referred to as a frame of data.
+
 ----
 
 Related:
@@ -36,6 +38,7 @@ Related:
 - /terms/nsof
 - /terms/object
 - /terms/option-frame
+- /terms/packet
 - /terms/parent
 - /terms/part-frame
 - /terms/proto

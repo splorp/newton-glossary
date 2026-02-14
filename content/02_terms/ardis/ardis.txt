@@ -10,7 +10,7 @@ Text:
 
 Advanced Radio Data Information Service
 
-A defunct wireless data network based in the United States developed by [Motorola](https://www.motorola.com/) and [IBM](https://www.ibm.com/). The ARDIS network provided two-way data transmission based on radio packet technology. ARDIS compatible wireless (link: /terms/modem text: modems) were used in the (link: /terms/newton-os text: Newton OS) based (link: /terms/marco text: Motorola Marco) device.
+A defunct wireless data network based in the United States developed by [Motorola](https://www.motorola.com/) and [IBM](https://www.ibm.com/). The ARDIS network provided two-way data transmission based on radio (link: /terms/packet text: packet) technology. ARDIS compatible wireless (link: /terms/modem text: modems) were used in the (link: /terms/newton-os text: Newton OS) based (link: /terms/marco text: Motorola Marco) device.
 
 ----
 
@@ -31,5 +31,6 @@ Related:
 - /terms/cdpd
 - /terms/data-pcs
 - /terms/marco
+- /terms/packet
 - /terms/pcs
 - /terms/swims

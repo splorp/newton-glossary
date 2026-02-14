@@ -1,0 +1,28 @@
+Title: Packet
+
+----
+
+Date: 13 February 2026
+
+----
+
+Text:
+
+A predetermined block of data transmitted over a digital network.
+
+(link: /terms/tcp-ip text: TCP/IP) is an example of a networking (link: /terms/protocol text: protocol) that is packet based.
+
+----
+
+Related:
+
+- /terms/eop
+- /terms/frame
+- /terms/packetize
+- /terms/tcp-ip
+
+----
+
+Source:
+
+- /sources/techencyclopedia

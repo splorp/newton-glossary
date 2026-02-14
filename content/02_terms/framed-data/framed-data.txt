@@ -1,0 +1,42 @@
+Title: Framed Data
+
+----
+
+Date: 13 February 2026
+
+----
+
+Text:
+
+Information that has been formed into predetermined (link: /terms/frame text: frames) according to a specific (link: /terms/protocol text: protocol), generally for transfer over a network or between devices.
+
+In (link: /terms/newtonscript text: NewtonScript), the (link: /terms/global text: global) `Translate` (link: /terms/function text: function) allows data to be converted to a (link: /terms/flattened-frame text: flattened frame) and (link: /terms/packetized text: packetized) by using the (link: /terms/target text: target) frame in the (link: /terms/output-spec text: output spec).
+
+Also referred to as (link: /terms/packetized-data text: Packetized Data).
+
+----
+
+Related:
+
+- /terms/data-definition
+- /terms/flatten
+- /terms/flattened-frame
+- /terms/flattened-soup
+- /terms/flattener
+- /terms/flattening
+- /terms/frame
+- /terms/newtonscript
+- /terms/packet
+- /terms/packetize
+- /terms/packetized-data
+- /terms/target
+- /terms/translation-engine
+- /terms/unflatten
+- /terms/unflattener
+- /terms/unflattening
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

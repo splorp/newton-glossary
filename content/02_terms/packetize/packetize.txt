@@ -1,0 +1,26 @@
+Title: Packetize
+
+----
+
+Date: 13 February 2026
+
+----
+
+Text:
+
+To arrange data into predetermined blocks (or (link: /terms/packet text: packets)) according to a specific (link: /terms/protocol text: protocol), generally for transfer over a network or between devices.
+
+----
+
+Related:
+
+- /terms/data-definition
+- /terms/eop
+- /terms/framed-data
+- /terms/packet
+
+----
+
+Source:
+
+- /sources/wikipedia
