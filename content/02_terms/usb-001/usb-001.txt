@@ -8,9 +8,9 @@ Date: 15 February 2026
 
 Text:
 
-An internal circuit board for (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices developed by (link: /sources/newtonsales text: Newton Sales). When installed, it provides a standard (link: /terms/usb text: USB) port, eliminating the need for a (link: /terms/newton-serial-adapter text: Newton Serial Adapter) plugged into the proprietary (link: /terms/newton-interconnect text: Newton InterConnect).
+An internal circuit board for (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices developed by (link: /sources/newtonsales text: Newton Sales). When installed, it provides a standard (link: /terms/usb text: USB)-C port, eliminating the need for a (link: /terms/newton-serial-adapter text: Newton Serial Adapter) plugged into the proprietary (link: /terms/newton-interconnect text: Newton InterConnect).
 
-Two versions of the USB-001 board are available. One provides serial connectivity only. The other version also provides the ability to power the Newton device through the USB port, as well as recharge the (link: /terms/battery-pack text: battery pack).
+Two versions of the USB-001 board have been developed, both providing serial connectivity. A variation of the base model also provides the ability to power the Newton device through the USB port, as well as recharge the (link: /terms/battery-pack text: battery pack).
 
 Also referred to as a (link: /terms/dongle-destroyer text: Dongle Destroyer).
 
