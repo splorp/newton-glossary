@@ -16,6 +16,7 @@ Related:
 
 - /terms/display
 - /terms/display-area
+- /terms/edc
 - /terms/liquid-crystal-display
 - /terms/non-display-area
 - /terms/landscape-mode

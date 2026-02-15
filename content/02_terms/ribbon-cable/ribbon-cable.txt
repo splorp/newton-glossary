@@ -15,6 +15,7 @@ A flat, multiconductor cable used to connect electronic components or circuit bo
 Related:
 
 - /terms/daughterboard
+- /terms/edc
 - /terms/main-logic-board
 - /terms/motherboard
 - /terms/screen

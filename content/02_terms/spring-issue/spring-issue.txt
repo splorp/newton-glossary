@@ -18,6 +18,7 @@ Related:
 - /terms/clamshell
 - /terms/dhp
 - /terms/display
+- /terms/edc
 - /terms/emate-300
 - /terms/floppy-lid
 
