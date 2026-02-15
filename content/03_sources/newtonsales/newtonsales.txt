@@ -1,0 +1,18 @@
+Title: NewtonSales
+
+----
+
+Date: 15 February 2026
+
+----
+
+Text:
+
+A long-time supplier of various hardware upgrades, parts, and services for Newton devices, including the (link: /terms/usb-001 text: USB-001).
+
+----
+
+Resource:
+
+- [NewtonSales Website](https://www.newtonsales.com/)
+- [YouTube: NewtonSales](https://www.youtube.com/@newtonsales)

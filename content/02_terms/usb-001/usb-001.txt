@@ -1,0 +1,42 @@
+Title: USB-001
+
+----
+
+Date: 15 February 2026
+
+----
+
+Text:
+
+An internal circuit board for (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices developed by (link: /sources/newtonsales text: Newton Sales). When installed, it provides a standard (link: /terms/usb text: USB) port, eliminating the need for a (link: /terms/newton-serial-adapter text: Newton Serial Adapter) plugged into the proprietary (link: /terms/newton-interconnect text: Newton InterConnect).
+
+Two versions of the USB-001 board are available. One provides serial connectivity only. The other version also provides the ability to power the Newton device through the USB port, as well as recharge the (link: /terms/battery-pack text: battery pack).
+
+Also referred to as a (link: /terms/dongle-destroyer text: Dongle Destroyer).
+
+----
+
+Resource:
+
+- [NewtonSales: USB-001 Product Information](https://www.newtonsales.com/Newton%202000%20%202100%20USB-C.html)
+
+----
+
+Related:
+
+- /terms/communication-port
+- /terms/din
+- /terms/dongle
+- /terms/dongle-destroyer
+- /terms/mini-din
+- /terms/multifunction-interconnect-adapter
+- /terms/newton-interconnect
+- /terms/newton-serial-adapter
+- /terms/ser-001
+- /terms/usb
+
+----
+
+Source:
+
+- /sources/newtonsales

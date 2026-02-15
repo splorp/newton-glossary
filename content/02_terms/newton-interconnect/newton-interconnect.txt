@@ -39,6 +39,7 @@ Related:
 - /terms/nic
 - /terms/ser-001
 - /terms/usb
+- /terms/usb-001
 
 ----
 

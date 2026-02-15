@@ -27,6 +27,7 @@ Related:
 - /terms/newton-serial-adapter
 - /terms/pcbman
 - /terms/ser-001
+- /terms/usb-001
 
 ----
 

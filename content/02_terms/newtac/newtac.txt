@@ -24,6 +24,7 @@ Related:
 - /terms/power-port
 - /terms/rhythm-method
 - /terms/usb
+- /terms/usb-001
 - /terms/wall-wart
 
 ----

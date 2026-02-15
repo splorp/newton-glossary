@@ -30,6 +30,7 @@ Related:
 - /terms/newton-serial-adapter
 - /terms/output
 - /terms/ser-001
+- /terms/usb-001
 
 ----
 
