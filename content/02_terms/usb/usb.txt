@@ -25,6 +25,7 @@ Related:
 - /terms/newton-interconnect
 - /terms/rs-232
 - /terms/rs-422
+- /terms/usb-001
 
 ----
 

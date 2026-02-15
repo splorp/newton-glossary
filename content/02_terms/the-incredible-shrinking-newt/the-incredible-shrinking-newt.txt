@@ -8,7 +8,7 @@ Date: 04 November 2023
 
 Text:
 
-An experimental project by (link: /sources/igor-boris-bertolucci text: Igor Boris Bertolucci), where he attempted to reduce the overall physical size of a (link: /terms/messagepad-2000 text: MessagePad 2000). The project involved removing the casing, replacing the original power source with a modern Lithium Polymer (link: /terms/battery text: battery) and (link: /terms/charging text: charging) system, as well as a (link: /terms/ftdi text: FTDI)-compliant USB to serial converter.
+An experimental project by (link: /sources/igor-boris-bertolucci text: Igor Boris Bertolucci), where he attempted to reduce the overall physical size of a (link: /terms/messagepad-2000 text: MessagePad 2000). The project involved removing the casing, replacing the original power source with a modern Lithium Polymer (link: /terms/battery text: battery) and (link: /terms/charging text: charging) system, as well as a (link: /terms/ftdi text: FTDI)-compliant (link: /terms/usb text: USB) to serial converter.
 
 Also referred to as the (link: /terms/shrinking-newt text: Shrinking Newt).
 
