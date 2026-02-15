@@ -15,7 +15,6 @@ The portion of a Newton device (link: /terms/screen text: screen) on which infor
 Related:
 
 - /terms/bezel
-- /terms/display
 - /terms/liquid-crystal-display
 - /terms/non-display-area
 - /terms/landscape-mode

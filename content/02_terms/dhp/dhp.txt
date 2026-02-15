@@ -20,9 +20,9 @@ Related:
 
 - /terms/broink
 - /terms/clamshell
-- /terms/display
 - /terms/emate-300
 - /terms/floppy-lid
+- /terms/screen
 - /terms/spring-issue
 
 ----
