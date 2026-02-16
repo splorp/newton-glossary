@@ -20,6 +20,7 @@ Resource:
 - [NewTek Lab: BleepMaker 1.0 Product Information](https://web.archive.org/web/20020805025935/http://www.netlaputa.ne.jp/~kisanuki/newton/BleepMaker/BleepMaker.html) (Japanese)
 - [NewTek Lab: BleepMaker 2.0 Product Information](https://web.archive.org/web/20020808003232/http://www.netlaputa.ne.jp/~kisanuki/newton/BM2/README_BM2.html) (Japanese)
 - [UNNA: BleepMaker 1.0](http://www.unna.org/view.php?/applications/BleepMaker)
+- [The Newted Community: BleepMaker 1.0](https://www.newted.org/resources/bleepmaker/)
 
 ----
 
