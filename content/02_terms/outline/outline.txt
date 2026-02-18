@@ -15,6 +15,7 @@ A type of (link: /terms/stationery text: stationery) in the (link: /terms/notepa
 Related:
 
 - /terms/checklist
+- /terms/circle
 - /terms/note
 - /terms/notepad
 - /terms/recording

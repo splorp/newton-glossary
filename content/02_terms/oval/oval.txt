@@ -15,8 +15,10 @@ A circular or elliptical (link: /terms/shape text: shape) defined by the boundin
 Related:
 
 - /terms/arc
+- /terms/circle
 - /terms/drawing-engine
 - /terms/line
+- /terms/oval-tool
 - /terms/picture
 - /terms/polygon
 - /terms/rectangle

@@ -15,6 +15,7 @@ A saved sequence of drawing operations — such as (link: /terms/line text: line
 Related:
 
 - /terms/arc
+- /terms/circle
 - /terms/drawing-engine
 - /terms/line
 - /terms/oval

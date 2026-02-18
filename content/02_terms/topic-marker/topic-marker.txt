@@ -19,6 +19,7 @@ Also referred to as an (link: /terms/indicator text: Indicator) in the (link: /s
 Related:
 
 - /terms/checklist
+- /terms/circle
 - /terms/drag
 - /terms/dragging
 - /terms/indicator

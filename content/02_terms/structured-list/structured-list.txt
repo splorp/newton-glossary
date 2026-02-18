@@ -16,6 +16,7 @@ Related:
 
 - /terms/checkbox
 - /terms/checklist
+- /terms/circle
 - /terms/drag
 - /terms/dragging
 - /terms/notepad

@@ -19,6 +19,7 @@ Also referred as (link: /terms/clip-art text: Clip Art).
 Related:
 
 - /terms/arc
+- /terms/circle
 - /terms/clip-art
 - /terms/drawing-engine
 - /terms/line

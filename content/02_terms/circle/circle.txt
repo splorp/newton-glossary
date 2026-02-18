@@ -1,0 +1,43 @@
+Title: Circle
+
+----
+
+Date: 16 February 2026
+
+----
+
+Text:
+
+A small elliptical (link: /terms/user-interface text: user interface) element used to denote a (link: /terms/radio-button text: radio button), (link: /terms/checklist text: checklist) item, or (link: /terms/outline text: outline) item. In checklists and outlines, these elements are also referred to as (link: /terms/topic-marker text: topic markers).
+
+A circle is also an elliptical (link: /terms/shape text: shape) similar to an (link: /terms/oval text: oval), but with all points along its edge equidistant from its centre.
+
+----
+
+Related:
+
+- /terms/arc
+- /terms/checklist
+- /terms/drawing-engine
+- /terms/line
+- /terms/outline
+- /terms/oval
+- /terms/oval-tool
+- /terms/picture
+- /terms/polygon
+- /terms/radio-button
+- /terms/rectangle
+- /terms/rounded-rectangle
+- /terms/shape
+- /terms/shapes
+- /terms/stamp
+- /terms/topic-marker
+- /terms/user-interface
+- /terms/wedge
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/newton-user-interface-guidelines

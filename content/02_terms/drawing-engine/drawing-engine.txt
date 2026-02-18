@@ -21,6 +21,7 @@ Newton OS also provides (link: /terms/shape-recognition text: shape recognition)
 Related:
 
 - /terms/arc
+- /terms/circle
 - /terms/engine
 - /terms/gravity
 - /terms/line

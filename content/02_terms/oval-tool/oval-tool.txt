@@ -1,0 +1,38 @@
+Title: Oval Tool
+
+----
+
+Date: 16 February 2026
+
+----
+
+Text:
+
+A tool found in (link: /terms/newton-works text: Newton Works) used to add circular (link: /terms/object text: objects) to a (link: /terms/drawing text: drawing) document.
+
+(link: /terms/dragging text: Dragging) the oval tool on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen) will create an (link: /terms/oval text: oval). To create a (link: /terms/circle text: circle), hold down the (link: /terms/shift-key text: Shift key) while dragging the tool.
+
+Tapping on the oval will cause a (link: /terms/selection-box text: selection box) to to appear around the object, allowing the user to resize the oval using the (link: /terms/handle text: handles).
+
+Also referred to as the (link: /terms/circle-tool text: Circle Tool).
+
+----
+
+Related:
+
+- /terms/circle
+- /terms/circle-tool
+- /terms/draw
+- /terms/drawing
+- /terms/drawing-engine
+- /terms/newtonworks
+- /terms/oval
+- /terms/stamp-tool
+- /terms/toolbar
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide

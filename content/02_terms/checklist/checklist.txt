@@ -15,6 +15,7 @@ A type of (link: /terms/stationery text: stationery) in the (link: /terms/notepa
 Related:
 
 - /terms/checkbox
+- /terms/circle
 - /terms/flashpoint
 - /terms/getting-things-done
 - /terms/newttodo

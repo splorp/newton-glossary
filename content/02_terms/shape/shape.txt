@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A (link: /terms/picture text: picture) composed of geometric constructs such as (link: /terms/line text: lines), (link: /terms/arc text: arcs), circles, (link: /terms/oval text: ovals), (link: /terms/rectangle text: rectangles), and other (link: /terms/polygon text: polygons).
+A (link: /terms/picture text: picture) composed of geometric constructs such as (link: /terms/line text: lines), (link: /terms/arc text: arcs), (link: /terms/circle text: circles), (link: /terms/oval text: ovals), (link: /terms/rectangle text: rectangles), and other (link: /terms/polygon text: polygons).
 
 A shape is also a structured piece of data used by the (link: /terms/newton-os text: Newton OS) drawing system to render an image on the (link: /terms/screen text: screen).
 
@@ -17,6 +17,7 @@ A shape is also a structured piece of data used by the (link: /terms/newton-os t
 Related:
 
 - /terms/arc
+- /terms/circle
 - /terms/line
 - /terms/oval
 - /terms/picture

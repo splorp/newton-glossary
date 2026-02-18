@@ -14,9 +14,10 @@ A standard (link: /terms/user-interface text: user interface) control that displ
 
 Related:
 
-- /terms/deselect
+- /terms/circle
 - /terms/button
 - /terms/checkbox
+- /terms/deselect
 - /terms/picture-radio-button
 - /terms/select
 - /terms/user-interface
