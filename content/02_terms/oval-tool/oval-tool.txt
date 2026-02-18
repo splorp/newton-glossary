@@ -8,7 +8,7 @@ Date: 16 February 2026
 
 Text:
 
-A tool found in (link: /terms/newton-works text: Newton Works) used to add circular (link: /terms/object text: objects) to a (link: /terms/drawing text: drawing) document.
+A tool found in (link: /terms/newton-works text: Newton Works) used to add elliptical (link: /terms/object text: objects) to a (link: /terms/drawing text: drawing) document.
 
 (link: /terms/dragging text: Dragging) the oval tool on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen) will create an (link: /terms/oval text: oval). To create a (link: /terms/circle text: circle), hold down the (link: /terms/shift-key text: Shift key) while dragging the tool.
 

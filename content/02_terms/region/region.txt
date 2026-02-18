@@ -14,6 +14,7 @@ In (link: /terms/newtonscript text: NewtonScript), an arbitrary area or set of a
 
 Related:
 
+- /terms/bounding-box
 - /terms/origin
 - /terms/newtonscript
 - /terms/view

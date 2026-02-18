@@ -18,6 +18,7 @@ The selected (link: /terms/object text: objects) can be moved by (link: /terms/d
 
 Related:
 
+- /terms/bounding-box
 - /terms/deselect
 - /terms/drag
 - /terms/dragging
