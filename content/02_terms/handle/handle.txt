@@ -8,7 +8,7 @@ Date: 17 February 2026
 
 Text:
 
-A small (link: /terms/square text: square) that appears on each corner of a (link: /terms/selection-box text: selection box) when an (link: /terms/object text: object) is (link: /terms/selected text: selected). By (link: /terms/dragging text: dragging) ones of the handles, the object can be stretched, scaled, or distorted.
+A small (link: /terms/square text: square) that appears on each corner of a (link: /terms/selection-box text: selection box) when an (link: /terms/object text: object) is (link: /terms/selected text: selected) in a (link: /terms/newton-works text: Newton Works) document. By (link: /terms/dragging text: dragging) ones of the handles, the object can be stretched, scaled, or distorted.
 
 The (link: /terms/emate-300 text: eMate 300) also features a physical handle to carry the device.
 
@@ -22,6 +22,7 @@ Related:
 - /terms/drag-handle
 - /terms/dragging
 - /terms/emate-300
+- /terms/newton-works
 - /terms/select
 - /terms/selection
 - /terms/selection-box
