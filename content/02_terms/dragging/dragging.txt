@@ -8,7 +8,7 @@ Date: 18 September 2024
 
 Text:
 
-The action of moving an (link: /terms/object text: object) on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen).
+The action of moving an (link: /terms/object text: object) or the currently selected tool on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen).
 
 ----
 
@@ -17,6 +17,8 @@ Related:
 - /terms/double-tap
 - /terms/double-tapping
 - /terms/drag
+- /terms/drag-handle
+- /terms/handle
 - /terms/pen
 - /terms/pen-sound-effects
 - /terms/penning

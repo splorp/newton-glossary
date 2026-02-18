@@ -20,6 +20,7 @@ Related:
 - /terms/double-tapping
 - /terms/drag
 - /terms/dragging
+- /terms/handle
 - /terms/highlight
 - /terms/highlight-mode
 - /terms/highlighting-mark

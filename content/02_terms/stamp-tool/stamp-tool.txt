@@ -12,7 +12,7 @@ A tool found in (link: /terms/newton-works text: Newton Works) used to select an
 
 (link: /terms/tapping text: Tapping) on the stamp tool (link: /terms/icon text: icon) located in the (link: /terms/toolbar text: toolbar) of a (link: /terms/Draw text: Draw) document opens a (link: /terms/slip text: slip) displaying a selection of (link: /terms/clip-art text: clip art) stamps. A stamp is placed into the document by selecting a stamp with the (link: /terms/pen text: pen) and then tapping somewhere in the document, placing the selcted stamp.
 
-Tapping on the stamp image will cause (link: /terms/drag-handle text: drag handles) to appear around the stamp, allowing the user to resize the stamp.
+Tapping on the stamp image will cause a (link: /terms/selection-box text: selection box) to to appear around the object, allowing the user to resize the stamp using the (link: /terms/handle text: handles).
 
 ----
 

@@ -16,6 +16,7 @@ For example, to deselect a (link: /terms/checkbox text: checkbox), the user woul
 
 Related:
 
+- /terms/handle
 - /terms/highlight
 - /terms/highlight-mode
 - /terms/highlighting-mark

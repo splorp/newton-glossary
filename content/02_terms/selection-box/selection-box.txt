@@ -8,9 +8,9 @@ Date: 09 December 2024
 
 Text:
 
-A grey rectangle surrounding one or more (link: /terms/select text: selected) objects that have been circled with a (link: /terms/highlighting-mark text: highlighting mark). A selection box can appear around text, (link: /terms/ink-text text: ink text), (link: /terms/picture text: pictures), (link: /terms/shape text: shapes), or a combination of objects.
+A grey rectangle surrounding one or more (link: /terms/select text: selected) objects that have been encircled with a (link: /terms/highlighting-mark text: highlighting mark) or (link: /terms/tapped text: tapped) with a (link: /terms/pen text: pen). A selection box can appear around text, (link: /terms/ink-text text: ink text), (link: /terms/picture text: pictures), (link: /terms/shape text: shapes), or a combination of objects.
 
-The selected (link: /terms/object text: objects) can be moved by (link: /terms/dragging text: dragging) the selection box. Dragging a corner or edge of a selection box around pictures or shapes with stretch, shrink, or distort the object.
+The selected (link: /terms/object text: objects) can be moved by (link: /terms/dragging text: dragging) the selection box. Dragging a (link: /terms/handle text: handle) or edge of a selection box around pictures or shapes will stretch, shrink, or distort the object.
 
 (image: /assets/images/selection-box-2x.gif alt: Screenshot of a Selection Box around a block of text width: 177)
 
@@ -21,6 +21,7 @@ Related:
 - /terms/deselect
 - /terms/drag
 - /terms/dragging
+- /terms/handle
 - /terms/highlight
 - /terms/highlight-mode
 - /terms/highlighting-mark

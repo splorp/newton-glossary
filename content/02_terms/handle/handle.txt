@@ -1,0 +1,34 @@
+Title: Handle
+
+----
+
+Date: 17 February 2026
+
+----
+
+Text:
+
+A small (link: /terms/square text: square) that appears on each corner of a (link: /terms/selection-box text: selection box) when an (link: /terms/object text: object) is (link: /terms/selected text: selected). (link: /terms/dragging text: dragging) a handle or edge of a selection box around will stretch, shrink, or distort the object.
+
+The (link: /terms/emate-300 text: eMate 300) features a physical handle built into the case carry the device.
+
+----
+
+Related:
+
+- /terms/carrying-handle
+- /terms/deselect
+- /terms/drag
+- /terms/drag-handle
+- /terms/dragging
+- /terms/select
+- /terms/selection
+- /terms/selection-box
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/emate-learning-works
+- /sources/apple-service-source

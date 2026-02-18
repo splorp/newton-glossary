@@ -20,6 +20,7 @@ Related:
 - /terms/drag
 - /terms/dragging
 - /terms/floating-container-view
+- /terms/handle
 - /terms/palette
 - /terms/picture-hanger
 - /terms/user-interface

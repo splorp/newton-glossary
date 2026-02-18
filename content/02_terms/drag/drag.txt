@@ -19,6 +19,7 @@ Related:
 - /terms/drag
 - /terms/drag-handle
 - /terms/dragging
+- /terms/handle
 - /terms/palette
 - /terms/pen
 - /terms/pen-sound-effects
