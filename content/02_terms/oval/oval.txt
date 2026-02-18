@@ -8,13 +8,16 @@ Date: 24 May 2001
 
 Text:
 
-A circular or elliptical (link: /terms/shape text: shape) defined by the bounding (link: /terms/rectangle text: rectangle) that encloses it.
+An elliptical (link: /terms/shape text: shape) defined by the (link: /terms/bounding-box text: bounding box) that encloses it.
+
+Whereas a (link: /terms/circle text: circle) has all points along its edge equidistant from its centre, the points along the edge of an oval are non-equidistant from its centre.
 
 ----
 
 Related:
 
 - /terms/arc
+- /terms/bounding-box
 - /terms/circle
 - /terms/drawing-engine
 - /terms/line

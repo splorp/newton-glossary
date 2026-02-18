@@ -8,12 +8,13 @@ Date: 24 May 2001
 
 Text:
 
-A portion of the circumference of an (link: /terms/oval text: oval) bounded by a pair of radii joining at the oval’s center. Compare this with a (link: /terms/wedge text: wedge), which includes part of the oval’s interior. Arcs and wedges are defined by the bounding (link: /terms/rectangle text: rectangle) that encloses the oval, along with a pair of angles marking the positions of the bounding radii.
+A portion of the circumference of an (link: /terms/oval text: oval) bounded by a pair of radii joining at the oval’s center. Compare this with a (link: /terms/wedge text: wedge), which includes part of the oval’s interior. Arcs and wedges are defined by the (link: /terms/bounding-box text: bounding box) that encloses the oval, along with a pair of angles marking the positions of the bounding radii.
 
 ----
 
 Related:
 
+- /terms/bounding-box
 - /terms/circle
 - /terms/drawing-engine
 - /terms/line

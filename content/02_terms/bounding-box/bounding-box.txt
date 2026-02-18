@@ -1,0 +1,31 @@
+Title: Bounding Box
+
+----
+
+Date: 16 February 2026
+
+----
+
+Text:
+
+The smallest (link: /terms/rectangle text: rectangle) that completely surrounds or contains an (link: /terms/object text: object).
+
+In (link: /terms/newtonscript text: NewtonScript), a bounding box defines the shape of the (link: /terms/region text: region) containing a (link: /terms/view text: view) or other data. This includes a value for the left, right, top, and bottom of the region in (link: /terms/global text: global) coordinates.
+
+Also referred to as a (link: /terms/bounding-rectangle text: Bounding Rectangle).
+
+----
+
+Related:
+
+- /terms/bounding-rectangle
+- /terms/newtonscript
+- /terms/rectangle
+- /terms/region
+- /terms/view
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference

@@ -1,0 +1,17 @@
+Title: Bounding Rectangle
+
+----
+
+Date: 16 February 2026
+
+----
+
+Text:
+
+See: (link: /terms/bounding-box text: Bounding Box)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
