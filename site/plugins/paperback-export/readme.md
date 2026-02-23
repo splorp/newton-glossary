@@ -216,4 +216,4 @@ See the [license.txt](https://raw.github.com/splorp/kirby-paperback-export/maste
 
 ## Questions?
 
-Contact me via [email](mailto:grant@splorp.com) or [Twitter](https://twitter.com/splorp).
+Contact me via [email](mailto:grant@splorp.com) or [Mastodon](https://mastodon.social/@splorp).
