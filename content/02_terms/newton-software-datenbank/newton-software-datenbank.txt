@@ -10,9 +10,9 @@ Text:
 
 A collection of information related to the Newton platform created by [Apple Computer GmbH](https://web.archive.org/web/19961221203435/http://www.apple.de/) and distributed as a pair of FileMaker databases.
 
-The main component of the Datenbank was the (link: /terms/newton-resource-guide text: Newton Resource Guide), an English language database consisting of nearly 800 listings covering software titles, peripherals, accessories, services, (link: /terms/newton-books text: Newton books), and other resources.
+The main component of the Datenbank was the (link: /terms/newton-resource-guide text: Newton Resource Guide), an English language database describing nearly 800 software titles, peripherals, accessories, services, (link: /terms/newton-books text: Newton books), and other resources.
 
-A second component known as the (link: /terms/newton-software-database text: Newton Software Database) describes several dozen software titles pulled from the Newton Resource Guide, translated to German. This database also includes screenshots and catalogue numbers to facilitate ordering the products.
+A second component known as the (link: /terms/newton-software-database text: Newton Software Database) contains German descriptions for several dozen software titles taken from the Newton Resource Guide. This database also includes screenshots and catalogue numbers to facilitate ordering the products.
 
 ----
 
