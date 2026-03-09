@@ -1,0 +1,32 @@
+Title: NewtonWorld
+
+----
+
+Date: 09 March 2026
+
+----
+
+Text:
+
+An alternate (and erroneously applied) name for (link: /terms/intelligent-newton-magazine text: Intelligent Newton Magazine).
+
+NewtonWorld was also the title of special report focused on the Newton platform that was inserted into the December 1995 issue of [PC World](https://web.archive.org/web/19980214131454/https://www.pcworld.com/) magazine.
+ 
+----
+
+Resource:
+
+- [NewtonTalk: NewtonWorld ‘Magazine’](https://newtontalk.net/archive/newtontalk/2007-March/0424.html)
+- [PC World: NewtonWorld](https://archive.org/details/pcworld1312unse/page/319/mode/1up)
+
+----
+
+Related:
+
+- /terms/intelligent-newton-magazine
+
+----
+
+Source:
+
+- /sources/newtontalk
