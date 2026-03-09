@@ -28,6 +28,7 @@ Resource:
 Related:
 
 - /terms/handheld-systems
+- /terms/intelligent-newton-magazine
 - /terms/pda-developers
 - /terms/pie
 

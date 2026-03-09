@@ -24,4 +24,7 @@ Resource:
 
 Related:
 
+- /terms/newton-resource-guide
+- /terms/newton-software-datenbank
+- /terms/newton-versions
 - /terms/nsg

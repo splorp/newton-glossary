@@ -21,5 +21,8 @@ Resource:
 Related:
 
 - /terms/dnug
+- /terms/newton-resource-guide
+- /terms/newton-software-datenbank
+- /terms/newton-solutions-guide
 - /terms/planet-newton
 - /terms/unna

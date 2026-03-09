@@ -1,0 +1,29 @@
+Title: Intelligent Newton Magazine
+
+----
+
+Date: 09 March 2026
+
+----
+
+Text:
+
+A bimonthly magazine published between 1994 and 1995 by INHand Publishing and edited by Barry Owen. Also known as (link: /terms/in-magazine text: IN Magazine) (or simply (link: /terms/in text: IN)), it billed itself as _“The information source for intelligent Newton users”_. It ceased publication after only six issues.
+
+Intelligent Newton was known for its regular coverage of Newton news, software reviews, and product information. The magazine provided an extensive amount of information for the (link: /terms/newton-resource-guide text: Newton Resource Guide) distributed by [Apple](https://www.apple.com/).
+
+----
+
+Resource:
+
+- [Intelligent Newton Magazine: Premier Issue](https://archive.org/details/intelligent-newton-magazine-issue-01-1994)
+- [MacUser: Andy Ihnatko: Paper Chase](https://archive.org/details/MacUser9412December1994/page/n26/mode/1up)
+
+----
+
+Related:
+
+- /terms/in
+- /terms/in-magazine
+- /terms/newton-resource-guide
+- /terms/pie-developers

@@ -1,0 +1,30 @@
+Title: Newton Software Datenbank
+
+----
+
+Date: 09 March 2026
+
+----
+
+Text:
+
+A collection of information related to the Newton platform created by [Apple Computer GmbH](https://web.archive.org/web/19961221203435/http://www.apple.de/) and distributed as a pair of FileMaker databases.
+
+The main component of the Datenbank was the (link: /terms/newton-resource-guide text: Newton Resource Guide), an English language database consisting of nearly 800 listings covering software titles, peripherals, accessories, services, (link: /terms/newton-books text: Newton books), and other resources.
+
+A second component known as the (link: /terms/newton-software-database text: Newton Software Database) describes several dozen software titles pulled from the Newton Resource Guide, translated to German. This database also includes screenshots and catalogue numbers to facilitate ordering the products.
+
+----
+
+Resource:
+
+- [Discmaster: Newton Software Datenbank](https://discmaster.textfiles.com/browse/20856/Mac%20Magazin%20and%20MacEasy%20Magazine%20CD%20-%20Issue%2015.iso/System/Newton/Weitere%20Infos/Newton%20Software%20Datenbank)
+
+----
+
+Related:
+
+- /terms/newton-resource-guide
+- /terms/newton-software-database
+- /terms/newton-solutions-guide
+- /terms/newton-versions
