@@ -16,4 +16,3 @@ Resource:
 
 - [LispODROID Website](https://web.archive.org/web/20160810211217/http://lispm.de/)
 - [GitHub: Rainer Joswig](https://github.com/lispm)
-- [Twitter: Rainer Joswig](https://twitter.com/rainerjoswig)

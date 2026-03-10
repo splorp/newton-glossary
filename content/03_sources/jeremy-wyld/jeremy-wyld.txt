@@ -21,4 +21,3 @@ Resource:
 - [Jeremy Wyld: NewtonScript](https://web.archive.org/web/19981206204551/http://www.best.com/~clmelara/jwyld/pkgs.shtml)
 - [About.me: Jeremy Wyld](https://about.me/jeremywyld)
 - [LinkedIn: Jeremy Wyld](https://www.linkedin.com/in/jeremywyld/)
-- [Twitter: Jeremy Wyld](https://twitter.com/jeremywyld)

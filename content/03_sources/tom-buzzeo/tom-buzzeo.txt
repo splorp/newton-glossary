@@ -16,4 +16,3 @@ Resource:
 
 - [Keybase: Tom Buzzeo](https://keybase.io/etherkn0t)
 - [Mastodon: Etherknot](https://mstdn.social/@etherknot)
-- [Twitter: Etherknot](https://twitter.com/etherknot)

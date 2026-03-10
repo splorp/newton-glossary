@@ -17,5 +17,4 @@ Schneck is best known for software such as (link: /terms/newtjab text: NewtJab),
 Resource:
 
 - [LinkedIn: Eric Schneck](https://www.linkedin.com/in/eric-s-851622/)
-- [Twitter: Eric Schneck](https://twitter.com/eschneck/)
 - [Roman Pixell: iTunes Newton Plug-in ](https://web.archive.org/web/20100210185752/http://www.pixell.net/doppler/newton/)

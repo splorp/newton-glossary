@@ -19,7 +19,6 @@ Also referred to as (link: /terms/npds text: NPDS).
 Resource:
 
 - [Newton Personal Data Sharing Website](http://npds.free.fr/)
-- [Twitter: Newton Personal Data Sharing](https://twitter.com/npds)
 
 ----
 
