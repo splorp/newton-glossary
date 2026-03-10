@@ -1,0 +1,18 @@
+Title: DMP Systems
+
+----
+
+Date: 10 March 2026
+
+----
+
+Text:
+
+A software development company founded David M. Pompea in 1981. Specializing in custom software and electronic control design, DMP Systems began developing software for (link: /terms/newton-os text: Newton OS) in October 1993. The company released several (link: /terms/application text: applications), including the (link: /terms/newtdb text: NewtDb) relational (link: /terms/database text: database).
+
+----
+
+Resource:
+
+- [DMP Systems Web Site](https://web.archive.org/web/20000819004836/http://www.netacc.net/~dmpsyst/)
+- [DMP Systems: Newton programs](https://web.archive.org/web/20000817004840/http://www.netacc.net/~dmpsyst/programs.html)

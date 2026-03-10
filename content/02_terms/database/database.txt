@@ -19,6 +19,7 @@ Related:
 - /terms/db
 - /terms/encyclopedia
 - /terms/leverage
+- /terms/newtdb
 - /terms/soup
 - /terms/vea
 

@@ -26,6 +26,7 @@ Related:
 - /terms/encyclopedia
 - /terms/notable
 - /terms/leverage
+- /terms/newtdb
 - /terms/power-box
 - /terms/sloup
 - /terms/vea

@@ -30,6 +30,7 @@ Related:
 - /terms/junior
 - /terms/leibniz
 - /terms/leverage
+- /terms/newtdb
 - /terms/ralph
 - /terms/soup
 - /terms/vea

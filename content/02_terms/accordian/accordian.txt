@@ -27,6 +27,7 @@ Related:
 - /terms/encyclopedia
 - /terms/notable
 - /terms/leverage
+- /terms/newtdb
 - /terms/revelar-connection-utility
 - /terms/sloup
 - /terms/vea

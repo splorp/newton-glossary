@@ -1,0 +1,35 @@
+Title: NewtDb
+
+----
+
+Date: 10 March 2026
+
+----
+
+Text:
+
+A relational (link: /terms/database text: database) developed by DMP Systems. Designed for fast information retrieval, the user can define multiple databases and different layouts for displaying information. NewtDb supports (link: /terms/newtonscript text: NewtonScript), input from a barcode scanner, and can use (link: /terms/newton-connection-kit text: Newton Connection Kit) for importing and exporting data from Mac OS and PC database (link: /terms/application text: applications).
+
+----
+
+Resource:
+
+- [DMP Systems: NewtDb Product Information](https://web.archive.org/web/20000824180611/http://www.netacc.net/~dmpsyst/newtdb.html)
+- [UNNA: NewtDb 1.20](http://www.unna.org/view.php?/applications/database/NewtDb1.20)
+
+----
+
+Related:
+
+- /terms/accordian
+- /terms/bee-one
+- /terms/database
+- /terms/encyclopedia
+- /terms/leverage
+- /terms/vea
+
+----
+
+Source:
+
+- /sources/dmp-systems
