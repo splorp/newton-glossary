@@ -14,7 +14,7 @@ Based on existing Pythia products called (link: /terms/transporter text: TransPo
 
 (image: /assets/images/newton-data-viewer-2x.gif alt: Screenshot of the Newton Data Viewer application width: 322)
 
-The software provided a mechanism for downloading data from desktop applications such as Microsoft Excel, Microsoft Word, and FileMaker to a Newton device for viewing and modifying. The exchange program would then (link: /terms/synchronize text: synchronize) any changes back to the desktop computer. Apple described this process as (link: /terms/mobile-information-management text: mobile information management).
+The software provided a mechanism for downloading data from desktop applications such as Microsoft Excel, Microsoft Word, and [FileMaker](https://en.wikipedia.org/wiki/FileMaker) to a Newton device for viewing and modifying. The exchange program would then (link: /terms/synchronize text: synchronize) any changes back to the desktop computer. Apple described this process as (link: /terms/mobile-information-management text: mobile information management).
 
 Newton Data Viewer was included with the (link: /terms/newton-connection-kit text: Newton Connection Kit) in Germany, but apparently it was never released in North America.
 
