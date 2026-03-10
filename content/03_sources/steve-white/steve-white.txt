@@ -15,3 +15,4 @@ A rather elusive hardware and software hacker responsible for the (link: /terms/
 Resource:
 
 - [GitHub: Pablo Marx](https://github.com/pablomarx)
+- [Mastodon: Pablo Marx](https://mastodon.social/@pablo_marx)
