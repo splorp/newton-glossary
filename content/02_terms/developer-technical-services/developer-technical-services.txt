@@ -10,6 +10,8 @@ Text:
 
 A group within [Apple](https://www.apple.com/) which provided technical support and programming tools for third-party software and hardware developers. Commonly known as (link: /terms/dts text: DTS). The current group is now called [Apple Developer Support](https://developer.apple.com/support/).
 
+The technical services group that supported Newton developers was known as (link: /terms/pie-dts text: PIE DTS).
+
 ----
 
 Related:
@@ -29,4 +31,9 @@ Related:
 - /terms/pie-developer-info
 - /terms/pie-developer-talk
 - /terms/pie
+- /terms/pie-dts
 - /terms/pie-partners-program
+
+----
+
+- /sources/newton-technology-journal
