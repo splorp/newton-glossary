@@ -10,7 +10,16 @@ Text:
 
 A periodic event scheduled by [Apple](https://www.apple.com/) in support of the Newton development community. At one time, these events allowed developers to meet each other in person and learn about future directions of Newton business, marketing, and technologies.
 
+Originally called the (link: /terms/newton-platform-development-conference text: Newton Platform Development Conference), the inaugural event was held in December 1993.
+
 Also referred to as (link: /terms/ndc text: NDC).
+
+----
+
+Resource:
+
+- [MacTech: What happened at Apple’s first attempt at a Newton Developer Conference?](https://web.archive.org/web/19990428154544/http://www.mactech.com/articles/mactech/Vol.10/10.03/NewtonConference/index.html)
+- [PIE Developers: Report on the First Newton Platform Development Conference](https://groups.google.com/g/comp.sys.newton.programmer/c/TWygBbNmkoQ/m/9nzzj5TVQIgJ)
 
 ----
 
@@ -23,6 +32,7 @@ Related:
 - /terms/newton-developer-mailing
 - /terms/newton-developer-support
 - /terms/newton-partners-program
+- /terms/newton-platform-development-conference
 - /terms/newton-technology-journal
 - /terms/pie
 - /terms/pie-developer-info

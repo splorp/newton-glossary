@@ -1,0 +1,17 @@
+Title: Newton Platform Developer Conference
+
+----
+
+Date: 12 March 2026
+
+----
+
+Text:
+
+See: (link: /terms/newton-development-conference text: Newton Development Conference)
+
+----
+
+Source:
+
+- /sources/mactech
