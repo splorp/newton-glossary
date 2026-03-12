@@ -10,6 +10,8 @@ Text:
 
 A small square (link: /terms/button text: button) containing an “X” (link: /terms/character text: character), located in the lower right corner of a (link: /terms/container-view text: container view) or (link: /terms/slip text: slip). (link: /terms/tapping text: Tapping) the button dismisses or closes the view.
 
+On an (link: /terms/emate-300 text: eMate 300), pressing the (link: /terms/close-key text: Close key) performs the same action as tapping the close box.
+
 Compare with the (link: /terms/large-close-box text: large close box).
 
 ----
@@ -19,6 +21,7 @@ Related:
 - /terms/button
 - /terms/close
 - /terms/close-button
+- /terms/close-key
 - /terms/default-button
 - /terms/large-close-box
 - /terms/status-bar

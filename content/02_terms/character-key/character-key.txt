@@ -17,6 +17,7 @@ The (link: /terms/tab-key text: Tab key), (link: /terms/return-key text: Return 
 Related:
 
 - /terms/auto-repeat
+- /terms/close-key
 - /terms/command-key
 - /terms/delete-key
 - /terms/enter-key

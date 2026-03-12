@@ -18,6 +18,7 @@ For the protocol, see (link: /terms/slip-protocol text: SLIP).
 
 Related:
 
+- /terms/active-slip
 - /terms/assist-slip
 - /terms/call-slip
 - /terms/card-slip

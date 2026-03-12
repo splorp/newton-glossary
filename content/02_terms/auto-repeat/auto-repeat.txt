@@ -15,6 +15,7 @@ The repeated, automatic generation of (link: /terms/character text: characters) 
 Related:
 
 - /terms/character-key
+- /terms/close-key
 - /terms/command-key
 - /terms/delete-key
 - /terms/enter-key

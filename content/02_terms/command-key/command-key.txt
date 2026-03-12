@@ -10,7 +10,7 @@ Text:
 
 A command key associates a programmatic (link: /terms/message text: message) or (link: /terms/action text: action) with a (link: /terms/key-combination text: key combination). The key combination consists of a (link: /terms/character text: character) typed on a keyboard in combination with one or more (link: /terms/modifier-key text: modifier keys).
 
-The command key is also the name of a modifier key found on a keyboard.
+The Command key is also the name of a modifier key found on a keyboard.
 
 ----
 
@@ -24,6 +24,7 @@ Related:
 
 - /terms/auto-repeat
 - /terms/character-key
+- /terms/close-key
 - /terms/delete-key
 - /terms/enter-key
 - /terms/function-key

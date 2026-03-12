@@ -1,0 +1,43 @@
+Title: Close Key
+
+----
+
+Date: 12 March 2026
+
+----
+
+Text:
+
+A (link: /terms/function-key text: function key) located on the (link: /terms/emate-300 text: eMate 300) keyboard that dismisses the (link: /terms/active-slip text: active slip). Pressing the Close key performs the same action as tapping the (link: /terms/close-box text: close box).
+
+----
+
+Related:
+
+- /terms/active-slip
+- /terms/auto-repeat
+- /terms/character-key
+- /terms/close
+- /terms/close-box
+- /terms/command-key
+- /terms/delete-key
+- /terms/enter-key
+- /terms/function-key
+- /terms/key-combination
+- /terms/keyboard
+- /terms/keyboard-equivalent
+- /terms/keystrings
+- /terms/keystroke-events
+- /terms/modifier-key
+- /terms/receive-key
+- /terms/return-key
+- /terms/send-key
+- /terms/tab-key
+- /terms/type-ahead
+- /terms/typewriter
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide

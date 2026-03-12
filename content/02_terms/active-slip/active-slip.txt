@@ -1,0 +1,28 @@
+Title: Active Slip
+
+----
+
+Date: 12 March 2026
+
+----
+
+Text:
+
+The frontmost (link: /terms/slip text: slip) that accepts user (link: /terms/input text: input).
+
+On an (link: /terms/emate-300 text: eMate 300), the active slip can be dismissed by pressing the (link: /terms/close-key text: Close key) on the keyboard.
+
+----
+
+Related:
+
+- /terms/close-box
+- /terms/close-key
+- /terms/slip
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide

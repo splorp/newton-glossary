@@ -18,6 +18,8 @@ Related:
 
 - /terms/auto-repeat
 - /terms/beaming
+- /terms/character-key
+- /terms/close-key
 - /terms/command-key
 - /terms/delete-key
 - /terms/enter-key

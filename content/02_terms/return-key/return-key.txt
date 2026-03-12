@@ -20,6 +20,7 @@ Related:
 
 - /terms/auto-repeat
 - /terms/character-key
+- /terms/close-key
 - /terms/command-key
 - /terms/default-button
 - /terms/delete-key
