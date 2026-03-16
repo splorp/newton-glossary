@@ -1,0 +1,17 @@
+Title: Backlight Key
+
+----
+
+Date: 16 March 2026
+
+----
+
+Text:
+
+See: (link: /terms/light-key text: Light Key)
+
+----
+
+Source:
+
+- /sources/apple-service-source

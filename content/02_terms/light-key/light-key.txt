@@ -1,0 +1,48 @@
+Title: Light Key
+
+----
+
+Date: 16 March 2026
+
+----
+
+Text:
+
+A (link: /terms/function-key text: function key) located on the (link: /terms/emate-300 text: eMate 300) keyboard that turns the (link: /terms/backlighting text: backlighting) of the (link: /terms/screen text: screen) on and off.
+
+Also referred to as a (link: /terms/backlight-key text: Backlight Key) or (link: /terms/backlighting-switch text: Backlighting Switch)
+
+----
+
+Related:
+
+- /terms/auto-repeat
+- /terms/backlit
+- /terms/backlight
+- /terms/backlight-key
+- /terms/backlighting-switch
+- /terms/character-key
+- /terms/close-key
+- /terms/command-key
+- /terms/delete-key
+- /terms/enter-key
+- /terms/function-key
+- /terms/key-combination
+- /terms/keyboard
+- /terms/keyboard-equivalent
+- /terms/keystrings
+- /terms/keystroke-events
+- /terms/modifier-key
+- /terms/power-key
+- /terms/receive-key
+- /terms/return-key
+- /terms/send-key
+- /terms/tab-key
+- /terms/type-ahead
+- /terms/typewriter
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide

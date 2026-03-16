@@ -1,0 +1,17 @@
+Title: Backlighting Switch
+
+----
+
+Date: 16 March 2026
+
+----
+
+Text:
+
+See: (link: /terms/light-key text: Light Key) and (link: /terms/power-switch text: Power Switch)
+
+----
+
+Source:
+
+- /sources/messagepad-2000-getting-started
