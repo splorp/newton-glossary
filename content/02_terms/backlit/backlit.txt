@@ -10,14 +10,21 @@ Text:
 
 A (link: /terms/screen text: screen) that has an integrated illumination source originating from behind the (link: /terms/display-area text: display area).
 
+Also referred to as (link: /terms/backlighting text: Backlighting).
+
 ----
 
 Related:
 
 - /terms/backlight
+- /terms/backlighting
 - /terms/display-area
 - /terms/electroluminescent-panel
 - /terms/indiglo-newton
 - /terms/liquid-crystal-display
 - /terms/screen
 - /terms/transflective
+
+----
+
+- /sources/apple-service-source

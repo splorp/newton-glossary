@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The (link: /terms/electroluminescent-panel text: electroluminescent panel) which illuminates the (link: /terms/screen text: screen) of certain Newton devices. The (link: /terms/emate-300 text: eMate 300), (link: /terms/messagepad-130 text: MessagePad 130), (link: /terms/messagepad-2000 text: MessagePad 2000), and (link: /terms/messagepad-2100 text: MessagePad 2100) are all outfitted with backlights.
+The (link: /terms/electroluminescent-panel text: electroluminescent panel) which illuminates the (link: /terms/screen text: screen) of certain Newton devices. The (link: /terms/emate-300 text: eMate 300), (link: /terms/messagepad-130 text: MessagePad 130), (link: /terms/messagepad-2000 text: MessagePad 2000), and (link: /terms/messagepad-2100 text: MessagePad 2100) are all outfitted with (link: /terms/backlit text: backlit) displays.
 
 ----
 
