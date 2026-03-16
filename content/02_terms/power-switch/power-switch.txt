@@ -1,0 +1,34 @@
+Title: Power Switch
+
+----
+
+Date: 16 March 2026
+
+----
+
+Text:
+
+A physical (link: /terms/button text: button) that turns a device on and off.
+
+On (link: /terms/messagepad-130 text: MessagePad 130), (link: /terms/messagepad-2000 text: MessagePad 2000), and (link: /terms/messagepad-2100 text: MessagePad 2100) devices, the power switch also controls the (link: /terms/backlight text: backlight) in the (link: /terms/screen text: screen). Sliding and holding down the power switch for two seconds will turn on the backlight.
+
+Rather than a sliding switch, the (link: /terms/emate-300 text: eMate 300) has a (link: /terms/power-key text: Power key) on the keyboard.
+
+Also referred to as a (link: /terms/backlighting-switch text: Backlighting Switch) or (link: /terms/Power Button text: Power Button).
+
+----
+
+Related:
+
+- /terms/backlight
+- /terms/backlighting-switch
+- /terms/power-button
+- /terms/power-key
+- /terms/power-reset
+
+----
+
+Source:
+
+- /sources/messagepad-2000-getting-started
+- /sources/messagepad-2000-user-manual

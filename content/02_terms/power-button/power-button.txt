@@ -1,0 +1,18 @@
+Title: Power Button
+
+----
+
+Date: 16 March 2026
+
+----
+
+Text:
+
+See: (link: /terms/power-key text: Power Key) and (link: /terms/power-switch text: Power Switch)
+
+----
+
+Source:
+
+- /sources/emate-300-users-manual
+- /sources/messagepad-2000-user-manual

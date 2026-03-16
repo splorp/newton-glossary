@@ -1,14 +1,16 @@
-Title: Keystrings
+Title: Power Key
 
 ----
 
-Date: 12 August 2024
+Date: 16 March 2026
 
 ----
 
 Text:
 
-Groups of individual key presses collected by (link: /terms/newton-os text: Newton OS) that are batch processed, improving performance and user response times.
+A (link: /terms/function-key text: function key) located on the (link: /terms/emate-300 text: eMate 300) keyboard that turns the device on and off.
+
+Also referred to as a (link: /terms/power-button text: Power Button) or (link: /terms/power-switch text: Power Switch).
 
 ----
 
@@ -22,12 +24,13 @@ Related:
 - /terms/enter-key
 - /terms/function-key
 - /terms/key-combination
-- /terms/key-view
 - /terms/keyboard
 - /terms/keyboard-equivalent
+- /terms/keystrings
 - /terms/keystroke-events
 - /terms/modifier-key
-- /terms/power-key
+- /terms/power-button
+- /terms/power-switch
 - /terms/receive-key
 - /terms/return-key
 - /terms/send-key
@@ -39,4 +42,4 @@ Related:
 
 Source:
 
-- /sources/newton-programmers-guide
+- /sources/emate-300-teachers-guide

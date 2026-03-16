@@ -20,6 +20,7 @@ Related:
 - /terms/indiglo-newton
 - /terms/lava
 - /terms/liquid-crystal-display
+- /terms/power-switch
 - /terms/screen
 - /terms/silk
 - /terms/sleep
