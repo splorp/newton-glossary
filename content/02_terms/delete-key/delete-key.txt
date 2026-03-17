@@ -25,6 +25,7 @@ Related:
 - /terms/del-key
 - /terms/delete
 - /terms/enter-key
+- /terms/extras-key
 - /terms/function-key
 - /terms/key-combination
 - /terms/keyboard

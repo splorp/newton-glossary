@@ -1,25 +1,26 @@
-Title: Auto Repeat
+Title: Extras Key
 
 ----
 
-Date: 24 May 2001
+Date: 17 March 2026
 
 ----
 
 Text:
 
-The repeated, automatic generation of (link: /terms/character text: characters) that occurs when a user holds down a key or presses the (link: /terms/pen text: pen) on an onscreen keyboard.
+A (link: /terms/function-key text: function key) located on the (link: /terms/emate-300 text: eMate 300) keyboard that opens the (link: /terms/extras-drawer text: Extras Drawer).
 
 ----
 
 Related:
 
+- /terms/active-slip
+- /terms/auto-repeat
 - /terms/character-key
-- /terms/close-key
 - /terms/command-key
 - /terms/delete-key
 - /terms/enter-key
-- /terms/extras-key
+- /terms/extras-drawer
 - /terms/function-key
 - /terms/key-combination
 - /terms/keyboard
@@ -40,4 +41,4 @@ Related:
 
 Source:
 
-- /sources/keyboard-enhancements
+- /sources/emate-300-teachers-guide

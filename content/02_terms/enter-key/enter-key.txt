@@ -21,6 +21,7 @@ Related:
 - /terms/default-button
 - /terms/delete-key
 - /terms/enter
+- /terms/extras-key
 - /terms/function-key
 - /terms/key-combination
 - /terms/keyboard

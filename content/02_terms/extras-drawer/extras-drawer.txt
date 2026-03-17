@@ -19,6 +19,7 @@ Related:
 - /terms/container-view
 - /terms/drawer
 - /terms/extras
+- /terms/extras-key
 - /terms/icon
 - /terms/options
 - /terms/quick-xtras

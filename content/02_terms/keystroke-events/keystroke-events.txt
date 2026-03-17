@@ -23,6 +23,7 @@ Related:
 - /terms/delete-key
 - /terms/enter-key
 - /terms/event
+- /terms/extras-key
 - /terms/function-key
 - /terms/key-combination
 - /terms/key-view
