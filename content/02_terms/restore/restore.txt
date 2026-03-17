@@ -12,7 +12,6 @@ To replace all of the information on a Newton device with information from a (li
 
 (image: /assets/images/restore-slip-2x.gif alt: Screenshot of a Restore slip with a Restart button width: 226)
 
-
 ----
 
 Related:

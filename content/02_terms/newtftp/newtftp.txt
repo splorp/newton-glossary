@@ -12,7 +12,6 @@ A standalone FTP client for (link: /terms/newton-os text: Newton OS) developed b
 
 (image: /assets/images/newtftp-2x.gif alt: Screenshot of NewtFTP width: 320)
 
-
 ----
 
 Resource:

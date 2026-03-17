@@ -12,7 +12,6 @@ Software developed by (link: /sources/frank-grundel text: Frank Gründel) to per
 
 (image: /assets/images/newttest-popup-2x.gif alt: Screenshot of NewtTest width: 240)
 
-
 ----
 
 Resource:

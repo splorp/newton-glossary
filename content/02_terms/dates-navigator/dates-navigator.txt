@@ -12,7 +12,6 @@ A small, onscreen (link: /terms/calendar text: calendar) used to move from one d
 
 Also referred to as a (link: /terms/mini-calendar text: Mini-Calendar).
 
-
 ----
 
 Related:

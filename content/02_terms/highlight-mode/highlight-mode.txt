@@ -12,7 +12,6 @@ A mode of input in (link: /terms/newton-os text: Newton OS) that allows the (lin
 
 Also referred to as (link: /terms/highlighting-mode text: Highlighting Mode).
 
-
 ----
 
 Related:

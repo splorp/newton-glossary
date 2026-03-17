@@ -21,7 +21,7 @@ Related:
 - /terms/handwriting-recognition
 - /terms/interpreter
 - /terms/newton-recognition-architecture
-- /terms/object 
+- /terms/object
 - /terms/print-recognizer
 - /terms/recognizer
 - /terms/recognizer-engine

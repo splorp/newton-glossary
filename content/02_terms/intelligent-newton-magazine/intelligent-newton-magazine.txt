@@ -13,7 +13,7 @@ A bimonthly magazine published between 1994 and 1995 by INHand Publishing and ed
 Intelligent Newton was known for its regular coverage of Newton news, software reviews, and product information. The magazine provided an extensive amount of information for the (link: /terms/newton-resource-guide text: Newton Resource Guide) distributed by [Apple](https://www.apple.com/).
 
 Mistakenly referred to as (link: /terms/newtonworld text: NewtonWorld) on the (link: /terms/newtontalk text: NewtonTalk) mailing list.
- 
+
 ----
 
 Resource:

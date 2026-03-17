@@ -26,7 +26,6 @@ Related:
 - /terms/toolbar
 - /terms/user-interface
 
-
 ----
 
 Source:

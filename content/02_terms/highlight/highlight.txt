@@ -14,7 +14,6 @@ For example, if the user (link: /terms/select text: selects) a word on the (link
 
 Also referred to as (link: /terms/hilite text: Hilite), (link: /terms/hiliting text: Hiliting), and (link: /terms/highlighting text: Highlighting).
 
-
 ----
 
 Related:

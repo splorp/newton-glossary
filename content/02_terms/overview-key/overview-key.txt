@@ -14,7 +14,6 @@ For example, in (link: /terms/newton-works text: Newton Works), pressing the Ove
 
 The Overview key performs the same function as the (link: /terms/overview-button text: overview button) on the screen.
 
-
 ----
 
 Related:
