@@ -1,0 +1,49 @@
+Title: Overview Key
+
+----
+
+Date: 17 March 2026
+
+----
+
+Text:
+
+A (link: /terms/function-key text: function key) located on the (link: /terms/emate-300 text: eMate 300) keyboard that changes the current view of items being displayed on the (link: /terms/screen text: screen). Instead of showing the details of an individual item, an (link: /terms/overview text: overview) presents a summarized list of multiple items.
+
+For example, in (link: /terms/newton-works text: Newton Works), pressing the Overview key displays all Newton Works documents, including (link: /terms/paper text: paper), (link: /terms/drawing text: drawing) and (link: /terms/calculations text: calculations) documents.
+
+The Overview key performs the same function as the (link: /terms/overview-button text: overview button) on the screen.
+
+
+----
+
+Related:
+
+- /terms/active-slip
+- /terms/auto-repeat
+- /terms/character-key
+- /terms/command-key
+- /terms/delete-key
+- /terms/enter-key
+- /terms/function-key
+- /terms/key-combination
+- /terms/keyboard
+- /terms/keyboard-equivalent
+- /terms/keystrings
+- /terms/keystroke-events
+- /terms/modifier-key
+- /terms/overview
+- /terms/overview-button
+- /terms/power-key
+- /terms/receive-key
+- /terms/return-key
+- /terms/send-key
+- /terms/tab-key
+- /terms/type-ahead
+- /terms/typewriter
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide

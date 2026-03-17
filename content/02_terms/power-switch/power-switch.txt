@@ -14,7 +14,7 @@ On (link: /terms/messagepad-130 text: MessagePad 130), (link: /terms/messagepad-
 
 Rather than a sliding switch, the (link: /terms/emate-300 text: eMate 300) has a (link: /terms/power-key text: Power key) on the keyboard.
 
-Also referred to as a (link: /terms/backlighting-switch text: Backlighting Switch) or (link: /terms/Power Button text: Power Button).
+Also referred to as a (link: /terms/backlighting-switch text: Backlighting Switch) or (link: /terms/power-button text: Power Button).
 
 ----
 
