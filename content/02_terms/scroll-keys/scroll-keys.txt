@@ -8,7 +8,9 @@ Date: 18 March 2026
 
 Text:
 
-A pair of (link: /terms/function-key text: function keys) located on the (link: /terms/emate-300 text: eMate 300) keyboard that allow the user to move (or (link: /terms/scroll text: scroll)) the contents of the (link: /terms/screen text: screen) up and down. Pressing a scroll key performs the same action as tapping a (link: /terms/scroll-arrow text: scroll arrow) button.
+A pair of (link: /terms/function-key text: function keys) located on the (link: /terms/emate-300 text: eMate 300) keyboard used to move (or (link: /terms/scroll text: scroll)) an area of content displayed on the (link: /terms/screen text: screen).
+
+Pressing a scroll key performs the same action as tapping a (link: /terms/scroll-arrows text: scroll arrow) button.
 
 ----
 

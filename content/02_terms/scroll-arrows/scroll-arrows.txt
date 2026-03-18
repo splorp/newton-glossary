@@ -8,9 +8,9 @@ Date: 30 October 2001
 
 Text:
 
-A pair of icon-based (link: /terms/button text: buttons) used to (link: /terms/scroll text: scroll) an area of content displayed on the (link: /terms/screen text: screen).
+A pair of icon-based (link: /terms/button text: buttons) used to move (or (link: /terms/scroll text: scroll)) an area of content displayed on the (link: /terms/screen text: screen).
 
-On an (link: /terms/emate-300 text: eMate 300), pressing a (link: /terms/scroll-key text: scroll key) performs the same action as tapping a scroll arrow button.
+On an (link: /terms/emate-300 text: eMate 300), pressing a (link: /terms/scroll-keys text: scroll key) performs the same action as tapping a scroll arrow button.
 
 ----
 
