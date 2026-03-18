@@ -19,6 +19,7 @@ Related:
 - /terms/page-flipping
 - /terms/roll-view
 - /terms/scroll-arrows
+- /terms/scroll-keys
 - /terms/scroller
 - /terms/scrolling
 - /terms/scrolling-list

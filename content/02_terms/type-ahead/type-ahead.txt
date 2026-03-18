@@ -32,6 +32,7 @@ Related:
 - /terms/power-key
 - /terms/receive-key
 - /terms/return-key
+- /terms/scroll-keys
 - /terms/send-key
 - /terms/typewriter
 

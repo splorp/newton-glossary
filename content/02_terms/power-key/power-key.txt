@@ -35,6 +35,7 @@ Related:
 - /terms/power-switch
 - /terms/receive-key
 - /terms/return-key
+- /terms/scroll-keys
 - /terms/send-key
 - /terms/tab-key
 - /terms/type-ahead

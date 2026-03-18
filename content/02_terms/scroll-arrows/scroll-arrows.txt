@@ -10,6 +10,8 @@ Text:
 
 A pair of icon-based (link: /terms/button text: buttons) used to (link: /terms/scroll text: scroll) an area of content displayed on the (link: /terms/screen text: screen).
 
+On an (link: /terms/emate-300 text: eMate 300), pressing a (link: /terms/scroll-key text: scroll key) performs the same action as tapping a scroll arrow button.
+
 ----
 
 Related:
@@ -20,6 +22,7 @@ Related:
 - /terms/local-scroll-arrows
 - /terms/roll-view
 - /terms/scroll
+- /terms/scroll-key
 - /terms/scroller
 - /terms/scrolling-list
 - /terms/universal-scroll-arrows

@@ -1,0 +1,55 @@
+Title: Scroll Keys
+
+----
+
+Date: 18 March 2026
+
+----
+
+Text:
+
+A pair of (link: /terms/function-key text: function keys) located on the (link: /terms/emate-300 text: eMate 300) keyboard that allow the user to move (or (link: /terms/scroll text: scroll)) the contents of the (link: /terms/screen text: screen) up and down. Pressing a scroll key performs the same action as tapping a (link: /terms/scroll-arrow text: scroll arrow) button.
+
+----
+
+Related:
+
+
+
+
+- /terms/auto-repeat
+- /terms/character-key
+- /terms/clank
+- /terms/close-key
+- /terms/command-key
+- /terms/delete-key
+- /terms/enter-key
+- /terms/extras-drawer
+- /terms/function-key
+- /terms/key-combination
+- /terms/keyboard
+- /terms/keyboard-equivalent
+- /terms/keystrings
+- /terms/keystroke-events
+- /terms/local-scroll-arrows
+- /terms/modifier-key
+- /terms/overview-key
+- /terms/power-key
+- /terms/receive-key
+- /terms/return-key
+- /terms/roll-view
+- /terms/scroll
+- /terms/scroll-arrows
+- /terms/scroller
+- /terms/scrolling-list
+- /terms/send-key
+- /terms/tab-key
+- /terms/type-ahead
+- /terms/typewriter
+- /terms/universal-scroll-arrows
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide

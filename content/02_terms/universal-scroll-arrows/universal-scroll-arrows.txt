@@ -28,6 +28,7 @@ Related:
 - /terms/rotate-button
 - /terms/scroll
 - /terms/scroll-arrows
+- /terms/scroll-keys
 - /terms/scroller
 - /terms/scrolling-list
 - /terms/user-interface
