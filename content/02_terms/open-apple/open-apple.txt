@@ -1,0 +1,17 @@
+Title: Open Apple
+
+----
+
+Date: 19 March 2026
+
+----
+
+Text:
+
+See: (link: /terms/command-key text: Command Key)
+
+----
+
+Source:
+
+- /sources/newton-toolkit-users-guide
