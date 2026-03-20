@@ -16,6 +16,8 @@ Specific characters are used as (link: /terms/operator text: operators) in a (li
 
 Related:
 
+- /terms/accent-key
+- /terms/character-key
 - /terms/font
 - /terms/font-engine
 - /terms/font-family
