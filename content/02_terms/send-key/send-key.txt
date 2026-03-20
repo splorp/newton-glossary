@@ -16,6 +16,7 @@ Pressing the Send key will open a (link: /terms/slip text: slip) with the messag
 
 Related:
 
+- /terms/accent-key
 - /terms/auto-repeat
 - /terms/beaming
 - /terms/character-key

@@ -14,6 +14,7 @@ Groups of individual key presses collected by (link: /terms/newton-os text: Newt
 
 Related:
 
+- /terms/accent-key
 - /terms/auto-repeat
 - /terms/character-key
 - /terms/close-key

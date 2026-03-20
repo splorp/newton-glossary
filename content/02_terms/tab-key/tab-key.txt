@@ -16,6 +16,7 @@ In a (link: /terms/field text: field) that allows entering multiple lines of tex
 
 Related:
 
+- /terms/accent-key
 - /terms/auto-repeat
 - /terms/character-key
 - /terms/command-key

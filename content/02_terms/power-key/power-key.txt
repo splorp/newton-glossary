@@ -16,6 +16,7 @@ Also referred to as a (link: /terms/power-button text: Power Button) or (link: /
 
 Related:
 
+- /terms/accent-key
 - /terms/auto-repeat
 - /terms/character-key
 - /terms/close-key

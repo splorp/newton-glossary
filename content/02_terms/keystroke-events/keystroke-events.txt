@@ -16,6 +16,7 @@ Keystroke events include the `key-down` event when a key is pressed, the `key-up
 
 Related:
 
+- /terms/accent-key
 - /terms/auto-repeat
 - /terms/character-key
 - /terms/close-key

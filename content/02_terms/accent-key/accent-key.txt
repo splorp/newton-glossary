@@ -1,14 +1,14 @@
-Title: Type Ahead
+Title: Accent Key
 
 ----
 
-Date: 24 May 2001
+Date: 20 March 2026
 
 ----
 
 Text:
 
-The process by which (link: /terms/newton-os text: Newton OS) stores keystrokes which have been typed faster than the system can handle right away. The stored keystrokes are processed by the system after a short delay.
+A (link: /terms/character-key text: character key) located on a keyboard for typing the ‘grave’ and ‘tilde’ diacritic characters. This key can be used in combination with other keys to type characters with accents.
 
 ----
 
@@ -17,8 +17,8 @@ Related:
 - /terms/accent-key
 - /terms/auto-repeat
 - /terms/character-key
-- /terms/close-key
 - /terms/command-key
+- /terms/close-key
 - /terms/delete-key
 - /terms/enter-key
 - /terms/extras-key
@@ -35,10 +35,12 @@ Related:
 - /terms/return-key
 - /terms/scroll-keys
 - /terms/send-key
+- /terms/tab-key
+- /terms/type-ahead
 - /terms/typewriter
 
 ----
 
 Source:
 
-- /sources/newton-user-interface-guidelines
+- /sources/messagepad-2000-getting-started

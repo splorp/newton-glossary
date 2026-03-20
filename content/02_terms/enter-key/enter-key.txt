@@ -14,6 +14,7 @@ A (link: /terms/character-key text: character key) located on a keyboard that pe
 
 Related:
 
+- /terms/accent-key
 - /terms/auto-repeat
 - /terms/character-key
 - /terms/close-key
