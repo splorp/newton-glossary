@@ -18,7 +18,6 @@ The Overview key performs the same function as the (link: /terms/overview-button
 
 Related:
 
-- /terms/active-slip
 - /terms/accent-key
 - /terms/auto-repeat
 - /terms/character-key

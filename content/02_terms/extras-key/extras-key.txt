@@ -14,7 +14,6 @@ A (link: /terms/function-key text: function key) located on the (link: /terms/em
 
 Related:
 
-- /terms/active-slip
 - /terms/accent-key
 - /terms/auto-repeat
 - /terms/character-key
