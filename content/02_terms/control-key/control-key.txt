@@ -1,14 +1,16 @@
-Title: Modifier Key
+Title: Control Key
 
 ----
 
-Date: 24 January 2018
+Date: 21 March 2026
 
 ----
 
 Text:
 
-A key that affects the function of the alphanumeric keys on a keyboard. The use of a modifier key in conjunction with another key is known as a (link: /terms/key-combination text: key combination). Modifier keys include Caps Lock, (link: /terms/command-key text: Command), (link: /terms/control-key text: Control), Shift, and Option.
+A (link: /terms/modifier-key text: modifier key) used to produce standard, non-printing ASCII (link: /terms/character text: characters), primarily in a terminal emulation (link: /terms/application text: application). In (link: /terms/newton-os text: Newton OS), characters modified using the Control key are not inserted into text (link: /terms/input-area text: input areas), such as the (link: /terms/notepad text: Notepad) application.
+
+Also referred to as the (link: /terms/ctrl Key text: Ctrl Key).
 
 ----
 
@@ -24,8 +26,9 @@ Related:
 - /terms/auto-repeat
 - /terms/character-key
 - /terms/close-key
+- /terms/cloverleaf
 - /terms/command-key
-- /terms/control-key
+- /terms/ctrl-key
 - /terms/delete-key
 - /terms/enter-key
 - /terms/extras-key
@@ -35,8 +38,11 @@ Related:
 - /terms/keyboard-equivalent
 - /terms/keystrings
 - /terms/keystroke-events
+- /terms/modifier-key
+- /terms/open-apple
 - /terms/overview-key
 - /terms/power-key
+- /terms/propeller
 - /terms/receive-key
 - /terms/return-key
 - /terms/scroll-keys
@@ -49,4 +55,4 @@ Related:
 
 Source:
 
-- /sources/newton-programmers-guide
+- /sources/keyboard-enhancements

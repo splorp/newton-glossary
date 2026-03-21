@@ -19,8 +19,9 @@ Related:
 - /terms/accent-key
 - /terms/auto-repeat
 - /terms/character-key
-- /terms/command-key
 - /terms/close-key
+- /terms/command-key
+- /terms/control-key
 - /terms/delete-key
 - /terms/enter-key
 - /terms/extras-key

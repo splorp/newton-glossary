@@ -21,6 +21,7 @@ Related:
 - /terms/close
 - /terms/close-box
 - /terms/command-key
+- /terms/control-key
 - /terms/delete-key
 - /terms/enter-key
 - /terms/extras-key

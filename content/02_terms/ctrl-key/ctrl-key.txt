@@ -1,0 +1,17 @@
+Title: Ctrl Key
+
+----
+
+Date: 21 March 2026
+
+----
+
+Text:
+
+See: (link: /terms/control-key text: Control Key)
+
+----
+
+Source:
+
+- /sources/keyboard-enhancements

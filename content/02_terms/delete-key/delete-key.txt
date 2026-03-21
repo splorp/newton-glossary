@@ -23,6 +23,7 @@ Related:
 - /terms/character-key
 - /terms/close-key
 - /terms/command-key
+- /terms/control-key
 - /terms/del-key
 - /terms/delete
 - /terms/enter-key

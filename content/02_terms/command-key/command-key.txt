@@ -12,7 +12,7 @@ A command key associates a programmatic (link: /terms/message text: message) or 
 
 The Command key is also the name of a modifier key found on a keyboard.
 
-On an (link: /terms/emate-300 text: eMate 300) keyboard, the Command keys on either side of the space bar are identified by an (link: /terms/icon text: icon) that looks like a (link: /terms/propeller text: propeller) or (link: /terms/cloverleaf text: cloverleaf) &#x2318; (official known by its (link: /terms/unicode text: Unicode) name as a _“place of interest sign”_) and an (link: /terms/open-apple text: Open Apple) icon that looks like an outlined version of the [Apple](https://www.apple.com/) logo.
+On an (link: /terms/emate-300 text: eMate 300) keyboard, the Command keys on either side of the space bar are identified by an (link: /terms/icon text: icon) that looks like a (link: /terms/propeller text: propeller) or (link: /terms/cloverleaf text: cloverleaf) &#x2318; (officially known by its (link: /terms/unicode text: Unicode) name as a _“place of interest sign”_) and an (link: /terms/open-apple text: Open Apple) icon that looks like an outlined version of the [Apple](https://www.apple.com/) logo.
 
 The Command key on a (link: /terms/newton-keyboard text: Newton Keyboard) has only an Open Apple icon.
 
@@ -31,6 +31,7 @@ Related:
 - /terms/character-key
 - /terms/close-key
 - /terms/cloverleaf
+- /terms/control-key
 - /terms/delete-key
 - /terms/enter-key
 - /terms/extras-key
