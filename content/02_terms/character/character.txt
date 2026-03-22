@@ -17,6 +17,7 @@ Specific characters are used as (link: /terms/operator text: operators) in a (li
 Related:
 
 - /terms/accent-key
+- /terms/caps-lock-key
 - /terms/character-key
 - /terms/font
 - /terms/font-engine
@@ -26,6 +27,7 @@ Related:
 - /terms/font-style
 - /terms/operator
 - /terms/point
+- /terms/shift-key
 - /terms/style-run
 - /terms/styles
 - /terms/text-run

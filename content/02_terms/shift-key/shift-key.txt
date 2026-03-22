@@ -1,4 +1,4 @@
-Title: Control Key
+Title: Shift Key
 
 ----
 
@@ -8,9 +8,13 @@ Date: 22 March 2026
 
 Text:
 
-A (link: /terms/modifier-key text: modifier key) used to produce standard, non-printing ASCII (link: /terms/character text: characters), primarily in a terminal emulation (link: /terms/application text: application). In (link: /terms/newton-os text: Newton OS), characters modified using the Control key are not inserted into text (link: /terms/input-area text: input areas), such as the (link: /terms/notepad text: Notepad) application.
+A (link: /terms/modifier-key text: modifier key) used to change the (link: /terms/character text: character) produced when typing a specific key on a (link: /terms/keyboard text: keyboard).
 
-Also referred to as the (link: /terms/ctrl Key text: Ctrl Key).
+When used with an alphabetic key, the Shift key will produce capital letters. When used with numeric or non-alphabetic keys, the Shift key will produce various punctuation marks and symbols.
+
+Unlike the shift key on typewriter or computer, the (link: /terms/newton-os text: Newton OS) Shift key is not pressed concurrently with pressing a character key. The Shift key toggles on when (link: /terms/tapped text: tapped) and releases automatically when a character key is tapped.
+
+This is similar to the functionality of the (link: /terms/caps-lock-key text: Caps Lock key), however the Caps Lock key has no effect on non-alphabetic keys.
 
 ----
 
@@ -29,7 +33,7 @@ Related:
 - /terms/close-key
 - /terms/cloverleaf
 - /terms/command-key
-- /terms/ctrl-key
+- /terms/control-key
 - /terms/delete-key
 - /terms/enter-key
 - /terms/extras-key

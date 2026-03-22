@@ -17,6 +17,7 @@ The (link: /terms/tab-key text: Tab key), (link: /terms/return-key text: Return 
 Related:
 
 - /terms/auto-repeat
+- /terms/caps-lock-key
 - /terms/character
 - /terms/close-key
 - /terms/command-key
@@ -37,6 +38,7 @@ Related:
 - /terms/return-key
 - /terms/scroll-keys
 - /terms/send-key
+- /terms/shift-key
 - /terms/tab-key
 - /terms/type-ahead
 - /terms/typewriter

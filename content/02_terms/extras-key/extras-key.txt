@@ -16,6 +16,7 @@ Related:
 
 - /terms/accent-key
 - /terms/auto-repeat
+- /terms/caps-lock-key
 - /terms/character-key
 - /terms/command-key
 - /terms/control-key
@@ -34,6 +35,7 @@ Related:
 - /terms/receive-key
 - /terms/return-key
 - /terms/send-key
+- /terms/shift-key
 - /terms/tab-key
 - /terms/type-ahead
 - /terms/typewriter

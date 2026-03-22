@@ -15,6 +15,7 @@ A (link: /terms/character-key text: character key) located on a keyboard for typ
 Related:
 
 - /terms/auto-repeat
+- /terms/caps-lock-key
 - /terms/character
 - /terms/character-key
 - /terms/close-key
@@ -36,6 +37,7 @@ Related:
 - /terms/return-key
 - /terms/scroll-keys
 - /terms/send-key
+- /terms/shift-key
 - /terms/tab-key
 - /terms/type-ahead
 - /terms/typewriter

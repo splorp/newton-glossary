@@ -21,6 +21,7 @@ Related:
 
 - /terms/accent-key
 - /terms/auto-repeat
+- /terms/caps-lock-key
 - /terms/character-key
 - /terms/clank
 - /terms/close-key
@@ -47,6 +48,7 @@ Related:
 - /terms/scroller
 - /terms/scrolling-list
 - /terms/send-key
+- /terms/shift-key
 - /terms/tab-key
 - /terms/type-ahead
 - /terms/typewriter

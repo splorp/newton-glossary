@@ -18,6 +18,7 @@ Related:
 
 - /terms/accent-key
 - /terms/auto-repeat
+- /terms/caps-lock-key
 - /terms/character-key
 - /terms/close-key
 - /terms/command-key

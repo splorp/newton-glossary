@@ -8,7 +8,7 @@ Date: 24 January 2018
 
 Text:
 
-A key that affects the function of the alphanumeric keys on a keyboard. The use of a modifier key in conjunction with another key is known as a (link: /terms/key-combination text: key combination). Modifier keys include Caps Lock, (link: /terms/command-key text: Command), (link: /terms/control-key text: Control), Shift, and Option.
+A key that affects the function of the alphanumeric keys on a keyboard. The use of a modifier key in conjunction with another key is known as a (link: /terms/key-combination text: key combination). Modifier keys include (link: /terms/caps-lock-key text: Caps Lock), (link: /terms/command-key text: Command), (link: /terms/control-key text: Control), (link: /terms/shift-key text: Shift), and Option.
 
 ----
 
@@ -22,6 +22,7 @@ Related:
 
 - /terms/accent-key
 - /terms/auto-repeat
+- /terms/caps-lock-key
 - /terms/character-key
 - /terms/close-key
 - /terms/command-key
@@ -41,6 +42,7 @@ Related:
 - /terms/return-key
 - /terms/scroll-keys
 - /terms/send-key
+- /terms/shift-key
 - /terms/tab-key
 - /terms/type-ahead
 - /terms/typewriter
