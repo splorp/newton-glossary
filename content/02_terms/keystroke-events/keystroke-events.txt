@@ -35,6 +35,7 @@ Related:
 - /terms/keystrings
 - /terms/modifier-key
 - /terms/newtonscript
+- /terms/option-key
 - /terms/overview-key
 - /terms/power-key
 - /terms/receive-key

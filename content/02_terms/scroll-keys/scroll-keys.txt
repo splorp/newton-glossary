@@ -38,6 +38,7 @@ Related:
 - /terms/keystroke-events
 - /terms/local-scroll-arrows
 - /terms/modifier-key
+- /terms/option-key
 - /terms/overview-key
 - /terms/power-key
 - /terms/receive-key

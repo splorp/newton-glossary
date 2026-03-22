@@ -1,0 +1,11 @@
+Title: Option
+
+----
+
+Date: 22 March 2026
+
+----
+
+Text:
+
+See: (link: /terms/options text: Options) and (link: /terms/option-key text: Option Key)

@@ -46,6 +46,7 @@ Related:
 - /terms/keystroke-events
 - /terms/modifier-key
 - /terms/open-apple
+- /terms/option-key
 - /terms/overview-key
 - /terms/power-key
 - /terms/propeller

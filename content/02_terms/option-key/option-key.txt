@@ -1,4 +1,4 @@
-Title: Shift Key
+Title: Option Key
 
 ----
 
@@ -10,11 +10,15 @@ Text:
 
 A (link: /terms/modifier-key text: modifier key) used to change the (link: /terms/character text: character) produced when typing a specific key on a (link: /terms/keyboard text: keyboard).
 
-When used with an alphabetic key, the Shift key will produce capital letters. When used with numeric or non-alphabetic keys, the Shift key will produce various punctuation marks and other symbols.
+When used with another key, the Option key will produce international characters and other symbols.
 
-Unlike the Shift key on a computer keyboard, the (link: /terms/newton-os text: Newton OS) Shift key cannot be (link: /terms/tapped text: tapped) concurrently when tapping a character key. The Shift key toggles on when tapped and releases automatically when a character key is tapped.
+Unlike the Option key on a physical keyboard, the (link: /terms/newton-os text: Newton OS) Option key cannot be (link: /terms/tapped text: tapped) concurrently when tapping a character key. The Option key toggles on when tapped and releases automatically when a character key is tapped.
 
-This is similar to the functionality of the (link: /terms/caps-lock-key text: Caps Lock key), however caps lock has no effect on non-alphabetic keys.
+The Option key can be used together with the (link: /terms/shift-key text: Shift key) and a character key to produce even more symbols and special characters.
+
+In (link: /terms/newton-os text: Newton OS) 2.1, the Option key on a physical keyboard can be used in conjunction with the (link: /terms/pen text: pen) to modify the effect of a (link: /terms/tap text: tap) or (link: /terms/drag text: drag).
+
+For example, if a user (link: /terms/select text: selects) some text and holds down the Option key while (link: /terms/dragging text: dragging) the selection, the selected text is copied and can be moved to another area of the (link: /terms/screen text: screen).
 
 ----
 
@@ -44,13 +48,14 @@ Related:
 - /terms/keystrings
 - /terms/keystroke-events
 - /terms/modifier-key
-- /terms/option-key
+- /terms/option
 - /terms/overview-key
 - /terms/power-key
 - /terms/receive-key
 - /terms/return-key
 - /terms/scroll-keys
 - /terms/send-key
+- /terms/shift-key
 - /terms/tab-key
 - /terms/type-ahead
 - /terms/typewriter

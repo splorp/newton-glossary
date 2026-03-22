@@ -31,6 +31,7 @@ Related:
 - /terms/keystrings
 - /terms/keystroke-events
 - /terms/modifier-key
+- /terms/option-key
 - /terms/overview-key
 - /terms/power-key
 - /terms/receive-key

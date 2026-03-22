@@ -34,6 +34,7 @@ Related:
 - /terms/keystrings
 - /terms/keystroke-events
 - /terms/modifier-key
+- /terms/option-key
 - /terms/overview
 - /terms/overview-button
 - /terms/power-key
