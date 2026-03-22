@@ -10,9 +10,11 @@ Text:
 
 A (link: /terms/modifier-key text: modifier key) used to produce uppercase (or capital) alphabetic (link: /terms/character text: characters) when typing.
 
-This is similar to the functionality of the (link: /terms/shift-key text: Shift key), however the Caps Lock key has no effect on non-alphabetic keys. For example, when caps lock is on, a user must (link: /terms/tap text: tap) the Shift key to produce punctuation and symbols with numeric and other non-alphabetic keys.
+This is similar to the functionality of the (link: /terms/shift-key text: Shift key), however caps lock has no effect on non-alphabetic keys. For example, when caps lock is on, a user must (link: /terms/tap text: tap) the Shift key to produce punctuation and symbols with numeric and other non-alphabetic keys.
 
-The Caps Lock key toggles on when (link: /terms/tapped text: tapped) and remains on until tapped again. Closing the onscreen (link: /terms/keyboard text: keyboard) does not turn off caps lock.
+The Caps Lock key toggles on when (link: /terms/tapped text: tapped) and remains on until tapped again.
+
+Closing the onscreen (link: /terms/keyboard text: keyboard) does not turn off caps lock.
 
 Also referred to as the (link: /terms/caps-key text: Caps Key).
 
