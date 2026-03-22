@@ -28,7 +28,6 @@ Related:
 - /terms/caps-lock-key
 - /terms/character-key
 - /terms/close-key
-- /terms/cloverleaf
 - /terms/command-key
 - /terms/ctrl-key
 - /terms/delete-key
@@ -41,10 +40,8 @@ Related:
 - /terms/keystrings
 - /terms/keystroke-events
 - /terms/modifier-key
-- /terms/open-apple
 - /terms/overview-key
 - /terms/power-key
-- /terms/propeller
 - /terms/receive-key
 - /terms/return-key
 - /terms/scroll-keys
