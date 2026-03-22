@@ -19,6 +19,7 @@ Holding down the Command key on a keyboard connected to a (link: /terms/newton-o
 Resource:
 
 - [The Newted Community: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](https://www.newted.org/download/manuals/NewtonKeyboardUIGuide.pdf)
+- [UNNA: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](http://www.unna.org/unna/apple/documentation/developer/UserInterfaceKeyboardOS2.1.pdf)
 
 ----
 

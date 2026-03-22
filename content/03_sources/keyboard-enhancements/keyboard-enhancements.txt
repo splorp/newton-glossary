@@ -15,3 +15,4 @@ This supplement presents (link: /terms/user-interface text: user interface) guid
 Resource:
 
 - [The Newted Community: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](https://www.newted.org/download/manuals/NewtonKeyboardUIGuide.pdf)
+- [UNNA: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](http://www.unna.org/unna/apple/documentation/developer/UserInterfaceKeyboardOS2.1.pdf)
