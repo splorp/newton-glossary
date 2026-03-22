@@ -14,4 +14,4 @@ The user manual for the (link: /terms/spreadsheet text: spreadsheet) component o
 
 Resource:
 
-- [The Newted Community: QuickFigure Works User’s Manual](https://www.newted.org/download/manuals/QuickFigureWorksUsersManual.pdf)
+- [Newted: QuickFigure Works User’s Manual](https://www.newted.org/download/manuals/QuickFigureWorksUsersManual.pdf)

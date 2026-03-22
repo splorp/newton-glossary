@@ -15,7 +15,7 @@ An implementation of the [BASIC](https://en.wikipedia.org/wiki/BASIC) programmin
 Resource:
 
 - [NS BASIC Corporation: NS BASIC Newton](https://www.nsbasic.com/newton/)
-- [The Newted Community: NS BASIC Handbook](https://www.newted.org/download/manuals/NSBasicHandbook.pdf)
+- [Newted: NS BASIC Handbook](https://www.newted.org/download/manuals/NSBasicHandbook.pdf)
 - [UNNA: NS BASIC](http://www.unna.org/view.php?/development/languages/NSBasic)
 
 ----

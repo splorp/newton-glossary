@@ -14,7 +14,7 @@ A (link: /terms/character text: character) used to specify an arithmetic operati
 
 Resource:
 
-- [The Newted Community: QuickFigure Works User’s Manual](https://www.newted.org/download/manuals/QuickFigureWorksUsersManual.pdf)
+- [Newted: QuickFigure Works User’s Manual](https://www.newted.org/download/manuals/QuickFigureWorksUsersManual.pdf)
 
 ----
 

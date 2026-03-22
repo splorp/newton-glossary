@@ -20,7 +20,7 @@ Resource:
 
 - [CommuniCrossings: NewtATut](https://communicrossings.com/html/newton/newtpkgs.htm#NewtATut )
 - [CommuniCrossings: Building Newton Applications with Newt](https://communicrossings.com/html/newton/newtatut.htm)
-- [The Newted Community: Building Newton Applications with Newt](https://www.newted.org/download/manuals/NEWTATU6.PDF)
+- [Newted: Building Newton Applications with Newt](https://www.newted.org/download/manuals/NEWTATU6.PDF)
 
 ----
 

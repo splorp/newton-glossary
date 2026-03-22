@@ -20,7 +20,7 @@ For some reason, the Calculations stationery is called (link: /terms/graphical-c
 
 Resource:
 
-- [The Newted Community: Newton Works Graphing Calculator User’s Manual](https://www.newted.org/download/manuals/0340062ANWGRAFCALCUM.PDF)
+- [Newted: Newton Works Graphing Calculator User’s Manual](https://www.newted.org/download/manuals/0340062ANWGRAFCALCUM.PDF)
 
 ----
 

@@ -16,7 +16,7 @@ The code name of Newton Keyboard was (link: /terms/bazooka text: Bazooka).
 
 Resource:
 
-- [The Newted Community: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](https://www.newted.org/download/manuals/NewtonKeyboardUIGuide.pdf)
+- [Newted: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](https://www.newted.org/download/manuals/NewtonKeyboardUIGuide.pdf)
 - [UNNA: User Interface Guidelines for Newton OS 2.1 Keyboard Enhancements](http://www.unna.org/unna/apple/documentation/developer/UserInterfaceKeyboardOS2.1.pdf)
 
 ----

@@ -23,7 +23,7 @@ Also referred to as (link: /terms/newtquake text: NewtQuake).
 Resource:
 
 - [NewtonQuake Website](https://web.archive.org/web/19991018204911/http://www.emeraldnet.net/~ravenous/NewtonQuake/)
-- [The Newted Community: NewtonQuake](https://www.newted.org/resources/newtonquake/)
+- [Newted: NewtonQuake](https://www.newted.org/resources/newtonquake/)
 
 ----
 

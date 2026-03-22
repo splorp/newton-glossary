@@ -20,7 +20,7 @@ Resource:
 - [CommuniCrossings: Newt Turtle Info](https://communicrossings.com/html/newton/newtdev/turtle.htm)
 - [CommuniCrossings: NewtTurT](https://communicrossings.com/html/newton/newtpkgs.htm#NewtTurT)
 - [CommuniCrossings: Turtle Graphics Programming with Newt](https://communicrossings.com/html/newton/newtturt.htm)
-- [The Newted Community: Turtle Graphics Programming with Newt](https://www.newted.org/download/manuals/NEWTTUR6.PDF)
+- [Newted: Turtle Graphics Programming with Newt](https://www.newted.org/download/manuals/NEWTTUR6.PDF)
 
 ----
 

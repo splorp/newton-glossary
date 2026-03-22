@@ -14,7 +14,7 @@ A sequence of values, (link: /terms/cell text: cell) addresses, (link: /terms/fu
 
 Resource:
 
-- [The Newted Community: QuickFigure Works User’s Manual](https://www.newted.org/download/manuals/QuickFigureWorksUsersManual.pdf)
+- [Newted: QuickFigure Works User’s Manual](https://www.newted.org/download/manuals/QuickFigureWorksUsersManual.pdf)
 
 ----
 

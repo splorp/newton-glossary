@@ -22,7 +22,7 @@ Also referred to as (link: /terms/tcop text: TCOP).
 
 Resource:
 
-- [The Newted Community: Preliminary Traffic Cop Specification](https://www.newted.org/download/manuals/DIL_TCOP.pdf)
+- [Newted: Preliminary Traffic Cop Specification](https://www.newted.org/download/manuals/DIL_TCOP.pdf)
 
 ----
 

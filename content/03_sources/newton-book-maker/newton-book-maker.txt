@@ -15,4 +15,4 @@ Published by [Apple](https://www.apple.com/) in 1995, this is the manual for the
 Resource:
 
 - [UNNA: Newton Book Maker User’s Guide](http://www.unna.org/unna/apple/development/Bookmaker/BookmakerUsersGuide.pdf)
-- [The Newted Community: Newton Book Maker User’s Guide](https://www.newted.org/download/manuals/NewtonBookMakerUsersGuide.pdf)
+- [Newted: Newton Book Maker User’s Guide](https://www.newted.org/download/manuals/NewtonBookMakerUsersGuide.pdf)

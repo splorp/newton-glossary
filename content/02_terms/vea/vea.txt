@@ -17,7 +17,7 @@ Software developed by (link: /sources/planet-computing text: Planet Computing) t
 Resource:
 
 - [UNNA: Vea](http://www.unna.org/view.php?/applications/Vea)
-- [The Newted Community: Vea](https://www.newted.org/resources/vea/)
+- [Newted: Vea](https://www.newted.org/resources/vea/)
 - [Planet Computing: Vea Product Information](https://web.archive.org/web/19980509000153/http://www.aplanet.com/prod01.htm)
 
 ----

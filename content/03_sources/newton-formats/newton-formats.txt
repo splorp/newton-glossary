@@ -14,5 +14,5 @@ A document published by [Apple](https://www.apple.com/) which describes various 
 
 Resource:
 
-- [The Newted Community: Newton Formats 1.1](https://www.newted.org/download/manuals/NewtonFormats.pdf)
+- [Newted: Newton Formats 1.1](https://www.newted.org/download/manuals/NewtonFormats.pdf)
 - [UNNA: Newton Developer Tools: Newton Formats 1.1](http://www.unna.org/unna/apple/documentation/developer/NewtonFormats1.1.pdf)

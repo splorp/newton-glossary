@@ -25,7 +25,7 @@ The easter egg does not work in Newton OS 2.0 and later.
 Resource:
 
 - [Wikipedia: Espy Sans](https://en.wikipedia.org/wiki/Espy_Sans)
-- [The Newted Community: Newton Book Maker User’s Guide](https://www.newted.org/download/manuals/NewtonBookMakerUsersGuide.pdf)
+- [Newted: Newton Book Maker User’s Guide](https://www.newted.org/download/manuals/NewtonBookMakerUsersGuide.pdf)
 - [MacKiDo: Apple Easter Eggs](https://www.mackido.com/EasterEggs/Newton.html)
 
 ----

@@ -14,4 +14,4 @@ Published by [Apple](https://www.apple.com/) in November 1995, this document pro
 
 Resource:
 
-- [The Newted Community: The Newton PDA Platform 2.0](https://www.newted.org/download/manuals/The_Newton_PDA_Platform_2.0.pdf)
+- [Newted: The Newton PDA Platform 2.0](https://www.newted.org/download/manuals/The_Newton_PDA_Platform_2.0.pdf)

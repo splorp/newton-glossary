@@ -14,7 +14,7 @@ A low level (link: /terms/debugger text: debugger) for (link: /terms/newton-os t
 
 Resource:
 
-- [The Newted Community: Hammer](https://www.newted.org/resources/hammer/)
+- [Newted: Hammer](https://www.newted.org/resources/hammer/)
 
 ----
 

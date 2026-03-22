@@ -14,7 +14,7 @@ Software developed by (link: /sources/jeremy-wyld text: Jeremy Wyld) that can by
 
 Resource:
 
-- [The Newted Community: NewtonUnlock](https://www.newted.org/resources/newtonunlock/)
+- [Newted: NewtonUnlock](https://www.newted.org/resources/newtonunlock/)
 
 ----
 

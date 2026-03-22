@@ -17,7 +17,7 @@ NewtCard was developed by the <a href="https://www.nsbasic.com/">NS BASIC Corpor
 Resource:
 
 - [NS BASIC Corporation: NewtCard Product Information](https://www.nsbasic.com/newton/info/newtcard/)
-- [The Newted Community: NewtCard Handbook](https://www.newted.org/download/manuals/NewtCardHandbook.pdf)
+- [Newted: NewtCard Handbook](https://www.newted.org/download/manuals/NewtCardHandbook.pdf)
 - [GitHub: NewtCard forNewton OS](https://github.com/nsbasic-archive/NewtCard-for-Newton-OS)
 
 ----
