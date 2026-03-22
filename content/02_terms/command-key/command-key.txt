@@ -33,6 +33,7 @@ Related:
 - /terms/character-key
 - /terms/close-key
 - /terms/cloverleaf
+- /terms/command
 - /terms/control-key
 - /terms/delete-key
 - /terms/enter-key

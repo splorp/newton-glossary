@@ -40,6 +40,7 @@ Related:
 - /terms/receive-key
 - /terms/return-key
 - /terms/send-key
+- /terms/scroll-keys
 - /terms/shift-key
 - /terms/tab-key
 - /terms/type-ahead

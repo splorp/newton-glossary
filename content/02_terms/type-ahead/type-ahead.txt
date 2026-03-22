@@ -30,6 +30,7 @@ Related:
 - /terms/keyboard-equivalent
 - /terms/keystrings
 - /terms/keystroke-events
+- /terms/light-key
 - /terms/modifier-key
 - /terms/overview-key
 - /terms/power-key
@@ -37,6 +38,8 @@ Related:
 - /terms/return-key
 - /terms/scroll-keys
 - /terms/send-key
+- /terms/shift-key
+- /terms/tab-key
 - /terms/typewriter
 
 ----

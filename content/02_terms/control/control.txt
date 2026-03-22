@@ -12,12 +12,15 @@ A (link: /terms/user-interface text: user interface) element or (link: /terms/ob
 
 A control can also be a physical (link: /terms/slider text: slider), (link: /terms/knob text: knob), or (link: /terms/thumbwheel text: thumbwheel) on a device, used to adjust settings such as (link: /terms/volume text: volume) or screen (link: /terms/contrast text: contrast).
 
+Control can also refer to the (link: /terms/control-key text: Control key) on a (link: /terms/keyboard text: keyboard).
+
 ----
 
 Related:
 
 - /terms/container-view
 - /terms/contrast-control
+- /terms/control-key
 - /terms/object
 - /terms/slider
 - /terms/thumbwheel

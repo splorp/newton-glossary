@@ -12,11 +12,14 @@ An instruction that causes the Newton or a device connected to it to perform som
 
 Commands or (link: /terms/dot-commands text: dot commands) are also text-based instructions used to tag specific content items when creating a (link: /terms/newton-book text: Newton book) source file.
 
+Command can also refer to the (link: /terms/command-key text: Control key) on a (link: /terms/keyboard text: keyboard).
+
 ----
 
 Related:
 
 - /terms/book-maker-commands
+- /terms/command-key
 - /terms/content-command
 - /terms/document-command
 - /terms/dot-commands
