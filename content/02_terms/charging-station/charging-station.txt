@@ -1,0 +1,43 @@
+Title: Charging Station
+
+----
+
+Date: 23 March 2026
+
+----
+
+Text:
+
+A hardware accessory manufactured by [Apple](https://www.apple.com/) that provided a (link: /terms/cradle text: cradle) to hold a (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), or (link: /terms/messagepad-130 text: MessagePad 130) device, a (link: /terms/pen-holder text: pen holder), and the means to recharge the (link: /terms/battery-pack text: battery pack).
+
+Using the charging station, two battery packs could be recharged at the same time - one pack in the MessagePad set on the cradle and one pack in the charging station itself.
+
+The code name of the charging station was (link: /terms/crib text: Crib).
+
+----
+
+Resource:
+
+- [Newted: MessagePad Accessories](https://www.newted.org/download/manuals/MessagePad_Accessories.pdf)
+
+----
+
+Related:
+
+- /terms/cradle
+- /terms/charging
+- /terms/charging-cart
+- /terms/charging-status-light
+- /terms/crib
+- /terms/docking-station
+- /terms/messagepad-110
+- /terms/messagepad-120
+- /terms/messagepad-130
+- /terms/pen-holder
+- /terms/power-port
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995

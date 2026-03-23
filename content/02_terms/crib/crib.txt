@@ -8,13 +8,14 @@ Date: 25 September 2001
 
 Text:
 
-The code name of the charging (link: /terms/cradle text: cradle) designed to work with the (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), and (link: /terms/messagepad-130 text: MessagePad 130) devices. Also referred to as the (link: /terms/lindy-crib text: Lindy Crib), after the (link: /terms/lindy text: Lindy) code name of the MessagePad 110.
+The code name of the (link: /terms/charging-station text: charging station) designed to work with the (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), and (link: /terms/messagepad-130 text: MessagePad 130) devices. Also referred to as the (link: /terms/lindy-crib text: Lindy Crib), after the (link: /terms/lindy text: Lindy) code name of the MessagePad 110.
 
 ----
 
 Related:
 
 - /terms/charging
+- /terms/charging-station
 - /terms/cradle
 - /terms/lindy
 - /terms/lindy-crib

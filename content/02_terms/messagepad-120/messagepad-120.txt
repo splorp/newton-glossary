@@ -25,6 +25,7 @@ Resource:
 Related:
 
 - /terms/gelato
+- /terms/charging-station
 - /terms/crib
 - /terms/messagepad
 - /terms/messagepad-110

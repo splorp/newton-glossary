@@ -26,6 +26,7 @@ Related:
 
 - /terms/backlight
 - /terms/backlit
+- /terms/charging-station
 - /terms/crib
 - /terms/dante
 - /terms/electroluminescent-panel

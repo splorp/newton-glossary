@@ -8,13 +8,15 @@ Date: 12 June 2001
 
 Text:
 
-The code name of the (link: /terms/messagepad-110 text: MessagePad 110) device. Sometimes mistakenly referred to as (link: /terms/lizzy text: Lizzy). An accompanying charging (link: /terms/cradle text: cradle) for the Lindy device was known as the “(link: /terms/lindy-crib text: Lindy Crib)”.
+The code name of the (link: /terms/messagepad-110 text: MessagePad 110) device. Sometimes mistakenly referred to as (link: /terms/lizzy text: Lizzy). An accompanying (link: /terms/charging-station text: charging station) for the Lindy device was known as the “(link: /terms/lindy-crib text: Lindy Crib)”.
 
 ----
 
 Related:
 
+- /terms/charging-station
 - /terms/cradle
+- /terms/crib
 - /terms/jellyfish
 - /terms/lizzy
 - /terms/messagepad

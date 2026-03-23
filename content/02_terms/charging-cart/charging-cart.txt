@@ -22,6 +22,7 @@ Related:
 
 - /terms/cradle
 - /terms/charging
+- /terms/charging-station
 - /terms/charging-status-light
 - /terms/emate-300
 - /terms/power-port
