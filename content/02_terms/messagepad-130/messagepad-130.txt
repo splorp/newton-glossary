@@ -26,7 +26,6 @@ Related:
 
 - /terms/backlight
 - /terms/backlit
-- /terms/cradle
 - /terms/crib
 - /terms/dante
 - /terms/electroluminescent-panel

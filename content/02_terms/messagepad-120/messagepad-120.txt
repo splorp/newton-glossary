@@ -25,7 +25,6 @@ Resource:
 Related:
 
 - /terms/gelato
-- /terms/cradle
 - /terms/crib
 - /terms/messagepad
 - /terms/messagepad-110

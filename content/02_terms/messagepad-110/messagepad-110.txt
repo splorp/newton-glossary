@@ -27,8 +27,6 @@ Resource:
 
 Related:
 
-- /terms/charging
-- /terms/cradle
 - /terms/crib
 - /terms/jellyfish
 - /terms/lindy

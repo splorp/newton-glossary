@@ -18,7 +18,6 @@ Related:
 - /terms/charging-cart
 - /terms/crib
 - /terms/docking-station
-- /terms/lindy
 - /terms/the-wedge
 - /terms/watson
 
