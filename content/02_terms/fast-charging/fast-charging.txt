@@ -23,6 +23,8 @@ Related:
 - /terms/charge-state
 - /terms/charged
 - /terms/charging
+- /terms/charging-cart
+- /terms/charging-station
 - /terms/charging-status-light
 - /terms/deep-toast
 - /terms/discharged

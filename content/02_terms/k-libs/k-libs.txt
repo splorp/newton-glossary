@@ -23,6 +23,7 @@ Related:
 
 - /terms/cdcl
 - /terms/dcl
+- /terms/desktop-integration-libraries
 - /terms/gdcl
 - /terms/k
 - /terms/rdcl

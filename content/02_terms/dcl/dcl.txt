@@ -26,9 +26,10 @@ Resource:
 
 Related:
 
-- /terms/delivery
 - /terms/cdcl
 - /terms/dante
+- /terms/delivery
+- /terms/desktop-integration-libraries
 - /terms/dock
 - /terms/docking
 - /terms/escale

@@ -33,9 +33,11 @@ Resource:
 Related:
 
 - /terms/cdil
+- /terms/dcl
 - /terms/dil
 - /terms/fdil
 - /terms/hlfdil
+- /terms/k-libs
 - /terms/newton-connection-utilities
 - /terms/newton-data-browser
 - /terms/newton-package-installer
