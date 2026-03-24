@@ -30,6 +30,7 @@ Related:
 
 - /terms/carrot
 - /terms/courier
+- /terms/http
 - /terms/nethopper
 - /terms/newton-internet-enabler
 - /terms/newtonwww

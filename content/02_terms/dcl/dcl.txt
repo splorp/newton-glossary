@@ -36,6 +36,7 @@ Related:
 - /terms/gdcl
 - /terms/k-libs
 - /terms/nes-packager
+- /terms/newton-internet-library
 - /terms/nsof
 - /terms/nwt
 - /terms/pbbookmaker

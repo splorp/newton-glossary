@@ -1,0 +1,17 @@
+Title: Newton Interface Library
+
+----
+
+Date: 24 March 2026
+
+----
+
+Text:
+
+See: (link: /terms/Newton-internet-library text: Newton Internet Library)
+
+----
+
+Source:
+
+- /sources/steve-weyer

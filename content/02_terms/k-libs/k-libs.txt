@@ -26,6 +26,7 @@ Related:
 - /terms/desktop-integration-libraries
 - /terms/gdcl
 - /terms/k
+- /terms/newton-internet-library
 - /terms/rdcl
 - /terms/unicode
 - /terms/zdcl

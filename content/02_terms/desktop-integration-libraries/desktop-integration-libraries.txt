@@ -40,6 +40,7 @@ Related:
 - /terms/k-libs
 - /terms/newton-connection-utilities
 - /terms/newton-data-browser
+- /terms/newton-internet-library
 - /terms/newton-package-installer
 - /terms/newton-press
 - /terms/nwt

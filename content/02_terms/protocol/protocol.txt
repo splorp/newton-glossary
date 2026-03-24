@@ -23,6 +23,7 @@ Related:
 - /terms/dhcp
 - /terms/dns
 - /terms/ethertalk
+- /terms/http
 - /terms/imap
 - /terms/ip
 - /terms/ircomm

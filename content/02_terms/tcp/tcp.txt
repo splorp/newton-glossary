@@ -18,6 +18,7 @@ Related:
 
 - /terms/dhcp
 - /terms/dns
+- /terms/http
 - /terms/imap
 - /terms/internet-setup
 - /terms/ip

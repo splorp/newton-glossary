@@ -1,0 +1,49 @@
+Title: Newton Internet Library
+
+----
+
+Date: 24 March 2026
+
+----
+
+Text:
+
+A set of programming (link: /terms/prototype text: prototypes) developed by (link: /sources/paul-guyot text: Paul Guyot) that facilitate interfacing with various internet (link: /terms/protocol text: protocols) by providing an communication (link: /terms/endpoint text: endpoint) using (link: /terms/newtonscript text: NewtonScript) and C++.
+
+The library provides tools to perform client-side (link: /terms/http text: HTTP) requests when communicating with a server, as well as various text encoding (link: /terms/function text: functions) to handle conversions to and from (link: /terms/newton-os text: Newton OS) flavoured (link: /terms/unicode text: Unicode).
+
+According to Paul, referring the library as NIL “… was obviously a pun on the (link: /terms/nil text: Nil) value …” found in NewtonScript.
+
+Steve Weyer’s (link: /terms/newtvnc text: NewtVNC) page erroneously calls it the (link: /terms/newton-interface-library text: Newton Interface Library).
+
+Also referred to as (link: /terms/nil-library text: NIL).
+
+----
+
+Resource:
+
+- [CommuniCrossings: newtVNC Product Information](https://communicrossings.com/html/newton/vnc.htm)
+
+----
+
+Related:
+
+- /terms/dcl
+- /terms/desktop-integration-libraries
+- /terms/endpoint
+- /terms/finite-state-machine
+- /terms/function
+- /terms/http
+- /terms/k-libs
+- /terms/newton-interface-library
+- /terms/newton-text-encoding
+- /terms/newtonscript
+- /terms/nil
+- /terms/protocol
+- /terms/unicode
+
+----
+
+Source:
+
+- /sources/paul-guyot

@@ -32,6 +32,7 @@ Related:
 - /terms/dhcp
 - /terms/dns
 - /terms/ethernet
+- /terms/http
 - /terms/imap
 - /terms/ip
 - /terms/isp

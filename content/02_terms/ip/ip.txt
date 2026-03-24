@@ -19,6 +19,7 @@ Related:
 - /terms/bonjour
 - /terms/dhcp
 - /terms/dns
+- /terms/http
 - /terms/imap
 - /terms/internet-setup
 - /terms/newton-internet-enabler

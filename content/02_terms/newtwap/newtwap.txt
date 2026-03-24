@@ -24,6 +24,7 @@ Resource:
 Related:
 
 - /terms/courier
+- /terms/nethopper
 - /terms/newts-cape
 - /terms/pocketweb
 - /terms/wap

@@ -17,6 +17,7 @@ A distributed service that translates the hostname or domain name of a network c
 Related:
 
 - /terms/dhcp
+- /terms/http
 - /terms/imap
 - /terms/internet-setup
 - /terms/ip

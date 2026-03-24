@@ -20,7 +20,9 @@ Resource:
 
 Related:
 
+- /terms/http
 - /terms/nethopper
+- /terms/newton-internet-enabler
 - /terms/newts-cape
 - /terms/newtwap
 - /terms/ntox
