@@ -33,6 +33,7 @@ Related:
 - /terms/internet-setup
 - /terms/ip
 - /terms/nethopper
+- /terms/newton-internet-library
 - /terms/newtterm
 - /terms/nie
 - /terms/pocketweb

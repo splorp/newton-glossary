@@ -22,6 +22,7 @@ Also referred to as (link: /terms/nil-library text: NIL).
 
 Resource:
 
+- [Newted: Newton Internet Library](https://newted.org/resources/nil/)
 - [CommuniCrossings: newtVNC Product Information](https://communicrossings.com/html/newton/vnc.htm)
 
 ----
@@ -36,6 +37,7 @@ Related:
 - /terms/http
 - /terms/k-libs
 - /terms/newton-interface-library
+- /terms/newton-internet-enabler
 - /terms/newton-text-encoding
 - /terms/newtonscript
 - /terms/nil

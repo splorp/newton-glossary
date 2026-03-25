@@ -24,6 +24,7 @@ Related:
 
 - /terms/hanabi
 - /terms/k-libs
+- /terms/newton-internet-library
 - /terms/newton-text-encoding
 - /terms/newton-language-kit
 - /terms/russification
