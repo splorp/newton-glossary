@@ -36,6 +36,7 @@ Related:
 - /terms/newtonscript
 - /terms/newtturt
 - /terms/script
+- /terms/visualnewt
 
 ----
 

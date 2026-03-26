@@ -1,0 +1,38 @@
+Title: VisualNewt
+
+----
+
+Date: 26 March 2026
+
+----
+
+Text:
+
+A visual (link: /terms/application text: application) development environment created by (link: /sources/serg-koren text: Serg Koren) that allows the user to create a (link: /terms/user-interface text: user interface) directly on a Newton device by interacting with (link: /terms/object text: objects) onscreen. VisualNewt also generates formatted (link: /terms/newtonscript text: NewtonScript) code based on the interface, which can then be edited and modified.
+
+VisualNewt Software is also the company founded by Koren that produced software for multiple platforms, including (link: /terms/newton-os text: Newton OS), Palm OS, Mac OS, and Windows.
+
+----
+
+Resource:
+
+- [VisualNewt Website](https://web.archive.org/web/20060202020637/http://www.visualnewt.com/)
+- [VisualNewt Product Information](https://web.archive.org/web/20000520015122/http://www.visualnewt.com/VisualNewt.html)
+
+----
+
+Related:
+
+- /terms/macintosh-programmers-workshop
+- /terms/newtapp
+- /terms/newtcard
+- /terms/newtdevenv
+- /terms/newton-c-tools
+- /terms/newton-toolkit
+- /terms/newtonscript
+
+----
+
+Source:
+
+- /sources/serg-koren

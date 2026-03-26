@@ -19,6 +19,7 @@ Related:
 - /terms/newtdevenv
 - /terms/newton-c-tools
 - /terms/newton-toolkit
+- /terms/visualnewt
 
 ----
 

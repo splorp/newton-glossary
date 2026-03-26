@@ -35,6 +35,7 @@ Related:
 - /terms/newton-toolkit
 - /terms/newtsbug
 - /terms/viewframe
+- /terms/visualnewt
 
 ----
 

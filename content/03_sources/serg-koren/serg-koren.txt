@@ -1,0 +1,20 @@
+Title: Serg Koren
+
+----
+
+Date: 26 March 2026
+
+----
+
+Text:
+
+A prolific author, multi-platform software developer, and long-time proprietor of (link: /terms/visualnewt text: VisualNewt Software).
+
+----
+
+Resource:
+
+- [Serg Koren Website](https://auteureist.com/)
+- [VisualNewt Software Website](http://www.visualnewt.com/)
+- [Mastodon: Serg Koren](https://writing.exchange/@sergkoren)
+- [Bluesky: Serg Koren](https://bsky.app/profile/archimage-sk.bsky.social)

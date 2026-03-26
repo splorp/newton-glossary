@@ -30,6 +30,7 @@ Related:
 - /terms/newtonscript
 - /terms/ns-basic
 - /terms/script
+- /terms/visualnewt
 
 ----
 
