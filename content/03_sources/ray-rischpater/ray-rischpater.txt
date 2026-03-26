@@ -8,7 +8,7 @@ Date: 18 April 2024
 
 Text:
 
-Ray Rischpater is a software engineer, author, amateur radio aficionado, and [musician](https://kf6gpe.bandcamp.com/) who has worked on internet technologies and custom applications for Newton, Magic Cap, Palm OS, iOS, Android, and various other proprietary platforms.
+A software engineer, author, amateur radio aficionado, and [musician](https://kf6gpe.bandcamp.com/) who has worked on internet technologies and custom (link: /terms/application text: applications) for (link: /terms/newton-os text: Newton OS), Magic Cap, Palm OS, iOS, Android, and various other proprietary platforms.
 
 ----
 

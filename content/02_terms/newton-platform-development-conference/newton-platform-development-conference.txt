@@ -8,7 +8,7 @@ Date: 12 March 2026
 
 Text:
 
-See: (link: /terms/newton-development-conference text: Newton Development Conference)
+See: (link: /terms/newton-developer-conference text: Newton Developer Conference)
 
 ----
 
