@@ -1,0 +1,62 @@
+Title: Arrow Keys
+
+----
+
+Date: 29 March 2026
+
+----
+
+Text:
+
+A set of four (link: /terms/function-key text: function keys) located on a keyboard that move the (link: /terms/caret text: caret) or text (link: /terms/insertion-point text: insertion point). These include up, down, left, and right arrow keys.
+
+The left and right arrow keys move the caret left or right one (link: /terms/character text: character) at a time. The up and down arrow keys move the caret up or down one line of text at a time, aligning the caret at the nearest character boundary and keeping the caret as close as possible to the original horizontal position.
+
+If text has been (link: /terms/select text: selected) and an arrow key is pressed, the text is (link: /terms/deselect text: deselected) and the caret appears at the right or left edge of the selection. The caret appears at the left edge of a text (link: /terms/selection text: selection) when the left arrow or up arrow key is pressed. The caret appears at the right edge of a text selection when the right arrow or down arrow key is pressed.
+
+Also referred to as (link: /terms/cursor-keys text: Cursor Keys).
+
+(link: /terms/scroll-arrows text: Scroll arrows) are sometimes referred to as arrow keys, even though they are (link: /terms/button text: buttons) on the (link: /terms/screen text: screen) and not keys on a keyboard.
+
+----
+
+Related:
+
+- /terms/accent-key
+- /terms/auto-repeat
+- /terms/caps-lock-key
+- /terms/character-key
+- /terms/close-key
+- /terms/command-key
+- /terms/control-key
+- /terms/cursor-keys
+- /terms/delete-key
+- /terms/enter-key
+- /terms/extras-key
+- /terms/function-key
+- /terms/key-combination
+- /terms/keyboard
+- /terms/keyboard-equivalent
+- /terms/keystrings
+- /terms/keystroke-events
+- /terms/modifier-key
+- /terms/option-key
+- /terms/overview-key
+- /terms/power-key
+- /terms/receive-key
+- /terms/return-key
+- /terms/scroll-arrows
+- /terms/scroll-keys
+- /terms/send-key
+- /terms/tab
+- /terms/tab-marker
+- /terms/tab-stop
+- /terms/type-ahead
+- /terms/typewriter
+
+----
+
+Source:
+
+- /sources/keyboard-enhancements
+- /sources/messagepad-handbook-1995

@@ -17,6 +17,7 @@ Function keys are located in their own row at the top of the eMate keyboard.
 Related:
 
 - /terms/accent-key
+- /terms/arrow-keys
 - /terms/auto-repeat
 - /terms/caps-lock-key
 - /terms/character-key

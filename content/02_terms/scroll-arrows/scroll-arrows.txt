@@ -12,10 +12,14 @@ A pair of icon-based (link: /terms/button text: buttons) used to move (or (link:
 
 On an (link: /terms/emate-300 text: eMate 300), pressing a (link: /terms/scroll-keys text: scroll key) performs the same action as tapping a scroll arrow button.
 
+Also referred to as (link: /terms/arrow-keys text: arrow keys), even though they are buttons on the screen and not actually keys on a keyboard.
+
+
 ----
 
 Related:
 
+- /terms/arrow-keys
 - /terms/button
 - /terms/clank
 - /terms/icon
@@ -33,3 +37,4 @@ Related:
 Source:
 
 - /sources/newton-user-interface-guidelines
+- /sources/messagepad-handbook-1995

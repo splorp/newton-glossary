@@ -16,6 +16,7 @@ Related:
 
 - /terms/accent-key
 - /terms/active-slip
+- /terms/arrow-keys
 - /terms/auto-repeat
 - /terms/caps-lock-key
 - /terms/character-key

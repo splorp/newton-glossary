@@ -19,6 +19,7 @@ The Return key on a physical keyboard performs the same action as (link: /terms/
 Related:
 
 - /terms/accent-key
+- /terms/arrow-keys
 - /terms/auto-repeat
 - /terms/caps-lock-key
 - /terms/character-key

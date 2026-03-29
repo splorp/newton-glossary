@@ -15,6 +15,7 @@ Groups of individual key presses collected by (link: /terms/newton-os text: Newt
 Related:
 
 - /terms/accent-key
+- /terms/arrow-keys
 - /terms/auto-repeat
 - /terms/caps-lock-key
 - /terms/character-key

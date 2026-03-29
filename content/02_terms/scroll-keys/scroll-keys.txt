@@ -20,6 +20,7 @@ Related:
 
 
 - /terms/accent-key
+- /terms/arrow-keys
 - /terms/auto-repeat
 - /terms/caps-lock-key
 - /terms/character-key

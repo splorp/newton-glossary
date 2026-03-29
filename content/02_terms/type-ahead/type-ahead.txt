@@ -15,6 +15,7 @@ The process by which (link: /terms/newton-os text: Newton OS) stores keystrokes 
 Related:
 
 - /terms/accent-key
+- /terms/arrow-keys
 - /terms/auto-repeat
 - /terms/caps-lock-key
 - /terms/character-key

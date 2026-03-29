@@ -14,6 +14,7 @@ A (link: /terms/character-key text: character key) located on a keyboard for typ
 
 Related:
 
+- /terms/arrow-keys
 - /terms/auto-repeat
 - /terms/caps-lock-key
 - /terms/character

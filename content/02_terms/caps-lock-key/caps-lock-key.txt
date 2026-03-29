@@ -30,6 +30,7 @@ Resource:
 Related:
 
 - /terms/accent-key
+- /terms/arrow-keys
 - /terms/auto-repeat
 - /terms/caps-key
 - /terms/character-key

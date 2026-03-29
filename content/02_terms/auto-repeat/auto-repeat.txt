@@ -15,6 +15,7 @@ The repeated, automatic generation of (link: /terms/character text: characters) 
 Related:
 
 - /terms/accent-key
+- /terms/arrow-keys
 - /terms/caps-lock-key
 - /terms/character-key
 - /terms/close-key

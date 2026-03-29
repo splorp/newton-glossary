@@ -19,6 +19,7 @@ Once received, the (link: /terms/beamed-item text: beamed item) will be listed i
 Related:
 
 - /terms/accent-key
+- /terms/arrow-keys
 - /terms/auto-repeat
 - /terms/beaming
 - /terms/caps-lock-key

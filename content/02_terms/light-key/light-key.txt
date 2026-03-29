@@ -17,6 +17,7 @@ Also referred to as a (link: /terms/backlight-key text: Backlight Key) or (link:
 Related:
 
 - /terms/accent-key
+- /terms/arrow-keys
 - /terms/auto-repeat
 - /terms/backlit
 - /terms/backlight
