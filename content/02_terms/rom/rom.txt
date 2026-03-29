@@ -28,6 +28,7 @@ Related:
 - /terms/nes-packager
 - /terms/newtendo
 - /terms/ram
+- /terms/romulator
 - /terms/rom-extension
 - /terms/sram
 

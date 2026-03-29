@@ -22,6 +22,7 @@ Related:
 - /terms/flash-ram
 - /terms/fragmentation
 - /terms/rom
+- /terms/romulator
 - /terms/sram
 - /terms/system-memory
 - /terms/system-ram

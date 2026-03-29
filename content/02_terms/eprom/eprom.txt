@@ -21,6 +21,7 @@ Related:
 - /terms/flash-ram
 - /terms/ram
 - /terms/rom
+- /terms/romulator
 - /terms/sram
 
 ----

@@ -32,6 +32,7 @@ Related:
 - /terms/montblanc
 - /terms/pocket-crystal
 - /terms/prototype
+- /terms/romulator
 - /terms/scaldapanini
 - /terms/senior
 

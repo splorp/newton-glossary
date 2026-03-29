@@ -1,0 +1,45 @@
+Title: ROMulator
+
+----
+
+Date: 29 March 2026
+
+----
+
+Text:
+
+ROM Emulator
+
+A circuit board that connects to another hardware device, replacing (or emulating) the memory on the device itself.
+
+Software code is downloaded into (link: /terms/RAM text: RAM) on the ROMulator and then executed as if it was burned into (link: /terms/rom text: ROM) on the device. This provides an efficient means to quickly test, (link: /terms/debug text: debug), and iterate changes to the code.
+
+----
+
+Resource:
+
+- [Computer History Museum: Newton Cadillac Engineering Prototype](https://www.computerhistory.org/collections/catalog/102633650/)
+- [Flickr: Newton Bic Romulator](https://www.flickr.com/photos/sonnyhung/3919890083/)
+- [Nowhere Else: Apple Tablet Newton Bic Prototype](https://www.nowhereelse.fr/apple-tablet-newton-bic-cadillac-prototype-28520/)
+
+----
+
+Related:
+
+- /terms/armadillo
+- /terms/armageddon
+- /terms/armistice
+- /terms/bic
+- /terms/debug
+- /terms/dvt
+- /terms/evt
+- /terms/prototype
+- /terms/pvt
+- /terms/ram
+- /terms/rom
+
+----
+
+Source:
+
+- /sources/steve-white
