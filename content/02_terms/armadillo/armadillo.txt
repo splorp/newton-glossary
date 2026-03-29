@@ -27,6 +27,7 @@ Related:
 - /terms/armistice
 - /terms/egger
 - /terms/fat-man
+- /terms/prototype
 - /terms/romulator
 
 ----

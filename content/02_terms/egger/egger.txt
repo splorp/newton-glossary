@@ -32,6 +32,7 @@ Related:
 - /terms/macintosh-programmers-workshop
 - /terms/newton-c-tools
 - /terms/newtsbug
+- /terms/prototype
 - /terms/viewframe
 
 ----

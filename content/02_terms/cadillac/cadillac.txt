@@ -14,9 +14,10 @@ The code name of the first tablet style Newton hardware (link: /terms/prototype 
 
 Resource:
 
+- [Computer History Museum: Newton Cadillac Engineering Prototype](https://www.computerhistory.org/collections/catalog/102633650/)
 - [Flickr: Grant Hutchinson’s Newton “Cadillac” Prototype](https://www.flickr.com/photos/splorp/sets/72157623287193080/)
 - [Flickr: Jim Abeles’ Newton “Cadillac” Clear Case Prototype](https://www.flickr.com/photos/abeles/albums/72157692637679732)
-- [Early Apple: Newton “Cadillac”](https://web.archive.org/web/20100611214151/http://homepage.mac.com/cliff_huston/.public/Offering/Cadillac/Cadillac.html)
+- [Early Apple: Newton “Cadillac” Tablet](https://web.archive.org/web/20100611214151/http://homepage.mac.com/cliff_huston/.public/Offering/Cadillac/Cadillac.html)
 - [Newton Secrets — Secret Newtons: Cadillac](https://web.archive.org/web/20010612095145/http://www.a-in-a-circle.com/newton/cad.html)
 - [Russ Uzes: The Apple Newton Cadillac](https://web.archive.org/web/20020605222150/http://www.uzes.net/newton)
 
