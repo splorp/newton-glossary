@@ -8,7 +8,7 @@ Date: 13 September 2017
 
 Text:
 
-A colloquial term for one of the (link: /terms/hard-button text: hard buttons) or (link: /terms/silkscreen-button text: silkscreen buttons) found in the (link: /terms/button-bar text: button bar) below the (link: /terms/screen text: screen) on early prototype Newton devices.
+A colloquial term for one of the (link: /terms/hard-button text: hard buttons) or (link: /terms/silkscreen-button text: silkscreen buttons) found in the (link: /terms/button-bar text: button bar) below the (link: /terms/screen text: screen) on early (link: /terms/prototype text: prototype) Newton devices.
 
 ----
 
@@ -23,6 +23,7 @@ Related:
 - /terms/button
 - /terms/button-bar
 - /terms/hard-button
+- /terms/prototype
 - /terms/silkscreen-button
 - /terms/user-interface
 

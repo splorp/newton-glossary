@@ -33,6 +33,7 @@ Related:
 - /terms/messenotizen
 - /terms/newtphone
 - /terms/oad
+- /terms/prototype
 - /terms/secretary-station
 - /terms/siemens-online-terminal
 - /terms/tae

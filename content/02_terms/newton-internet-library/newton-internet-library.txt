@@ -42,6 +42,7 @@ Related:
 - /terms/newtonscript
 - /terms/nil
 - /terms/protocol
+- /terms/prototype
 - /terms/unicode
 
 ----

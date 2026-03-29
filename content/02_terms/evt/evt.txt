@@ -10,13 +10,14 @@ Text:
 
 Engineering Verification Test
 
-An early engineering prototype of a piece of hardware. Essentially an alpha release.
+An early engineering (link: /terms/prototype text: prototype) of a piece of hardware. Essentially an alpha release.
 
 ----
 
 Related:
 
 - /terms/dvt
+- /terms/prototype
 - /terms/pvt
 
 ----

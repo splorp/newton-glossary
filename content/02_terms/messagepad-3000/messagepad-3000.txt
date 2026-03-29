@@ -8,7 +8,7 @@ Date: 20 August 2024
 
 Text:
 
-A “humourous” reference to the Newton displayed on early iPhone prototypes.
+A “humourous” reference to the Newton displayed on early iPhone (link: /terms/prototype text: prototypes).
 
 ----
 
@@ -26,6 +26,7 @@ Related:
 - /terms/messagepad
 - /terms/messagepad-150
 - /terms/messagepad-200
+- /terms/prototype
 
 ----
 

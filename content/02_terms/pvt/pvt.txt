@@ -18,6 +18,7 @@ Related:
 
 - /terms/dvt
 - /terms/evt
+- /terms/prototype
 
 ----
 

@@ -8,7 +8,7 @@ Date: 30 May 2022
 
 Text:
 
-Apple alumni John Forstall’s attempt at writing “(link: /terms/egg-freckles text: egg freckles)” on a prototype iPhone, as related in Ken Kocienda’s book _Creative Selection_.
+Apple alumni John Forstall’s attempt at writing “(link: /terms/egg-freckles text: egg freckles)” on a (link: /terms/prototype text: prototype) iPhone, as related in Ken Kocienda’s book _Creative Selection_.
 
 ----
 
@@ -26,6 +26,7 @@ Related:
 - /terms/egg-freckles
 - /terms/egg-freckles-enabler
 - /terms/handwriting-recognition
+- /terms/prototype
 - /terms/serious-bandwidth
 - /terms/tablespoons
 - /terms/test-drive1

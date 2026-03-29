@@ -33,6 +33,7 @@ Related:
 - /terms/egger
 - /terms/fat-man
 - /terms/hammer
+- /terms/prototype
 
 ----
 

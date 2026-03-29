@@ -8,7 +8,23 @@ Date: 24 August 2016
 
 Text:
 
-See: (link: /terms/proto text: Proto)
+A preliminary version of a product that has been created in order to test various aspects of the hardware, software, manufacturing process, (link: /terms/user interface text: user interface), or other concept.
+
+The (link: /terms/bunwarmer text: Bunwarmer), (link: /terms/bic text: Bic), and (link: /terms/cadillac text: Cadillac) are examples of prototype Newton devices.
+
+A programming prototype is the declaration of a (link: /terms/function text: function) to a (link: /terms/compiler text: compiler) that indicates what types of parameters are passed and values being (link: /terms/return text: returned).
+
+In (link: /terms/newtonscript text: NewtonScript), a prototype is known as a (link: /terms/proto text: proto).
+
+----
+
+Related:
+
+- /terms/dvt
+- /terms/evt
+- /terms/newtonscript
+- /terms/proto
+- /terms/pvt
 
 ----
 

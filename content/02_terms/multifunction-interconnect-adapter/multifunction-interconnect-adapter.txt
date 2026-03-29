@@ -29,6 +29,7 @@ Related:
 - /terms/newton-interconnect
 - /terms/newton-serial-adapter
 - /terms/output
+- /terms/prototype
 - /terms/ser-001
 - /terms/usb-001
 

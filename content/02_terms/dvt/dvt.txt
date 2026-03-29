@@ -10,13 +10,14 @@ Text:
 
 Development Verification Test
 
-A later stage engineering prototype of a piece of hardware. Very close in specifications to a final product device, it is essentially a beta release.
+A later stage engineering (link: /terms/prototype text: prototype) of a piece of hardware. Very close in specifications to a final product device, it is essentially a beta release.
 
 ----
 
 Related:
 
 - /terms/evt
+- /terms/prototype
 - /terms/pvt
 
 ----

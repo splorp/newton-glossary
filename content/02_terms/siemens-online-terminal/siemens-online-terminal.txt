@@ -8,7 +8,7 @@ Date: 25 March 2017
 
 Text:
 
-A prototype device developed by [Siemens](https://www.siemens.com/) that was positioned as an “all-in-one communication terminal” employing a (link: /terms/user-interface text: user interface) based on (link: /terms/newton-os text: Newton OS) and the same (link: /terms/n2 text: N2) hardware platform used for the (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100).
+A (link: /terms/prototype text: prototype) device developed by [Siemens](https://www.siemens.com/) that was positioned as an “all-in-one communication terminal” employing a (link: /terms/user-interface text: user interface) based on (link: /terms/newton-os text: Newton OS) and the same (link: /terms/n2 text: N2) hardware platform used for the (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100).
 
 The device combined several communication services including wireless telephony, fax, voice messaging, web access, and email.
 
@@ -43,6 +43,7 @@ Related:
 - /terms/notephone-2000
 - /terms/notephone-ii
 - /terms/oad
+- /terms/prototype
 - /terms/secretary-station
 - /terms/tae
 

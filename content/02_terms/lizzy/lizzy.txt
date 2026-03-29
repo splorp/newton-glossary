@@ -24,6 +24,7 @@ Related:
 - /terms/lindy
 - /terms/messagepad
 - /terms/messagepad-110
+- /terms/prototype
 
 ----
 
