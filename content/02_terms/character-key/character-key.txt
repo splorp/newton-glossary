@@ -16,6 +16,7 @@ The (link: /terms/tab-key text: Tab key), (link: /terms/return-key text: Return 
 
 Related:
 
+- /terms/accent-key
 - /terms/arrow-keys
 - /terms/auto-repeat
 - /terms/caps-lock-key
