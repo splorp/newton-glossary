@@ -1,0 +1,17 @@
+Title: Newton Source
+
+----
+
+Date: 31 March 2026
+
+----
+
+Text:
+
+See: (link: /terms/newtonsource text: NewtonSource)
+
+----
+
+Source:
+
+- /sources/wikipedia

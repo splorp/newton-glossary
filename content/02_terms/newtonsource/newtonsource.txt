@@ -1,0 +1,38 @@
+Title: NewtonSource
+
+----
+
+Date: 31 March 2026
+
+----
+
+Text:
+
+A chain of American retail stores founded by Stephen Elms in 1994 that promoted the “personal empowerment” of handheld computing and the Newton platform.
+
+Specializing in providing custom software and accessory solutions for vertical markets such as healthcare, sales, and finance, the company had locations in New York, San Francisco, Los Angeles, Chicago, and Boston.
+
+NewtonSource cheekily referred to itself as the “(link: /terms/personal-power-outlet text: Personal Power Outlet)”.
+
+----
+
+Resource:
+
+- [NewtonSource Website](https://web.archive.org/web/19971023001703/http://www.newtonsource.com/)
+- [Los Angeles Times: N.Y. Store Picks Apple’s Newton as its Specialty](https://www.latimes.com/archives/la-xpm-1994-04-16-fi-46763-story.html)
+
+----
+
+Related:
+
+- /terms/newton-source
+- /terms/personal-power-outlet
+- /terms/power-box
+- /terms/the-newton-store
+
+----
+
+Source:
+
+- /sources/newton-hall-of-fame
+- /sources/newton-reference

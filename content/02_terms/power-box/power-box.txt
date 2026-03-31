@@ -23,4 +23,5 @@ Resource:
 Related:
 
 - /terms/bee-one
+- /terms/newtonsource
 - /terms/the-newton-store

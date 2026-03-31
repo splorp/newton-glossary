@@ -25,4 +25,5 @@ Resource:
 
 Related:
 
+- /terms/newtonsource
 - /terms/power-box
