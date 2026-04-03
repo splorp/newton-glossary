@@ -46,6 +46,8 @@ Related:
 - /terms/lyon
 - /terms/middle-of-nowhere
 - /terms/neat-bong
+- /terms/newton-dose
+- /terms/newton-poetry
 - /terms/serious-bandwidth
 - /terms/stafford
 - /terms/tablespoons

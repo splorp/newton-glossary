@@ -1,0 +1,30 @@
+Title: Newton Dose
+
+----
+
+Date: 04 April 2026
+
+----
+
+Text:
+
+A weblog focused on tinkering and developing software for the Newton platform. Newton Dose was published by Daniel Padilla from 2002 to 2004.
+
+----
+
+Resource:
+
+- [Newton Dose Website](http://dev.newtontalk.net/dpadilla/newtondose.htm)
+
+----
+
+Related:
+
+- /terms/egg-freckles
+- /terms/newton-poetry
+
+----
+
+Source:
+
+- /sources/daniel-padilla

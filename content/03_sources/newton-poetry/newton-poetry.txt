@@ -18,3 +18,10 @@ Resource:
 - [About.me: Dave Lawrence](https://about.me/davelawrence8)
 - [Dave Lawrence Photography Website](https://davelawrence.photo/)
 - [Flickr: Dave Lawrence](https://www.flickr.com/photos/davelawrence8/)
+
+----
+
+Related:
+
+- /terms/egg-freckles
+- /terms/newton-dose
