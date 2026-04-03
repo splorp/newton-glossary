@@ -30,11 +30,6 @@ return [
 			'active' => false
 		]
 	],
-	'panel' => [
-		'vue' => [
-			'compiler' => false
-		]
-	],
 	'kirbytext' => [
 		'image' => [
 			'figure' => false
