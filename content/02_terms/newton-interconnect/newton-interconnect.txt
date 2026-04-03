@@ -32,6 +32,7 @@ Related:
 - /terms/dongle
 - /terms/dongle-destroyer
 - /terms/ftdi
+- /terms/interconnect
 - /terms/jae
 - /terms/mini-din
 - /terms/multifunction-interconnect-adapter
