@@ -8,7 +8,7 @@ Date: 05 September 2025
 
 Text:
 
-Software developed by (link: /terms/brad-tober text: Brad Tober) that allows playback of self-contained audio files on a Newton device. Newton Audio Player and (link: /terms/newton-movie-player text: Newton Movie Player) are based on the same underlying software known as the (link: /terms/newton-media-system text: Newton Media System).
+Software developed by (link: /sources/brad-tober text: Brad Tober) that allows playback of self-contained audio files on a Newton device. Newton Audio Player and (link: /terms/newton-movie-player text: Newton Movie Player) are based on the same underlying software known as the (link: /terms/newton-media-system text: Newton Media System).
 
 (image: /assets/images/newton-audio-player-2x.gif alt: Screenshot of Newton Audio Player width: 216)
 

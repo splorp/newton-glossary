@@ -10,7 +10,7 @@ Text:
 
 (link: /terms/newton-toolkit text: Newton Toolkit) code developed by (link: /sources/lee-moon text: Lee Moon) for creating self-contained (link: /terms/application text: applications) for playback of animated frames on a Newton device.
 
-Newton Movie Player was later extended by (link: /terms/brad-tober text: Brad Tober) to support playback of an audio track along with the sequential images, mimicking a video. Newton Movie Player and (link: /terms/newton-audio-player text: Newton Audio Player) are based on the same underlying software known as the (link: /terms/newton-media-system text: Newton Media System).
+Newton Movie Player was later extended by (link: /sources/brad-tober text: Brad Tober) to support playback of an audio track along with the sequential images, mimicking a video. Newton Movie Player and (link: /terms/newton-audio-player text: Newton Audio Player) are based on the same underlying software known as the (link: /terms/newton-media-system text: Newton Media System).
 
 (image: /assets/images/newton-movie-player-2x.gif alt: Screenshot of Newton Movie Player width: 200)
 
