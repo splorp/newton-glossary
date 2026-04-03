@@ -1,0 +1,19 @@
+Title: Daniel Padilla Roldán
+
+----
+
+Date: 03 April 2026
+
+----
+
+Text:
+
+A software developer and hardware tinkerer based in Barcelona, Spain. Padilla has actively developed several (link: /terms/package text: packages) for the Newton platform, including plugins to extend the functionality of the (link: /terms/nethopper text: NetHopper) web browser and a (link: /terms/device-driver text: device driver) that allows Newton device to use a (link: /terms/stowaway text: Stowaway) keyboard.
+
+----
+
+Resource:
+
+- [Newton Dose Website](http://dev.newtontalk.net/dpadilla/newtondose.htm)
+- [Daniel Padilla Roldán Software Programs](http://dev.newtontalk.net/dpadilla/progs.htm)
+- [GitHub: Daniel Padilla Roldán]()
