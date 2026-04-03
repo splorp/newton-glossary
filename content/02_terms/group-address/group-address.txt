@@ -1,0 +1,18 @@
+Title: Group Address
+
+----
+
+Date: 03 April 2026
+
+----
+
+Text:
+
+See: (link: /terms/group text: Group)
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
+- /sources/messagepad-handbook-1995
