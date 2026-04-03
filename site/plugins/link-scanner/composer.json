@@ -1,0 +1,48 @@
+{
+  "name": "scottboms/link-scanner",
+  "description": "Link Scanner plugin for Kirby",
+  "type": "kirby-plugin",
+  "homepage": "https://github.com/scottboms/kirby-link-scanner",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Scott Boms",
+      "email": "plugins@scottboms.com",
+      "homepage": "https://scottboms.com"
+    }
+  ],
+  "support": {
+    "docs": "https://github.com/scottboms/kirby-link-scanner/blob/main/README.md",
+    "source": "https://github.com/scottboms/kirby-link-scanner"
+  },
+  "keywords": [
+    "kirby",
+    "kirby-cms",
+    "kirby-plugin",
+    "kirby4",
+    "kirby5",
+    "kirby5-plugin",
+    "applemusic",
+    "music",
+    "api"
+  ],
+  "require": {
+    "php": ">=8.3.0",
+		"getkirby/cms": "^5.0",
+    "getkirby/composer-installer": "^1.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "ScottBoms\\LinkScanner\\": "lib/"
+    }
+  },
+  "extra": {
+    "installer-name": "link-scanner"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "allow-plugins": {
+      "getkirby/composer-installer": true
+    }
+  }
+}
