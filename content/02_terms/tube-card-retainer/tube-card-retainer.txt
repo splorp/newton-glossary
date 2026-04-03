@@ -1,0 +1,25 @@
+Title: Tube Card Retainer
+
+----
+
+Date: 03 April 2026
+
+----
+
+Text:
+
+A loop located inside the (link: /terms/newt-boot text: Newt Boot) carrying case designed to hold a “Tube Card”, a fictitious item described as being “… about the size and shape of a pencil or pen.” Needless to say, the two “retainers” are actually for holding writing implements, not (link: /terms/card text: cards).
+
+----
+
+Resource:
+
+- [Newt Boot Product Information](https://web.archive.org/web/19971026231526/http://www.wyoming.com/~cavenewt/NewtBoot/)
+- [Newt Boot FAQ](https://web.archive.org/web/19971122122612/http://www.wyoming.com/~cavenewt/NewtBoot/nbfaq.html)
+
+----
+
+Related:
+
+- /terms/newt-boot
+- /terms/tube-card
