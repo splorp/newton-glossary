@@ -22,6 +22,7 @@ Related:
 - /terms/infrared-window
 - /terms/irda
 - /terms/newtir
+- /terms/newton-communications-architecture
 - /terms/receive-key
 - /terms/routing
 - /terms/send-key

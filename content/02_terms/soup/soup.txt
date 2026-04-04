@@ -40,6 +40,7 @@ Related:
 - /terms/item-frame
 - /terms/member-soup
 - /terms/name-reference
+- /terms/newton-information-architecture
 - /terms/newtonscript
 - /terms/object
 - /terms/persistant-object-database

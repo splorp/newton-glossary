@@ -1,0 +1,36 @@
+Title: Newton Information Architecture
+
+----
+
+Date: 04 April 2026
+
+----
+
+Text:
+
+A marketing-focused term for the (link: /terms/newton-os text: Newton OS) technologies behind the object-oriented (link: /terms/database text: database) known as (link: /terms/soup text: soup) that stores, finds, and links information. This architecture also facilitates the creation of flexible views of the data and the ability to easily share the data between (link: /terms/application text: applications).
+
+----
+
+Resource:
+
+- [Newted: MessagePad 130 with Newton 2.0 Operating System](https://www.newted.org/download/manuals/MessagePad_130.pdf)
+
+----
+
+Related:
+
+- /terms/database
+- /terms/intelligent-assistance-architecture
+- /terms/newton-communications-architecture
+- /terms/newton-hardware-architecture
+- /terms/newton-intelligence
+- /terms/newton-os
+- /terms/newton-recognition-architecture
+- /terms/soup
+
+----
+
+Source:
+
+- /sources/messagepad-130-data-sheet

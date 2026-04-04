@@ -24,8 +24,12 @@ Related:
 - /terms/assist
 - /terms/assist-slip
 - /terms/how-do-i
+- /terms/newton-communications-architecture.txt
+- /terms/newton-hardware-architecture.txt
+- /terms/newton-information-architecture
 - /terms/newton-intelligence
 - /terms/newton-os
+- /terms/newton-recognition-architecture.txt
 - /terms/request-word
 - /terms/synonyms
 

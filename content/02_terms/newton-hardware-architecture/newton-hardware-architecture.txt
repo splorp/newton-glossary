@@ -22,7 +22,11 @@ Resource:
 
 Related:
 
+- /terms/intelligent-assistance-architecture.txt
+- /terms/newton-communications-architecture.txt
+- /terms/newton-information-architecture
 - /terms/newton-intelligence
+- /terms/newton-recognition-architecture.txt
 
 ----
 
