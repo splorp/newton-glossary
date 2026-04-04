@@ -1,0 +1,11 @@
+Title: OutBox
+
+----
+
+Date: 04 April 2026
+
+----
+
+Text:
+
+See: (link: /terms/out-box text: Out Box)

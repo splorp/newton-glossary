@@ -1,0 +1,17 @@
+Title: In/Out Box
+
+----
+
+Date: 04 April 2026
+
+----
+
+Text:
+
+See: (link: /terms/inout-box text: InOut Box).
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

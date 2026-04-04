@@ -10,11 +10,14 @@ Text:
 
 A list in the (link: /terms/inout-box text: InOut Box) application where received items can be viewed, filed, (link: /terms/put-away text: put away), (link: /terms/routing text: routed), and otherwise managed. The In Box and (link: /terms/out-box text: Out Box) are separate (link: /terms/application text: applications) in earlier versions of (link: /terms/newton-os text: Newton OS).
 
+Also referred to as (link: /terms/inbox text: InBox).
+
 ----
 
 Related:
 
 - /terms/enroute
+- /terms/inbox
 - /terms/inout-box
 - /terms/mail-v
 - /terms/newtdump
