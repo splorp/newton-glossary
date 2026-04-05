@@ -12,6 +12,12 @@ Adds a panel area with the ability to scan your site's content files for broken 
 kirby plugin:install scottboms/kirby-link-scanner
 ```
 
+### Composer
+
+```bash
+composer require scottboms/link-scanner
+```
+
 ### Git submodule
 
 ```bash
@@ -22,6 +28,8 @@ git submodule add https://github.com/scottboms/kirby-link-scanner.git site/plugi
 
 1. [Download](https://github.com/scottboms/kirby-link-scanner/archive/master.zip) the contents of this repository as Zip file.
 2. Rename the extracted folder to `link-scanner` and copy it into the `site/plugins/` directory in your Kirby project.
+
+The plugin supports both Composer installs and direct plugin-folder installs. When installed without Composer, it falls back to Kirby's built-in class loader.
 
 
 ## Configuration Options
@@ -48,6 +56,7 @@ Example Config:
 
 * Kirby 5.x
 * PHP 8.3+ with cURL and php cli exec()
+* Be sure that [Kirby's Vue template compiler](https://getkirby.com/docs/reference/system/options/panel#disable-the-vue-template-compiler) is not disabled
 
 
 ## Disclaimer

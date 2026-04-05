@@ -151,8 +151,10 @@ class Scanner {
 
 	protected function normalizeExtractedUrl(string $url): ?string {
 		$url = trim(html_entity_decode($url, ENT_QUOTES | ENT_HTML5));
+		$url = str_replace(['\"', "\\'"], ['"', "'"], $url);
 		$url = trim($url, " \t\n\r\0\x0B\"'[]<>,");
 		$url = $this->trimTrailingUrlPunctuation($url);
+		$url = rtrim($url, '\\');
 
 		if (
 			$url === '' ||
