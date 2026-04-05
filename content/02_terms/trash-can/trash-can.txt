@@ -8,7 +8,7 @@ Date: 21 June 2025
 
 Text:
 
-A component of the animation that occurs when an item is (link: /terms/delete text: deleted) in an (link: /terms/application text: application) such as the (link: /terms/Notepad text: Notepad).
+A component of the animation that occurs when an item is (link: /terms/delete text: deleted) in an (link: /terms/application text: application) such as the (link: /terms/notepad text: Notepad).
 
 The animation simulates an item being wadded into a ball accompanied by a “(link: /terms/paper-crumpling text: paper crumpling)” sound before be tossed into a trash can.
 

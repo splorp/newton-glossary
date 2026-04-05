@@ -8,7 +8,7 @@ Date: 14 February 2026
 
 Text:
 
-In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/translation-engine text: translation engine) that converts a (link: /terms/frame text: frame) into a (link: /terms/binary object text: binary object) containing a (link: /terms/flattened frame text: flattened frame).
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/translation-engine text: translation engine) that converts a (link: /terms/frame text: frame) into a (link: /terms/binary-object text: binary object) containing a (link: /terms/flattened-frame text: flattened frame).
 
 To perform the opposite translation, you would use an (link: /terms/unflattener text: unflattener) translator.
 

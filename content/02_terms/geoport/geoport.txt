@@ -16,7 +16,7 @@ The (link: /terms/emate-300 text: eMate 300) is equipped with a GeoPort connecto
 
 Resource:
 
-- [Low End Mac: GeoPort Guide](https://lowendmac.com/2018/low-end-macs-geoport-guide/)
+- [Low End Mac: GeoPort Guide](https://web.archive.org/web/20200114032522/https://lowendmac.com/2018/low-end-macs-geoport-guide/)
 - [Wikipedia: GeoPort](https://en.wikipedia.org/wiki/GeoPort)
 
 ----

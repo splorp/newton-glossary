@@ -14,8 +14,8 @@ The commercial version of the (link: /terms/newton-data-viewer-communication-too
 
 Resource:
 
-- [Pythia: SyncServer Produkte](https://web.archive.org/web/19970130111600/http://www.pythia.de/pages/SyncServer/syncproducts_D.html)(Deutsch)
-- [Pythia: SyncServer Products](https://web.archive.org/web/19970130111931/http://www.pythia.de/pages/SyncServer/syncproducts_E.html)(English)
+- [Pythia: SyncServer Produkte](https://web.archive.org/web/19970130111600/http://www.pythia.de/pages/SyncServer/syncproducts_D.html) (Deutsch)
+- [Pythia: SyncServer Products](https://web.archive.org/web/19970130111931/http://www.pythia.de/pages/SyncServer/syncproducts_E.html) (English)
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 A senior technical support engineer and developer in the (link: /terms/newton-systems-group text: Newton Systems Group) at [Apple](https://www.apple.com/) from 1992 through 1997. During his tenure, Sharp designed and implemented the (link: /terms/prototype text: prototype) which would eventually become (link: /terms/newton-toolkit text: Newton ToolKit).
 
-As a member of (link: /terms/developer-technical-services text: Developer Technical Services), he was known by his nom de plume, (link: /terms/dr-llama text: Dr Llama), authoring articles for publications such as [Develop](http://preserve.mactech.com/articles/develop/) and (link: /terms/newton-technical-journal text: Newton Technical Journal), as well as being the columnist behind (link: /terms/ask-the-llama text: Ask The Llama).
+As a member of (link: /terms/developer-technical-services text: Developer Technical Services), he was known by his nom de plume, (link: /terms/dr-llama text: Dr Llama), authoring articles for publications such as [Develop](http://preserve.mactech.com/articles/develop/) and (link: /terms/newton-technology-journal text: Newton Technology Journal), as well as being the columnist behind (link: /terms/ask-the-llama text: Ask The Llama).
 
 According to Sharp, he is also the “Mo” in (link: /terms/modeminos text: Modeminos).
 

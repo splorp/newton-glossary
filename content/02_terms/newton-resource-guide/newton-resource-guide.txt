@@ -10,7 +10,7 @@ Text:
 
 A (link: /terms/database text: database) containing product and service information related to the Newton platform.
 
-Created using [FileMaker](https://en.wikipedia.org/wiki/FileMaker), the database was developed for [Apple](https://www.apple.com/) by (link: /sources/woodware text: WoodWare), an independent consultancy operated by Glenn Nunez. Using information provided by (link: /terms/intelligent-newton-magazine text: Intelligent Newton Magazine), the database contained descriptions for nearly 800 software titles, peripherals, accessories, services, (link: /terms/newton-books text: Newton books), and other resources.
+Created using [FileMaker](https://en.wikipedia.org/wiki/FileMaker), the database was developed for [Apple](https://www.apple.com/) by (link: /sources/woodware text: WoodWare), an independent consultancy operated by Glenn Nunez. Using information provided by (link: /terms/intelligent-newton-magazine text: Intelligent Newton Magazine), the database contained descriptions for nearly 800 software titles, peripherals, accessories, services, (link: /terms/newton-book text: Newton books), and other resources.
 
 A printed version of the guide appeared in the final issue of the magazine in 1995.
 

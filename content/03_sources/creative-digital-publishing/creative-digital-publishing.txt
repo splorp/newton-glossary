@@ -8,7 +8,7 @@ Date: 19 April 2024
 
 Text:
 
-A publishing company founded by Steve Mann and responsible for titles such as (link: /terms/pie-developers text: PIE Developers), (link: /terms/pda-developers text: PDA Developers), and (link: /terms/handheld-systems text: The Handheld Systems Journal). The company also published several software development tools including (link: /terms/viewframe text: ViewFrame), (link: /terms/ragout text: Ragout), and (link: /terms/NewtRTFM text: NewtRTFM). In 1997, Creative Digital Publishing also organized [The Handheld Systems Conference](https://web.archive.org/web/19970414045423/http://www.cdpubs.com/HHSC.html) in San Francisco.
+A publishing company founded by Steve Mann and responsible for titles such as (link: /terms/pie-developers text: PIE Developers), (link: /terms/pda-developers text: PDA Developers), and (link: /terms/handheld-systems text: The Handheld Systems Journal). The company also published several software development tools including (link: /terms/viewframe text: ViewFrame), (link: /terms/ragout text: Ragout), and (link: /terms/newtrtfm text: NewtRTFM). In 1997, Creative Digital Publishing also organized [The Handheld Systems Conference](https://web.archive.org/web/19970414045423/http://www.cdpubs.com/HHSC.html) in San Francisco.
 
 ----
 

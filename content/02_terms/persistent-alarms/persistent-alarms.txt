@@ -8,7 +8,7 @@ Date: 23 January 2025
 
 Text:
 
-A setting in the (link: /terms/alarms text: Alarms) section of the (link: /terms/prefs text: Prefs) application.
+A setting in the (link: /terms/alarm text: Alarm) section of the (link: /terms/prefs text: Prefs) application.
 
 When enabled, a (link: /terms/notification-slip text: notification slip) appears and a series of beeps is played when an alarm goes off, continuing until the alarm is acknowledged or (link: /terms/snooze text: snoozed).
 

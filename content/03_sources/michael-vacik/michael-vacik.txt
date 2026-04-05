@@ -8,7 +8,7 @@ Date: 17 December 2024
 
 Text:
 
-A software developer and designer based in Prague, Czechia. Vacík worked on several Newton projects including the (link: /terms/dcl text: DCL) framework, (link: /terms/Escale text: Escale), and (link: /terms/packager text: Packager). More recently, he has been a (link: /terms/user interface text: user interface) designer at [Vivaldi Technologies](https://vivaldi.com/).
+A software developer and designer based in Prague, Czechia. Vacík worked on several Newton projects including the (link: /terms/dcl text: DCL) framework, (link: /terms/escale text: Escale), and (link: /terms/packager text: Packager). More recently, he has been a (link: /terms/user-interface text: user interface) designer at [Vivaldi Technologies](https://vivaldi.com/).
 
 ----
 

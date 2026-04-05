@@ -8,7 +8,7 @@ Date: 31 May 2001
 
 Text:
 
-A structured set of data used by the (link: /terms/memory-management-unit text: memory management unit) (MMU) which instructs it on how to handle the translation of (link: /terms/virtual-address text: virtual addresses) to (link: /terms/physical-address text: physical addresses).
+A structured set of data used by the memory management unit ((link: /terms/mmu text: MMU)) which instructs it on how to handle the translation of (link: /terms/virtual-address text: virtual addresses) to (link: /terms/physical-address text: physical addresses).
 
 ----
 

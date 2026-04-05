@@ -8,7 +8,7 @@ Date: 09 November 2025
 
 Text:
 
-Software developed by (link: /sources/socket-communications text: Socket Communications) that allows messages received by the (link: /terms/pagecard text: PageCard) hardware to be downloaded into the (link: /terms/inbox text: InBox) on (link: /terms/newton-os text: Newton OS) devices.
+Software developed by (link: /sources/socket-communications text: Socket Communications) that allows messages received by the (link: /terms/pagecard text: PageCard) hardware to be downloaded into the (link: /terms/in-box text: In Box) on (link: /terms/newton-os text: Newton OS) devices.
 
 ----
 

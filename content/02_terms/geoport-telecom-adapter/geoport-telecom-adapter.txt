@@ -16,7 +16,7 @@ The GeoPort Telecom Adapter was designed to work specifically with certain Power
 
 Resource:
 
-- [Low End Mac: GeoPort Guide](https://lowendmac.com/2018/low-end-macs-geoport-guide/)
+- [Low End Mac: GeoPort Guide](https://web.archive.org/web/20200114032522/https://lowendmac.com/2018/low-end-macs-geoport-guide/)
 - [Higher Intellect Vintage Computing Wiki: Apple GeoPort Telecom Adapter Kit](https://wiki.preterhuman.net/Apple_GeoPort_Telecom_Adapter_Kit)
 - [Wikipedia: GeoPort](https://en.wikipedia.org/wiki/GeoPort)
 

@@ -10,7 +10,7 @@ Text:
 
 An open source code library that provides implementations of (link: /terms/tls text: TLS) and (link: /terms/ssl text: SSL) protocols for use in software development.
 
-(link: /sources/paul-guyot text: Paul Guyot) created a (link: /terms/newton-os text: Newton OS) version of Mbed TLS, allowing third-party (link: /terms/applications text: application) such as the (link: /terms/mail-v text: Mail V) email client to use use secure (link: /terms/imap text: IMAP) to communicate with mail servers.
+(link: /sources/paul-guyot text: Paul Guyot) created a (link: /terms/newton-os text: Newton OS) version of Mbed TLS, allowing third-party (link: /terms/application text: application) such as the (link: /terms/mail-v text: Mail V) email client to use use secure (link: /terms/imap text: IMAP) to communicate with mail servers.
 
 ----
 

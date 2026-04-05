@@ -8,7 +8,7 @@ Date: 24 August 2016
 
 Text:
 
-A preliminary version of a product that has been created in order to test various aspects of the hardware, software, manufacturing process, (link: /terms/user interface text: user interface), or other concept.
+A preliminary version of a product that has been created in order to test various aspects of the hardware, software, manufacturing process, (link: /terms/user-interface text: user interface), or other concept.
 
 The (link: /terms/bunwarmer text: Bunwarmer), (link: /terms/bic text: Bic), and (link: /terms/cadillac text: Cadillac) are examples of prototype Newton devices.
 

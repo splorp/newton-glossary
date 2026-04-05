@@ -8,7 +8,7 @@ Date: 29 January 2020
 
 Text:
 
-A German software developer specializing in audio and music applications. Fritze is the creator of the (link: /terms/Newton-keyboard-enabler text: Newton Keyboard Enabler).
+A German software developer specializing in audio and music applications. Fritze is the creator of the (link: /terms/newton-keyboard-enabler text: Newton Keyboard Enabler).
 
 ----
 

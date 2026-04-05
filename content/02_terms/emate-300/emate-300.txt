@@ -19,7 +19,7 @@ Resource:
 - [Press Release: New Apple eMate 300 Mobile Computer](https://web.archive.org/web/20010628003033/http://product.info.apple.com/pr/press.releases/1997/q1/961028.pr.rel.emate.html)
 - [Apple Support: Apple eMate 300: Technical Specifications](https://web.archive.org/web/20011228092442/http://karchive.info.apple.com/article.html?artnum=45031)
 - [Newted: eMate 300 User’s Manual](https://www.newted.org/download/manuals/0306251AEMATE300UM.PDF)
-- [Newted: eMate 300 Getting Started](https://www.newted.org/download/manuals/eMate300GettingStarted)
+- [Newted: eMate 300 Getting Started](https://www.newted.org/download/manuals/eMate300GettingStarted.pdf)
 - [UNNA: eMate 300 User’s Manual](http://www.unna.org/unna/apple/documentation/eMate/eMateUserManual.pdf)
 - [UNNA: eMate 300 Getting Started](http://www.unna.org/unna/apple/documentation/eMate/eMateGettingStarted.pdf)
 

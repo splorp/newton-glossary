@@ -15,5 +15,5 @@ Developer of the (link: /terms/deep-green text: Deep Green) chess program.
 Resource:
 
 - [LinkedIn: Joachim Bondo](https://www.linkedin.com/in/joachimbondo)
-- [Cocoa Stuff Website](https://web.archive.org/web/20160501221011/http://cocoastuff.dk/s)
+- [Cocoa Stuff Website](https://web.archive.org/web/20121128235339/http://cocoastuff.dk/)
 - [Deep Green Website](https://deepgreen.app/)

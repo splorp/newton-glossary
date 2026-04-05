@@ -8,7 +8,7 @@ Date: 08 July 2025
 
 Text:
 
-The (link: /terms/action-sound-effect text: action sound effect) played when (link: /terms/scrolling text: scrolling) through items in (link: /terms/application text: applications) such as the (link: /terms/datebook text: Datebook) and (link: /terms/notepad text: Notepad) using the (link: /terms/universal-scroll-arrows text: universal scroll arrows).
+The (link: /terms/action-sound-effects text: action sound effect) played when (link: /terms/scrolling text: scrolling) through items in (link: /terms/application text: applications) such as the (link: /terms/datebook text: Datebook) and (link: /terms/notepad text: Notepad) using the (link: /terms/universal-scroll-arrows text: universal scroll arrows).
 
 Also referred to as (link: /terms/flip text: Flip) and (link: /terms/notepad-scroll-sound text: Notepad Scroll Sound).
 

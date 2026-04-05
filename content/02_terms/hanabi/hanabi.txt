@@ -19,7 +19,7 @@ Using the (link: /terms/tapbar text: TapBar) button manager, Hanabi implemented 
 Resource:
 
 - [Newton Japan: Hanabi Product Information](https://newtonjapan.com/hanabi/) (Japanese)
-- [Newton Japan: iPhoneの日本語入力は「Hanabi」だ！](https://newtonjapan.com/blogO/?p=232) (Japanese)
+- [Newton Japan: iPhoneの日本語入力は「Hanabi」だ！](https://web.archive.org/web/20160325170203/https://newtonjapan.com/blogO/?p=232) (Japanese)
 - [Club Newton: Hanabi Product Information](https://www.clubnewton.com/newton/Hanabi.html) (Japanese)
 
 ----

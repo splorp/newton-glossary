@@ -10,7 +10,7 @@ Text:
 
 eMate Display Cable
 
-The (link: /terms/ribbon cable text: ribbon cable) connecting the (link: /terms/screen text: screen) to the (link: /terms/motherboard text: motherboard) in an (link: /terms/emate-300 text: eMate 300).
+The (link: /terms/ribbon-cable text: ribbon cable) connecting the (link: /terms/screen text: screen) to the (link: /terms/motherboard text: motherboard) in an (link: /terms/emate-300 text: eMate 300).
 
 ----
 

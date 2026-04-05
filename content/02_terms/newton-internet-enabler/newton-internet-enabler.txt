@@ -10,7 +10,7 @@ Text:
 
 Software that runs in the background of (link: /terms/newton-os text: Newton OS), enabling access to the internet and other information services using standard communication protocols such as (link: /terms/tcp-ip text: TCP/IP).
 
-Also referred to as (link: /terms/NIE text: NIE).
+Also referred to as (link: /terms/nie text: NIE).
 
 ----
 

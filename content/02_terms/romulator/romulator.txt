@@ -12,7 +12,7 @@ Read-Only Memory Emulator
 
 A circuit board that connects to another hardware device, replacing (or emulating) the memory on the device itself.
 
-Software code is downloaded into (link: /terms/RAM text: RAM) on the ROMulator and then executed as if it was burned into (link: /terms/rom text: ROM) on the device. This provides an efficient means to quickly test, (link: /terms/debug text: debug), and iterate changes to the code.
+Software code is downloaded into (link: /terms/ram text: RAM) on the ROMulator and then executed as if it was burned into (link: /terms/rom text: ROM) on the device. This provides an efficient means to quickly test, (link: /terms/debug text: debug), and iterate changes to the code.
 
 ----
 

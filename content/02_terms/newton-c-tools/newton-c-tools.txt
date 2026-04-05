@@ -10,7 +10,7 @@ Text:
 
 A complete (link: /terms/macintosh-programmers-workshop text: Macintosh Programmers Workshop) development environment that facilitates the creation and preparation of C++ code for inclusion in (link: /terms/newtonscript text: NewtonScript) programs.
 
-Erroneously referred to as a (link: /terms/newton-c-toolbox text: Newton C++ Toolbox) in the (link: /sources/lantern text: Lantern Data Link Layer Tools) reference.
+Erroneously referred to as a (link: /terms/newton-c-toolbox text: Newton C++ Toolbox) in the (link: /terms/lantern text: Lantern Data Link Layer Tools) reference.
 
 Also referred to as (link: /terms/nct text: NCT).
 

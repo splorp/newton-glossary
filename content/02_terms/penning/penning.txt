@@ -8,7 +8,7 @@ Date: 18 September 2024
 
 Text:
 
-A general term describing any interaction with the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen). This includes actions such as (link: /sources/tapping text: tapping), (link: /sources/dragging text: dragging), or (link: /terms/select text: selecting) text.
+A general term describing any interaction with the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen). This includes actions such as (link: /terms/tapping text: tapping), (link: /terms/dragging text: dragging), or (link: /terms/select text: selecting) text.
 
 ----
 

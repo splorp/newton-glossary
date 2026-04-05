@@ -23,7 +23,7 @@ Also referred to as (link: /terms/nte text: NTE) and (link: /terms/ntencoding te
 Resource:
 
 - [GNUE(鵺): NTEncoding](https://web.archive.org/web/20240715175822/https://so-kukan.com/gnue/newton/ntencoding/)
-- [Newton Research: SimpleMail Newton Text Encoding](https://newtonresearch.org/simplemail/NTE/)
+- [Newton Research: SimpleMail Newton Text Encoding](https://newtonresearch.org/simplemail/nte/)
 
 ----
 

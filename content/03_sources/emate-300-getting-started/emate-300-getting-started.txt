@@ -8,11 +8,11 @@ Date: 19 March 2026
 
 Text:
 
-Published by [Apple](https://www.apple.com/) in 1997, this document provides an introductory look at the features and initial setup of the (link: /terms/emate-300 text: eMate 300) device. It is a companion to the (link: /sources/emate-300-user-manual text: eMate 300 User’s Manual).
+Published by [Apple](https://www.apple.com/) in 1997, this document provides an introductory look at the features and initial setup of the (link: /terms/emate-300 text: eMate 300) device. It is a companion to the (link: /sources/emate-300-users-manual text: eMate 300 User’s Manual).
 
 ----
 
 Resource:
 
-- [Newted: eMate 300 Getting Started](https://www.newted.org/download/manuals/eMate300GettingStarted)
+- [Newted: eMate 300 Getting Started](https://www.newted.org/download/manuals/eMate300GettingStarted.pdf)
 - [UNNA: eMate 300 Getting Started](http://www.unna.org/unna/apple/documentation/eMate/eMateGettingStarted.pdf)
