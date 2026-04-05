@@ -23,16 +23,11 @@ https://getkirby.com/docs/reference/system/options
 */
 
 return [
-	'debug' => false,
+	'debug' => true,
 	'content.uuid' => false,
 	'cache' => [
 		'pages' => [
-			'active' => true
-		]
-	],
-	'panel' => [
-		'vue' => [
-			'compiler' => false
+			'active' => false
 		]
 	],
 	'kirbytext' => [
