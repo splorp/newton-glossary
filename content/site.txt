@@ -86,10 +86,6 @@ Redirects:
   touri: /terms/hideeworld
   code: _301
 - 
-  fromuri: /terms/in-out-box
-  touri: /terms/inout-box
-  code: _301
-- 
   fromuri: /terms/llama-dos
   touri: /terms/llamados
   code: _301
