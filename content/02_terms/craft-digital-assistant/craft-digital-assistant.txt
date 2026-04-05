@@ -8,13 +8,12 @@ Date: 24 August 2016
 
 Text:
 
-A specialized (link: /terms/personal-digital-assistant text: personal digital assistant) (PDA) that can access the [Craft Access System](https://en.wikipedia.org/wiki/Craft_access_system), allowing telecommunication field technicians to access work orders and other information through the telephone system. Also referred to as a (link: /terms/cda text: CDA), playing off the term (link: /terms/pda text: PDA). The Harris Dracon (link: /terms/supertech-2000 text: SuperTech 2000) is an example of a craft digital assistant running (link: /terms/newton-os text: Newton OS).
+A specialized (link: /terms/personal-digital-assistant text: personal digital assistant) (PDA) that can access the [craft access system](/terms/craft-access-system), allowing telecommunication field technicians to access work orders and other information through the telephone system. Also referred to as a (link: /terms/cda text: CDA), playing off the term (link: /terms/pda text: PDA). The Harris Dracon (link: /terms/supertech-2000 text: SuperTech 2000) is an example of a craft digital assistant running (link: /terms/newton-os text: Newton OS).
 
 ----
 
 Resource:
 
-- [Wikipedia: Craft Access System](https://web.archive.org/web/20181221120548/https://en.wikipedia.org/wiki/Craft_access_system)
 - [Byte: The Newton Goes Vertical](https://web.archive.org/web/19990506181350/http://byte.com/art/9501/sec8/art1.htm)
 
 ----
@@ -22,6 +21,7 @@ Resource:
 Related:
 
 - /terms/cda
+- /terms/craft-access-system
 - /terms/dracon
 - /terms/hapi
 - /terms/personal-digital-assistant

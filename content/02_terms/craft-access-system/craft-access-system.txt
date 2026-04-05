@@ -1,0 +1,21 @@
+Title: Craft Access System
+
+----
+
+Date: 05 April 2026
+
+----
+
+Text:
+
+A communication network developed in 1984 by a subsidiary division of AT&T that allowed telephone installers and repair personnel to access work order information using a handheld device connected to the landline telephone system.
+
+The (link: /terms/supertech-2000 text: SuperTech 2000) was a (link: /terms/craft-digital-assistant text: craft digital assistant) based on the (link: /terms/newton-os text: Newton OS) platform that could utilize this system.
+
+----
+
+Related:
+
+- /terms/craft-digital-assistant
+- /terms/dracon
+- /terms/supertech-2000
