@@ -17,7 +17,7 @@ Also referred to as the (link: /terms/nia text: NIA).
 Resource:
 
 - [Silicon Times Report: December 10, 1993](https://www.atariarchives.org/cfn/12/05/03/0377.php)
-- [Computerworld España: Terceras compañías implementan la tecnología Newton de Apple](https://www.computerworld.es/archive/terceras-companias-implementan-la-tecnologia-newton-de-apple-entre-ellas-siemens-y-matsushita)
+- [Computerworld España: Terceras compañías implementan la tecnología Newton de Apple](https://web.archive.org/web/20181211224212/https://www.computerworld.es/archive/terceras-companias-implementan-la-tecnologia-newton-de-apple-entre-ellas-siemens-y-matsushita)
 
 ----
 
