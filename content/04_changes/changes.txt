@@ -25,7 +25,10 @@ Sources: _$s
 
 #### Summary of changes:
 
-+ 
++ Added 13 new terms
++ Added 1 new source
++ Updated and expanded dozens of existing entries
++ Implemented [Kirby Link Scanner](https://github.com/scottboms/kirby-link-scanner) plugin 
 
 ### 5.1.2
 
