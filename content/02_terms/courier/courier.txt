@@ -29,6 +29,7 @@ Related:
 - /terms/pocketweb
 - /terms/raissa
 - /terms/rss
+- /terms/shuffler
 
 ----
 

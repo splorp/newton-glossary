@@ -36,6 +36,7 @@ Related:
 - /terms/newts-cape
 - /terms/newtwap
 - /terms/pocketweb
+- /terms/shuffler
 
 ----
 

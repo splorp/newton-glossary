@@ -27,6 +27,7 @@ Related:
 - /terms/nethopper
 - /terms/newts-cape
 - /terms/pocketweb
+- /terms/shuffler
 - /terms/wap
 
 ----

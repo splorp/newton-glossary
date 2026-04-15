@@ -1,0 +1,18 @@
+Title: Avanti Software
+
+----
+
+Date: 15 April 2026
+
+----
+
+Text:
+
+A software development company founded by Fredrik Holmen and Felix Hagno in 1996. Based in Sweden, Avanti specialized in products for handheld computing platforms including (link: /terms/shuffler text: Shuffler) for (link: /terms/newton-os text: Newton OS).
+
+----
+
+Resource:
+
+- [Avanti Software Website](https://web.archive.org/web/19981202203721/http://www.lectra.se/avanti/avanti.htm)
+- [Avanti Software: Products](https://web.archive.org/web/19981206142921/http://www.lectra.se/avanti/products.htm)
