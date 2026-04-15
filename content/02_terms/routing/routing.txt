@@ -20,6 +20,7 @@ Related:
 - /terms/inout-box
 - /terms/more-routing
 - /terms/out-box
+- /terms/route
 - /terms/routing-format
 - /terms/routing-slip
 - /terms/transport

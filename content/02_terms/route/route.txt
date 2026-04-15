@@ -1,0 +1,17 @@
+Title: Route
+
+----
+
+Date: 14 April 2026
+
+----
+
+Text:
+
+See: (link: /terms/routing text: Routing)
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines
