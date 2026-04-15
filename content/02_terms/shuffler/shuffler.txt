@@ -12,7 +12,7 @@ An (link: /terms/application text: application) developed by (link: /terms/avant
 
 Shuffler also included a feature called (link: /terms/shuffscope text: ShuffScope) mode, which provides a simple way to open or add a URL by (link: /terms/highlighting text: highlighting) the link and (link: /terms/tapping text: tapping) an (link: /terms/icon text: icon) in a small (link: /terms/floating-container-view text: floating container view).
 
-(image: /assets/images/shuffler-2x.gif alt: Screenshot of Shuffler width: 322)
+(image: /assets/images/shuffscope-2x.gif alt: Screenshot of the Shuffler ShuffScope palette width: 137)
 
 Using the integrated application programming interface ((link: /terms/api text: API)), developers could utilize Shuffler to handle organization and storage of internet bookmarks for their own applications.
 
