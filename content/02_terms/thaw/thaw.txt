@@ -10,7 +10,9 @@ Text:
 
 To restore the activity of an (link: /terms/application text: application) or (link: /terms/extension text: extension) package. Thawing a (link: /terms/package text: package) is similar to activating an (link: /terms/external-store text: external store) — such as a (link: /terms/pc-card text: PC card) — that a package is stored on.
 
-To suspend a package, you (link: /terms/freeze text: freeze) it.
+To deactivate a package, you (link: /terms/freeze text: freeze) it.
+
+Freezing and thawing of packages can be performed manually using a utility such as (link: /terms/options text: Options).
 
 ----
 
@@ -18,6 +20,7 @@ Related:
 
 - /terms/freeze
 - /terms/frozen-package
+- /terms/options
 - /terms/package
 - /terms/package-file
 - /terms/snowflake
