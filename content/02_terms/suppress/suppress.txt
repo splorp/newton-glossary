@@ -1,0 +1,40 @@
+Title: Suppress
+
+----
+
+Date: 15 April 2026
+
+----
+
+Text:
+
+To deactivate an (link: /terms/application text: application) or (link: /terms/extension text: extension) package temporarily.
+
+In (link: /terms/newton-os text: Newton OS) 2.0 and later, it is possible for the user to suppress (link: /terms/package text: package) activation.
+
+To suppress activation of packages on the (link: /terms/internal-store text: internal store), press the (link: /terms/reset-button text: reset button), then turn the Newton device over, and hold the (link: /terms/pen text: pen) down somewhere in the left quarter inch of the (link: /terms/screen text: screen).
+
+(image: /assets/images/activate-packages-2x.gif alt: Screenshot of an alert box asking “Do you want to activate the packages on the internet store?” width: 208)
+
+An (link: /terms/alert-box text: alert box) will appear, which lets the user to chose whether to activate packages on the internal store.
+
+----
+
+Related:
+
+- /terms/freeze
+- /terms/frozen-package
+- /terms/options
+- /terms/package
+- /terms/package-file
+- /terms/snowflake
+- /terms/suppressed-package
+- /terms/suppressing
+- /terms/thaw
+- /terms/thawed-package
+
+----
+
+Source:
+
+- /sources/newton-technology-journal

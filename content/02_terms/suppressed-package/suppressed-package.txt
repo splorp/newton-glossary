@@ -1,0 +1,37 @@
+Title: Suppressed Package
+
+----
+
+Date: 15 April 2026
+
+----
+
+Text:
+
+An (link: /terms/package text: package) that has been deactivated (or (link: /terms/suppressed text: suppressed)) temporarily.
+
+Suppressing the activation of a package is a temporary measure usually performed by the (link: /terms/operating-system text: operating system). If the Newton device is (link: /terms/reset text: reset) or a (link: /terms/card text: card) is reinserted, any suppressed packages will be activated. A suppressed package can also be activated by (link: /terms/tapping text: tapping) the package (link: /terms/icon text: icon).
+
+In comparison, a (link: /terms/frozen-package text: frozen package) is deliberately made inactive by the user using a utility to (link: /terms/freeze text: freeze) the package. A frozen package remains inactive until the user deliberately (link: /terms/thaw text: thaws) the package.
+
+When a package is suppressed, the icon is displayed with an ‘X’.
+
+----
+
+Related:
+
+- /terms/corrupt-package
+- /terms/freeze
+- /terms/frozen-package
+- /terms/package
+- /terms/package-file
+- /terms/suppress
+- /terms/suppressed
+- /terms/thaw
+- /terms/thawed-package
+
+----
+
+Source:
+
+- /sources/newton-technology-journal

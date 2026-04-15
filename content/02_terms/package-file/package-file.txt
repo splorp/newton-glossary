@@ -24,6 +24,7 @@ Related:
 - /terms/packagebuddy
 - /terms/packager
 - /terms/pkg
+- /terms/suppressed-package
 - /terms/thawed-package
 
 ----

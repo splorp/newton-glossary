@@ -24,5 +24,7 @@ Related:
 - /terms/package
 - /terms/package-file
 - /terms/snowflake
+- /terms/suppress
+- /terms/suppressed-package
 - /terms/thawed-package
 - /terms/thawing

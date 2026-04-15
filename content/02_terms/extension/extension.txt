@@ -22,6 +22,7 @@ Related:
 - /terms/package
 - /terms/package-file
 - /terms/patch
+- /terms/suppressed-package
 - /terms/system-patch
 - /terms/system-update
 - /terms/thawed-package

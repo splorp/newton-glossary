@@ -26,6 +26,8 @@ Related:
 - /terms/packagebuddy
 - /terms/packager
 - /terms/pkg
+- /terms/suppress
+- /terms/suppressed-package
 - /terms/thaw
 - /terms/thawed-package
 
