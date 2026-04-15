@@ -1,0 +1,17 @@
+Title: Deactivated Package
+
+----
+
+Date: 15 April 2026
+
+----
+
+Text:
+
+See: (link: /terms/frozen-package text: Frozen Package) and (link: /terms/suppressed-package text: Suppressed Package)
+
+----
+
+Source:
+
+- /sources/newton-technology-journal

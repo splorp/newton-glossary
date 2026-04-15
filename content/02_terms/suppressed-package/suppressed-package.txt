@@ -16,6 +16,7 @@ When a package is suppressed, the icon is displayed with an ‘X’.
 
 In comparison, a (link: /terms/frozen-package text: frozen package) is deliberately made inactive by the user using a utility to (link: /terms/freeze text: freeze) the package. A frozen package remains inactive until the user deliberately (link: /terms/thaw text: thaws) the package.
 
+Also referred to as a (link: /terms/deactivated-package text: deactivated package) or (link: /terms/inactive-package text: inactive package).
 
 ----
 
@@ -28,8 +29,10 @@ Resource:
 Related:
 
 - /terms/corrupt-package
+- /terms/deactivated-package
 - /terms/freeze
 - /terms/frozen-package
+- /terms/inactive-package
 - /terms/package
 - /terms/package-file
 - /terms/suppress

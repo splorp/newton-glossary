@@ -16,6 +16,8 @@ Freezing and thawing of packages can be performed using a utility such as (link:
 
 In comparison, a (link: /terms/suppressed-package text: suppressed package) is a package that has been temporarily deactivated by the operating system.
 
+Also referred to as a (link: /terms/deactivated-package text: deactivated package) or (link: /terms/inactive-package text: inactive package).
+
 ----
 
 Resource:
@@ -27,8 +29,10 @@ Resource:
 Related:
 
 - /terms/corrupt-package
+- /terms/deactivated-package
 - /terms/freeze
 - /terms/frozen
+- /terms/inactive-package
 - /terms/options
 - /terms/package
 - /terms/package-file
