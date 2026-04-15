@@ -16,8 +16,6 @@ Related:
 
 - /terms/icon
 - /terms/freeze
-- /terms/freezing
-- /terms/frozen
 - /terms/frozen-package
 - /terms/package
 - /terms/package-file

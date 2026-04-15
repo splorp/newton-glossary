@@ -16,12 +16,9 @@ Related:
 
 - /terms/corrupt-package
 - /terms/freeze
-- /terms/freezing
-- /terms/frozen
 - /terms/frozen-package
 - /terms/package
 - /terms/package-file
 - /terms/snowflake
 - /terms/thaw
 - /terms/thawed
-- /terms/thawing

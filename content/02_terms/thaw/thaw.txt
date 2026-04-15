@@ -17,14 +17,9 @@ To suspend a package, you (link: /terms/freeze text: freeze) it.
 Related:
 
 - /terms/freeze
-- /terms/freezing
-- /terms/frozen
 - /terms/frozen-package
-- /terms/grip-of-death
-- /terms/heap
 - /terms/package
 - /terms/package-file
 - /terms/snowflake
-- /terms/thawed
 - /terms/thawed-package
 - /terms/thawing

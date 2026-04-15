@@ -20,7 +20,6 @@ Related:
 
 - /terms/corrupt-heap
 - /terms/freezing
-- /terms/frozen
 - /terms/frozen-package
 - /terms/grip-of-death
 - /terms/heap
@@ -29,6 +28,4 @@ Related:
 - /terms/package-file
 - /terms/snowflake
 - /terms/thaw
-- /terms/thawed
 - /terms/thawed-package
-- /terms/thawing
