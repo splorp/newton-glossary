@@ -20,6 +20,12 @@ An (link: /terms/alert-box text: alert box) will appear, which lets the user to 
 
 ----
 
+Resource:
+
+- [Newted: Newton Technology Journal: Package Deal](https://www.newted.org/download/manuals/Package_Deal.pdf)
+
+----
+
 Related:
 
 - /terms/freeze

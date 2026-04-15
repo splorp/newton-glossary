@@ -8,11 +8,17 @@ Date: 24 May 2001
 
 Text:
 
-To restore the activity of an (link: /terms/application text: application) or (link: /terms/extension text: extension) package. Thawing a (link: /terms/package text: package) is similar to activating an (link: /terms/external-store text: external store) — such as a (link: /terms/pc-card text: PC card) — that a package is stored on.
+To activate or restore the activity of an (link: /terms/package text: package) that has previously been (link: /terms/frozen text: frozen) or deactivated. Thawing is similar to activating packages on an (link: /terms/external-store text: external store) when inserting a (link: /terms/pc-card text: PC card).
 
 To deactivate a package, you (link: /terms/freeze text: freeze) it.
 
 Freezing and thawing of packages can be performed manually using a utility such as (link: /terms/options text: Options).
+
+----
+
+Resource:
+
+- [Newted: Newton Technology Journal: Package Deal](https://www.newted.org/download/manuals/Package_Deal.pdf)
 
 ----
 
@@ -28,3 +34,9 @@ Related:
 - /terms/suppressed-package
 - /terms/thawed-package
 - /terms/thawing
+
+----
+
+Source:
+
+- /sources/newton-technology-journal

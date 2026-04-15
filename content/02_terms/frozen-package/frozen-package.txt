@@ -8,9 +8,19 @@ Date: 24 May 2001
 
 Text:
 
-A (link: /terms/package text: package) that has been deactivated by (link: /terms/freezing text: freezing) and is not active.
+A (link: /terms/package text: package) that has been manually deactivated by (link: /terms/freezing text: freezing).
 
-When you (link: /terms/freeze text: freeze) a package, the (link: /terms/icon text: icon) changes to a (link: /terms/snowflake text: snowflake).
+When a package is frozen, the (link: /terms/icon text: icon) changes to a (link: /terms/snowflake text: snowflake) and can be activated by (link: /terms/tapping text: tapping) the (link: /terms/icon text: icon).
+
+Freezing and thawing of packages can be performed using a utility such as (link: /terms/options text: Options).
+
+In comparison, a (link: /terms/suppressed-package text: suppressed package) is a package that has been temporarily deactivated by the operating system.
+
+----
+
+Resource:
+
+- [Newted: Newton Technology Journal: Package Deal](https://www.newted.org/download/manuals/Package_Deal.pdf)
 
 ----
 
@@ -19,6 +29,7 @@ Related:
 - /terms/corrupt-package
 - /terms/freeze
 - /terms/frozen
+- /terms/options
 - /terms/package
 - /terms/package-file
 - /terms/snowflake
@@ -31,4 +42,4 @@ Related:
 
 Source:
 
-- /sources/newton-heap-mini-faq
+- /sources/newton-technology-journal
