@@ -1,8 +1,8 @@
-Title: Rectangle
+Title: Square
 
 ----
 
-Date: 24 May 2001
+Date: 15 April 2026
 
 ----
 
@@ -10,7 +10,7 @@ Text:
 
 A (link: /terms/shape text: shape) defined by two points — its top-left and its bottom-right corners — or by four boundaries - its upper, left, bottom, and right sides.
 
-A rectangle whose sides are equal in length is also known as a (link: /terms/square text: square).
+A square is a (link: /terms/rectangle text: rectangle) whose sides are equal in length.
 
 ----
 
@@ -24,6 +24,7 @@ Related:
 - /terms/oval
 - /terms/picture
 - /terms/polygon
+- /terms/rectangle
 - /terms/rounded-rectangle
 - /terms/shape
 - /terms/shapes

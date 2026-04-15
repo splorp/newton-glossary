@@ -25,6 +25,7 @@ Related:
 - /terms/rounded-rectangle
 - /terms/shape
 - /terms/shapes
+- /terms/square
 - /terms/stamp
 - /terms/wedge
 

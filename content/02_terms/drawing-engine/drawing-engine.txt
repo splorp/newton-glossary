@@ -34,6 +34,7 @@ Related:
 - /terms/shape
 - /terms/shape-recognizer
 - /terms/shapes
+- /terms/square
 - /terms/stamp
 - /terms/wedge
 
