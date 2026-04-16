@@ -92,6 +92,7 @@ return [
 			}
 		],
 	],
+	'scottboms.link-scanner.userAgent' => 'curl 7.54.0',
 	'splorp.paperback-export.prefix' => '@@TOC ',
 	'splorp.paperback-export.fields' => ['source' => 'related'],
 	'splorp.paperback-export.includeUnlisted' => true,
