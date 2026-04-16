@@ -8,7 +8,7 @@ Date: 15 April 2026
 
 Text:
 
-An (link: /terms/application text: application) developed by (link: /terms/avanti text: Avanti Software) that allows the user to add, remove, edit, organize, and (link: /terms/route text: route) internet bookmarks. Bookmarked URLs could be opened in other applications such as web browsers or news readers.
+An (link: /terms/application text: application) developed by (link: /sources/avanti text: Avanti Software) that allows the user to add, remove, edit, organize, and (link: /terms/route text: route) internet bookmarks. Bookmarked URLs could be opened in other applications such as web browsers or news readers.
 
 Shuffler also included a feature called (link: /terms/shuffscope text: ShuffScope) mode, which provides a simple way to open or add a URL by (link: /terms/highlighting text: highlighting) the link and (link: /terms/tapping text: tapping) an (link: /terms/icon text: icon) in a small (link: /terms/floating-container-view text: floating container view).
 

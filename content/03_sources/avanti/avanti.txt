@@ -8,7 +8,9 @@ Date: 15 April 2026
 
 Text:
 
-A software development company founded by Fredrik Holmen and Felix Hagno in 1996. Based in Sweden, Avanti created software for handheld computing platforms including (link: /terms/newton-os text: Newton OS). They were likely best known for QuickPress and the (link: /terms/shuffler text: Shuffler) bookmark utility.
+A software development company founded by Fredrik Holmen and Felix Hagno in 1996. Based in Sweden, Avanti created software for handheld computing platforms including (link: /terms/newton-os text: Newton OS).
+
+They were known for software such as QuickPress and the (link: /terms/shuffler text: Shuffler) bookmark utility.
 
 ----
 
