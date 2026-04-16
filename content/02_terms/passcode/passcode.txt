@@ -25,6 +25,7 @@ Related:
 - /terms/apple-notification-service
 - /terms/apple-wireless-messaging-service
 - /terms/beeper-number
+- /terms/change-password-slip
 - /terms/newton-messaging-card
 - /terms/newtonunlock
 - /terms/password

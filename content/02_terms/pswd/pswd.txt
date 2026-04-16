@@ -1,4 +1,4 @@
-Title: Pswd
+Title: pswd
 
 ----
 
@@ -8,10 +8,10 @@ Date: 13 June 2025
 
 Text:
 
-See: (link: /terms/password text: Password) and (link: /terms/password-slip text: Password Slip)
+See: (link: /terms/password text: Password), (link: /terms/password-slip text: Password Slip), and (link: /terms/change-password-slip text: Change Password Slip)
 
 ----
 
 Source:
 
-- /sources/newton-programmers-guide
+- /sources/emate-300-teachers-guide

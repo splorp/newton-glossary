@@ -20,6 +20,7 @@ Resource:
 
 Related:
 
+- /terms/change-password-slip
 - /terms/passcode
 - /terms/pin
 - /terms/password

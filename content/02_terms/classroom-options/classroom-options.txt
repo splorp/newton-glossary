@@ -19,6 +19,7 @@ Settings include selecting a default printer, enabling or disabling spell-checki
 Related:
 
 - /terms/base-classroom-state
+- /terms/change-password-slip
 - /terms/classroom-dock
 - /terms/classroom-exchange
 - /terms/classroom-mode

@@ -20,6 +20,7 @@ The user can also specify how often the PIN is required.
 
 Related:
 
+- /terms/change-password-slip
 - /terms/newtonunlock
 - /terms/passcode
 - /terms/password
