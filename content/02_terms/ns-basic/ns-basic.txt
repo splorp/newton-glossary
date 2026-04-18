@@ -10,6 +10,8 @@ Text:
 
 An implementation of the [BASIC](https://en.wikipedia.org/wiki/BASIC) programming language for (link: /terms/newton-os text: Newton OS). Developed by the <a href="https://www.nsbasic.com/">NS BASIC Corporation</a> based in Toronto, the software was also available for other platforms such as Palm OS and Windows CE.
 
+(image: /assets/images/ns-basic-2x.gif alt: Screenshot of the NS BASIC application showing a program listing and keyboard width: 322)
+
 ----
 
 Resource:
