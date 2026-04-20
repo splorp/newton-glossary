@@ -1,0 +1,39 @@
+Title: NewtCast
+
+----
+
+Date: 20 April 2026
+
+----
+
+Text:
+
+A hardware accessory designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) that plugged into the (link: /terms/newton-interconnect text: Newton InterConnect) port utilizing a special, multiconductor jack to accomodate both audio (link: /terms/input text: input) and audio (link: /terms/output text: output).
+
+NewtCast allowed users to connect Newton devices to headphones as well as other audio equipment for playback and recording.
+
+Due to ability of the InterConnect port to provide power, NewtCast was also compatible with Apple’s high quality [PlainTalk](https://en.wikipedia.org/wiki/PlainTalk) microphones.
+
+----
+
+Resource:
+
+- [Adriano Angelillis): NewtCast](https://web.archive.org/web/20060118094320/http://homepage.mac.com/adriano.angelillis/PhotoAlbum28.html)
+- [Notwen: NewtCast](https://web.archive.org/web/20071023213248/http://notwen.com/newtcast)
+- [Make: Listen to the music on an Apple Newton](https://makezine.com/article/craft/music/listen-to-the-music-on-an/)
+
+----
+
+Related:
+
+- /terms/notwen
+- /terms/headphone-jack
+- /terms/newton-interconnect
+- /terms/recording
+- /terms/sound
+
+----
+
+Source:
+
+- /sources/adriano-angelillis

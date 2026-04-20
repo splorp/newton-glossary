@@ -23,6 +23,7 @@ In the Recording (link: /terms/slip text: slip), the user can specify the audio 
 Related:
 
 - /terms/checklist
+- /terms/newtcast
 - /terms/note
 - /terms/notepad
 - /terms/outline

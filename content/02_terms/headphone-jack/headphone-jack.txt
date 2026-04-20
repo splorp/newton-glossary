@@ -18,6 +18,7 @@ Related:
 
 - /terms/headphone-port
 - /terms/mini-plug
+- /terms/newtcast
 - /terms/output
 - /terms/sound
 

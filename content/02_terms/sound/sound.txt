@@ -27,6 +27,7 @@ Related:
 - /terms/channel
 - /terms/codec
 - /terms/decibel
+- /terms/newtcast
 - /terms/nr404
 - /terms/output
 - /terms/pen-sound-effects
