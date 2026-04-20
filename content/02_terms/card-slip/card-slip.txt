@@ -22,6 +22,8 @@ A card slip is displayed automatically when a PC card is inserted. It can also b
 
 Related:
 
+- /terms/backup
+- /terms/backup-slip
 - /terms/card
 - /terms/container-view
 - /terms/external-store
@@ -29,6 +31,8 @@ Related:
 - /terms/locked-switch-icon
 - /terms/pc-card
 - /terms/pcmcia
+- /terms/restore
+- /terms/restore-slip
 - /terms/slip
 - /terms/storage-card
 - /terms/unlocked-icon

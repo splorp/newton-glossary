@@ -17,6 +17,7 @@ A backup file created by (link: /terms/newton-backup-utility text: Newton Backup
 Related:
 
 - /terms/backup
+- /terms/backup-slip
 - /terms/card-file
 - /terms/nbk
 - /terms/nbku
@@ -24,6 +25,7 @@ Related:
 - /terms/newton-backup-utility
 - /terms/newton-connection-utilities
 - /terms/restore
+- /terms/restore-slip
 - /terms/storage-card
 
 ----

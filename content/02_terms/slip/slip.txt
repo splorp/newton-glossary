@@ -20,6 +20,7 @@ Related:
 
 - /terms/active-slip
 - /terms/assist-slip
+- /terms/backup-slip
 - /terms/call-slip
 - /terms/card-slip
 - /terms/change-password-slip
@@ -33,6 +34,7 @@ Related:
 - /terms/memory-info-slip
 - /terms/notification-slip
 - /terms/password-slip
+- /terms/restore-slip
 - /terms/routing-slip
 - /terms/status-slip
 - /terms/sound-recorder-slip

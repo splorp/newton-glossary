@@ -1,0 +1,34 @@
+Title: Restore Slip
+
+----
+
+Date: 20 April 2026
+
+----
+
+Text:
+
+A (link: /terms/container-view text: container view) providing an interface that allows the user to restore information from a (link: /terms/backup text: backup).
+
+When a (link: /terms/storage-card text: storage card) is inserted into the (link: /terms/card-slot text: card slot), a (link: /terms/card-slip text: card slip) appears. If a (link: /terms/backup-file text: backup file) exists on the card, tapping the Restore (link: /terms/button text: button) in the card slip opens a restore slip. The user can then select which (link: /terms/application text: application) information and (link: /terms/package text: packages) to copy from the backup to the Newton device.
+
+(image: /assets/images/restore-slip-2x.gif alt: Screenshot of a Restore Slip displaying options regarding the information to be restored from a storage card width: 236)
+
+----
+
+Related:
+
+- /terms/backup
+- /terms/backup-file
+- /terms/backup-slip
+- /terms/card-slip
+- /terms/restore
+- /terms/slip
+- /terms/storage-card
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
+- /sources/emate-300-teachers-guide

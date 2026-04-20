@@ -1,0 +1,38 @@
+Title: Backup Slip
+
+----
+
+Date: 20 April 2026
+
+----
+
+Text:
+
+A (link: /terms/container-view text: container view) providing an interface that allows the user to create a (link: /terms/backup text: backup) of the information on a Newton device.
+
+When a (link: /terms/storage-card text: storage card) is inserted into the (link: /terms/card-slot text: card slot), a (link: /terms/card-slip text: card slip) appears. (link: /terms/tapping text: Tapping) the Backup (link: /terms/button text: button) in the card slip opens a backup slip. The user can then select which (link: /terms/application text: application) information should be backed up, as well as any (link: /terms/package text: packages) that have been installed.
+
+A (link: /terms/backup-file text: backup file) of the selected data will be saved to the storage card.
+
+(image: /assets/images/backup-slip-2x.gif alt: Screenshot of a Backup Slip displaying options regarding the information to be backed up to a storage card width: 236)
+
+To (link: /terms/restore text: restore) the data that has beeen backed up to the card, the user (link: /terms/tap text: taps) the Restore button in the card slip.
+
+----
+
+Related:
+
+- /terms/backup
+- /terms/backup-file
+- /terms/card-slip
+- /terms/restore
+- /terms/restore-slip
+- /terms/slip
+- /terms/storage-card
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
+- /sources/emate-300-teachers-guide

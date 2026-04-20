@@ -19,12 +19,14 @@ Backup can also refer to the (link: /terms/backup-battery text: backup battery) 
 Related:
 
 - /terms/backup-file
+- /terms/backup-slip
 - /terms/card-slip
 - /terms/nbk
 - /terms/nbku
 - /terms/newton-backup-express
 - /terms/newton-backup-utility
 - /terms/restore
+- /terms/restore-slip
 - /terms/storage-card
 
 ----

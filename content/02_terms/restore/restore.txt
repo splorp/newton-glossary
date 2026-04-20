@@ -18,10 +18,12 @@ Related:
 
 - /terms/backup
 - /terms/backup-file
+- /terms/backup-slip
 - /terms/nbk
 - /terms/nbku
 - /terms/newton-backup-express
 - /terms/newton-backup-utility
+- /terms/restore-slip
 - /terms/soft-reset
 
 ----
