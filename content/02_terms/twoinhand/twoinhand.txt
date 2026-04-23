@@ -1,0 +1,32 @@
+Title: TwoInHand
+
+----
+
+Date: 23 April 2026
+
+----
+
+Text:
+
+An [Apple II](https://en.wikipedia.org/wiki/Apple_II) emulator for (link: /terms/newton-os text: Newton OS) rumoured to have been in development by (link: /sources/peter-liethen text: Peter Liethen). Although it was never released, TwoInHand purportedly emulated a 128K Apple IIc computer equipped with dual floppy drives, as well as (link: /terms/modem text: modem) and printer ports.
+
+----
+
+Resource:
+
+- [The Ultimate Learn And Resource Center: TwoInHand](https://stason.org/TULARC/pc/apple2/emulator/2-3-1-TwoInHand.html)
+- [Very Computer: Wanted: TwoInHand Alpha Testers](https://web.archive.org/web/20210923170919/http://www.verycomputer.com/20_ebe75f50b1436af4_1.htm)
+- [Very Computer: TwoInHand, Should it be taken further?](https://web.archive.org/web/20171207222952/http://www.verycomputer.com/20_4e0035a72cb4287a_1.htm)
+- [RetroComputing Forum: Two in Hand Emulator](https://retrocomputingforum.com/t/two-in-hand-emulator/970)
+
+----
+
+Related:
+
+- /terms/newtendo
+
+----
+
+Source:
+
+- /sources/peter-liethen
