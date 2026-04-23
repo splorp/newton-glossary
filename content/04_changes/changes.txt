@@ -262,7 +262,7 @@ Sources: 173
 + Descriptions in the (link: /latest/feed text: RSS feed) are now CDATA encoded
 + Updated a few glossarial references on the (link: /about text: About) page
 + Updated [Kirby Redirects](https://github.com/bnomei/kirby3-redirects) plugin to version [4.2.1](https://github.com/bnomei/kirby3-redirects/releases/tag/v4.2.1)
-+ Updated [Kirby](https://getkirby.com/) to version [4.3.1](https://github.com/getkirby/kirby/releases/tag/4.3.1) for security patch
++ Updated [Kirby](https://getkirby.com/) to version [4.3.1](https://github.com/getkirby/kirby/releases/tag/4.3.1)
 
 ### 4.2.1
 
@@ -339,7 +339,7 @@ Sources: 146
 
 + Added 2 new terms
 + Updated and expanded several existing entries
-+ Updated [Kirby](https://getkirby.com/) to version [3.10.0.1](https://github.com/getkirby/kirby/releases/tag/3.10.0.1) for security patch
++ Updated [Kirby](https://getkirby.com/) to version [3.10.0.1](https://github.com/getkirby/kirby/releases/tag/3.10.0.1)
 
 ### 3.1.2
 
@@ -355,7 +355,7 @@ Sources: 146
 + Updated and expanded dozens of existing entries
 + Added descriptions to the (link: /latest/feed text: RSS feed) for the (link: /latest text: Latest Additions) page
 + Updated the (link: /robots.txt text: robots.txt) file to exclude AI content scrapers
-+ Updated [Kirby](https://getkirby.com/) to version [3.10.0](https://github.com/getkirby/kirby/releases/tag/3.10.0) for [PHP 8.3](https://www.php.net/releases/8.3/en.php) support
++ Updated [Kirby](https://getkirby.com/) to version [3.10.0](https://github.com/getkirby/kirby/releases/tag/3.10.0)
 
 ### 3.1.1
 
@@ -519,8 +519,8 @@ Sources: 135
 + Added 2 new terms
 + Added 2 new sources
 + Updated and expanded several existing entries
-+ Updated [Kirby](https://getkirby.com/) to version [2.5.14](https://github.com/getkirby-v2/kirby/releases/tag/2.5.14) for security patch
-+ Updated [Parsedown](https://github.com/erusev/parsedown) to version [1.7.2](https://github.com/erusev/parsedown/releases/tag/1.7.2) for security patch
++ Updated [Kirby](https://getkirby.com/) to version [2.5.14](https://github.com/getkirby-v2/kirby/releases/tag/2.5.14)
++ Updated [Parsedown](https://github.com/erusev/parsedown) to version [1.7.2](https://github.com/erusev/parsedown/releases/tag/1.7.2)
 
 ### 2.4.5
 
@@ -535,7 +535,7 @@ Sources: 133
 + Added 5 new sources
 + Updated and expanded dozens of existing entries
 + Moved device and meta images into their own directories
-+ Updated [Kirby](https://getkirby.com/) to version [2.5.13](https://github.com/getkirby-v2/kirby/releases/tag/2.5.13) for [PHP 7.4](https://www.php.net/releases/7_4_0.php) support
++ Updated [Kirby](https://getkirby.com/) to version [2.5.13](https://github.com/getkirby-v2/kirby/releases/tag/2.5.13)
 
 ### 2.4.4
 
