@@ -18,6 +18,7 @@ Classroom Dock can be selected as the default (link: /terms/docking text: dockin
 
 Related:
 
+- /terms/at-ease
 - /terms/auto-dock
 - /terms/base-classroom-state
 - /terms/classroom-exchange

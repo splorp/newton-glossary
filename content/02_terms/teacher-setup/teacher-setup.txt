@@ -18,6 +18,7 @@ The settings specified using Teacher Setup can be used to make up a (link: /term
 
 Related:
 
+- /terms/at-ease
 - /terms/base-classroom-state
 - /terms/classroom-dock
 - /terms/classroom-exchange

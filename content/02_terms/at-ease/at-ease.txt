@@ -1,0 +1,42 @@
+Title: At Ease
+
+----
+
+Date: 25 April 2026
+
+----
+
+Text:
+
+Software developed by [Apple](https://www.apple.com/) that provided a simplified alternative to the Mac OS Finder. Individual users were granted limited access to various Mac OS features, safeguarding both the (link: /terms/operating-system text: operating system) and individual user data.
+
+(link: /terms/classroom-exchange text: Classroom Exchange) transferred data between user accounts on an (link: /terms/emate-300 text: eMate 300) device and individual user folders on a Mac OS computer running At Ease.
+
+(link: /terms/at-ease-for-workgroups text: At Ease for Workgroups) allowed users to log into to a common server from any Mac OS computer running the At Ease software.
+
+----
+
+Resource:
+
+- [Wikipedia: At Ease](https://en.wikipedia.org/wiki/At_Ease)
+
+----
+
+Related:
+
+- /terms/at-ease-for-workgroups
+- /terms/base-classroom-state
+- /terms/classroom-dock
+- /terms/classroom-exchange
+- /terms/classroom-mode
+- /terms/classroom-options
+- /terms/emate-300
+- /terms/full-newton-system
+- /terms/teacher-setup
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/wikipedia

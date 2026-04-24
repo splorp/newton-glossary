@@ -27,6 +27,7 @@ Resource:
 
 Related:
 
+- /terms/at-ease
 - /terms/backlight
 - /terms/backlit
 - /terms/base-classroom-state

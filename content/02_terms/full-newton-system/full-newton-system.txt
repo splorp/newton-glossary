@@ -18,6 +18,7 @@ The alternative to Full Newton System mode is (link: /terms/classroom-mode text:
 
 Related:
 
+- /terms/at-ease
 - /terms/base-classroom-state
 - /terms/classroom-dock
 - /terms/classroom-exchange

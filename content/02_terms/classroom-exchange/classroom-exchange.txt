@@ -18,6 +18,7 @@ Also referred to as (link: /terms/emate-classroom-exchange text: eMate Classroom
 
 Related:
 
+- /terms/at-ease
 - /terms/base-classroom-state
 - /terms/classroom-dock
 - /terms/classroom-mode

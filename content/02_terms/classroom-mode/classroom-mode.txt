@@ -18,6 +18,7 @@ The alternative to Classroom Mode is (link: /terms/full-newton-system text: Full
 
 Related:
 
+- /terms/at-ease
 - /terms/base-classroom-state
 - /terms/classroom-dock
 - /terms/classroom-exchange
