@@ -33,6 +33,7 @@ Related:
 - /terms/dock
 - /terms/docking
 - /terms/emate-300
+- /terms/full-newton-system
 - /terms/teacher-password
 - /terms/teacher-setup
 
