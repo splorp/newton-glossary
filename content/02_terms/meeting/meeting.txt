@@ -10,6 +10,8 @@ Text:
 
 An entry in the (link: /terms/date-book text: Date Book) application for a specific time during the day. People can be invited and the meeting can be scheduled for a particular location.
 
+The time and duration of the meeting can be changed by (link: /terms/dragging text: dragging) the vertical (link: /terms/marker text: marker) associated with the meeting.
+
 ----
 
 Related:
@@ -20,6 +22,7 @@ Related:
 - /terms/date-picker
 - /terms/dates-navigator
 - /terms/event
+- /terms/marker
 - /terms/meeting-notes
 - /terms/mini-calendar
 - /terms/moreinfo
