@@ -30,6 +30,7 @@ Related:
 - /terms/newttodo
 - /terms/nitch
 - /terms/to-do-list
+- /terms/to-do-task
 
 ----
 

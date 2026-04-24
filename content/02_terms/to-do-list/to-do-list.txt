@@ -8,7 +8,7 @@ Date: 09 November 2017
 
 Text:
 
-A daily (link: /terms/checklist text: checklist) in the (link: /terms/date-book text: Date Book) application which allows the user to create and prioritize tasks. Tasks are marked as completed by (link: /terms/tapping text: tapping) a (link: /terms/checkbox text: checkbox). Uncompleted tasks are carried over to the next day.
+A daily (link: /terms/checklist text: checklist) in the (link: /terms/date-book text: Date Book) application which allows the user to create and prioritize (link: /terms/task text: tasks). Tasks are marked as completed by (link: /terms/tapping text: tapping) a (link: /terms/checkbox text: checkbox). Uncompleted tasks are carried over to the next day.
 
 ----
 
@@ -21,6 +21,7 @@ Related:
 - /terms/newttodo
 - /terms/nitch
 - /terms/notion
+- /terms/to-do-task
 
 ----
 

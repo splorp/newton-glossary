@@ -33,6 +33,7 @@ Related:
 - /terms/notion
 - /terms/personal-information-manager
 - /terms/to-do-list
+- /terms/to-do-task
 
 ----
 

@@ -10,7 +10,7 @@ Text:
 
 Software developed by (link: /sources/seamless-software text: Seamless Software) that provided (link: /terms/synchronization text: synchronization) between a Newton device and Microsoft Outlook running on a Windows computer.
 
-LookOut supported synchronization Outlook contacts with the (link: /terms/name-file text: Name File), appointments with the (link: /terms/date-book text: Date Book), and tasks the (link: /terms/to-do-list text: To Do List).
+LookOut supported synchronization Outlook contacts with the (link: /terms/name-file text: Name File), appointments with the (link: /terms/date-book text: Date Book), and (link: /terms/to-do-list text: To Do List) tasks.
 
 ----
 

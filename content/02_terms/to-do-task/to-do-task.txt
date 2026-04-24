@@ -1,0 +1,38 @@
+Title: To Do Task
+
+----
+
+Date: 24 April 2026
+
+----
+
+Text:
+
+A item in the (link: /terms/to-do-list text: To Do List).
+
+Information regarding a (link: /terms/task text: task) appears in a (link: /terms/slip text: slip) and can include a title, a date when the task is to be completed, a priority level, the number of days until a reminder is displayed, and the option to have the task repeat after a specific period.
+
+(image: /assets/images/to-do-task-2x.gif alt: Screenshot of a To Do Task slip width: 280)
+
+----
+
+Related:
+
+- /terms/checklist
+- /terms/date-book
+- /terms/date-picker
+- /terms/dates-navigator
+- /terms/flashpoint
+- /terms/getting-things-done
+- /terms/newttodo
+- /terms/nitch
+- /terms/notion
+- /terms/task
+- /terms/task
+- /terms/to-do-list
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
