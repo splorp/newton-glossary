@@ -1,0 +1,17 @@
+Title: Minicalendar
+
+----
+
+Date: 24 April 2026
+
+----
+
+Text:
+
+See: (link: /terms/mini-calendar text: Mini-Calendar)
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

@@ -20,6 +20,7 @@ Related:
 - /terms/calendar
 - /terms/date-book
 - /terms/dateman
+- /terms/date-picker
 - /terms/dates-navigator
 - /terms/keystroke-events
 - /terms/meeting

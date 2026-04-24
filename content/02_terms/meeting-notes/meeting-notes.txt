@@ -22,6 +22,7 @@ Related:
 - /terms/calendar
 - /terms/calendar-notes
 - /terms/date-book
+- /terms/date-picker
 - /terms/dates-navigator
 - /terms/day-notes
 - /terms/edit-notes

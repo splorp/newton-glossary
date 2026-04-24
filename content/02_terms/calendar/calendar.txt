@@ -17,6 +17,7 @@ Calendar is also category of information in the (link: /terms/newton-connection 
 Related:
 
 - /terms/date-book
+- /terms/date-picker
 - /terms/dates-navigator
 - /terms/event
 - /terms/meeting

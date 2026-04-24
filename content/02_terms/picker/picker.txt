@@ -19,6 +19,7 @@ Related:
 - /terms/action-picker
 - /terms/button
 - /terms/caret-picker
+- /terms/date-picker
 - /terms/diamond
 - /terms/index-tab
 - /terms/info-picker

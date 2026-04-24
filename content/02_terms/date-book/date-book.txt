@@ -21,6 +21,7 @@ Related:
 - /terms/datebook
 - /terms/dateman
 - /terms/dates
+- /terms/date-picker
 - /terms/dates-navigator
 - /terms/event
 - /terms/flashpoint

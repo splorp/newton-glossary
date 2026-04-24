@@ -1,0 +1,36 @@
+Title: Date Picker
+
+----
+
+Date: 24 April 2026
+
+----
+
+Text:
+
+A (link: /terms/picker text: picker) designed to simplify the process of specifying a date by means of a small, onscreen (link: /terms/calendar text: calendar).
+
+(image: /assets/images/date-picker-2x.gif alt: Screenshot of a Date Picker width: 139)
+
+Also referred to as a (link: /terms/dates-navigator text: Dates Navigator).
+
+----
+
+Related:
+
+- /terms/calendar
+- /terms/date-book
+- /terms/dates-navigator
+- /terms/event
+- /terms/meeting
+- /terms/mini-calendar
+- /terms/picker
+- /terms/to-do-list
+- /terms/to-do-task
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

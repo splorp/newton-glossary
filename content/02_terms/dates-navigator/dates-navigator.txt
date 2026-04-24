@@ -10,7 +10,7 @@ Text:
 
 A small, onscreen (link: /terms/calendar text: calendar) used to move from one day to the next when viewing (link: /terms/meeting text: meetings), (link: /terms/event text: events), or (link: /terms/to-do-list text: to-do list) items in the (link: /terms/newton-connection text: Newton Connection) application.
 
-Also referred to as a (link: /terms/mini-calendar text: Mini-Calendar).
+Also referred to as a (link: /terms/date-picker text: Date Picker).
 
 ----
 
@@ -18,6 +18,7 @@ Related:
 
 - /terms/calendar
 - /terms/date-book
+- /terms/date-picker
 - /terms/event
 - /terms/meeting
 - /terms/mini-calendar
