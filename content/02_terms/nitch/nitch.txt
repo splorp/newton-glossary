@@ -31,9 +31,9 @@ Related:
 - /terms/notion
 - /terms/priority-button
 - /terms/priority-picker
+- /terms/stationery
 - /terms/to-do-list
 - /terms/to-do-task
-- /terms/stationery
 
 ----
 

@@ -22,7 +22,7 @@ Also referred to as (link: /terms/nil-library text: NIL).
 
 Resource:
 
-- [Newted: Newton Internet Library](https://newted.org/resources/nil/)
+- [Newted: Newton Internet Library](https://www.newted.org/resources/nil/)
 - [CommuniCrossings: newtVNC Product Information](https://communicrossings.com/html/newton/vnc.htm)
 
 ----

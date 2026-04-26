@@ -24,6 +24,7 @@ Resource:
 Related:
 
 - /terms/checklist
+- /terms/date-book
 - /terms/getting-things-done
 - /terms/newttodo
 - /terms/nitch
@@ -33,6 +34,7 @@ Related:
 - /terms/priority-picker
 - /terms/stationery
 - /terms/to-do-list
+- /terms/to-do-task
 
 ----
 
