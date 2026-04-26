@@ -8,9 +8,18 @@ Date: 18 December 2001
 
 Text:
 
-Software developed by [Standalone Software](https://standalone.com/) which works in conjunction with the built-in (link: /terms/name-file text: Name File) and (link: /terms/date-book text: Date Book) to give an overall view of your entire agenda.
+An (link: /terms/application text: application) developed by (link: /sources/stand-alone text: Stand Alone) described as a _“Complete Contact Management Solution”_. DateMan works in conjunction with the built-in (link: /terms/name-file text: Name File) and (link: /terms/date-book text: Date Book) applications to give the user an streamlined view of their entire agenda.
 
 Also referred to as (link: /terms/dm text: DM).
+
+----
+
+Resource:
+
+- [Stand Alone Software: DateMan 3.21](https://standalone.com/newtonos/dateman/download)
+- [UNNA: DateMan 3.2](http://www.unna.org/view.php?/applications/pim/DateMan32)
+- [UNNA: DateMan 3.21](http://www.unna.org/view.php?/applications/pim/DateMan3.21)
+- [Newted: DateMan 3.1 User’s Manual](https://www.newted.org/download/manuals/DateMan31UsersManual.pdf)
 
 ----
 
@@ -25,3 +34,9 @@ Related:
 - /terms/name-file
 - /terms/personal-information-manager
 - /terms/pimple
+
+----
+
+Source:
+
+- /sources/stand-alone

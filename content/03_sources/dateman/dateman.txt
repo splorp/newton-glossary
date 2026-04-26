@@ -1,0 +1,19 @@
+Title: DateMan User’s Manual
+
+----
+
+Date: 26 April 2026
+
+----
+
+Text:
+
+The user manual for (link: /terms/dateman text: DateMan), a contact management application developed by (link: /sources/stand-alone text: Stand Alone).
+
+----
+
+Resource:
+
+- [Newted: NetHopper 3.0 User’s Manual](https://www.newted.org/download/manuals/NetHopper30UsersManual.pdf)
+- [Newted: NetHopper 3.2 User’s Manual](https://www.newted.org/download/manuals/NetHopper32UsersManual.pdf)
+- [UNNA: NetHopper 3.2 User’s Manual](http://www.unna.org/unna/internet/web-browsers/NetHopper3.2/NetHopper_3.2_User%27s_Guide.pdf)

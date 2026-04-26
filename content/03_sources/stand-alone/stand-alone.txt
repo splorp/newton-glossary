@@ -1,0 +1,18 @@
+Title: Stand Alone
+
+----
+
+Date: 26 April 2026
+
+----
+
+Text:
+
+A software development company founded by Ben Gottlieb in 1995. Initially specializing in the (link: /terms/newton-os text: Newton OS) platform with (link: /terms/application text: applications) such as (link: /terms/dateman text: DateMan), Stand Alone expanded into developing software for multiple platforms, including iOS, macOS, Palm OS, Android, Pocket PC, and Windows.
+
+----
+
+Resource:
+
+- [Stand Alone Website](https://standalone.com/)
+- [Stand Alone: Newton OS Software](https://standalone.com/newtonos/)
