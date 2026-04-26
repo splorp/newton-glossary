@@ -8,7 +8,7 @@ Date: 09 November 2017
 
 Text:
 
-Software developed by (link: /sources/adam-tow text: Adam Tow) that allows the user to efficiently manage (link: /terms/task text: tasks) using a Newton device. Features include reminders with (link: /terms/alarm text: alarms), repeating tasks, additional priority levels, flexible options for sorting and filing, a customizable (link: /terms/user-interface text: user interface), and the ability to automatically import (link: /terms/to-do-list text: To Do List) tasks from the (link: /terms/date-book text: Date Book) application.
+Software developed by (link: /sources/adam-tow text: Adam Tow) that allows the user to efficiently manage (link: /terms/task text: tasks) using a Newton device. Features include reminders with (link: /terms/alarm text: alarms), repeating tasks, additional (link: /terms/priority text: priority) levels, flexible options for sorting and filing, a customizable (link: /terms/user-interface text: user interface), and the ability to automatically import (link: /terms/to-do-list text: To Do List) tasks from the (link: /terms/date-book text: Date Book) application.
 
 (image: /assets/images/newttodo-2x.gif alt: Screenshot of newtToDo width: 288)
 
@@ -30,6 +30,8 @@ Related:
 - /terms/nitch
 - /terms/notion
 - /terms/persistent-alarms
+- /terms/priority-button
+- /terms/priority-picker
 - /terms/to-do-list
 - /terms/to-do-task
 

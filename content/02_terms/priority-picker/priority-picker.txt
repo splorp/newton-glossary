@@ -1,0 +1,34 @@
+Title: Priority Picker
+
+----
+
+Date: 26 April 2026
+
+----
+
+Text:
+
+A (link: /terms/picker text: picker) that allows the user to set a level of importance to a (link: /terms/task text: task) in the (link: /terms/to-do-list text: To Do List).
+
+(image: /assets/images/priority-picker-2x.gif alt: Screenshot of a Priority Picker width: 144)
+
+Also referred to as a (link: /terms/priority-menu text: Priority Menu) and (link: /terms/priority-popup text: Priority Popup).
+
+----
+
+Related:
+
+- /terms/date-book
+- /terms/flashpoint
+- /terms/getting-things-done
+- /terms/newttodo
+- /terms/nitch
+- /terms/notion
+- /terms/picker
+- /terms/priority
+- /terms/priority-button
+- /terms/priority-menu
+- /terms/priority-popup
+- /terms/to-do-list
+- /terms/to-do-task
+- /terms/user-interface

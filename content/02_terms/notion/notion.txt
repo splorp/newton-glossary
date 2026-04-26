@@ -29,6 +29,8 @@ Related:
 - /terms/getting-things-done
 - /terms/newttodo
 - /terms/nitch
+- /terms/priority-button
+- /terms/priority-picker
 - /terms/to-do-list
 - /terms/to-do-task
 

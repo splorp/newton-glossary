@@ -36,6 +36,8 @@ Related:
 - /terms/persistent-alarms
 - /terms/personal-information-manager
 - /terms/pimple
+- /terms/priority-button
+- /terms/priority-picker
 - /terms/to-do-list
 - /terms/to-do-task
 

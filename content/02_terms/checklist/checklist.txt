@@ -24,6 +24,8 @@ Related:
 - /terms/notepad
 - /terms/notion
 - /terms/outline
+- /terms/priority-button
+- /terms/priority-picker
 - /terms/recording
 - /terms/sound-stationery
 - /terms/stationery

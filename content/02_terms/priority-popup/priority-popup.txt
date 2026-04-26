@@ -1,0 +1,17 @@
+Title: Priority Popup
+
+----
+
+Date: 26 April 2026
+
+----
+
+Text:
+
+See: (link: /terms/priority-picker text: Priority Picker)
+
+----
+
+Source:
+
+- /sources/newton-technology-journal

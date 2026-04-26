@@ -10,7 +10,7 @@ Text:
 
 A item in the (link: /terms/to-do-list text: To Do List).
 
-Information regarding a (link: /terms/task text: task) appears in a (link: /terms/slip text: slip) and can include a title, a date when the task is to be completed, a priority level, the number of days until a reminder is displayed, and the option to have the task repeat after a specific period.
+Information regarding a (link: /terms/task text: task) appears in a (link: /terms/slip text: slip) and can include a title, a date when the task is to be completed, a (link: /terms/priority text: priority) level, the number of days until a reminder is displayed, and the option to have the task repeat after a specific period.
 
 (image: /assets/images/to-do-task-2x.gif alt: Screenshot of a To Do Task slip width: 280)
 
@@ -27,7 +27,9 @@ Related:
 - /terms/newttodo
 - /terms/nitch
 - /terms/notion
-- /terms/task
+- /terms/priority
+- /terms/priority-button
+- /terms/priority-picker
 - /terms/task
 - /terms/to-do-list
 

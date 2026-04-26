@@ -29,6 +29,8 @@ Related:
 - /terms/newttodo
 - /terms/notepad
 - /terms/notion
+- /terms/priority-button
+- /terms/priority-picker
 - /terms/to-do-list
 - /terms/to-do-task
 - /terms/stationery

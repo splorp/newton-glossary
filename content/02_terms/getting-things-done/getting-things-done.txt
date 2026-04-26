@@ -31,6 +31,8 @@ Related:
 - /terms/newttodo
 - /terms/nitch
 - /terms/notion
+- /terms/priority-button
+- /terms/priority-picker
 - /terms/to-do-list
 - /terms/to-do-task
 

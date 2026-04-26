@@ -1,0 +1,48 @@
+Title: Priority Button
+
+----
+
+Date: 26 April 2026
+
+----
+
+Text:
+
+A (link: /terms/picture-button text: picture button) associated with a (link: /terms/to-do-task text: to do task) that indicates the level of importance assigned to that (link: /terms/task text: task).
+
+A task can be assigned a priority of 1, 2, 3, or ! (None).
+
+To change the (link: /terms/priority text: priority) level of a (link: /terms/to-do-list text: To Do List) task, (link: /terms/tap text: tap) the picture button and (link: /terms/drag text: drag) it.
+
+Dragging the task above a higher priority item gives it a higher priority.
+
+Dragging the task below a lower priority item gives it a lower priority.
+
+The priority of task can also be changed by (link: /terms/tapping text: tapping) the priority button to open a (link: /terms/slip text: slip) where a new priority level can be selected using the (link: /terms/priority-picker text: priority picker).
+
+Also referred to as a (link: /terms/priority-marker text: Priority Marker).
+
+----
+
+Related:
+
+- /terms/button
+- /terms/date-book
+- /terms/flashpoint
+- /terms/getting-things-done
+- /terms/newttodo
+- /terms/nitch
+- /terms/notion
+- /terms/picture-button
+- /terms/priority
+- /terms/priority-marker
+- /terms/priority-picker
+- /terms/to-do-list
+- /terms/to-do-task
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995

@@ -32,6 +32,7 @@ Related:
 - /terms/please-picker
 - /terms/pop-up
 - /terms/pop-up-list
+- /terms/priority-picker
 - /terms/protocol-picker
 - /terms/recognizer-picker
 - /terms/show-picker
