@@ -8,9 +8,9 @@ Date: 27 April 2026
 
 Text:
 
-An (link: /terms/application text: application) created by (link: /sources/daniel-padilla-roldan text: Daniel Padilla Roldán) which provided a means to control certain iPod models using a Newton device and a custom (link: /terms/newton-interconnect text: Newton InterConnect) cable such as Adriano Angelillis’ (link: /terms/NewtPod text: NewtPod).
+An (link: /terms/application text: application) created by (link: /sources/daniel-padilla-roldan text: Daniel Padilla Roldán) that can control iPod models with an [iPod Remote](https://apple.fandom.com/wiki/IPod_Remote) port using a Newton device and a custom (link: /terms/newton-interconnect text: Newton InterConnect) cable such as Adriano Angelillis’ (link: /terms/NewtPod text: NewtPod).
 
-(image: /assets/images/about-newttunes-2x.gif alt: Screenshot of the newtTunes application width: 256)
+(image: /assets/images/newttunes-2x.gif alt: Screenshot of the newtTunes application width: 256)
 
 Also referred to as (link: /terms/ipodcontrol text: iPodControl).
 
