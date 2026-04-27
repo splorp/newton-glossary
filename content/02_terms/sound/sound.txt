@@ -28,6 +28,8 @@ Related:
 - /terms/codec
 - /terms/decibel
 - /terms/newtcast
+- /terms/newtpod
+- /terms/newttunes
 - /terms/nr404
 - /terms/output
 - /terms/pen-sound-effects

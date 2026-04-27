@@ -24,6 +24,8 @@ Related:
 
 - /terms/checklist
 - /terms/newtcast
+- /terms/newtpod
+- /terms/newttunes
 - /terms/note
 - /terms/notepad
 - /terms/outline

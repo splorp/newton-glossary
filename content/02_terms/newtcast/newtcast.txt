@@ -26,9 +26,11 @@ Resource:
 
 Related:
 
-- /terms/notwen
 - /terms/headphone-jack
 - /terms/newton-interconnect
+- /terms/newtpod
+- /terms/newttunes
+- /terms/notwen
 - /terms/recording
 - /terms/sound
 

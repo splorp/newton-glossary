@@ -25,14 +25,13 @@ Resource:
 
 Related:
 
+- /terms/headphone-jack
 - /terms/ipodcontrol
 - /terms/newtcast
 - /terms/newton-interconnect
 - /terms/newtpod
 - /terms/recording
 - /terms/sound
-- /terms/sound-stationery
-- /terms/volume
 
 ----
 

@@ -37,6 +37,7 @@ Related:
 - /terms/mini-din
 - /terms/multifunction-interconnect-adapter
 - /terms/newtcast
+- /terms/newtpod
 - /terms/newton-serial-adapter
 - /terms/nic
 - /terms/ser-001

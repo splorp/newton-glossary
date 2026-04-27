@@ -30,6 +30,7 @@ Resource:
 
 Related:
 
+- /terms/headphone-jack
 - /terms/newtcast
 - /terms/newton-interconnect
 - /terms/newtpod-ap
@@ -38,8 +39,6 @@ Related:
 - /terms/notwen
 - /terms/recording
 - /terms/sound
-- /terms/sound-stationery
-- /terms/volume
 
 ----
 
