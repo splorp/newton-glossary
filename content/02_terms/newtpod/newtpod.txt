@@ -22,7 +22,7 @@ Resource:
 
 - [Green is Better: NewtPod LE](https://web.archive.org/web/20060118094256/http://homepage.mac.com/adriano.angelillis/PhotoAlbum26.html)
 - [Green is Better: NewtLed AP](https://web.archive.org/web/20060207042523/http://homepage.mac.com/adriano.angelillis/PhotoAlbum27.html)
-- [NewtonTalk: [ANN] iPod accessories are compatible with Newton](http://newtontalk.net/archive/newtontalk/2006-January/0358.html)
+- [NewtonTalk: iPod accessories are compatible with Newton](https://newtontalk.net/archive/newtontalk/2006-January/0358.html)
 - [Daniel Padilla Roldán: newtTunes](http://dev.newtontalk.net/dpadilla/progs/newtTunes/newtTunes.htm)
 - [AppleWiki: iPod Remote](https://apple.fandom.com/wiki/IPod_Remote)
 

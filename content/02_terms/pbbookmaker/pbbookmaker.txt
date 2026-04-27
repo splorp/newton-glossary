@@ -14,7 +14,7 @@ A UNIX command line program developed by (link: /sources/paul-guyot text: Paul G
 
 Resource:
 
-- [NewtonTalk: Towards DCL 1.1 : PBBookMaker for Unix](http://newtontalk.net/archive/newtontalk/2004-April/0533.html)
+- [NewtonTalk: Towards DCL 1.1 : PBBookMaker for Unix](https://newtontalk.net/archive/newtontalk/2004-April/0533.html)
 - [Chuma: Paperback Online Book Maker](https://ritsuko.chuma.org/paperback/)
 - [Servant Software: The Paperback Page](https://web.archive.org/web/20171018055006/https://thefedors.com/pobox/)
 
