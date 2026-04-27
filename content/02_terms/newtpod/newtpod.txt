@@ -37,6 +37,7 @@ Related:
 - /terms/newtpod-le
 - /terms/newttunes
 - /terms/notwen
+- /terms/npdk
 - /terms/recording
 - /terms/sound
 

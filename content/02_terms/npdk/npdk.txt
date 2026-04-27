@@ -1,0 +1,39 @@
+Title: NPDK
+
+----
+
+Date: 27 April 2026
+
+----
+
+Text:
+
+NewtPod Developer Kit
+
+A collection of hardware items bundled together by (link: /sources/adriano-angelillis text: Adriano Angelillis) to facilitate experimenting with his (link: /terms/newtpod text: NewtPod) accessory. Included in the NPDK were the (link: /terms/newtpod-le text: NewtPod LE), (link: /terms/newtpod-ap text: NewtPod AP), an [iPod Remote](https://apple.fandom.com/wiki/IPod_Remote) plug, and an Apple [PlainTalk](https://en.wikipedia.org/wiki/PlainTalk) microphone.
+
+----
+
+Resource:
+
+- [NewtonTalk: iPod accessories](https://newtontalk.net/archive/newtontalk/2006-January/0457.html)
+- [AppleWiki: iPod Remote](https://apple.fandom.com/wiki/IPod_Remote)
+
+----
+
+Related:
+
+- /terms/headphone-jack
+- /terms/newtcast
+- /terms/newton-interconnect
+- /terms/newtpod
+- /terms/newttunes
+- /terms/notwen
+- /terms/recording
+- /terms/sound
+
+----
+
+Source:
+
+- /sources/adriano-angelillis
