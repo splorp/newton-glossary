@@ -1,0 +1,41 @@
+Title: newtTunes
+
+----
+
+Date: 27 April 2026
+
+----
+
+Text:
+
+An (link: /terms/application text: application) created by (link: /sources/daniel-padilla-roldan text: Daniel Padilla Roldán) which provided a means to control certain iPod models using a Newton device and a custom (link: /terms/newton-interconnect text: Newton InterConnect) cable such as Adriano Angelillis’ (link: /terms/NewtPod text: NewtPod).
+
+(image: /assets/images/about-newttunes-2x.gif alt: Screenshot of the newtTunes application width: 256)
+
+Also referred to as (link: /terms/ipodcontrol text: iPodControl).
+
+----
+
+Resource:
+
+- [Daniel Padilla Roldán: newtTunes](http://dev.newtontalk.net/dpadilla/progs/newtTunes/newtTunes.htm)
+- [AppleWiki: iPod Remote](https://apple.fandom.com/wiki/IPod_Remote)
+
+----
+
+Related:
+
+- /terms/ipodcontrol
+- /terms/newtcast
+- /terms/newton-interconnect
+- /terms/newtpod
+- /terms/recording
+- /terms/sound
+- /terms/sound-stationery
+- /terms/volume
+
+----
+
+Source:
+
+- /sources/daniel-padilla-roldan

@@ -1,0 +1,49 @@
+Title: NewtPod
+
+----
+
+Date: 27 April 2026
+
+----
+
+Text:
+
+A pair of adapters designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) that allowed iPod models with an [iPod Remote](https://apple.fandom.com/wiki/IPod_Remote) port and certain iPod compatible accessories to be connected to a Newton device.
+
+(link: /terms/newtpod-le text: NewtPod LE) (Limited Edition) consisted of a cable that connected an iPod to a Newton device using the (link: /terms/newton-interconnect text: Newton InterConnect) port.
+
+The user could control the iPod using Daniel Padilla Roldán’s (link: /terms/newttunes text: newtTunes) application. Audio from the iPod could also be saved as a (link: /terms/recording text: recording) in the (link: /terms/notepad text: Notepad).
+
+(link: /terms/newtpod-ap text: NewtPod AP) (Accessory Port) did not use a cable to connect an iPod, but instead provided ports compatible with various iPod accessories such as the Griffin Technology [iTrip](https://web.archive.org/web/20050320091951/http://www.griffintechnology.com/products/itrip/index.php).
+
+----
+
+Resource:
+
+- [Green is Better: NewtPod LE](https://web.archive.org/web/20060118094256/http://homepage.mac.com/adriano.angelillis/PhotoAlbum26.html)
+- [Green is Better: NewtLed AP](https://web.archive.org/web/20060207042523/http://homepage.mac.com/adriano.angelillis/PhotoAlbum27.html)
+- [NewtonTalk: [ANN] iPod accessories are compatible with Newton](http://newtontalk.net/archive/newtontalk/2006-January/0358.html)
+- [Daniel Padilla Roldán: newtTunes](http://dev.newtontalk.net/dpadilla/progs/newtTunes/newtTunes.htm)
+- [AppleWiki: iPod Remote](https://apple.fandom.com/wiki/IPod_Remote)
+
+----
+
+Related:
+
+- /terms/newtcast
+- /terms/newton-interconnect
+- /terms/newtpod-ap
+- /terms/newtpod-le
+- /terms/newttunes
+- /terms/notwen
+- /terms/recording
+- /terms/sound
+- /terms/sound-stationery
+- /terms/volume
+
+----
+
+Source:
+
+- /sources/adriano-angelillis
+- /sources/daniel-padilla-roldan
