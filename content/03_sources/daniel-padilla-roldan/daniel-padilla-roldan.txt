@@ -16,4 +16,3 @@ Resource:
 
 - [Newton Dose Website](http://dev.newtontalk.net/dpadilla/newtondose.htm)
 - [Daniel Padilla Roldán Software Programs](http://dev.newtontalk.net/dpadilla/progs.htm)
-- [GitHub: Daniel Padilla Roldán]()

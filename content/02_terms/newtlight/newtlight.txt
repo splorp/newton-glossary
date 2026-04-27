@@ -26,7 +26,7 @@ NewtLight is also the name of the software developed by (link: /sources/frank-gr
 
 Resource:
 
-- [Green is better: NewtLight](https://web.archive.org/web/20060505012242/http://homepage.mac.com/adriano.angelillis/PhotoAlbum1.html)
+- [Green is Better: NewtLight](https://web.archive.org/web/20060505012242/http://homepage.mac.com/adriano.angelillis/PhotoAlbum1.html)
 - [PDA-Soft: NewtLight](https://www.pda-soft.de/newtlight.html) (English)
 - [PDA-Soft: NewtLight](https://www.pda-soft.de/ge_newtlight.html) (Deutsche)
 

@@ -141,6 +141,10 @@ Redirects:
   fromuri: /sources/the-simpsons
   touri: /sources/simpsons
   code: _301
+- 
+  fromuri: /sources/daniel-padilla
+  touri: /sources/daniel-padilla-roldan
+  code: _301
 
 ----
 
