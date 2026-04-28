@@ -1,0 +1,44 @@
+Title: NewtCOM
+
+----
+
+Date: 28 April 2026
+
+----
+
+Text:
+
+A multifunction (link: /terms/dongle text: dongle) developed by (link: /sources/matthias-melcher text: Matthias Melcher) that utilizes the (link: /terms/newton-interconnect text: Newton Interconnect) port to provide a (link: /terms/usb text: USB-C) port for serial data transfer and power.
+
+Additionally, the NewtCOM has a (link: /terms/slot text: slot) for an SD card, which can contain (link: /terms/package-file text: package files), allowing installion of software directly from the dongle.
+
+NewtCOM is also the name of an unspecified prototype that was being developed by (link: /sources/adriano-angelillis text: Adriano Angelillis).
+
+----
+
+Resource:
+
+- [NewtonTalk: NewtCOM Dongle: Weekend Update](http://newtontalk.net/archive/newtontalk/2025-June/003135.html)
+- [GitHub: NewtCOM Dongle](https://github.com/MatthiasWM/newt_dongle/)
+- [Notwen: Labo](https://web.archive.org/web/20081009210224/http://www.notwen.com/labo/)
+
+----
+
+Related:
+
+- /terms/dongle
+- /terms/communication-port
+- /terms/newton-interconnect
+- /terms/multifunction-interconnect-adapter
+- /terms/newton-serial-adapter
+- /terms/notwen
+- /terms/power-port
+- /terms/usb
+- /terms/usb-001
+
+----
+
+Source:
+
+- /sources/matthias-melcher
+- /sources/adriano-angelillis

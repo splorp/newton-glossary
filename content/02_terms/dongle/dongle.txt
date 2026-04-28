@@ -23,5 +23,6 @@ Related:
 - /terms/geoport-telecom-adapter
 - /terms/mini-din
 - /terms/multifunction-interconnect-adapter
+- /terms/newtcom
 - /terms/newton-interconnect
 - /terms/newton-serial-adapter

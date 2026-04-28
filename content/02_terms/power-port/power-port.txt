@@ -20,6 +20,7 @@ Related:
 - /terms/battery-booster-pack
 - /terms/charging-cart
 - /terms/newtac
+- /terms/newtcom
 - /terms/rhythm-method
 - /terms/wall-wart
 

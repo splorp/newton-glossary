@@ -22,6 +22,8 @@ Related:
 - /terms/ftdi
 - /terms/geoport
 - /terms/mini-din
+- /terms/newtac
+- /terms/newtcom
 - /terms/newton-interconnect
 - /terms/rs-232
 - /terms/rs-422

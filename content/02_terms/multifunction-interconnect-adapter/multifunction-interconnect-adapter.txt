@@ -26,6 +26,7 @@ Related:
 - /terms/dongle-destroyer
 - /terms/input
 - /terms/mini-plug
+- /terms/newtcom
 - /terms/newton-interconnect
 - /terms/newton-serial-adapter
 - /terms/output
