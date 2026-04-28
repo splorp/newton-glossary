@@ -8,13 +8,15 @@ Date: 27 April 2026
 
 Text:
 
-A pair of adapters designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) that allowed iPod models with an [iPod Remote](https://apple.fandom.com/wiki/IPod_Remote) port and certain iPod compatible accessories to be connected to a Newton device.
+An adapter designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) that allowed iPod models with an [iPod Remote](https://apple.fandom.com/wiki/IPod_Remote) port and certain iPod compatible accessories to be connected to a Newton device.
+
+There were two versions of the NewtPod.
 
 (link: /terms/newtpod-le text: NewtPod LE) (Limited Edition) consisted of a cable that connected an iPod to a Newton device using the (link: /terms/newton-interconnect text: Newton InterConnect) port.
 
 The user could control the iPod using Daniel Padilla Roldán’s (link: /terms/newttunes text: newtTunes) application. Audio from the iPod could also be saved as a (link: /terms/recording text: recording) in the (link: /terms/notepad text: Notepad).
 
-(link: /terms/newtpod-ap text: NewtPod AP) (Accessory Port) did not use a cable to connect an iPod, but instead provided ports compatible with various iPod accessories such as the Griffin Technology [iTrip](https://web.archive.org/web/20050320091951/http://www.griffintechnology.com/products/itrip/index.php).
+(link: /terms/newtpod-ap text: NewtPod AP) (Accessory Port) did not use a cable to connect an iPod, but was a (link: /terms/dongle text: dongle) that provided ports compatible with various iPod accessories such as the Griffin Technology [iTrip](https://web.archive.org/web/20050320091951/http://www.griffintechnology.com/products/itrip/index.php).
 
 ----
 
@@ -30,6 +32,7 @@ Resource:
 
 Related:
 
+- /terms/dongle
 - /terms/headphone-jack
 - /terms/newtcast
 - /terms/newton-interconnect
