@@ -41,26 +41,26 @@ RewriteRule ^(.*) index.php [L]
 
 </IfModule>
 
-# Pass the Authorization header to PHP
-SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
 
-# Compress text file responses
-<IfModule mod_deflate.c>
-AddOutputFilterByType DEFLATE text/plain
-AddOutputFilterByType DEFLATE text/html
-AddOutputFilterByType DEFLATE text/css
-AddOutputFilterByType DEFLATE text/javascript
-AddOutputFilterByType DEFLATE application/json
-AddOutputFilterByType DEFLATE application/javascript
-AddOutputFilterByType DEFLATE application/x-javascript
-</IfModule>
-
-# Set security headers in all responses
-<IfModule mod_headers.c>
-
-# Serve files as plain text if the actual content type is not known
-# Hardens against attacks from malicious file uploads
-Header set Content-Type "text/plain" "expr=-z %{CONTENT_TYPE}"
-Header set X-Content-Type-Options "nosniff"
-
-</IfModule>
+deny from 94.130.23.168
+deny from 216.73.216.167
+deny from 159.195.52.183
+deny from 74.7.243.207
+deny from 144.178.130.233
+deny from 64.23.194.39
+deny from 20.220.57.95
+deny from 145.40.240.139
+deny from 20.78.129.228
+deny from 139.59.71.161
+deny from 23.120.53.88
+deny from 99.62.115.52
+deny from 64.71.157.104
+deny from 8.29.198.26
+deny from 8.29.198.27
+deny from 20.214.137.177
+deny from 23.101.4.52
+deny from 153.224.44.77
