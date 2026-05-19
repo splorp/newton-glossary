@@ -18,6 +18,7 @@ Related:
 - /terms/appletalk
 - /terms/ethernet
 - /terms/ethertalk
+- /terms/etherwave
 - /terms/internet-setup
 - /terms/lan
 - /terms/mnp

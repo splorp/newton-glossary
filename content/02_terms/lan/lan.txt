@@ -19,6 +19,7 @@ Related:
 - /terms/appletalk
 - /terms/ethernet
 - /terms/ethertalk
+- /terms/etherwave
 - /terms/localtalk
 - /terms/phonenet
 - /terms/protocol

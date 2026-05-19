@@ -19,6 +19,7 @@ Related:
 - /terms/card
 - /terms/card-slip
 - /terms/ethernet
+- /terms/etherwave
 - /terms/ne2000
 - /terms/network-adapter
 - /terms/nic

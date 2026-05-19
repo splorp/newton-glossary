@@ -22,6 +22,7 @@ Related:
 - /terms/card-slot
 - /terms/cis
 - /terms/combo-card
+- /terms/etherwave
 - /terms/external-store
 - /terms/flash-card
 - /terms/getting-started-card

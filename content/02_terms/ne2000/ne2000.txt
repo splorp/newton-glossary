@@ -26,6 +26,7 @@ Resource:
 Related:
 
 - /terms/ethernet
+- /terms/etherwave
 - /terms/ne2k
 - /terms/network-interface-card
 - /terms/pc-card

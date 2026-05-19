@@ -20,6 +20,7 @@ Related:
 - /terms/appletalk
 - /terms/enet
 - /terms/ethertalk
+- /terms/etherwave
 - /terms/internet-setup
 - /terms/lan
 - /terms/localtalk
