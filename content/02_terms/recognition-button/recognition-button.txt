@@ -14,7 +14,7 @@ When (link: /terms/tapped text: tapped), it displays an (link: /terms/recognizer
 
 Options include (link: /terms/text text: Text), (link: /terms/ink-word text: Ink Text), (link: /terms/shapes text: Shapes), and (link: /terms/sketches text: Sketches).
 
-In (link: /terms/newton-works text: Newton Works), the (link: /terms/quick-sketch text: Quick Sketch) slip also has a recognition button, but only the the Shapes and Sketches options are included.
+In (link: /terms/newton-works text: Newton Works), the (link: /terms/quick-sketch text: Quick Sketch) slip also has a recognition button, but only the Shapes and Sketches options are included.
 
 (image: /assets/images/recognizer-picker-2x.gif alt: Screenshot of a Recognition Button with Picker width: 121)
 

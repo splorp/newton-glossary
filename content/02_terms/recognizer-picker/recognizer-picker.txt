@@ -12,7 +12,7 @@ A list of various (link: /terms/routing text: routing) actions available for the
 
 A list of (link: /terms/handwriting-recognition text: handwriting recognition) methods that may be used to interpret what is being written or drawn, including (link: /terms/text text: Text), (link: /terms/ink-word text: Ink Text), (link: /terms/shapes text: Shapes), and (link: /terms/sketches text: Sketches). Activated by (link: /terms/tapping text: tapping) on the (link: /terms/recognition-button text: recognition button).
 
-The last item in the recognizer picker is (link: /terms/preferences text: Preferences) which provides quick access to the Handwriting Recognition section of the (link: /terms/prefs text: Prefs) application. An exception is (link: /terms/newton-works text: Newton Works), where the (link: /terms/quick-sketch text: Quick Sketch) slip also has a recognition button, but only the the Shapes and Sketches options are included.
+The last item in the recognizer picker is (link: /terms/preferences text: Preferences) which provides quick access to the Handwriting Recognition section of the (link: /terms/prefs text: Prefs) application. An exception is (link: /terms/newton-works text: Newton Works), where the (link: /terms/quick-sketch text: Quick Sketch) slip also has a recognition button, but only the Shapes and Sketches options are included.
 
 (image: /assets/images/recognizer-picker-2x.gif alt: Screenshot of a Recognition Button with Picker width: 121)
 

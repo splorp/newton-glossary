@@ -16,7 +16,7 @@ By default, Newton Slide Show automatically advanced through the images. However
 
 Manually navigating back and forth through the images is accomplished by (link: /terms/tapping text: tapping) the (link: /terms/universal-scroll-arrows text: universal scroll arrows).
 
-Features from Newton Slide Show were were eventually integrated into (link: /terms/newton-movie-player text: Newton Movie Player), including the ability to add an audio track.
+Features from Newton Slide Show were eventually integrated into (link: /terms/newton-movie-player text: Newton Movie Player), including the ability to add an audio track.
 
 Also referred to as (link: /terms/nmp text: NSS).
 
