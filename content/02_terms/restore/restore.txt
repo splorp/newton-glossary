@@ -23,6 +23,10 @@ Related:
 - /terms/nbku
 - /terms/newton-backup-express
 - /terms/newton-backup-utility
+- /terms/newton-connection
+- /terms/newton-connection-kit
+- /terms/newton-connection-pro-kit
+- /terms/newton-connection-utilities
 - /terms/restore-slip
 - /terms/soft-reset
 

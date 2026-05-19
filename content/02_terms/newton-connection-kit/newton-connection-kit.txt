@@ -36,6 +36,7 @@ Related:
 - /terms/newton-backup-utility
 - /terms/newton-connection
 - /terms/newton-connection-pro-kit
+- /terms/newton-connection-tools
 - /terms/newton-connection-utilities
 - /terms/newton-data-viewer
 - /terms/newton-package-installer

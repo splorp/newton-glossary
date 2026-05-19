@@ -1,0 +1,43 @@
+Title: Newton Connection Tools
+
+----
+
+Date: 19 May 2026
+
+----
+
+Text:
+
+A Windows (link: /terms/application text: application) developed by Andrés (Andy) Galluzzi that built upon the functionality found in Apple’s (link: /terms/newton-connection-utilities text: Newton Connection Utilities) (NCU).
+
+The software allowed the user to (link: /terms/backup text: backup) and (link: /terms/restore text: restore) information, manage (link: /terms/package text: package) selection and installation, (link: /terms/synchronization text: synchronize) email and other information with Microsoft Outlook, as well as the ability to import and export (link: /terms/rtf text: RTF) documents. It also provided keyboard passthrough to the connected Newton device and an interface for application development.
+
+Also referred to as (link: /terms/nct text: NCT).
+
+----
+
+Resource:
+
+- [Andrés Galluzzi: Newton Connection Tools](https://web.archive.org/web/20110124001117/http://usuarios.arnet.com.ar/mtu16/index.htm)
+- [NewtonTalk: [ANN] Newton Connection Tools to support UNNA](http://newtontalk.net/archive/newtontalk/2009-November/038882.html)
+
+----
+
+Related:
+
+- /terms/backup
+- /terms/lookout
+- /terms/nct
+- /terms/newten
+- /terms/newton-backup-express
+- /terms/newton-backup-utility
+- /terms/newton-connection
+- /terms/newton-connection-kit
+- /terms/newton-connection-pro-kit
+- /terms/newton-connection-utilities
+- /terms/newton-package-installer
+- /terms/newtsync
+- /terms/notes2notes
+- /terms/package-installer
+- /terms/restore
+- /terms/synchronize

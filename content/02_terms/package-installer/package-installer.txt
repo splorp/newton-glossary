@@ -20,6 +20,7 @@ Related:
 - /terms/newten
 - /terms/newtftp
 - /terms/newton-connection
+- /terms/newton-connection-tools
 - /terms/newton-connection-utilities
 - /terms/newton-package-installer
 - /terms/newtonpkg
