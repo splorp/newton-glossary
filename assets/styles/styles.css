@@ -112,7 +112,6 @@ img {
 	margin: 2em auto;
 	outline: none;
 	padding: 1em;
-	max-width: 90%;
 	}
 
 h1 {
@@ -332,6 +331,10 @@ footer nav {
 		padding: 1em;
 		margin: 0 auto;
 		width: 90%;
+		}
+
+	img {
+		max-width: 90%;
 		}
 
 	h1 {
