@@ -8,9 +8,13 @@ Date: 19 May 2026
 
 Text:
 
-A Windows (link: /terms/application text: application) developed by Andrés (Andy) Galluzzi that built upon the functionality found in Apple’s (link: /terms/newton-connection-utilities text: Newton Connection Utilities) (NCU).
+A Windows (link: /terms/application text: application) developed by Andrés Galluzzi that built upon the functionality found in Apple’s (link: /terms/newton-connection-utilities text: Newton Connection Utilities) (NCU).
 
-The software allowed the user to (link: /terms/backup text: backup) and (link: /terms/restore text: restore) information, manage (link: /terms/package text: package) selection and installation, (link: /terms/synchronization text: synchronize) email and other information with Microsoft Outlook, as well as the ability to import and export (link: /terms/rtf text: RTF) documents. It also provided keyboard passthrough to the connected Newton device and an interface for application development.
+(image: /assets/images/newton-connection-tools-2x.gif alt: Screenshot of Newton Connection Tools for Windows width: 553)
+
+The software allowed the user to (link: /terms/backup text: backup) and (link: /terms/restore text: restore) information, manage (link: /terms/package text: package) selection and installation, (link: /terms/synchronization text: synchronize) email and other information with Microsoft Outlook, as well as the ability to import and export (link: /terms/rtf text: RTF) documents.
+
+It also provided keyboard passthrough to the connected Newton device, an interface for application development, and viewing of information stored in a (link: /terms/backup-file text: backup file) through a separate utility called (link: /terms/newton-backup-viewer text: Newton Backup Viewer).
 
 Also referred to as (link: /terms/nct text: NCT).
 
@@ -19,7 +23,9 @@ Also referred to as (link: /terms/nct text: NCT).
 Resource:
 
 - [Andrés Galluzzi: Newton Connection Tools](https://web.archive.org/web/20110124001117/http://usuarios.arnet.com.ar/mtu16/index.htm)
+- [NewtonTalk: [ANN] Newton Connection Tools for Windows](http://newtontalk.net/archive/newtontalk/2006-September/0256.html)
 - [NewtonTalk: [ANN] Newton Connection Tools to support UNNA](http://newtontalk.net/archive/newtontalk/2009-November/038882.html)
+- [NewtonTalk: Review: Newton Connection Tools for Windows](http://newtontalk.net/archive/newtontalk/2008-June/0017.html)
 
 ----
 
