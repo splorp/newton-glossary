@@ -25,6 +25,7 @@ Related:
 - /terms/nbku
 - /terms/newton-backup-express
 - /terms/newton-backup-utility
+- /terms/newton-backup-viewer
 - /terms/restore
 - /terms/restore-slip
 - /terms/storage-card

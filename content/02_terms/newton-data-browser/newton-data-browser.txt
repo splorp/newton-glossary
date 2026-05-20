@@ -24,6 +24,7 @@ Related:
 - /terms/dil-tester
 - /terms/ndb
 - /terms/ndu
+- /terms/newton-backup-viewer
 - /terms/newton-desktop-utility
 - /terms/newton-dil-tester
 

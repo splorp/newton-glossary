@@ -1,0 +1,31 @@
+Title: Newton Backup Viewer
+
+----
+
+Date: 20 May 2026
+
+----
+
+Text:
+
+A Windows (link: /terms/application text: application) developed by Andrés Galluzzi that allowed the user to view information stored in a (link: /terms/backup-file text: backup file).
+
+The software was included as part of (link: /terms/newton-connection-tools text: Newton Connection Tools).
+
+Also referred to as (link: /terms/nbv text: NBV).
+
+----
+
+Resource:
+
+- [Andrés Galluzzi: Newton Connection Tools](https://web.archive.org/web/20110124001117/http://usuarios.arnet.com.ar/mtu16/index.htm)
+
+----
+
+Related:
+
+- /terms/backup
+- /terms/backup-file
+- /terms/nbv
+- /terms/newton-connection-tools
+- /terms/newton-data-browser
