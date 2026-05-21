@@ -1,0 +1,40 @@
+Title: PunctPad
+
+----
+
+Date: 21 May 2026
+
+----
+
+Text:
+
+A system enhancement developed by (link: /sources/byte-size text: Byte-Size Software) that provides quick access for editing, navigating, and (link: /terms/highlighting text: highlighting) and (link: /terms/select text: selecting) text, entering punctuation and user-definable (link: /terms/character text: characters), accessing the (link: /terms/clipboard text: clipboard), as well as saving and retrieving (link: /terms/text text: text) clippings.
+
+The tools are automatically displayed as (link: /terms/button text: buttons) in a (link: /terms/floating-palette text: floating palette) when text is (link: /terms/select text: selected).
+
+(image: /assets/images/punctpad-2x.gif alt: Screenshot of the PunctPad floating palette width: 256)
+
+----
+
+Resource:
+
+- [Byte-Size Software: PunctPad Product Information](https://web.archive.org/web/20010429222104/http://home.earthlink.net/~firstvln/bytesize/punctpad.html)
+- [UNNA: PunctPad 3.01](http://www.unna.org/view.php?/utilites/keyboards/PunctPad3.01)
+
+----
+
+Related:
+
+- /terms/bbeditor
+- /terms/clipboard
+- /terms/font
+- /terms/highlight
+- /terms/hilite2000
+- /terms/select
+- /terms/styles
+
+----
+
+Source:
+
+- /sources/byte-size

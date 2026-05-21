@@ -31,6 +31,7 @@ Related:
 - /terms/font
 - /terms/highlight
 - /terms/hilite2000
+- /terms/punctpad
 - /terms/select
 - /terms/styles
 

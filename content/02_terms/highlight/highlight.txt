@@ -29,6 +29,7 @@ Related:
 - /terms/hilite2000
 - /terms/hiliting
 - /terms/invert
+- /terms/punctpad
 - /terms/select
 - /terms/selection
 - /terms/selection-box

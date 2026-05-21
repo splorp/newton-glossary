@@ -37,6 +37,7 @@ Related:
 - /terms/highlight-mode
 - /terms/highlighting-mark
 - /terms/invert
+- /terms/punctpad
 - /terms/select
 - /terms/selection
 - /terms/styles
