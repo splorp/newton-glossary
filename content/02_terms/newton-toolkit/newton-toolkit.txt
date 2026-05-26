@@ -31,9 +31,11 @@ Resource:
 
 Related:
 
+- /terms/aiftontk
 - /terms/book-definition-file
 - /terms/build
 - /terms/dcl
+- /terms/elftontk
 - /terms/etchasketch
 - /terms/global-data-file
 - /terms/inspector
@@ -46,6 +48,7 @@ Related:
 - /terms/newtdevenv
 - /terms/newton-book-maker
 - /terms/newton-c-tools
+- /terms/newton-gcc-tools
 - /terms/newtonscript
 - /terms/newtrtfm
 - /terms/ntk

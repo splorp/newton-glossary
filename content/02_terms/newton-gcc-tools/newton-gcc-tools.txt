@@ -1,0 +1,34 @@
+Title: Newton GCC Tools
+
+----
+
+Date: 26 May 2026
+
+----
+
+Text:
+
+A set of utilities developed by (link: /sources/eckhart-koppen text: Eckhart Köppen) for building (link: /terms/compiled text: compiled) programs written in the C programming language. The tools work with the GCC (GNU Compiler Collection) development environment instead of Apple’s (link: /terms/newton-c-tools text: Newton C++ Tools).
+
+Also referred to as (link: /terms/newtontools text: NewtonTools).
+
+----
+
+Resource:
+
+- [40hz: Various Experiments](https://40hz.org/Pages/newton/hacking/experiments/)
+
+----
+
+Related:
+
+- /terms/elftontk
+- /terms/newton-c-tools
+- /terms/newton-toolkit
+- /terms/newtontools
+
+----
+
+Source:
+
+- /sources/eckhart-koppen

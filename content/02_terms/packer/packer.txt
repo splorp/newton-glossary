@@ -1,0 +1,37 @@
+Title: Packer
+
+----
+
+Date: 26 May 2026
+
+----
+
+Text:
+
+A (link: /terms/macintosh-programmers-workshop text: Macintosh Programmers Workshop) tool included with the (link: /terms/newton-c-tools text: Newton C++ Tools) development environment that combines information contained in multiple source files into a Newton (link: /terms/package text: package).
+
+The (link: /terms/elftopkg text: ELFtoPKG) utility is a modern replacement for Packer.
+
+----
+
+Resource:
+
+- [GitHub: DCL Toolchain Utilities](https://github.com/pguyot/DCL/tree/master/Sample_Code/ToolchainUtils)
+
+----
+
+Related:
+
+- /terms/dcl
+- /terms/elftopkg
+- /terms/newton-c-tools
+- /terms/newton-gcc-tools
+- /terms/package
+- /terms/package-file
+
+----
+
+Source:
+
+- /sources/paul-guyot
+- /sources/eckhart-koppen

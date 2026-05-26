@@ -1,0 +1,47 @@
+Title: ELFtoNTK
+
+----
+
+Date: 26 May 2026
+
+----
+
+Text:
+
+A programming tool developed by (link: /sources/paul-guyot text: Paul Guyot) included with the (link: /terms/dcl text: DCL) (Desktop Connection Library) framework. ELFtoNTK converts an (link: /terms/elf text: ELF) (Executable and Linkable Format) shared library file into a (link: /terms/streamed-frame-file text: streamed frame file) for use with (link: /terms/newton-toolkit text: Newton Toolkit).
+
+A similar utility was developed by (link: /sources/eckhart-koppen text: Eckhart Köppen) and released as part of his (link: /terms/newton-gcc-tools text: Newton GCC Tools).
+
+ELFtoNTK is a modern replacement for the (link: /terms/aiftontk text: AIFtoNTK) tool included with the (link: /terms/newton-c-tools text: Newton C++ Tools) development environment.
+
+Files created using the ELFtoNTK tool are generally identified by the (link: /terms/ntkc text: .ntkc) filename extension.
+
+----
+
+Resource:
+
+- [NewtonTalk: [ANN] Newton C++ Toolchain Utilities](http://newtontalk.net/archive/newtontalk/2020-June/018818.html)
+- [GitHub: DCL Toolchain Utilities](https://github.com/pguyot/DCL/tree/master/Sample_Code/ToolchainUtils)
+- [40hz: Various Experiments](https://40hz.org/Pages/newton/hacking/experiments/)
+
+----
+
+Related:
+
+- /terms/aiftontk
+- /terms/dcl
+- /terms/elf
+- /terms/elftopkg
+- /terms/newton-c-tools
+- /terms/newton-gcc-tools
+- /terms/newton-toolkit
+- /terms/nsof
+- /terms/ntkc
+- /terms/stream-file
+
+----
+
+Source:
+
+- /sources/paul-guyot
+- /sources/eckhart-koppen

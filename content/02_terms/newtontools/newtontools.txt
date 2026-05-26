@@ -1,0 +1,17 @@
+Title: NewtonTools
+
+----
+
+Date: 26 May 2026
+
+----
+
+Text:
+
+See: (link: /terms/newton-gcc-tools text: Newton GCC Tools).
+
+----
+
+Source:
+
+- /sources/eckhart-koppen

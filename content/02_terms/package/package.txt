@@ -16,6 +16,7 @@ Related:
 
 - /terms/application
 - /terms/corrupt-package
+- /terms/elftopkg
 - /terms/extension
 - /terms/freeze
 - /terms/frozen-package
@@ -25,6 +26,7 @@ Related:
 - /terms/package-store
 - /terms/packagebuddy
 - /terms/packager
+- /terms/packer
 - /terms/pkg
 - /terms/suppress
 - /terms/suppressed-package

@@ -16,6 +16,7 @@ Related:
 
 - /terms/application
 - /terms/corrupt-package
+- /terms/elftopkg
 - /terms/extension
 - /terms/frozen-package
 - /terms/newtonpkg
@@ -23,6 +24,7 @@ Related:
 - /terms/package-installer
 - /terms/packagebuddy
 - /terms/packager
+- /terms/packer
 - /terms/pkg
 - /terms/suppressed-package
 - /terms/thawed-package

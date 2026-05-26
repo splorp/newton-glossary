@@ -32,6 +32,8 @@ Related:
 - /terms/desktop-integration-libraries
 - /terms/dock
 - /terms/docking
+- /terms/elftontk
+- /terms/elftopkg
 - /terms/escale
 - /terms/gdcl
 - /terms/k-libs

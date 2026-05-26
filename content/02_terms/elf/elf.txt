@@ -1,0 +1,31 @@
+Title: ELF
+
+----
+
+Date: 26 May 2026
+
+----
+
+Text:
+
+Executable and Linkable Format
+
+An extensible, cross-platform binary file format used for executable files, object code, and shared libraries.
+
+ELF was introduced with UNIX System V Release 4 in 1989.
+
+----
+
+Related:
+
+- /terms/dcl
+- /terms/elf
+- /terms/elftontk
+- /terms/elftopkg
+- /terms/newton-gcc-tools
+
+----
+
+Source:
+
+- /sources/techencyclopedia
