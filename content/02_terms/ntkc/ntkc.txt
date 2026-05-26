@@ -12,9 +12,15 @@ The (link: /terms/filename-extension text: filename extension) used to identify 
 
 ----
 
+Resource:
+
+- [Newted: Newton C++ Tools User’s Guide](https://www.newted.org/download/manuals/NCTUsersGuide.pdf)
+- [GitHub: DCL Toolchain Utilities](https://github.com/pguyot/DCL/tree/master/Sample_Code/ToolchainUtils)
+
+----
+
 Related:
 
-- /terms/aif
 - /terms/aiftontk
 - /terms/build
 - /terms/filename-extension
@@ -30,3 +36,4 @@ Related:
 Source:
 
 - /sources/newton-toolkit-users-guide
+- /sources/paul-guyot

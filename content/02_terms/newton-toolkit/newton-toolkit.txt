@@ -33,6 +33,7 @@ Related:
 
 - /terms/book-definition-file
 - /terms/build
+- /terms/dcl
 - /terms/etchasketch
 - /terms/global-data-file
 - /terms/inspector
