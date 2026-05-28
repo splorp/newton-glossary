@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A thick black (link: /terms/line text: line) with graphical (link: /terms/button text: buttons) on it. The (link: /terms/separator-bar text: separator bar) and (link: /terms/status-bar text: status bar) found in most (link: /terms/application text: applications) are both examples of button bars.
+A thick black (link: /terms/line text: line) with graphical (link: /terms/button text: buttons) located along its length. The (link: /terms/separator-bar text: separator bar) and (link: /terms/status-bar text: status bar) found in most (link: /terms/application text: applications) are both examples of button bars.
 
 (image: /assets/images/status-bar-2x.gif alt: Screenshot of the Status Bar width: 237)
 

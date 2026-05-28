@@ -10,7 +10,7 @@ Text:
 
 A (link: /terms/package text: package) that is no longer (link: /terms/frozen text: frozen) and has been activated.
 
-When you (link: /terms/thaw text: thaw) a package by (link: /terms/tapping text: tapping) on it, the (link: /terms/icon text: icon) changes from a (link: /terms/snowflake text: snowflake) back to it’s original image.
+When you (link: /terms/thaw text: thaw) a package by (link: /terms/tapping text: tapping) it, the (link: /terms/icon text: icon) changes from a (link: /terms/snowflake text: snowflake) back to it’s original image.
 
 Freezing and thawing of packages can be performed using a utility such as (link: /terms/options text: Options).
 
