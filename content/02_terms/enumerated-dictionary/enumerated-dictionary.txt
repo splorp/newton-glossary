@@ -17,6 +17,7 @@ Related:
 - /terms/auto-add-dictionary
 - /terms/custom-dictionary
 - /terms/dictionary
+- /terms/enumerate
 - /terms/grammar
 - /terms/handwriting-recognition
 - /terms/lexical-dictionary

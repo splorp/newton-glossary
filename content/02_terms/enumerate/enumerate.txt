@@ -1,0 +1,30 @@
+Title: Enumerate
+
+----
+
+Date: 28 May 2026
+
+----
+
+Text:
+
+In (link: /terms/newtonscript text: NewtonScript), to count or list a number of items one by one.
+
+For example, the (link: /terms/handwriting-recognition text: handwriting recognition) system in (link: /terms/newton-os text: Newton OS) uses an (link: /terms/enumerated-dictionary text: enumerated dictionary) that contains a list of strings that can be matched to (link: /terms/user-input text: user input).
+
+Also, when creating certain (link: /terms/user-interface text: user interface) elements, such as a (link: /terms/button-bar text: button bar), a programmer can enumerate the order in which the (link: /terms/button text: buttons) to appear on the bar.
+
+----
+
+Related:
+
+- /terms/enumerated
+- /terms/enumerated-dictionary
+- /terms/finder
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference
+- /sources/techencyclopedia
