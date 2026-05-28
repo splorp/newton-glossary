@@ -23,6 +23,7 @@ Related:
 - /terms/action-button
 - /terms/button-bar
 - /terms/divider-bar
+- /terms/floating-bar
 - /terms/folder-button
 - /terms/item-info-button
 - /terms/status-bar

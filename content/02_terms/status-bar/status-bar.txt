@@ -21,6 +21,7 @@ Related:
 - /terms/button-bar
 - /terms/button-host
 - /terms/button-provider
+- /terms/floating-bar
 - /terms/ryo
 - /terms/separator-bar
 - /terms/soft-button

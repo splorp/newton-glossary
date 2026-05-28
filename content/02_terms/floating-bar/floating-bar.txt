@@ -1,0 +1,33 @@
+Title: Floating Bar
+
+----
+
+Date: 28 May 2026
+
+----
+
+Text:
+
+A type of (link: /terms/button-bar text: button bar) that floats at the bottom of an item (link: /terms/view text: view) within an (link: /terms/application text: application).
+
+(image: /assets/images/floating-bar-2x.gif alt: Screenshot of a Floating Bar containing outline entry buttons width: 106)
+
+For example, an (link: /terms/outline text: outline) item in the (link: /terms/notepad text: Notepad) application has a set of (link: /terms/button text: buttons) that are used for adding new outline entries, but are not used to interact with the main application (link: /terms/view text: view).
+
+----
+
+Related:
+
+- /terms/button
+- /terms/button-bar
+- /terms/outline
+- /terms/separator-bar
+- /terms/toolbar
+- /terms/status-bar
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference

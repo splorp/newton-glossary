@@ -16,6 +16,7 @@ Related:
 
 - /terms/checklist
 - /terms/circle
+- /terms/floating-bar
 - /terms/note
 - /terms/notepad
 - /terms/recording

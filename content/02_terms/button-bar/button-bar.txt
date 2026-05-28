@@ -30,6 +30,7 @@ Related:
 - /terms/controls-left
 - /terms/controls-right
 - /terms/dash-board
+- /terms/floating-bar
 - /terms/hard-button
 - /terms/icon
 - /terms/killbb
