@@ -8,7 +8,7 @@ Date: 19 May 2026
 
 Text:
 
-A family of (link: /terms/network-interface-cards text: network interface cards) and adpaters developed by [Farallon Communications](https://web.archive.org/web/19980524075616/http://www.farallon.com/) that provided a link between devices that were limited to serial connections and (link: /terms/ethernet text: ethernet) networks, without the need of a dedicated (link: /terms/localtalk text: LocalTalk) bridge.
+A family of (link: /terms/network-interface-card text: network interface cards) and adpaters developed by [Farallon Communications](https://web.archive.org/web/19980524075616/http://www.farallon.com/) that provided a link between devices that were limited to serial connections and (link: /terms/ethernet text: ethernet) networks, without the need of a dedicated (link: /terms/localtalk text: LocalTalk) bridge.
 
 EtherWave hardware could be daisy-chained to other EtherWave or ethernet-enabled devices, creating a network without a central hub.
 

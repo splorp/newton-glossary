@@ -19,5 +19,5 @@ Resource:
 - [Larry Yaeger Website](https://shinyverse.org/larryy/)
 - [Larry Yaeger: Apple Newton Handwriting Recognition](https://shinyverse.org/larryy/ANHR.html)
 - [Ars Technica: In the Loop with Larry Yaeger](https://arstechnica.com/apple/2005/06/504/)
-- [Matej Horvat: An interview with Larry Yaeger](https://matejhorvat.si/en/newton/larryy/)
+- [Matej Horvat: An interview with Larry Yaeger](https://web.archive.org/web/20220511203841/http://matejhorvat.si/en/newton/larryy/)
 - [The Register: Apple pen-tablet plan revives Newtonian handwriting](https://www.theregister.com/2009/11/13/apple_pen_tablet_patent_filing/)

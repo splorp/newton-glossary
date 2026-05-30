@@ -22,7 +22,7 @@ Resource:
 - [TecO: PocketWeb 2.4 Product Information](https://web.archive.org/web/20210413053629/http://www.teco.edu/static/research/pda/pocketweb/)
 - [TecO: PDAs as Mobile WWW Browsers](https://web.archive.org/web/20210514224001/https://www.teco.edu/~stefan/papers/wwwf94/www_pda.html)
 - [TecO: The Newton Webbrowser PocketWeb](https://web.archive.org/web/20210514232401/https://www.teco.edu/~stefan/pda.html)
-- [Matej Horvat: PocketWeb](https://matejhorvat.si/en/newton/pw/)
+- [Matej Horvat: PocketWeb](https://web.archive.org/web/20220815224126/https://matejhorvat.si/en/newton/pw/)
 
 ----
 
