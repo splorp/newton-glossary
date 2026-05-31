@@ -18,7 +18,7 @@ Also referred to as (link: /terms/amms text: AMMS).
 
 Resource:
 
-- [Apple Support: Apple Mobile Messaging System: Description](https://web.archive.org/web/20091128135011/http://support.apple.com/kb/TA33229)
+- [Apple Support: Apple Mobile Messaging System: Description](https://www.newted.org/resources/til/TIL17104-Apple_Mobile_Messaging_System-Description_7-95_TA33229.pdf)
 - [Press Release: Socket Introduces PageCard Wireless Messaging System](https://web.archive.org/web/19991007064519/http://product.info.apple.com/pr/press.releases/1996/q1/951011.pr.rel.socket.html)
 - [Drexel University: Graphical User Interfaces: Current Systems and Products](https://www.cs.drexel.edu/~dds26/courses/cs338-s03/BK/Readings/Newton/Currentsystems.html)
 
