@@ -15,6 +15,7 @@ A file that contains software, such as an (link: /terms/application text: applic
 Related:
 
 - /terms/application
+- /terms/application-name
 - /terms/corrupt-package
 - /terms/elftopkg
 - /terms/extension
@@ -22,6 +23,7 @@ Related:
 - /terms/newtonpkg
 - /terms/package
 - /terms/package-installer
+- /terms/package-name
 - /terms/packagebuddy
 - /terms/packager
 - /terms/packer

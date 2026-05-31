@@ -16,12 +16,15 @@ Related:
 
 - /terms/application-base-view
 - /terms/application-card
-- /terms/application-signature
+- /terms/application-name
+- /terms/application-symbol
 - /terms/backdrop
 - /terms/corrupt-package
+- /terms/developer-signature
 - /terms/frozen-package
 - /terms/package
 - /terms/package-file
+- /terms/package-name
 - /terms/suppressed-package
 - /terms/thawed-package
 

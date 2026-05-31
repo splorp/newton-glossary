@@ -15,6 +15,7 @@ The unit in which an (link: /terms/application text: application) or (link: /ter
 Related:
 
 - /terms/application
+- /terms/application-name
 - /terms/corrupt-package
 - /terms/elftopkg
 - /terms/extension
@@ -23,6 +24,7 @@ Related:
 - /terms/newtonpkg
 - /terms/package-file
 - /terms/package-installer
+- /terms/package-name
 - /terms/package-store
 - /terms/packagebuddy
 - /terms/packager

@@ -1,0 +1,32 @@
+Title: Developer Signature
+
+----
+
+Date: 29 May 2026
+
+----
+
+Text:
+
+A short, arbitrary sequence of (link: /terms/character text: characters) used to uniquely identify a creator or Newton developer. The signature is used to avoid naming conflicts with other (link: /terms/application text: applications) and (link: /terms/package text: packages) by facilitating the creation of unique (link: /terms/application-symbol text: application symbols), (link: /terms/soup text: soup) names, as well as other (link: /terms/global text: global) symbol) and strings.
+
+Also referred to as a (link: /terms/signature text: Signature).
+
+----
+
+Related:
+
+- /terms/application
+- /terms/application-name
+- /terms/application-signature
+- /terms/application-symbol
+- /terms/package
+- /terms/package-name
+- /terms/newtonscript
+- /terms/signature
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

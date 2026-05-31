@@ -14,6 +14,7 @@ An (link: /terms/object text: object) used as an identifier. (link: /terms/newto
 
 Related:
 
+- /terms/application-symbol
 - /terms/class
 - /terms/frame
 - /terms/message

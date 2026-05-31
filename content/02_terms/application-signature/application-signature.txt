@@ -8,20 +8,10 @@ Date: 31 May 2001
 
 Text:
 
-A 4 to 10 (link: /terms/character text: character) designation that uniquely identifies the creator or developer of a Newton (link: /terms/application text: application). This signature is embedded in an application when it is (link: /terms/compiled text: compiled) into a (link: /terms/package text: package).
-
-----
-
-Related:
-
-- /terms/application
-- /terms/compiled
-- /terms/compiler
-- /terms/package
-- /terms/signature
+See: (link: /terms/application-symbol text: Application Symbol)
 
 ----
 
 Source:
 
-- /sources/apple-developer-handbook
+- /sources/newton-programmers-reference

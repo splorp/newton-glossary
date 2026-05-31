@@ -1,0 +1,32 @@
+Title: Package Name
+
+----
+
+Date: 31 May 2026
+
+----
+
+Text:
+
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/text text: text) string version of the (link: /terms/application-symbol text: application symbol).
+
+The package name may be displayed under an (link: /terms/icon text: icon) in the (link: /terms/extras-drawer text: Extras Drawer) if no (link: /terms/application-name text: application name) has been defined by the creator of the (link: /terms/application text: application) or (link: /terms/package text: package).
+
+----
+
+Related:
+
+- /terms/application
+- /terms/application-name
+- /terms/application-signature
+- /terms/application-symbol
+- /terms/developer-signature
+- /terms/extras-drawer
+- /terms/newtonscript
+- /terms/package
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

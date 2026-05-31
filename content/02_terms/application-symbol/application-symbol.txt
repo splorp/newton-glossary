@@ -1,0 +1,40 @@
+Title: Application Symbol
+
+----
+
+Date: 31 May 2026
+
+----
+
+Text:
+
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/symbol text: symbol) used to uniquely identify an (link: /terms/application text: application) or (link: /terms/package text: package) in (link: /terms/newton-os text: Newton OS).
+
+An application symbol is created by concatenating the (link: /terms/application-name text: application name), a colon (:), and a registered (link: /terms/developer-signature text: developer signature).
+
+For example, the application symbol for the (link: /terms/nethopper text: NetHopper) web browser is:
+
+`'|NetHopper:ALLPEN|`
+
+This symbol is defined before code is (link: /terms/compiled text: compiled) into a package using development tools such as (link: /terms/newton-toolkit text: Newton Toolkit) and (link: /terms/newton-book-maker text: Newton Book Maker). The application symbol is not normally visible to the end user.
+
+Also referred to as an (link: /terms/application-signature text: Application Signature)
+
+----
+
+Related:
+
+- /terms/application
+- /terms/application-name
+- /terms/application-signature
+- /terms/newtonscript
+- /terms/package
+- /terms/package-name
+- /terms/symbol
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-technology-journal

@@ -15,6 +15,7 @@ A built-in (link: /terms/container-view text: container view) that displays name
 Related:
 
 - /terms/action-sound-effects
+- /terms/application-name
 - /terms/backdrop
 - /terms/container-view
 - /terms/drawer
@@ -22,6 +23,7 @@ Related:
 - /terms/extras-key
 - /terms/icon
 - /terms/options
+- /terms/package-name
 - /terms/quick-xtras
 - /terms/soft-button
 - /terms/user-interface

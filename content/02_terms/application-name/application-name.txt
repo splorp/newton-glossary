@@ -1,0 +1,32 @@
+Title: Application Name
+
+----
+
+Date: 29 May 2026
+
+----
+
+Text:
+
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/text text: text) string displayed under an application (link: /terms/icon text: icon) in the (link: /terms/extras-drawer text: Extras Drawer).
+
+Application names do not need to be unique, because (link: /terms/newton-os text: Newton OS) identifies an (link: /terms/application text: application) by its (link: /terms/application-symbol text: application symbol), a combination of the application name and a unique (link: /terms/developer-signature text: developer signature).
+
+----
+
+Related:
+
+- /terms/application
+- /terms/application-signature
+- /terms/application-symbol
+- /terms/developer-signature
+- /terms/extras-drawer
+- /terms/newtonscript
+- /terms/package
+- /terms/package-name
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
