@@ -30,6 +30,7 @@ Related:
 - /terms/rsrc
 - /terms/rtf
 - /terms/stream
+- /terms/sym
 - /terms/txt
 - /terms/vcf
 

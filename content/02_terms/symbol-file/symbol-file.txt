@@ -1,0 +1,44 @@
+Title: Symbol File
+
+----
+
+Date: 01 June 2026
+
+----
+
+Text:
+
+A file containing (link: /terms/symbol text: symbols) that can be used to gather information when (link: /terms/debugging text: debugging) a program.
+
+For example, (link: /terms/newtsbug text: Newtsbug) needs to be able to locate both the (link: /terms/package-file text: package file) and its corresponding symbol file to proceed with the debugging process.
+
+Symbol files are generated when a program is (link: /terms/compiled text: compiled) in a development environment such as (link: /terms/newton-c-tools text: Newton C++ Tools). The package file contains information that defines where the symbol file is located, using a path relative to the package file.
+
+Identified by the (link: /terms/sym text: .sym)  filename extension.
+
+----
+
+Related:
+
+- /terms/compiled
+- /terms/compiler
+- /terms/debug
+- /terms/debugger
+- /terms/debugging
+- /terms/newtonscript
+- /terms/newtsbug
+- /terms/package
+- /terms/package-file
+- /terms/project-file
+- /terms/resource-file
+- /terms/stream-file
+- /terms/sym
+- /terms/symbol
+- /terms/text-file
+
+----
+
+Source:
+
+- /sources/newton-c-tools-users-guide
+- /sources/newtsbug

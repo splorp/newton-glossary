@@ -29,6 +29,7 @@ Related:
 - /terms/macintosh-programmers-workshop
 - /terms/newton-c-tools
 - /terms/newton-toolkit
+- /terms/symbol-file
 - /terms/viewframe
 
 ----

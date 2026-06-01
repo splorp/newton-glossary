@@ -29,6 +29,7 @@ Related:
 - /terms/resource
 - /terms/rsrc
 - /terms/stream-file
+- /terms/symbol-file
 - /terms/text-file
 
 ----

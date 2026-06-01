@@ -23,4 +23,5 @@ Related:
 - /terms/minspector
 - /terms/newtsbug
 - /terms/senior
+- /terms/symbol-file
 - /terms/viewframe

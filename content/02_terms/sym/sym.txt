@@ -1,0 +1,28 @@
+Title: sym
+
+----
+
+Date: 01 June 2026
+
+----
+
+Text:
+
+The (link: /terms/filename-extension text: filename extension) used to identify (link: /terms/symbol-file text: symbol files).
+
+----
+
+Related:
+
+- /terms/filename-extension
+- /terms/symbol-file
+
+----
+
+Source:
+
+----
+
+Source:
+
+- /sources/newtsbug

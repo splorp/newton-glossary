@@ -38,6 +38,7 @@ Related:
 - /terms/script
 - /terms/stream
 - /terms/streamed-frame-file
+- /terms/symbol-file
 - /terms/text-file
 
 ----

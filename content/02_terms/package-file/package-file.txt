@@ -29,6 +29,7 @@ Related:
 - /terms/packer
 - /terms/pkg
 - /terms/suppressed-package
+- /terms/symbol-file
 - /terms/thawed-package
 
 ----

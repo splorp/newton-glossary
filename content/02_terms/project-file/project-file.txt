@@ -22,6 +22,7 @@ Related:
 - /terms/project-build
 - /terms/resource-file
 - /terms/stream-file
+- /terms/symbol-file
 - /terms/text-file
 
 ----
