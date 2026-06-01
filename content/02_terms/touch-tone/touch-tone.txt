@@ -19,6 +19,7 @@ Related:
 - /terms/calls
 - /terms/dtmf
 - /terms/phone
+- /terms/phoney
 
 ----
 

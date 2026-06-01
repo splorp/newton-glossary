@@ -1,0 +1,26 @@
+Title: Newton-Snak
+
+----
+
+Date: 01 June 2026
+
+----
+
+Text:
+
+A mailing list dedicated to the discussion of the Newton platform hosted by (link: /terms/dnug text: DNUG), the Danish Newton User Group.
+
+and (link: /terms/newton-versions text: Newton Versions), an online (link: /terms/database text: database) listing updates to both free and commercial Newton software.
+
+----
+
+Resource:
+
+- [DNUG: Newton-Snak](https://web.archive.org/web/19990422140800/http://www.dnug.dk/listserv/nslistmaster.html)
+
+----
+
+Related:
+
+- /terms/dnug
+- /terms/newtontalk

@@ -1,0 +1,31 @@
+Title: Phoney
+
+----
+
+Date: 01 June 2026
+
+----
+
+Text:
+
+An (link: /terms/application text: application) that allowed a Newton device to generate tones to potentially control the routing of long distance telephone calls.
+
+Phoney was provided _“… as an educational tool only”_.
+
+(image: /assets/images/phoney-2x.gif alt: Screenshot of Phoney width: 240)
+
+----
+
+Resource:
+
+- [Space Rogue’s Whacked Mac Archives: Newton](https://web.archive.org/web/20001019055436/http://www.l0pht.com/~spacerog/filelists/newton.html)
+- [UNNA: Phoney](http://www.unna.org/view.php?/utilites/Phoney4Newton)
+- [Newted: Phoney](https://www.newted.org/resources/phoney/)
+
+----
+
+Related:
+
+- /terms/calls
+- /terms/phone
+- /terms/touch-tone

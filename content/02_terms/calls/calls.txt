@@ -16,5 +16,6 @@ Related:
 
 - /terms/call-slip
 - /terms/phone
+- /terms/phoney
 - /terms/touch-tone
 - /terms/unfiled-calls

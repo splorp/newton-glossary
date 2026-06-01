@@ -20,6 +20,7 @@ Related:
 - /terms/keyboard
 - /terms/keyboard-button
 - /terms/numeric
+- /terms/phoney
 - /terms/time-date
 - /terms/touch-tone
 - /terms/typewriter

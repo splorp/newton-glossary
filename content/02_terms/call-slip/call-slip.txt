@@ -16,6 +16,9 @@ Related:
 
 - /terms/calls
 - /terms/container-view
+- /terms/phone
+- /terms/phoney
 - /terms/slip
+- /terms/touch-tone
 - /terms/user-interface
 - /terms/view
