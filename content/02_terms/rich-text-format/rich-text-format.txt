@@ -18,6 +18,7 @@ Related:
 - /terms/text
 - /terms/text-engine
 - /terms/text-file
+- /terms/txt
 
 ----
 

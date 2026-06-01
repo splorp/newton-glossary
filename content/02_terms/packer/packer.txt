@@ -22,6 +22,8 @@ Resource:
 
 Related:
 
+- /terms/compiled
+- /terms/compiler
 - /terms/dcl
 - /terms/elftopkg
 - /terms/newton-c-tools

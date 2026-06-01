@@ -26,6 +26,7 @@ Related:
 - /terms/project-file
 - /terms/resource-file
 - /terms/rich-text-format
+- /terms/rtf
 - /terms/stream-file
 - /terms/symbol-file
 - /terms/text-engine

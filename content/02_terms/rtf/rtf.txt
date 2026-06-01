@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The (link: /terms/filename-extension text: filename extension) used to identify (link: /terms/rich-text-format text: Rich Text Format) files.
+The (link: /terms/filename-extension text: filename extension) used to identify (link: /terms/rich-text-format text: rich text format) files.
 
 ----
 
@@ -16,5 +16,6 @@ Related:
 
 - /terms/filename-extension
 - /terms/rich-text-format
-- /terms/rtf
+- /terms/text
 - /terms/text-file
+- /terms/txt

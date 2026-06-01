@@ -17,4 +17,5 @@ Related:
 - /terms/filename-extension
 - /terms/rich-text-format
 - /terms/rtf
-- /terms/txt
+- /terms/text
+- /terms/text-file
