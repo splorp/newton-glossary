@@ -14,7 +14,7 @@ An input (link: /terms/container-view text: container view) that allows the user
 
 The Find slip contains a labeled (link: /terms/input-line text: input line) where the user specifies what to look for and several (link: /terms/radio-button text: radio buttons) that can specify the scope of the search.
 
-For example, where to search can be set to everywhere on the newton device, the currently (link: /terms/select text: selected) items, or within the current (link: /terms/application text: application).
+For example, where to search can be set to everywhere on the Newton device, the currently (link: /terms/select text: selected) items, or within the current (link: /terms/application text: application).
 
 ----
 
