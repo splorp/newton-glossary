@@ -8,9 +8,9 @@ Date: 01 June 2026
 
 Text:
 
-A mailing list dedicated to the discussion of the Newton platform hosted by (link: /terms/dnug text: DNUG), the Danish Newton User Group.
+A mailing list operated by (link: /terms/dnug text: DNUG), the Danish Newton User Group.
 
-and (link: /terms/newton-versions text: Newton Versions), an online (link: /terms/database text: database) listing updates to both free and commercial Newton software.
+“Snak” is Danish for “Talk”.
 
 ----
 
