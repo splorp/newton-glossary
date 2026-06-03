@@ -15,6 +15,7 @@ Apple alumni John Forstall’s attempt at writing “(link: /terms/egg-freckles 
 Resource:
 
 - [Creative Selection Website](http://creativeselection.io/)
+- [Biblio: Creative Selection: Inside Apple’s Design Process](https://www.biblio.com/9781250194466)
 - [Amazon: Creative Selection: Inside Apple’s Design Process](https://amzn.to/3lUTrz0)
 - [Google Books: Creative Selection: The “eff grackles” Demo](https://books.google.ca/books?id=nntJDwAAQBAJ&lpg=PT106&ots=ldnbAvmXcK&dq=%22eff%20grackles%22&pg=PT105#v=onepage&q&f=false)
 

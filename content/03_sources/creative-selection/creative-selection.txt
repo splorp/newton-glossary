@@ -15,4 +15,5 @@ A book by Ken Kocienda that provides an insider’s look at Apple’s creative p
 Resource:
 
 - [Creative Selection Website](http://creativeselection.io/)
+- [Biblio: Creative Selection: Inside Apple’s Design Process](https://www.biblio.com/9781250194466)
 - [Amazon: Creative Selection: Inside Apple’s Design Process](https://amzn.to/3lUTrz0)
