@@ -24,6 +24,8 @@ Resource:
 Related:
 
 - /terms/arm
+- /terms/arm-610
+- /terms/arm-710a
 - /terms/cpu
 - /terms/figaro
 - /terms/risc

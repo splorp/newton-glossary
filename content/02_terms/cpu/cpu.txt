@@ -17,6 +17,8 @@ The primary computing component of a digital device. When configured in conjunct
 Related:
 
 - /terms/arm
+- /terms/arm-610
+- /terms/arm-710a
 - /terms/hobbit
 - /terms/implant
 - /terms/main-logic-board

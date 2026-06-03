@@ -12,7 +12,9 @@ Advanced RISC Machines
 
 The company formed out of a joint venture between British computer manufacturer Acorn, Apple, and processor manufacturer (link: /terms/vlsi text: VLSI Technology). ARM produced (link: /terms/risc text: RISC) processors used in Newton devices.
 
-Early (link: /terms/messagepad text: MessagePad) devices use a 20 MHz ARM 610 processor, whereas the (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices use a more powerful 160 MHz (link: /terms/strongarm text: StrongARM) processor. The (link: /terms/emate-300 text: eMate 300) uses a 25 MHz ARM 710a processor.
+Early (link: /terms/messagepad text: MessagePad) devices use a 20 MHz (link: /terms/arm-610 text: ARM 610) processor, whereas the (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices use a more powerful 162 MHz (link: /terms/strongarm text: StrongARM) SA-110 processor.
+
+The (link: /terms/emate-300 text: eMate 300) uses a 25 MHz (link: /terms/arm-710a text: ARM 710a) processor.
 
 The ARM architecture was originally dubbed the Acorn RISC Machine.
 
@@ -30,6 +32,8 @@ Related:
 
 - /terms/aif
 - /terms/aiftontk
+- /terms/arm-610
+- /terms/arm-710a
 - /terms/better-disarm
 - /terms/cpu
 - /terms/hobbit

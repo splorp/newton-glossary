@@ -15,6 +15,8 @@ An unreleased successor to the (link: /terms/rough-disarm text: Rough Disarm) di
 Related:
 
 - /terms/arm
+- /terms/arm-610
+- /terms/arm-710a
 - /terms/macintosh-programmers-workshop
 - /terms/newton-bowels
 - /terms/rough-disarm

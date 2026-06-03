@@ -10,13 +10,15 @@ Text:
 
 The low-power (link: /terms/risc text: RISC) processor used in later Newton devices, developed by (link: /terms/arm text: ARM) in conjunction with [Digital Equipment Corporation](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation).
 
-The (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices use a 160 MHz StrongARM 110 processor.
+The (link: /terms/messagepad-2000 text: MessagePad 2000), (link: /terms/messagepad-2100 text: MessagePad 2100), Harris (link: /terms/access-device-2000 text: Access Device 2000), and Schlumberger (link: /terms/watson text: Watson) all use a 162 MHz StrongARM (link: /terms/sa-110 text: SA-110) processor.
 
 ----
 
 Related:
 
 - /terms/arm
+- /terms/arm-610
+- /terms/arm-710a
 - /terms/better-disarm
 - /terms/cpu
 - /terms/hobbit
@@ -29,4 +31,5 @@ Related:
 
 Source:
 
+- /sources/newton-faq
 - /sources/techencyclopedia

@@ -1,0 +1,33 @@
+Title: ARM 610
+
+----
+
+Date: 03 June 2026
+
+----
+
+Text:
+
+The low-power (link: /terms/risc text: RISC) processor used in Newton devices, developed by (link: /terms/arm text: ARM). It was selected to replace the (link: /terms/hobbit text: Hobbit) processor developed by AT&T.
+
+The (link: /terms/original-messagepad text: Original MessagePad), (link: /terms/messagepad-100 text: MessagePad 100), (link: /terms/messagepad-110 text: MessagePad 110), (link: /terms/messagepad-120 text: MessagePad 120), (link: /terms/messagepad-130 text: MessagePad 130), Sharp (link: /terms/expertpad text: ExpertPad), Siemens (link: /terms/notephone text: NotePhone), Harris (link: /terms/supertech-2000 text: SuperTech 2000), Digital Ocean (link: /terms/tarpon text: Tarpon), and Digital Ocean (link: /terms/seahorse text: Seahorse) all use a 20 MHz ARM 610 processor.
+
+----
+
+Related:
+
+- /terms/arm
+- /terms/arm-710a
+- /terms/better-disarm
+- /terms/cpu
+- /terms/hobbit
+- /terms/risc
+- /terms/rough-disarm
+- /terms/strongarm
+- /terms/unarmed
+
+----
+
+Source:
+
+- /sources/newton-faq

@@ -1,0 +1,31 @@
+Title: ARM 710a
+
+----
+
+Date: 03 June 2026
+
+----
+
+Text:
+
+The low-power (link: /terms/risc text: RISC) processor developed by (link: /terms/arm text: ARM) that was used in the (link: /terms/emate 300 text: eMate 300).
+
+----
+
+Related:
+
+- /terms/arm
+- /terms/arm-610
+- /terms/better-disarm
+- /terms/cpu
+- /terms/hobbit
+- /terms/risc
+- /terms/rough-disarm
+- /terms/strongarm
+- /terms/unarmed
+
+----
+
+Source:
+
+- /sources/newton-faq

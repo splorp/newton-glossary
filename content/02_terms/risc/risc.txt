@@ -19,6 +19,8 @@ The (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messa
 Related:
 
 - /terms/arm
+- /terms/arm-610
+- /terms/arm-710a
 - /terms/cpu
 - /terms/hobbit
 - /terms/strongarm
