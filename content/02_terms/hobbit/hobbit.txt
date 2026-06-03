@@ -10,20 +10,24 @@ Text:
 
 A code name of the processor chip developed by AT&T, originally targeted to be used for the Newton platform, specifically in the device known as (link: /terms/figaro text: Figaro). The Hobbit chip was replaced by the (link: /terms/risc text: RISC) chip developed by (link: /terms/arm text: ARM).
 
-AT&T went on to use the Hobbit processor in its own pen-based computer, the EO.
+AT&T went on to use the Hobbit processor in its own pen-based computer, the [EO Personal Communicator](https://en.wikipedia.org/wiki/EO_Personal_Communicator).
 
 ----
 
 Resource:
 
 - [The Chip Letter: AT&T’s CRISP Hobbits](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbitss)
+- [Wikipedia: AT&T Hobbit](https://en.wikipedia.org/wiki/AT%26T_Hobbit)
 
 ----
 
 Related:
 
+- /terms/arm
 - /terms/cpu
 - /terms/figaro
+- /terms/risc
+- /terms/strongarm
 
 ----
 

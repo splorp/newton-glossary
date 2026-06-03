@@ -37,6 +37,7 @@ Related:
 - /terms/seahorse
 - /terms/st2k
 - /terms/st2000
+- /terms/supertech
 - /terms/tarpon
 
 ----

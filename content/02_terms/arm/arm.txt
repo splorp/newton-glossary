@@ -20,7 +20,7 @@ The ARM architecture was originally dubbed the Acorn RISC Machine.
 
 Resource:
 
-- [Arm Website](https://www.arm.com/)
+- [ARM Website](https://www.arm.com/)
 - [SemiWiki: Apple’s ARMed History](https://semiwiki.com/ip/arm/4454-apples-armed-history/)
 - [Wikipedia: ARM Architecture](https://en.wikipedia.org/wiki/ARM_architecture)
 
