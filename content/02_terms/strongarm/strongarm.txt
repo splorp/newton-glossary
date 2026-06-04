@@ -22,6 +22,7 @@ Related:
 - /terms/better-disarm
 - /terms/cpu
 - /terms/hobbit
+- /terms/mobius
 - /terms/risc
 - /terms/rough-disarm
 - /terms/sa-110

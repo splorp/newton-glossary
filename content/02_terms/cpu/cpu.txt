@@ -22,6 +22,7 @@ Related:
 - /terms/hobbit
 - /terms/implant
 - /terms/main-logic-board
+- /terms/mobius
 - /terms/mmu
 - /terms/risc
 - /terms/strongarm

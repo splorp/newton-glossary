@@ -28,6 +28,7 @@ Related:
 - /terms/arm-710a
 - /terms/cpu
 - /terms/figaro
+- /terms/mobius
 - /terms/risc
 - /terms/strongarm
 

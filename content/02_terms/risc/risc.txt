@@ -23,6 +23,7 @@ Related:
 - /terms/arm-710a
 - /terms/cpu
 - /terms/hobbit
+- /terms/mobius
 - /terms/strongarm
 
 ----

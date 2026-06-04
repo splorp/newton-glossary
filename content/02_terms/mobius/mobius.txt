@@ -1,0 +1,41 @@
+Title: Möbius
+
+----
+
+Date: 04 June 2026
+
+----
+
+Text:
+
+The codename of the project within the (link: /terms/advanced-technology-group text: Advanced Technology Group) at [Apple](https://www.apple.com/) to replace the 6502 processor used in the [Apple II](https://en.wikipedia.org/wiki/Apple_II) computer.
+
+Möbius led to the creation of (link: /terms/ARM text: ARM), a joint venture between British computer manufacturer Acorn, Apple, and processor manufacturer (link: /terms/vlsi text: VLSI Technology), which produced the processor used for the Newton platform.
+
+----
+
+Resource:
+
+- [AnyCPU: Apple’s Möbius project: an ARM-based Apple II successor](https://anycpu.org/forum/viewtopic.php?f=22&t=528)
+- [IEEE Spectrum: Look Back on Some of Apple’s Forgotten Legacies](https://spectrum.ieee.org/apple-50th-anniversary)
+- [Wikipedia: Mac transition to Apple silicon](https://en.wikipedia.org/wiki/Mac_transition_to_Apple_silicon)
+
+----
+
+Related:
+
+- /terms/advanced-technology-group
+- /terms/arm
+- /terms/arm-610
+- /terms/arm-710a
+- /terms/cpu
+- /terms/mobius
+- /terms/risc
+- /terms/strongarm
+- /terms/vlsi
+
+----
+
+Source:
+
+- /sources/wikipedia
