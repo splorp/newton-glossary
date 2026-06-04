@@ -8,7 +8,9 @@ Date: 24 August 2016
 
 Text:
 
-Simon Bell is the developer of several Newton packages and support applications, including (link: /terms/simplemail text: SimpleMail), (link: /terms/mail-v text: Mail V), (link: /terms/newton-connection text: Newton Connection) (NCX), and a modern replacement for (link: /terms/newton-toolkit text: Newton Toolkit) (NTX). He also implemented a (link: /terms/newtonscript text: NewtonScript) interpreter in C++ and created a development framework for (link: /terms/debugging text: debugging) native Newton C++ modules in Xcode.
+The developer of several Newton packages and support applications, including (link: /terms/simplemail text: SimpleMail), (link: /terms/mail-v text: Mail V), (link: /terms/newton-connection text: Newton Connection) (NCX), and a modern replacement for (link: /terms/newton-toolkit text: Newton Toolkit) (NTX).
+
+Bell also implemented a (link: /terms/newtonscript text: NewtonScript) interpreter in C++ and created a development framework for (link: /terms/debugging text: debugging) native Newton C++ modules in Xcode.
 
 ----
 
