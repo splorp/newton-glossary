@@ -1,0 +1,37 @@
+Title: Newton.Info
+
+----
+
+Date: 04 June 2026
+
+----
+
+Text:
+
+A website created by (link: /sources/michael-neely text: Michael Neely) that acted as a portal for Newton related news, rumours, links, and other resources, including his (link: /terms/newtwire text: NewtWire) newsletter and (link: /terms/newtaddict text: NewtAddict) evangelist page.
+
+At one point, Newton.Info was part of the [MacAddict Network](https://web.archive.org/web/19971013165118/http://www.macaddict.com/network/).
+
+----
+
+Resource:
+
+- [Newton.Info Website](https://web.archive.org/web/19980109053758/http://newtoninfo.pcreations.com/)
+- [MacAddict: MacAddict Network](https://web.archive.org/web/19971013165118/http://www.macaddict.com/network/)
+
+----
+
+Related:
+
+- /terms/newtaddict
+- /terms/newton-city
+- /terms/newtwire
+- /terms/planet-newton
+- /terms/the-newted-community
+- /terms/this-old-newt
+
+----
+
+Source:
+
+- /sources/michael-neely

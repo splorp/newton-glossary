@@ -1,0 +1,32 @@
+Title: NewtAddict
+
+----
+
+Date: 04 June 2026
+
+----
+
+Text:
+
+An online resource published by (link: /sources/michael-neely text: Michael Neely), billed as “… a source for Newton evangelista stuff.”
+
+NewtAddict was part of Neely’s (link: /terms/newton-info text: Newton.Info) website.
+
+----
+
+Resource:
+
+- [Newton.Info: NewtAddict](https://web.archive.org/web/19980204045838/http://www.newtoninfo.com/addict/index.htm)
+
+----
+
+Related:
+
+- /terms/newtevangelist
+- /terms/newton-info
+
+----
+
+Source:
+
+- /sources/michael-neely

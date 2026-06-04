@@ -27,6 +27,7 @@ Related:
 - /terms/mpadclub
 - /terms/newtnews
 - /terms/newtnews-pro
+- /terms/newtwire
 - /terms/newton-user-group
 - /terms/protoreality
 - /terms/tapped-in

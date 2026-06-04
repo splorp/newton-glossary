@@ -26,6 +26,7 @@ Related:
 - /terms/green-bleeder
 - /terms/green-bug
 - /terms/green-widow
+- /terms/newtaddict
 - /terms/newtbie
 - /terms/newtie
 - /terms/newtino

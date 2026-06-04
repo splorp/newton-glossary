@@ -24,6 +24,7 @@ Related:
 - /terms/king-of-newtonia
 - /terms/newtie-award
 - /terms/newton-city
+- /terms/newton-info
 - /terms/planet-newton
 - /terms/the-newted-community
 - /terms/the-newties

@@ -18,6 +18,7 @@ Related:
 - /terms/gecko
 - /terms/infonote
 - /terms/newtnews
+- /terms/newtwire
 - /terms/protoreality
 - /terms/tapped-in
 

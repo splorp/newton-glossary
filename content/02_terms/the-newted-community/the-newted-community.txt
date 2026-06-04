@@ -23,6 +23,7 @@ Related:
 
 - /terms/newted
 - /terms/newton-city
+- /terms/newton-info
 - /terms/planet-newton
 - /terms/soupbox
 - /terms/this-old-newt

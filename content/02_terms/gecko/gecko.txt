@@ -21,6 +21,7 @@ Related:
 - /terms/mnnr
 - /terms/newtnews
 - /terms/newtnews-pro
+- /terms/newtwire
 - /terms/protoreality
 - /terms/tapped-in
 

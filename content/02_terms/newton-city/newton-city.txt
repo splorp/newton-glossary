@@ -22,6 +22,7 @@ Resource:
 
 Related:
 
+- /terms/newton-info
 - /terms/planet-newton
 - /terms/the-newted-community
 - /terms/this-old-newt

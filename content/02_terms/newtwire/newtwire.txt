@@ -1,0 +1,38 @@
+Title: NewtWire
+
+----
+
+Date: 04 June 2026
+
+----
+
+Text:
+
+A semi-weekly email newsletter published by (link: /sources/michael-neely text: Michael Neely), providing editorial takes on Newton related news and rumours.
+
+NewtWire was part of Neely’s (link: /terms/newton-info text: Newton.Info) website.
+
+----
+
+Resource:
+
+- [Newton.Info: NewtWire](https://web.archive.org/web/19980204045757/http://www.newtoninfo.com/newtwire/index.htm)
+
+----
+
+Related:
+
+- /terms/double-tap
+- /terms/gecko
+- /terms/infonote
+- /terms/newtnews
+- /terms/newtnews-pro
+- /terms/newton-info
+- /terms/protoreality
+- /terms/tapped-in
+
+----
+
+Source:
+
+- /sources/michael-neely
