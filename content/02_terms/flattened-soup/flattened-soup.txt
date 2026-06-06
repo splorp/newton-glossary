@@ -14,8 +14,8 @@ In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/soup text: so
 
 Related:
 
-- /terms/entry
 - /terms/corrupt-soup
+- /terms/entry
 - /terms/flatten
 - /terms/flattened-frame
 - /terms/flattener
@@ -25,6 +25,7 @@ Related:
 - /terms/newtonscript
 - /terms/object
 - /terms/soup
+- /terms/soupervisor-mechanism
 - /terms/translation-engine
 - /terms/unflatten
 - /terms/unflattener

@@ -15,9 +15,11 @@ The system service that presents the user with information about a (link: /terms
 Related:
 
 - /terms/cleaner
+- /terms/corrupt-soup
 - /terms/doctor
 - /terms/entry
 - /terms/extras-drawer
+- /terms/flattened-soup
 - /terms/icon
 - /terms/member-soup
 - /terms/newtcase

@@ -16,6 +16,7 @@ Related:
 
 - /terms/corrupt-soup
 - /terms/doctor
+- /terms/flattened-soup
 - /terms/member-soup
 - /terms/newtcase
 - /terms/ragout

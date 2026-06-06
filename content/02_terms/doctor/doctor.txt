@@ -20,6 +20,7 @@ Related:
 
 - /terms/cleaner
 - /terms/corrupt-soup
+- /terms/flattened-soup
 - /terms/member-soup
 - /terms/newtcase
 - /terms/ragout
