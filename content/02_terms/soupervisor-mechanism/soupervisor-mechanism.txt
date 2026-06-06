@@ -24,7 +24,6 @@ Related:
 - /terms/ragout
 - /terms/sbm-utilities
 - /terms/soup
-- /terms/soup-icon
 - /terms/soup-mover
 - /terms/union-soup
 - /terms/viewframe

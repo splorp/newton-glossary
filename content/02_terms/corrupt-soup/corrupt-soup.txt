@@ -25,7 +25,6 @@ Related:
 - /terms/member-soup
 - /terms/sbm-utilities
 - /terms/soup
-- /terms/soup-icon
 - /terms/soupervisor-mechanism
 - /terms/union-soup
 
