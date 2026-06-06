@@ -35,6 +35,7 @@ Related:
 - /terms/part
 - /terms/ragout
 - /terms/soup
+- /terms/soupkitchen
 - /terms/soup-mover
 - /terms/soupervisor-mechanism
 - /terms/store

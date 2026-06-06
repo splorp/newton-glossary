@@ -27,6 +27,7 @@ Related:
 - /terms/sbm-utilities
 - /terms/soup
 - /terms/soup-mover
+- /terms/soupkitchen
 - /terms/union-soup
 - /terms/viewframe
 

@@ -1,0 +1,44 @@
+Title: SoupKitchen
+
+----
+
+Date: 06 June 2026
+
+----
+
+Text:
+
+An (link: /terms/application text: application) developed by (link: /sources/innovative-computer-solutions text: Innovative Computer Solutions) for browsing and editing (link: /terms/soup text: soup) entries.
+
+(image: /assets/images/soupkitchen-2x.gif alt: Screenshot of SoupKitchen width: 320)
+
+----
+
+Resource:
+
+- [Innovative Computer Solutions: SoupKitchen 1.0](https://web.archive.org/web/20001214082700/http://newts.com/newton/soupkitchen.html)
+- [UNNA: SoupKitchen 1.0](http://www.unna.org/view.php?/utilites/SoupKitchen1.0)
+
+----
+
+Related:
+
+- /terms/cleaner
+- /terms/corrupt-soup
+- /terms/doctor
+- /terms/flattened-soup
+- /terms/member-soup
+- /terms/newtcase
+- /terms/ragout
+- /terms/sbm-utilities
+- /terms/soup
+- /terms/soup-mover
+- /terms/soupervisor-mechanism
+- /terms/store
+- /terms/union-soup
+
+----
+
+Source:
+
+- /sources/innovative-computer-solutions

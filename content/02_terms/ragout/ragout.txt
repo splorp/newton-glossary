@@ -32,6 +32,7 @@ Related:
 - /terms/soup
 - /terms/soup-mover
 - /terms/soupervisor-mechanism
+- /terms/soupkitchen
 - /terms/union-soup
 - /terms/viewframe
 

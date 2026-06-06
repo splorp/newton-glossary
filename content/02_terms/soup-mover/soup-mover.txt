@@ -29,6 +29,7 @@ Related:
 - /terms/sbm-utilities
 - /terms/soup
 - /terms/soupervisor-mechanism
+- /terms/soupkitchen
 - /terms/store
 - /terms/union-soup
 

@@ -24,6 +24,7 @@ Related:
 - /terms/soup
 - /terms/soup-mover
 - /terms/soupervisor-mechanism
+- /terms/soupkitchen
 - /terms/store
 - /terms/union-soup
 
