@@ -15,11 +15,13 @@ In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/soup text: so
 Related:
 
 - /terms/entry
+- /terms/corrupt-soup
 - /terms/flatten
 - /terms/flattened-frame
 - /terms/flattener
 - /terms/flattening
 - /terms/frame
+- /terms/member-soup
 - /terms/newtonscript
 - /terms/object
 - /terms/soup
@@ -27,6 +29,7 @@ Related:
 - /terms/unflatten
 - /terms/unflattener
 - /terms/unflattening
+- /terms/union-soup
 
 ----
 

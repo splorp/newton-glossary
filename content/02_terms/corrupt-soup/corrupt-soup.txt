@@ -21,6 +21,7 @@ Related:
 - /terms/corrupt-package
 - /terms/corrupted
 - /terms/doctor
+- /terms/flattened-soup
 - /terms/member-soup
 - /terms/sbm-utilities
 - /terms/soup

@@ -20,7 +20,10 @@ Resource:
 
 Related:
 
+- /terms/cleaner
+- /terms/corrupt-soup
 - /terms/default-store
+- /terms/doctor
 - /terms/external-store
 - /terms/flattened-soup
 - /terms/internal-store

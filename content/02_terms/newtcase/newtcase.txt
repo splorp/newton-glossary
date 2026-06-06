@@ -30,7 +30,6 @@ Related:
 - /terms/ragout
 - /terms/sbm-utilities
 - /terms/soup
-- /terms/soup-icon
 - /terms/soup-mover
 - /terms/soupervisor-mechanism
 - /terms/union-soup

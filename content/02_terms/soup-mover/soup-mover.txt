@@ -27,7 +27,6 @@ Related:
 - /terms/ragout
 - /terms/sbm-utilities
 - /terms/soup
-- /terms/soup-icon
 - /terms/soupervisor-mechanism
 - /terms/store
 - /terms/union-soup

@@ -20,7 +20,10 @@ Resource:
 
 Related:
 
+- /terms/cleaner
+- /terms/corrupt-soup
 - /terms/default-store
+- /terms/doctor
 - /terms/entry
 - /terms/external-store
 - /terms/flattened-soup
@@ -32,7 +35,6 @@ Related:
 - /terms/part
 - /terms/ragout
 - /terms/soup
-- /terms/soup-icon
 - /terms/soup-mover
 - /terms/soupervisor-mechanism
 - /terms/store
