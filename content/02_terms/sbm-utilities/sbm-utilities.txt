@@ -25,6 +25,7 @@ Related:
 
 - /terms/cleaner
 - /terms/doctor
+- /terms/figgles-utilities
 - /terms/sbm
 
 ----

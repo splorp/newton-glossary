@@ -1,0 +1,21 @@
+Title: Erica Sadun
+
+----
+
+Date: 09 June 2026
+
+----
+
+Text:
+
+A developer and prolific author with a PhD in computer science from the Georgia Institute of Technology.
+
+Sadun created (link: /terms/figgles-utilities text: Figgles Utilities) for (link: /terms/newton-os text: Newton OS) in 1993 while a grad student.
+
+----
+
+Resource:
+
+- [Erica Sadun Website](https://web.archive.org/web/20220201025209/https://ericasadun.com/)
+- [LinkedIn: Erica Sadun](https://www.linkedin.com/in/erica-sadun-136914179/)
+- [GitHub: Erica Sadun](https://github.com/erica)

@@ -1,0 +1,30 @@
+Title: Figgles Utilities
+
+----
+
+Date: 09 June 2026
+
+----
+
+Text:
+
+A set of (link: /terms/application text: applications) for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/erica-sadun text: Erica Sadun) that provided tools for manipulating data and text, creating custom (link: /terms/keyboard text: keyboards) and macros, providing quick access to programs and (link: /terms/package text: packages) in the (link: /terms/extras-drawer text: Extras Drawer), as well as monitoring system information such as temperature, memory usage, and (link: /terms/battery text: battery) levels.
+
+----
+
+Resource:
+
+- [Newted: Figgles Utilities](https://www.newted.org/resources/figgles/)
+
+----
+
+Related:
+
+- /terms/figgles
+- /terms/sbm-utilities
+
+----
+
+Source:
+
+- /sources/erica-sadun
