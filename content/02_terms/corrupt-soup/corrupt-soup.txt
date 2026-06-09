@@ -23,6 +23,7 @@ Related:
 - /terms/doctor
 - /terms/flattened-soup
 - /terms/member-soup
+- /terms/newtcase
 - /terms/sbm-utilities
 - /terms/soup
 - /terms/soupervisor-mechanism

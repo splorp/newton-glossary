@@ -10,7 +10,7 @@ Text:
 
 Software developed by (link: /sources/michael-vacik text: Michael Vacík) that sets the correct file type and creator for Newton (link: /terms/package text: packages) when used on a Mac OS X computer.
 
-By default, any file with a `.pkg` (link: /terms/filename-extension text: filename extension) associates that file with the Mac OS X installer (link: /terms/application text: application). Packager processes a (link: /terms/package-file text: package file) so it is correctly recognized with an appropriate application such as (link: /terms/newton-connection-utilities text: Newton Connection Utilites) or (link: /terms/newten text: NewTen).
+By default, any file with a `.pkg` (link: /terms/filename-extension text: filename extension) associates that file with the Mac OS X installer (link: /terms/application text: application). Packager processes a (link: /terms/package-file text: package file) so it is correctly recognized with an appropriate application such as (link: /terms/newton-connection-utilities text: Newton Connection Utilities) or (link: /terms/newten text: NewTen).
 
 A packager is also a software development tool used to create Newton packages from (link: /terms/compiled text: compiled) source code.
 
