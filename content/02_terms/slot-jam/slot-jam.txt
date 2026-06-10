@@ -23,6 +23,9 @@ Related:
 - /terms/pcmcia
 - /terms/protection-card
 - /terms/slot
+- /terms/type-i
+- /terms/type-ii
+- /terms/type-ii
 
 ----
 

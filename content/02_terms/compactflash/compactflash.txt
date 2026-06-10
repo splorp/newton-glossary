@@ -31,6 +31,9 @@ Related:
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/storage-card
+- /terms/type-i
+- /terms/type-ii
+- /terms/type-iii
 - /terms/store
 - /terms/unlocked-icon
 - /terms/unlocked-switch-icon

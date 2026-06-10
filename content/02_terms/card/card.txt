@@ -52,6 +52,9 @@ Related:
 - /terms/slot-jam
 - /terms/soup
 - /terms/storage-card
+- /terms/type-i
+- /terms/type-ii
+- /terms/type-iii
 - /terms/unlocked-icon
 - /terms/unlocked-switch-icon
 - /terms/view

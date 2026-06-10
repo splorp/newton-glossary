@@ -30,6 +30,9 @@ Related:
 - /terms/protection-card
 - /terms/reference
 - /terms/slot-jam
+- /terms/type-i
+- /terms/type-ii
+- /terms/type-ii
 
 ----
 

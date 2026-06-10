@@ -1,0 +1,17 @@
+Title: PCMCIA
+
+----
+
+Date: 10 June 2026
+
+----
+
+Text:
+
+The Personal Computer Memory Card International Association is an international organization founded in 1989 to establish standards for integrated circuit cards and to promote interchangeability among mobile computing platforms.
+
+----
+
+Resource:
+
+- [PCMCIA Website](https://web.archive.org/web/20081225064415/http://pcmcia.org/)

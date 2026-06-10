@@ -25,6 +25,9 @@ Related:
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/storage-card
+- /terms/type-i
+- /terms/type-ii
+- /terms/type-iii
 
 ----
 

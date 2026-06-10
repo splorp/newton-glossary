@@ -24,6 +24,9 @@ Related:
 - /terms/protection-card
 - /terms/slot
 - /terms/slot-jam
+- /terms/type-i
+- /terms/type-ii
+- /terms/type-iii
 
 ----
 

@@ -1,0 +1,44 @@
+Title: Type III
+
+----
+
+Date: 10 June 2026
+
+----
+
+Text:
+
+One of several form factors used for (link: /terms/pc-cards text: PC cards) as defined by the (link: /terms/pcmcia text: PCMCIA) specification.
+
+All PC cards use a 68-pin edge connector to interface with a computing device. They also share the same physical length and width, 85.6 mm by 54.0 mm, but vary in thickness depending on the type.
+
+Type III cards are 10.5 mm thick and are typically used to accomodate larger components such as a hard drive or peripheral connector.
+
+All Newton devices have (link: /terms/card-slot text: card slots) that accept (link: /terms/type-i text: Type I) and (link: /terms/type-ii text: Type II) cards. The (link: /terms/emate-300 text: eMate 300) features a pair of stacked (link: /terms/slot text: slots) which can also accept the thicker Type III card.
+
+----
+
+Resource:
+
+- [PCMCIA: PC Card Primer](https://web.archive.org/web/20081225064420/http://pcmcia.org/pccard.htm)
+
+----
+
+Related:
+
+- /terms/card
+- /terms/card-slot
+- /terms/pcmcia
+- /terms/pc-card
+- /terms/slot
+- /terms/slot-jam
+- /terms/type-i
+- /terms/type-iii
+- /terms/write-protected
+- /terms/write-protection-switch
+
+----
+
+Source:
+
+- /sources/pcmcia

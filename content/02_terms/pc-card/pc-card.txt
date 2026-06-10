@@ -12,6 +12,12 @@ A small, removable peripheral (link: /terms/card text: card) based on the (link:
 
 ----
 
+Resource:
+
+- [PCMCIA: PC Card Primer](https://web.archive.org/web/20081225064420/http://pcmcia.org/pccard.htm)
+
+----
+
 Related:
 
 - /terms/accessory-card
@@ -41,6 +47,9 @@ Related:
 - /terms/slot
 - /terms/slot-jam
 - /terms/storage-card
+- /terms/type-i
+- /terms/type-ii
+- /terms/type-iii
 - /terms/unlocked-icon
 - /terms/unlocked-switch-icon
 - /terms/write-protected
