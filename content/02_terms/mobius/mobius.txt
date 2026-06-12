@@ -10,7 +10,7 @@ Text:
 
 The codename of the project within the (link: /terms/advanced-technology-group text: Advanced Technology Group) at [Apple](https://www.apple.com/) to replace the 6502 processor used in the [Apple II](https://en.wikipedia.org/wiki/Apple_II) computer.
 
-Möbius led to the creation of (link: /terms/ARM text: ARM), the joint venture between British computer manufacturer Acorn, Apple, and processor manufacturer (link: /terms/vlsi text: VLSI Technology), which produced the processors used for the Newton platform.
+Möbius led to the creation of (link: /terms/arm text: ARM), the joint venture between British computer manufacturer Acorn, Apple, and processor manufacturer (link: /terms/vlsi text: VLSI Technology), which produced the processors used for the Newton platform.
 
 ----
 

@@ -8,7 +8,7 @@ Date: 10 June 2026
 
 Text:
 
-One of several form factors used for (link: /terms/pc-cards text: PC cards) as defined by the (link: /terms/pcmcia text: PCMCIA) specification.
+One of several form factors used for (link: /terms/pc-card text: PC cards) as defined by the (link: /terms/pcmcia text: PCMCIA) specification.
 
 All PC cards use a 68-pin edge connector to interface with a computing device. They also share the same physical length and width, 85.6 mm by 54.0 mm, but vary in thickness depending on the type.
 

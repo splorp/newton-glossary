@@ -16,7 +16,7 @@ AT&T went on to use the Hobbit processor in its own pen-based computer, the [EO 
 
 Resource:
 
-- [The Chip Letter: AT&T’s CRISP Hobbits](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbitss)
+- [The Chip Letter: AT&T’s CRISP Hobbits](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
 - [Wikipedia: AT&T Hobbit](https://en.wikipedia.org/wiki/AT%26T_Hobbit)
 
 ----
