@@ -12,6 +12,8 @@ A (link: /terms/view text: view) of information pertaining to an entry in the (l
 
 (image: /assets/images/card-2x.gif alt: Screenshot of the Card view in the Name File application width: 256)
 
+The layout of the card view can be selected in the (link: /terms/card-style text: Card Style) slip.
+
 Also referred to as a (link: /terms/name-card text: Name Card).
 
 Card is also an (link: /terms/application text: application) that allows the user to retrieve information about a PC card inserted into a Newton device, displaying that information in a (link: /terms/card-slip text: card slip) or (link: /terms/alert-box text: alert box).
@@ -27,6 +29,7 @@ Related:
 - /terms/bootstrap-card
 - /terms/card-slip
 - /terms/card-slot
+- /terms/card-style
 - /terms/cis
 - /terms/combo-card
 - /terms/compactflash

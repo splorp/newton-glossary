@@ -21,6 +21,7 @@ Related:
 - /terms/main-view
 - /terms/plain-border
 - /terms/striped-border
+- /terms/thick-border
 - /terms/user-interface
 - /terms/view
 - /terms/wavy-border

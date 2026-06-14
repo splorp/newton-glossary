@@ -15,6 +15,7 @@ A (link: /terms/view text: view) containing information pertaining to the (link:
 Related:
 
 - /terms/card
+- /terms/card-style
 - /terms/name-file
 - /terms/owner
 - /terms/owner-info

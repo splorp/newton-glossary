@@ -24,6 +24,7 @@ Related:
 - /terms/cadenza-connect
 - /terms/card
 - /terms/card-file
+- /terms/card-style
 - /terms/company
 - /terms/dateman
 - /terms/group

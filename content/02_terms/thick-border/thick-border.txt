@@ -1,0 +1,32 @@
+Title: Thick Border
+
+----
+
+Date: 14 June 2026
+
+----
+
+Text:
+
+A black border that surrounds a selected (link: /terms/icon text: icon) or (link: /terms/picture text: picture) in a (link: /terms/picture-radio-button text: picture radio button) group. For example, the (link: /terms/card-style text: Card Style) slip uses a thick border to indicate the selected style.
+
+(image: /assets/images/card-style-2x.gif alt: Screenshot of the Card Style slip with the second picture surrounded by a thick border width: 320)
+
+----
+
+Related:
+
+- /terms/card-style
+- /terms/matte-border
+- /terms/picture-radio-button
+- /terms/plain-border
+- /terms/striped-border
+- /terms/user-interface
+- /terms/view-border
+- /terms/wavy-border
+
+----
+
+Source:
+
+- /sources/newton-user-interface-guidelines

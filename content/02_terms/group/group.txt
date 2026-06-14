@@ -21,6 +21,7 @@ Also referred to as a (link: /terms/group-address text: Group Address).
 Related:
 
 - /terms/card
+- /terms/card-style
 - /terms/company
 - /terms/group-address
 - /terms/name-file

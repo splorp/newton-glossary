@@ -17,6 +17,7 @@ A (link: /terms/view text: view) displayed in the (link: /terms/name-file text: 
 Related:
 
 - /terms/card
+- /terms/card-style
 - /terms/company
 - /terms/group
 - /terms/name-file

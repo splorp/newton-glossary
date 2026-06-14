@@ -21,6 +21,7 @@ Related:
 - /terms/plain-border
 - /terms/routing-slip
 - /terms/slip
+- /terms/thick-border
 - /terms/user-interface
 - /terms/view
 - /terms/view-border

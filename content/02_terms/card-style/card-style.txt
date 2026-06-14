@@ -1,0 +1,36 @@
+Title: Card Style
+
+----
+
+Date: 14 June 2026
+
+----
+
+Text:
+
+The appearance or layout of a (link: /terms/card text: card) view in the (link: /terms/name-file text: Name File) application.
+
+Various style options are available in the Card Style (link: /terms/slip text: slip), displayed as set of (link: /terms/picture-radio-button text: picture radio buttons), with the selected style indicated by a (link: /terms/thick-border text: thick border).
+
+(image: /assets/images/card-style-2x.gif alt: Screenshot of the Card Style slip width: 320)
+
+----
+
+Related:
+
+- /terms/card
+- /terms/company
+- /terms/group
+- /terms/name-file
+- /terms/owner-card
+- /terms/person
+- /terms/picture-radio-button
+- /terms/slip
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual
+- /sources/newton-programmers-guide

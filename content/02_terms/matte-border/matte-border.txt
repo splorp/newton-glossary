@@ -19,6 +19,7 @@ Related:
 - /terms/plain-border
 - /terms/slip
 - /terms/striped-border
+- /terms/thick-border
 - /terms/user-interface
 - /terms/view
 - /terms/view-border

@@ -8,7 +8,11 @@ Date: 24 May 2001
 
 Text:
 
-A Newton-specific (link: /terms/radio-button text: radio button) control that displays its state — either on or off — and is part of a group in which the user can (link: /terms/select text: select) only one (link: /terms/button text: button) at a time. A (link: /terms/picture text: picture) next to each button in the group indicates the control’s current setting. Compare this to a (link: /terms/checkbox text: checkbox) group, where more than one button can be selected at a time.
+A Newton-specific (link: /terms/radio-button text: radio button) control where each button is represented by an (link: /terms/icon text: icon) or a (link: /terms/picture text: picture). Like a standard radio button, it displays its state — either on or off — and is part of a group in which the user can (link: /terms/select text: select) only one (link: /terms/button text: button) at a time. 
+
+Typically, several picture radio buttons will appear next to each other in a (link: /terms/slip text: slip), with the selection indicated by a (link: /terms/thick-border text: thick border).
+
+(image: /assets/images/card-style-2x.gif alt: Screenshot of the Card Style slip with a set of Picture Radio Buttons width: 320)
 
 ----
 
@@ -16,11 +20,13 @@ Related:
 
 - /terms/deselect
 - /terms/button
+- /terms/card-style
 - /terms/checkbox
 - /terms/picture
 - /terms/picture-button
 - /terms/radio-button
 - /terms/select
+- /terms/thick-border
 - /terms/user-interface
 
 ----

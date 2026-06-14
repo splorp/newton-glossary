@@ -24,6 +24,7 @@ Related:
 - /terms/notification-alert
 - /terms/plain-border
 - /terms/striped-border
+- /terms/thick-border
 - /terms/user-interface
 - /terms/view
 - /terms/view-border
