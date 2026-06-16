@@ -18,6 +18,7 @@ Tapping on the stamp image will cause a (link: /terms/selection-box text: select
 
 Related:
 
+- /terms/availworks
 - /terms/draw
 - /terms/drawing
 - /terms/drawing-engine
@@ -30,6 +31,5 @@ Related:
 
 Source:
 
-- /sources/emate-300-teachers-guide
 - /sources/newton-programmers-guide
 - /sources/newton-works-help

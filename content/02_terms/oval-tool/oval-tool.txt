@@ -20,6 +20,7 @@ Also referred to as the (link: /terms/circle-tool text: Circle Tool).
 
 Related:
 
+- /terms/availworks
 - /terms/circle
 - /terms/circle-tool
 - /terms/draw
