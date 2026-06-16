@@ -8,4 +8,4 @@ Date: 16 June 2026
 
 Text:
 
-The built-in (link: /terms/help-book text: help book) for the (link: /terms/newton-works text: Newton Works) application that shipped with the (link: /terms/emate-300 text: eMate 300).
+The built-in (link: /terms/help-book text: help book) for the (link: /terms/newton-works text: Newton Works) application included with the (link: /terms/emate-300 text: eMate 300).
