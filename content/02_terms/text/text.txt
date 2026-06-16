@@ -27,6 +27,7 @@ Related:
 - /terms/text-file
 - /terms/text-recognizer-toggle
 - /terms/text-run
+- /terms/text-tool
 - /terms/txt
 
 ----

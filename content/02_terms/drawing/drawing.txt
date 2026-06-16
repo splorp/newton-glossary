@@ -37,6 +37,7 @@ Related:
 - /terms/spreadsheet
 - /terms/stamp-tool
 - /terms/stationery
+- /terms/text-tool
 - /terms/title-slip
 - /terms/untitled-drawing
 - /terms/works-practice

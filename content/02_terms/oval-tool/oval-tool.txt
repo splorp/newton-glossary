@@ -29,6 +29,7 @@ Related:
 - /terms/newtonworks
 - /terms/oval
 - /terms/stamp-tool
+- /terms/text-tool
 - /terms/toolbar
 - /terms/user-interface
 

@@ -21,6 +21,7 @@ Related:
 - /terms/drawing-engine
 - /terms/newton-works
 - /terms/stamp-tool
+- /terms/text-tool
 - /terms/untitled-drawing
 
 ----

@@ -26,6 +26,7 @@ Related:
 - /terms/styles
 - /terms/text-engine
 - /terms/text
+- /terms/text-tool
 - /terms/word-wrap
 - /terms/typeface
 

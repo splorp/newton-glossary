@@ -1,0 +1,42 @@
+Title: Text Tool
+
+----
+
+Date: 16 June 2026
+
+----
+
+Text:
+
+A tool found in (link: /terms/newton-works text: Newton Works) used to add text to a (link: /terms/drawing text: drawing) document.
+
+(link: /terms/tapping text: Tapping) the text tool on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen) will display a vertical line next to a (link: /terms/caret text: caret).
+
+Tapping on the text with the (link: /terms/pointer tool text: pointer tool) will cause a (link: /terms/selection-box text: selection box) to to appear around the text, allowing the user to move the text or resize the box using the (link: /terms/handle text: handles).
+
+----
+
+Related:
+
+- /terms/availworks
+- /terms/draw
+- /terms/drawing
+- /terms/drawing-engine
+- /terms/newtonworks
+- /terms/oval-tool
+- /terms/pointer-tool
+- /terms/rectangle
+- /terms/rounded-rectangle
+- /terms/rounded-rectangle-tool
+- /terms/square
+- /terms/square-tool
+- /terms/stamp-tool
+- /terms/toolbar
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/emate-learning-works
+- /sources/newton-works-help

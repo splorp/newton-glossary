@@ -24,6 +24,7 @@ Related:
 - /terms/drawing-engine
 - /terms/newtonworks
 - /terms/stamp
+- /terms/text-tool
 - /terms/toolbar
 - /terms/user-interface
 

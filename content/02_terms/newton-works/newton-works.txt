@@ -44,6 +44,7 @@ Related:
 - /terms/spreadsheet
 - /terms/stamp-tool
 - /terms/text-engine
+- /terms/text-tool
 - /terms/title-slip
 - /terms/twerx
 - /terms/untitled
