@@ -37,6 +37,7 @@ Related:
 - /terms/newtpaint
 - /terms/newtworks
 - /terms/operator
+- /terms/oval-tool
 - /terms/paper
 - /terms/quick-sketch
 - /terms/quickfigure-pro
