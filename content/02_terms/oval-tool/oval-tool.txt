@@ -28,6 +28,8 @@ Related:
 - /terms/drawing-engine
 - /terms/newtonworks
 - /terms/oval
+- /terms/rectangle-tool
+- /terms/rounded-rectangle-tool
 - /terms/stamp-tool
 - /terms/text-tool
 - /terms/toolbar

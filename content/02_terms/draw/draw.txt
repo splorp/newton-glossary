@@ -20,6 +20,8 @@ Related:
 - /terms/draw-application
 - /terms/drawing-engine
 - /terms/newton-works
+- /terms/rectangle-tool
+- /terms/rounded-rectangle-tool
 - /terms/stamp-tool
 - /terms/text-tool
 - /terms/untitled-drawing

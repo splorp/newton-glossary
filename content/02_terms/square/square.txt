@@ -25,7 +25,9 @@ Related:
 - /terms/picture
 - /terms/polygon
 - /terms/rectangle
+- /terms/rectangle-tool
 - /terms/rounded-rectangle
+- /terms/rounded-rectangle-tool
 - /terms/shape
 - /terms/shapes
 - /terms/square

@@ -23,6 +23,8 @@ Related:
 - /terms/drawing
 - /terms/drawing-engine
 - /terms/newtonworks
+- /terms/rectangle-tool
+- /terms/rounded-rectangle-tool
 - /terms/stamp
 - /terms/text-tool
 - /terms/toolbar

@@ -41,6 +41,8 @@ Related:
 - /terms/quick-sketch
 - /terms/quickfigure-pro
 - /terms/quickfigure-works
+- /terms/rectangle-tool
+- /terms/rounded-rectangle-tool
 - /terms/spreadsheet
 - /terms/stamp-tool
 - /terms/text-engine
