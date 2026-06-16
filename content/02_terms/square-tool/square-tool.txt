@@ -1,0 +1,17 @@
+Title: Square Tool
+
+----
+
+Date: 16 June 2026
+
+----
+
+Text:
+
+See: (link: /terms/rectangle-tool text: Rectangle Tool)
+
+----
+
+Source:
+
+- /sources/newton-works-help

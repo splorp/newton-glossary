@@ -36,3 +36,4 @@ Related:
 Source:
 
 - /sources/emate-300-teachers-guide
+- /sources/newton-works-help
