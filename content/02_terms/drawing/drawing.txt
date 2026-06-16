@@ -35,6 +35,7 @@ Related:
 - /terms/newton-works
 - /terms/oval-tool
 - /terms/paper
+- /terms/pointer-tool
 - /terms/rectangle-tool
 - /terms/rounded-rectangle-tool
 - /terms/spreadsheet
