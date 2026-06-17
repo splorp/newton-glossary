@@ -27,6 +27,7 @@ Related:
 - /terms/newtonworks
 - /terms/oval-tool
 - /terms/pointer-tool
+- /terms/polygon-tool
 - /terms/rectangle
 - /terms/rounded-rectangle
 - /terms/rounded-rectangle-tool

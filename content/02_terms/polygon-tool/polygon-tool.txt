@@ -1,0 +1,43 @@
+Title: Polygon Tool
+
+----
+
+Date: 17 June 2026
+
+----
+
+Text:
+
+A tool found in (link: /terms/newton-works text: Newton Works) used to add (link: /terms/object text: objects) composed of three or more straight sides to a (link: /terms/drawing text: drawing) document.
+
+(link: /terms/tapping text: Tapping) the polygon tool on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen) will create the starting point of the polygon. Tapping again will create a straight (link: /terms/line text: line) between the first and second points. Subsequent taps will continue to create lines from point to point.
+
+To complete the polygon, either (link: /terms/double-tap text: double-tap) the pen or tap on another tool in the (link: /terms/toolbar text: toolbar).
+
+Tapping on the polygon with the (link: /terms/pointer-tool text: pointer tool) will cause a (link: /terms/selection-box text: selection box) to to appear around the object, allowing the user to move the object or resize the object using the (link: /terms/handle text: handles).
+
+----
+
+Related:
+
+- /terms/availworks
+- /terms/draw
+- /terms/drawing
+- /terms/drawing-engine
+- /terms/newtonworks
+- /terms/oval-tool
+- /terms/pointer-tool
+- /terms/polygon
+- /terms/rectangle-tool
+- /terms/rounded-rectangle-tool
+- /terms/stamp-tool
+- /terms/text-tool
+- /terms/toolbar
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/newton-works-help

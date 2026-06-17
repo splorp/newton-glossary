@@ -36,6 +36,7 @@ Related:
 - /terms/oval-tool
 - /terms/paper
 - /terms/pointer-tool
+- /terms/polygon-tool
 - /terms/rectangle-tool
 - /terms/rounded-rectangle-tool
 - /terms/spreadsheet
