@@ -17,6 +17,7 @@ Related:
 - /terms/arc
 - /terms/circle
 - /terms/drawing-engine
+- /terms/line-tool
 - /terms/oval
 - /terms/picture
 - /terms/polygon

@@ -1,0 +1,45 @@
+Title: Line Tool
+
+----
+
+Date: 17 June 2026
+
+----
+
+Text:
+
+A tool found in (link: /terms/newton-works text: Newton Works) used to add straight line (link: /terms/object text: objects) to a (link: /terms/drawing text: drawing) document.
+
+(link: /terms/dragging text: Dragging) the line tool on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen) will create a (link: /terms/line text: line) in the direction of the (link: /terms/drag text: drag). To create a vertical, horizontal, or 45° diagonal line, hold down the (link: /terms/shift-key text: Shift key) while dragging the tool.
+
+Tapping on the line with the (link: /terms/pointer-tool text: pointer tool) will cause (link: /terms/handle text: handles) to appear at each end of the line, allowing the user to move or resize the object.
+
+Also referred to as the (link: /terms/straight-line-tool text: Straight-Line Tool).
+
+----
+
+Related:
+
+- /terms/availworks
+- /terms/draw
+- /terms/drawing
+- /terms/drawing-engine
+- /terms/line
+- /terms/newtonworks
+- /terms/oval-tool
+- /terms/pointer-tool
+- /terms/polygon-tool
+- /terms/rectangle-tool
+- /terms/rounded-rectangle-tool
+- /terms/stamp-tool
+- /terms/straight-line-tool
+- /terms/text-tool
+- /terms/toolbar
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/newton-works-help
