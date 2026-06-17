@@ -10,3 +10,4 @@
 /site/sessions/*
 !/site/sessions/index.html
 /site/config/.license
+/site/config/config.php
