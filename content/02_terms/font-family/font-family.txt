@@ -34,6 +34,7 @@ Related:
 - /terms/styles
 - /terms/system
 - /terms/text-run
+- /terms/text-tool
 - /terms/typeface
 
 ----

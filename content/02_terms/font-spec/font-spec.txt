@@ -25,7 +25,6 @@ Related:
 - /terms/style-run
 - /terms/styles
 - /terms/text-run
-- /terms/typeface
 
 ----
 

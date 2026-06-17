@@ -41,7 +41,6 @@ Related:
 - /terms/styles
 - /terms/system
 - /terms/text-run
-- /terms/typeface
 
 ----
 

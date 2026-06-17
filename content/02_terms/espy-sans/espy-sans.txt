@@ -54,7 +54,6 @@ Related:
 - /terms/system
 - /terms/text-run
 - /terms/to-do-list
-- /terms/typeface
 
 ----
 

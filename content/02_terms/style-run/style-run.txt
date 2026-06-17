@@ -26,8 +26,8 @@ Related:
 - /terms/ruler
 - /terms/styles
 - /terms/text-run
+- /terms/text-tool
 - /terms/word-wrap
-- /terms/typeface
 
 ----
 

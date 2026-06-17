@@ -44,7 +44,7 @@ Related:
 - /terms/text-editing-engine
 - /terms/text-file
 - /terms/text-run
-- /terms/typeface
+- /terms/text-tool
 
 ----
 

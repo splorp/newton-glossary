@@ -29,7 +29,6 @@ Related:
 - /terms/rectangle-tool
 - /terms/rounded-rectangle
 - /terms/square
-- /terms/square-tool
 - /terms/stamp-tool
 - /terms/text-tool
 - /terms/toolbar

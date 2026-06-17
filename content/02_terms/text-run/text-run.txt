@@ -24,11 +24,10 @@ Related:
 - /terms/point
 - /terms/style-run
 - /terms/styles
-- /terms/text-engine
 - /terms/text
+- /terms/text-engine
 - /terms/text-tool
 - /terms/word-wrap
-- /terms/typeface
 
 ----
 

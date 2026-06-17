@@ -19,18 +19,29 @@ Tapping on the text with the (link: /terms/pointer-tool text: pointer tool) will
 Related:
 
 - /terms/availworks
+- /terms/character
+- /terms/character
 - /terms/draw
 - /terms/drawing
 - /terms/drawing-engine
+- /terms/font
+- /terms/font-engine
+- /terms/font-family
+- /terms/font-size
+- /terms/font-style
 - /terms/newtonworks
 - /terms/oval-tool
+- /terms/point
 - /terms/pointer-tool
-- /terms/rectangle
+- /terms/polygon-tool
 - /terms/rounded-rectangle
 - /terms/rounded-rectangle-tool
-- /terms/square
-- /terms/square-tool
 - /terms/stamp-tool
+- /terms/style-run
+- /terms/styles
+- /terms/text
+- /terms/text-engine
+- /terms/text-run
 - /terms/toolbar
 - /terms/user-interface
 
