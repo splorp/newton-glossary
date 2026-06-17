@@ -12,7 +12,7 @@ A tool found in (link: /terms/newton-works text: Newton Works) used to add text 
 
 (link: /terms/tapping text: Tapping) the text tool on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen) will display a vertical line next to a (link: /terms/caret text: caret).
 
-Tapping on the text with the (link: /terms/pointer-tool text: pointer tool) will cause a (link: /terms/selection-box text: selection box) to to appear around the text, allowing the user to move the text or resize the box using the (link: /terms/handle text: handles).
+Tapping on the text with the (link: /terms/pointer-tool text: pointer tool) will cause a (link: /terms/selection-box text: selection box) to appear around the text, allowing the user to move the text or resize the box using the (link: /terms/handle text: handles).
 
 ----
 
