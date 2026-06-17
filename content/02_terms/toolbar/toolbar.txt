@@ -16,6 +16,8 @@ A (link: /terms/user-interface text: user interface) element consisting of a row
 
 If a toolbar is constructed as a (link: /terms/floating-container-view text: floating container view), it can also be referred to as a (link: /terms/palette text: palette).
 
+Also referred to as a (link: /terms/tool-bar text: Tool Bar).
+
 ----
 
 Related:
@@ -32,6 +34,7 @@ Related:
 - /terms/separator-bar
 - /terms/status-bar
 - /terms/tapbar
+- /terms/tool-bar
 - /terms/user-interface
 - /terms/vitamin-a
 
