@@ -10,7 +10,7 @@ Text:
 
 A description of the graphic (link: /terms/zig-zag text: zig-zag) element used in one of the (link: /terms/card-style text: card styles) available in the (link: /terms/name-file text: Name File) application.
 
-(image: /assets/images/squiggly-line-2x.gif alt: Screenshot of a Card in the Name File with a Squiggly Line graphic element width: 256)
+(image: /assets/images/squiggly-line-2x.gif alt: Screenshot of a Card in the Name File with a graphic element resembling a Squiggly Line width: 256)
 
 ----
 
@@ -20,6 +20,7 @@ Related:
 - /terms/card
 - /terms/card-style
 - /terms/company
+- /terms/dotted-fading-line
 - /terms/group
 - /terms/line
 - /terms/name-file

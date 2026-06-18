@@ -1,0 +1,35 @@
+Title: Dotted Fading Line
+
+----
+
+Date: 18 June 2026
+
+----
+
+Text:
+
+A description of the patterned (link: /terms/line text: line) used as a graphic element in one of the (link: /terms/card-style text: card styles) available in the (link: /terms/name-file text: Name File) application.
+
+(image: /assets/images/dotted-fading-line-2x.gif alt: Screenshot of a Card in the Name File with a graphic element resembling a Dotted Fading Line width: 256)
+
+----
+
+Related:
+
+- /terms/bullet-holes
+- /terms/card
+- /terms/card-style
+- /terms/company
+- /terms/group
+- /terms/line
+- /terms/name-file
+- /terms/owner-card
+- /terms/person
+- /terms/squiggly-line
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

@@ -1,0 +1,35 @@
+Title: Bullet Holes
+
+----
+
+Date: 18 June 2026
+
+----
+
+Text:
+
+A description of the random pattern of dots used as a graphic element in one of the (link: /terms/card-style text: card styles) available in the (link: /terms/name-file text: Name File) application.
+
+(image: /assets/images/bullet-holes-2x.gif alt: Screenshot of a Card in the Name File with a graphic element resembling Bullet Holes width: 256)
+
+----
+
+Related:
+
+- /terms/card
+- /terms/card-style
+- /terms/company
+- /terms/dotted-fading-line
+- /terms/group
+- /terms/line
+- /terms/name-file
+- /terms/owner-card
+- /terms/person
+- /terms/squiggly-line
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

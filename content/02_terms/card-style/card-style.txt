@@ -14,12 +14,24 @@ Various style options are available in the Card Style (link: /terms/slip text: s
 
 (image: /assets/images/card-style-2x.gif alt: Screenshot of the Card Style slip width: 320)
 
+The (link: /terms/newton-programmers-guide text: Newton Programmer’s Guide) describes the card styles as:
+
+- Layout with a (link: /terms/squiggly-line text: squiggly line)
+- Plain layout
+- Layout with dashed lines
+- Layout with crossed lines
+- Layout with (link: /terms/bullet-holes text: bullet holes) all over
+- Layout with (link: /terms/dotted-fading-line text: dotted fading line)
+- Layout with big bullet holes in a single line
+
 ----
 
 Related:
 
+- /terms/bullet-holes
 - /terms/card
 - /terms/company
+- /terms/dotted-fading-line
 - /terms/group
 - /terms/name-file
 - /terms/owner-card
