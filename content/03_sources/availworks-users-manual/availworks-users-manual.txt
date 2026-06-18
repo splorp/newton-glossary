@@ -1,0 +1,17 @@
+Title: AvailWorks User’s Manual
+
+----
+
+Date: 18 June 2026
+
+----
+
+Text:
+
+The user manual for (link: /terms/availworks text: AvailWorks), an integrated, multifunction (link: /terms/application text: application) for Newton devices developed by Avail Technology and (link: /sources/pelicanware text: PelicanWare).
+
+----
+
+Resource:
+
+- [Newted: AvailWorks User’s Manual](https://www.newted.org/download/manuals/AvailWorksManual.pdf)

@@ -9,3 +9,9 @@ Date: 18 June 2026
 Text:
 
 See: (link: /terms/freehand-tool text: Freehand Tool)
+
+----
+
+Source:
+
+- /sources/availworks-users-manual
