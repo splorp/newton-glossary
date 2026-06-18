@@ -33,6 +33,7 @@ Related:
 - /terms/quick-sketch
 - /terms/rectangle-tool
 - /terms/rounded-rectangle-tool
+- /terms/shapes-tool
 - /terms/sketch
 - /terms/squiggly-shaped-tool
 - /terms/stamp-tool

@@ -25,7 +25,10 @@ Related:
 - /terms/quick-sketch
 - /terms/rectangle
 - /terms/rounded-rectangle
+- /terms/shape-recognizer
 - /terms/shapes
+- /terms/shapes-palette
+- /terms/shapes-tool
 - /terms/square
 - /terms/sketch
 - /terms/sketches

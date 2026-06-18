@@ -1,0 +1,32 @@
+Title: Shapes Palette
+
+----
+
+Date: 18 June 2026
+
+----
+
+Text:
+
+A (link: /terms/user-interface text: user interface) element found in (link: /terms/availworks text: AvailWorks) containing a group of predetermined graphic objects that can be added to a document. (link: /terms/tapping text: Tapping) the (link: /terms/shapes-tool text: shapes tool) in the (link: /terms/toolbar text: toolbar) displays the (link: /terms/palette text: palette).
+
+(image: /assets/images/shapes-palette-2x.gif alt: Screenshot of AvailWorks with the Shapes Palette displayed width: 320)
+
+----
+
+Related:
+
+- /terms/availworks
+- /terms/draw
+- /terms/drawing
+- /terms/palette
+- /terms/shape
+- /terms/shapes
+- /terms/shapes-tool
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/availworks-users-manual

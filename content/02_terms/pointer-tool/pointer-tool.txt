@@ -2,7 +2,7 @@ Title: Pointer Tool
 
 ----
 
-Date: 17 February 2026
+Date: 17 June 2026
 
 ----
 
@@ -27,6 +27,7 @@ Related:
 - /terms/polygon-tool
 - /terms/rectangle-tool
 - /terms/rounded-rectangle-tool
+- /terms/shapes-tool
 - /terms/stamp-tool
 - /terms/text-tool
 - /terms/toolbar

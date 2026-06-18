@@ -38,6 +38,7 @@ Related:
 - /terms/polygon-tool
 - /terms/rounded-rectangle
 - /terms/rounded-rectangle-tool
+- /terms/shapes-tool
 - /terms/stamp-tool
 - /terms/style-run
 - /terms/styles

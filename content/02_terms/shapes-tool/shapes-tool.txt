@@ -1,0 +1,46 @@
+Title: Shapes Tool
+
+----
+
+Date: 18 June 2026
+
+----
+
+Text:
+
+A tool found in (link: /terms/newton-works text: Newton Works) that uses the (link: /terms/shapes text: shapes) functionality of the (link: /terms/handwriting-recognition text: handwriting recognition) system. When a (link: /terms/shape text: shape) is drawn on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen), curves will be smoothed and lines will be straightened automatically.
+
+Tapping on the shape with the (link: /terms/pointer-tool text: pointer tool) will cause a (link: /terms/selection-box text: selection box) to appear around the object, allowing the user to move the image or resize the object using the (link: /terms/handle text: handles).
+
+In (link: /terms/availworks text: AvailWorks), tapping on the Shapes tool displays a (link: /terms/shapes-palette text: shapes palette) which can be used to select a shape from a group of predetermined objects.
+
+----
+
+Related:
+
+- /terms/availworks
+- /terms/draw
+- /terms/drawing
+- /terms/drawing-engine
+- /terms/freehand-tool
+- /terms/line-tool
+- /terms/newtonworks
+- /terms/oval-tool
+- /terms/pointer-tool
+- /terms/polygon-tool
+- /terms/rectangle-tool
+- /terms/rounded-rectangle-tool
+- /terms/shape
+- /terms/shape-recognizer
+- /terms/shapes
+- /terms/shapes-palette
+- /terms/stamp-tool
+- /terms/text-tool
+- /terms/toolbar
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-works-help

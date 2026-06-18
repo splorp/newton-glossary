@@ -29,6 +29,7 @@ Related:
 - /terms/shape
 - /terms/shape-interpreter
 - /terms/shapes
+- /terms/shapes-tool
 
 ----
 

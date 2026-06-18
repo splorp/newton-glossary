@@ -32,6 +32,7 @@ Related:
 - /terms/polygon
 - /terms/rectangle-tool
 - /terms/rounded-rectangle-tool
+- /terms/shapes-tool
 - /terms/stamp-tool
 - /terms/text-tool
 - /terms/toolbar

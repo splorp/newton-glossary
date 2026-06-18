@@ -41,6 +41,7 @@ Related:
 - /terms/polygon-tool
 - /terms/rectangle-tool
 - /terms/rounded-rectangle-tool
+- /terms/shapes-tool
 - /terms/spreadsheet
 - /terms/stamp-tool
 - /terms/stationery

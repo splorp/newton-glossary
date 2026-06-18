@@ -23,6 +23,9 @@ Related:
 - /terms/recognizer-picker
 - /terms/shape
 - /terms/shape-recognition
+- /terms/shape-recognizer
+- /terms/shapes-palette
+- /terms/shapes-tool
 - /terms/sketch
 - /terms/sketches
 - /terms/text-recognizer-toggle

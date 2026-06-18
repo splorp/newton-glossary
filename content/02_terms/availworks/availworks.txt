@@ -34,6 +34,7 @@ Related:
 - /terms/operator
 - /terms/quickfigure-pro
 - /terms/quickfigure-works
+- /terms/shapes-palette
 - /terms/spreadsheet
 - /terms/text-engine
 
