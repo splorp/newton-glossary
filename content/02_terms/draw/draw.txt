@@ -19,6 +19,8 @@ Related:
 - /terms/drawing
 - /terms/draw-application
 - /terms/drawing-engine
+- /terms/freehand-tool
+- /terms/line-tool
 - /terms/newton-works
 - /terms/oval-tool
 - /terms/pointer-tool

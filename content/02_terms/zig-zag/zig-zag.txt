@@ -10,6 +10,8 @@ Text:
 
 A back and forth (link: /terms/gesture text: gesture) made with the (link: /terms/pen text: pen). This gesture is usually performed in order to (link: /terms/delete text: delete) text or (link: /terms/ink text: ink) drawings on the (link: /terms/screen text: screen) of a Newton device.
 
+Zig-zag can also describe a (link: /terms/line text: line) or other graphic element that alternates sharply in opposite directions.
+
 Also referred to as (link: /terms/zigzag text: Zigzag).
 
 ----
@@ -20,10 +22,13 @@ Related:
 - /terms/delete
 - /terms/gesture
 - /terms/going-up-in-smoke
+- /terms/line
 - /terms/pen
 - /terms/poof
 - /terms/poof-it
 - /terms/scrub
+- /terms/squiggly
+- /terms/squiggly-line
 - /terms/zigzag
 
 ----

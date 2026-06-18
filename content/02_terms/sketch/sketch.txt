@@ -16,6 +16,7 @@ Related:
 
 - /terms/drawing-engine
 - /terms/electronic-ink
+- /terms/freehand-tool
 - /terms/ink
 - /terms/picture
 - /terms/quick-sketch

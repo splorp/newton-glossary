@@ -20,6 +20,7 @@ Related:
 - /terms/draw
 - /terms/drawing
 - /terms/drawing-engine
+- /terms/freehand-tool
 - /terms/line-tool
 - /terms/newtonworks
 - /terms/oval-tool

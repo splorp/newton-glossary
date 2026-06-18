@@ -24,6 +24,8 @@ Related:
 - /terms/notification-alert
 - /terms/plain-border
 - /terms/striped-border
+- /terms/squiggly
+- /terms/squiggly-line
 - /terms/thick-border
 - /terms/user-interface
 - /terms/view

@@ -1,0 +1,48 @@
+Title: Freehand Tool
+
+----
+
+Date: 18 June 2026
+
+----
+
+Text:
+
+A tool found in (link: /terms/newton-works text: Newton Works) used to add a hand-drawn (link: /terms/sketch text: sketch) to a (link: /terms/drawing text: drawing) document.
+
+(link: /terms/dragging text: Dragging) the freehand tool on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen) will create lines similar to using a pencil on paper.
+
+Tapping on any part of the sketch with the (link: /terms/pointer-tool text: pointer tool) will cause a (link: /terms/selection-box text: selection box) to appear around the object, allowing the user to move the object or resize the object using the (link: /terms/handle text: handles).
+
+Also referred to as the (link: /terms/curve-tool text: Curve Tool) and (link: /terms/squiggly-shaped-tool text: Squiggly Shaped Tool).
+
+----
+
+Related:
+
+- /terms/availworks
+- /terms/curve-tool
+- /terms/draw
+- /terms/drawing
+- /terms/drawing-engine
+- /terms/line-tool
+- /terms/newtonworks
+- /terms/oval-tool
+- /terms/pointer-tool
+- /terms/polygon-tool
+- /terms/quick-sketch
+- /terms/rectangle-tool
+- /terms/rounded-rectangle-tool
+- /terms/sketch
+- /terms/squiggly-shaped-tool
+- /terms/stamp-tool
+- /terms/text-tool
+- /terms/toolbar
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/emate-300-teachers-guide
+- /sources/newton-works-help

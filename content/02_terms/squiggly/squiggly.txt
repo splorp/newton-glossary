@@ -1,0 +1,11 @@
+Title: Squiggly
+
+----
+
+Date: 16 June 2026
+
+----
+
+Text:
+
+See: (link: /terms/freehand-tool text: Freehand Tool), (link: /terms/jaggies text: Jaggies), (link: /terms/squiggly-line text: Squiggly Line), (link: /terms/wavy-border text: Wavy Border), and (link: /terms/zig-zag text: Zig-Zag)

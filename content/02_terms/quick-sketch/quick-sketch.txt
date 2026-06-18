@@ -18,6 +18,7 @@ Related:
 
 - /terms/drawing-engine
 - /terms/electronic-ink
+- /terms/freehand-tool
 - /terms/newton-works
 - /terms/picture
 - /terms/recognition-button

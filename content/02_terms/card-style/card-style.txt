@@ -26,6 +26,7 @@ Related:
 - /terms/person
 - /terms/picture-radio-button
 - /terms/slip
+- /terms/squiggly-line
 - /terms/user-interface
 
 ----

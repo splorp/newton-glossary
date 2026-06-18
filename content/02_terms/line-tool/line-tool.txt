@@ -25,6 +25,7 @@ Related:
 - /terms/drawing
 - /terms/drawing-engine
 - /terms/line
+- /terms/freehand-tool
 - /terms/newtonworks
 - /terms/oval-tool
 - /terms/pointer-tool
