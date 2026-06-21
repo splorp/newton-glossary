@@ -57,6 +57,7 @@ Related:
 - /terms/text-button
 - /terms/text-recognizer-toggle
 - /terms/toolbar
+- /terms/tools-button
 - /terms/try-letters
 - /terms/universal-scroll-arrows
 - /terms/user-interface

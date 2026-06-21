@@ -16,6 +16,8 @@ A system-wide feature built into (link: /terms/newton-os text: Newton OS) allows
 
 Also referred to as a (link: /terms/search-engine text: Search Engine).
 
+The (link: /terms/newton-works text: Newton Works) application provides it’s own find feature to search within the current open document or (link: /terms/stationery text: stationery).
+
 ----
 
 Related:
@@ -25,6 +27,8 @@ Related:
 - /terms/find-button
 - /terms/find-slip
 - /terms/search-engine
+- /terms/tools-button
+- /terms/tools-picker
 
 ----
 

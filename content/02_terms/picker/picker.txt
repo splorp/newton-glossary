@@ -39,6 +39,7 @@ Related:
 - /terms/show-picker
 - /terms/snooze-picker
 - /terms/tag-picker
+- /terms/tools-picker
 - /terms/user-interface
 
 ----

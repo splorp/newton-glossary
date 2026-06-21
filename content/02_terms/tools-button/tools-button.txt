@@ -1,0 +1,33 @@
+Title: Tools Button
+
+----
+
+Date: 21 June 2026
+
+----
+
+Text:
+
+A (link: /terms/button text: button) located in the (link: /terms/status-bar text: status bar) of the (link: /terms/newton-works text: Newton Works) application. When (link: /terms/tapped text: tapped), it displays a (link: /terms/picker text: picker) listing various tools available for the current document or (link: /terms/stationery text: stationery).
+
+(image: /assets/images/tools-button-2x.gif alt: Screenshot of a Tools Button with Picker width: 156)
+
+For example, selecting the (link: /terms/find text: Find) item in the (link: /terms/tools-picker text: tools picker) applies that operation to only the document that is currently open, not all Newton Works documents.
+
+----
+
+Related:
+
+- /terms/button
+- /terms/find
+- /terms/newton-works
+- /terms/picker
+- /terms/quick-sketch
+- /terms/tools-picker
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
