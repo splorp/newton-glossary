@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A (link: /terms/button text: button) used in (link: /terms/application text: applications) to invoke (link: /terms/routing text: routing) functions. When (link: /terms/tapped text: tapped), it displays an (link: /terms/action-picker text: action picker) listing the various routing actions available for the current item.
+A small (link: /terms/picture-button text: picture button) containing an (link: /terms/icon text: icon) representing and envelope. The action (link: /terms/button text: button) is used in (link: /terms/application text: applications) to invoke (link: /terms/routing text: routing) functions. When (link: /terms/tapped text: tapped), it displays an (link: /terms/action-picker text: action picker) listing the various routing actions available for the current item.
 
 Also referred to as an (link: /terms/envelope-button text: Envelope Button) or (link: /terms/routing-button text: Routing Button).
 
@@ -24,6 +24,7 @@ Related:
 - /terms/envelope-button
 - /terms/more-routing
 - /terms/picker
+- /terms/picture-button
 - /terms/routing
 - /terms/routing-button
 - /terms/routing-slip

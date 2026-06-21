@@ -8,7 +8,9 @@ Date: 06 October 2002
 
 Text:
 
-The small (link: /terms/button text: button) found in an (link: /terms/application text: application) that facilitates the editing or tagging of information related to the currently (link: /terms/select text: selected) item. When (link: /terms/tapped text: tapped), the tag button displays a (link: /terms/picker text: picker) listing available tagging options, otherwise known as a (link: /terms/tag-picker text: tag picker). Depending on the type of item selected, the tag button can be used to reply to a fax, change the recipient of an email, or (link: /terms/put-away text: put away) a (link: /terms/package text: package).
+A small (link: /terms/picture-button text: picture button) containing an (link: /terms/icon text: icon) representing a tag. The tag (link: /terms/button text: button) facilitates editing or tagging of information related to the currently (link: /terms/select text: selected) item. When (link: /terms/tapped text: tapped), a (link: /terms/tag-picker text: tag picker) is displayed listing available tagging options.
+
+Depending on the type of item selected, the tag button can be used to reply to a fax, change the recipient of an email, or (link: /terms/put-away text: put away) a (link: /terms/package text: package).
 
 (image: /assets/images/tag-picker-2x.gif alt: Screenshot of a Tag Button with Picker width: 134)
 
@@ -18,6 +20,7 @@ Related:
 
 - /terms/button
 - /terms/picker
+- /terms/picture-button
 - /terms/put-away
 - /terms/tag
 - /terms/tag-picker
