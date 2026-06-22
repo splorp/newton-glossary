@@ -10,7 +10,7 @@ Text:
 
 A (link: /terms/view text: view) of information displayed in the (link: /terms/name-file text: Name File) for a (link: /terms/group-address text: group address) that does not have any information entered into the “Group Name” (link: /terms/field text: field).
 
-An “Untitled Group” card will appear listed alphabetically under “U” in the Name File (link: /terms/overview text: overview).
+An “Untitled Group” card appears listed alphabetically under “U” in the Name File (link: /terms/overview text: overview).
 
 (image: /assets/images/untitled-group-2x.gif alt: Screenshot of an Untitled Group slip with a People Picker being used to select contacts from the Name File” width: 320)
 

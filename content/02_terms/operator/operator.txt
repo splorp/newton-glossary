@@ -8,7 +8,7 @@ Date: 23 March 2025
 
 Text:
 
-A (link: /terms/character text: character) used to specify an arithmetic operation (such as addition, subtraction, multiplication, or division) that will be performed on values using a (link: /terms/formula text: formula) in a (link: /terms/spreadsheet text: spreadsheet) document.
+A (link: /terms/character text: character) used to specify an arithmetic operation (such as addition, subtraction, multiplication, or division) that is performed on values using a (link: /terms/formula text: formula) in a (link: /terms/spreadsheet text: spreadsheet) document.
 
 ----
 

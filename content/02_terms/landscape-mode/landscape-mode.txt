@@ -12,7 +12,7 @@ When the content on the (link: /terms/screen text: screen) of a Newton device is
 
 The orientation can be changed by (link: /terms/tapping text: tapping) the (link: /terms/rotate-button text: Rotate Button).
 
-Not all (link: /terms/application text: applications) support landscape mode and will display a (link: /terms/notification-alert text: notification alert) prompting you to return the screen to portrait mode.
+Not all (link: /terms/application text: applications) support landscape mode and displays a (link: /terms/notification-alert text: notification alert) prompting you to return the screen to portrait mode.
 
 ----
 

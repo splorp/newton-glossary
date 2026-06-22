@@ -12,7 +12,7 @@ A (link: /terms/user-interface text: user interface) element consisting of a row
 
 (image: /assets/images/toolbar-2x.gif alt: Screenshot of the Toolbar from the Newton Works Draw component width: 269)
 
-(link: /terms/tapping text: Tapping) an icon will perform the action or change the mode of operation related to that icon.
+(link: /terms/tapping text: Tapping) an icon performs the action or change the mode of operation related to that icon.
 
 If a toolbar is constructed as a (link: /terms/floating-container-view text: floating container view), it can also be referred to as a (link: /terms/palette text: palette).
 

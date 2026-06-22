@@ -10,7 +10,7 @@ Text:
 
 A (link: /terms/modifier-key text: modifier key) used to change the (link: /terms/character text: character) produced when typing a specific key on a (link: /terms/keyboard text: keyboard).
 
-When used with another key, the Option key will produce international characters and other symbols.
+When used with another key, the Option key produces international characters and other symbols.
 
 Unlike the Option key on a physical keyboard, the (link: /terms/newton-os text: Newton OS) Option key cannot be (link: /terms/tapped text: tapped) concurrently when tapping a character key. The Option key toggles on when tapped and releases automatically when a character key is tapped.
 

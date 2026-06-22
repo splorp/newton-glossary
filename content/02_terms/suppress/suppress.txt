@@ -16,7 +16,7 @@ To suppress activation of packages on the (link: /terms/internal-store text: int
 
 (image: /assets/images/activate-packages-2x.gif alt: Screenshot of an alert box asking “Do you want to activate the packages on the internet store?” width: 208)
 
-An (link: /terms/alert-box text: alert box) will appear, which lets the user to chose whether to activate packages on the internal store.
+An (link: /terms/alert-box text: alert box) appears, which lets the user to chose whether to activate packages on the internal store.
 
 ----
 

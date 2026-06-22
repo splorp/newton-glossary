@@ -12,7 +12,7 @@ A (link: /terms/container-view text: container view) providing an interface that
 
 When a (link: /terms/storage-card text: storage card) is inserted into the (link: /terms/card-slot text: card slot), a (link: /terms/card-slip text: card slip) appears. (link: /terms/tapping text: Tapping) the Backup (link: /terms/button text: button) in the card slip opens a backup slip. The user can then select which (link: /terms/application text: application) information should be backed up, as well as any (link: /terms/package text: packages) that have been installed.
 
-A (link: /terms/backup-file text: backup file) of the selected data will be saved to the storage card.
+A (link: /terms/backup-file text: backup file) of the selected data is saved to the storage card.
 
 (image: /assets/images/backup-slip-2x.gif alt: Screenshot of a Backup Slip displaying options regarding the information to be backed up to a storage card width: 236)
 

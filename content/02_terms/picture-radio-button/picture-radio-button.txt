@@ -10,7 +10,7 @@ Text:
 
 A Newton-specific (link: /terms/radio-button text: radio button) control where each button is represented by an (link: /terms/icon text: icon) or a (link: /terms/picture text: picture). Like a standard radio button, it displays its state — either on or off — and is part of a group in which the user can (link: /terms/select text: select) only one (link: /terms/button text: button) at a time. 
 
-Typically, several picture radio buttons will appear next to each other in a (link: /terms/slip text: slip), with the selection indicated by a (link: /terms/thick-border text: thick border).
+Typically, several picture radio buttons appear next to each other in a (link: /terms/slip text: slip), with the selection indicated by a (link: /terms/thick-border text: thick border).
 
 (image: /assets/images/card-style-2x.gif alt: Screenshot of the Card Style slip with a set of Picture Radio Buttons width: 320)
 

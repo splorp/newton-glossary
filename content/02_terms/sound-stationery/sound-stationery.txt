@@ -10,7 +10,7 @@ Text:
 
 A type of (link: /terms/stationery text: stationery) in the (link: /terms/notepad text: Notepad) application that can be used to record and play sounds and voice messages.
 
-Tapping the (link: /terms/new-button text: New button) and selecting (link: /terms/recording text: Recording) from the (link: /terms/picker text: picker) will create a new (link: /terms/recording-sheet text: recording sheet) with (link: /terms/tappable text: tappable) controls for recording and playing sounds. The sheet accommodates text input alongside the recording similar to a regular (link: /terms/note text: note).
+Tapping the (link: /terms/new-button text: New button) and selecting (link: /terms/recording text: Recording) from the (link: /terms/picker text: picker) creates a new (link: /terms/recording-sheet text: recording sheet) with (link: /terms/tappable text: tappable) controls for recording and playing sounds. The sheet accommodates text input alongside the recording similar to a regular (link: /terms/note text: note).
 
 The Sound stationery is called (link: /terms/recorded-note text: Recorded Note) in the (link: /terms/title-slip text: title slip).
 

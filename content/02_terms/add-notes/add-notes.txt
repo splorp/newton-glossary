@@ -10,7 +10,7 @@ Text:
 
 A (link: /terms/button text: button) in a (link: /terms/slip text: slip) displaying information about a (link: /terms/meeting text: meeting) or (link: /terms/event text: event). (link: /terms/tapping text: Tapping) the “Add Notes” button opens a (link: /terms/meeting-notes text: Meeting Notes) slip, providing a way to annotate or provide additional information about the item.
 
-If notes have been entered previously, the button will be labeled “Edit Notes”.
+If notes have been entered previously, the button is labeled “Edit Notes”.
 
 (image: /assets/images/add-notes-2x.gif alt: Screenshot of an Annual Event slip showing the “Add Notes” button width: 236)
 

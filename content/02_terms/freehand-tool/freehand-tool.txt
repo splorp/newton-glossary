@@ -10,9 +10,9 @@ Text:
 
 A tool found in (link: /terms/newton-works text: Newton Works) used to add a hand-drawn (link: /terms/sketch text: sketch) to a (link: /terms/drawing text: drawing) document.
 
-(link: /terms/dragging text: Dragging) the freehand tool on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen) will create lines similar to using a pencil on paper.
+(link: /terms/dragging text: Dragging) the freehand tool on the (link: /terms/screen text: screen) using the (link: /terms/pen text: pen) creates lines similar to using a pencil on paper.
 
-Tapping on any part of the sketch with the (link: /terms/pointer-tool text: pointer tool) will cause a (link: /terms/selection-box text: selection box) to appear around the object, allowing the user to move the object or resize the object using the (link: /terms/handle text: handles).
+Tapping on any part of the sketch with the (link: /terms/pointer-tool text: pointer tool) causes a (link: /terms/selection-box text: selection box) to appear around the object, allowing the user to move the object or resize the object using the (link: /terms/handle text: handles).
 
 Also referred to as the (link: /terms/curve-tool text: Curve Tool) and (link: /terms/squiggly-shaped-tool text: Squiggly Shaped Tool).
 

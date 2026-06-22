@@ -8,7 +8,7 @@ Date: 26 March 2025
 
 Text:
 
-A predetermined name provided by the (link: /terms/operating-system text: operating system) or software program. The default title acts a placeholder until the user specifically names or describes a document, (link: /terms/event text: event), contact, or (link: /terms/note text: note) using either the (link: /terms/item-info-slip text: item info slip) or (link: /terms/title-slip text: title slip). In many cases, a default title will include the word “(link: /terms/untitled text: Untitled)”.
+A predetermined name provided by the (link: /terms/operating-system text: operating system) or software program. The default title acts a placeholder until the user specifically names or describes a document, (link: /terms/event text: event), contact, or (link: /terms/note text: note) using either the (link: /terms/item-info-slip text: item info slip) or (link: /terms/title-slip text: title slip). In many cases, a default title includes the word “(link: /terms/untitled text: Untitled)”.
 
 ----
 

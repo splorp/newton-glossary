@@ -10,7 +10,7 @@ Text:
 
 A (link: /terms/view text: view) of information displayed in the (link: /terms/name-file text: Name File) for a (link: /terms/company text: company) that does not have any information entered into the “Company” (link: /terms/field text: field).
 
-An “Untitled Company” card will appear listed alphabetically under “U” in the Name File (link: /terms/overview text: overview).
+An “Untitled Company” card appears listed alphabetically under “U” in the Name File (link: /terms/overview text: overview).
 
 (image: /assets/images/untitled-company-2x.gif alt: Screenshot of an Untitled Company slip” width: 320)
 

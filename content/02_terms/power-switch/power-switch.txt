@@ -10,7 +10,7 @@ Text:
 
 A physical (link: /terms/button text: button) that turns a device on and off.
 
-On (link: /terms/messagepad-130 text: MessagePad 130), (link: /terms/messagepad-2000 text: MessagePad 2000), and (link: /terms/messagepad-2100 text: MessagePad 2100) devices, the power switch also controls the (link: /terms/backlight text: backlight) in the (link: /terms/screen text: screen). Sliding and holding down the power switch for two seconds will turn on the backlight.
+On (link: /terms/messagepad-130 text: MessagePad 130), (link: /terms/messagepad-2000 text: MessagePad 2000), and (link: /terms/messagepad-2100 text: MessagePad 2100) devices, the power switch also controls the (link: /terms/backlight text: backlight) in the (link: /terms/screen text: screen). Sliding and holding down the power switch for two seconds turns on the backlight.
 
 Rather than a sliding switch, the (link: /terms/emate-300 text: eMate 300) has a (link: /terms/power-key text: Power key) on the keyboard.
 

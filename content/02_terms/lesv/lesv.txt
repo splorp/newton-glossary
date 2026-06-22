@@ -10,7 +10,7 @@ Text:
 
 An (link: /terms/easter-egg text: easter egg) hidden in (link: /terms/newton-os text: Newton OS) as a nod to (link: https://lesv.dev/ text: Les Vogel), the technical lead on (link: /terms/rosetta text: Rosetta), part of the (link: /terms/handwriting-recognition text: handwriting recognition) system.
 
-Writing “lesv” three times in succession will display a special bit of text.
+Writing “lesv” three times in succession displays a special bit of text.
 
 Other phrases that work with this easter egg are (link: /terms/brandyn text: Brandyn), (link: /terms/larryy text: larryy), (link: /terms/lyon text: lyon), and (link: /terms/stafford text: stafford).
 

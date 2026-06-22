@@ -10,9 +10,9 @@ Text:
 
 A (link: /terms/function-key text: function key) located on the (link: /terms/emate-300 text: eMate 300) keyboard that initiates the process of receiving (link: /terms/beaming text: beamed) items from another Newton device.
 
-Pressing the Receive key will open a (link: /terms/slip text: slip) with the message “Looking for sender”. When another user presses the (link: /terms/send-key text: Send key) on an eMate or uses the (link: /terms/routing-button text: routing button) to beam an item on Newton device, the slip will disappear.
+Pressing the Receive key opens a (link: /terms/slip text: slip) with the message “Looking for sender”. When another user presses the (link: /terms/send-key text: Send key) on an eMate or uses the (link: /terms/routing-button text: routing button) to beam an item on Newton device, the slip disappears.
 
-Once received, the (link: /terms/beamed-item text: beamed item) will be listed in the (link: /terms/inout-box text: InOut Box).
+Once received, the (link: /terms/beamed-item text: beamed item) is listed in the (link: /terms/inout-box text: InOut Box).
 
 ----
 

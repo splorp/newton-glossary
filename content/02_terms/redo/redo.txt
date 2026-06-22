@@ -10,7 +10,7 @@ Text:
 
 The opposite of (link: /terms/undo text: undo).
 
-In most situations, (link: /terms/tapping text: tapping) the Undo (link: /terms/icon text: icon) in the (link: /terms/button-bar text: button bar) reverts the most recent action. On (link: /terms/newton-os text: Newton OS) 2.0 devices, tapping the Undo icon a second time will perform the original action again.
+In most situations, (link: /terms/tapping text: tapping) the Undo (link: /terms/icon text: icon) in the (link: /terms/button-bar text: button bar) reverts the most recent action. On (link: /terms/newton-os text: Newton OS) 2.0 devices, tapping the Undo icon a second time performs the original action again.
 
 ----
 

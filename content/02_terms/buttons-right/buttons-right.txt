@@ -10,7 +10,7 @@ Text:
 
 An option in the (link: /terms/rotate-button text: Rotate Button) picker which moves the (link: /terms/button-bar text: button bar) to the right side when the (link: /terms/screen text: screen) is in (link: /terms/landscape-mode text: landscape mode).
 
-If the button bar is currently displayed on the right side of the screen, the option will be named (link: /terms/buttons-left text: Buttons Left).
+If the button bar is currently displayed on the right side of the screen, the option is named (link: /terms/buttons-left text: Buttons Left).
 
 (image: /assets/images/buttons-right-2x.gif alt: Screenshot of the Rotate Button with Picker showing the Buttons Right option width: 161)
 

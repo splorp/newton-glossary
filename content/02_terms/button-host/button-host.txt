@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-An (link: /terms/application text: application) that will display a (link: /terms/button text: button) sent by another application or (link: /terms/button-provider text: button provider).
+An (link: /terms/application text: application) that displays a (link: /terms/button text: button) sent by another application or (link: /terms/button-provider text: button provider).
 
 ----
 
