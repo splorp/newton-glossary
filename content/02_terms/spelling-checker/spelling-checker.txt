@@ -1,0 +1,17 @@
+Title: Spelling Checker
+
+----
+
+Date: 22 June 2026
+
+----
+
+Text:
+
+See: (link: /terms/spell-check text: Spell Check)
+
+----
+
+Source:
+
+- /sources/spelling-chequer

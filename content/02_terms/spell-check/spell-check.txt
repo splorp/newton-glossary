@@ -16,6 +16,7 @@ A feature found in (link: /terms/newton-works text: Newton Works) to identify an
 
 Spell Check matches words it finds in the document against words in the various (link: /terms/dictionary text: dictionaries) on the Newton device.
 
+Also referred to as (link: /terms/spellcheck text: Spellcheck), (link: /terms/spell-checker text: Spell Checker), (link: /terms/spelling-checker text: Spelling Checker), and (link: /terms/spelling-chequer text: Spelling Chequer).
 
 ----
 
@@ -25,6 +26,10 @@ Related:
 - /terms/paper
 - /terms/personal-word-list
 - /terms/spell-check-slip
+- /terms/spell-checker
+- /terms/spellcheck
+- /terms/spelling-checker
+- /terms/spelling-chequer
 - /terms/system-dictionary
 - /terms/tools-button
 - /terms/tools-picker

@@ -1,0 +1,19 @@
+Title: Spelling Chequer API
+
+----
+
+Date: 22 June 2026
+
+----
+
+Text:
+
+Published by [Apple](https://www.apple.com/) in 1997, this document provides preliminary technical information regarding the application programming interface ((link: /terms/api text: API)) for the (link: /terms/spell-check text: spell check) functionality built into (link: /terms/newton-os text: Newton OS) 2.1.
+
+The title of the document is likely a humourous jab at the first version of Newton (link: /terms/handwriting-recognition text: handwriting recognition).
+
+----
+
+Resource:
+
+- [Newted: Spelling Chequer API](https://www.newted.org/download/manuals/Spelling_Chequer_API.pdf)
