@@ -122,6 +122,13 @@ _Example:_
 + A slip where preferences can be adjusted.
 + Only one button can be selected at a time.
 
+When describing the effects of an action, also use present verb tense rather than future verb tense.
+
+_Example:_
+
++ Use “a slip appears” instead of “a slip will appear”
++ Use “data is saved to the storage card” instead of “data will be saved to the storage card”
+
 ### Links to additional information
 
 These guidelines apply whether linking to a live resource or an Internet Archive mirror of the original information.
