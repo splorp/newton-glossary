@@ -10,6 +10,8 @@ Text:
 
 A list of items pertaining to the current (link: /terms/application text: application) that can include (link: /terms/preferences text: preferences), onscreen help, or general information about the application. Activated by (link: /terms/tapping text: tapping) on the (link: /terms/info-button text: info button).
 
+(image: /assets/images/info-button-2x.gif alt: Screenshot of an Info Button with Picker width: 103)
+
 ----
 
 Related:
