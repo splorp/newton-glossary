@@ -23,6 +23,7 @@ Related:
 - /terms/button
 - /terms/newton-works
 - /terms/picker
+- /terms/spell-check
 - /terms/tools-button
 - /terms/tools-menu
 - /terms/user-interface

@@ -32,6 +32,8 @@ Related:
 - /terms/default-title
 - /terms/drawing
 - /terms/newton-works
+- /terms/spell-check
+- /terms/spell-check-slip
 - /terms/spreadsheet
 - /terms/stationery
 - /terms/title-slip

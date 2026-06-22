@@ -49,6 +49,8 @@ Related:
 - /terms/rectangle-tool
 - /terms/rounded-rectangle-tool
 - /terms/shapes-tool
+- /terms/spell-check
+- /terms/spell-check-slip
 - /terms/spreadsheet
 - /terms/stamp-tool
 - /terms/text-engine

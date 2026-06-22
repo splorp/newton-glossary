@@ -1,0 +1,37 @@
+Title: Spell Check
+
+----
+
+Date: 22 June 2026
+
+----
+
+Text:
+
+A feature found in (link: /terms/newton-works text: Newton Works) to identify and replace misspelled words in a (link: /terms/word-processing-document text: word processing document).
+
+(link: /terms/tapping text: Tapping) the (link: /terms/tools-button text: Tools button) located in the (link: /terms/status-bar text: status bar) and selecting “Spell Check” in the (link: /terms/picker text: picker) displays the (link: /terms/spell-check-slip text: Spell Check slip).
+
+(image: /assets/images/spell-check-2x.gif alt: Screenshot of the Spell Check slip in Newton Works width: 261)
+
+Spell Check matches words it finds in the document against words in the various (link: /terms/dictionary text: dictionaries) on the Newton device.
+
+
+----
+
+Related:
+
+- /terms/newton-works
+- /terms/paper
+- /terms/personal-word-list
+- /terms/spell-check-slip
+- /terms/system-dictionary
+- /terms/tools-button
+- /terms/tools-picker
+- /terms/user-dictionary
+
+----
+
+Source:
+
+- /sources/newton-works-word-processor

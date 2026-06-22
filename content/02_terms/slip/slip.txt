@@ -36,8 +36,9 @@ Related:
 - /terms/password-slip
 - /terms/restore-slip
 - /terms/routing-slip
-- /terms/status-slip
 - /terms/sound-recorder-slip
+- /terms/spell-check-slip
+- /terms/status-slip
 - /terms/title-slip
 
 ----

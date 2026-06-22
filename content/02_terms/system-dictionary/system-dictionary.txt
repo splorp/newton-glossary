@@ -26,6 +26,7 @@ Related:
 - /terms/personal-word-list
 - /terms/recently-written-words
 - /terms/review-dictionary
+- /terms/spell-check
 - /terms/symbols-dictionary
 - /terms/test-drive1
 - /terms/user-dictionary
