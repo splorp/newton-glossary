@@ -8,9 +8,7 @@ Date: 21 June 2026
 
 Text:
 
-A list of various tools available for the current (link: /terms/newton-works text: Newton Works) document or (link: /terms/stationery text: stationery).
-
-Activated by (link: /terms/tapping text: tapping) on the (link: /terms/tools-button text: Tools button).
+A list of various tools available for the current (link: /terms/newton-works text: Newton Works) document or (link: /terms/stationery text: stationery). Activated by (link: /terms/tapping text: tapping) on the (link: /terms/tools-button text: Tools button).
 
 (image: /assets/images/tools-button-2x.gif alt: Screenshot of a Tools Button with Picker width: 156)
 
@@ -21,8 +19,10 @@ Also referred to as a (link: /terms/tools-menu text: Tools Menu).
 Related:
 
 - /terms/button
+- /terms/find
 - /terms/newton-works
 - /terms/picker
+- /terms/quick-sketch
 - /terms/spell-check
 - /terms/tools-button
 - /terms/tools-menu
