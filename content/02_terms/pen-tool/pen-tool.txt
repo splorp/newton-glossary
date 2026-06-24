@@ -8,7 +8,7 @@ Date: 23 June 2026
 
 Text:
 
-A tool found in (link: /terms/newton-works text: Newton Works) used to specify attributes of (link: /terms/line text: lines) and edges of (link: /terms/object text: objects) in a (link: /terms/drawing text: drawing) document.
+A tool found in (link: /terms/newton-works text: Newton Works) used to specify the visual attributes of (link: /terms/line text: lines) and edges of (link: /terms/object text: objects) in a (link: /terms/drawing text: drawing) document.
 
 (image: /assets/images/pen-tool-2x.gif alt: Screenshot of the Pen Tool palette in Newton Works width: 200)
  
