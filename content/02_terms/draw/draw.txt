@@ -19,6 +19,7 @@ Related:
 - /terms/drawing
 - /terms/draw-application
 - /terms/drawing-engine
+- /terms/fill-tool
 - /terms/freehand-tool
 - /terms/line-tool
 - /terms/newton-works

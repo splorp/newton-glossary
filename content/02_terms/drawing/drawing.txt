@@ -32,6 +32,7 @@ Related:
 - /terms/draw
 - /terms/draw-paper
 - /terms/drawing-engine
+- /terms/fill-tool
 - /terms/freehand-tool
 - /terms/line-tool
 - /terms/newton-works

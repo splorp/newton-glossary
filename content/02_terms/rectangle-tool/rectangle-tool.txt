@@ -24,6 +24,7 @@ Related:
 - /terms/draw
 - /terms/drawing
 - /terms/drawing-engine
+- /terms/fill-tool
 - /terms/freehand-tool
 - /terms/line-tool
 - /terms/newtonworks

@@ -1,0 +1,55 @@
+Title: Fill Tool
+
+----
+
+Date: 24 June 2026
+
+----
+
+Text:
+
+A tool found in (link: /terms/newton-works text: Newton Works) used to specify a visual attribute to the interior of (link: /terms/object text: objects) in a (link: /terms/drawing text: drawing) document.
+
+(image: /assets/images/fill-tool-2x.gif alt: Screenshot of the Fill Tool palette in Newton Works width: 228)
+ 
+(link: /terms/tapping text: Tapping) the fill tool (link: /terms/button text: button) in the (link: /terms/toolbar text: toolbar) displays a (link: /terms/palette text: palette).
+
+A fill attribute can be applied to an existing (link: /terms/object text: object) by selecting it with the (link: /terms/pointer-tool text: pointer tool) and tapping on a shade of grey or pattern in the palette. The interior of an object can also be set to transparent.
+
+Also referred to as a (link: /terms/fill-button text: Fill Button), (link: /terms/fill-pop-up-list text: Fill Pop-Up List), and (link: /terms/pattern-button text: Pattern Button).
+
+----
+
+Related:
+
+
+- /terms/availworks
+- /terms/draw
+- /terms/drawing
+- /terms/drawing-engine
+- /terms/fill-button
+- /terms/fill-pop-up-list
+- /terms/freehand-tool
+- /terms/line
+- /terms/newtonworks
+- /terms/oval-tool
+- /terms/palette
+- /terms/pattern-button
+- /terms/pen-tool
+- /terms/pointer-tool
+- /terms/polygon-tool
+- /terms/rectangle-tool
+- /terms/rounded-rectangle-tool
+- /terms/shapes-tool
+- /terms/stamp-tool
+- /terms/straight-line-tool
+- /terms/text-tool
+- /terms/toolbar
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/emate-learning-works
+- /sources/newton-works-help
