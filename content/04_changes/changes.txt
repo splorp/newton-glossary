@@ -18,14 +18,20 @@ Recently added terms and sources are listed in the (link: /latest text: latest a
 
 Incremental changes are listed in the [code commit history](https://github.com/splorp/newton-glossary/commits/master).
 
-### _$r
+### 5.2.1
 
-Terms: _$t
-Sources: _$s
+24 June 2026
+
+Terms: 2,237
+Sources: 241
 
 #### Summary of changes:
 
-+ 
++ Added 73 new terms
++ Added 7 new sources
++ Updated and expanded dozens of existing entries
++ Added a lovely testimonial from [Keith Houston](https://shadycharacters.co.uk/) to the (link: /about text: About) page
++ Updated [Kirby](https://getkirby.com/) to version [5.4.4](https://github.com/getkirby/kirby/releases/tag/5.4.4)
 
 ### 5.2.0
 
