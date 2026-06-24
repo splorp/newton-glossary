@@ -1,0 +1,17 @@
+Title: Line Button
+
+----
+
+Date: 23 June 2026
+
+----
+
+Text:
+
+See: (link: /terms/pen-tool text: Pen Tool)
+
+----
+
+Source:
+
+- /sources/availworks-users-manual

@@ -37,6 +37,7 @@ Related:
 - /terms/newton-works
 - /terms/oval-tool
 - /terms/paper
+- /terms/pen-tool
 - /terms/pointer-tool
 - /terms/polygon-tool
 - /terms/rectangle-tool

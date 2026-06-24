@@ -41,6 +41,7 @@ Related:
 - /terms/operator
 - /terms/oval-tool
 - /terms/paper
+- /terms/pen-tool
 - /terms/pointer-tool
 - /terms/polygon-tool
 - /terms/quick-sketch

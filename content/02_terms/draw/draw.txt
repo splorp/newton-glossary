@@ -23,6 +23,7 @@ Related:
 - /terms/line-tool
 - /terms/newton-works
 - /terms/oval-tool
+- /terms/pen-tool
 - /terms/pointer-tool
 - /terms/polygon-tool
 - /terms/rectangle-tool

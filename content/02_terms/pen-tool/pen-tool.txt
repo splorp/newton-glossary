@@ -1,0 +1,51 @@
+Title: Pen Tool
+
+----
+
+Date: 23 June 2026
+
+----
+
+Text:
+
+A tool found in (link: /terms/newton-works text: Newton Works) used to specify attributes of (link: /terms/line text: lines) and edges of (link: /terms/object text: objects) in a (link: /terms/drawing text: drawing) document.
+
+(link: /terms/tapping text: Tapping) the pen tool (link: /terms/button text: button) in the (link: /terms/toolbar text: toolbar) displays a (link: /terms/palette text: palette) with two sections. The “Pen Shade” section of the palette contains various shades of grey. The “Pen Size” section contain various widths of line.
+
+Attributes can be applied to an existing (link: /terms/object text: object) by selecting it with the (link: /terms/pointer-tool text: pointer tool) and then tapping on the various pen shades and sizes in the palette.
+
+Also referred to as a (link: /terms/line-button text: Line Button) and (link: /terms/pen-button text: Pen Button).
+
+----
+
+Related:
+
+- /terms/availworks
+- /terms/draw
+- /terms/drawing
+- /terms/drawing-engine
+- /terms/freehand-tool
+- /terms/line
+- /terms/line-button
+- /terms/line-tool
+- /terms/newtonworks
+- /terms/oval-tool
+- /terms/palette
+- /terms/pen-button
+- /terms/pointer-tool
+- /terms/polygon-tool
+- /terms/rectangle-tool
+- /terms/rounded-rectangle-tool
+- /terms/shapes-tool
+- /terms/stamp-tool
+- /terms/straight-line-tool
+- /terms/text-tool
+- /terms/toolbar
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/emate-learning-works
+- /sources/newton-works-help

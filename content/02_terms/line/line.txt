@@ -19,6 +19,7 @@ Related:
 - /terms/drawing-engine
 - /terms/line-tool
 - /terms/oval
+- /terms/pen-tool
 - /terms/picture
 - /terms/polygon
 - /terms/rectangle

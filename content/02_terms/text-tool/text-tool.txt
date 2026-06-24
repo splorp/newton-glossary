@@ -34,6 +34,7 @@ Related:
 - /terms/newtonworks
 - /terms/oval-tool
 - /terms/point
+- /terms/pen-tool
 - /terms/pointer-tool
 - /terms/polygon-tool
 - /terms/rounded-rectangle
