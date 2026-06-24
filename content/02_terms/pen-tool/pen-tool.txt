@@ -10,9 +10,12 @@ Text:
 
 A tool found in (link: /terms/newton-works text: Newton Works) used to specify attributes of (link: /terms/line text: lines) and edges of (link: /terms/object text: objects) in a (link: /terms/drawing text: drawing) document.
 
-(link: /terms/tapping text: Tapping) the pen tool (link: /terms/button text: button) in the (link: /terms/toolbar text: toolbar) displays a (link: /terms/palette text: palette) with two sections. The “Pen Shade” section of the palette contains various shades of grey. The “Pen Size” section contain various widths of line.
+(image: /assets/images/pen-tool-2x.gif alt: Screenshot of the Pen Tool palette in Newton Works width: 200)
+ 
+(link: /terms/tapping text: Tapping) the pen tool (link: /terms/button text: button) in the (link: /terms/toolbar text: toolbar) displays a (link: /terms/palette text: palette).
 
-Attributes can be applied to an existing (link: /terms/object text: object) by selecting it with the (link: /terms/pointer-tool text: pointer tool) and then tapping on the various pen shades and sizes in the palette.
+
+Attributes can be applied to an existing (link: /terms/object text: object) by selecting it with the (link: /terms/pointer-tool text: pointer tool) and tapping on a pen shade or size in the palette.
 
 Also referred to as a (link: /terms/line-button text: Line Button) and (link: /terms/pen-button text: Pen Button).
 
