@@ -1,0 +1,17 @@
+Title: Pen Pattern
+
+----
+
+Date: 25 June 2026
+
+----
+
+Text:
+
+See: (link: /terms/pen-shade text: Pen Shade)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

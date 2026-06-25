@@ -14,6 +14,8 @@ A tool found in (link: /terms/newton-works text: Newton Works) used to specify t
  
 (link: /terms/tapping text: Tapping) the pen tool (link: /terms/button text: button) in the (link: /terms/toolbar text: toolbar) displays a (link: /terms/palette text: palette).
 
+The (link: /terms/pen-shade text: Pen Shade) section of the palette contains various shades of grey.
+The (link: /terms/pen-size text: Pen Size) section contain various widths of line.
 
 Attributes can be applied to an existing (link: /terms/object text: object) by selecting it with the (link: /terms/pointer-tool text: pointer tool) and tapping on a pen shade or size in the palette.
 
@@ -35,7 +37,10 @@ Related:
 - /terms/newtonworks
 - /terms/oval-tool
 - /terms/palette
+- /terms/pen
 - /terms/pen-button
+- /terms/pen-shade
+- /terms/pen-size
 - /terms/pointer-tool
 - /terms/polygon-tool
 - /terms/rectangle-tool

@@ -1,0 +1,41 @@
+Title: Pen Shade
+
+----
+
+Date: 25 June 2026
+
+----
+
+Text:
+
+A section of the (link: /terms/pen-tool text: pen tool) palette found in (link: /terms/newton-works text: Newton Works).
+
+(image: /assets/images/pen-tool-2x.gif alt: Screenshot of the Pen Tool palette in Newton Works width: 200)
+
+Along with a (link: /terms/pen-size text: Pen Size) section, the (link: /terms/palette text: palette) contains various shades of grey that can be applied to (link: /terms/line text: lines) and edges of (link: /terms/object text: objects) in a (link: /terms/drawing text: drawing) document.
+
+Also referred to as (link: /terms/pen-pattern text: Pen Pattern).
+
+----
+
+Related:
+
+- /terms/availworks
+- /terms/draw
+- /terms/drawing
+- /terms/drawing-engine
+- /terms/line
+- /terms/line-tool
+- /terms/newtonworks
+- /terms/palette
+- /terms/pen
+- /terms/pen-pattern
+- /terms/pen-size
+- /terms/pen-tool
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-works-help

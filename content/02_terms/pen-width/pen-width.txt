@@ -1,0 +1,17 @@
+Title: Pen Width
+
+----
+
+Date: 25 June 2026
+
+----
+
+Text:
+
+See: (link: /terms/pen-size text: Pen Size)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

@@ -32,7 +32,11 @@ Related:
 - /terms/pen-holder
 - /terms/pen-sound-effects
 - /terms/pen-tray
+- /terms/pen-shade
+- /terms/pen-size
+- /terms/pen-tool
 - /terms/penning
+- /terms/styles
 - /terms/styli
 - /terms/stylus
 - /terms/tap
