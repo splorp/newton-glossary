@@ -12,6 +12,10 @@ The handheld instrument used to (link: /terms/enter text: enter) data into a New
 
 Also referred to as a (link: /terms/stylus text: Stylus).
 
+Pen is also a setting in the (link: /terms/styles text: Styles) application which allows the user to select the (link: /terms/pen-size text: pen size) that is used when writing or drawing on the screen.
+
+(image: /assets/images/styles-pen-picker-2x.gif alt: Screenshot of the Styles Palette displaying the Pen picker width: 240)
+
 ----
 
 Related:
