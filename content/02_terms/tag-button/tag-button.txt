@@ -8,7 +8,7 @@ Date: 06 October 2002
 
 Text:
 
-A small (link: /terms/picture-button text: picture button) containing an (link: /terms/icon text: icon) representing a tag. The tag (link: /terms/button text: button) facilitates editing or tagging of information related to the currently (link: /terms/select text: selected) item. When (link: /terms/tapped text: tapped), a (link: /terms/tag-picker text: tag picker) is displayed listing available tagging options.
+A small (link: /terms/picture-button text: picture button) containing an (link: /terms/icon text: icon) representing a paper (link: /terms/tag text: tag). The tag (link: /terms/button text: button) facilitates editing or tagging of information related to the currently (link: /terms/select text: selected) item. When (link: /terms/tapped text: tapped), a (link: /terms/tag-picker text: tag picker) is displayed listing available tagging options.
 
 Depending on the type of item selected, the tag button can be used to reply to a fax, change the recipient of an email, or (link: /terms/put-away text: put away) a (link: /terms/package text: package).
 

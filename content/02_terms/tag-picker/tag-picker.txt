@@ -19,6 +19,7 @@ Related:
 - /terms/button
 - /terms/picker
 - /terms/put-away
+- /terms/tag
 - /terms/tag-button
 - /terms/user-interface
 

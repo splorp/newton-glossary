@@ -53,6 +53,7 @@ Related:
 - /terms/soupkitchen
 - /terms/store
 - /terms/store-part
+- /terms/tag
 - /terms/translation-engine
 - /terms/unflatten
 - /terms/unflattener

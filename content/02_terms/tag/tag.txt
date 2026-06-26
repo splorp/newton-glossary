@@ -8,4 +8,24 @@ Date: 06 October 2002
 
 Text:
 
-See: (link: /terms/tag-button text: Tag Button)
+In (link: /terms/newtonscript text: NewtonScript), an optional (link: /terms/symbol text: symbol) used to mark one or more (link: /terms/soup text: soup) entries. The (link: /terms/operating-system text: operating system) treats a missing tag as a (link: /terms/nil text: nil) value.
+
+Tag is also a reference to the (link: /terms/icon text: icon) used to identify the (link: /terms/tag-button text: Tag Button).
+
+----
+
+Related:
+
+- /terms/entry
+- /terms/newtonscript
+- /terms/soup
+- /terms/symbol
+- /terms/tag-button
+- /terms/tag-picker
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference
