@@ -16,7 +16,9 @@ Along with a (link: /terms/pen-shade text: Pen Shade) section, the (link: /terms
 
 This is similar to selecting a pen size in the (link: /terms/styles text: Styles) application.
 
-Also referred to as (link: /terms/pen-pattern text: Pen Width).
+(image: /assets/images/styles-pen-picker-2x.gif alt: Screenshot of the Styles Palette displaying the Pen picker width: 240)
+
+Also referred to as (link: /terms/pen-width text: Pen Width).
 
 ----
 
