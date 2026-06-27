@@ -8,7 +8,7 @@ Date: 20 May 2026
 
 Text:
 
-A Windows (link: /terms/application text: application) developed by Andrés Galluzzi that allowed the user to view information stored in a (link: /terms/backup-file text: backup file).
+A Windows (link: /terms/application text: application) developed by Andrés Galluzzi that allows the user to view information stored in a (link: /terms/backup-file text: backup file).
 
 The software was included as part of (link: /terms/newton-connection-tools text: Newton Connection Tools).
 

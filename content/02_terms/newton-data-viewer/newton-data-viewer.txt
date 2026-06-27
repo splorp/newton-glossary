@@ -8,7 +8,7 @@ Date: 15 January 2026
 
 Text:
 
-Software developed by (link: /sources/pythia text: Pythia) and distributed by (link: /terms/starcore text: StarCore) that allowed a user to import, export, view, and manipulate data such as text files, spreadsheets, and lists.
+Software developed by (link: /sources/pythia text: Pythia) and distributed by (link: /terms/starcore text: StarCore) that allows a user to import, export, view, and manipulate data such as text files, spreadsheets, and lists.
 
 Based on existing Pythia products called (link: /terms/transporter text: TransPorter) and (link: /terms/syncdataviewer text: SyncDataViewer), the software consisted of a Mac OS or Windows (link: /terms/application text: application) called (link: /terms/newton-data-viewer-exchange-utility text: Newton Data Viewer Exchange Utility) and an associated (link: /terms/package text: package) installed on a Newton device called (link: /terms/newton-data-viewer-communication-tool text: Newton Data Viewer Communication Tool).
 

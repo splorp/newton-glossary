@@ -8,7 +8,7 @@ Date: 06 August 2025
 
 Text:
 
-A (link: /terms/button text: button) in early versions of the (link: /terms/time-zones text: Time Zones) application which allowed the user to set a specific city as their current location or (link: /terms/away-city text: away city).
+A (link: /terms/button text: button) in early versions of the (link: /terms/time-zones text: Time Zones) application which allows the user to set a specific city as their current location or (link: /terms/away-city text: away city).
 
 ----
 

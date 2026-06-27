@@ -10,7 +10,7 @@ Text:
 
 A hardware accessory designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) that plugged into the (link: /terms/newton-interconnect text: Newton InterConnect) port utilizing a special, multiconductor jack to accomodate both audio (link: /terms/input text: input) and audio (link: /terms/output text: output).
 
-NewtCast allowed users to connect Newton devices to headphones as well as other audio equipment for playback and recording.
+NewtCast allows users to connect Newton devices to headphones as well as other audio equipment for playback and recording.
 
 Due to ability of the InterConnect port to provide power, NewtCast was also compatible with Apple’s high quality [PlainTalk](https://en.wikipedia.org/wiki/PlainTalk) microphones.
 

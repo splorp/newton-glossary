@@ -12,7 +12,7 @@ A Windows (link: /terms/application text: application) developed by Andrés Gall
 
 (image: /assets/images/newton-connection-tools-2x.gif alt: Screenshot of Newton Connection Tools for Windows width: 553)
 
-The software allowed the user to (link: /terms/backup text: backup) and (link: /terms/restore text: restore) information, manage (link: /terms/package text: package) selection and installation, (link: /terms/synchronization text: synchronize) email and other information with Microsoft Outlook, as well as the ability to import and export (link: /terms/rtf text: RTF) documents.
+The software allows the user to (link: /terms/backup text: backup) and (link: /terms/restore text: restore) information, manage (link: /terms/package text: package) selection and installation, (link: /terms/synchronization text: synchronize) email and other information with Microsoft Outlook, as well as the ability to import and export (link: /terms/rtf text: RTF) documents.
 
 It also provided keyboard passthrough to the connected Newton device, an interface for application development, and viewing of information stored in a (link: /terms/backup-file text: backup file) through a separate utility called (link: /terms/newton-backup-viewer text: Newton Backup Viewer).
 
