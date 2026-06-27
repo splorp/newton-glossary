@@ -12,4 +12,6 @@ See: (link: /terms/draw text: Draw)
 
 ----
 
+Source:
+
 - /sources/newton-programmers-guide

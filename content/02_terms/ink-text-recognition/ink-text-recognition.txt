@@ -12,5 +12,7 @@ See: (link: /terms/ink-text text: Ink Text)
 
 ----
 
+Source:
+
 - /sources/messagepad-handbook-1995
 - /sources/messagepad-2000-user-manual

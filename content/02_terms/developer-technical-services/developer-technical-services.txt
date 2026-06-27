@@ -36,4 +36,6 @@ Related:
 
 ----
 
+Source:
+
 - /sources/newton-technology-journal

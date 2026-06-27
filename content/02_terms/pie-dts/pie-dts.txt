@@ -14,4 +14,6 @@ See: (link: /terms/developer-technical-services text: Developer Technical Servic
 
 ----
 
+Source:
+
 - /sources/newton-technology-journal
