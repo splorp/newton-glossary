@@ -15,7 +15,7 @@ An English–Japanese translation dictionary developed by (link: /sources/enfour
 Resource:
 
 - [Enfour: UniDict for Newton: News Release](https://web.archive.org/web/20040901043615/https://www.enfour.co.jp/newton/news/news1998/unidict.html) (Japanese)
-- [Enfour: UniDict for Newton Product Information](https://web.archive.org/web/19981205103636/https://www.enfour.co.jp/newton/software/unidict/index.html) (Japanese)
+- [Enfour: UniDict for Newton](https://web.archive.org/web/19981205103636/https://www.enfour.co.jp/newton/software/unidict/index.html) (Japanese)
 
 ----
 

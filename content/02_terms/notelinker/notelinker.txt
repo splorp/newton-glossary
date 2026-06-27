@@ -14,7 +14,7 @@ Software developed by (link: /sources/matej-horvat text: Matej Horvat) allows th
 
 Resource:
 
-- [Matej Horvat: NoteLinker Product Information](https://web.archive.org/web/20220511203841/https://matejhorvat.si/en/newton/notelink/)
+- [Matej Horvat: NoteLinker](https://web.archive.org/web/20220511203841/https://matejhorvat.si/en/newton/notelink/)
 
 ----
 

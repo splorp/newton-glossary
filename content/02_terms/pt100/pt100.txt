@@ -14,7 +14,7 @@ A (link: /terms/vt100 text: VT100) terminal emulator (link: /terms/application t
 
 Resource:
 
-- [Scrawl Software: PT100 Product Information](https://web.archive.org/web/19990427034932/http://www.scrawlsoft.com/products/pt100/info.html)
+- [Scrawl Software: PT100](https://web.archive.org/web/19990427034932/http://www.scrawlsoft.com/products/pt100/info.html)
 
 ----
 

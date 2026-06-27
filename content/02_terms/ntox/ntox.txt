@@ -14,7 +14,7 @@ A software (link: /terms/package text: package) that provides a simple (link: /t
 
 Resource:
 
-- [40Hz: ntox Product Information](https://40hz.org/Pages/newton/packages/ntox/)
+- [40Hz: ntox](https://40hz.org/Pages/newton/packages/ntox/)
 
 ----
 

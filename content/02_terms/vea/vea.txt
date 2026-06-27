@@ -18,7 +18,7 @@ Resource:
 
 - [UNNA: Vea](http://www.unna.org/view.php?/applications/Vea)
 - [Newted: Vea](https://www.newted.org/resources/vea/)
-- [Planet Computing: Vea Product Information](https://web.archive.org/web/19980509000153/http://www.aplanet.com/prod01.htm)
+- [Planet Computing: Vea](https://web.archive.org/web/19980509000153/http://www.aplanet.com/prod01.htm)
 
 ----
 

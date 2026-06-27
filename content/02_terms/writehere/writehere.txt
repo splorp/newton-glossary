@@ -16,7 +16,7 @@ A suite of software components developed by (link: /sources/adam-tow text: Adam 
 
 Resource:
 
-- [Adam Tow: WriteHere Suite Product Information](https://web.archive.org/web/20080514134030/http://www.tow.com/software/writehere/)
+- [Adam Tow: WriteHere Suite](https://web.archive.org/web/20080514134030/http://www.tow.com/software/writehere/)
 - [Adam Tow: Newton Software](https://tow.com/projects/newton/)
 
 ----

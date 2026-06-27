@@ -16,7 +16,7 @@ A (link: /terms/bitmap text: bitmap) drawing, painting, and editing (link: /term
 
 Resource:
 
-- [LandWare: NewtPaint Product Information](https://web.archive.org/web/19980421221501/http://landware.com/products/newtpaint/newtpaintps.html)
+- [LandWare: NewtPaint](https://web.archive.org/web/19980421221501/http://landware.com/products/newtpaint/newtpaintps.html)
 - [Pen Computing: NewtPaint 1.0 Review](https://www.pencomputing.com/archive/PCM_8/P8_newtpaint_review.html)
 
 ----

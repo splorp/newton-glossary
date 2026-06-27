@@ -16,7 +16,7 @@ A game for (link: /terms/newton-os text: Newton OS) developed by (link: /sources
 
 Resource:
 
-- [DejaVu: Deep Space Newt Product Information](https://web.archive.org/web/20100628213037/http://www.dejavusoftware.com/dsn/)
+- [DejaVu: Deep Space Newt](https://web.archive.org/web/20100628213037/http://www.dejavusoftware.com/dsn/)
 - [eMate Central Game Reviews: DSNewt](https://web.archive.org/web/20010522094947/http://www.angel.org/fornewts/reviews_dsnewt.html)
 - [UNNA: Deep Space Newt](http://www.unna.org/view.php?/games/DeepSpaceNewt1.01)
 

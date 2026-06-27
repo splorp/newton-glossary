@@ -16,7 +16,7 @@ An Internet Relay Chat (IRC) client for (link: /terms/newton-os text: Newton OS)
 
 Resource:
 
-- [Tactile: ChatBuddy Product Information](https://web.archive.org/web/20101124134430/http://www.tactile.com/chatBuddy.html)
+- [Tactile: ChatBuddy](https://web.archive.org/web/20101124134430/http://www.tactile.com/chatBuddy.html)
 
 ----
 

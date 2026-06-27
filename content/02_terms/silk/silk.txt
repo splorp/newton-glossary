@@ -14,7 +14,7 @@ A (link: /terms/package text: package) developed by (link: /sources/catamount te
 
 Resource:
 
-- [Catamount: Silk Product Information](https://web.archive.org/web/20031022150634/http://www.catamount.com/NewtonApps/Silk.html)
+- [Catamount: Silk](https://web.archive.org/web/20031022150634/http://www.catamount.com/NewtonApps/Silk.html)
 
 ----
 

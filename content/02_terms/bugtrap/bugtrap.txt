@@ -17,7 +17,7 @@ A user-friendly (link: /terms/debugging text: debugging) utility for (link: /ter
 Resource:
 
 - [BugTrap Read Me](https://npds.free.fr/modules/utilities/BugTrap_Read_Me.txt)
-- [Tactile: BugTrap Product Information](https://web.archive.org/web/19981205133557/http://www.tactile.com/bugTrap.html)
+- [Tactile: BugTrap](https://web.archive.org/web/19981205133557/http://www.tactile.com/bugTrap.html)
 
 ----
 

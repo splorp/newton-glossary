@@ -16,7 +16,7 @@ An example of TapBar in use can be found in (link: /terms/hanabi text: Hanabi), 
 
 Resource:
 
-- [Basuke: TapBar Product Information](https://web.archive.org/web/20071212015950/http://saryo.org/basuke/tapbar/)
+- [Basuke: TapBar](https://web.archive.org/web/20071212015950/http://saryo.org/basuke/tapbar/)
 
 ----
 

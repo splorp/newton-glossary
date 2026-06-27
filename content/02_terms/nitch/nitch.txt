@@ -16,7 +16,7 @@ Software developed by (link: /sources/eckhart-koppen text: Eckhart Köppen) that
 
 Resource:
 
-- [40Hz: Nitch Product Information](https://40hz.org/Pages/newton/packages/nitch/)
+- [40Hz: Nitch](https://40hz.org/Pages/newton/packages/nitch/)
 - [40Hz: Getting Things Done on the Newton](https://40hz.org/Pages/newton/gtd/)
 
 ----

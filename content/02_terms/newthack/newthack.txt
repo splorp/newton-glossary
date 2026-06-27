@@ -16,7 +16,7 @@ A role-playing adventure game for (link: /terms/newton-os text: Newton OS) devel
 
 Resource:
 
-- [NewtHack Product Information](https://web.archive.org/web/19990429064422/http://flashpt.com/~cdopp/NewtHack.html)
+- [NewtHack](https://web.archive.org/web/19990429064422/http://flashpt.com/~cdopp/NewtHack.html)
 - [MobyGames: NewtHack](https://www.mobygames.com/game/97441/newthack/)
 - [UNNA: NewtHack 1.1](http://www.unna.org/view.php?/games/NewtHack1_1)
 

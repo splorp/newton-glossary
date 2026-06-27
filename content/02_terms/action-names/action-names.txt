@@ -16,9 +16,9 @@ Also referred to as (link: /terms/an text: AN).
 
 Resource:
 
-- [Iambic: Action Names 4.0 Product Information](https://web.archive.org/web/19980526094254/http://www.iambic.com/newton/an4details.html)
-- [Iambic: Action Names 3.0 Product Information](https://web.archive.org/web/19980526100337/http://www.iambic.com/newton/actionsales.html)
-- [Iambic: Action Names 1.2 Product Information](https://web.archive.org/web/19980526100834/http://www.iambic.com/newton/action12sales.html)
+- [Iambic: Action Names 4.0](https://web.archive.org/web/19980526094254/http://www.iambic.com/newton/an4details.html)
+- [Iambic: Action Names 3.0](https://web.archive.org/web/19980526100337/http://www.iambic.com/newton/actionsales.html)
+- [Iambic: Action Names 1.2](https://web.archive.org/web/19980526100834/http://www.iambic.com/newton/action12sales.html)
 
 ----
 

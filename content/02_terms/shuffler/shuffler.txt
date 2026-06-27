@@ -20,7 +20,7 @@ Using the integrated application programming interface ((link: /terms/api text: 
 
 Resource:
 
-- [Avanti Software: Shuffler Product Information](https://web.archive.org/web/19981207012928/http://www.lectra.se/avanti/genshuff.htm)
+- [Avanti Software: Shuffler](https://web.archive.org/web/19981207012928/http://www.lectra.se/avanti/genshuff.htm)
 - [Avanti Software: Shuffler Read Me](http://web.archive.org/web/19990210075326/http://www.lectra.se/avanti/shuffrme.htm)
 - [Avanti Software: Shuffler Developer API](https://web.archive.org/web/19981205181101/http://www.lectra.se/avanti/shuffapi.htm)
 

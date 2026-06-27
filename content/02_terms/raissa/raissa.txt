@@ -14,7 +14,7 @@ An (link: /terms/rss text: RSS) reader for Newton devices developed by (link: /s
 
 Resource:
 
-- [40Hz: Raissa Product Information](https://40hz.org/Pages/newton/packages/raissa/)
+- [40Hz: Raissa](https://40hz.org/Pages/newton/packages/raissa/)
 
 ----
 

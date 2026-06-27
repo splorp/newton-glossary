@@ -14,7 +14,7 @@ A (link: /terms/pc-card text: PC card) peripheral by (link: /sources/ezshow-syst
 
 Resource:
 
-- [EZShow: EZ2VGA Product Information](https://web.archive.org/web/19980201053343/http://ezshow.com/ez2vgapr.htm)
+- [EZShow: EZ2VGA](https://web.archive.org/web/19980201053343/http://ezshow.com/ez2vgapr.htm)
 - [Dr Clu’s EZ2TV Review Page](https://web.archive.org/web/20091021223950/http://geocities.com/doctor_clu/EZ2TV.html)
 
 ----

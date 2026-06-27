@@ -16,7 +16,7 @@ A game developed by (link: /sources/scrawl-software text: Scrawl Software) based
 
 Resource:
 
-- [Scrawl Software: Chiral Product Information](https://web.archive.org/web/19991013231058/http://scrawlsoft.com/products/chiral/info.html)
+- [Scrawl Software: Chiral](https://web.archive.org/web/19991013231058/http://scrawlsoft.com/products/chiral/info.html)
 - [MobyGames: Chiral](https://www.mobygames.com/game/87437/chiral/)
 
 ----

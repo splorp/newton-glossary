@@ -14,7 +14,7 @@ A desktop (link: /terms/application text: application) developed by Thomas Tempe
 
 Resource:
 
-- [Thomas Tempelmann: Newton Data Browser Product Information](https://www.tempel.org/newton/#DILplugin)
+- [Thomas Tempelmann: Newton Data Browser](https://www.tempel.org/newton/#DILplugin)
 
 ----
 

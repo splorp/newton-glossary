@@ -16,7 +16,7 @@ LookOut supported synchronization Outlook contacts with the (link: /terms/name-f
 
 Resource:
 
-- [Seamless Software: LookOut Product Information](https://web.archive.org/web/19980628145110/http://www.writeonwares.com/)
+- [Seamless Software: LookOut](https://web.archive.org/web/19980628145110/http://www.writeonwares.com/)
 - [UNNA: LookOut 1.1](http://www.unna.org/view.php?/utilites/LookOut)
 
 ----

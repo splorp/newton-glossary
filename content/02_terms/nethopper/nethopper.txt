@@ -16,10 +16,10 @@ NetHopper began as an (link: /terms/application text: application) that allows N
 
 Resource:
 
-- [AllPen: NetHopper 1.0 Product Information](https://web.archive.org/web/19961022181719/http://www.allpen.com/nethopper10.html)
-- [AllPen: NetHopper 2.0 Product Information](https://web.archive.org/web/19961022181753/http://www.allpen.com/nethopper20.html)
-- [AllPen: NetHopper 3.0 Product Information](https://web.archive.org/web/19990202060908/http://www.allpen.com/products/nethopper3/datasheet.html)
-- [AllPen: NetHopper 3.2 Product Information](https://web.archive.org/web/19971010181217/http://www.allpen.com/products/nethopper3-2/datasheet.html)
+- [AllPen: NetHopper 1.0](https://web.archive.org/web/19961022181719/http://www.allpen.com/nethopper10.html)
+- [AllPen: NetHopper 2.0](https://web.archive.org/web/19961022181753/http://www.allpen.com/nethopper20.html)
+- [AllPen: NetHopper 3.0](https://web.archive.org/web/19990202060908/http://www.allpen.com/products/nethopper3/datasheet.html)
+- [AllPen: NetHopper 3.2](https://web.archive.org/web/19971010181217/http://www.allpen.com/products/nethopper3-2/datasheet.html)
 - [Newted: NetHopper 3.0 User’s Manual](https://www.newted.org/download/manuals/NetHopper30UsersManual.pdf)
 - [Newted: NetHopper 3.2 User’s Manual](https://www.newted.org/download/manuals/NetHopper32UsersManual.pdf)
 - [UNNA: NetHopper 3.2 User’s Manual](http://www.unna.org/unna/internet/web-browsers/NetHopper3.2/NetHopper_3.2_User%27s_Guide.pdf)

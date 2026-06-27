@@ -16,7 +16,7 @@ Software developed by (link: /sources/eckhart-koppen text: Eckhart Köppen) that
 
 Resource:
 
-- [40Hz: Flashpoint Product Information](https://40hz.org/Pages/newton/packages/flashpoint/)
+- [40Hz: Flashpoint](https://40hz.org/Pages/newton/packages/flashpoint/)
 - [40Hz: Getting Things Done on the Newton](https://40hz.org/Pages/newton/gtd/)
 
 ----

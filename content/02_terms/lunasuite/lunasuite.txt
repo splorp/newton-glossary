@@ -14,7 +14,7 @@ A set of modular internet (link: /terms/application text: applications) develope
 
 Resource:
 
-- [Lunatech Research: LunaSuite Product Information](https://web.archive.org/web/19980214102439/http://www2.lunatech.com/products/lunasuite/)
+- [Lunatech Research: LunaSuite](https://web.archive.org/web/19980214102439/http://www2.lunatech.com/products/lunasuite/)
 - [Lunatech Research: LunaSuite Documentation](https://web.archive.org/web/20000901013856/http://www.lunatech.com/products/lunasuite/documentation/)
 - [Lunatech Research: LunaSuite Pro 2.1](https://web.archive.org/web/19991003054131/http://www.lunatech.com/products/lunasuite/download/download.ltml)
 - [UNNA: LunaSuite Pro 2.1](http://www.unna.org/view.php?/internet/LunaSuite-Pro-2_1Bc350EN)

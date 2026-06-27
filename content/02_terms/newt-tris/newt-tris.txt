@@ -18,7 +18,7 @@ Also referred to as (link: /terms/newtris text: Newtris).
 
 Resource:
 
-- [DejaVu: Newt ‘Tris Product Information](http://web.archive.org/web/20041023081159/http://www.dejavusoftware.com/newtris/)
+- [DejaVu: Newt ‘Tris](http://web.archive.org/web/20041023081159/http://www.dejavusoftware.com/newtris/)
 
 ----
 

@@ -14,7 +14,7 @@ A desktop (link: /terms/application text: application) developed by [John Del Pi
 
 Resource:
 
-- [Delcann Software: Newtourage Product Information](https://web.archive.org/web/20040331135313/http://delcannsoftware.com/)
+- [Delcann Software: Newtourage](https://web.archive.org/web/20040331135313/http://delcannsoftware.com/)
 - [Delcann Software: Newtourage 0.7 User’s Guide](https://web.archive.org/web/20040327173743/http://www.delcannsoftware.com/downloads/Newtourage%20Users%20Guide.pdf)
 
 ----

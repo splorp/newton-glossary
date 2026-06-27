@@ -18,7 +18,7 @@ When activated, BBEditor overlay a portion of the (link: /terms/button-bar text:
 
 Resource:
 
-- [Byte-Size Software: BBEditor Product Information](https://web.archive.org/web/20040806214412fw_/http://home.earthlink.net/~firstvln/bytesize/bbeditor.html)
+- [Byte-Size Software: BBEditor](https://web.archive.org/web/20040806214412fw_/http://home.earthlink.net/~firstvln/bytesize/bbeditor.html)
 - [UNNA: BBEditor 1.0a](http://www.unna.org/view.php?/utilites/BBEditor1.0a)
 - [UNNA: BBEditor 1.7c](http://www.unna.org/view.php?/utilites/BBEditor1.7c)
 

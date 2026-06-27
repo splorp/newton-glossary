@@ -16,7 +16,7 @@ A Japanese (link: /terms/handwriting-recognition text: handwriting recognition) 
 
 Resource:
 
-- [Enfour: HWCR Product Information](https://web.archive.org/web/19981202103102/http://www.enfour.co.jp/newton/software/hwcr/index.html) (Japanese)
+- [Enfour: HWCR](https://web.archive.org/web/19981202103102/http://www.enfour.co.jp/newton/software/hwcr/index.html) (Japanese)
 
 ----
 

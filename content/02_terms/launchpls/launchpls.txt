@@ -17,7 +17,7 @@ Resource:
 - [Chuma: LaunchPLS for NOS 2.x](https://web.archive.org/web/20050206184205/http://www.chuma.org/code/newton/launchpls/)
 - [Chuma: Newt’s Cape Plugins](http://old.chuma.org/newton/newts-cape-plugins/)
 - [40hz: MAD Newton](https://40hz.org/Pages/newton/packages/madnewton/)
-- [CommuniCrossings: Newt’s Cape Product Information](https://communicrossings.com/html/newton/newtscape.htm)
+- [CommuniCrossings: Newt’s Cape](https://communicrossings.com/html/newton/newtscape.htm)
 
 ----
 

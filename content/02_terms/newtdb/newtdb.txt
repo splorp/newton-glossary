@@ -14,7 +14,7 @@ A relational (link: /terms/database text: database) developed by DMP Systems. De
 
 Resource:
 
-- [DMP Systems: NewtDb Product Information](https://web.archive.org/web/20000824180611/http://www.netacc.net/~dmpsyst/newtdb.html)
+- [DMP Systems: NewtDb](https://web.archive.org/web/20000824180611/http://www.netacc.net/~dmpsyst/newtdb.html)
 - [UNNA: NewtDb 1.20](http://www.unna.org/view.php?/applications/database/NewtDb1.20)
 
 ----

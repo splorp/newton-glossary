@@ -20,7 +20,7 @@ The name was chosen in homage to [Mac OS X](https://en.wikipedia.org/wiki/MacOS#
 
 Resource:
 
-- [Newton Research: Mail V Product Information](https://newtonresearch.org/mailv/)
+- [Newton Research: Mail V](https://newtonresearch.org/mailv/)
 
 ----
 

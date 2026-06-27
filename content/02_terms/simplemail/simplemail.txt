@@ -14,7 +14,7 @@ An email (link: /terms/transport text: transport) developed by (link: /sources/s
 
 Resource:
 
-- [Newton Research: SimpleMail Product Information](https://newtonresearch.org/simplemail/)
+- [Newton Research: SimpleMail](https://newtonresearch.org/simplemail/)
 
 ----
 

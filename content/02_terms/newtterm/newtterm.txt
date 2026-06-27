@@ -16,7 +16,7 @@ According to the author, NewtTerm “… doesn’t support (link: /terms/vt100 t
 
 Resource:
 
-- [Stephen Pendleton: NewtTerm Product Information](https://web.archive.org/web/20011030022614/http://www.geocities.com/ResearchTriangle/9987/)
+- [Stephen Pendleton: NewtTerm](https://web.archive.org/web/20011030022614/http://www.geocities.com/ResearchTriangle/9987/)
 
 ----
 

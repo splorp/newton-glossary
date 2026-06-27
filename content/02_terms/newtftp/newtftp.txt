@@ -16,7 +16,7 @@ An (link: /terms/ftp text: FTP) client for (link: /terms/newton-os text: Newton 
 
 Resource:
 
-- [Tactile: NewtFTP Product Information](https://web.archive.org/web/19990417053833/http://www.tactile.com/newtFTP.html)
+- [Tactile: NewtFTP](https://web.archive.org/web/19990417053833/http://www.tactile.com/newtFTP.html)
 
 ----
 

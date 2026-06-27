@@ -20,7 +20,7 @@ PDA Package Downloader was the successor to the (link: /terms/newton-package-dow
 
 Resource:
 
-- [Lunatech Research: PDA Package Downloader Product Information](https://web.archive.org/web/19980214102814/http://www2.lunatech.com/products/pda-package-downloader/)
+- [Lunatech Research: PDA Package Downloader](https://web.archive.org/web/19980214102814/http://www2.lunatech.com/products/pda-package-downloader/)
 
 ----
 

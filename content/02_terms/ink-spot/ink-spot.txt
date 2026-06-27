@@ -16,7 +16,7 @@ A [Usenet](https://en.wikipedia.org/wiki/Usenet) news reader (link: /terms/appli
 
 Resource:
 
-- [DejaVu: Ink Spot Product Information](https://web.archive.org/web/20060404134416/http://www.dejavusoftware.com/ink/)
+- [DejaVu: Ink Spot](https://web.archive.org/web/20060404134416/http://www.dejavusoftware.com/ink/)
 
 ----
 

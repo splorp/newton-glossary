@@ -16,7 +16,7 @@ Also referred to as (link: /terms/avail-pointpro text: Avail PointPro).
 
 Resource:
 
-- [PelicanWare: Avail PointPro Product Information](https://web.archive.org/web/20030802105624/http://www.pelicanware.com/pointpro.html)
+- [PelicanWare: Avail PointPro](https://web.archive.org/web/20030802105624/http://www.pelicanware.com/pointpro.html)
 - [UNNA: Avail PointPro 1.0 User’s Manual](http://www.unna.org/unna/applications/Pointpro/pointpro%20manual)
 
 ----

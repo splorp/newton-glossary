@@ -15,4 +15,4 @@ A software development company founded by Robert Ellison. Smart Dog Software’s
 Resource:
 
 - [Smart Dog Software Website](https://www.smartdogsw.com/)
-- [Backtalk Product Information](https://www.smartdogsw.com/backtalk/)
+- [Smart Dog Software: Backtalk](https://www.smartdogsw.com/backtalk/)

@@ -18,7 +18,7 @@ Also referred to as a (link: /terms/dongle-destroyer text: Dongle Destroyer).
 
 Resource:
 
-- [NewtonSales: USB-001 Product Information](https://www.newtonsales.com/#/product/usbc)
+- [NewtonSales: USB-001](https://www.newtonsales.com/#/product/usbc)
 
 ----
 
