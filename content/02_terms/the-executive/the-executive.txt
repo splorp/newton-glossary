@@ -1,0 +1,29 @@
+Title: The Executive
+
+----
+
+Date: 27 June 2026
+
+----
+
+Text:
+
+A high quality stand manufactured by (link: /terms/marware text: MAR Software) to hold a (link: /terms/messagepad text: MessagePad) device. The stand was made using anodized aluminum and hardwood in either a mahogany or maple finish. It was designed to hold the MessagePad at a slight angle when sitting on a desk or other work surface.
+
+----
+
+- [MAR Software: The Executive](https://web.archive.org/web/19971010055939/http://www.marsoftware.com/TheExecutive.html)
+
+----
+
+Related:
+
+- /terms/charging-station
+- /terms/cradle
+- /terms/the-wedge
+
+----
+
+Source:
+
+- /sources/marware

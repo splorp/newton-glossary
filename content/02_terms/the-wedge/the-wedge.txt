@@ -21,6 +21,7 @@ Related:
 
 - /terms/charging-station
 - /terms/cradle
+- /terms/the-executive
 
 ----
 
