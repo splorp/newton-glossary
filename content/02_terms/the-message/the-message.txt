@@ -1,0 +1,24 @@
+Title: The Message
+
+----
+
+Date: 27 June 2026
+
+----
+
+Text:
+
+Software developed by (link: /sources/david-fedor text: David Fedor) that allows the user to read and search the Bible on a Newton device. The software was released for multiple computing platforms as _MyBible_ and was also available for Palm OS devices as _Scripture_.
+
+----
+
+Resource:
+
+- [Servant Software: The Message](https://web.archive.org/web/20001001091012/http://www.thefedors.com/themessage/)
+- [Servant Software: Scripture](https://web.archive.org/web/20000831061808/http://www.thefedors.com/scripture/)
+
+----
+
+Source:
+
+- /sources/david-fedor
