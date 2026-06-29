@@ -16,9 +16,9 @@ Text:
 
 Only include the abbreviated term in the related terms of the expanded term. Do not include the abbreviated term in other terms.
 
-For example, (link: /terms/newton-toolkit text: Newton Toolkit) should list (link: /terms/ntk text: NTK) as a related term because it is the actual abbreviation for (link: /terms/newton-toolkit text: Newton Toolkit).
+For example, the (link: /terms/newton-toolkit text: Newton Toolkit) term should list (link: /terms/ntk text: NTK) as a related term because it is the actual abbreviation for (link: /terms/newton-toolkit text: Newton Toolkit).
 
-However, (link: /terms/project-build text: project build) should list (link: /terms/newton-toolkit text: Newton Toolkit), not (link: /terms/ntk text: NTK).
+However, the (link: /terms/project-build text: Project Build) term should list (link: /terms/newton-toolkit text: Newton Toolkit), not (link: /terms/ntk text: NTK), as a related term.
 
 When an abbreviation is more commonly used than the expanded term, the abbreviated term should be the primary term.
 
@@ -128,6 +128,7 @@ _Example:_
 
 + Use “a slip appears” instead of “a slip will appear”
 + Use “data is saved to the storage card” instead of “data will be saved to the storage card”
++ Use “the application allows the user to” instead of “the application allowed the user to”
 
 ### Links to additional information
 
