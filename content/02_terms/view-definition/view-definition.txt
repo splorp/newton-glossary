@@ -15,7 +15,6 @@ In (link: /terms/newtonscript text: NewtonScript), a view (link: /terms/template
 Related:
 
 - /terms/data-definition
-- /terms/datadef
 - /terms/newtonscript
 - /terms/template
 - /terms/view-class

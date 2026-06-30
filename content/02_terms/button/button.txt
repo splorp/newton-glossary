@@ -25,7 +25,6 @@ Related:
 - /terms/default-button
 - /terms/dictionary-button
 - /terms/edit-notes
-- /terms/envelope-button
 - /terms/floating-bar
 - /terms/folder-button
 - /terms/hard-button
@@ -44,7 +43,6 @@ Related:
 - /terms/radio-button
 - /terms/recognition-button
 - /terms/reset-button
-- /terms/routing-button
 - /terms/ryo
 - /terms/scroll-arrows
 - /terms/scroller

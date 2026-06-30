@@ -32,8 +32,8 @@ Related:
 - /terms/draw
 - /terms/drawing
 - /terms/fill-tool
-- /terms/freehand-tool
 - /terms/formula
+- /terms/freehand-tool
 - /terms/function
 - /terms/graphing-calculator
 - /terms/line-tool

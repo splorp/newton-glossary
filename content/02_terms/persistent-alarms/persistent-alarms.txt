@@ -22,7 +22,6 @@ Related:
 - /terms/calendar
 - /terms/clock
 - /terms/notification-alert
-- /terms/notification-slip
 - /terms/prefs
 - /terms/snooze
 - /terms/snooze-button

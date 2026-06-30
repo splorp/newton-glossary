@@ -14,7 +14,6 @@ A flashing vertical line indicating where new text will be inserted. More common
 
 Related:
 
-- /terms/blinking-star
 - /terms/caret
 - /terms/cursor
 - /terms/edit

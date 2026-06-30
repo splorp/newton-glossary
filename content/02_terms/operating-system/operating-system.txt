@@ -19,6 +19,5 @@ Related:
 - /terms/bauhaus
 - /terms/kernel
 - /terms/newton-os
-- /terms/nos
 - /terms/os
 - /terms/system

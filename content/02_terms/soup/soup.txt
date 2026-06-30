@@ -43,6 +43,7 @@ Related:
 - /terms/newton-information-architecture
 - /terms/newtonscript
 - /terms/object
+- /terms/object-store
 - /terms/persistant-object-database
 - /terms/ragout
 - /terms/reference

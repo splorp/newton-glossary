@@ -14,6 +14,7 @@ A series of instructions for the microprocessor, each of which tells the micropr
 
 Related:
 
+- /terms/jumptable
 - /terms/patchable-jump-table
 - /terms/public-jump-table
 - /terms/system-patch-pages

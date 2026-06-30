@@ -16,7 +16,6 @@ Related:
 
 - /terms/newtie
 - /terms/newtie-award
-- /terms/the-newties
 - /terms/this-old-newt
 
 ----

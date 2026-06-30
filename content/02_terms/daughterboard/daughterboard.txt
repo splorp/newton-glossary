@@ -18,7 +18,5 @@ Related:
 - /terms/implant-2000
 - /terms/main-logic-board
 - /terms/mezzanine-board
-- /terms/mlb
-- /terms/mobo
 - /terms/motherboard
 - /terms/rom

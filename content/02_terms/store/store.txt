@@ -19,7 +19,6 @@ Related:
 - /terms/fragmentation
 - /terms/internal-store
 - /terms/member-soup
-- /terms/package-store
 - /terms/soup
 - /terms/storage
 - /terms/storage-card

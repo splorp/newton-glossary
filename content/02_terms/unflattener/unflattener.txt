@@ -17,7 +17,6 @@ To perform the opposite translation, you would use a (link: /terms/flattener tex
 Related:
 
 - /terms/binary-object
-- /terms/engine
 - /terms/flatten
 - /terms/flattened-frame
 - /terms/flattened-soup

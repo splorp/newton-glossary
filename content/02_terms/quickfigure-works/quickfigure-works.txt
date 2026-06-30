@@ -39,6 +39,7 @@ Related:
 - /terms/quickfigure
 - /terms/quickfigure-exchange
 - /terms/quickfigure-pro
+- /terms/quickfigure-spreadsheet
 - /terms/spreadsheet
 - /terms/stationery
 

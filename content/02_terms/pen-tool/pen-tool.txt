@@ -47,7 +47,6 @@ Related:
 - /terms/rounded-rectangle-tool
 - /terms/shapes-tool
 - /terms/stamp-tool
-- /terms/straight-line-tool
 - /terms/text-tool
 - /terms/toolbar
 - /terms/user-interface

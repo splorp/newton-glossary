@@ -22,7 +22,6 @@ Related:
 - /terms/command-key
 - /terms/content-command
 - /terms/document-command
-- /terms/dot-commands
 - /terms/layout-command
 
 ----

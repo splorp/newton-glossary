@@ -16,7 +16,6 @@ Also referred to as (link: /terms/np text: NP).
 
 Related:
 
-- /terms/claris-xtnd
 - /terms/help-book
 - /terms/help-browser
 - /terms/kiosk
@@ -27,6 +26,7 @@ Related:
 - /terms/paperback
 - /terms/paperback-book
 - /terms/pbbookmaker
+- /terms/xtnd
 
 ----
 

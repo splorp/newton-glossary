@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: (link: /terms/newton-works text: AvailWorks) and (link: /terms/newton-works text: Newton Works)
+See: (link: /terms/availworks text: AvailWorks) and (link: /terms/newton-works text: Newton Works)

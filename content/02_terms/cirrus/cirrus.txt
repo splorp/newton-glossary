@@ -8,4 +8,4 @@ Date: 12 June 2001
 
 Text:
 
-See: (link: /terms/voyager text: Voyager)
+See: (link: /terms/cirrus-logic text: Cirrus Logic), (link: /terms/senior text: Senior), and (link: /terms/voyager text: Voyager)

@@ -10,7 +10,7 @@ Text:
 
 Transferring data using an (link: /terms/irda text: IrDA) compatible (link: /terms/infrared text: infrared) connection at a rate up to 4 Mbps. As opposed to (link: /terms/slow-infrared text: Slow Infrared) which only transfers data at a rate up to 115 Kbps.
 
-Fast Infrared is also referred to as (link: /terms/fir text: FIR).
+Also referred to as (link: /terms/fir text: FIR).
 
 ----
 
@@ -26,6 +26,7 @@ Related:
 - /terms/beaming
 - /terms/diffuse-infrared
 - /terms/dual-mode-infrared
+- /terms/fir
 - /terms/infrared
 - /terms/infrared-appletalk
 - /terms/irda

@@ -24,7 +24,6 @@ Related:
 - /terms/call-slip
 - /terms/card-slip
 - /terms/change-password-slip
-- /terms/confirmation-slip
 - /terms/container-view
 - /terms/find-slip
 - /terms/folder-slip
@@ -32,7 +31,6 @@ Related:
 - /terms/item-info-slip
 - /terms/matte-border
 - /terms/memory-info-slip
-- /terms/notification-slip
 - /terms/password-slip
 - /terms/restore-slip
 - /terms/routing-slip

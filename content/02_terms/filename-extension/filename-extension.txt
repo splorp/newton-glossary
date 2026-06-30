@@ -20,7 +20,7 @@ Related:
 
 - /terms/adf
 - /terms/extension
-- /terms/filename-extension
+- /terms/file-extension
 - /terms/nbk
 - /terms/nbku
 - /terms/newtonpkg

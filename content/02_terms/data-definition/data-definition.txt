@@ -22,7 +22,6 @@ Related:
 - /terms/soup
 - /terms/stationery
 - /terms/view-definition
-- /terms/viewdef
 
 ----
 

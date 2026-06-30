@@ -23,6 +23,7 @@ Resource:
 Related:
 
 - /terms/ardis
+- /terms/ardis-pm
 - /terms/apple-mobile-message-system
 - /terms/apple-notification-service
 - /terms/apple-wireless-messaging-service

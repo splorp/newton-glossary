@@ -18,7 +18,6 @@ Related:
 - /terms/corrupt-package
 - /terms/corrupt-soup
 - /terms/corrupted
-- /terms/frames-heap
 - /terms/freeze
 - /terms/garbage-collection
 - /terms/grip-of-death

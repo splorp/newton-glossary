@@ -19,7 +19,6 @@ Related:
 - /terms/messagepad
 - /terms/messagepad-2000
 - /terms/messagepad-2100
-- /terms/mp2k
 - /terms/mp2ku
 - /terms/mp2000-plus
 - /terms/mp2000u

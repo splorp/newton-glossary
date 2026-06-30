@@ -18,7 +18,6 @@ Related:
 
 - /terms/alias
 - /terms/array
-- /terms/array-elements
 - /terms/binary-object
 - /terms/class
 - /terms/entry-alias

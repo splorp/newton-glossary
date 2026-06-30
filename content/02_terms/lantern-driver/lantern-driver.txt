@@ -24,7 +24,6 @@ Related:
 - /terms/ddk
 - /terms/device-driver
 - /terms/lantern
-- /terms/lantern-library
 - /terms/newton-devices
 
 ----

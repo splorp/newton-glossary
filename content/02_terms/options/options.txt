@@ -33,7 +33,6 @@ Related:
 - /terms/freeze
 - /terms/option
 - /terms/optionen
-- /terms/sbm
 
 ----
 

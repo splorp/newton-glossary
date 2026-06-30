@@ -20,7 +20,6 @@ Related:
 - /terms/arm-610
 - /terms/arm-710a
 - /terms/hobbit
-- /terms/implant
 - /terms/main-logic-board
 - /terms/mobius
 - /terms/mmu

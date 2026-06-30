@@ -9,3 +9,9 @@ Date: 14 October 2017
 Text:
 
 See: (link: /terms/script-icon text: Script Icon)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

@@ -10,7 +10,7 @@ Text:
 
 A type of (link: /terms/stationery text: stationery) in the (link: /terms/notepad text: Notepad) application that can be used to record and play sounds and voice messages.
 
-Also referred to as (link: /terms/recorded-note text: Recorded Note), (link: /terms/recording-note text: Recording Note), and (link: /terms/sound-stationery text: Sound Stationery).
+Also referred to as (link: /terms/recorded-note text: Recorded Note), (link: /terms/recording-note text: Recording Note), (link: /terms/recording-sheet text: Recording Sheet), and (link: /terms/sound-stationery text: Sound Stationery).
 
 Recording is also a section found in the (link: /terms/prefs text: Prefs) application.
 
@@ -32,6 +32,7 @@ Related:
 - /terms/prefs
 - /terms/recorded-note
 - /terms/recording-note
+- /terms/recording-sheet
 - /terms/recording-slip
 - /terms/sound
 - /terms/sound-recorder-slip

@@ -8,17 +8,18 @@ Date: 25 June 2001
 
 Text:
 
-A (link: /terms/picture-button text: picture button) that executes a NewtonScript (link: /terms/function-object text: function object) when (link: /terms/tapped text: tapped).
+An (link: /terms/icon text: icon) that acts as a wrapper for a (link: /terms/function-object text: function object), When the icon is (link: /terms/tapped text: tapped), (link: /terms/NewtonScript text: NewtonScript) is executed. Generally used to open a (link: /terms/user-interface text: user interface) for a (link: /terms/transport text: transport).
+
+Also referred to as a (link: /terms/script-button text: Script Button).
 
 ----
 
 Related:
 
-- /terms/button
+- /terms/function
 - /terms/function-object
 - /terms/icon
 - /terms/newtonscript
-- /terms/picture-button
 - /terms/script
 - /terms/script-button
 - /terms/user-interface

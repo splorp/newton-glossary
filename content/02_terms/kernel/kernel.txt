@@ -15,9 +15,7 @@ The essential part of an (link: /terms/operating-system text: operating system),
 Related:
 
 - /terms/newton-os
-- /terms/nos
 - /terms/operating-system
-- /terms/os
 
 ----
 

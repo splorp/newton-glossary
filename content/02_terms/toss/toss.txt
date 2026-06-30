@@ -16,12 +16,9 @@ Related:
 
 - /terms/newtftp
 - /terms/newton-package-uploader
-- /terms/newtonpkg
 - /terms/newtterm
-- /terms/npu
 - /terms/package
 - /terms/package-file
-- /terms/pkg
 - /terms/pt100
 
 ----

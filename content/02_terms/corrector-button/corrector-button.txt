@@ -16,7 +16,6 @@ Related:
 
 - /terms/button
 - /terms/correction-picker
-- /terms/corrector
 - /terms/corrector-view
 - /terms/handwriting-recognition
 - /terms/try-letters

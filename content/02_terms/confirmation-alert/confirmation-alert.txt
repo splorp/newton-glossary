@@ -24,7 +24,6 @@ Related:
 - /terms/alert-sound
 - /terms/confirmation-slip
 - /terms/notification-alert
-- /terms/notification-slip
 - /terms/notify-button
 - /terms/notify-picker
 - /terms/status-box

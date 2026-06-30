@@ -19,7 +19,6 @@ Related:
 - /terms/button
 - /terms/calligrapher
 - /terms/correction-picker
-- /terms/corrector
 - /terms/corrector-button
 - /terms/corrector-view
 - /terms/cursive-recognizer

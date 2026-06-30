@@ -26,11 +26,9 @@ Related:
 - /terms/ink-text-recognition
 - /terms/ink-word
 - /terms/inker
-- /terms/raw-ink
 - /terms/recognition-button
 - /terms/recognized-text
 - /terms/recognizer-picker
-- /terms/sketch-ink
 - /terms/text
 - /terms/text-recognizer-toggle
 

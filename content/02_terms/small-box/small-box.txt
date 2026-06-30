@@ -25,8 +25,6 @@ Related:
 - /terms/character
 - /terms/clipboard
 - /terms/cliphoard
-- /terms/dark-box
-- /terms/darkened-box
 - /terms/hilite2000
 - /terms/miniature-box
 - /terms/options

@@ -30,7 +30,6 @@ Related:
 - /terms/newton-toolkit
 - /terms/newtonscript
 - /terms/object
-- /terms/the-grip
 
 ----
 

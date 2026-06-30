@@ -43,6 +43,7 @@ Related:
 - /terms/pcs
 - /terms/tango
 - /terms/swims
+- /terms/wms
 
 ----
 

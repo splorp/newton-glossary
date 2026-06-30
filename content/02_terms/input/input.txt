@@ -10,11 +10,14 @@ Text:
 
 Information transferred into a Newton device from an external source or entered directly by the user. Examples of input sources include (link: /terms/pen text: pen), audio, (link: /terms/modem text: modem), serial cable, and infrared (link: /terms/beaming text: beaming).
 
+Alos referred to as (link: /terms/user-input text: User Input).
+
 ----
 
 Related:
 
 - /terms/output
+- /terms/user-input
 
 ----
 

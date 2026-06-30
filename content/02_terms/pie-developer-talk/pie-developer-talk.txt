@@ -23,7 +23,6 @@ Related:
 - /terms/pie
 - /terms/pie-developer-info
 - /terms/pie-partners-program
-- /terms/pie-program
 - /terms/piesysop
 
 ----

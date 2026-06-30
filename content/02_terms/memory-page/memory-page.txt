@@ -21,6 +21,7 @@ Related:
 - /terms/mmu
 - /terms/mmu-tables
 - /terms/physical-address
+- /terms/page
 - /terms/pointer
 - /terms/virtual-address
 - /terms/virtual-memory

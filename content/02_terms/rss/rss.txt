@@ -19,6 +19,7 @@ Feeds can be subscribed to using a news reader or aggregator (link: /terms/appli
 Related:
 
 - /terms/courier
+- /terms/feed
 - /terms/metadata
 - /terms/raissa
 - /terms/xml

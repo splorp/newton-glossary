@@ -30,7 +30,6 @@ Related:
 - /terms/junior
 - /terms/messagepad
 - /terms/original-messagepad
-- /terms/pocket-newton
 - /terms/prototype
 - /terms/wedge
 

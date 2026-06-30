@@ -19,7 +19,6 @@ Related:
 - /terms/command
 - /terms/content-command
 - /terms/document-command
-- /terms/dot-commands
 - /terms/help-book
 - /terms/kiosk
 - /terms/layout

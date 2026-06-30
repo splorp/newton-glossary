@@ -20,5 +20,4 @@ Related:
 - /terms/device-driver
 - /terms/lantern
 - /terms/lantern-driver
-- /terms/lantern-library
 - /terms/sdk

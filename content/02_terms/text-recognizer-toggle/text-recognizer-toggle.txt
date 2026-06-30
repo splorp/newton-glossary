@@ -24,8 +24,8 @@ Related:
 - /terms/handwriting-recognition
 - /terms/letter-by-letter
 - /terms/picture-button
+- /terms/recognition-button
 - /terms/recognized-text
-- /terms/recognizer-button
 - /terms/recognizer-picker
 - /terms/text
 - /terms/toggle

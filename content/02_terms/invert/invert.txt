@@ -17,7 +17,6 @@ Related:
 - /terms/deselect
 - /terms/highlight
 - /terms/highlight-mode
-- /terms/highlighting
 - /terms/pixel
 - /terms/select
 - /terms/selection

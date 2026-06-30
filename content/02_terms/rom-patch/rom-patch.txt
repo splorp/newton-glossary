@@ -8,4 +8,4 @@ Date: 24 May 2001
 
 Text:
 
-See: (link: /terms/patch text: Patch)
+See: (link: /terms/patch text: Patch), (link: /terms/system-patch text: System Patch)

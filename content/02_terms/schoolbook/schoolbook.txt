@@ -10,7 +10,7 @@ Text:
 
 One of the code names for the (link: /terms/emate-300 text: eMate 300) device.
 
-Also referred to as (link: /terms/k text: K), (link: /terms/project-k text: Project K), and (link: /terms/shay text: Shay).
+Also referred to as (link: /terms/project-k text: Project K) and (link: /terms/shay text: Shay).
 
 ----
 
@@ -20,7 +20,6 @@ Related:
 - /terms/clamshell
 - /terms/clamshell-newton
 - /terms/emate-300
-- /terms/k
 - /terms/project-k
 - /terms/shay
 

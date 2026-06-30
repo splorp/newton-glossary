@@ -23,7 +23,6 @@ Related:
 - /terms/alert-box
 - /terms/alert-sound
 - /terms/confirmation-alert
-- /terms/confirmation-slip
 - /terms/message-box
 - /terms/notice
 - /terms/notification-slip

@@ -22,10 +22,10 @@ Resource:
 
 Related:
 
-/terms/indiglo-newton
-/terms/messagepad-200
-/terms/newton-200c
-/terms/newton-200i
+- /terms/indiglo-newton
+- /terms/messagepad-200
+- /terms/newton-200c
+- /terms/newton-200i
 
 ----
 

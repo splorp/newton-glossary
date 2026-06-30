@@ -22,7 +22,6 @@ Related:
 - /terms/icon
 - /terms/locked-switch-icon
 - /terms/unlocked-icon
-- /terms/unlocked-switch-icon
 - /terms/user-interface
 - /terms/write-protection-switch
 

@@ -17,7 +17,6 @@ Related:
 - /terms/jump-table
 - /terms/patch
 - /terms/public-jump-table
-- /terms/rom-patch
 - /terms/system-patch
 - /terms/system-patch-pages
 - /terms/system-update

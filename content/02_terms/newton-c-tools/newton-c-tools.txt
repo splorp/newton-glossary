@@ -33,6 +33,7 @@ Related:
 - /terms/newtapp
 - /terms/newtcard
 - /terms/newtdevenv
+- /terms/newton-c-toolbox
 - /terms/newton-gcc-tools
 - /terms/newton-toolkit
 - /terms/newtsbug

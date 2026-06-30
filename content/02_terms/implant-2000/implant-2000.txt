@@ -21,6 +21,7 @@ Resource:
 Related:
 
 - /terms/daughterboard
+- /terms/implant
 - /terms/implant-130
 - /terms/messagepad-2000
 - /terms/messagepad-2100

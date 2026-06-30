@@ -24,9 +24,7 @@ Related:
 - /terms/card
 - /terms/findgod
 - /terms/freeze
-- /terms/god
 - /terms/grip-of-death
-- /terms/the-grip
 
 ----
 

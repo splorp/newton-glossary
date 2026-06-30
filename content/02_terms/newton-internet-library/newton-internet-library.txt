@@ -40,7 +40,7 @@ Related:
 - /terms/newton-internet-enabler
 - /terms/newton-text-encoding
 - /terms/newtonscript
-- /terms/nil
+- /terms/nil-library
 - /terms/protocol
 - /terms/prototype
 - /terms/unicode

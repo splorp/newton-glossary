@@ -18,7 +18,6 @@ Related:
 
 - /terms/application
 - /terms/application-name
-- /terms/application-signature
 - /terms/application-symbol
 - /terms/developer-signature
 - /terms/extras-drawer

@@ -9,3 +9,9 @@ Date: 25 September 2001
 Text:
 
 See: (link: /terms/motherboard text: Motherboard)
+
+----
+
+Source:
+
+- /sources/newtontalk

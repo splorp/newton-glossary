@@ -27,7 +27,6 @@ Related:
 - /terms/handwriting-recognition
 - /terms/ink
 - /terms/ink-pad
-- /terms/ink-technology
 - /terms/ink-window
 
 ----

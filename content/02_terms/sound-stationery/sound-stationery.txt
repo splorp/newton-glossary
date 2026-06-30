@@ -29,7 +29,6 @@ Related:
 - /terms/recording
 - /terms/recording-note
 - /terms/recording-sheet
-- /terms/recording-slip
 - /terms/sound
 - /terms/sound-recorder-slip
 - /terms/stationery

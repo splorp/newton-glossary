@@ -18,7 +18,7 @@ Related:
 
 - /terms/book-script
 - /terms/build
-- /terms/byte-code
+- /terms/bytecode
 - /terms/content-script
 - /terms/denali
 - /terms/dylan

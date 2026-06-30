@@ -41,6 +41,7 @@ Related:
 - /terms/pagesoft
 - /terms/pcs
 - /terms/tango
+- /terms/wms
 
 ----
 

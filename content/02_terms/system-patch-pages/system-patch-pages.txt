@@ -21,7 +21,6 @@ Related:
 - /terms/public-jump-table
 - /terms/rom
 - /terms/rom-extension
-- /terms/rom-patch
 - /terms/system-patch
 - /terms/system-update
 

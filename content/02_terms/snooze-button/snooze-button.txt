@@ -23,7 +23,6 @@ Related:
 - /terms/alert-sound
 - /terms/button
 - /terms/notification-alert
-- /terms/notification-slip
 - /terms/notify-button
 - /terms/notify-picker
 - /terms/persistent-alarms

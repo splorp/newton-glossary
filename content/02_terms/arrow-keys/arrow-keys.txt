@@ -48,7 +48,7 @@ Related:
 - /terms/scroll-arrows
 - /terms/scroll-keys
 - /terms/send-key
-- /terms/tab
+- /terms/tab-key
 - /terms/tab-marker
 - /terms/tab-stop
 - /terms/type-ahead

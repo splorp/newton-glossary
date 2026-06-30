@@ -10,6 +10,8 @@ Text:
 
 A website established in 1997 by (link: /sources/rich-lindsay text: Rich Lindsay) which provided a comprehensive assortment of Newton resources including news updates, documentation, tips, software downloads, a pricing guide, and links. This Old Newt also hosted the (link: /terms/newtie-award text: Newtie Awards), an annual award that recognized contributions made to the Newton community.
 
+Also known as (link: /terms/ton text: TON).
+
 ----
 
 Resource:
@@ -27,7 +29,7 @@ Related:
 - /terms/newton-info
 - /terms/planet-newton
 - /terms/the-newted-community
-- /terms/the-newties
+- /terms/ton
 
 ----
 

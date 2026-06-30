@@ -8,7 +8,7 @@ Date: 08 August 2025
 
 Text:
 
-See: (link: /terms/newton-tour text: Newton Tour)
+See: (link: /terms/newton-tour text: Newton Tour) and (link: /terms/getting-started-card text: Getting Started Card)
 
 ----
 

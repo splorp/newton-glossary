@@ -41,7 +41,6 @@ Related:
 - /terms/hot-insertion
 - /terms/hot-removal
 - /terms/locked-icon
-- /terms/locked-switch-icon
 - /terms/locking-tab
 - /terms/microdrive
 - /terms/name-card
@@ -60,7 +59,6 @@ Related:
 - /terms/type-ii
 - /terms/type-iii
 - /terms/unlocked-icon
-- /terms/unlocked-switch-icon
 - /terms/view
 - /terms/write-protected
 - /terms/write-protection-switch

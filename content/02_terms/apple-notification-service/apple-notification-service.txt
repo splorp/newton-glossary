@@ -25,6 +25,7 @@ Resource:
 
 Related:
 
+- /terms/ans
 - /terms/apple-mobile-message-system
 - /terms/apple-wireless-messaging-service
 - /terms/ardis

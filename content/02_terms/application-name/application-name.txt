@@ -17,7 +17,6 @@ Application names do not need to be unique, because (link: /terms/newton-os text
 Related:
 
 - /terms/application
-- /terms/application-signature
 - /terms/application-symbol
 - /terms/developer-signature
 - /terms/extras-drawer

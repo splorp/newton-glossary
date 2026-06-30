@@ -26,7 +26,10 @@ Related:
 
 - /terms/extension
 - /terms/patch
+- /terms/patchable-jump-table
+- /terms/rom-patch
 - /terms/syspatch
+- /terms/system-patch-pages
 - /terms/system-update
 
 ----

@@ -20,7 +20,6 @@ Tapping a letter in the corrector view pops up a different correction picker, li
 
 Related:
 
-- /terms/corrector
 - /terms/corrector-button
 - /terms/corrector-view
 - /terms/handwriting-recognition

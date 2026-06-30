@@ -25,7 +25,6 @@ Related:
 - /terms/package-file
 - /terms/package-installer
 - /terms/package-name
-- /terms/package-store
 - /terms/packagebuddy
 - /terms/packager
 - /terms/packer

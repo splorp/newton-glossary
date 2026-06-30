@@ -20,7 +20,6 @@ Related:
 - /terms/carrot
 - /terms/cursor
 - /terms/edit
-- /terms/insertion-point
 - /terms/picker
 - /terms/key-view
 - /terms/vitamin-a

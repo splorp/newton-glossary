@@ -43,7 +43,6 @@ Related:
 - /terms/hot-dog-song
 - /terms/out-there
 - /terms/notification-alert
-- /terms/notification-slip
 - /terms/notify-button
 - /terms/notify-picker
 - /terms/page-flipping

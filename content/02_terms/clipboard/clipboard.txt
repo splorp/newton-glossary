@@ -27,9 +27,9 @@ Related:
 - /terms/bbeditor
 - /terms/cliphoard
 - /terms/hilite2000
-- /terms/miniature-box
 - /terms/options
 - /terms/punctpad
+- /terms/small-box
 - /terms/tap-and-a-half
 
 ----

@@ -10,7 +10,7 @@ Text:
 
 A set of text-based (link: /terms/newton-book-maker text: Newton Book Maker) instructions used to tag and differentiate specific content items, such as text or graphics, in a Newton (link: /terms/book-source-file text: book source file). For example, specifying the title and layout of a (link: /terms/newton-book text: Newton book) require different commands.
 
-Also referred to as (link: /terms/dot-commands text: Dot Commands) because the commands must begin with a period or dot.
+Also referred to as (link: /terms/dot-commands text: Dot Commands) because the commands must begin with a period or (link: /terms/dot text: dot).
 
 ----
 
@@ -21,6 +21,7 @@ Related:
 - /terms/command
 - /terms/content-command
 - /terms/document-command
+- /terms/dot
 - /terms/dot-commands
 - /terms/help-book
 - /terms/kiosk

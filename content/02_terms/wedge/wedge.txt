@@ -18,8 +18,6 @@ Related:
 
 - /terms/arc
 - /terms/batman
-- /terms/batman-concept
-- /terms/batmobile
 - /terms/circle
 - /terms/drawing-engine
 - /terms/h1000
@@ -28,7 +26,6 @@ Related:
 - /terms/messagepad-100
 - /terms/oval
 - /terms/picture
-- /terms/pocket-newton
 - /terms/polygon
 - /terms/rectangle
 - /terms/rounded-rectangle

@@ -24,7 +24,6 @@ Related:
 - /terms/pie
 - /terms/pie-developer-talk
 - /terms/pie-partners-program
-- /terms/pie-program
 - /terms/piesysop
 
 ----

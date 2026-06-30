@@ -30,6 +30,7 @@ Related:
 - /terms/newtonscript
 - /terms/package
 - /terms/package-name
+- /terms/signature
 - /terms/symbol
 
 ----

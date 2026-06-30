@@ -16,6 +16,5 @@ Related:
 
 - /terms/daughterboard
 - /terms/mlb
-- /terms/mobo
 - /terms/motherboard
 - /terms/rom

@@ -22,11 +22,11 @@ Related:
 
 - /terms/align
 - /terms/align-pen
-- /terms/alignment
 - /terms/centroid
 - /terms/digitizer
 - /terms/handwriting-recognition
 - /terms/pen
+- /terms/pen-alignment
 - /terms/setup
 - /terms/tap
 - /terms/tapping

@@ -10,11 +10,14 @@ Text:
 
 A collection of integrated circuits designed to be used together to provide specific functions. For example, early (link: /terms/messagepad text: MessagePad) devices utilize the (link: /terms/runt text: Runt) chipset for memory management and hardware interface control.
 
+Also referred to as a (link: /terms/chip-set text: Chip Set)
+
 ----
 
 Related:
 
 - /terms/asic
+- /terms/chip-set
 - /terms/jelly-bean-parts
 - /terms/runt
 - /terms/vlsi

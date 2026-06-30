@@ -36,6 +36,7 @@ Related:
 - /terms/newton-media-system
 - /terms/newton-movie-player
 - /terms/newton-slide-show
+- /terms/palmedia
 - /terms/palmedia-media-transfer
 - /terms/palmedia-player
 - /terms/pit

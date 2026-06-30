@@ -20,7 +20,6 @@ Related:
 - /terms/drag
 - /terms/dragging
 - /terms/gauge
-- /terms/knob
 - /terms/marker
 - /terms/topic-marker
 - /terms/user-interface

@@ -24,7 +24,6 @@ Related:
 - /terms/clamshell
 - /terms/clamshell-newton
 - /terms/emate-300
-- /terms/k
 - /terms/project-k
 - /terms/schoolbook
 - /terms/shay

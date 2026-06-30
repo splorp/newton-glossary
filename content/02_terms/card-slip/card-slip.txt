@@ -28,7 +28,6 @@ Related:
 - /terms/container-view
 - /terms/external-store
 - /terms/locked-icon
-- /terms/locked-switch-icon
 - /terms/pc-card
 - /terms/pcmcia
 - /terms/restore
@@ -36,7 +35,6 @@ Related:
 - /terms/slip
 - /terms/storage-card
 - /terms/unlocked-icon
-- /terms/unlocked-switch-icon
 - /terms/user-interface
 - /terms/write-protected
 - /terms/write-protection-switch

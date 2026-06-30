@@ -20,7 +20,6 @@ Related:
 - /terms/electronic-ink
 - /terms/handwriting-recognition
 - /terms/ink
-- /terms/ink-data
 - /terms/ink-text
 - /terms/inker
 - /terms/recognized-text

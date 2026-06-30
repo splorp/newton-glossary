@@ -15,11 +15,8 @@ The model number of the (link: /terms/original-messagepad text: Original Message
 Related:
 
 - /terms/batman
-- /terms/batman-concept
-- /terms/batmobile
 - /terms/junior
 - /terms/messagepad
 - /terms/messagepad-100
 - /terms/original-messagepad
-- /terms/pocket-newton
 - /terms/wedge

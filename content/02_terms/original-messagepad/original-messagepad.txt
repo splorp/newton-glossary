@@ -26,8 +26,6 @@ Resource:
 Related:
 
 - /terms/batman
-- /terms/batman-concept
-- /terms/batmobile
 - /terms/getting-started-card
 - /terms/h1000
 - /terms/junior
@@ -36,7 +34,6 @@ Related:
 - /terms/newton-messagepad
 - /terms/notepad
 - /terms/omp
-- /terms/pocket-newton
 - /terms/wedge
 
 ----

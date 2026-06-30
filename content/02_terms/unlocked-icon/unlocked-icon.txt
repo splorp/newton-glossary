@@ -21,7 +21,6 @@ Related:
 - /terms/card-slip
 - /terms/icon
 - /terms/locked-icon
-- /terms/locked-switch-icon
 - /terms/unlocked-switch-icon
 - /terms/user-interface
 - /terms/write-protection-switch

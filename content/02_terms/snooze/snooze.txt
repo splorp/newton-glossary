@@ -22,7 +22,6 @@ Related:
 - /terms/alert-box
 - /terms/alert-sound
 - /terms/notification-alert
-- /terms/notification-slip
 - /terms/notify-button
 - /terms/notify-picker
 - /terms/persistent-alarms

@@ -22,7 +22,6 @@ Resource:
 Related:
 
 - /terms/newton-systems-group
-- /terms/nsg
 - /terms/steved
 
 ----

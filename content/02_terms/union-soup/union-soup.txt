@@ -31,7 +31,6 @@ Related:
 - /terms/member-soup
 - /terms/newtcase
 - /terms/package
-- /terms/package-store
 - /terms/part
 - /terms/ragout
 - /terms/soup

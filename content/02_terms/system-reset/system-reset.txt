@@ -29,7 +29,6 @@ Related:
 - /terms/reset
 - /terms/reset-button
 - /terms/soft-reset
-- /terms/warm-boot
 
 ----
 

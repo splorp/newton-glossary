@@ -22,7 +22,7 @@ Resource:
 
 Related:
 
-- /terms/anug
+- /terms/adaug
 - /terms/bscng
 - /terms/dang
 - /terms/dnug
