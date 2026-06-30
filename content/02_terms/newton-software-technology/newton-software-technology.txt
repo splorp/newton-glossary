@@ -10,7 +10,7 @@ Text:
 
 A generic phrase used to encapsulate all of the technologies, development tools, and training pertaining to the creation of software for the Newton platform.
 
-Also referred to as (link: /terms/NST text: NST).
+Also referred to as (link: /terms/nst text: NST).
 
 ----
 
