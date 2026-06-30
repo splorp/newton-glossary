@@ -1,0 +1,17 @@
+Title: AD2K
+
+----
+
+Date: 29 June 2026
+
+----
+
+Text:
+
+See: (link: /terms/access-device-2000 text: Access Device 2000)
+
+----
+
+Source:
+
+- /sources/jim-abeles
