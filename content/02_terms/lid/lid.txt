@@ -12,7 +12,7 @@ A removable, protective (link: /terms/screen text: screen) cover found on (link:
 
 The lid is hinged in such a way that it can be flipped over and snapped into place on the back on the device.
 
-The adjustable, hinged lid on an (link: /terms/emate-300 text: eMate 300) device houses the screen and covers the keyboard when closed. The eMate lid also controls power to the device. For example, opening the lid turns on the power and closing the lid shuts off the power.
+The adjustable, hinged lid on an (link: /terms/emate-300 text: eMate 300) device houses the screen and covers the (link: /terms/keyboard text: keyboard) when closed. The eMate lid also controls power to the device. For example, opening the lid turns on the power and closing the lid shuts off the power.
 
 Also referred to as a (link: /terms/display-lid text: Display Lid), (link: /terms/screen-lid text: Screen Lid), or (link: /terms/cover text: Cover).
 

@@ -8,4 +8,49 @@ Date: 28 December 2017
 
 Text:
 
-See: (link: /terms/numeric text: Numeric), (link: /terms/phone text: Phone), (link: /terms/time-date text: Time/Date), and (link: /terms/typewriter text: Typewriter)
+A set of keys used to input (link: /terms/character text: characters) into a computer.
+
+(link: /terms/newton-os text: Newton OS) supports multiple onscreen keyboards for entering different types of data. Selecting a keyboard is accomplished by (link: /terms/tapping text: tapping) the (link: /terms/keyboard-button text: keyboard button).
+
+The (link: /terms/emate-300 text: eMate 300) also has a physical keyboard built into its case.
+
+----
+
+Related:
+
+- /terms/accent-key
+- /terms/arrow-keys
+- /terms/auto-repeat
+- /terms/caps-lock-key
+- /terms/character-key
+- /terms/close-key
+- /terms/command-key
+- /terms/control-key
+- /terms/delete-key
+- /terms/enter-key
+- /terms/extras-key
+- /terms/fitaly
+- /terms/function-key
+- /terms/key-combination
+- /terms/key-view
+- /terms/keyboard
+- /terms/keyboard-button
+- /terms/keyboard-equivalent
+- /terms/keystrings
+- /terms/keystroke-events
+- /terms/modifier-key
+- /terms/numeric
+- /terms/option-key
+- /terms/overview-key
+- /terms/phone
+- /terms/power-key
+- /terms/receive-key
+- /terms/return-key
+- /terms/scroll-keys
+- /terms/send-key
+- /terms/shift-key
+- /terms/tab-key
+- /terms/time-date
+- /terms/type-ahead
+- /terms/typewriter
+- /terms/user-interface

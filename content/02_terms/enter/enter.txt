@@ -8,7 +8,7 @@ Date: 24 August 2025
 
 Text:
 
-The act of inputting data into a computer, usually by means of a keyboard or (link: /terms/pen text: pen).
+The act of inputting data into a computer, usually by means of a (link: /terms/keyboard text: keyboard) or (link: /terms/pen text: pen).
 
 Enter also refers to the (link: /terms/enter-key text: Enter key) on a keyboard.
 

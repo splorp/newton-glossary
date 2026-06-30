@@ -8,7 +8,7 @@ Date: 20 March 2026
 
 Text:
 
-A (link: /terms/character-key text: character key) located on a keyboard for typing the ‘grave’ and ‘tilde’ diacritic (link: /terms/character text: characters). This key can be used in combination with other keys to type characters with accents.
+A (link: /terms/character-key text: character key) located on a (link: /terms/keyboard text: keyboard) for typing the ‘grave’ and ‘tilde’ diacritic (link: /terms/character text: characters). This key can be used in combination with other keys to type characters with accents.
 
 ----
 

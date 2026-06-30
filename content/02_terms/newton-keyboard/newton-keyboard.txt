@@ -8,7 +8,7 @@ Date: 16 February 2025
 
 Text:
 
-A lightweight, portable external keyboard designed by [Apple](https://www.apple.com/) that connected to a Newton device using the serial port.
+A lightweight, portable external (link: /terms/keyboard text: keyboard) designed by [Apple](https://www.apple.com/) that connected to a Newton device using the serial port.
 
 The code name of Newton Keyboard was (link: /terms/bazooka text: Bazooka).
 

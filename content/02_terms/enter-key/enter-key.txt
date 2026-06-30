@@ -8,7 +8,7 @@ Date: 24 August 2025
 
 Text:
 
-A (link: /terms/character-key text: character key) located on a keyboard that performs the same action as the (link: /terms/return-key text: Return key).
+A (link: /terms/character-key text: character key) located on a (link: /terms/keyboard text: keyboard) that performs the same action as the (link: /terms/return-key text: Return key).
 
 ----
 

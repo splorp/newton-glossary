@@ -8,7 +8,7 @@ Date: 22 August 2025
 
 Text:
 
-A (link: /terms/character-key text: character key) located on a keyboard that removes the currently selected text.
+A (link: /terms/character-key text: character key) located on a (link: /terms/keyboard text: keyboard) that removes the currently selected text.
 
 If no text is selected, the Delete key removes the character preceding the (link: /terms/caret text: caret) or text (link: /terms/insertion-point text: insertion point). If an image or (link: /terms/picture text: picture) is currently selected, the Delete key removes the selected item, providing the (link: /terms/application text: application) supports it.
 

@@ -8,7 +8,7 @@ Date: 29 March 2026
 
 Text:
 
-A set of four (link: /terms/function-key text: function keys) located on a keyboard that move the (link: /terms/caret text: caret) or text (link: /terms/insertion-point text: insertion point). These include up, down, left, and right arrow keys.
+A set of four (link: /terms/function-key text: function keys) located on a (link: /terms/keyboard text: keyboard) that move the (link: /terms/caret text: caret) or text (link: /terms/insertion-point text: insertion point). These include up, down, left, and right arrow keys.
 
 The left and right arrow keys move the caret left or right one (link: /terms/character text: character) at a time. The up and down arrow keys move the caret up or down one line of text at a time, aligning the caret at the nearest character boundary and keeping the caret as close as possible to the original horizontal position.
 
