@@ -31,6 +31,7 @@ Related:
 - /terms/pcmcia
 - /terms/slot
 - /terms/slot-jam
+- /terms/trimbus
 - /terms/unlocked-icon
 - /terms/write-protected
 - /terms/write-protection-switch

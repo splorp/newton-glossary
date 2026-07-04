@@ -8,9 +8,9 @@ Date: 04 July 2026
 
 Text:
 
-A superset of the (link: /terms/pcmcia text: PCMCIA) standard, developed by Pete Foley at Apple for the Newton platform.
+A proprietary superset of the (link: /terms/pcmcia text: PCMCIA) standard, developed by [Apple](https://www.apple.com/) hardware engineer Pete Foley specifically for use on the Newton platform.
 
-All Newton devices have at least one PCMCIA (link: /terms/card-slot text: card slot) compatible with Apple’s proprietary TrimBus. This 32-bit bus is able to support additional storage, communication, networking, and other peripheral hardware.
+Whereas PCMCIA supports an 8-bit or 16-bit data bus by default, TrimBus implements a 32-bit data bus, allowing Newton devices to access larger amounts of memory on (link: /terms/storage card text: storage cards).
 
 ----
 
@@ -27,6 +27,7 @@ Related:
 - /terms/cis
 - /terms/pc-card
 - /terms/pcmcia
+- /terms/storage-card
 
 ----
 
