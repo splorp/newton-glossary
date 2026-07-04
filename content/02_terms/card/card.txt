@@ -55,6 +55,7 @@ Related:
 - /terms/slot
 - /terms/slot-jam
 - /terms/storage-card
+- /terms/trimbus
 - /terms/type-i
 - /terms/type-ii
 - /terms/type-iii
