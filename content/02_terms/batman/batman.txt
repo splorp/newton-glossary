@@ -26,7 +26,6 @@ Related:
 
 - /terms/batman-concept
 - /terms/batmobile
-- /terms/h1000
 - /terms/junior
 - /terms/messagepad
 - /terms/original-messagepad

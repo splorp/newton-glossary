@@ -20,7 +20,6 @@ Related:
 - /terms/batman
 - /terms/circle
 - /terms/drawing-engine
-- /terms/h1000
 - /terms/junior
 - /terms/line
 - /terms/messagepad-100

@@ -19,7 +19,6 @@ Junior was also one of the code names for the (link: /terms/messagepad-100 text:
 Related:
 
 - /terms/batman
-- /terms/h1000
 - /terms/messagepad
 - /terms/messagepad-100
 - /terms/original-messagepad
