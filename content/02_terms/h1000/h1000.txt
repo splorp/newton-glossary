@@ -15,6 +15,7 @@ The model number of the (link: /terms/original-messagepad text: Original Message
 Related:
 
 - /terms/batman
+- /terms/bo-a300
 - /terms/junior
 - /terms/messagepad
 - /terms/messagepad-100

@@ -1,0 +1,34 @@
+Title: BO-A300
+
+----
+
+Date: 05 July 2026
+
+----
+
+Text:
+
+The model number used in an early service manual to identify the first Newton devices that (link: /sources/sharp text: Sharp Corporation) manufactured for [Apple](https://www.apple.com/).
+
+The (link: /terms/original-messagepad text: Original MessagePad) and (link: /terms/messagepad-100 text: MessagePad 100) are more commonly known by the (link: /terms/h1000 text: H1000) designation.
+
+----
+
+Resource:
+
+- [UNNA: Sharp Service Manual Model BO-A300](http://www.unna.org/view.php?/development/documentation/OMPService)
+- [Newted: Sharp Service Manual Model BO-A300](https://www.newted.org/download/manuals/Sharp_BOA300_Service_Manual.pdf)
+
+----
+
+Related:
+
+- /terms/h1000
+- /terms/messagepad-100
+- /terms/original-messagepad
+
+----
+
+Source:
+
+- /sources/sharp

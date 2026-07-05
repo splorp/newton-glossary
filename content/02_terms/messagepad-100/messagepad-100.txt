@@ -28,6 +28,7 @@ Resource:
 Related:
 
 - /terms/batman
+- /terms/bo-a300
 - /terms/getting-started-card
 - /terms/h1000
 - /terms/junior

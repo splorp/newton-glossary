@@ -1,0 +1,23 @@
+Title: Sharp Corporation
+
+----
+
+Date: 05 July 2026
+
+----
+
+Text:
+
+A Japanese electronics company that manufactured several Newton devices for [Apple](https://www.apple.com/), including the (link: /terms/original-messagepad text: Original MessagePad), (link: /terms/messagepad-100 text: MessagePad 100), and (link: /terms/messagepad-2000 text: MessagePad 2000).
+
+Sharp developed two versions of their own (link: /terms/personal-digital-assistant text: personal digital assistant) running (link: /terms/newton-os text: Newton OS), the (link: /terms/expertpad text: ExpertPad).
+
+The company was also responsible for developing (link: /terms/ask text: ASK), an (link: /terms/infrared text: infrared) communication (link: /terms/protocol text: protocol) used in early Newton devices.
+
+----
+
+Resource:
+
+- [Sharp Corporation Website](https://global.sharp/)
+- [Wikipedia: Sharp Corporation](https://en.wikipedia.org/wiki/Sharp_Corporation)
+- [Pen Computing: Why Did Apple Kill Newton?](https://www.pencomputing.com/Newton/AppleKillsNewton(PCM22).html)
