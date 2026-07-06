@@ -9,3 +9,9 @@ Date: 24 May 2001
 Text:
 
 See: (link: /terms/ask text: ASK)
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference
