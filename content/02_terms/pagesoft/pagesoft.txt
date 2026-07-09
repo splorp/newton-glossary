@@ -8,7 +8,7 @@ Date: 09 November 2025
 
 Text:
 
-Software developed by [Socket Communications](/sources/socket-communications) that allows messages and data received by the (link: /terms/pagecard text: PageCard) hardware to be routed to email (link: /terms/application text: applications) running on various computing platforms.
+Software developed by (link: /sources/socket-communications text: Socket Communications) that allows messages and data received by the (link: /terms/pagecard text: PageCard) hardware to be routed to email (link: /terms/application text: applications) running on various computing platforms.
 
 (link: /terms/pagesoft-receiver text: PageSoft Receiver) is a version of PageSoft designed specifically for (link: /terms/newton-os text: Newton OS) devices.
 

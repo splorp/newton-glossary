@@ -8,7 +8,7 @@ Date: 09 November 2025
 
 Text:
 
-A collection of software tools and (link: /terms/pc-card text: PC card) hardware provided by [Socket Communications](/sources/socket-communications) as part the (link: /terms/pagecard text: PageCard) software developers kit ((link: /terms/sdk text: SDK)). The Newton Message Intercept Kit was designed to simplify the development of wireless applications for (link: /terms/newton-os text: Newton OS) devices.
+A collection of software tools and (link: /terms/pc-card text: PC card) hardware provided by (link: /sources/socket-communications text: Socket Communications) as part the (link: /terms/pagecard text: PageCard) software developers kit ((link: /terms/sdk text: SDK)). The Newton Message Intercept Kit was designed to simplify the development of wireless applications for (link: /terms/newton-os text: Newton OS) devices.
 
 ----
 
