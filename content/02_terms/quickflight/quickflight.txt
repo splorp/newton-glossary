@@ -38,3 +38,4 @@ Source:
 
 - /sources/ete
 - /sources/newton-solutions-guide
+- /sources/third-party-software-for-newton

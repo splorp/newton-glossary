@@ -1,0 +1,17 @@
+Title: 3rd Party Software for Newton 2.0
+
+----
+
+Date: 09 July 2026
+
+----
+
+Text:
+
+A document published in 1996 by the (link: /terms/newton-systems-group text: Newton Systems Group) providing information about third party software, peripherals, and other related products that were being developed specifically for the Newton 2.0 (link: /terms/operating-system text: operating system).
+
+----
+
+Resource:
+
+- [Newted: 3rd Party Software for Newton 2.0](https://www.newted.org/download/manuals/3rdPartySoftwareForNewton2.0.pdf)

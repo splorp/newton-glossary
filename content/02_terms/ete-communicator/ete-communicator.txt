@@ -33,3 +33,4 @@ Source:
 
 - /sources/ete
 - /sources/pen-based-computing
+- /sources/third-party-software-for-newton
