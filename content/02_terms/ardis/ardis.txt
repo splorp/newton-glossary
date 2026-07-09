@@ -33,4 +33,5 @@ Related:
 - /terms/marco
 - /terms/packet
 - /terms/pcs
+- /terms/quickflight
 - /terms/swims

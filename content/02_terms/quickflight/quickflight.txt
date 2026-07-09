@@ -1,0 +1,40 @@
+Title: QuickFlight
+
+----
+
+Date: 09 July 2026
+
+----
+
+Text:
+
+A suite of client and server software technologies developed by (link: /sources/ete text: ETE) providing wireless communication and data delivery across multiple computing platforms.
+
+Used in combination with a wireless networking service such as (link: /terms/ardis text: ARDIS), QuickFlight used a (link: /terms/transport text: transport) integrated into (link: /terms/newton-os text: Newton OS), allowing nearly any (link: /terms/application text: application) to send and receive data via the built-in (link: /terms/routing text: routing) mechanism.
+
+QuickFlight also simplified the use of a GPS receiver with a Newton device.
+
+----
+
+Resource:
+
+- [Press Release: ETE Adds the QuickFlight Architecture](https://web.archive.org/web/19980216051158fw_/http://www.ete.com/Quickflightpr12.html)
+- [ETE: QuickFlight Wireless Server](https://web.archive.org/web/19980216051016fw_/http://www.ete.com/ETE%20Wireless%20Agent12.html)
+- [ETE: QuickFlight Internet Services](https://web.archive.org/web/19980216051205/http://www.ete.com/ETE%20Wireless%20Services12.html)
+
+----
+
+Related:
+
+- /terms/ardis
+- /terms/ete-communicator
+- /terms/routing
+- /terms/transport
+- /terms/wings
+
+----
+
+Source:
+
+- /sources/ete
+- /sources/newton-solutions-guide

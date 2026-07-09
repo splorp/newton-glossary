@@ -21,6 +21,7 @@ Related:
 - /terms/clone
 - /terms/ep
 - /terms/epad
+- /terms/ete-communicator
 - /terms/galileo
 - /terms/pi-7000
 - /terms/pi-7100

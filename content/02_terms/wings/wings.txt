@@ -1,0 +1,35 @@
+Title: WiNGS
+
+----
+
+Date: 09 July 2026
+
+----
+
+Text:
+
+Wireless Newton Golf Scorekeeper
+
+A golf tournament scoring system developed by Minneapolis-based [Business Brothers Software Products](https://web.archive.org/web/19980219121157/http://www.bbros.com/).
+
+Utilizing (link: /terms/quickflight text: QuickFlight), the wireless communication software developed by (link: /sources/ete text: ETE), the software relayed scoring data collected using a (link: /terms/messagepad-120 text: MessagePad 120) equipped with a (link: /terms/pc-card text: PC card) radio (link: /terms/modem text: modem) to a central receiving station.
+
+Not to be confused with [Wingz](https://en.wikipedia.org/wiki/Informix_Wingz), the multi-platform spreadsheet (link: /terms/application text: application) developed by [Informix](https://web.archive.org/web/19991010031955/http://www.informix.com/informix/).
+
+----
+
+Resource:
+
+- [Press Release: Wireless Tournament Scorekeeping](https://web.archive.org/web/19980216051128/http://www.ete.com/WiNGSPR.html)
+
+----
+
+Related:
+
+/terms/quickflight
+
+----
+
+Source:
+
+- /sources/ete

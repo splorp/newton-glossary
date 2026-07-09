@@ -1,0 +1,35 @@
+Title: ETE Communicator
+
+----
+
+Date: 09 July 2026
+
+----
+
+Text:
+
+A hardware accessory developed by (link: /sources/ete text: ETE) that transformed a Newton device into a wireless communication and navigation server.
+
+The hardware consisted of a lightweight (link: /terms/cradle text: cradle) designed to hold an (link: /terms/expertpad text: ExpertPad). A cable connected the cradle to the (link: /terms/serial-port text: serial port) of the ExpertPad, providing access to multiple networking systems via (link: /terms/modem text: modem), GPS, (link: /terms/packet text: packet) radio, and cellular.
+
+----
+
+Resource:
+
+- [Pen-Based Computing: Short Cuts: Roaming the Mobile Computing Industry](https://www.penbasedcomputing.com/journal/pbc-v4-n1-short-cuts-roaming-the-mobile-computing-industry/)
+- [Google Patents: Portable apparatus for providing multiple integrated communication media](https://patents.google.com/patent/US5675524A/en)
+
+----
+
+Related:
+
+- /terms/cradle
+- /terms/expertpad
+- /terms/quickflight
+
+----
+
+Source:
+
+- /sources/ete
+- /sources/pen-based-computing

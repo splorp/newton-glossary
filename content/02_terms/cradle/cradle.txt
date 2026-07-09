@@ -21,6 +21,7 @@ Related:
 - /terms/charging-station
 - /terms/crib
 - /terms/docking-station
+- /terms/ete-communicator
 - /terms/the-executive
 - /terms/the-wedge
 - /terms/watson

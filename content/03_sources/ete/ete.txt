@@ -1,0 +1,17 @@
+Title: ETE
+
+----
+
+Date: 09 July 2026
+
+----
+
+Text:
+
+Founded in 1993, ETE developed and manufactured software and hardware technologies for wireless computing, navigation, and communications, including (link: /terms/quickflight text: QuickFlight), (link: /terms/wings text: WiNGS) for (link: /terms/newton-os text: Newton OS), and the (link: /terms/ete-communicator text: ETE Communicator)
+
+----
+
+Resource:
+
+- [ETE Website](https://web.archive.org/web/19961224093340/http://www.ete.com/)
