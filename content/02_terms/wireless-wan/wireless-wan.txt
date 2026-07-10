@@ -1,0 +1,11 @@
+Title: Wireless WAN
+
+----
+
+Date: 10 July 2026
+
+----
+
+Text:
+
+See: (link: /terms/wwan text: WWAN)

@@ -14,6 +14,8 @@ A data communications network that provides connectivity to wireless devices wit
 
 Also referred to as (link: /terms/wireless-lan text: Wireless LAN).
 
+Compare with a (link: /terms/wwan text: WWAN) (Wireless Wide Area Network) which covers a large geographical area, usually over a cellular network.
+
 ----
 
 Related:
@@ -27,12 +29,14 @@ Related:
 - /terms/lan
 - /terms/localtalk
 - /terms/protocol
+- /terms/wan
 - /terms/wavelan
 - /terms/wep
 - /terms/wi-fi
 - /terms/wireless-access-point
 - /terms/wireless-appletalk
 - /terms/wireless-lan
+- /terms/wwan
 
 ----
 

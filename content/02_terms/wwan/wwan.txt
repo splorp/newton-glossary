@@ -1,0 +1,32 @@
+Title: WWAN
+
+----
+
+Date: 10 July 2026
+
+----
+
+Text:
+
+Wireless Wide Area Network
+
+A data communications network that provides connectivity to wireless devices over a large geographical area using cellular, radio, or other mobile communication technologoes.
+
+Also referred to as (link: /terms/wireless-wan text: Wireless WAN).
+
+Compare with a (link: /terms/wlan text: WLAN) (Wireless Local Area Network) which covers a small area, usually over (link: /terms/wi-fi text: Wi-Fi).
+
+----
+
+Related:
+
+- /terms/lan
+- /terms/wan
+- /terms/wireless-wan
+- /terms/wlan
+
+----
+
+Source:
+
+- /sources/techencyclopedia

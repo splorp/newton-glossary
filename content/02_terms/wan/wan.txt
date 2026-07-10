@@ -1,0 +1,29 @@
+Title: WAN
+
+----
+
+Date: 10 July 2026
+
+----
+
+Text:
+
+Wide Area Network
+
+A data communications network that covers a large geographical area. A WAN typically consists of serial connections over physical copper or fibre-optic transmission lines over long distances. A wireless wide area network is known as a (link: /terms/wwan text: WWAN).
+
+Compare with a (link: /terms/lan text: LAN) (Local Area Network) which covers a small or geographically limited area.
+
+----
+
+Related:
+
+- /terms/lan
+- /terms/wlan
+- /terms/wwan
+
+----
+
+Source:
+
+- /sources/foldoc
