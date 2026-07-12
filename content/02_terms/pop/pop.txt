@@ -12,7 +12,7 @@ Post Office Protocol
 
 A standard (link: /terms/protocol text: protocol) used to retrieve email messages from a mail server over a (link: /terms/tcp-ip text: TCP/IP) connection.
 
-(link: /terms/simplemail text: SimpleMail) is a (link: /terms/application text: application) that uses POP to access email on a Newton device.
+(link: /terms/simplemail text: SimpleMail) is an (link: /terms/application text: application) that uses POP to access email on a Newton device.
 
 Also referred to as (link: /terms/pop3 text: POP3), the third and most current version of the standard.
 

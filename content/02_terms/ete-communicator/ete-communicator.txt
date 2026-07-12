@@ -10,7 +10,7 @@ Text:
 
 A hardware accessory developed by (link: /sources/ete text: ETE) that transformed a Newton device into a wireless communication and navigation server.
 
-The hardware consisted of a lightweight (link: /terms/cradle text: cradle) designed to hold an (link: /terms/expertpad text: ExpertPad). A cable connected the cradle to the (link: /terms/serial-port text: serial port) of the ExpertPad, providing access to multiple networking systems via (link: /terms/modem text: modem), GPS, (link: /terms/packet text: packet) radio, and cellular.
+The hardware consisted of a lightweight (link: /terms/cradle text: cradle) designed to hold an (link: /terms/expertpad text: ExpertPad). A cable connected the cradle to the (link: /terms/serial-port text: serial port) of the ExpertPad, providing access to multiple networking systems via (link: /terms/modem text: modem), GPS, radio, and cellular.
 
 ----
 

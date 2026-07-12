@@ -8,7 +8,7 @@ Date: 15 March 2018
 
 Text:
 
-A (link: /terms/user-interface text: user interface) enhancement (link: /terms/package text: package) for (link: /terms/newton-os text: Newton OS) 2.1 developed by (link: /sources/mason-mark text: Mason Mark) of [Five Speed Software](http://www.fivespeedsoftware.com/). Dash Board provides a customizable alternate (link: /terms/button-bar text: button bar), a hierarchical menu for easy access to (link: /terms/application text: applications) and (link: /terms/folder text: folders), and extensive (link: /terms/newtonscript text: NewtonScript) support.
+A (link: /terms/user-interface text: user interface) enhancement (link: /terms/package text: package) for (link: /terms/newton-os text: Newton OS) 2.1 developed by (link: /sources/mason-mark text: Mason Mark) of [Five Speed Software](http://www.fivespeedsoftware.com/). Dash Board provides a customizable alternate (link: /terms/button-bar text: button bar), a hierarchical menu for easy access to (link: /terms/application text: applications) and (link: /terms/folder text: folders), a customizable text-based shortcut launcher, and extensive (link: /terms/newtonscript text: NewtonScript) support.
 
 (image: /assets/images/dash-board-2x.gif alt: Screenshot of Dash Board in action width: 322)
 
@@ -28,6 +28,7 @@ Related:
 - /terms/button
 - /terms/button-bar
 - /terms/killbb
+- /terms/newtonscript
 - /terms/ryo
 - /terms/soft-button
 - /terms/tapbar

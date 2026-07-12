@@ -8,9 +8,9 @@ Date: 18 February 2024
 
 Text:
 
-Software written by Dan Rowley of (link: /sources/innovative-computer-solutions text: Innovative Computer Solutions) and described as “The Ultimate Package Management Utility”.
+An (link: /terms/application text: application) developed by (link: /sources/innovative-computer-solutions text: Innovative Computer Solutions), described as “The Ultimate Package Management Utility”.
 
-NewtCase allows the user to archive (link: /terms/application text: applications) to reduce (link: /terms/system-memory text: system memory) requirements, alleviate conflicts between applications, and tidy up the (link: /terms/extras-drawer text: Extras Drawer). Later versions of the utility also provided tools for creating (link: /terms/package text: package) sets, moving packages between (link: /terms/store text: stores), and (link: /terms/soup text: soup) management.
+NewtCase allows the user to archive (link: /terms/package text: packages) to reduce (link: /terms/system-memory text: system memory) requirements, alleviate conflicts between applications, and tidy up the (link: /terms/extras-drawer text: Extras Drawer). Later versions of the utility also provided tools for creating package sets, moving packages between (link: /terms/store text: stores), and (link: /terms/soup text: soup) management.
 
 ----
 
