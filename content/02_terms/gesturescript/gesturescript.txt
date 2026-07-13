@@ -1,0 +1,37 @@
+Title: GestureScript
+
+----
+
+Date: 13 July 2026
+
+----
+
+Text:
+
+A utility developed by (link: /sources/innovative-computer-solutions text: Innovative Computer Solutions) for creating small (link: /terms/newtonscript text: NewtonScript) programs that can be executed using the (link: /terms/gesturelaunch text: GestureLaunch) application.
+
+----
+
+Resource:
+
+- [Innovative Computer Solutions: GestureLaunch/Script](https://web.archive.org/web/20001023151735/http://newts.com/newton/glaunch.html)
+- [Innovative Computer Solutions: GestureLaunch 3.0](https://web.archive.org/web/20001030192713/http://www.newts.com/newton/glaunch30.html)
+- [UNNA: GestureLaunch 1.0](http://www.unna.org/view.php?/utilites/menus/GestureLaunch1.0)
+- [UNNA: GestureLaunch 3.0 Demo](http://www.unna.org/view.php?/utilites/menus/GestureLaunch3Demo)
+- [Newted: GestureLaunch](https://www.newted.org/resources/gesturelaunch/)
+
+----
+
+Related:
+
+- /terms/dash-board
+- /terms/gesture
+- /terms/gesturelaunch
+- /terms/newtonscript
+- /terms/script
+
+----
+
+Source:
+
+- /sources/innovative-computer-solutions

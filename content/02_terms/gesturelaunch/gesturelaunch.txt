@@ -1,0 +1,39 @@
+Title: GestureLaunch
+
+----
+
+Date: 13 July 2026
+
+----
+
+Text:
+
+An (link: /terms/application text: application) developed by (link: /sources/innovative-computer-solutions text: Innovative Computer Solutions) that allows the user to assign (link: /terms/action text: actions) to various (link: /terms/gesture text: gestures). Actions can include launching (link: /terms/package text: packages) and (link: /terms/newtcase text: NewtCase) archives. GestureLaunch can also execute small (link: /terms/newtonscript text: NewtonScript) programs created the accompanying (link: /terms/gesturescript text: GestureScript) utility.
+
+(image: /assets/images/gesturelaunch-2x.gif alt: Screenshot of the GestureLaunch 3.0 configuration window width: 316)
+
+----
+
+Resource:
+
+- [Innovative Computer Solutions: GestureLaunch/Script](https://web.archive.org/web/20001023151735/http://newts.com/newton/glaunch.html)
+- [Innovative Computer Solutions: GestureLaunch 3.0](https://web.archive.org/web/20001030192713/http://www.newts.com/newton/glaunch30.html)
+- [UNNA: GestureLaunch 1.0](http://www.unna.org/view.php?/utilites/menus/GestureLaunch1.0)
+- [UNNA: GestureLaunch 3.0 Demo](http://www.unna.org/view.php?/utilites/menus/GestureLaunch3Demo)
+- [Newted: GestureLaunch](https://www.newted.org/resources/gesturelaunch/)
+
+----
+
+Related:
+
+- /terms/dash-board
+- /terms/gesture
+- /terms/gesturescript
+- /terms/newtcase
+- /terms/newtonscript
+
+----
+
+Source:
+
+- /sources/innovative-computer-solutions

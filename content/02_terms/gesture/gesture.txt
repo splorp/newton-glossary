@@ -23,6 +23,7 @@ Resource:
 Related:
 
 - /terms/caret
+- /terms/gesturelaunch
 - /terms/gesture-recognizer
 - /terms/graffiti
 - /terms/scrub

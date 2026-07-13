@@ -27,6 +27,8 @@ Related:
 - /terms/barkeep
 - /terms/button
 - /terms/button-bar
+- /terms/gesturelaunch
+- /terms/gesturescript
 - /terms/killbb
 - /terms/newtonscript
 - /terms/ryo

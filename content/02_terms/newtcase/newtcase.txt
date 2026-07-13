@@ -26,6 +26,7 @@ Related:
 - /terms/corrupt-soup
 - /terms/doctor
 - /terms/flattened-soup
+- /terms/gesturelaunch
 - /terms/member-soup
 - /terms/package
 - /terms/ragout

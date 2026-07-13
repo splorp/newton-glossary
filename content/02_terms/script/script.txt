@@ -18,6 +18,8 @@ Related:
 
 - /terms/book-script
 - /terms/content-script
+- /terms/dash-board
+- /terms/gesturescript
 - /terms/login-script
 - /terms/logout-script
 - /terms/newtonscript
