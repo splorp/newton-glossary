@@ -14,9 +14,11 @@ In (link: /terms/newtonscript text: NewtonScript), a binary data structure that 
 
 Related:
 
+- /terms/dotted-fading-line
 - /terms/line
 - /terms/newtonscript
 - /terms/ruling-line
+- /terms/squiggly-line
 - /terms/user-interface
 
 ----

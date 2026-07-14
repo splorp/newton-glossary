@@ -25,6 +25,7 @@ Related:
 - /terms/name-file
 - /terms/owner-card
 - /terms/person
+- /terms/ruling-line
 - /terms/squiggly-line
 - /terms/user-interface
 

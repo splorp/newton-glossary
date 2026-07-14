@@ -18,9 +18,12 @@ Also referred to as a (link: /terms/rule text: Rule).
 
 Related:
 
+- /terms/dotted-fading-line
 - /terms/line
 - /terms/line-pattern
 - /terms/rule
+- /terms/squiggly-line
+- /terms/user-interface
 
 ----
 

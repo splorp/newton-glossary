@@ -16,6 +16,7 @@ Related:
 
 - /terms/arc
 - /terms/circle
+- /terms/dotted-fading-line
 - /terms/drawing-engine
 - /terms/line-pattern
 - /terms/line-tool
@@ -29,6 +30,7 @@ Related:
 - /terms/shape
 - /terms/shapes
 - /terms/square
+- /terms/squiggly-line
 - /terms/stamp
 - /terms/wedge
 
