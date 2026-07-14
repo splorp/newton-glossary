@@ -17,6 +17,7 @@ Related:
 - /terms/arc
 - /terms/circle
 - /terms/drawing-engine
+- /terms/line-pattern
 - /terms/line-tool
 - /terms/oval
 - /terms/pen-tool
@@ -24,6 +25,7 @@ Related:
 - /terms/polygon
 - /terms/rectangle
 - /terms/rounded-rectangle
+- /terms/ruling-line
 - /terms/shape
 - /terms/shapes
 - /terms/square

@@ -1,0 +1,29 @@
+Title: Ruling Line
+
+----
+
+Date: 14 July 2026
+
+----
+
+Text:
+
+A horizontal (link: /terms/line text: line) displayed in a (link: /terms/text text: text) editing or paragraph (link: /terms/view text: view).
+
+In (link: /terms/newtonscript text: NewtonScript), the visual characteristics of a ruling line are defined using a (link: /terms/line-pattern text: line pattern).
+
+Also referred to as a (link: /terms/rule text: Rule).
+
+----
+
+Related:
+
+- /terms/line
+- /terms/line-pattern
+- /terms/rule
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference

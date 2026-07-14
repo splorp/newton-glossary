@@ -1,0 +1,27 @@
+Title: Line Pattern
+
+----
+
+Date: 14 July 2026
+
+----
+
+Text:
+
+In (link: /terms/newtonscript text: NewtonScript), a binary data structure that defines the display of custom horizontal (link: /terms/line text: lines) (also referred to as (link: /terms/ruling-lines text: ruling lines)) in a (link: /terms/text text: text) editing or paragraph (link: /terms/view text: view).
+
+----
+
+Related:
+
+- /terms/line
+- /terms/newtonscript
+- /terms/ruling-line
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide
+- /sources/newton-programmers-reference
