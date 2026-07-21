@@ -1,0 +1,35 @@
+Title: DyneSect
+
+----
+
+Date: 21 July 2026
+
+----
+
+Text:
+
+A toolkit developed by (link: /sources/matthias-melcher text: Matthias Melcher) to “dissect, understand, and eventually modify” the (link: /terms/newton os text: Newton OS) ROM to better comprehend and troubleshoot (link: /terms/operating-system text: operating system) behaviour, potentially helping extend the lifespan of the Newton platform.
+
+DyneSect reads (link: /terms/aif text: AIF) (ARM Image Format) and (link: /terms/rom-extension text: ROM Extension) (REx) images distributed with the (link: /terms/newton-c-tools text: Newton C++ Tools).
+
+DyneSect is part of the (link: /terms/dynelang text: DyneLang) project which also includes the (link: /terms/Dyne text: Dyne) programming language, an (link: /terms/object text: object) system, (link: /terms/compiler text: compiler), (link: /terms/interpreter text: interpreter), and other tools.
+
+----
+
+Resource:
+
+- [GitHub: DyneSect](https://github.com/DyneLang/DyneSect)
+
+----
+
+Related:
+
+- /terms/dyne
+- /terms/dynelang
+- /terms/rom
+
+----
+
+Source:
+
+- /sources/matthias-melcher

@@ -1,0 +1,39 @@
+Title: Dyne
+
+----
+
+Date: 21 July 2026
+
+----
+
+Text:
+
+A (link: /terms/prototype text: prototype)-based programming language inspired by (link: /terms/newtonscript text: NewtonScript) developed by (link: /sources/matthias-melcher text: Matthias Melcher).
+
+Dyne is designed to maintain backward compatibility with traditional NewtonScript while extending the language, adding modern features, and providing 64-bit compatibility.
+
+The Dyne language is part of the (link: /terms/dynelang text: DyneLang) project which also includes an (link: /terms/object text: object) system, (link: /terms/compiler text: compiler), (link: /terms/interpreter text: interpreter), and other tools.
+
+----
+
+Resource:
+
+- [GitHub: The Dyne Language](https://github.com/DyneLang/DyneLang)
+
+----
+
+Related:
+
+- /terms/dynelang
+- /terms/dynesect
+- /terms/newt0
+- /terms/newt64
+- /terms/newtonscript
+- /terms/nsm
+- /terms/prota
+
+----
+
+Source:
+
+- /sources/matthias-melcher

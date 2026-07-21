@@ -21,6 +21,7 @@ Also known as (link: /terms/mrom text: MROM) (Mask Read-Only Memory) because the
 Related:
 
 - /terms/dram
+- /terms/dynesect
 - /terms/eeprom
 - /terms/eprom
 - /terms/flash-ram

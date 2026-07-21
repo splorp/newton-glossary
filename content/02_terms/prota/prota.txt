@@ -20,6 +20,7 @@ Resource:
 
 Related:
 
+- /terms/dyne
 - /terms/newt0
 - /terms/newt64
 - /terms/newtonscript

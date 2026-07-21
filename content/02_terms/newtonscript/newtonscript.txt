@@ -16,6 +16,7 @@ Also referred to as the (link: /terms/ns text: NS).
 
 Related:
 
+- /terms/dyne
 - /terms/book-script
 - /terms/build
 - /terms/bytecode

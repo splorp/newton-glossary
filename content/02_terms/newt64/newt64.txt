@@ -25,6 +25,7 @@ Related:
 
 - /terms/compiled
 - /terms/compiler
+- /terms/dyne
 - /terms/interpreted
 - /terms/interpreter
 - /terms/newt0

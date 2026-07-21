@@ -1,0 +1,17 @@
+Title: DyneLang
+
+----
+
+Date: 21 July 2026
+
+----
+
+Text:
+
+See: (link: /terms/dyne text: Dyne) and (link: /terms/dynesect text: DyneSect)
+
+----
+
+Source:
+
+- /sources/matthias-melcher
