@@ -8,7 +8,7 @@ Date: 10 September 2017
 
 Text:
 
-An open source software emulator developed by (link: /sources/paul-guyot text: Paul Guyot) that allows (link: /terms/newton-os text: Newton OS) to run on other (link: /terms/operating-system text: operating systems) such as Mac OS X, iOS, and Linux.
+An open source software emulator originally developed by (link: /sources/paul-guyot text: Paul Guyot) that allows (link: /terms/newton-os text: Newton OS) to run on other (link: /terms/operating-system text: operating systems) such as Mac OS X, iOS, and Linux.
 
 ----
 
@@ -16,6 +16,7 @@ Resource:
 
 - [GitHub: Einstein](https://github.com/pguyot/Einstein/)
 - [GitHub: Einstein Platform User’s Manual](https://github.com/pguyot/Einstein/blob/master/Documentation/UserManual.pdf)
+- [Matthias Melcher: Einstein](http://matthiasm.com/software/einstein)
 - [Kallisys: Einstein Platform 2007.7](https://web.archive.org/web/20070811171656/http://www.kallisys.com/newton/einstein/)
 - [Wired: Fans Keep Newton in Motion](https://www.wired.com/2004/09/fans-keep-newton-in-motion/)
 
