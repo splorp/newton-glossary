@@ -23,6 +23,7 @@ Resource:
 Related:
 
 - /terms/intelligent-assistance-architecture
+- /terms/knowledge-navigator
 - /terms/newton-communications-architecture
 - /terms/newton-hardware-architecture
 - /terms/newton-information-architecture

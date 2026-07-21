@@ -1,0 +1,35 @@
+Title: Knowledge Navigator
+
+----
+
+Date: 21 July 2026
+
+----
+
+Text:
+
+A conceptual (link: /terms/tablet-computer text: tablet computer) developed by [Apple](https://www.apple.com/) that incorporated sophisticated intelligent agents, collaborative features, a (link: /terms/touch-screen text: touch screen) interface, voice control, and other technologies. Introduced in a eponymous 1987 video, the Knowledge Navigator is commonly associated with former Apple CEO [John Sculley](https://en.wikipedia.org/wiki/John_Sculley).
+
+Many of the concepts introduced by the Knowledge Navigator, such as intelligent (link: /terms/assist text: assist), become part of the features found in (link: /terms/newton-os text: Newton OS).
+
+----
+
+Resource:
+
+- [Wikipedia: Knowledge Navigator](https://en.wikipedia.org/wiki/Knowledge_Navigator)
+- [YouTube: Apple Knowledge Navigator Video (1987)](https://www.youtube.com/watch?v=umJsITGzXd0)
+- [Low End Mac: The Story Behind Apple’s Newton](https://lowendmac.com/2013/the-story-behind-apples-newton/)
+
+----
+
+Related:
+
+- /terms/assist
+- /terms/intelligent-assistance-architecture
+- /terms/newton-intelligence
+
+----
+
+Source:
+
+- /sources/low-end-mac

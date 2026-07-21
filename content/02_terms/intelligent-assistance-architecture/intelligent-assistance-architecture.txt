@@ -24,6 +24,7 @@ Related:
 - /terms/assist
 - /terms/assist-slip
 - /terms/how-do-i
+- /terms/knowledge-navigator
 - /terms/newton-communications-architecture.txt
 - /terms/newton-hardware-architecture.txt
 - /terms/newton-information-architecture
