@@ -23,6 +23,7 @@ Related:
 - /terms/ardis-personal-messaging
 - /terms/cdpd
 - /terms/data-pcs
+- /terms/gsm
 - /terms/swims
 
 ----

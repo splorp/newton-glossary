@@ -8,7 +8,7 @@ Date: 15 May 2026
 
 Text:
 
-A set of modular internet (link: /terms/application text: applications) developed by (link: /sources/lunatech text: Lunatech Research) that took advantage of technologies available in (link: /terms/newton-os text: Newton OS) 2.1. The various modules supported email, web browsing, (link: /terms/ftp text: FTP), and GSM-SMS messaging.
+A set of modular internet (link: /terms/application text: applications) developed by (link: /sources/lunatech text: Lunatech Research) that took advantage of technologies available in (link: /terms/newton-os text: Newton OS) 2.1. The various modules supported email, web browsing, (link: /terms/ftp text: FTP), and (link: /terms/gsm text: GSM)-based SMS messaging.
 
 ----
 

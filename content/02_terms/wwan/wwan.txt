@@ -20,6 +20,7 @@ Compare with a (link: /terms/wlan text: WLAN) (Wireless Local Area Network) whic
 
 Related:
 
+- /terms/gsm
 - /terms/lan
 - /terms/wan
 - /terms/wireless-wan

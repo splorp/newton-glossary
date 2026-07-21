@@ -29,6 +29,7 @@ Related:
 - /terms/ardis
 - /terms/ardis-personal-messaging
 - /terms/cdpd
+- /terms/gsm
 - /terms/nomadic
 - /terms/pcs
 - /terms/swims

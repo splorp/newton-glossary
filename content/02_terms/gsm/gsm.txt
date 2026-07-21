@@ -1,0 +1,30 @@
+Title: GSM
+
+----
+
+Date: 21 July 2026
+
+----
+
+Text:
+
+Global System for Mobile
+
+A digital wireless technology that became the standard for cellular communications in the early 1990s. Based on traditional circuit switched networking, GSM was eventually supplanted by LTE (Long Term Evolution) which uses IP-based packet switching to carry both voice and data.
+
+GSM also refers to [Groupe Speciale Mobile](https://www.gsma.com/about-us/who-we-are/our-history/), an organization formed in 1982 to design and develop a pan-European mobile technology platform.
+
+----
+
+Related:
+
+- /terms/cdpd
+- /terms/data-pcs
+- /terms/pcs
+- /terms/wwan
+
+----
+
+Source:
+
+- /sources/gsma

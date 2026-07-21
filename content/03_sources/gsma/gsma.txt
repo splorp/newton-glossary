@@ -1,0 +1,17 @@
+Title: GSM Association
+
+----
+
+Date: 21 July 2026
+
+----
+
+Text:
+
+A global organisation originally formed in 1982 as Groupe Speciale Mobile, GSMA is focused on upholding standards and interoperability between users of (link: /terms/gsm text: GSM) and related communication technologies.
+
+----
+
+Resource:
+
+- [GSMA Website](https://www.gsma.com/)
