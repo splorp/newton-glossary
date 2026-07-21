@@ -27,8 +27,6 @@ Related:
 
 - /terms/compiled
 - /terms/compiler
-- /terms/extension
-- /terms/filename-extension
 - /terms/nes-packager
 - /terms/newt0
 - /terms/newt64

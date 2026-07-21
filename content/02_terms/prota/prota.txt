@@ -27,7 +27,6 @@ Related:
 - /terms/nsm
 - /terms/proto
 - /terms/script
-- /terms/tntk
 - /terms/wallyscript
 
 ----
