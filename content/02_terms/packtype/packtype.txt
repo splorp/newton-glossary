@@ -1,0 +1,35 @@
+Title: PackType
+
+----
+
+Date: 21 July 2026
+
+----
+
+Text:
+
+Software developed by (link: /sources/steve-weyer text: Steve Weyer) that sets the correct file type and creator for Newton (link: /terms/package text: packages) when used on a Mac OS X computer.
+
+By default, any file with a `.pkg` (link: /terms/filename-extension text: filename extension) associates that file with the Mac OS X installer (link: /terms/application text: application). Packager processes a (link: /terms/package-file text: package file) so it is correctly recognized with an appropriate application such as (link: /terms/newton-connection-utilities text: Newton Connection Utilities) or (link: /terms/newten text: NewTen).
+
+----
+
+Resource:
+
+- [CommuniCrossings: PackType](https://communicrossings.com/html/newton/toolinfo.htm#PackType)
+
+----
+
+Related:
+
+- /terms/newtonpkg
+- /terms/package
+- /terms/packager
+- /terms/package-file
+- /terms/pkg
+
+----
+
+Source:
+
+- /sources/steve-weyer

@@ -36,6 +36,7 @@ Related:
 - /terms/newtonpkg
 - /terms/package
 - /terms/package-file
+- /terms/packtype
 - /terms/pkg
 - /terms/tntk
 

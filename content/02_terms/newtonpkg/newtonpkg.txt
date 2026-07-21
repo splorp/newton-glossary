@@ -20,6 +20,7 @@ Related:
 - /terms/package-installer
 - /terms/packagebuddy
 - /terms/packager
+- /terms/packtype
 - /terms/pkg
 
 ----

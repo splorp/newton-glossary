@@ -27,6 +27,7 @@ Related:
 - /terms/packagebuddy
 - /terms/packager
 - /terms/packer
+- /terms/packtype
 - /terms/pkg
 - /terms/suppressed-package
 - /terms/symbol-file
