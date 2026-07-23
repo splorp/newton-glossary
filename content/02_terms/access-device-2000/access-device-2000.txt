@@ -32,3 +32,4 @@ Related:
 - /terms/seahorse
 - /terms/supertech-2000
 - /terms/tarpon
+- /terms/tasr

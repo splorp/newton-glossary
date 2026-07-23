@@ -1,0 +1,37 @@
+Title: TASR
+
+----
+
+Date: 22 July 2026
+
+----
+
+Text:
+
+Tactical Automated Situation Receiver
+
+A (link: /terms/prototype text: prototype) handheld communication device jointly developed by [MITRE Corporation](https://en.wikipedia.org/wiki/Mitre_Corporation) and the United States Air Force. Designed as a portable, location-based warning and tagging system, TASR was based on a ruggedized (link: /terms/messagepad-2000 text: MessagePad 2000), utilizing the (link: /terms/quickflight text: QuickFlight) wireless communications software developed by (link: /sources/ete text: ETE), as well as proprietary software developed by MITRE, integrating both a GPS receiver and a two-way radio.
+
+----
+
+Resource:
+
+- [Press Release: TASR, an Interactive Situation Warning System, demonstrated at Comdex](https://web.archive.org/web/19980216051121/http://www.ete.com/TASRPR.html)
+- [NewtNews: Newtons On The Battlefield](https://www.newted.org/download/newsletters/NewtNewsPro_1_9.pdf)
+
+----
+
+Related:
+
+- /terms/access-device-2000
+- /terms/prototype
+- /terms/quickflight
+- /terms/seahorse
+- /terms/supertech-2000
+- /terms/tarpon
+
+----
+
+Source:
+
+- /sources/ete

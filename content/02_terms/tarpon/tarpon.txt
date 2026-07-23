@@ -29,6 +29,7 @@ Related:
 - /terms/grouper
 - /terms/seahorse
 - /terms/supertech-2000
+- /terms/tasr
 
 ----
 

@@ -39,6 +39,7 @@ Related:
 - /terms/st2000
 - /terms/supertech
 - /terms/tarpon
+- /terms/tasr
 
 ----
 
