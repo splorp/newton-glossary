@@ -17,6 +17,7 @@ A (link: /terms/prototype text: prototype) handheld communication device jointly
 Resource:
 
 - [Press Release: TASR, an Interactive Situation Warning System, demonstrated at Comdex](https://web.archive.org/web/19980216051121/http://www.ete.com/TASRPR.html)
+- [Bloomberg: An Army Marches On Its Data Banks](https://www.bloomberg.com/news/articles/1996-02-11/an-army-marches-on-its-data-banks)
 - [NewtNews: Newtons On The Battlefield](https://www.newted.org/download/newsletters/NewtNewsPro_1_9.pdf)
 
 ----
