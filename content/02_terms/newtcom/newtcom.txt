@@ -12,7 +12,7 @@ A multifunction (link: /terms/dongle text: dongle) developed by (link: /sources/
 
 Additionally, the NewtCOM has a (link: /terms/slot text: slot) for an SD card, which can contain (link: /terms/package-file text: package files), allowing installion of software directly from the dongle.
 
-NewtCOM is also the name of an unspecified prototype that was being developed by (link: /sources/adriano-angelillis text: Adriano Angelillis).
+NewtCOM is also the name of an unspecified (link: /terms/prototype text: prototype) that was being developed by (link: /sources/adriano-angelillis text: Adriano Angelillis).
 
 ----
 
