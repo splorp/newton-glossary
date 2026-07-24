@@ -23,6 +23,8 @@ Resource:
 
 Related:
 
+- /terms/frankenbuckey
+- /terms/keyboard
 - /terms/newteye
 - /terms/newtkey
 - /terms/newtled

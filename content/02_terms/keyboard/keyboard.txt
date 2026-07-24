@@ -30,15 +30,16 @@ Related:
 - /terms/enter-key
 - /terms/extras-key
 - /terms/fitaly
+- /terms/frankenbuckey
 - /terms/function-key
 - /terms/key-combination
 - /terms/key-view
-- /terms/keyboard
 - /terms/keyboard-button
 - /terms/keyboard-equivalent
 - /terms/keystrings
 - /terms/keystroke-events
 - /terms/modifier-key
+- /terms/newton-keyboard
 - /terms/numeric
 - /terms/option-key
 - /terms/overview-key
@@ -49,6 +50,7 @@ Related:
 - /terms/scroll-keys
 - /terms/send-key
 - /terms/shift-key
+- /terms/stowaway
 - /terms/tab-key
 - /terms/time-date
 - /terms/type-ahead

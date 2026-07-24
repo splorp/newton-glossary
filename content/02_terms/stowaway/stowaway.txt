@@ -27,11 +27,12 @@ Resource:
 Related:
 
 - /terms/frankenbuckey
+- /terms/keyboard
 - /terms/newtk
 - /terms/newtkey
-- /terms/newtway
 - /terms/newton-keyboard
 - /terms/newton-keyboard-enabler
+- /terms/newtway
 
 ----
 

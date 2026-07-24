@@ -24,6 +24,7 @@ Resource:
 Related:
 
 - /terms/frankenbuckey
+- /terms/keyboard
 - /terms/newtk
 - /terms/newton-keyboard
 - /terms/newton-keyboard-enabler
