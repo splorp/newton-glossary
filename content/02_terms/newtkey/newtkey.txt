@@ -25,6 +25,7 @@ Related:
 
 - /terms/frankenbuckey
 - /terms/keyboard
+- /terms/khyber
 - /terms/newtk
 - /terms/newton-keyboard
 - /terms/newton-keyboard-enabler

@@ -25,6 +25,7 @@ Related:
 
 - /terms/frankenbuckey
 - /terms/keyboard
+- /terms/khyber
 - /terms/newteye
 - /terms/newtkey
 - /terms/newtled

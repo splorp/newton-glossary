@@ -1,0 +1,41 @@
+Title: Khyber
+
+----
+
+Date: 24 July 2026
+
+----
+
+Text:
+
+A compact (link: /terms/keyboard text: keyboard) developed by (link: /sources/khyber text: Khyber Technologies) for use with a Newton (link: /terms/messagepad text: MessagePad) and other mobile computing devices.
+
+The keyboard also integrated a hand strap, adjustable legs for desktop use, as well as protection when closed over the (link: /terms/screen text: screen) of the device.
+
+----
+
+Resource:
+
+- [Khyber Technologies: Products](https://web.archive.org/web/19971221085036/https://www.khyber.com/product.htm)
+- [NewtonSource: Khyber Keyboard](https://web.archive.org/web/19961112092404/http://www.newtonsource.com/khyber.html)
+- [Mark Rollins: Newton Keyboard](http://www.mrollins.com/newtkey.html)
+- [NewtNews: Khyber Keyboard Review](https://www.newted.org/resources/khyber.txt)
+
+----
+
+Related:
+
+- /terms/frankenbuckey
+- /terms/keyboard
+- /terms/newtk
+- /terms/newtkey
+- /terms/newton-keyboard
+- /terms/newton-keyboard-enabler
+- /terms/newtway
+- /terms/stowaway
+
+----
+
+Source:
+
+- /sources/khyber
