@@ -20,6 +20,7 @@ Related:
 - /terms/elftopkg
 - /terms/extension
 - /terms/frozen-package
+- /terms/newtfmt
 - /terms/newtonpkg
 - /terms/package
 - /terms/package-installer

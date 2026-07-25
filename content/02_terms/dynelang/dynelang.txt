@@ -8,7 +8,7 @@ Date: 21 July 2026
 
 Text:
 
-See: (link: /terms/dyne text: Dyne) and (link: /terms/dynesect text: DyneSect)
+See: (link: /terms/dyne text: Dyne), (link: /terms/dynesect text: DyneSect), and (link: /terms/newtfmt text: newtfmt).
 
 ----
 

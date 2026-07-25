@@ -26,6 +26,7 @@ Related:
 
 - /terms/dyne
 - /terms/dynelang
+- /terms/newtfmt
 - /terms/rom
 
 ----

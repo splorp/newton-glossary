@@ -28,6 +28,7 @@ Related:
 - /terms/dynesect
 - /terms/newt0
 - /terms/newt64
+- /terms/newtfmt
 - /terms/newtonscript
 - /terms/nsm
 - /terms/prota
