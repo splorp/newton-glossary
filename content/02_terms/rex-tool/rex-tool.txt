@@ -1,0 +1,38 @@
+Title: Rex
+
+----
+
+Date: 28 July 2026
+
+----
+
+Text:
+
+A programming tool used to build a (link: /terms/rom-extension text: ROM extension) file from various source components using a configuration file.
+
+Originally part of the (link: /terms/macintosh-programmers-workshop text: Macintosh Programmers Workshop) (MPW), a modern replacement was developed by (link: /sources/paul-guyot text: Paul Guyot) for use with the (link: /terms/einstein text: Einstein) emulator. This new version of Rex is included as part of the Desktop Connection Library ((link: /terms/dcl text: DCL)) framework and has the ability to add (link: /terms/package-files text: package files) to the ROM extension.
+
+----
+
+Resource:
+
+- [NewtonTalk: New DCL tools: WatsonEnabler & Rex](https://newtontalk.net/archive/newtontalk/2020-July/057756.html)
+- [GitHub: DCL](https://github.com/pguyot/DCL)
+- [GitHub: Einstein ROM Extension](https://github.com/pguyot/Einstein/blob/master/Drivers/README.md)
+
+----
+
+Related:
+
+- /terms/dcl
+- /terms/einstein
+- /terms/macintosh-programmers-workshop
+- /terms/rex
+- /terms/rex-einstein
+- /terms/rom-extension
+
+----
+
+Source:
+
+- /sources/paul-guyot

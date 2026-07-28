@@ -1,0 +1,33 @@
+Title: rex
+
+----
+
+Date: 30 August 2024
+
+----
+
+Text:
+
+The (link: /terms/filename-extension text: filename extension) used to identify a (link: /terms/rom-extension text: ROM extension) for the (link: /terms/einstein text: Einstein) emulator.
+
+----
+
+Resource:
+
+- [GitHub: Einstein ROM Extension](https://github.com/pguyot/Einstein/blob/master/Drivers/README.md)
+
+----
+
+Related:
+
+- /terms/einstein
+- /terms/filename-extension
+- /terms/rex
+- /terms/rex-tool
+- /terms/rom-extension
+
+----
+
+Source:
+
+- /sources/paul-guyot

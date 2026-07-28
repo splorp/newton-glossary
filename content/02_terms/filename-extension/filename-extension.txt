@@ -27,6 +27,7 @@ Related:
 - /terms/ntkc
 - /terms/nwt
 - /terms/pkg
+- /terms/rex-einstein
 - /terms/rsrc
 - /terms/rtf
 - /terms/stream

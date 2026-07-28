@@ -22,4 +22,5 @@ Related:
 - /terms/mpw
 - /terms/newton-c-tools
 - /terms/newtsbug
+- /terms/rex-tool
 - /terms/viewframe

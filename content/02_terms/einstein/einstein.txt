@@ -10,12 +10,15 @@ Text:
 
 An open source software emulator originally developed by (link: /sources/paul-guyot text: Paul Guyot) that allows (link: /terms/newton-os text: Newton OS) to run on other (link: /terms/operating-system text: operating systems) such as Mac OS X, iOS, and Linux.
 
+The (link: /terms/rom-extension text: ROM extension) created for Einstein is identified by the (link: /terms/rex text: .rex) filename extension and contains a collection of tools for interfacing with the host (link: /terms/operating-system text: operating system). These tools include various (link: /terms/device-driver text: device drivers), the Desktop Connection Library ((link: /terms/dcl text: DCL)) framework, Eckhart Köppen’s (link: /terms/tntk text: tntk) NewtonScript (link: /terms/compiler text: compiler) and (link: /terms/packager text: packager), as well as Frank Gruendel’s (link: /terms/newttest text: NewtTest) utility.
+
 ----
 
 Resource:
 
 - [GitHub: Einstein](https://github.com/pguyot/Einstein/)
 - [GitHub: Einstein Platform User’s Manual](https://github.com/pguyot/Einstein/blob/master/Documentation/UserManual.pdf)
+- [GitHub: Einstein ROM Extension](https://github.com/pguyot/Einstein/blob/master/Drivers/README.md)
 - [Matthias Melcher: Einstein](http://matthiasm.com/software/einstein)
 - [Kallisys: Einstein Platform 2007.7](https://web.archive.org/web/20070811171656/http://www.kallisys.com/newton/einstein/)
 - [Wired: Fans Keep Newton in Motion](https://www.wired.com/2004/09/fans-keep-newton-in-motion/)
@@ -29,6 +32,8 @@ Related:
 - /terms/leibniz
 - /terms/newton-os
 - /terms/poor-mans-newton
+- /terms/rex-tool
+- /terms/rex-einstein
 - /terms/unarmed
 - /terms/undo-overview
 - /terms/wilma

@@ -45,6 +45,7 @@ Related:
 - /terms/pbbookmaker
 - /terms/protocol
 - /terms/rdcl
+- /terms/rex-tool
 - /terms/watsonenabler
 - /terms/zdcl
 
