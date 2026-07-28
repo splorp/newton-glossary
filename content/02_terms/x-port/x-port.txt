@@ -1,0 +1,39 @@
+Title: X-Port
+
+----
+
+Date: 26 July 2026
+
+----
+
+Text:
+
+A utility developed by [Innovative Computer Solutions](/sources/innovative-computer-solutions) and distributed by (link: /sources/landware text: Landware) that facilitated transferring contacts from the (link: /terms/name-file text: Name File), (link: /terms/date-book text: Date Book) items, (link: /terms/note text: notes), (link: /terms/checklist text: checklists), (link: /terms/outline text: outlines), screenshots, and (link: /terms/package text: packages) between a Newton device and a (link: /terms/desktop-computer text: desktop) or (link: /terms/laptop-computer text: laptop computer).
+
+----
+
+Resource:
+
+- [LandWare: X-Port 1.0](https://web.archive.org/web/19970330135444/http://www.landware.com/products/xport/xportps.html)
+- [LandWare: X-Port 2.0](https://web.archive.org/web/19980206080532/http://www.landware.com/products/xport/xportps.html)
+- [LandWare: X-Port 2.1](https://web.archive.org/web/20000903125505/http://www.landware.com/xport/)
+- [Innovative Computer Solutions: The X-Port Challenge](https://web.archive.org/web/19980529090536/http://www.newts.com/newton/xportchallenge.html)
+
+----
+
+Related:
+
+- /terms/newton-connection
+- /terms/newton-connection-kit
+- /terms/newton-connection-pro-kit
+- /terms/newton-connection-utilities
+- /terms/newton-data-viewer
+- /terms/nwt
+- /terms/packagebuddy
+
+----
+
+Source:
+
+- /sources/innovative-computer-solutions
+- /sources/landware
