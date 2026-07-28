@@ -23,8 +23,8 @@ Also referred to as (link: /terms/nct text: NCT).
 Resource:
 
 - [Andrés Galluzzi: Newton Connection Tools](https://web.archive.org/web/20110124001117/http://usuarios.arnet.com.ar/mtu16/index.htm)
-- [NewtonTalk: [ANN] Newton Connection Tools for Windows](http://newtontalk.net/archive/newtontalk/2006-September/0256.html)
-- [NewtonTalk: [ANN] Newton Connection Tools to support UNNA](http://newtontalk.net/archive/newtontalk/2009-November/038882.html)
+- [NewtonTalk: Newton Connection Tools for Windows](http://newtontalk.net/archive/newtontalk/2006-September/0256.html)
+- [NewtonTalk: Newton Connection Tools to support UNNA](http://newtontalk.net/archive/newtontalk/2009-November/038882.html)
 - [NewtonTalk: Review: Newton Connection Tools for Windows](http://newtontalk.net/archive/newtontalk/2008-June/0017.html)
 
 ----

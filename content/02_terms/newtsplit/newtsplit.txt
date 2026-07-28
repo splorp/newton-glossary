@@ -18,7 +18,7 @@ An optional “High Speed Serial Converter” that utilized an (link: /terms/ftd
 
 Resource:
 
-- [NewtonTalk: [ANN] NewtSplit available](https://newtontalk.net/archive/newtontalk/2005-September/0173.html)
+- [NewtonTalk: NewtSplit available](https://newtontalk.net/archive/newtontalk/2005-September/0173.html)
 - [Green is Better: NewtSplit](https://web.archive.org/web/20060125151606/http://homepage.mac.com/adriano.angelillis/PhotoAlbum5.html)
 
 ----

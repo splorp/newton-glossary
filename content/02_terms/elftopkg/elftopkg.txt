@@ -18,7 +18,7 @@ Files created using the ELFtoNTK tool are generally identified by the (link: /te
 
 Resource:
 
-- [NewtonTalk: [ANN] Newton C++ Toolchain Utilities](http://newtontalk.net/archive/newtontalk/2020-June/018818.html)
+- [NewtonTalk: Newton C++ Toolchain Utilities](http://newtontalk.net/archive/newtontalk/2020-June/018818.html)
 - [GitHub: DCL Toolchain Utilities](https://github.com/pguyot/DCL/tree/master/Sample_Code/ToolchainUtils)
 - [40hz: Various Experiments](https://40hz.org/Pages/newton/hacking/experiments/)
 
