@@ -8,7 +8,7 @@ Date: 06 September 2017
 
 Text:
 
-A variation of the NuBus-based (link: /terms/armageddon text: ARMageddon) card that included a (link: /terms/daughterboard text: daughterboard).
+A variation of the NuBus-based (link: /terms/armageddon text: ARMageddon) development card developed by [Apple](https://www.apple.com/) that included a (link: /terms/daughterboard text: daughterboard).
 
 ----
 
