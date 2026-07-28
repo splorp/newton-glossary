@@ -25,7 +25,6 @@ Related:
 - /terms/newtonscript
 - /terms/proto
 - /terms/pvt
-- /terms/romulator
 
 ----
 

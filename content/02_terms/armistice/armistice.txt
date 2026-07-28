@@ -40,4 +40,4 @@ Related:
 
 Source:
 
-- /sources/stores-of-apple
+- /sources/stories-of-apple
