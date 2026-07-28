@@ -37,6 +37,7 @@ Related:
 - /terms/hammer
 - /terms/prototype
 - /terms/romulator
+- /terms/universal-newton-adapter
 
 ----
 

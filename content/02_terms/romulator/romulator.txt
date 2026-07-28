@@ -14,6 +14,8 @@ A circuit board that connects to another hardware device, replacing (or emulatin
 
 Software code is downloaded into (link: /terms/ram text: RAM) on the ROMulator and then executed as if it was burned into (link: /terms/rom text: ROM) on the device. This provides an efficient means to quickly test, (link: /terms/debug text: debug), and iterate changes to the code.
 
+Some ROMulator boards could be connected via (link: /terms/ribbon cable text: ribbon cable) to a (link: /terms/Universal Newton Adapter text: Universal Newton Adapter) card installed in a Mac OS computer.
+
 ----
 
 Resource:
@@ -39,6 +41,7 @@ Related:
 - /terms/pvt
 - /terms/ram
 - /terms/rom
+- /terms/universal-newton-adapter
 
 ----
 
