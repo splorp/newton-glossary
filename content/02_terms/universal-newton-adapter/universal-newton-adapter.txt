@@ -10,7 +10,7 @@ Text:
 
 A NuBus-based development card developed in 1992 by [Apple](https://www.apple.com/) that connected a Mac OS computer to external Newton hardware, such as a (link: /terms/bunn-warmer text: Bunn Warmer) or (link: /terms/romulator text: ROMulator) device via a (link: /terms/ribbon-cable text: ribbon cable).
 
-Distinguishable by it bright red circuit board, the Universal Newton Adapter was smaller and less expensive to produce than the (link: /terms/armageddon text: ARMageddon) and (link: /terms/armistice text: ARMistice) cards, which included an (link: /terms/arm text: ARM) processor on board.
+Distinguishable by it’s bright red circuit board, the Universal Newton Adapter was smaller and less expensive to produce than the (link: /terms/armageddon text: ARMageddon) and (link: /terms/armistice text: ARMistice) cards, which also included an (link: /terms/arm text: ARM) processor on board.
 
 ----
 
