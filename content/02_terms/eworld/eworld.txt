@@ -8,7 +8,16 @@ Date: 30 October 2001
 
 Text:
 
-Apple’s one time foray into the realm of consumer online services. Based on the same operational platform as America Online, eWorld offered a wealth of electronic publications and services targeted mainly at [Apple](https://www.apple.com/) customers. The service was only available on the Mac OS platform, along with limited support on (link: /terms/newton-os text: Newton OS) using special email (link: /terms/stationery text: stationery).
+Apple’s one time foray into the realm of consumer online services. Based on the same operational platform as America Online, eWorld offered a wealth of electronic publications and services targeted mainly at [Apple](https://www.apple.com/) customers. The service was only available on the Mac OS and Apple IIGS platforms, along with limited support on (link: /terms/newton-os text: Newton OS) using special email (link: /terms/stationery text: stationery).
+
+----
+
+Resource:
+
+- [Press Release: Apple Celebrates eWorld’s First Birthday](https://web.archive.org/web/19990222164832/http://product.info.apple.com/pr/pr.archive/1994/Releases-1994.April-May-June/20Jun95-eWorld_First_Birthd.txt)
+- [Macworld: Remembering eWorld, Apple’s forgotten online service](https://www.macworld.com/article/223467/remembering-eworld-apples-forgotten-online-service.html)
+- [Cleo Huggins: eWorld: Apple’s consumer online service using a real-world metaphor](https://cleohuggins.com/eworld/)
+- [Wikipedia: eWorld](https://en.wikipedia.org/wiki/EWorld)
 
 ----
 

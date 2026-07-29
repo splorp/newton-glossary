@@ -12,6 +12,12 @@ The software publishing group within Apple’s (link: /terms/pie text: PIE) (Per
 
 ----
 
+Resource:
+
+- [Press Release: New StarCore Applications For Newton](https://web.archive.org/web/19991114123806/http://product.info.apple.com/pr/pr.archive/1994/Releases-1994.July/94.07.26-New.StarCore.Newto.txt)
+
+----
+
 Related:
 
 - /terms/jig

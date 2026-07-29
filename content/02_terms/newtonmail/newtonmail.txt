@@ -12,6 +12,10 @@ An electronic mail system supported by [Apple](https://www.apple.com/) specifica
 
 ----
 
+- [Press Release: NewtonMail Modules Reflect Apple’s Customer Responsiveness](https://web.archive.org/web/19990223223049/http://product.info.apple.com/pr/pr.archive/1994/Releases-1994.July/94.07.29-NewtonMail.Release.txt)
+
+----
+
 Related:
 
 - /terms/aloha
