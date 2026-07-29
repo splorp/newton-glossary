@@ -10,6 +10,8 @@ Text:
 
 An online service used by [Apple](https://www.apple.com/) between 1986 and 1994 to support and provide information to employees, dealers, developers, and end users. Newton devices could exchange messages with (link: /terms/applelink text: AppleLink) using the (link: /terms/newtonmail text: NewtonMail) service. AppleLink was eventually superseded by the short-lived (link: /terms/eworld text: eWorld) service in 1994.
 
+The operation and support of AppleLink was the responsibility of the (link: /terms/apple-online-services text: Apple Online Services) (AOS) division.
+
 ----
 
 Resource:
@@ -20,6 +22,7 @@ Resource:
 
 Related:
 
+- /terms/apple-online-services
 - /terms/eworld
 - /terms/pie-developer-info
 - /terms/pie-developer-talk

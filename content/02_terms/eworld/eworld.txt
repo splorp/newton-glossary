@@ -10,6 +10,8 @@ Text:
 
 Apple’s one time foray into the realm of consumer online services. Based on the same operational platform as America Online, eWorld offered a wealth of electronic publications and services targeted mainly at [Apple](https://www.apple.com/) customers. The service was only available on the Mac OS and Apple IIGS platforms, along with limited support on (link: /terms/newton-os text: Newton OS) using special email (link: /terms/stationery text: stationery).
 
+The operation and support of eWorld was the responsibility of the (link: /terms/apple-online-services text: Apple Online Services) (AOS) division.
+
 ----
 
 Resource:
@@ -23,6 +25,7 @@ Resource:
 
 Related:
 
+- /terms/apple-online-services
 - /terms/applelink
 - /terms/espy-sans
 - /terms/hideeworld

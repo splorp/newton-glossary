@@ -8,7 +8,7 @@ Date: 12 June 2001
 
 Text:
 
-An electronic mail system supported by [Apple](https://www.apple.com/) specifically for Newton users. NewtonMail facilitated the creation of a single email account which allowed users exchange messages with most of the major online services available at the time, including (link: /terms/applelink text: AppleLink), CompuServe, (link: /terms/eworld text: eWorld), America Online, as well as through an internet (link: /terms/gateway text: gateway).
+An electronic mail system supported by the (link: /terms/apple-online-services text: Apple Online Services) (AOS) division of [Apple](https://www.apple.com/) specifically for Newton users. NewtonMail facilitated the creation of a single email account which allowed users exchange messages with most of the major online services available at the time, including (link: /terms/applelink text: AppleLink), CompuServe, (link: /terms/eworld text: eWorld), America Online, as well as through an internet (link: /terms/gateway text: gateway).
 
 ----
 
@@ -19,6 +19,7 @@ An electronic mail system supported by [Apple](https://www.apple.com/) specifica
 Related:
 
 - /terms/aloha
+- /terms/apple-online-services
 - /terms/applelink
 - /terms/enroute
 - /terms/eworld
