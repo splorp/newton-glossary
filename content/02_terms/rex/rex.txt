@@ -8,4 +8,4 @@ Date: 31 May 2001
 
 Text:
 
-See: (link: /terms/rom-extension text: ROM Extension), (link: /terms/rex-tool text: Rex), and (link: /terms/rex-einstein text: rex)
+See: (link: /terms/rom-extension text: ROM Extension)

@@ -10,7 +10,7 @@ Text:
 
 A programming tool used to build a (link: /terms/rom-extension text: ROM extension) file from various source components using a configuration file.
 
-Originally part of the (link: /terms/macintosh-programmers-workshop text: Macintosh Programmers Workshop) (MPW), a modern replacement was developed by (link: /sources/paul-guyot text: Paul Guyot) for use with the (link: /terms/einstein text: Einstein) emulator. This new version of Rex is included as part of the Desktop Connection Library ((link: /terms/dcl text: DCL)) framework and has the ability to add (link: /terms/package-files text: package files) to the ROM extension.
+Originally part of the (link: /terms/macintosh-programmers-workshop text: Macintosh Programmers Workshop) (MPW), a modern replacement was developed by (link: /sources/paul-guyot text: Paul Guyot) for use with the (link: /terms/einstein text: Einstein) emulator. This new version of Rex is included as part of the Desktop Connection Library ((link: /terms/dcl text: DCL)) framework and has the ability to add (link: /terms/package-file text: package files) to the ROM extension.
 
 ----
 

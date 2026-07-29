@@ -8,7 +8,7 @@ Date: 25 July 2026
 
 Text:
 
-A tool developed by (link: /sources/matthias-melcher text: Matthias Melcher) to read and analyze the data contained in a (link: /terms/newton os text: Newton OS) package, subsequently converting that data into an editable (link: /terms/text text: text) file. A valid (link: /terms/package-file text: package file) can then be reconstructed from the modified text file using the tool.
+A tool developed by (link: /sources/matthias-melcher text: Matthias Melcher) to read and analyze the data contained in a (link: /terms/newton-os text: Newton OS) package, subsequently converting that data into an editable (link: /terms/text text: text) file. A valid (link: /terms/package-file text: package file) can then be reconstructed from the modified text file using the tool.
 
 The functionality of newtfmt has since been incorporated into the (link: /terms/dynelang text: DyneLang) project.
 
