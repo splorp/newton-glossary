@@ -18,14 +18,21 @@ Recently added terms and sources are listed in the (link: /latest text: latest a
 
 Incremental changes are listed in the [code commit history](https://github.com/splorp/newton-glossary/commits/master).
 
-### _$r
+### 5.2.2
 
-Terms: _$t
-Sources: _$s
+29 July 2026
+
+Terms: 2,280
+Sources: 246
 
 #### Summary of changes:
 
-+ 
++ Added 43 new terms
++ Added 5 new sources
++ Updated and expanded hundreds of existing entries and related terms
++ Added mention of Apple’s original “Newton Glossary” to the (link: /about text: About) page
++ Updated [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) to version [1.47](https://github.com/ai-robots-txt/ai.robots.txt/releases/tag/v1.47)
++ Updated [Kirby](https://getkirby.com/) to version [5.5.3](https://github.com/getkirby/kirby/releases/tag/5.5.3)
 
 ### 5.2.1
 
