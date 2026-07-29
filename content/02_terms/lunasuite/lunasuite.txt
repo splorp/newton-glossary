@@ -25,7 +25,6 @@ Related:
 
 - /terms/aloha
 - /terms/courier
-- /terms/eworld
 - /terms/ftp
 - /terms/http
 - /terms/imap

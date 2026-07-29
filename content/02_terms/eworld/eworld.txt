@@ -14,21 +14,7 @@ Apple’s one time foray into the realm of consumer online services. Based on th
 
 Related:
 
-- /terms/aloha
-- /terms/enroute
+- /terms/applelink
 - /terms/espy-sans
 - /terms/hideeworld
-- /terms/imap
-- /terms/in-box
-- /terms/inout-box
-- /terms/lunasuite
-- /terms/mail-v
-- /terms/mime
 - /terms/newtonmail
-- /terms/out-box
-- /terms/pop
-- /terms/routing
-- /terms/simplemail
-- /terms/smtp
-- /terms/stationery
-- /terms/transport

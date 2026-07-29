@@ -24,7 +24,6 @@ Related:
 
 - /terms/aloha
 - /terms/enroute-inet
-- /terms/eworld
 - /terms/imap
 - /terms/in-box
 - /terms/inout-box

@@ -23,7 +23,6 @@ Related:
 - /terms/checklist
 - /terms/data-definition
 - /terms/drawing
-- /terms/eworld
 - /terms/graphing-calculator
 - /terms/hideeworld
 - /terms/name-file
