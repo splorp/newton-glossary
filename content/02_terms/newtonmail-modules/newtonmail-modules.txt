@@ -1,0 +1,25 @@
+Title: NewtonMail Modules
+
+----
+
+Date: 29 July 2026
+
+----
+
+Text:
+
+Software provided by (link: /terms/apple-online-services text: Apple Online Services) (AOS) to enhance and extend the functionality and usability of (link: /terms/newtonmail text: NewtonMail) on a Newton device.
+
+Supplied as a set of (link: /terms/package text: packages), the modules allow the user to copy of text from a message to the (link: /terms/notepad text: NotePad) application, easily reply to and forward messages, send messages to multiple recipients, print and fax directly from the (link: /terms/inout-box text: In/Out Box), and access NewtonMail through the Tymnet/MCI network.
+
+----
+
+- [Press Release: NewtonMail Modules Reflect Apple’s Customer Responsiveness](https://web.archive.org/web/19990223223049/http://product.info.apple.com/pr/pr.archive/1994/Releases-1994.July/94.07.29-NewtonMail.Release.txt)
+- [UNNA: NewtonMail Modules 1.01](http://www.unna.org/view.php?/apple/software/NewtonMailModules1.01)
+
+----
+
+Related:
+
+- /terms/apple-online-services
+- /terms/newtonmail
