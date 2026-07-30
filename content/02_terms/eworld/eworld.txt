@@ -18,7 +18,7 @@ Resource:
 
 - [Press Release: Apple Celebrates eWorld’s First Birthday](https://web.archive.org/web/19990222164832/http://product.info.apple.com/pr/pr.archive/1994/Releases-1994.April-May-June/20Jun95-eWorld_First_Birthd.txt)
 - [Macworld: Remembering eWorld, Apple’s forgotten online service](https://www.macworld.com/article/223467/remembering-eworld-apples-forgotten-online-service.html)
-- [Cleo Huggins: eWorld: Apple’s consumer online service using a real-world metaphor](https://cleohuggins.com/eworld/)
+- [Cleo Huggins: eWorld: A real-world metaphor](https://cleohuggins.com/eworld/)
 - [Wikipedia: eWorld](https://en.wikipedia.org/wiki/EWorld)
 
 ----

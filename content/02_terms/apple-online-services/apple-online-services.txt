@@ -10,7 +10,7 @@ Text:
 
 A division of [Apple](https://www.apple.com/) that provided email and other online technologies to employees and developers prior to the adoption of the world wide web.
 
-Also known as (link: /terms/aos text: AOS), the group was responsible for both the (link: /terms/applelink text: AppleLink) and (link: /terms/eWorld text: eWorld) services, as well as supporting connectivity(link: /terms/newtonmail text: NewtonMail).
+Also known as (link: /terms/aos text: AOS), the group was responsible for the (link: /terms/applelink text: AppleLink), (link: /terms/eWorld text: eWorld), and (link: /terms/newtonmail text: NewtonMail) services.
 
 ----
 
