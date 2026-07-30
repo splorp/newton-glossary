@@ -1,0 +1,32 @@
+Title: Relocation Information
+
+----
+
+Date: 30 July 2026
+
+----
+
+Text:
+
+Data contained in a (link: /terms/package text: package) that is used to move (or relocate) package-relative memory (link: /terms/address text: addresses), compensating for the (link: /terms/virtual-address text: virtual address) that gets assigned when a package is activated.
+
+The (link: /terms/relocation text: relocation) process allows native code in the package to use (link: /terms/absolute-address text: absolute addresses).
+
+----
+
+Related:
+
+- /terms/absolute-address
+- /terms/address
+- /terms/mapping
+- /terms/package
+- /terms/pointer
+- /terms/relocation
+- /terms/unrelocation
+- /terms/virtual-address
+
+----
+
+Source:
+
+- /sources/newton-formats

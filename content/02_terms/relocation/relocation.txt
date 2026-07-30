@@ -1,0 +1,33 @@
+Title: Relocation
+
+----
+
+Date: 30 July 2026
+
+----
+
+Text:
+
+The process of assigning a (link: /terms/virtual-address text: virtual address) to a (link: /terms/package text: package) when it is activated.
+
+Data contained in a package related to this process is known as (link: /terms/relocation-information text: relocation information).
+
+
+----
+
+Related:
+
+- /terms/absolute-address
+- /terms/address
+- /terms/mapping
+- /terms/package
+- /terms/pointer
+- /terms/relocation-information
+- /terms/unrelocation
+- /terms/virtual-address
+
+----
+
+Source:
+
+- /sources/newton-formats

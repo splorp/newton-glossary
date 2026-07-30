@@ -8,12 +8,13 @@ Date: 31 May 2001
 
 Text:
 
-A value representing a non-physical location for a piece of data. The microprocessor (and hence the programs) do not access data at the (link: /terms/physical-address text: physical) location in memory, but at the virtual location, which can be translated into the physical location by the memory management unit ((link: /terms/mmu text: MMU)).
+A value representing a non-physical location for a piece of data. The microprocessor (and hence the programs) do not access data at the (link: /terms/absolute-address text: absolute) location in memory, but at the virtual location, which can be translated into the physical location by the memory management unit ((link: /terms/mmu text: MMU)).
 
 ----
 
 Related:
 
+- /terms/absolute-address
 - /terms/address
 - /terms/heaven-or-hell
 - /terms/magic-pointer
@@ -21,8 +22,10 @@ Related:
 - /terms/memory-page
 - /terms/mmu
 - /terms/mmu-tables
-- /terms/physical-address
 - /terms/pointer
+- /terms/relocation
+- /terms/relocation-information
+- /terms/unrelocation
 - /terms/virtual-memory
 
 ----

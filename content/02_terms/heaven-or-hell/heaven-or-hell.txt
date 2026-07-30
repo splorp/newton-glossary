@@ -24,12 +24,12 @@ Resource:
 
 Related:
 
+- /terms/absolute-address
 - /terms/address
 - /terms/mapping
 - /terms/memory-page
 - /terms/mmu
 - /terms/mmu-tables
-- /terms/physical-address
 - /terms/pointer
 - /terms/virtual-address
 - /terms/virtual-memory

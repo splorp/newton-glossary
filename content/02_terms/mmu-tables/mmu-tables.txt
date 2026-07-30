@@ -8,17 +8,17 @@ Date: 31 May 2001
 
 Text:
 
-A structured set of data used by the memory management unit ((link: /terms/mmu text: MMU)) which instructs it on how to handle the translation of (link: /terms/virtual-address text: virtual addresses) to (link: /terms/physical-address text: physical addresses).
+A structured set of data used by the memory management unit ((link: /terms/mmu text: MMU)) which instructs it on how to handle the translation of (link: /terms/virtual-address text: virtual addresses) to (link: /terms/absolute-address text: absolute addresses).
 
 ----
 
 Related:
 
+- /terms/absolute-address
 - /terms/address
 - /terms/heaven-or-hell
 - /terms/mapping
 - /terms/mmu
-- /terms/physical-address
 - /terms/virtual-address
 - /terms/virtual-memory
 

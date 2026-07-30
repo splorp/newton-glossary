@@ -8,20 +8,23 @@ Date: 31 May 2001
 
 Text:
 
-The relationship of (link: /terms/virtual-address text: virtual addresses) to (link: /terms/physical-address text: physical addresses) using the address translation tables in the memory management unit ((link: /terms/mmu text: MMU)).
+The relationship of (link: /terms/virtual-address text: virtual addresses) to (link: /terms/absolute-address text: absolute addresses) using the address translation tables in the memory management unit ((link: /terms/mmu text: MMU)).
 
 ----
 
 Related:
 
+- /terms/absolute-address
 - /terms/address
 - /terms/heaven-or-hell
 - /terms/magic-pointer
 - /terms/memory-page
 - /terms/mmu
 - /terms/mmu-tables
-- /terms/physical-address
 - /terms/pointer
+- /terms/relocation
+- /terms/relocation-information
+- /terms/unrelocation
 - /terms/virtual-address
 - /terms/virtual-memory
 

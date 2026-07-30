@@ -14,13 +14,13 @@ A segment of memory containing addresses translated by the memory management uni
 
 Related:
 
+- /terms/absolute-address
 - /terms/address
 - /terms/heaven-or-hell
 - /terms/magic-pointer
 - /terms/mapping
 - /terms/mmu
 - /terms/mmu-tables
-- /terms/physical-address
 - /terms/page
 - /terms/pointer
 - /terms/virtual-address

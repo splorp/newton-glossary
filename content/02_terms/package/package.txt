@@ -31,10 +31,13 @@ Related:
 - /terms/packer
 - /terms/packtype
 - /terms/pkg
+- /terms/relocation
+- /terms/relocation-information
 - /terms/suppress
 - /terms/suppressed-package
 - /terms/thaw
 - /terms/thawed-package
+- /terms/unrelocation
 
 ----
 

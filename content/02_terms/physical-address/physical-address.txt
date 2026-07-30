@@ -8,22 +8,7 @@ Date: 31 May 2001
 
 Text:
 
-A value representing the actual location of a piece of data.
-
-----
-
-Related:
-
-- /terms/address
-- /terms/heaven-or-hell
-- /terms/magic-pointer
-- /terms/mapping
-- /terms/memory-page
-- /terms/mmu
-- /terms/mmu-tables
-- /terms/pointer
-- /terms/virtual-address
-- /terms/virtual-memory
+See: (link: /terms/absolute-address text: Absolute Address)
 
 ----
 

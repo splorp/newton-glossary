@@ -16,6 +16,7 @@ In a (link: /terms/spreadsheet text: spreadsheet) document, the address of a (li
 
 Related:
 
+- /terms/absolute-address
 - /terms/cell
 - /terms/heaven-or-hell
 - /terms/magic-pointer
@@ -23,10 +24,12 @@ Related:
 - /terms/memory-page
 - /terms/mmu
 - /terms/mmu-tables
-- /terms/physical-address
 - /terms/pointer
+- /terms/relocation
+- /terms/relocation-information
 - /terms/spreadsheet
 - /terms/system-memory
+- /terms/unrelocation
 - /terms/virtual-address
 - /terms/virtual-memory
 

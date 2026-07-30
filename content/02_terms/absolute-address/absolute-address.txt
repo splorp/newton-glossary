@@ -1,20 +1,21 @@
-Title: Pointer
+Title: Absolute Address
 
 ----
 
-Date: 31 May 2001
+Date: 30 July 2026
 
 ----
 
 Text:
 
-An (link: /terms/address text: address) from the point of view of a programming language. A pointer can be “typed” — meaning that its “type” indicates the kind of data which it points at.
+A value representing the actual location of a piece of data.
+
+Also referred to as a (link: /terms/physical-address text: Physical Address).
 
 ----
 
 Related:
 
-- /terms/absolute-address
 - /terms/address
 - /terms/heaven-or-hell
 - /terms/magic-pointer
@@ -22,6 +23,8 @@ Related:
 - /terms/memory-page
 - /terms/mmu
 - /terms/mmu-tables
+- /terms/physical-address
+- /terms/pointer
 - /terms/relocation
 - /terms/relocation-information
 - /terms/unrelocation
@@ -32,4 +35,4 @@ Related:
 
 Source:
 
-- /sources/foldoc
+- /sources/newton-formats

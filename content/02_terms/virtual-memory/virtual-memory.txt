@@ -18,6 +18,7 @@ Unlike traditional virtual memory mechanisms, the (link: /terms/heap text: heap)
 
 Related:
 
+- /terms/absolute-address
 - /terms/address
 - /terms/heap
 - /terms/heaven-or-hell
@@ -28,7 +29,6 @@ Related:
 - /terms/mmu-tables
 - /terms/newtonscript
 - /terms/newtonscript-heap
-- /terms/physical-address
 - /terms/pointer
 - /terms/script
 - /terms/virtual-address

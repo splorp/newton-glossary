@@ -10,12 +10,13 @@ Text:
 
 Memory Management Unit
 
-A computer component responsible for the translation of the (link: /terms/virtual-address text: virtual addresses) assigned to chunks of data into the (link: /terms/physical-address text: physical addresses) (or actual addresses) of that data.
+A computer component responsible for the translation of the (link: /terms/virtual-address text: virtual addresses) assigned to chunks of data into the (link: /terms/absolute-address text: absolute addresses) (or actual addresses) of that data.
 
 ----
 
 Related:
 
+- /terms/absolute-address
 - /terms/address
 - /terms/cpu
 - /terms/heaven-or-hell
@@ -23,7 +24,6 @@ Related:
 - /terms/mapping
 - /terms/memory-page
 - /terms/mmu-tables
-- /terms/physical-address
 - /terms/pointer
 - /terms/virtual-address
 - /terms/virtual-memory
