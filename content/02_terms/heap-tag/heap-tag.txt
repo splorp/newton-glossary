@@ -1,0 +1,34 @@
+Title: Heap Tag
+
+----
+
+Date: 30 July 2026
+
+----
+
+Text:
+
+In (link: /terms/newtonscript text: NewtonScript), an optional (link: /terms/symbol text: symbol) used to mark one or more entries in a (link: /terms/heap text: heap).
+
+Using (link: /terms/newtsbug text: NewtsBug), all heap (link: /terms/tag text: tags) can be assigned that same value for (link: /terms/debugging text: debugging) purposes by using the (link: /terms/smash-heap-tags text: Smash Heap Tags) command.
+
+----
+
+Related:
+
+- /terms/c-heap
+- /terms/corrupt-heap
+- /terms/heap
+- /terms/newtonscript
+- /terms/newtonscript-heap
+- /terms/newtsbug
+- /terms/smash-heap-tags
+- /terms/symbol
+- /terms/system-heap
+- /terms/tag
+
+----
+
+Source:
+
+- /sources/newtsbug

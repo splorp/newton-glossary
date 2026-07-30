@@ -10,6 +10,8 @@ Text:
 
 In (link: /terms/newtonscript text: NewtonScript), an optional (link: /terms/symbol text: symbol) used to mark one or more (link: /terms/soup text: soup) entries. The (link: /terms/operating-system text: operating system) treats a missing tag as a (link: /terms/nil text: nil) value.
 
+A tag related to a (link: /terms/heap text: heap) is referred to as a (link: /terms/heap-tag text: heap tag).
+
 Tag is also a reference to the (link: /terms/icon text: icon) used to identify the (link: /terms/tag-button text: Tag Button).
 
 ----
@@ -17,8 +19,10 @@ Tag is also a reference to the (link: /terms/icon text: icon) used to identify t
 Related:
 
 - /terms/entry
+- /terms/heap-tag
 - /terms/newtonscript
 - /terms/soup
+- /terms/smash-heap-tags
 - /terms/symbol
 - /terms/tag-button
 - /terms/tag-picker

@@ -22,7 +22,9 @@ Related:
 - /terms/garbage-collection
 - /terms/grip-of-death
 - /terms/heap
+- /terms/heap-tag
 - /terms/newtonscript-heap
+- /terms/smash-heap-tags
 - /terms/system-heap
 - /terms/system-memory
 

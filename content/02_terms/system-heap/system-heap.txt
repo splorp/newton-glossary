@@ -18,8 +18,10 @@ Related:
 - /terms/corrupt-heap
 - /terms/garbage-collection
 - /terms/heap
+- /terms/heap-tag
 - /terms/newtonscript
 - /terms/newtonscript-heap
+- /terms/smash-heap-tags
 - /terms/system-memory
 
 ----

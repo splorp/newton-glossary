@@ -1,0 +1,40 @@
+Title: Smash Heap Tags
+
+----
+
+Date: 30 July 2026
+
+----
+
+Text:
+
+A command located in the “Memory” menu of the (link: /terms/newtsbug text: NewtsBug) application.
+
+Smash Heap Tags assigns all (link: /terms/tag text: tags) in the active (link: /terms/heap text: heap) window a value of `0x7fffffff` for debugging purposes. This process can be used to visualize how heap is allocated after running the command.
+
+----
+
+Resource:
+
+- [Newted: Newtsbug 1.0 User’s Guide](https://www.newted.org/download/manuals/Newtsbug10UsersGuide.pdf)
+- [Newted: Newtsbug 1.0.1 User’s Guide](https://www.newted.org/download/manuals/Newtsbug101UsersGuide.pdf)
+
+----
+
+Related:
+
+- /terms/c-heap
+- /terms/corrupt-heap
+- /terms/heap
+- /terms/heap-tag
+- /terms/newtonscript
+- /terms/newtonscript-heap
+- /terms/newtsbug
+- /terms/system-heap
+- /terms/tag
+
+----
+
+Source:
+
+- /sources/newtsbug

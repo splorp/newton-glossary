@@ -17,7 +17,9 @@ Related:
 - /terms/corrupt-heap
 - /terms/garbage-collection
 - /terms/heap
+- /terms/heap-tag
 - /terms/newtonscript-heap
+- /terms/smash-heap-tags
 - /terms/system-heap
 - /terms/system-memory
 
