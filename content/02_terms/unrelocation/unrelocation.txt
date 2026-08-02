@@ -8,7 +8,7 @@ Date: 30 July 2026
 
 Text:
 
-Paul Guyot’s colloquial term for using an email (link: /terms/transport text: transport) to exporting packages from a Newton device.
+A colloquial term coined by (link: /sources/paul-guyot text: Paul Guyot) referring to the use of an email (link: /terms/transport text: transport) to export a (link: /terms/package text: package) from a Newton device.
 
 Unrelocation is essentially the opposite of the (link: /terms/relocation text: relocation) process, allowing a package to be deactivated and moved elsewhere.
 
