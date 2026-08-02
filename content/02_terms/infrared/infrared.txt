@@ -32,7 +32,7 @@ Related:
 - /terms/tinytp
 - /terms/transceiver
 
------
+----
 
 Source:
 
