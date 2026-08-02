@@ -21,10 +21,12 @@ Related:
 - /terms/infrared
 - /terms/infrared-window
 - /terms/irda
+- /terms/myremote
 - /terms/newtir
 - /terms/newton-communications-architecture
 - /terms/receive-key
 - /terms/routing
 - /terms/send-key
+- /terms/showmate
 - /terms/squirting
 - /terms/transceiver

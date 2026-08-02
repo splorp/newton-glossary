@@ -1,0 +1,23 @@
+Title: Sign of the Times
+
+----
+
+Date: 02 August 2026
+
+----
+
+Text:
+
+A company formed in 1995 by Ashish Mishra and Mike Jacobsen to develop “innovative software titles for sophisticated computers”, including the (link: /terms/newton-os text: Newton OS) platform.
+
+Best known for (link: /terms/showmate text: ShowMate) and (link: /terms/myremote text: MyRemote), their customizable (link: /terms/infrared text: infrared) remote control system, the company also developed other software including BluePrint, CardMedia, Streak, and PowerSet.
+
+In 1999, (link: /sources/sarofax text: Sarofax) (another company founded by Mishra) acquired the Sine of the Times software product line, releasing it as “charityware”. In 2004, the Sign of the Times software was released as open source.
+
+----
+
+Resource:
+
+- [Sign of the Times Website](https://web.archive.org/web/20030728215145/http://www.sineware.com/)
+- [NewtonTalk: Sarofax/Sineware packages now open-source](http://newtontalk.net/archive/newtontalk/2004-October/0194.html)
+- [NewtonTalk: Sarofax/Sineware source as .sitx and .gz](http://newtontalk.net/archive/newtontalk/2004-October/0202.html)

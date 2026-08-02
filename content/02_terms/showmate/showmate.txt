@@ -1,0 +1,41 @@
+Title: ShowMate
+
+----
+
+Date: 02 August 2026
+
+----
+
+Text:
+
+An (link: /terms/infrared text: infrared) remote control (link: /terms/application text: application) developed by (link: /sources/sign-of-the-times text: Sign of the Times) that allows a Newton device to manage and control several types of audio and video equipment by creating (link: /terms/script text: scripts) to automate control functions.
+
+(image: /assets/images/showmate-2x.gif alt: Screenshot of the ShowMate application width: 236)
+
+Scripts created in ShowMate could be scheduled to run in sequence or at a certain time of the day by setting an (link: /terms/alarm text: alarm). The accompanying (link: /terms/myremote text: MyRemote) utility provided a way to create custom remote control (link: /terms/interface text: interfaces).
+
+----
+
+Resource:
+
+- [Sign of the Times: ShowMate 1.0](https://web.archive.org/web/19970311115757/http://www.sineware.com/products/ShowMate/)
+- [Sign of the Times: ShowMate 2.0](https://web.archive.org/web/19980416011150/http://sineware.com/products/ShowMate/)
+- [NewtonTalk: Sarofax/Sineware packages now open-source](http://newtontalk.net/archive/newtontalk/2004-October/0194.html)
+- [NewtonTalk: Sarofax/Sineware source as .sitx and .gz](http://newtontalk.net/archive/newtontalk/2004-October/0202.html)
+
+----
+
+Related:
+
+- /terms/beaming
+- /terms/infrared
+- /terms/myremote
+- /terms/newttunes
+- /terms/sineware
+
+----
+
+Source:
+
+- /sources/sign-of-the-times
+- /sources/saarofax

@@ -1,0 +1,39 @@
+Title: MyRemote
+
+----
+
+Date: 02 August 2026
+
+----
+
+Text:
+
+A utility included with (link: /terms/showmate text: ShowMate), an (link: /terms/infrared text: infrared) remote control (link: /terms/application text: application) developed by (link: /sources/sign-of-the-times text: Sign of the Times). MyRemote provided a way to create custom (link: /terms/interface text: interfaces) by attaching (link: /terms/script text: scripts) created in ShowMate to user-definable (link: /terms/button text: buttons).
+
+(image: /assets/images/myremote-2x.gif alt: Screenshot of the MyRemote application width: 249)
+
+----
+
+Resource:
+
+- [Sign of the Times: ShowMate 1.0](https://web.archive.org/web/19970311115757/http://www.sineware.com/products/ShowMate/)
+- [Sign of the Times: ShowMate 2.0](https://web.archive.org/web/19980416011150/http://sineware.com/products/ShowMate/)
+- [NewtonTalk: Sarofax/Sineware packages now open-source](http://newtontalk.net/archive/newtontalk/2004-October/0194.html)
+- [NewtonTalk: Sarofax/Sineware source as .sitx and .gz](http://newtontalk.net/archive/newtontalk/2004-October/0202.html)
+
+----
+
+Related:
+
+- /terms/beaming
+- /terms/infrared
+- /terms/newttunes
+- /terms/showmate
+- /terms/sineware
+
+----
+
+Source:
+
+- /sources/sign-of-the-times
+- /sources/saarofax

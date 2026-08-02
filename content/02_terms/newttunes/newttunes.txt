@@ -29,10 +29,12 @@ Related:
 - /terms/ipodcontrol
 - /terms/mad-max
 - /terms/mad-newton
+- /terms/myremote
 - /terms/newtcast
 - /terms/newton-interconnect
 - /terms/newtpod
 - /terms/recording
+- /terms/showmate
 - /terms/sound
 
 ----

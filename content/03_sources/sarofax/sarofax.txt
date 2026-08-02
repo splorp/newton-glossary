@@ -1,0 +1,20 @@
+Title: SaroFax
+
+----
+
+Date: 02 August 2026
+
+----
+
+Text:
+
+A company formed by former (link: /sources/sign-of-the-times text: Sign of the Times) co-founder Ash Mishra with a focus on developing solutions using the [WebObjects](https://en.wikipedia.org/wiki/WebObjects) application framework. In 1999, Sarofax acquired most of the software developed by Sine of the Times, releasing it as “charityware”. In 2004, Mishra released the software as open source.
+
+----
+
+Resource:
+
+- [Sarofax Website](https://web.archive.org/web/20051025074752/http://www.sarofax.com/)
+- [Sarofax Technical: Short tales of writing software](https://sarofax.wordpress.com/)
+- [NewtonTalk: Sarofax/Sineware packages now open-source](http://newtontalk.net/archive/newtontalk/2004-October/0194.html)
+- [NewtonTalk: Sarofax/Sineware source as .sitx and .gz](http://newtontalk.net/archive/newtontalk/2004-October/0202.html)

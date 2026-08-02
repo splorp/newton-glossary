@@ -25,9 +25,11 @@ Related:
 - /terms/irda
 - /terms/irlap
 - /terms/irlmp
+- /terms/myremote
 - /terms/newtir
 - /terms/serial-infrared
 - /terms/slow-infrared
+- /terms/showmate
 - /terms/squirting
 - /terms/tinytp
 - /terms/transceiver
