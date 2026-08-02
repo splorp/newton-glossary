@@ -8,7 +8,7 @@ Date: 18 December 2001
 
 Text:
 
-An (link: /terms/application text: application) developed by (link: /sources/stand-alone text: Stand Alone) described as a _“Complete Contact Management Solution”_. DateMan works in conjunction with the built-in (link: /terms/name-file text: Name File) and (link: /terms/date-book text: Date Book) applications to give the user an streamlined view of their entire agenda.
+An (link: /terms/application text: application) developed by (link: /sources/stand-alone text: Stand Alone) described as a “Complete Contact Management Solution”. DateMan works in conjunction with the built-in (link: /terms/name-file text: Name File) and (link: /terms/date-book text: Date Book) applications to give the user an streamlined view of their entire agenda.
 
 Also referred to as (link: /terms/dm text: DM).
 

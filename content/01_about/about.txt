@@ -12,7 +12,7 @@ Description: How this whole thing works, plus a little bit of history surroundin
 
 Text:
 
-> _“Having just published [a book about pocket calculators](https://shadycharacters.co.uk/books/empire-of-the-sum/), and having just written [a book on emoji](https://shadycharacters.co.uk/books/face-with-tears-of-joy/) that grazed the subject of early PDAs, this is the resource I never knew I needed. Amazing work!”_
+> “Having just published [a book about pocket calculators](https://shadycharacters.co.uk/books/empire-of-the-sum/), and having just written [a book on emoji](https://shadycharacters.co.uk/books/face-with-tears-of-joy/) that grazed the subject of early PDAs, this is the resource I never knew I needed. Amazing work!”
 >
 > — [Keith Houston](https://shadycharacters.co.uk/) via [Mastodon](https://mstdn.social/@orkneydullard/112542387405411226)
 

@@ -14,7 +14,7 @@ NewtonQuake consisted of a (link: /terms/package text: package) file that suppos
 
 In reality, the NewtonQuake package was nothing more than a large file containing mostly random blocks of characters and could not actually be installed successfully on a Newton device.
 
-If the NewtonQuake package is opened in a text editor, two clear phrases appear within the file itself … _“Newton Quake by Ravenous and KrystalMeph”_ and _“April Fools!”_
+If the NewtonQuake package is opened in a text editor, two clear phrases appear within the file itself … “Newton Quake by Ravenous and KrystalMeph” and “April Fools!”
 
 Also referred to as (link: /terms/newtquake text: NewtQuake).
 

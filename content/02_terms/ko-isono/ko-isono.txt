@@ -12,7 +12,7 @@ A software engineer at [Apple](https://www.apple.com/) who worked on portions of
 
 A few weeks before the first scheduled demonstration of the Newton at the 1993 Consumer Electronics Show in Las Vegas, Isono died of a self-inflicted gunshot wound.
 
-In Newton OS 1.0, an (link: /terms/easter-egg text: easter egg) known as (link: /terms/about-newton text: About Newton) displays the names of members of the Newton development team followed by the message _“In Memory of Ko Isono”_.
+In Newton OS 1.0, an (link: /terms/easter-egg text: easter egg) known as (link: /terms/about-newton text: About Newton) displays the names of members of the Newton development team followed by the message “In Memory of Ko Isono”.
 
 The tribute was removed in later versions of the (link: /terms/operating-system text: operating system).
 
