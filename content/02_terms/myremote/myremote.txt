@@ -36,4 +36,4 @@ Related:
 Source:
 
 - /sources/sign-of-the-times
-- /sources/saarofax
+- /sources/sarofax
