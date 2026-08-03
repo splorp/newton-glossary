@@ -8,7 +8,7 @@ Date: 18 June 2026
 
 Text:
 
-The user manual for (link: /terms/availworks text: AvailWorks), an integrated, multifunction (link: /terms/application text: application) for Newton devices developed by Avail Technology and (link: /sources/pelicanware text: PelicanWare).
+The manual for (link: /terms/availworks text: AvailWorks), an integrated, multifunction (link: /terms/application text: application) for Newton devices developed by Avail Technology and (link: /sources/pelicanware text: PelicanWare).
 
 ----
 

@@ -8,7 +8,7 @@ Date: 26 April 2026
 
 Text:
 
-The user manual for (link: /terms/dateman text: DateMan), a contact management application developed by (link: /sources/stand-alone text: Stand Alone).
+The manual for (link: /terms/dateman text: DateMan), a contact management application developed by (link: /sources/stand-alone text: Stand Alone).
 
 ----
 
