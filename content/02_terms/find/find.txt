@@ -29,6 +29,7 @@ Related:
 - /terms/search-engine
 - /terms/tools-button
 - /terms/tools-picker
+- /terms/streak
 
 ----
 

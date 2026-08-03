@@ -1,0 +1,36 @@
+Title: Streak
+
+----
+
+Date: 02 August 2026
+
+----
+
+Text:
+
+A search and replace utility developed by (link: /sources/sign-of-the-times text: Sign of the Times).
+
+(image: /assets/images/streak-2x.gif alt: Screenshot of the Streak floating palette width: 236)
+
+A unique feature of Streak is the ability to “grab” text using the “=” (link: /terms/button text: button) located next to the “Search” and “Replace” (link: /terms/field text: fields) in the window. The word which is currently (link: /terms/highlight text: highlighted) or has the (link: /terms/caret text: caret) inserted will be copied to the associated field.
+
+----
+
+Resource:
+
+- [Sign of the Times: Streak](https://web.archive.org/web/19970625073205/http://www.sineware.com/products/Streak/)
+
+----
+
+Related:
+
+- /terms/find
+- /terms/find-slip
+- /terms/sineware
+
+----
+
+Source:
+
+- /sources/sign-of-the-times
+- /sources/sarofax

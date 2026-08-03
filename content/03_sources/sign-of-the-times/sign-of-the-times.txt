@@ -10,7 +10,7 @@ Text:
 
 A company formed in 1995 by Ashish Mishra and Mike Jacobsen to develop “innovative software titles for sophisticated computers”, including the (link: /terms/newton-os text: Newton OS) platform.
 
-Best known for (link: /terms/showmate text: ShowMate) and (link: /terms/myremote text: MyRemote), their customizable (link: /terms/infrared text: infrared) remote control system, the company also developed other productivity software including BluePrint, CardMedia, Streak, and PowerSet.
+Best known for (link: /terms/showmate text: ShowMate) and (link: /terms/myremote text: MyRemote), their customizable (link: /terms/infrared text: infrared) remote control system, the company also developed other productivity software including BluePrint, CardMedia, (link: /terms/streak text: Streak), and PowerSet.
 
 In 1999, (link: /sources/sarofax text: Sarofax) (another company founded by Mishra) acquired the Sine of the Times software product line, releasing it as “charityware”. In 2004, the software was released as open source.
 

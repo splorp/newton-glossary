@@ -26,6 +26,7 @@ Related:
 - /terms/find-button
 - /terms/finder
 - /terms/slip
+- /terms/streak
 - /terms/user-interface
 - /terms/view
 
