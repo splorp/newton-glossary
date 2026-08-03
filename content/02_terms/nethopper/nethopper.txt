@@ -33,7 +33,6 @@ Related:
 - /terms/courier
 - /terms/http
 - /terms/lunasuite
-- /terms/newton-internet-enabler
 - /terms/newts-cape
 - /terms/newtwap
 - /terms/pocketweb

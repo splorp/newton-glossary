@@ -34,7 +34,6 @@ Related:
 - /terms/mime
 - /terms/nethopper
 - /terms/newtftp
-- /terms/newton-internet-enabler
 - /terms/newtonmail
 - /terms/newts-cape
 - /terms/newtwap

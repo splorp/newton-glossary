@@ -33,7 +33,6 @@ Related:
 - /terms/http
 - /terms/lunasuite
 - /terms/nethopper
-- /terms/newton-internet-enabler
 - /terms/newtonwww
 - /terms/newts-cape
 - /terms/newtwap

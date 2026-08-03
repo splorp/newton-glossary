@@ -29,7 +29,6 @@ Related:
 - /terms/lunasuite
 - /terms/nethopper
 - /terms/newton-book
-- /terms/newton-internet-enabler
 - /terms/newtonscript
 - /terms/newtwap
 - /terms/pocketweb
