@@ -1,0 +1,17 @@
+Title: TheNet:Plus User Guide
+
+----
+
+Date: 03 August 2026
+
+----
+
+Text:
+
+The manual supplied with (link: /terms/thenet-plus text: TheNet:Plus), electronic messaging software for (link: /terms/newton-os text: Newton OS) developed by [Netstrategy Software](https://web.archive.org/web/19971016194456/http://www.netstrat.com/).
+
+----
+
+Resource:
+
+- [Newted: TheNet:Plus User Guide](https://www.newted.org/download/manuals/TheNetPlusUserGuide.pdf)

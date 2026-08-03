@@ -1,0 +1,38 @@
+Title: TheNet:Plus
+
+----
+
+Date: 03 August 2026
+
+----
+
+Text:
+
+A messaging (link: /terms/application text: application) developed by [Netstrategy Software](https://web.archive.org/web/19971016194456/http://www.netstrat.com/) that allowed a Newton device to access various electronic mail services, including [X.400](https://en.wikipedia.org/wiki/X.400) gateways and [TheNet:Mail](https://web.archive.org/web/19970511002122/http://www2.worldlinx.com/world/mmessage/email.html), a Canadian public email service managed by [WorldLinx Telecommunications](https://web.archive.org/web/19961226203539/http://www.worldlinx.com/).
+
+The software supported wireless messaging using radio (link: /terms/packet text: packet) or cellular (link: /terms/modem text: modem), as well as sending text messages via fax.
+
+----
+
+Resource:
+
+- [Newted: TheNet:Plus User Guide](https://www.newted.org/download/manuals/TheNetPlusUserGuide.pdf)
+- [WorldLinx Telecommunications: Canada’s Largest Public E-mail Service](https://web.archive.org/web/19970511002122/http://www2.worldlinx.com/world/mmessage/email.html)
+- [National Capital FreeNet: E-Connections](https://www.ncf.ca/ncf/freeport2html/conferences/com-net94/conference_papers/e_connections.txt.html)
+
+----
+
+Related:
+
+- /terms/aloha
+- /terms/enroute-inet
+- /terms/lunasuite
+- /terms/mail-v
+- /terms/newtonmail
+- /terms/simplemail
+
+----
+
+Source:
+
+- /sources/thenet-plus
