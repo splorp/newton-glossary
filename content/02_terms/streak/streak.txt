@@ -2,7 +2,7 @@ Title: Streak
 
 ----
 
-Date: 02 August 2026
+Date: 03 August 2026
 
 ----
 
@@ -10,7 +10,7 @@ Text:
 
 A search and replace utility developed by (link: /sources/sign-of-the-times text: Sign of the Times).
 
-(image: /assets/images/streak-2x.gif alt: Screenshot of the Streak floating palette width: 236)
+(image: /assets/images/streak-2x.gif alt: Screenshot of the Streak floating palette width: 180)
 
 A unique feature of Streak is the ability to “grab” text using the “=” (link: /terms/button text: button) located next to the “Search” and “Replace” (link: /terms/field text: fields) in the window. The word which is currently (link: /terms/highlight text: highlighted) or has the (link: /terms/caret text: caret) inserted will be copied to the associated field.
 
