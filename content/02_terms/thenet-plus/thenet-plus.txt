@@ -8,7 +8,7 @@ Date: 03 August 2026
 
 Text:
 
-A messaging (link: /terms/application text: application) developed by [Netstrategy Software](https://web.archive.org/web/19971016194456/http://www.netstrat.com/) that allowed a Newton device to access various electronic mail services, including [X.400](https://en.wikipedia.org/wiki/X.400) gateways and [TheNet:Mail](https://web.archive.org/web/19970511002122/http://www2.worldlinx.com/world/mmessage/email.html), a Canadian public email service managed by [WorldLinx Telecommunications](https://web.archive.org/web/19961226203539/http://www.worldlinx.com/).
+A messaging (link: /terms/application text: application) developed by [Netstrategy Software](https://web.archive.org/web/19971016194456/http://www.netstrat.com/) that allowed a Newton device to access various electronic mail services, including [X.400](https://en.wikipedia.org/wiki/X.400) gateways and [TheNet:Mail](https://web.archive.org/web/19970511002122/http://www2.worldlinx.com/world/mmessage/email.html), a defunct Canadian public email service operated by [WorldLinx Telecommunications](https://web.archive.org/web/19961226203539/http://www.worldlinx.com/).
 
 The software supported wireless messaging using radio (link: /terms/packet text: packet) or cellular (link: /terms/modem text: modem), as well as sending text messages via fax.
 
