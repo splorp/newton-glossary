@@ -10,6 +10,8 @@ Text:
 
 A forum for Newton users who were members of NiftyServe, the largest online service provider in Japan. The forum folded in March 2002.
 
+(image: /assets/images/fnewton-2x.gif alt: FNEWTON logo width: 176)
+
 ----
 
 Resource:
