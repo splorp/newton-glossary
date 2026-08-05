@@ -1,0 +1,29 @@
+Title: NarcFish
+
+----
+
+Date: 04 August 2026
+
+----
+
+Text:
+
+An alternate name for [Narc Fish Newton Software](https://web.archive.org/web/20040313113613/http://www.narcosislabs.org/newton/index.php?page=Narc+Fish+Newton+Software), a software development venture instigated by (link: /sources/jim-anderson text: Jim Anderson).
+
+----
+
+Resource:
+
+- [Narc Fish Newton Software Website](https://web.archive.org/web/20031204161619/http://www.narcosislabs.org/newton/)
+	
+----
+
+Related:
+
+- /terms/newtwiki
+
+----
+
+Source:
+
+- /sources/jim-anderson

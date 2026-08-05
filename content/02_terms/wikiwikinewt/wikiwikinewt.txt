@@ -23,6 +23,7 @@ Related:
 
 - /terms/faq
 - /terms/newtledge
+- /terms/newtwiki
 - /terms/unna
 
 ----

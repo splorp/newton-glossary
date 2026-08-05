@@ -1,0 +1,38 @@
+Title: NewtWiki
+
+----
+
+Date: 04 August 2026
+
+----
+
+Text:
+
+An (link: /terms/extension text: extension) for the (link: /terms/notepad text: NotePad) application that operates similar to a single-user [wiki](https://en.wikipedia.org/wiki/Wiki), providing a simple way to link between (link: /terms/note text: notes) stored in the same folder.
+
+----
+
+Resource:
+
+- [Narc Fish Newton Software: NewtWiki](https://web.archive.org/web/20031205004853/http://www.narcosislabs.org/NewtWiki/)
+- [UNNA: NewtWiki 0.2.2](http://www.unna.org/view.php?/utilites/notes_enhancements/NewtWiki0.2.2)
+- [UNNA: NewtWiki 0.3.0](http://www.unna.org/view.php?/utilites/notes_enhancements/NewtWiki0.3)
+- [UNNA: NewtWiki 0.4.0d (Debug)](http://www.unna.org/view.php?/utilites/notes_enhancements/NewtWiki0.4d)
+- [UNNA: NewtWiki 0.5.1](http://www.unna.org/view.php?/utilites/notes_enhancements/NewtWiki0.5.1)
+	
+----
+
+Related:
+
+- /terms/hypernewt
+- /terms/narcfish
+- /terms/note
+- /terms/notelinker
+- /terms/notepad
+- /terms/wikiwikinewt
+
+----
+
+Source:
+
+- /sources/jim-anderson

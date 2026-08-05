@@ -21,6 +21,7 @@ Resource:
 Related:
 
 - /terms/hypernewt
+- /terms/newtwiki
 - /terms/note
 - /terms/notepad
 
