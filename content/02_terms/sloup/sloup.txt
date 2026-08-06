@@ -24,6 +24,9 @@ Related:
 
 - /terms/accordian
 - /terms/bee-one
+- /terms/dump
+- /terms/dumped
+- /terms/dumping
 - /terms/newtdump
 - /terms/newton-data-viewer
 - /terms/notable
@@ -32,6 +35,7 @@ Related:
 - /terms/revelar-connection-utility
 - /terms/slurpee
 - /terms/soup
+- /terms/sup
 - /terms/winslurp
 
 ----

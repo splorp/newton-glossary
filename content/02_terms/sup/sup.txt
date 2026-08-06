@@ -1,0 +1,35 @@
+Title: sup
+
+----
+
+Date: 06 August 2026
+
+----
+
+Text:
+
+A utility developed by (link: /sources/jim-anderson text: Jim Anderson) for Windows and Linux (link: /terms/operating-system text: operating systems) that can generate a Newton (link: /terms/package text: package) from (link: /terms/soup text: soup) data exported using Steve Weyer’s (link: /terms/sloup text: Sloup) utility.
+
+----
+
+Resource:
+
+- [Narc Fish Newton Software: sup](https://web.archive.org/web/20030419202230/http://www.narcosislabs.org/newton/index.php?page=sup)
+
+----
+
+Related:
+
+- /terms/dump
+- /terms/dumped
+- /terms/dumping
+- /terms/package
+- /terms/package-file
+- /terms/sloup
+- /terms/soup
+
+----
+
+Source:
+
+- /sources/jim-anderson

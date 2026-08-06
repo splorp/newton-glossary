@@ -1,0 +1,37 @@
+Title: Dumped
+
+----
+
+Date: 06 August 2026
+
+----
+
+Text:
+
+A colloquial term describing (link: /terms/text text: text) or data that has been exported from a Newton device.
+
+For example, a (link: /terms/soup text: soup) that has been exported to a (link: /terms/text text: text) file using Steve Weyer’s (link: /terms/sloup text: Sloup) utility by executing the `DUMP!` command is referred to as dumped.
+
+----
+
+Resource:
+
+- [CommuniCrossings: Sloup](https://communicrossings.com/html/newton/sloup.htm)
+- [CommuniCrossings: Sloup File Formats: DUMP!](https://communicrossings.com/html/newton/sloup/slrpfmts.htm#DUMP!)
+
+----
+
+Related:
+
+- /terms/dump
+- /terms/dumping
+- /terms/newtdump
+- /terms/soup
+- /terms/sloup
+- /terms/sup
+
+----
+
+Source:
+
+- /sources/steve-weyer

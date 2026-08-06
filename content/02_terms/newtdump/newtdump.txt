@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A Windows-based (link: /terms/application text: application) developed by (link: /sources/victor-rehorst text: Victor Rehorst) that extracts data from (link: /terms/inout-box text: InOut Box) messages and (link: /terms/notes text: Notepad) entries, exporting them as plain text.
+A Windows-based (link: /terms/application text: application) developed by (link: /sources/victor-rehorst text: Victor Rehorst) that works with Steve Weyer’s (link: /terms/sloup text: Sloup) utility to export (or (link: /terms/dump text: dump)) data from a Newton device.
 
 NewtDump supports exporting (link: /terms/inout-box text: InOut Box) messages and (link: /terms/notes text: Notepad) entries as (link: /terms/text text: text), (link: /terms/name-file text: Name File) items as text and (link: /terms/vcard text: vCard), as well as (link: /terms/date-book text: Date Book) events.
 
@@ -23,6 +23,9 @@ Resource:
 
 Related:
 
+- /terms/dump
+- /terms/dumped
+- /terms/dumping
 - /terms/sloup
 - /terms/vcard
 

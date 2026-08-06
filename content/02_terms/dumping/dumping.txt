@@ -1,0 +1,37 @@
+Title: Dumping
+
+----
+
+Date: 06 August 2026
+
+----
+
+Text:
+
+A colloquial term describing the process of exporting (link: /terms/text text: text) or data from a Newton device.
+
+For example, exporting a (link: /terms/soup text: soup) using Steve Weyer’s (link: /terms/sloup text: Sloup) utility by executing the `DUMP!` command is referred to as dumping.
+
+----
+
+Resource:
+
+- [CommuniCrossings: Sloup](https://communicrossings.com/html/newton/sloup.htm)
+- [CommuniCrossings: Sloup File Formats: DUMP!](https://communicrossings.com/html/newton/sloup/slrpfmts.htm#DUMP!)
+
+----
+
+Related:
+
+- /terms/dump
+- /terms/dumped
+- /terms/newtdump
+- /terms/soup
+- /terms/sloup
+- /terms/sup
+
+----
+
+Source:
+
+- /sources/steve-weyer

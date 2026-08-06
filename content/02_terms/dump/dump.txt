@@ -1,0 +1,39 @@
+Title: Dump
+
+----
+
+Date: 06 August 2026
+
+----
+
+Text:
+
+To export text or data from a Newton device.
+
+`DUMP!` is also command that instructs Steve Weyer’s (link: /terms/sloup text: Sloup) utility to export (link: /terms/text text: text) or data from a specified (link: /terms/soup text: soup) to a file located on a host computer.
+
+The process of exporting data using the `DUMP!` command is referred to as (link: /terms/dumping text: dumping).
+
+----
+
+Resource:
+
+- [CommuniCrossings: Sloup](https://communicrossings.com/html/newton/sloup.htm)
+- [CommuniCrossings: Sloup File Formats: DUMP!](https://communicrossings.com/html/newton/sloup/slrpfmts.htm#DUMP!)
+
+----
+
+Related:
+
+- /terms/dumped
+- /terms/dumping
+- /terms/newtdump
+- /terms/soup
+- /terms/sloup
+- /terms/sup
+
+----
+
+Source:
+
+- /sources/steve-weyer

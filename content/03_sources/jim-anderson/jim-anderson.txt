@@ -8,7 +8,7 @@ Date: 06 August 2026
 
 Text:
 
-Also known by the pseudonym J.B. Hemlock, Anderson was the proprietor of [Narc Fish Newton Software](https://web.archive.org/web/20040313113613/http://www.narcosislabs.org/newton/index.php?page=Narc+Fish+Newton+Software) (also referred to as simply (link: /terms/narcfish text: NarcFish)) and a developer of several utilities for (link: /terms/newton-os text: Newton OS), including (link: /terms/newtwiki text: NewtWiki).
+Also known by the pseudonym J.B. Hemlock, Anderson was the proprietor of [Narc Fish Newton Software](https://web.archive.org/web/20040313113613/http://www.narcosislabs.org/newton/index.php?page=Narc+Fish+Newton+Software) (also referred to as (link: /terms/narcfish text: NarcFish)) and a developer of several application and utilities, including (link: /terms/newtwiki text: NewtWiki), (link: /terms/newton-mirror text: Newton Mirror), and (link: /terms/sup text: sup).
 
 ----
 

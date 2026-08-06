@@ -55,6 +55,7 @@ Related:
 - /terms/soupkitchen
 - /terms/store
 - /terms/store-part
+- /terms/sup
 - /terms/tag
 - /terms/translation-engine
 - /terms/unflatten
