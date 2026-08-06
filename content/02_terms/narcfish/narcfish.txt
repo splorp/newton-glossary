@@ -20,6 +20,7 @@ Resource:
 
 Related:
 
+- /terms/newton-mirror
 - /terms/newtwiki
 
 ----

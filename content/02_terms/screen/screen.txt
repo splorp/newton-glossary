@@ -18,6 +18,7 @@ Related:
 - /terms/display-area
 - /terms/edc
 - /terms/liquid-crystal-display
+- /terms/newton-mirror
 - /terms/non-display-area
 - /terms/landscape-mode
 - /terms/orientation

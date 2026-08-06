@@ -1,0 +1,37 @@
+Title: Newton Mirror
+
+----
+
+Date: 06 August 2026
+
+----
+
+Text:
+
+A (link: /terms/newton-os text: Newton OS) version of the infamous Palm Mirror (link: /terms/application text: application) developed by [Bill Westerman](https://utilware.com/) for Palm OS. Like the original, (link: /sources/jim-anderson text: Jim Anderson)’s Newton Mirror changes the (link: /terms/screen text: screen) into a reflective black surface, effectively turning a Newton device into a handheld mirror.
+
+Also referred to as (link: /terms/newtmirror text: NewtMirror).
+
+----
+
+Resource:
+
+- [Narc Fish Newton Software: Newton Mirror](https://web.archive.org/web/20030419202930/http://www.narcosislabs.org/newton/index.php?page=Newton+Mirror)
+- [UNNA: Newton Mirror](http://www.unna.org/view.php?/applications/NewtMirror)
+- [Utilware: The original Palm Mirror.](https://utilware.com/technolush/palm+mirror)
+	
+----
+
+Related:
+
+- /terms/display-area
+- /terms/narcfish
+- /terms/newtmirror
+- /terms/screen
+- /terms/transflective
+
+----
+
+Source:
+
+- /sources/jim-anderson
