@@ -48,6 +48,7 @@ Related:
 - /terms/ragout
 - /terms/reference
 - /terms/slot
+- /terms/sloup
 - /terms/soup-icon
 - /terms/soup-mover
 - /terms/soupervisor-mechanism

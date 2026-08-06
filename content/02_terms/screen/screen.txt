@@ -17,10 +17,10 @@ Related:
 - /terms/display
 - /terms/display-area
 - /terms/edc
+- /terms/landscape-mode
 - /terms/liquid-crystal-display
 - /terms/newton-mirror
 - /terms/non-display-area
-- /terms/landscape-mode
 - /terms/orientation
 - /terms/pixel
 - /terms/portrait-mode
@@ -28,6 +28,7 @@ Related:
 - /terms/screen-protector
 - /terms/the-barrier
 - /terms/touch-screen
+- /terms/transflective
 
 ----
 

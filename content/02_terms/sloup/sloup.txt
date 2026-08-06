@@ -24,6 +24,7 @@ Related:
 
 - /terms/accordian
 - /terms/bee-one
+- /terms/newtdump
 - /terms/newton-data-viewer
 - /terms/notable
 - /terms/palmedia-image-transfer
