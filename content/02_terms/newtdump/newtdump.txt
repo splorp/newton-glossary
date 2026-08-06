@@ -10,11 +10,24 @@ Text:
 
 A Windows-based (link: /terms/application text: application) developed by (link: /sources/victor-rehorst text: Victor Rehorst) that extracts data from (link: /terms/inout-box text: InOut Box) messages and (link: /terms/notes text: Notepad) entries, exporting them as plain text.
 
+NewtDump supports exporting (link: /terms/inout-box text: InOut Box) messages and (link: /terms/notes text: Notepad) entries as (link: /terms/text text: text), (link: /terms/name-file text: Name File) items as text and (link: /terms/vcard text: vCard), as well as (link: /terms/date-book text: Date Book) events.
+
+----
+
+Resource:
+
+- [Chuma: NewtDump](http://old.chuma.org/newton/newtdump/)
+- [UNNA: NewtDump](http://www.unna.org/unna/windows/newtdump-v0.1b97-install.zip)
+
 ----
 
 Related:
 
-- /terms/in-box
-- /terms/inout-box
-- /terms/notepad
-- /terms/out-box
+- /terms/sloup
+- /terms/vcard
+
+----
+
+Source:
+
+- /sources/victor-rehorst
