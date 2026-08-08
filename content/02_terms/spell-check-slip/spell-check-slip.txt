@@ -8,7 +8,7 @@ Date: 22 June 2026
 
 Text:
 
-A (link: /terms/slip text: slip) that lets the user identify and replace misspelled words in a (link: /terms/newton-works text: Newton Works) document are spelled correctly.
+A (link: /terms/slip text: slip) that allows the user to identify and replace misspelled words in a (link: /terms/newton-works text: Newton Works) document are spelled correctly.
 
 (image: /assets/images/spell-check-2x.gif alt: Screenshot of the Spell Check slip in Newton Works width: 261)
 
