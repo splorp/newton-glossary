@@ -5,7 +5,7 @@
 
 <section>
 	<article>
-		<h2><?php echo html($page->title()) ?></h2>
+		<?php if ($page->isChildOf($pages->find('terms')) || $page->isChildOf($pages->find('sources'))) { echo '<h2 title="Added: ' . $page->date('d F Y') . '">'; } else { echo '<h2>'; } ; echo html($page->title()) ?></h2>
 		<?php echo $page->text()->kirbytext() ?>
 
 		<?php $page->isChildOf($pages->find('terms')) || $page->isChildOf($pages->find('sources')) ? '' : snippet('submenu'); ?>
