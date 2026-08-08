@@ -10,9 +10,11 @@ Text:
 
 A set of keys used to input (link: /terms/character text: characters) into a computer.
 
-(link: /terms/newton-os text: Newton OS) supports multiple onscreen keyboards for entering different types of data. Selecting a keyboard is accomplished by (link: /terms/tapping text: tapping) the (link: /terms/keyboard-button text: keyboard button).
+(link: /terms/newton-os text: Newton OS) supports multiple onscreen keyboards for entering different types of data. Selecting a keyboard is accomplished by (link: /terms/tapping text: tapping) the (link: /terms/keyboard-button text: keyboard button) located in some (link: /terms/application text: applications).
 
-The (link: /terms/emate-300 text: eMate 300) also has a physical keyboard built into its case.
+The (link: /terms/emate-300 text: eMate 300) has a physical keyboard built into its case.
+
+Keyboard is also a utility developed by (link: /sources/jim-anderson text: Jim Anderson) that opens the onscreen keyboard from the (link: /terms/extras-drawer text: Extras Drawer).
 
 ----
 
