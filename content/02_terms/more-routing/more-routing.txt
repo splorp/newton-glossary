@@ -8,9 +8,9 @@ Date: 30 January 2025
 
 Text:
 
-An (link: /terms/extension text: extension) developed by (link: /sources/jeremy-wyld text: Jeremy Wyld) that inserts additional items into an (link: /terms/action picker text: action picker).
+An (link: /terms/extension text: extension) developed by (link: /sources/jeremy-wyld text: Jeremy Wyld) that inserts additional items into an (link: /terms/action-picker text: action picker).
 
-(image: /assets/images/cliphoard-2x.gif alt: Screenshot of the Cliphoard preference slip width: 240)
+(image: /assets/images/more-routing-2x.gif alt: Screenshot of the Routing Picker with IOBox and Styles items added by More Routing width: 144)
 
 Using (link: /terms/newton-toolkit text: Newton Toolkit), the list of (link: /terms/routing text: routing) items shown in the (link: /terms/picker text: picker) can be modified by generating a new (link: /terms/compiled text: compiled) extension.
 
