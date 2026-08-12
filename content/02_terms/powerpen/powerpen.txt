@@ -1,0 +1,39 @@
+Title: powerPen
+
+----
+
+Date: 11 August 2026
+
+----
+
+Text:
+
+A student-run organization at [Washington State University](https://wsu.edu/) that developed software for the (link: /terms/newton-os text: Newton OS) platform.
+
+Originally a computer engineering course called “Team-Oriented Software Practicum”, it supplemented traditional course-based fundamentals with an ongoing practical curriculum modelled after the activities of a software company.
+
+Instigated by faculty advisor (link: /sources/jeffrey-schlimmer text: Jeffrey C. Schlimmer) in 1994, the group was dissolved in 1997 after Schlimmer’s departure from the school.
+
+Software released by powerPen included (link: /terms/quickport text: QuickPort), flashCard, hangMan, powerNotes, and powerBack.
+
+----
+
+Resource:
+
+- [Washington State University: powerPen Dissolving](https://web.archive.org/web/19970412000321/http://hornet.eecs.wsu.edu/)
+- [IEEE Transactions on Education: Team-oriented software practicum](https://ieeexplore.ieee.org/document/284997)
+- [Pen-Based Computing: Team-Oriented Software Practicum](https://www.penbasedcomputing.com/journal/team-oriented-software-practicum-at-washington-state-university/)
+- [Newton Technology Journal: Practicum/powerPen](https://www.newted.org/download/manuals/NTJ_2_04.pdf)
+- [UNNA: powerPen FTP Mirror](http://mirrors.unna.org/ftp.eecs.wsu.edu/pub/newton/)
+
+----
+
+Related:
+
+- /terms/quickport
+
+----
+
+Source:
+
+- /sources/jeffrey-schlimmer

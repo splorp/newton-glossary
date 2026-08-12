@@ -1,0 +1,35 @@
+Title: QuickPort
+
+----
+
+Date: 11 August 2026
+
+----
+
+Text:
+
+An (link: /terms/extension text: extension) developed by (link: /terms/powerpen text: powerPen) that provides a global (link: /terms/transport text: transport) for (link: /terms/routing text: routing) text to a terminal (link: /terms/application text: application) on another computer.
+
+(image: /assets/images/quickport-2x.gif alt: Screenshot of the QuickPort Preferences slip width: 216)
+
+----
+
+Resource:
+
+- [UNNA: QuickPort 1.1](http://mirrors.unna.org/ftp.newted.org/Utilities/QuickPort%201.1/)
+- [PBK Solutions: QuickPort Client](https://web.archive.org/web/20041109091344/http://newton.pbk-solutions.de/software/quickport/quickport.htm) (German)
+
+----
+
+Related:
+
+- /terms/more-routing
+- /terms/powerpen
+- /terms/routing
+- /terms/toss
+
+----
+
+Source:
+
+- /sources/jeffrey-schlimmer
