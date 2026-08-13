@@ -8,7 +8,7 @@ Date: 26 August 2025
 
 Text:
 
-A small (link: /terms/icon text: icon) located on a (link: /terms/ruler text: ruler) that indicates the type and position of a (link: /terms/tab stop text: tab stop).
+A small (link: /terms/icon text: icon) located on a (link: /terms/ruler text: ruler) that indicates the type and position of a (link: /terms/tab-stop text: tab stop).
 
 ----
 
