@@ -8,7 +8,11 @@ Date: 24 May 2001
 
 Text:
 
-A memory (link: /terms/card text: card) using (link: /terms/flash-ram text: flash RAM) chips that can be rewritten and maintain the storage of information when power is removed. Commonly referred to as a (link: /terms/storage-card text: storage card). Not to be confused with a (link: /terms/compactflash text: CompactFlash) (CF) card, which is similar in function but different in size and implementation.
+A memory (link: /terms/card text: card) using (link: /terms/flash-ram text: flash RAM) chips that can be rewritten and maintain the storage of information when power is removed. Commonly referred to as a (link: /terms/storage-card text: storage card).
+
+A (link: /terms/compactflash text: CompactFlash) (CF) card is similar in function, but is different in size and implementation.
+
+Not to be confused with the (link: /terms/flashcard text: Flash Card) application.
 
 ----
 
