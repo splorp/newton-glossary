@@ -14,7 +14,7 @@ Originally a computer engineering course called “Team-Oriented Software Practi
 
 Instigated by faculty advisor (link: /sources/jeffrey-schlimmer text: Jeffrey C. Schlimmer) in 1994, the group was dissolved in 1997 after Schlimmer’s departure from the school.
 
-Software released by powerPen included (link: /terms/quickport text: QuickPort), flashCard, hangMan, powerNotes, and powerBack.
+Software released by powerPen included (link: /terms/quickport text: QuickPort), (link: /terms/flashcard text: FlashCard), hangMan, powerNotes, and powerBack.
 
 ----
 
@@ -30,6 +30,9 @@ Resource:
 
 Related:
 
+- /terms/deck
+- /terms/flashcard
+- /terms/flashcard-transfer-utility
 - /terms/quickport
 
 ----

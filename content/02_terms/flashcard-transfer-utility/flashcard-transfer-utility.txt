@@ -1,0 +1,40 @@
+Title: flashCard Transfer Utility
+
+----
+
+Date: 14 August 2026
+
+----
+
+Text:
+
+An (link: /terms/application text: application) developed by (link: /terms/powerpen text: powerPen) that allows importing and exporting (link: /terms/deck text: decks) containing question and answer data used by (link: /terms/flashcard text: flashCard). The software transfers information from a Newton device over a serial connection to another computer running a terminal emulator.
+
+(image: /assets/images/flashcard-transfer-utility-2x.gif alt: Screenshot of the flashCard Transfer Utility slip width: 216)
+
+Also referred to as (link: /terms/fcx text: FCX), (link: /terms/ftu text: FTU), (link: /terms/fcxfer text: fCXfer), and (link: /terms/fc-transfer-utility text: fC Transfer Utility).
+
+----
+
+Resource:
+
+- [UNNA: flashCard Transfer Utility Guide](http://mirrors.unna.org/ftp.eecs.wsu.edu/pub/newton/FTUGUIDE.TXT)
+- [UNNA: flashCard Transfer Utility 0.3E](http://mirrors.unna.org/ftp.eecs.wsu.edu/pub/newton/english/FTU03E.HQX)
+
+----
+
+Related:
+
+- /terms/deck
+- /terms/fc-transfer-utility
+- /terms/fcx
+- /terms/fcxfer
+- /terms/flashcard
+- /terms/ftu
+- /terms/powerpen
+
+----
+
+Source:
+
+- /sources/jeffrey-schlimmer

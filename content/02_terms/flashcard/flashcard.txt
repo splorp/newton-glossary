@@ -1,0 +1,35 @@
+Title: flashCard
+
+----
+
+Date: 14 August 2026
+
+----
+
+Text:
+
+An (link: /terms/application text: application) developed by (link: /terms/powerpen text: powerPen) as a memorization tool for test preparation in education. Using a simple question and answer format, text-based “(link: /terms/deck text: decks)” could be created on another computer and imported to a Newton device using the (link: /terms/flashcard-transfer-utility text: flashCard Transfer Utility). flashCard decks created on a Newton device could also be exported to a computer for editing, archiving, or distributing to other users.
+
+Also referred to as (link: /terms/fc text: fC).
+
+----
+
+Resource:
+
+- [UNNA: flashCard 1.3e](http://www.unna.org/view.php?/applications/FlashCard1.3e)
+- [UNNA: flashCard 2.0 Beta](http://www.unna.org/view.php?/applications/FlashCard2.0b)
+
+----
+
+Related:
+
+- /terms/deck
+- /terms/fc
+- /terms/flashcard-transfer-utility
+- /terms/powerpen
+
+----
+
+Source:
+
+- /sources/jeffrey-schlimmer
