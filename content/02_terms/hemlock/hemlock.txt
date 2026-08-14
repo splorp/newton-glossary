@@ -12,7 +12,7 @@ An internet search tool for (link: /terms/newton-os text: Newton OS) developed b
 
 The name is in reference to the Sesame Street character, [Sherlock Hemlock](https://muppet.fandom.com/wiki/Sherlock_Hemlock).
 
-(image: /assets/images/hemlock-search-2x.gif alt: Screenshot of the Hemlock search window width: 434)
+(image: /assets/images/hemlock-search-2x.gif alt: Screenshot of the Hemlock search slip width: 434)
 
 ----
 

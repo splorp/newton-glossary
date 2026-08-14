@@ -10,7 +10,7 @@ Text:
 
 An (link: /terms/application text: application) developed by (link: /sources/innovative-computer-solutions text: Innovative Computer Solutions) that allows the user to assign (link: /terms/action text: actions) to various (link: /terms/gesture text: gestures). Actions can include launching (link: /terms/package text: packages) and (link: /terms/newtcase text: NewtCase) archives. GestureLaunch can also execute small (link: /terms/newtonscript text: NewtonScript) programs created the accompanying (link: /terms/gesturescript text: GestureScript) utility.
 
-(image: /assets/images/gesturelaunch-2x.gif alt: Screenshot of the GestureLaunch 3.0 configuration window width: 316)
+(image: /assets/images/gesturelaunch-2x.gif alt: Screenshot of the GestureLaunch 3.0 configuration slip width: 316)
 
 ----
 
