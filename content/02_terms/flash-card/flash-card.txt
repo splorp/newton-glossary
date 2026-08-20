@@ -12,7 +12,7 @@ A memory (link: /terms/card text: card) using (link: /terms/flash-ram text: flas
 
 A (link: /terms/compactflash text: CompactFlash) (CF) card is similar in function, but is different in size and implementation.
 
-Not to be confused with the (link: /terms/flashcard text: Flash Card) application.
+Not to be confused with the (link: /terms/flashcard text: FlashCard) application.
 
 ----
 
