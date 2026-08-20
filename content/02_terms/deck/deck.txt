@@ -8,14 +8,14 @@ Date: 12 August 2026
 
 Text:
 
-A set of questions and answers used by (link: /terms/flashcard text: FlashCard). A deck can be created on a Newton device within the FlashCard (link: /terms/application text: application) or on another computer in the form of a lightly formatted (link: /terms/text text: text) file. A deck can be imported into FlashCard using the (link: /terms/flashcard-transfer-utility text: FlashCard Transfer Utility).
+A set of questions and answers used by (link: /terms/flashcard text: flashCard). A deck can be created on a Newton device within the flashCard (link: /terms/application text: application) or on another computer in the form of a lightly formatted (link: /terms/text text: text) file. A deck can be imported into flashCard using the (link: /terms/flashcard-transfer-utility text: flashCard Transfer Utility).
 
 ----
 
 Resource:
 
-- [UNNA: FlashCard 1.3e](http://www.unna.org/view.php?/applications/FlashCard1.3e)
-- [UNNA: FlashCard 2.0 Beta](http://www.unna.org/view.php?/applications/FlashCard2.0b)
+- [UNNA: flashCard 1.3e](http://www.unna.org/view.php?/applications/FlashCard1.3e)
+- [UNNA: flashCard 2.0 Beta](http://www.unna.org/view.php?/applications/FlashCard2.0b)
 
 ----
 
