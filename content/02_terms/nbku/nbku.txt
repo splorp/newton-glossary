@@ -18,6 +18,7 @@ Related:
 - /terms/backup-file
 - /terms/filename-extension
 - /terms/nbk
+- /terms/newton-backup-inspector
 - /terms/newton-connection
 - /terms/restore
 

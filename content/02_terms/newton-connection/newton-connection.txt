@@ -39,6 +39,7 @@ Related:
 - /terms/ncx
 - /terms/newten
 - /terms/newton-backup-express
+- /terms/newton-backup-inspector
 - /terms/newton-backup-utility
 - /terms/newton-connection-kit
 - /terms/newton-connection-pro-kit

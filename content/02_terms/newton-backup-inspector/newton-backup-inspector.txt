@@ -1,0 +1,35 @@
+Title: Newton Backup Inspector
+
+----
+
+Date: 20 August 2026
+
+----
+
+Text:
+
+A Mac OS utility developed by (link: /sources/simon-bell text: Simon Bell) for examining and exporting data from a (link: /terms/backup-file text: backup file) created by (link: /terms/newton-connection text: Newton Connection) (NCX) application.
+
+Also referred to as (link: /terms/nbi text: NBI).
+
+----
+
+Resource:
+
+- [GitHub: Newton Backup Inspector](https://github.com/newtonresearch/newton-backup-inspector)
+
+----
+
+Related:
+
+- /terms/backup
+- /terms/backup-file
+- /terms/nbi
+- /terms/nbku
+- /terms/newton-connection
+
+----
+
+Source:
+
+- /sources/simon-bell
