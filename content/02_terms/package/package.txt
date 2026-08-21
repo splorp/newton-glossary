@@ -22,6 +22,7 @@ Related:
 - /terms/freeze
 - /terms/frozen-package
 - /terms/newtfmt
+- /terms/newton-package-inspector
 - /terms/newtonpkg
 - /terms/package-file
 - /terms/package-installer

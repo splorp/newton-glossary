@@ -1,0 +1,36 @@
+Title: Newton Package Inspector
+
+----
+
+Date: 21 August 2026
+
+----
+
+Text:
+
+A Mac OS utility developed by (link: /sources/simon-bell text: Simon Bell) for viewing (or inspecting) information about a (link: /terms/package-file text: package file), similar to a “Get Info” window on Mac OS.
+
+The utility can also export a (link: /terms/text text: text) file containing information about the (link: /terms/package text: package) and a representation of (link: /terms/NewtonScript text: NewtonScript) objects in the package.
+
+Also referred to as (link: /terms/npi text: NPI).
+
+----
+
+Resource:
+
+- [Newton Research: Newton Package Inspector](https://newtonresearch.org/pkginspector/)
+- [GitHub: Newton Package Inspector](https://github.com/newtonresearch/newton-package-inspector)
+
+----
+
+Related:
+
+- /terms/newtfmt
+- /terms/package
+- /terms/package-file
+
+----
+
+Source:
+
+- /sources/simon-bell

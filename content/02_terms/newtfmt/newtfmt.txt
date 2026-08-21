@@ -25,6 +25,7 @@ Related:
 - /terms/dyne
 - /terms/dynelang
 - /terms/dynesect
+- /terms/newton-package-inspector
 - /terms/package
 - /terms/package-file
 
