@@ -12,7 +12,7 @@ A Mac OS utility developed by (link: /sources/simon-bell text: Simon Bell) for v
 
 (image: /assets/images/newton-package-inspector-2x.gif alt: Screenshot of the Newton Package Inspector window displaying information about the Mail V package width: 280)
 
-The utility can also export a (link: /terms/text text: text) file containing information about the (link: /terms/package text: package), plus a representation of any (link: /terms/NewtonScript text: NewtonScript) objects in the package.
+The utility can also export a (link: /terms/text text: text) file containing information about the (link: /terms/package text: package), plus a representation of any (link: /terms/newtonscript text: NewtonScript) objects in the package.
 
 Also referred to as (link: /terms/npi text: NPI).
 
