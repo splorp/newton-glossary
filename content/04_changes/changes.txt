@@ -18,14 +18,20 @@ Recently added terms and sources are listed in the (link: /latest text: latest a
 
 Incremental changes are listed in the [code commit history](https://github.com/splorp/newton-glossary/commits/master).
 
-### _$r
+### 5.2.3
 
-Terms: _$t
-Sources: _$s
+26 August 2026
+
+Terms: 2,312
+Sources: 251
 
 #### Summary of changes:
 
-+ 
++ Added 32 new terms
++ Added 5 new sources
++ Updated and expanded hundreds of existing entries and related terms
++ Hovering over a term or source heading now displays the date it was added
++ Updated [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) to version [1.50](https://github.com/ai-robots-txt/ai.robots.txt/releases/tag/v1.50)
 
 ### 5.2.2
 
