@@ -16,7 +16,7 @@ Also referred to as (link: /terms/mim text: MIM).
 
 Resource:
 
-- [Apple Support: Newton Data Viewer Not Available](http://web.archive.org/web/20001212141900/http://til.info.apple.com/techinfo.nsf/artnum/n15180)
+- [Apple Support: Newton Data Viewer Not Available](https://web.archive.org/web/20001212141900/http://til.info.apple.com/techinfo.nsf/artnum/n15180)
 
 ----
 
