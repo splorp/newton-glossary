@@ -38,6 +38,7 @@ Related:
 - /terms/notes2notes
 - /terms/outline
 - /terms/paperroll
+- /terms/quickpress
 - /terms/recording
 - /terms/scribble-pad
 - /terms/sound-stationery

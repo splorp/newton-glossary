@@ -1,0 +1,33 @@
+Title: QuickPress
+
+----
+
+Date: 28 August 2026
+
+----
+
+Text:
+
+An (link: /terms/application text: application) developed by (link: /sources/avanti text: Avanti Software) that allows the user to drag and drop (or copy and paste) (link: /terms/text text: text) between a Mac OS or Windows computer and the (link: /terms/notepad text: Notepad) application on a Newton device.
+
+Also referred to as (link: /terms/qp text: QP).
+
+----
+
+Resource:
+
+- [Avanti Software: QuickPress](https://web.archive.org/web/19990210054018/http://www.lectra.se/avanti/quick.htm)
+- [UNNA: QuickPress 1.5 for Windows](http://www.unna.org/view.php?/applications/communications/QuickPress)
+
+----
+
+Related:
+
+- /terms/qp
+- /terms/notepad
+
+----
+
+Source:
+
+- /sources/avanti
