@@ -21,6 +21,7 @@ Related:
 - /terms/nomadic
 - /terms/pen
 - /terms/pen-based-computing
+- /terms/slate
 - /terms/slate-computer
 - /terms/tablet
 - /terms/tablettop

@@ -24,6 +24,7 @@ Related:
 - /terms/prototype
 - /terms/scaldapanini
 - /terms/senior
+- /terms/slate
 - /terms/tablet-computer
 
 ----

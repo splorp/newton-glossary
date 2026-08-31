@@ -1,0 +1,36 @@
+Title: Slate
+
+----
+
+Date: 29 August 2026
+
+----
+
+Text:
+
+A Newton device rumoured to have been in development around the same time as the (link: /terms/MessagePad 150 text: MessagePad 150), the purported sucessor to the (link: /terms/messagepad-120 text: MessagePad 120).
+
+The <a href="https://www.panasonic.com/">Panasonic</a> Slate was to have featured a larger form factor and a “VGA-sized” (link: /terms/display text: display).
+
+A (link: /terms/tablet-computer text: tablet computer) can also be referred to as a slate.
+
+----
+
+Resource:
+
+- [The New York Times: Apple’s Newton Poised for a Rebirth](https://web.archive.org/web/20100129170037/https://www.nytimes.com/1995/09/18/business/apple-s-newton-poised-for-a-rebirth.html)
+- [Drexel University: Pen Computing: Current Systems and Products](https://www.cs.drexel.edu/~salvucci/courses/cs338-s03/BK/Readings/Newton/Currentsystems.html)
+
+----
+
+Related:
+
+- /terms/messageslate
+- /terms/slate-computer
+- /terms/tablet-computer
+
+----
+
+Source:
+
+- /sources/new-york-times
