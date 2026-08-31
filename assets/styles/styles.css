@@ -159,8 +159,8 @@ blockquote p {
 	}
 
 blockquote p:nth-child(2) {
-    text-align: right;
-}
+	text-align: right;
+	}
 
 blockquote {
 	margin-bottom: 30px;

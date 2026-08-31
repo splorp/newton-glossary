@@ -21,7 +21,7 @@ Also known as (link: /terms/d-sub text: D-Sub).
 Resource:
 
 - [Wikipedia: D-subminiature](https://en.wikipedia.org/wiki/D-subminiature)
-- [SparkFun: It's a DE9, Not a DB9. (But We Know What You Mean)](https://news.sparkfun.com/14298)
+- [SparkFun: It’s a DE9, Not a DB9. (But We Know What You Mean)](https://news.sparkfun.com/14298)
 
 ----
 

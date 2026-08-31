@@ -17,7 +17,7 @@ Burrito Beamer was reverse engineered from the original “burrito” PostScript
 Resource:
 
 - [UNNA: Burrito Beamer](http://www.unna.org/view.php?/utilites/beaming/BurritoBeamer)
-- [Steve's Tech Talk: I’m Old, Part XVII: Burritos and Acrobat](https://web.archive.org/web/20210613170039/http://plinth.org/techtalk?p=81)
+- [Steve’s Tech Talk: I’m Old, Part XVII: Burritos and Acrobat](https://web.archive.org/web/20210613170039/http://plinth.org/techtalk?p=81)
 - [Curtis Jackson: Ordering burritos from my SPARC](https://web.archive.org/web/20230203144713/http://www.mit.edu/afs.new/sipb/user/marthag/postscript/burritos)
 
 ----
