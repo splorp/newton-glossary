@@ -1,0 +1,19 @@
+Title: HTR
+
+----
+
+Date: 29 August 2026
+
+----
+
+Text:
+
+Handwritten Text Recognition
+
+See: (link: /terms/handwriting-recognition text: Handwriting Recognition)
+
+----
+
+Source:
+
+- /sources/wikipedia
