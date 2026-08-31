@@ -1,0 +1,21 @@
+Title: Drexel University
+
+----
+
+Date: 31 August 2026
+
+----
+
+Text:
+
+An educational institution based in Philadelphia, Pennsylvania with a focus on global research.
+
+A document covering [concepts the of pen computing](https://www.cs.drexel.edu/~dds26/courses/cs338-s03/BK/Readings/Newton/), including the Newton platform, was at one time required reading for professor Dario Salvucci’s [Graphical User Interfaces](https://www.cs.drexel.edu/~dds26/courses/syllabi/cs338.html) course at the university.
+
+----
+
+Resource:
+
+- [Drexel University Website](https://drexel.edu/)
+- [Drexel University: Dario Salvucci](https://www.cs.drexel.edu/~dds26/)
+- [Drexel University: Pen Computing](https://www.cs.drexel.edu/~dds26/courses/cs338-s03/BK/Readings/Newton/)

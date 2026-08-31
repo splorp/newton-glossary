@@ -10,7 +10,7 @@ Text:
 
 The animation which appears after (link: /terms/delete text: deleting) text or (link: /terms/ink text: ink) drawings by (link: /terms/scrubbing text: scrubbing) with the (link: /terms/pen text: pen) on the (link: /terms/screen text: screen) of a Newton device. The “(link: /terms/dissipating-smoke text: dissipating smoke)” is accompanied by a “(link: /terms/poof text: poof)” sound.
 
-Also referred to as (link: /terms/puff-of-smoke text: Puff of Smoke) and (link: /terms/smoke-clouds text: Smoke Clouds).
+Also referred to as (link: /terms/puff-of-smoke text: Puff of Smoke), (link: /terms/smoke-clouds text: Smoke Clouds), and (link: /terms/vanishing-cloud text: Vanishing Cloud).
 
 ----
 
@@ -26,6 +26,7 @@ Related:
 - /terms/smoke-clouds
 - /terms/trash-can
 - /terms/user-interface
+- /terms/vanishing-cloud
 - /terms/wavy-border
 - /terms/zig-zag
 
