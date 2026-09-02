@@ -1,0 +1,39 @@
+Title: iGo
+
+----
+
+Date: 02 September 2026
+
+----
+
+Text:
+
+A modified (link: /terms/messagepad-130 text: MessagePad 130) device developed by (link: /sources/visible-interactive text: Visible Interactive) that provided interactive audio tours for museums and exhibits. The iGo was capable of containing thousands of pages of text and monochrome images, as well as several hours of audio describing details of various exhibits.
+
+The iGo was originally marketed as the (link: /terms/eye-q text: Eye-Q).
+
+A third-party device that utilizes a licensed version of (link: /terms/newton-os text: Newton OS) is commonly referred to as a (link: /terms/clone text: clone).
+
+----
+
+Resource:
+
+- [Press Release: Newton, Inc. and Visible Interactive Power Interactive Audio Tour](https://web.archive.org/web/19980204044157/http://www.newton.apple.com/press_releases/19970731smithsonian.html)
+- [Visible Interactive: Technology and Features](https://web.archive.org/web/19980201071035/http://www.visibleinteractive.com/html/product.html)
+- [GRIN: Information Systems in Museums](https://www.grin.com/document/18074)
+- [CIMI: Hand-held Mobile Computing in Museums](https://web.archive.org/web/20020330103917/http://www.cimi.org/whitesite/AmirianBJM.htm)
+- [Wordmind Media: iGo Client Concept](https://web.archive.org/web/20000411134715/http://www.worldmind.com/media/text/clients/visible/visible2.html)
+
+----
+
+Related:
+
+- /terms/clone
+- /terms/eye-q
+
+----
+
+Source:
+
+- /sources/newton-inc
+- /sources/visible-interactive
