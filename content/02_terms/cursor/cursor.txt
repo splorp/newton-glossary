@@ -19,6 +19,7 @@ Related:
 - /terms/blinking-line
 - /terms/busy-cursor
 - /terms/caret
+- /terms/clone
 - /terms/edit
 - /terms/entry
 - /terms/field

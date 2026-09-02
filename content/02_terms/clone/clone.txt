@@ -12,15 +12,20 @@ A device manufactured by a third-party company using Newton technology licensed 
 
 Newton clones include the Sharp (link: /terms/expertpad text: ExpertPad), Motorola (link: /terms/marco text: Marco), Digital Ocean (link: /terms/seahorse text: Seahorse), Digital Ocean (link: /terms/tarpon text: Tarpon), Harris (link: /terms/access-device-2000 text: Access Device), Harris Dracon (link: /terms/supertech-2000 text: SuperTech), Schlumberger (link: /terms/watson text: Watson), and Siemens (link: /terms/notephone text: NotePhone).
 
+In (link: /terms/newtonscript text: NewtonScript), `Clone` is a (link: /terms/method text: method) which duplicates and returns a copy of a (link: /terms/cursor text: cursor) that can be modified without affecting the original.
+
 ----
 
 Related:
 
 - /terms/access-device-2000
+- /terms/cursor
 - /terms/expertpad
 - /terms/galileo
 - /terms/igo
 - /terms/marco
+- /terms/method
+- /terms/newtonscript
 - /terms/notephone
 - /terms/rom-extension
 - /terms/seahorse
@@ -29,3 +34,7 @@ Related:
 - /terms/tarpon
 - /terms/transport-data
 - /terms/watson
+
+----
+
+- /sources/newton-programmers-guide

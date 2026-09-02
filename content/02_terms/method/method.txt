@@ -14,6 +14,7 @@ In (link: /terms/newtonscript text: NewtonScript), a programmed (link: /terms/fu
 
 Related:
 
+- /terms/clone
 - /terms/frame
 - /terms/function
 - /terms/message
