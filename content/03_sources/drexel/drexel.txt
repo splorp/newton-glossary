@@ -10,7 +10,7 @@ Text:
 
 An educational institution based in Philadelphia, Pennsylvania with a focus on global research.
 
-A document covering [concepts the of pen computing](https://www.cs.drexel.edu/~dds26/courses/cs338-s03/BK/Readings/Newton/), including the Newton platform, was at one time required reading for professor Dario Salvucci’s [Graphical User Interfaces](https://www.cs.drexel.edu/~dds26/courses/syllabi/cs338.html) course at the university.
+A document covering concepts and history related to [pen computing](https://www.cs.drexel.edu/~dds26/courses/cs338-s03/BK/Readings/Newton/), including the Newton platform, was considered required reading for professor Dario Salvucci’s [Graphical User Interfaces](https://www.cs.drexel.edu/~dds26/courses/syllabi/cs338.html) course at the university.
 
 ----
 

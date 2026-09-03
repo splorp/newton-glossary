@@ -8,7 +8,7 @@ Date: 02 September 2026
 
 Text:
 
-A company founded by University of Chicago business school graduates, Laurence Albukerk and William Waytena. Visible Interactive was known for developing a handheld, interactive guide for museums based on the Newton platform called the (link: /terms/igo text: iGo).
+A company founded by University of Chicago business school graduates, Laurence Albukerk and William Waytena. Visible Interactive was known for developing the (link: /terms/igo text: iGo), a handheld guide for museums based on the Newton platform.
 
 ----
 

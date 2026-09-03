@@ -8,7 +8,7 @@ Date: 02 September 2026
 
 Text:
 
-A modified (link: /terms/messagepad-130 text: MessagePad 130) device developed by (link: /sources/visible-interactive text: Visible Interactive) that provided interactive audio tours for museums and exhibits. The iGo was capable of containing thousands of pages of text and monochrome images, as well as several hours of audio describing details of various exhibits.
+A handheld device developed by (link: /sources/visible-interactive text: Visible Interactive) that provided informational audio tours for museums. Based on a modified (link: /terms/messagepad-130 text: MessagePad 130), the iGo was capable of containing thousands of pages of text and monochrome images, as well as several hours of audio describing details of exhibits and artifacts.
 
 The iGo was originally marketed as the (link: /terms/eye-q text: Eye-Q).
 
