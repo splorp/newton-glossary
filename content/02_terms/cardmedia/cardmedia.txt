@@ -1,0 +1,34 @@
+Title: CardMedia
+
+----
+
+Date: 03 September 2026
+
+----
+
+Text:
+
+Software developed by (link: /sources/sign-of-the-times text: Sign of the Times) that enhances the (link: /terms/name-file text: Name File) application, adding various (link: /terms/card text: card) templates to keep track of collections of items, such as compact discs, movies, books, and articles.
+
+(image: /assets/images/cardmedia-2x.gif alt: Screenshot of the Name File application displaying a CD Collection width: 256)
+
+----
+
+Resource:
+
+- [Sign of the Times: CardMedia](https://web.archive.org/web/19980214171029/http://sineware.com/products/CardMedia/)
+
+----
+
+Related:
+
+- /terms/card
+- /terms/name-file
+- /terms/sineware
+
+----
+
+Source:
+
+- /sources/sign-of-the-times
+- /sources/sarofax

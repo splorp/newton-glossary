@@ -30,6 +30,7 @@ Related:
 - /terms/card-slip
 - /terms/card-slot
 - /terms/card-style
+- /terms/cardmedia
 - /terms/cis
 - /terms/combo-card
 - /terms/compactflash

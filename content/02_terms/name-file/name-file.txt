@@ -25,6 +25,7 @@ Related:
 - /terms/card
 - /terms/card-file
 - /terms/card-style
+- /terms/cardmedia
 - /terms/company
 - /terms/dateman
 - /terms/group
