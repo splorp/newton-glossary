@@ -8,7 +8,7 @@ Date: 16 May 2026
 
 Text:
 
-A hardware accessory designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) that provided both a (link: /terms/db-9 text: DB-9) serial adapter for connecting to a Windows computer and a powered (link: /terms/usb text: USB) port using the serial port on a Newton device.
+A hardware accessory designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) that provided both a (link: /terms/db-9 text: DB-9) serial adapter for connecting to a Windows computer and a powered (link: /terms/usb text: USB) port using the (link: /terms/serial text: serial) port on a Newton device.
 
 The USB port was embedded in a magnetic base, similar to certain models of the (link: /terms/newtlight text: NewtLight) accessory.
 

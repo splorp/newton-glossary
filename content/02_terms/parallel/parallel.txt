@@ -1,0 +1,26 @@
+Title: Parallel
+
+----
+
+Date: 04 September 2026
+
+----
+
+Text:
+
+The transmission of data over multiple wires or communication channels one bit at a time, thereby multiplying the rate of data transfer.
+
+Compare with (link: /terms/serial text: serial) transmission, where only a single channel is used.
+
+----
+
+Related:
+
+- /terms/newton-print-pack
+- /terms/serial
+
+----
+
+Source:
+
+- /sources/foldoc

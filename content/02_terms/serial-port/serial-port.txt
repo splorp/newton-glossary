@@ -8,7 +8,7 @@ Date: 09 July 2026
 
 Text:
 
-See: (link: /terms/communication-port text: Communication Port)
+See: (link: /terms/communication-port text: Communication Port) and (link: /terms/serial text: Serial)
 
 ----
 

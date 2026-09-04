@@ -8,7 +8,7 @@ Date: 26 July 2025
 
 Text:
 
-A standard for electrical connectors, generally used for serial communication, networking, or video. The “D” in the name of each connector comes from the D-shaped metal shield surrounding the pins or sockets. This shape ensures the connector can only be inserted one way. The second letter in the name indicates the size of the connector. The number following the two letters designates the number of pins or sockets in the connector.
+A standard for electrical connectors, generally used for (link: /terms/serial text: serial) communication, networking, or video. The “D” in the name of each connector comes from the D-shaped metal shield surrounding the pins or sockets. This shape ensures the connector can only be inserted one way. The second letter in the name indicates the size of the connector. The number following the two letters designates the number of pins or sockets in the connector.
 
 For example, a (link: /terms/de-9 text: DE-9) connector has 9 pins, a (link: /terms/db-25 text: DB-25) connector has 25 pins, and a (link: /terms/dc-37 text: DC-37) connector has 37 pins.
 

@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A type of communications connection such as a serial connection, (link: /terms/modem text: modem), (link: /terms/infrared text: infrared) beam, or (link: /terms/appletalk text: AppleTalk) network.
+A type of communications connection such as a (link: /terms/serial text: serial) connection, (link: /terms/modem text: modem), (link: /terms/infrared text: infrared) beam, or (link: /terms/appletalk text: AppleTalk) network.
 
 In (link: /terms/newtonscript text: NewtonScript), an endpoint is also (link: /terms/object text: object) created from `protoBasicEndpoint`, or one of its derivative (link: /terms/proto text: protos), that controls a real-time communication session. This object encapsulates and maintains the details of the specific connection, and allows you to control the underlying communication tool.
 

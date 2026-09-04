@@ -10,7 +10,7 @@ Text:
 
 Point-to-Point Protocol
 
-A communication (link: /terms/protocol text: protocol) used for both synchronous and asynchronous serial connections between physical networks. It can be configured to encapsulate different networking protocols such (link: /terms/ip text: IP) or (link: /terms/appletalk text: AppleTalk).
+A communication (link: /terms/protocol text: protocol) used for both synchronous and asynchronous (link: /terms/serial text: serial) connections between physical networks. It can be configured to encapsulate different networking protocols such (link: /terms/ip text: IP) or (link: /terms/appletalk text: AppleTalk).
 
 PPP superseded (link: /terms/slip-protocol text: SLIP).
 
@@ -37,6 +37,7 @@ Related:
 - /terms/newton-internet-enabler
 - /terms/protocol
 - /terms/protocol-picker
+- /terms/serial
 - /terms/slip-protocol
 - /terms/tcp
 - /terms/tcp-ip

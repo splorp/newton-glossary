@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-A serial data standard developed by [Apple](https://www.apple.com/) and designed primarily for voice and telephony (link: /terms/application text: applications), additionally supporting both (link: /terms/rs-232 text: RS-232) and (link: /terms/rs-422 text: RS-422) modes. The physical port is standard (link: /terms/din-9 text: DIN-9) serial connector, which is compatible with (link: /terms/din-8 text: DIN-8) cables, but has an additional pin to optionally supply power to an external device.
+A (link: /terms/serial text: serial) data standard developed by [Apple](https://www.apple.com/) and designed primarily for voice and telephony (link: /terms/application text: applications), additionally supporting both (link: /terms/rs-232 text: RS-232) and (link: /terms/rs-422 text: RS-422) modes. The physical port is standard (link: /terms/din-9 text: DIN-9) serial connector, which is compatible with (link: /terms/din-8 text: DIN-8) cables, but has an additional pin to optionally supply power to an external device.
 
 The (link: /terms/emate-300 text: eMate 300) is equipped with a GeoPort connector that doubles as a (link: /terms/localtalk text: LocalTalk) serial port.
 
@@ -31,6 +31,7 @@ Related:
 - /terms/mini-din
 - /terms/rs-232
 - /terms/rs-422
+- /terms/serial
 
 ----
 

@@ -35,6 +35,7 @@ Related:
 - /terms/phonenet
 - /terms/prefs
 - /terms/protocol
+- /terms/serial
 - /terms/wi-fi
 - /terms/wireless-appletalk
 - /terms/wlan

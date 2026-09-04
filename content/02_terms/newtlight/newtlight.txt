@@ -8,7 +8,7 @@ Date: 15 February 2025
 
 Text:
 
-A hardware accessory designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) that provided a way to power (link: /terms/usb text: USB) devices using the serial port on a Newton device.
+A hardware accessory designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) that provided a way to power (link: /terms/usb text: USB) devices using the (link: /terms/serial text: serial) port on a Newton device.
 
 Several versions of the accessory were produced.
 

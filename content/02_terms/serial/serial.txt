@@ -1,0 +1,36 @@
+Title: Serial
+
+----
+
+Date: 04 September 2026
+
+----
+
+Text:
+
+The transmission of data over a single wire or communication channel one bit at a time.
+
+Compare with (link: /terms/parallel text: parallel) transmission, which combines multiple serial channels together.
+
+----
+
+Related:
+
+- /terms/appletalk
+- /terms/communication-port
+- /terms/ftdi
+- /terms/geoport
+- /terms/newton-interconnect
+- /terms/newton-print-pack
+- /terms/parallel
+- /terms/ppp
+- /terms/rs-232
+- /terms/rs-422
+- /terms/serial-infrared
+- /terms/usb
+
+----
+
+Source:
+
+- /sources/foldoc

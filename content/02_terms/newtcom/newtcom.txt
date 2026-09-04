@@ -8,7 +8,7 @@ Date: 28 April 2026
 
 Text:
 
-A multifunction (link: /terms/dongle text: dongle) developed by (link: /sources/matthias-melcher text: Matthias Melcher) that utilizes the (link: /terms/newton-interconnect text: Newton Interconnect) port to provide a (link: /terms/usb text: USB-C) port for serial data transfer and power.
+A multifunction (link: /terms/dongle text: dongle) developed by (link: /sources/matthias-melcher text: Matthias Melcher) that utilizes the (link: /terms/newton-interconnect text: Newton Interconnect) port to provide a (link: /terms/usb text: USB-C) port for (link: /terms/serial text: serial) data transfer and power.
 
 Additionally, the NewtCOM has a (link: /terms/slot text: slot) for an SD card, which can contain (link: /terms/package-file text: package files), allowing installion of software directly from the dongle.
 

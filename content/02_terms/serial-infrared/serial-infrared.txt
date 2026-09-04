@@ -25,6 +25,7 @@ Related:
 - /terms/infrared-appletalk
 - /terms/irda
 - /terms/newtir
+- /terms/serial
 - /terms/sir
 - /terms/slow-infrared
 - /terms/squirting

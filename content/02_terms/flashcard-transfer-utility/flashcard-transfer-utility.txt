@@ -8,7 +8,7 @@ Date: 14 August 2026
 
 Text:
 
-An (link: /terms/application text: application) developed by (link: /terms/powerpen text: powerPen) that allows importing and exporting (link: /terms/deck text: decks) containing question and answer data used by (link: /terms/flashcard text: flashCard). The software transfers information from a Newton device over a serial connection to another computer running a terminal emulator.
+An (link: /terms/application text: application) developed by (link: /terms/powerpen text: powerPen) that allows importing and exporting (link: /terms/deck text: decks) containing question and answer data used by (link: /terms/flashcard text: flashCard). The software transfers information from a Newton device over a (link: /terms/serial text: serial) connection to another computer running a terminal emulator.
 
 (image: /assets/images/flashcard-transfer-utility-2x.gif alt: Screenshot of the flashCard Transfer Utility slip width: 216)
 
