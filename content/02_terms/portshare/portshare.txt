@@ -1,0 +1,34 @@
+Title: PortShare
+
+----
+
+Date: 05 September 2026
+
+----
+
+Text:
+
+Software that allows (link: /terms/serial text: serial) devices to be shared between multiple Mac OS computers on a network.
+
+PortShare is useful in situations where an (link: /terms/application text: application) requires an active serial port to work correctly, such as (link: /terms/newton-toolkit text: Newton Toolkit) running in the Classic environment on Mac OS X.
+
+----
+
+Resource:
+
+- [Stalker Software: PortShare Pro](https://web.archive.org/web/20000816145018/http://www.stalker.com/PortShare/)
+- [Macintosh Garden: PortShare Pro](http://macintoshgarden.org/apps/portshare-pro)
+
+----
+
+Related:
+
+- /terms/communication-port
+- /terms/serial
+- /terms/tcpserial
+
+----
+
+Source:
+
+- /sources/stalker-software

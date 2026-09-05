@@ -23,10 +23,12 @@ Related:
 - /terms/newton-interconnect
 - /terms/newton-print-pack
 - /terms/parallel
+- /terms/portshare
 - /terms/ppp
 - /terms/rs-232
 - /terms/rs-422
 - /terms/serial-infrared
+- /terms/tcpserial
 - /terms/usb
 
 ----

@@ -1,0 +1,36 @@
+Title: TCPSerial
+
+----
+
+Date: 05 September 2026
+
+----
+
+Text:
+
+Software developed at the University of Michigan that simulates a (link: /terms/serial text: serial) driver and (link: /terms/modem text: modem) using a (link: /terms/tcp-ip text: TCP/IP) connection on a Mac OS computer.
+
+TCPSerial is useful in situations where an (link: /terms/application text: application) requires an active serial port to work correctly, such as (link: /terms/newton-toolkit text: Newton Toolkit) running in the Classic environment on Mac OS X.
+
+----
+
+Resource:
+
+- [UNNA: TCPSerial](http://www.unna.org/unna/macos/tcp-serial-101.hqx)
+- [Macintosh Garden: TCPSerial](http://macintoshgarden.org/apps/tcpserial)
+
+----
+
+Related:
+
+- /terms/communication-port
+- /terms/modem
+- /terms/portshare
+- /terms/serial
+- /terms/tcp-ip
+
+----
+
+Source:
+
+- /sources/newtontalk

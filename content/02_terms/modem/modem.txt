@@ -30,6 +30,7 @@ Related:
 - /terms/newton-fax-modem
 - /terms/prefs
 - /terms/rs-232
+- /terms/tcpserial
 - /terms/xjack
 
 ----
