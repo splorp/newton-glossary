@@ -25,6 +25,7 @@ Related:
 - /terms/mini-din
 - /terms/newton-interconnect
 - /terms/rs-232
+- /terms/serial
 - /terms/usb
 
 ----
