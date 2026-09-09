@@ -12,6 +12,8 @@ An early development environment for (link: /terms/newton-os text: Newton OS) de
 
 Leibniz is also an emulator for (link: /terms/runt text: Runt)-based Newton devices developed by (link: /sources/steve-white text: Steve White).
 
+(image: /assets/images/leibniz-2x.gif alt: Screenshot of Leibniz width: 240)
+
 ----
 
 Resource:

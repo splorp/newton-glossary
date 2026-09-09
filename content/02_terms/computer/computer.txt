@@ -8,7 +8,11 @@ Date: 13 August 2025
 
 Text:
 
-The built-in (link: /terms/application text: application) in prerelease versions of (link: /terms/newton-os text: Newton OS) 1.0 used to perform the action of connecting to another computer. In later versions of Newton OS, the application is named (link: /terms/connection text: Connection) and (link: /terms/dock text: Dock).
+The built-in (link: /terms/application text: application) in prerelease versions of (link: /terms/newton-os text: Newton OS) 1.0 used to perform the action of connecting to another computer.
+
+(image: /assets/images/computer-2x.gif alt: Screenshot of the Computer application width: 220)
+
+In later versions of Newton OS, the application is named (link: /terms/connection text: Connection) and (link: /terms/dock text: Dock).
 
 ----
 

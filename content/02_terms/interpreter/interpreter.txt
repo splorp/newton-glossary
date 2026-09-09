@@ -14,6 +14,8 @@ For example, (link: /terms/newton-toolkit text: Newton Toolkit) compiles (link: 
 
 In prerelease versions of Newton OS 1.0, a (link: /terms/recognizer text: recognizer) component of the (link: /terms/handwriting-recognition text: handwriting recognition) system is also called an interpreter.
 
+(image: /assets/images/interpreters-2x.gif alt: Screenshot of the Interpreters section of the Preference application width: 232)
+
 ----
 
 Related:
