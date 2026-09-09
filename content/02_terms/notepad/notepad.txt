@@ -14,7 +14,7 @@ In (link: /terms/newtonscript text: NewtonScript), the Notepad is referenced pro
 
 Also referred to as (link: /terms/notes text: Notes).
 
-Notepad is also the original name of the first Newton device, later changed to (link: /terms/messagepad text: MessagePad) to better reflect its communication capabilities.
+Notepad is also the original name of the first Newton device. The name was changed to (link: /terms/messagepad text: MessagePad) prior to its release, better reflecting its communication capabilities.
 
 ----
 

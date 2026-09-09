@@ -12,6 +12,8 @@ An (link: /terms/alert-sound text: alert sound) which can be selected in the (li
 
 Buzzer is only available as an alert sound in (link: /terms/newton-os text: Newton OS) 2.0 and later.
 
+A different sound named Buzzer also makes an appearance in the prerelease (link: /terms/notepad text: Notepad) device.
+
 ----
 
 Related:
