@@ -1,0 +1,17 @@
+Title: Bootsound
+
+----
+
+Date: 07 September 2026
+
+----
+
+Text:
+
+See: (link: /terms/boot-up-chime text: Boot Up Chime)
+
+----
+
+Source:
+
+- /sources/notepad-rom

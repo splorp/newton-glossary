@@ -1,0 +1,19 @@
+Title: VNS
+
+----
+
+Date: 06 September 2026
+
+----
+
+Text:
+
+VisualNewt Software
+
+See: (link: /terms/visualnewt text: VisualNewt)
+
+----
+
+Source:
+
+- /sources/serg-koren

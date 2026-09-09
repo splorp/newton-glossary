@@ -12,7 +12,7 @@ A visual (link: /terms/application text: application) development environment cr
 
 (image: /assets/images/visualnewt-2x.gif alt: Screenshot of VisualNewt width: 242)
 
-VisualNewt Software is also the company founded by Koren that produced software for multiple platforms, including (link: /terms/newton-os text: Newton OS), Palm OS, Mac OS, and Windows.
+VisualNewt Software ((link: /terms/vns text: VNS)) is also the company founded by Koren that produced software for multiple platforms, including (link: /terms/newton-os text: Newton OS), Palm OS, Mac OS, and Windows.
 
 ----
 
@@ -32,6 +32,7 @@ Related:
 - /terms/newton-c-tools
 - /terms/newton-toolkit
 - /terms/newtonscript
+- /terms/vns
 
 ----
 
