@@ -33,6 +33,7 @@ Related:
 - /terms/newton-c-tools
 - /terms/newtsbug
 - /terms/prototype
+- /terms/quick-look
 - /terms/viewframe
 
 ----

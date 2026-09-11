@@ -28,4 +28,5 @@ Related:
 - /terms/macintosh-programmers-workshop
 - /terms/newton-c-tools
 - /terms/newtsbug
+- /terms/quick-look
 - /terms/viewframe

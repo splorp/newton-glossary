@@ -36,6 +36,7 @@ Related:
 - /terms/newtrtfm
 - /terms/newtsbug
 - /terms/object
+- /terms/quick-look
 - /terms/script
 - /terms/soup
 

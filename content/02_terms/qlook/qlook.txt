@@ -1,0 +1,17 @@
+Title: QLook
+
+----
+
+Date: 12 September 2026
+
+----
+
+Text:
+
+See: (link: /terms/quick-look text: Quick Look)
+
+----
+
+Source:
+
+- /sources/newton-notepad

@@ -1,0 +1,36 @@
+Title: Quick Look
+
+----
+
+Date: 12 September 2026
+
+----
+
+Text:
+
+A series of automated tests and tasks performed on a prerelease or development Newton device. Quick Look tasks include (link: /terms/scrolling text: scrolling), (link: /terms/tapping text: tapping), launching (link: /terms/application text: applications), selecting items in (link: /terms/picker text: pickers), entering information into (link: /terms/slip text: slips), creating and deleting (link: /terms/note text: notes), as well as initiating various queries using the (link: /terms/assist text: Assist) function.
+
+When the Quick Look process has finished, the length of time (in (link: /terms/tick text: ticks)) that it took to complete the process is displayed on the (link: /terms/screen text: screen) to help benchmark the performance of the device being tested.
+
+Also referred to as (link: /terms/ql text: QL) and (link: /terms/qlook text: QLook).
+
+----
+
+Related:
+
+- /terms/bugtrap
+- /terms/debug
+- /terms/debugger
+- /terms/debugging
+- /terms/egger
+- /terms/hammer
+- /terms/newtsbug
+- /terms/ql
+- /terms/qlook
+- /terms/viewframe
+
+----
+
+Source:
+
+- /sources/newton-notepad
