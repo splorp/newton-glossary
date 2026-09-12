@@ -10,11 +10,14 @@ Text:
 
 In (link: /terms/newtonscript text: NewtonScript), a sequence of bytes that can represent any type of data, can be adjusted dynamically in size, and can have a user-specified (link: /terms/class text: class). Examples of binary (link: /terms/object text: objects) include strings, real numbers, sounds, and (link: /terms/bitmap text: bitmaps).
 
+A large binary object without a specified structure is often referred to as a (link: /terms/blob text: BLOB).
+
 ----
 
 Related:
 
 - /terms/bitmap
+- /terms/blob
 - /terms/class
 - /terms/function-object
 - /terms/newtonscript

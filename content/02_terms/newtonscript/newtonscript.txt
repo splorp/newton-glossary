@@ -41,6 +41,7 @@ Related:
 - /terms/project
 - /terms/prota
 - /terms/ralph
+- /terms/rom-soup
 - /terms/script
 - /terms/tntk
 - /terms/undo-overview

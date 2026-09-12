@@ -47,6 +47,7 @@ Related:
 - /terms/persistant-object-database
 - /terms/ragout
 - /terms/reference
+- /terms/rom-soup
 - /terms/slot
 - /terms/sloup
 - /terms/soup-icon

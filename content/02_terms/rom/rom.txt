@@ -31,6 +31,7 @@ Related:
 - /terms/ram
 - /terms/romulator
 - /terms/rom-extension
+- /terms/rom-soup
 - /terms/sram
 
 ----

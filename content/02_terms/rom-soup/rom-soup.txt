@@ -1,0 +1,38 @@
+Title: ROM-Soup
+
+----
+
+Date: 12 September 2026
+
+----
+
+Text:
+
+An (link: /terms/application text: application) developed by (link: /sources/steve-white text: Steve White) that allows the user to explore (link: /terms/newtonscript text: NewtonScript) objects in (link: /terms/rom text: ROM) images extracted from (link: /terms/runt text: Runt)-based Newton devices. (link: /terms/object text: Objects) are recreated inside a virtual machine based on the (link: /terms/newt0 text: NEWT/0) interpreter and (link: /terms/compiler text: compiler).
+
+ROM-Soup includes an interactive console utilizing (link: /terms/viewframe text: ViewFrame) to inspect NewtonScript (link: /terms/soup text: soup) data, as well as interfaces to browse images, sounds, (link: /terms/binary-object text: binary objects) (or (link: /terms/blob text: BLOBs)), and (link: /terms/text text: text) strings.
+
+----
+
+Resource:
+
+- [GitHub: ROM-Soup](https://github.com/pablomarx/ROM-Soup)
+
+----
+
+Related:
+
+- /terms/binary-object
+- /terms/compiler
+- /terms/interpreter
+- /terms/newt0
+- /terms/newtonscript
+- /terms/rom
+- /terms/soup
+- /terms/viewframe
+
+----
+
+Source:
+
+- /sources/steve-white

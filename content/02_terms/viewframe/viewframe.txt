@@ -37,6 +37,7 @@ Related:
 - /terms/newtsbug
 - /terms/object
 - /terms/quick-look
+- /terms/rom-soup
 - /terms/script
 - /terms/soup
 

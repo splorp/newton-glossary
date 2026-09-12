@@ -1,0 +1,19 @@
+Title: BLOB
+
+----
+
+Date: 12 September 2026
+
+----
+
+Text:
+
+Binary Large Object
+
+See: (link: /terms/binary-object text: Binary Object)
+
+----
+
+Source:
+
+- /sources/foldoc

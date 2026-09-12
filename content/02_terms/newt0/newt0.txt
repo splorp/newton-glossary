@@ -33,6 +33,7 @@ Related:
 - /terms/nsm
 - /terms/prota
 - /terms/prototype
+- /terms/rom-soup
 - /terms/tntk
 - /terms/undo-overview
 - /terms/wilma
