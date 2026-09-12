@@ -8,9 +8,9 @@ Date: 12 September 2026
 
 Text:
 
-An (link: /terms/application text: application) developed by (link: /sources/steve-white text: Steve White) that allows the user to explore (link: /terms/newtonscript text: NewtonScript) objects in (link: /terms/rom text: ROM) images extracted from (link: /terms/runt text: Runt)-based Newton devices. (link: /terms/object text: Objects) are recreated inside a virtual machine based on the (link: /terms/newt0 text: NEWT/0) interpreter and (link: /terms/compiler text: compiler).
+An (link: /terms/application text: application) developed by (link: /sources/steve-white text: Steve White) that allows the user to explore (link: /terms/newtonscript text: NewtonScript) objects contained in (link: /terms/rom text: ROM) images that have been extracted from (link: /terms/runt text: Runt)-based Newton devices.
 
-ROM-Soup includes an interactive console utilizing (link: /terms/viewframe text: ViewFrame) to inspect NewtonScript (link: /terms/soup text: soup) data, as well as interfaces to browse images, sounds, (link: /terms/binary-object text: binary objects) (or (link: /terms/blob text: BLOBs)), and (link: /terms/text text: text) strings.
+ROM-Soup recreates (link: /terms/object text: objects) inside a virtual machine based on the (link: /terms/newt0 text: NEWT/0) interpreter and includes an interactive console utilizing (link: /terms/viewframe text: ViewFrame) to inspect NewtonScript (link: /terms/soup text: soup) data. It also provides interfaces to browse images, sounds, (link: /terms/binary-object text: binary objects) (or (link: /terms/blob text: BLOBs)), and (link: /terms/text text: text) strings.
 
 ----
 

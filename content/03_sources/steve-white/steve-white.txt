@@ -8,7 +8,9 @@ Date: 29 June 2017
 
 Text:
 
-A rather elusive hardware and software hacker responsible for the (link: /terms/leibniz text: Leibniz) emulator for (link: /terms/runt text: Runt)-based Newton devices. Smith is better known by his online nom de plume, Pablo Marx.
+A rather elusive hardware and software hacker responsible for the (link: /terms/leibniz text: Leibniz) emulator and (link: /terms/rom-soup text: ROM-Soup) utility for investigating (link: /terms/runt text: Runt)-based Newton (link: /terms/rom text: ROMs).
+
+Smith is better known by his online nom de plume, Pablo Marx.
 
 ----
 
