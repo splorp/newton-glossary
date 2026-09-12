@@ -8,7 +8,7 @@ Date: 27 October 2016
 
 Text:
 
-Information extracted from the (link: /terms/rom text: ROM) of a prerelease Newton (link: /terms/notepad text: Notepad) device using Steve White’s [ROM-Soup](https://github.com/pablomarx/ROM-Soup) tool. Specifically, the text strings for various (link: /terms/newton-os text: Newton OS) alerts, messages, and (link: /terms/user-interface text: user interface) elements.
+The Newton (link: /terms/notepad text: Notepad) is a prerelease version of the (link: /terms/original-messagepad text: Original MessagePad). The device features terminology and conventions differing from a consumer (link: /terms/messagepad text: MessagePad) device. Text strings for various (link: /terms/newton-os text: Newton OS) alerts, messages, and (link: /terms/user-interface text: user interface) elements specific to the Notepad (link: /terms/rom text: ROM) were extracted using the (link: /terms/rom-soup text: ROM-Soup) tool developed by (link: /sources/steve-white text: Steve White).
 
 ----
 
