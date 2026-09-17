@@ -1,0 +1,17 @@
+Title: Drawing Interpreter
+
+----
+
+Date: 17 September 2026
+
+----
+
+Text:
+
+See: (link: /terms/shape-recognizer text: Shape Recognizer)
+
+----
+
+Source:
+
+- /sources/newton-notepad
