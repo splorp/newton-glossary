@@ -1,0 +1,17 @@
+Title: Printer Button
+
+----
+
+Date: 17 September 2026
+
+----
+
+Text:
+
+See: (link: /terms/action-button text: Action Button)
+
+----
+
+Source:
+
+- /sources/newton-notepad
