@@ -1,0 +1,17 @@
+Title: Bottom Layer
+
+----
+
+Date: 17 September 2026
+
+----
+
+Text:
+
+See: (link: /terms/backdrop text: Backdrop)
+
+----
+
+Source:
+
+- /sources/newton-notepad

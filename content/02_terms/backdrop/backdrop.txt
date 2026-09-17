@@ -12,11 +12,14 @@ An (link: /terms/application text: application) that is displayed when all other
 
 (link: /terms/avis-backdrop text: Avi’s Backdrop) is an example of a third-party backdrop application.
 
+In prerelease versions of (link: /terms/newton-os text: Newton OS) 1.0, the backdrop application is referred to as the “(link: /terms/bottom-layer text: bottom layer)”.
+
 ----
 
 Related:
 
 - /terms/avis-backdrop
+- /terms/bottom-layer
 - /terms/extras-drawer
 - /terms/newton-works
 - /terms/notepad
