@@ -20,6 +20,7 @@ The help browser can also be accessed using the built-in (link: /terms/help text
 
 Related:
 
+- /terms/assist
 - /terms/assist-slip
 - /terms/button
 - /terms/help

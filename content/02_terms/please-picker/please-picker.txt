@@ -30,6 +30,7 @@ Related:
 - /terms/assist
 - /terms/assist-slip
 - /terms/intelligent-assistance-architecture
+- /terms/how-do-i
 - /terms/let-me
 - /terms/let-me-picker
 - /terms/picker
