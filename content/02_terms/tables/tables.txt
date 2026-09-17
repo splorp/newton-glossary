@@ -1,0 +1,17 @@
+Title: Tables
+
+----
+
+Date: 17 September 2026
+
+----
+
+Text:
+
+See: (link: /terms/formulas text: Formulas)
+
+----
+
+Source:
+
+- /sources/newton-notepad
