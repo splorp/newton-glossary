@@ -10,6 +10,10 @@ Text:
 
 A (link: /terms/handwriting-recognition text: handwriting recognition) setting which controls how (link: /terms/cursive text: cursive) text that is not in the (link: /terms/dictionary text: dictionary) is recognized. Essentially, written text is evaluated one letter at a time until a match is made and the text is recognized.
 
+In early versions of (link: /terms/newton-os text: Newton OS), this setting can be accessed by (link: /terms/tapping text: tapping) the (link: /terms/text-recognizer-toggle text: text recognizer toggle) button.
+
+(image: /assets/images/letter-by-letter-2x.gif alt: Screenshot of the Text Recognizer Toggle activated and showing a slip with Letter-by-Letter mode selected Picker width: 240)
+
 ----
 
 Related:
@@ -20,6 +24,7 @@ Related:
 - /terms/fine-tuning
 - /terms/handwriting-recognition
 - /terms/letter-shapes
+- /terms/text-recognizer-toggle
 - /terms/try-letters
 
 ----
@@ -27,3 +32,4 @@ Related:
 Source:
 
 - /sources/messagepad-2000-user-manual
+- /sources/messagepad-setup-guide
