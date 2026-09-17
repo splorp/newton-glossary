@@ -33,6 +33,7 @@ Related:
 - /terms/let-me
 - /terms/let-me-picker
 - /terms/picker
+- /terms/please
 - /terms/synonyms
 - /terms/user-interface
 - /terms/what-is
