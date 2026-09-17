@@ -12,7 +12,7 @@ An (link: /terms/application text: application) found on the (link: /terms/getti
 
 Officially titled (link: /terms/calligrapher text: CalliGrapher), the game was co-developed by (link: /sources/paragraph text: ParaGraph International) and [Apple](https://www.apple.com/) to encourage users to practice their handwriting, while gathering information to help improve the accuracy of the (link: /terms/handwriting-recognition text: handwriting recognition) system.
 
-In prerelease versions of (link: /terms/newton-os text: Newton OS), the game was also referred to as (link: /terms/handwriting-game text: Handwriting Game).
+In prerelease versions of (link: /terms/newton-os text: Newton OS) 1.0, the game was also referred to as (link: /terms/handwriting-game text: Handwriting Game).
 
 ----
 

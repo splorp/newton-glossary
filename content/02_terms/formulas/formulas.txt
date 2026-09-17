@@ -12,7 +12,7 @@ The built-in (link: /terms/application text: application) that performs measurem
 
 (image: /assets/images/formulas-2x.gif alt: Screenshot of the Formulas application width: 240)
 
-In prerelease versions of (link: /terms/newton-os text: Newton OS), Formulas was referred to as (link: /terms/tables text: Tables).
+In prerelease versions of (link: /terms/newton-os text: Newton OS) 1.0, Formulas was referred to as (link: /terms/tables text: Tables).
 
 ----
 

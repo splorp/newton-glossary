@@ -10,7 +10,7 @@ Text:
 
 The algorithmic component of the (link: /terms/handwriting-recognition text: handwriting recognition) system that identifies printed (link: /terms/character text: characters), as opposed to (link: /terms/cursive text: cursive) or handwritten text.
 
-In prerelease versions of Newton OS 1.0, it is known as a (link: /terms/shape-interpreter text: Text Interpreter).
+In prerelease versions of (link: /terms/newton-os text: Newton OS) 1.0, it is known as a (link: /terms/shape-interpreter text: Text Interpreter).
 
 Also referred to as a (link: /terms/disconnected-recognizer text: Disconnected Recognizer), (link: /terms/printed-recognizer text: Printed Recognizer), and (link: /terms/text-recognizer text: Text Recognizer).
 

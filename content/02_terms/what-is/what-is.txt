@@ -8,7 +8,7 @@ Date: 17 September 2026
 
 Text:
 
-An unimplemented (link: /terms/help text: help) feature mentioned in some prerelease versions of (link: /terms/newton-os text: Newton OS). Similar in function to the [Balloon Help](https://en.wikipedia.org/wiki/Balloon_help) in Mac OS, the feature is purportedly activated by (link: /terms/tapping text: tapping) a “What Is” (link: /terms/button text: button) located in the (link: /terms/assist-slip text: Assist slip).
+An unimplemented (link: /terms/help text: help) feature mentioned in some prerelease versions of (link: /terms/newton-os text: Newton OS) 1.0. Similar in function to the [Balloon Help](https://en.wikipedia.org/wiki/Balloon_help) in Mac OS, the feature is purportedly activated by (link: /terms/tapping text: tapping) a “What Is” (link: /terms/button text: button) located in the (link: /terms/assist-slip text: Assist slip).
 
 Once activated, holding the (link: /terms/pen text: pen) on a (link: /terms/user interface text: user interface) element would display information about that element.
 
