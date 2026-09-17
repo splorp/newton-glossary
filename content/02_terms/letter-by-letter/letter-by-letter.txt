@@ -24,6 +24,7 @@ Related:
 - /terms/fine-tuning
 - /terms/handwriting-recognition
 - /terms/letter-shapes
+- /terms/numbers
 - /terms/text-recognizer-toggle
 - /terms/try-letters
 

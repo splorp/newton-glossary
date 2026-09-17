@@ -1,0 +1,33 @@
+Title: Numbers
+
+----
+
+Date: 17 September 2026
+
+----
+
+Text:
+
+A (link: /terms/handwriting-recognition text: handwriting recognition) setting is early versions of (link: /terms/newton-os text: Newton OS) which controls how text consisting of numerals is recognized. This setting can be accessed by (link: /terms/tapping text: tapping) the (link: /terms/text-recognizer-toggle text: text recognizer toggle) button.
+
+(image: /assets/images/numbers-2x.gif alt: Screenshot of the Text Recognizer Toggle activated and showing a slip with Numbers mode selected Picker width: 240)
+
+----
+
+Related:
+
+- /terms/calligrapher
+- /terms/cursive-recognizer
+- /terms/dictionary
+- /terms/fine-tuning
+- /terms/handwriting-recognition
+- /terms/letter-shapes
+- /terms/letter-by-letter
+- /terms/text-recognizer-toggle
+- /terms/try-letters
+
+----
+
+Source:
+
+- /sources/messagepad-setup-guide

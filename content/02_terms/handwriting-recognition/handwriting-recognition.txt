@@ -57,6 +57,7 @@ Related:
 - /terms/mondello
 - /terms/neuropen
 - /terms/newton-recognition-architecture
+- /terms/numbers
 - /terms/pen
 - /terms/pen-alignment
 - /terms/prefs

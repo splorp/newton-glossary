@@ -19,6 +19,8 @@ Related:
 - /terms/fine-tuning
 - /terms/handwriting-recognition
 - /terms/letter-by-letter
+- /terms/numbers
+- /terms/text-recognizer-toggle
 - /terms/try-letters
 
 ----

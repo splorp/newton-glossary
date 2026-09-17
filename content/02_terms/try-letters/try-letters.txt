@@ -26,6 +26,8 @@ Related:
 - /terms/handwriting-recognition
 - /terms/letter-by-letter
 - /terms/letter-shapes
+- /terms/numbers
+- /terms/text-recognizer-toggle
 - /terms/user-interface
 
 ----

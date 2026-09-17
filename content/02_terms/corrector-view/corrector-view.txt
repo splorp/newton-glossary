@@ -28,6 +28,8 @@ Related:
 - /terms/keyboard-button
 - /terms/letter-by-letter
 - /terms/newtonscript
+- /terms/numbers
+- /terms/text-recognizer-toggle
 - /terms/try-letters
 - /terms/user-interface
 - /terms/view

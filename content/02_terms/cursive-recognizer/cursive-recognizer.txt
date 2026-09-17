@@ -41,6 +41,7 @@ Related:
 - /terms/mondello
 - /terms/neuropen
 - /terms/newton-recognition-architecture
+- /terms/numbers
 - /terms/paragraph
 - /terms/print-recognizer
 - /terms/recognized-text
@@ -52,6 +53,7 @@ Related:
 - /terms/test-drive1
 - /terms/text-interpreter
 - /terms/text-recognizer
+- /terms/text-recognizer-toggle
 - /terms/try-letters
 - /terms/writing-practice
 

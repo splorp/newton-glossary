@@ -17,8 +17,10 @@ A (link: /terms/handwriting-recognition text: handwriting recognition) option wh
 Related:
 
 - /terms/handwriting-recognition
+- /terms/numbers
 - /terms/letter-shapes
 - /terms/letter-by-letter
+- /terms/text-recognizer-toggle
 - /terms/try-letters
 - /terms/recognized-text
 
