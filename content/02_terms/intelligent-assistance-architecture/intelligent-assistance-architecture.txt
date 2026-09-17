@@ -33,6 +33,7 @@ Related:
 - /terms/newton-recognition-architecture.txt
 - /terms/request-word
 - /terms/synonyms
+- /terms/what-is
 
 ----
 

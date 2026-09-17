@@ -29,6 +29,7 @@ Related:
 - /terms/picker
 - /terms/synonyms
 - /terms/user-interface
+- /terms/what-is
 
 ----
 

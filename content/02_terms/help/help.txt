@@ -17,6 +17,7 @@ Related:
 - /terms/help-book
 - /terms/help-browser
 - /terms/how-do-i
+- /terms/what-is
 
 ----
 
