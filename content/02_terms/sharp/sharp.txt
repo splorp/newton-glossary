@@ -2,10 +2,35 @@ Title: Sharp
 
 ----
 
-Date: 04 May 2025
+Date: 19 September 2026
 
 ----
 
 Text:
 
-See: (link: /sources/sharp text: Sharp Corporation)
+An (link: /terms/application text: application) located in the (link: /terms/extras-drawer text: Extras Drawer) used for exchanging information between a Newton device and certain [Sharp Wizard](https://en.wikipedia.org/wiki/Sharp_Wizard) electronic organizers.
+
+(image: /assets/images/sharp-2x.gif alt: Screenshot of the Sharp application width: 212)
+
+The Sharp application was only available on devices running (link: /terms/Newton-OS text: Newton OS) 1.x.
+
+In prerelease versions of Newton OS 1.0, the (link: /terms/help-browser text: help browser) refers to the Sharp application as (link: /terms/wizard text: Wizard).
+
+Sharp also refers to the (link: /sources/sharp text: Sharp Corporation).
+
+----
+
+Related:
+
+- /terms/ask
+- /terms/expertpad
+- /terms/galileo
+- /terms/inventec
+- /terms/wizard
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1993
+- /sources/newton-notepad
