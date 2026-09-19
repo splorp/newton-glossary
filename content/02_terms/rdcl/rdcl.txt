@@ -28,6 +28,7 @@ Related:
 - /terms/cdcl
 - /terms/dcl
 - /terms/dock
+- /terms/docker
 - /terms/docking
 - /terms/gdcl
 - /terms/k-libs

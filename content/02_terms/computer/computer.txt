@@ -12,6 +12,8 @@ The built-in (link: /terms/application text: application) in prerelease versions
 
 (image: /assets/images/computer-2x.gif alt: Screenshot of the Computer application width: 220)
 
+The (link: /terms/help-browser text: help browser) in prerelease versions of Newton OS 1.0 also refers to the application as (link: /terms/docker text: Docker).
+
 In later versions of Newton OS, the application is named (link: /terms/connection text: Connection) and (link: /terms/dock text: Dock).
 
 ----
@@ -23,4 +25,11 @@ Related:
 - /terms/connection
 - /terms/dock
 - /terms/dock-options
+- /terms/docker
 - /terms/docking
+
+----
+
+Source:
+
+- /sources/newton-notepad

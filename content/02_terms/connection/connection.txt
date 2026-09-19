@@ -8,9 +8,13 @@ Date: 24 May 2001
 
 Text:
 
-The built-in (link: /terms/application text: application) used to perform the action of connecting or docking to another computer. In prerelease versions of (link: /terms/newton-os text: Newton OS) 1.0, the application is named (link: /terms/computer text: Computer). In Newton OS 2.0 and later, the application is named (link: /terms/dock text: Dock).
+The built-in (link: /terms/application text: application) used to perform the action of connecting or (link: /terms/docking text: docking) to another computer.
 
 (image: /assets/images/connection-2x.gif alt: Screenshot of the Connection application width: 196)
+
+In prerelease versions of (link: /terms/newton-os text: Newton OS) 1.0, the application is named (link: /terms/computer text: Computer).
+
+In Newton OS 2.0 and later, the application is named (link: /terms/dock text: Dock).
 
 ----
 
@@ -21,4 +25,11 @@ Related:
 - /terms/computer
 - /terms/dock
 - /terms/dock-options
+- /terms/docker
 - /terms/docking
+
+----
+
+Source:
+
+- /sources/messagepad-handbook-1995

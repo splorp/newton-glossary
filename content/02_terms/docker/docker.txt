@@ -1,0 +1,39 @@
+Title: Docker
+
+----
+
+Date: 19 September 2026
+
+----
+
+Text:
+
+In (link: /terms/newtonscript text: NewtonScript), docker is a reference to the programmatic mechanism used when connecting or (link: /terms/docking text: docking) a Newton device to another computer.
+
+The (link: /terms/help-browser text: help browser) in prerelease versions of (link: /terms/newton-os text: Newton OS) 1.0 refers to the (link: /terms/computer text: Computer) application as (link: /terms/docker text: Docker).
+
+----
+
+Related:
+
+- /terms/auto-dock
+- /terms/cdcl
+- /terms/classroom-dock
+- /terms/classroom-exchange
+- /terms/computer
+- /terms/connection
+- /terms/dcl
+- /terms/dock
+- /terms/dock-options
+- /terms/docking
+- /terms/gdcl
+- /terms/rdcl
+- /terms/zdcl
+
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference
+- /sources/newton-notepad

@@ -31,6 +31,7 @@ Related:
 - /terms/delivery
 - /terms/desktop-integration-libraries
 - /terms/dock
+- /terms/docker
 - /terms/docking
 - /terms/elftontk
 - /terms/elftopkg
