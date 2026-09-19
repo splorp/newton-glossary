@@ -50,6 +50,7 @@ Related:
 - /terms/espy-sans
 - /terms/gong
 - /terms/happy-hour
+- /terms/keysound
 - /terms/larryy
 - /terms/lesv
 - /terms/lyon
@@ -70,6 +71,7 @@ Related:
 - /terms/squeak
 - /terms/stafford
 - /terms/trill
+- /terms/typewriter
 - /terms/volume
 - /terms/wheep
 - /terms/whoop

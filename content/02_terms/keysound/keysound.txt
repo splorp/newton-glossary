@@ -1,18 +1,18 @@
-Title: Trill
+Title: keySound
 
 ----
 
-Date: 19 June 2025
+Date: 19 September 2026
 
 ----
 
 Text:
 
-An (link: /terms/alert-sound text: alert sound) which can be selected in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
+In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/slot text: slot) that defines the (link: /terms/pen-sound-effects text: pen sound effect) when the user (link: /terms/tap text: taps) a key on an onscreen (link: /terms/keyboard text: keyboard).
 
-Trill is one of four alert sounds available in all versions of (link: /terms/newton-os text: Newton OS).
+The default sound for this effect is called (link: /terms/typewriter text: Typewriter).
 
-Also referred to as (link: /terms/funbeep text: funBeep).
+Prerelease versions of (link: /terms/newton-os text: Newton OS) 1.0 also refer to the default sound as keySound.
 
 ----
 
@@ -32,10 +32,9 @@ Related:
 - /terms/drawer-closing
 - /terms/drawer-opening
 - /terms/echo
-- /terms/funbeep
 - /terms/gong
 - /terms/hot-dog-song
-- /terms/keysound
+- /terms/newtonscript
 - /terms/out-there
 - /terms/page-flipping
 - /terms/paper-crumpling
@@ -46,6 +45,7 @@ Related:
 - /terms/sound
 - /terms/spring
 - /terms/squeak
+- /terms/trill
 - /terms/typewriter
 - /terms/volume
 - /terms/wheep
@@ -56,5 +56,5 @@ Related:
 
 Source:
 
-- /sources/newton-programmers-guide
 - /sources/newton-programmers-reference
+- /sources/newton-notepad

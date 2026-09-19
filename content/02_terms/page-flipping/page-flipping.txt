@@ -34,6 +34,7 @@ Related:
 - /terms/flip
 - /terms/gong
 - /terms/hot-dog-song
+- /terms/keysound
 - /terms/notepad-scroll-sound
 - /terms/out-there
 - /terms/page-flipping
@@ -46,6 +47,7 @@ Related:
 - /terms/spring
 - /terms/squeak
 - /terms/trill
+- /terms/typewriter
 - /terms/volume
 - /terms/wheep
 - /terms/whoop

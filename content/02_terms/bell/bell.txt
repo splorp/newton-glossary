@@ -33,6 +33,7 @@ Related:
 - /terms/echo
 - /terms/gong
 - /terms/hot-dog-song
+- /terms/keysound
 - /terms/out-there
 - /terms/page-flipping
 - /terms/paper-crumpling
@@ -45,6 +46,7 @@ Related:
 - /terms/spring
 - /terms/squeak
 - /terms/trill
+- /terms/typewriter
 - /terms/volume
 - /terms/wheep
 - /terms/whoop

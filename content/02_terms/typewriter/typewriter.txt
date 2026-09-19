@@ -12,6 +12,8 @@ The default onscreen (link: /terms/keyboard text: keyboard) that appears when th
 
 (image: /assets/images/typewriter-2x.gif alt: Screenshot of the Typewriter keyboard width: 239)
 
+Typewriter is also the name of the (link: /terms/pen-sound-effects text: pen sound effect) that is played when a key is (link: /terms/tapped text: tapped) on an onscreen keyboard.
+
 ----
 
 Related:
@@ -20,7 +22,9 @@ Related:
 - /terms/keyboard
 - /terms/keyboard-button
 - /terms/keyboard-equivalent
+- /terms/keysound
 - /terms/numeric
+- /terms/pen-sound-effects
 - /terms/phone
 - /terms/time-date
 
@@ -29,3 +33,4 @@ Related:
 Source:
 
 - /sources/messagepad-2000-user-manual
+- /sources/newton-programmers-reference

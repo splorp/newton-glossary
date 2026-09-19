@@ -37,6 +37,7 @@ Related:
 - /terms/hilite-sound
 - /terms/hilitesound
 - /terms/hot-dog-song
+- /terms/keysound
 - /terms/out-there
 - /terms/page-flipping
 - /terms/paper-crumpling
@@ -51,6 +52,7 @@ Related:
 - /terms/spring
 - /terms/squeek
 - /terms/trill
+- /terms/typewriter
 - /terms/user-interface
 - /terms/volume
 - /terms/wheep
