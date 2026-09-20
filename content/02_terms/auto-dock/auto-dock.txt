@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-The automatic transfer of data between a Newton device to another computer once a (link: /terms/connection text: connection) has been made. Auto docking is activated by grounding one of the (link: /terms/newton-interconnect text: Newton InterConnect) port pins.
+The automatic transfer of data between a Newton device to another computer once a (link: /terms/connection text: connection) has been made. Auto (link: /terms/docking text: docking) is activated by grounding one of the (link: /terms/newton-interconnect text: Newton InterConnect) port pins.
 
 Auto Dock is also a section found in the (link: /terms/prefs text: Prefs) application.
 

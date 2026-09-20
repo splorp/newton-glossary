@@ -19,7 +19,7 @@ Resource:
 - [Narc Fish Newton Software: Newton Mirror](https://web.archive.org/web/20030419202930/http://www.narcosislabs.org/newton/index.php?page=Newton+Mirror)
 - [UNNA: Newton Mirror](http://www.unna.org/view.php?/applications/NewtMirror)
 - [Utilware: The original Palm Mirror.](https://utilware.com/technolush/palm+mirror)
-	
+
 ----
 
 Related:

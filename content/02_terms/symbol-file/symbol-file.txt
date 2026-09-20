@@ -14,7 +14,7 @@ For example, (link: /terms/newtsbug text: Newtsbug) needs to be able to locate b
 
 Symbol files are generated when a program is (link: /terms/compiled text: compiled) in a development environment such as (link: /terms/newton-c-tools text: Newton C++ Tools). The package file contains information that defines where the symbol file is located, using a path relative to the package file.
 
-Identified by the (link: /terms/sym text: .sym)  filename extension.
+Identified by the (link: /terms/sym text: .sym) filename extension.
 
 ----
 

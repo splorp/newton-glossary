@@ -16,4 +16,4 @@ Resource:
 
 - [Visible Interactive Website](https://web.archive.org/web/19970329113754/http://www.visibleinteractive.com/)
 - [Steven Kaplan: Visible Interactive Case Study](https://web.archive.org/web/20171222222643/https://faculty.chicagobooth.edu/steven.kaplan/teaching/visiblea.pdf)
-- [UNNA: Visible Interactive Case Study](https://www.newted.org/resources/Visible_Interactive_Case_Study.pdf)
+- [Newted: Visible Interactive Case Study](https://www.newted.org/resources/Visible_Interactive_Case_Study.pdf)
