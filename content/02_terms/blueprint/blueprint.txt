@@ -20,7 +20,8 @@ Resource:
 
 - [Sign of the Times: BluePrint](https://web.archive.org/web/19980214171008/http://sineware.com/products/BluePrint/)
 - [UNNA: BluePrint 1.6 Demo](http://www.unna.org/view.php?/applications/Blueprint1.6Demo)
-- [Newted: BluePrint User Guide](https://www.newted.org/download/manuals/BluePrintUsersGuide.pdf)
+- [Newted: BluePrint User’s Guide](https://www.newted.org/download/manuals/BluePrintUsersGuide.pdf)
+- [Newted: BluePrint 2 User’s Guide](https://www.newted.org/download/manuals/BluePrint2UsersGuide.pdf)
 
 ----
 
