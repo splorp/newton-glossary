@@ -10,7 +10,7 @@ Text:
 
 A (link: /terms/picture-button text: picture button) containing an (link: /terms/icon text: icon) representing an “A” (link: /terms/character text: character).
 
-When (link: /terms/tapped text: tapped), it displays an (link: /terms/recognizer-picker text: recognizer picker) allowing the user to select the method of (link: /terms/handwriting-recognition text: handwriting recognition) used to interpret what is being written or drawn.
+When (link: /terms/tapped text: tapped), it displays a (link: /terms/recognizer-picker text: recognizer picker) allowing the user to select the method of (link: /terms/handwriting-recognition text: handwriting recognition) used to interpret what is being written or drawn.
 
 Options include (link: /terms/text text: Text), (link: /terms/ink-word text: Ink Text), (link: /terms/shapes text: Shapes), and (link: /terms/sketches text: Sketches).
 

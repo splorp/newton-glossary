@@ -8,7 +8,7 @@ Date: 24 May 2001
 
 Text:
 
-To activate or restore the activity of an (link: /terms/package text: package) that has previously been (link: /terms/frozen text: frozen) or deactivated. Thawing is similar to activating packages on an (link: /terms/external-store text: external store) when inserting a (link: /terms/pc-card text: PC card).
+To activate or restore the activity of a (link: /terms/package text: package) that has previously been (link: /terms/frozen text: frozen) or deactivated. Thawing is similar to activating packages on an (link: /terms/external-store text: external store) when inserting a (link: /terms/pc-card text: PC card).
 
 To deactivate a package, you (link: /terms/freeze text: freeze) it.
 
