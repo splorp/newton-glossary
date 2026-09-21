@@ -23,6 +23,7 @@ Resource:
 Related:
 
 - /terms/alarm
+- /terms/blueprint
 - /terms/checklist
 - /terms/date-book
 - /terms/flashpoint

@@ -14,6 +14,7 @@ A type of (link: /terms/stationery text: stationery) in the (link: /terms/notepa
 
 Related:
 
+- /terms/blueprint
 - /terms/checkbox
 - /terms/circle
 - /terms/flashpoint

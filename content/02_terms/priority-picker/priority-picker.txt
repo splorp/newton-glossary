@@ -18,6 +18,7 @@ Also referred to as a (link: /terms/priority-menu text: Priority Menu) and (link
 
 Related:
 
+- /terms/blueprint
 - /terms/date-book
 - /terms/flashpoint
 - /terms/getting-things-done

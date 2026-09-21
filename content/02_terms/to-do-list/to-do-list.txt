@@ -14,6 +14,7 @@ A daily (link: /terms/checklist text: checklist) in the (link: /terms/date-book 
 
 Related:
 
+- /terms/blueprint
 - /terms/checklist
 - /terms/date-book
 - /terms/flashpoint

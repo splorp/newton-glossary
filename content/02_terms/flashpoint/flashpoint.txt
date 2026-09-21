@@ -23,6 +23,7 @@ Resource:
 
 Related:
 
+- /terms/blueprint
 - /terms/checklist
 - /terms/date-book
 - /terms/getting-things-done

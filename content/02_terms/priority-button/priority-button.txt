@@ -26,6 +26,7 @@ Also referred to as a (link: /terms/priority-marker text: Priority Marker).
 
 Related:
 
+- /terms/blueprint
 - /terms/button
 - /terms/date-book
 - /terms/flashpoint

@@ -18,6 +18,7 @@ Information regarding a (link: /terms/task text: task) appears in a (link: /term
 
 Related:
 
+- /terms/blueprint
 - /terms/checklist
 - /terms/date-book
 - /terms/date-picker

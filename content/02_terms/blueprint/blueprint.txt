@@ -1,0 +1,45 @@
+Title: BluePrint
+
+----
+
+Date: 21 September 2026
+
+----
+
+Text:
+
+A project manager (link: /terms/application text: application) developed by (link: /sources/sign-of-the-times text: Sign of the Times) used for planning and organizing complex activities, including (link: /terms/task text: tasks) and (link: /terms/meeting text: meetings).
+
+(image: /assets/images/blueprint-2x.gif alt: Screenshot of the BluePrint application width: 320)
+
+BluePrint also facilitates transferring [Microsoft Project](https://en.wikipedia.org/wiki/Microsoft_Project) files from a Mac OS or Windows computer to a Newton device.
+
+----
+
+Resource:
+
+- [Sign of the Times: BluePrint](https://web.archive.org/web/19980214171008/http://sineware.com/products/BluePrint/)
+- [UNNA: BluePrint 1.6 Demo](http://www.unna.org/view.php?/applications/Blueprint1.6Demo)
+- [Newted: BluePrint User Guide](https://www.newted.org/download/manuals/BluePrintUsersGuide.pdf)
+
+----
+
+Related:
+
+- /terms/checklist
+- /terms/flashpoint
+- /terms/getting-things-done
+- /terms/newttodo
+- /terms/nitch
+- /terms/priority-button
+- /terms/priority-picker
+- /terms/sineware
+- /terms/to-do-list
+- /terms/to-do-task
+
+----
+
+Source:
+
+- /sources/sign-of-the-times
+- /sources/sarofax

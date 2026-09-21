@@ -23,6 +23,7 @@ Resource:
 
 Related:
 
+- /terms/blueprint
 - /terms/checklist
 - /terms/flashpoint
 - /terms/getting-things-done
