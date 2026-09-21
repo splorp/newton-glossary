@@ -1,0 +1,44 @@
+Title: Recognizer Buttons
+
+----
+
+Date: 21 September 2026
+
+----
+
+Text:
+
+A pair of (link: /terms/picture-button text: picture buttons) located in the (link: /terms/status-bar text: status bar) in early versions of (link: /terms/newton-os text: Newton OS) that allow the user to select the method of (link: /terms/handwriting-recognition text: handwriting recognition) used to interpret what is being written or drawn.
+
+(image: /assets/images/recognizer-buttons-2x.gif alt: Screenshot of the Text Recognizer Toggle and Recognition Buttons in the Status Bar width: 240)
+
+The recognizer buttons were replaced in Newton OS 2.0 with a single (link: /terms/recognition-button text: recognition button) that displays a (link: /terms/recognizer-picker text: recognizer picker) when (link: /terms/tapped text: tapped).
+
+In prerelease versions of Newton OS 1.0, the recognizer buttons are referred to as (link: /terms/interpreter-buttons text: interpreter buttons).
+
+----
+
+Related:
+
+- /terms/button
+- /terms/handwriting-recognition
+- /terms/ink-text
+- /terms/interpreter-buttons
+- /terms/picture-button
+- /terms/quick-sketch
+- /terms/recognized-text
+- /terms/recognition-button
+- /terms/recognizer-picker
+- /terms/shapes
+- /terms/sketch
+- /terms/sketches
+- /terms/text
+- /terms/text-recognizer-toggle
+- /terms/user-interface
+
+----
+
+Source:
+
+- /sources/messagepad-setup-guide
+- /sources/newton-programmers-guide

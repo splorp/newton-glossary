@@ -1,0 +1,17 @@
+Title: Recognition Menu
+
+----
+
+Date: 21 September 2026
+
+----
+
+Text:
+
+See: (link: /terms/recognizer-picker text: Recognizer Picker)
+
+----
+
+Source:
+
+- /sources/newton-programmers-guide

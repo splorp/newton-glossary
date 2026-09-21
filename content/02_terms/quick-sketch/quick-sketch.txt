@@ -26,6 +26,7 @@ Related:
 - /terms/newton-works
 - /terms/picture
 - /terms/recognition-button
+- /terms/recognizer-buttons
 - /terms/recognizer-picker
 - /terms/shape
 - /terms/shapes

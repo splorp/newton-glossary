@@ -67,6 +67,7 @@ Related:
 - /terms/realign
 - /terms/recognition-button
 - /terms/recognized-text
+- /terms/recognizer-buttons
 - /terms/recognizer-picker
 - /terms/recognizers
 - /terms/rosetta

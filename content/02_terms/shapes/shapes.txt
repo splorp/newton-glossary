@@ -20,6 +20,7 @@ Related:
 - /terms/picture
 - /terms/quick-sketch
 - /terms/recognition-button
+- /terms/recognizer-buttons
 - /terms/recognizer-picker
 - /terms/shape
 - /terms/shape-recognition

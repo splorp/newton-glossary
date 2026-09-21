@@ -28,6 +28,7 @@ Related:
 - /terms/inker
 - /terms/recognition-button
 - /terms/recognized-text
+- /terms/recognizer-buttons
 - /terms/recognizer-picker
 - /terms/text
 - /terms/text-recognizer-toggle

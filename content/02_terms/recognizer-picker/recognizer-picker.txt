@@ -16,7 +16,7 @@ A list of (link: /terms/handwriting-recognition text: handwriting recognition) m
 
 The last item in the recognizer picker is (link: /terms/preferences text: Preferences) which provides quick access to the Handwriting Recognition section of the (link: /terms/prefs text: Prefs) application. An exception is (link: /terms/newton-works text: Newton Works), where the (link: /terms/quick-sketch text: Quick Sketch) slip also has a recognition button, but only the Shapes and Sketches options are included.
 
-Also referred to as a (link: /terms/recognition-picker text: Recognition Picker).
+Also referred to as a (link: /terms/recognition-menu text: Recognition Menu) and (link: /terms/recognition-picker text: Recognition Picker).
 
 ----
 
@@ -27,8 +27,10 @@ Related:
 - /terms/picker
 - /terms/quick-sketch
 - /terms/recognition-button
+- /terms/recognition-menu
 - /terms/recognition-picker
 - /terms/recognized-text
+- /terms/recognizer-buttons
 - /terms/shapes
 - /terms/sketch
 - /terms/sketches

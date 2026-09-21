@@ -1,0 +1,17 @@
+Title: Interpreter Buttons
+
+----
+
+Date: 21 September 2026
+
+----
+
+Text:
+
+See: (link: /terms/recognizer-buttons text: Recognizer Buttons)
+
+----
+
+Source:
+
+- /sources/newton-notepad

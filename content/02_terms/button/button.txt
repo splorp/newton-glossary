@@ -42,6 +42,7 @@ Related:
 - /terms/priority-button
 - /terms/radio-button
 - /terms/recognition-button
+- /terms/recognizer-buttons
 - /terms/reset-button
 - /terms/ryo
 - /terms/scroll-arrows

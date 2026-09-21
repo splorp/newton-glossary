@@ -8,7 +8,7 @@ Date: 28 January 2026
 
 Text:
 
-A (link: /terms/picture-button text: picture button) containing an (link: /terms/icon text: icon) representing a pair of diagonal lines and positioned next to the (link: /terms/recognizer-button text: recognizer buttons) in early versions of (link: /terms/newton-os text: Newton OS).
+A (link: /terms/picture-button text: picture button) containing an (link: /terms/icon text: icon) representing a pair of diagonal lines and positioned next to the (link: /terms/recognizer-buttons text: recognizer buttons) in early versions of (link: /terms/newton-os text: Newton OS).
 
 The button is used to change the (link: /terms/handwriting-recognition text: handwriting recognition) into a mode that better accommodates entering of words that are not likely included in the default (link: /terms/word-list text: word list), as well as (link: /terms/numbers text: numbers) or dates.
 
@@ -27,6 +27,7 @@ Related:
 - /terms/picture-button
 - /terms/recognition-button
 - /terms/recognized-text
+- /terms/recognizer-buttons
 - /terms/recognizer-picker
 - /terms/text
 - /terms/toggle

@@ -33,6 +33,7 @@ Related:
 - /terms/recognized-text
 - /terms/recognizer
 - /terms/recognizer-engine
+- /terms/recognizer-buttons
 - /terms/recognizer-picker
 - /terms/shape-recognition
 - /terms/shape-recognizer

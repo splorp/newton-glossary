@@ -8,7 +8,7 @@ Date: 05 November 2017
 
 Text:
 
-A (link: /terms/picture-button text: picture button) containing an (link: /terms/icon text: icon) representing an “A” (link: /terms/character text: character).
+A (link: /terms/picture-button text: picture button) located in the (link: /terms/status-bar text: status bar) containing an (link: /terms/icon text: icon) representing an “A” (link: /terms/character text: character).
 
 When (link: /terms/tapped text: tapped), it displays a (link: /terms/recognizer-picker text: recognizer picker) allowing the user to select the method of (link: /terms/handwriting-recognition text: handwriting recognition) used to interpret what is being written or drawn.
 
@@ -33,6 +33,7 @@ Related:
 - /terms/quick-sketch
 - /terms/recognized-text
 - /terms/recognizer-button
+- /terms/recognizer-buttons
 - /terms/recognizer-picker
 - /terms/shapes
 - /terms/sketch
