@@ -1,0 +1,17 @@
+Title: Activation Record
+
+----
+
+Date: 21 September 2026
+
+----
+
+Text:
+
+See: (link: /terms/stack-activation-record text: Stack Activation Record)
+
+----
+
+Source:
+
+- /sources/newton-technology-journal

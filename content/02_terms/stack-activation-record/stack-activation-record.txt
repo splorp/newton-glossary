@@ -10,10 +10,13 @@ Text:
 
 In (link: /terms/newtonscript text: NewtonScript), a (link: /terms/frame text: frame) on the (link: /terms/function-call-stack text: function call stack) that describes a (link: /terms/function text: function) that has not yet completed execution. A stack activation record contains a (link: /terms/pointer text: pointer) to the next instruction to be executed. Specifically, the function’s (link: /terms/receiver text: receiver) and (link: /terms/implementor text: implementor) — if they exist — and the function’s associated parameters, temporary variables, and named (link: /terms/variable text: variables).
 
+Also referred to as an (link: /terms/activation-record text: Activation Record) and (link: /terms/stack-frame text: Stack Frame).
+
 ----
 
 Related:
 
+- /terms/activation-record
 - /terms/frame
 - /terms/function
 - /terms/function-call-stack
@@ -22,6 +25,7 @@ Related:
 - /terms/pointer
 - /terms/receiver
 - /terms/stack
+- /terms/stack-frame
 - /terms/variable
 
 ----
