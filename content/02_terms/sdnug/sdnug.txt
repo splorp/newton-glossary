@@ -1,22 +1,16 @@
-Title: NOSE
+Title: SDNUG
 
 ----
 
-Date: 24 August 2016
+Date: 22 September 2026
 
 ----
 
 Text:
 
-Newton Owners Switzerland & Europe
+San Diego Newton User Group
 
-A western European user group founded by Richard Schären.
-
-----
-
-Resource:
-
-- [NOSE Website](https://web.archive.org/web/19980529083010/http://www.newton.ch/nose/)
+A user group managed by Alex Tosheff and (link: /sources/steve-holden text: Steve Holden). SDNUG disbanded in late 1997, reforming as the San Diego Handheld User Group (SDHUG).
 
 ----
 
@@ -44,6 +38,7 @@ Related:
 - /terms/ngfun
 - /terms/ngn
 - /terms/noise
+- /terms/nose
 - /terms/nug-central
 - /terms/nugom
 - /terms/nycnug
@@ -51,7 +46,6 @@ Related:
 - /terms/oznug
 - /terms/random
 - /terms/sane
-- /terms/sdnug
 - /terms/sinug
 - /terms/snag
 - /terms/snug
@@ -62,3 +56,9 @@ Related:
 - /terms/tuna
 - /terms/tvnug
 - /terms/uknug
+
+----
+
+Source:
+
+- /sources/steve-holden

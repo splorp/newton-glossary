@@ -55,6 +55,8 @@ Related:
 - /terms/oanug
 - /terms/random
 - /terms/sane
+- /terms/sdnug
+- /terms/sinug
 - /terms/snag
 - /terms/snug
 - /terms/sonug

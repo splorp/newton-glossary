@@ -51,6 +51,8 @@ Related:
 - /terms/oanug
 - /terms/oznug
 - /terms/sane
+- /terms/sdnug
+- /terms/sinug
 - /terms/snag
 - /terms/snug
 - /terms/sonug

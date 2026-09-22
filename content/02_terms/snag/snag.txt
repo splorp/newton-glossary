@@ -52,6 +52,8 @@ Related:
 - /terms/oznug
 - /terms/random
 - /terms/sane
+- /terms/sdnug
+- /terms/sinug
 - /terms/snug
 - /terms/sonug
 - /terms/special-interest-group

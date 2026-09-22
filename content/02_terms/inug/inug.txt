@@ -10,6 +10,8 @@ Text:
 
 Italian Newton User Group
 
+A user group created to evangelize the (link: /terms/newton-os text: Newton OS) platform and help grow the Newton community in Italy.
+
 ----
 
 Related:
@@ -43,6 +45,8 @@ Related:
 - /terms/oznug
 - /terms/random
 - /terms/sane
+- /terms/sdnug
+- /terms/sinug
 - /terms/snag
 - /terms/snug
 - /terms/sonug

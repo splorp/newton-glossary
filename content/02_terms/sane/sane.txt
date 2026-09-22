@@ -49,6 +49,8 @@ Related:
 - /terms/oanug
 - /terms/oznug
 - /terms/random
+- /terms/sdnug
+- /terms/sinug
 - /terms/snag
 - /terms/snug
 - /terms/sonug

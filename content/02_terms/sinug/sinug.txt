@@ -1,22 +1,22 @@
-Title: NGFUN
+Title: SiNUG
 
 ----
 
-Date: 11 February 2017
+Date: 22 September 2026
 
 ----
 
 Text:
 
-Nouveau Groupe des Utilisateurs Francophones de Newton
+Singapore Newton User Group
 
-A support community for French speaking Newton users that superseded (link: /terms/gfun text: GFUN) (Groupe Francophone des Utilisateurs de Newton). In September 2000, NGFUN launched the [Newton-FR](https://web.archive.org/web/20080608142030/http://ngfun.online.fr/newtonfr/) mailing list. In 2002, NGFUN morphed into yet another group calling itself (link: /terms/random text: RANDOM) (Regroupement des Amis du Newton Dévoués Ostensiblement à leurs Machines).
+Founded by Kenneth Wong in August 1997, this user group consisting of “a bunch of crazy people who live in Singapore” also published news, reviews, tips, and other information on their website.
 
 ----
 
 Resource:
 
-- [NGFUN Website](https://web.archive.org/web/20010723085844/http://ngfun.online.fr/)
+- [SiNUG Website](https://web.archive.org/web/19991003020135/http://members.tripod.com/~sinug/)
 
 ----
 
@@ -41,6 +41,7 @@ Related:
 - /terms/newton-fig
 - /terms/newton-japan
 - /terms/newton-user-group
+- /terms/ngfun
 - /terms/ngn
 - /terms/noise
 - /terms/nose
@@ -52,7 +53,6 @@ Related:
 - /terms/random
 - /terms/sane
 - /terms/sdnug
-- /terms/sinug
 - /terms/snag
 - /terms/snug
 - /terms/sonug
