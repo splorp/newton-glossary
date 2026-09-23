@@ -10,7 +10,7 @@ Text:
 
 An organized group of Newton enthusiasts, commonly abbreviated as (link: /terms/nug text: NUG).
 
-Newton user groups can be formed as a (link: /terms/special-interest-group text: special interest group) (SIG) within the framework of an existing, larger user group. This type of group is commonly referred to as a (link: /terms/newtonsig text: NewtonSIG).
+Newton user groups can be formed as a (link: /terms/special-interest-group text: special interest group) (SIG) within the framework of an existing, larger user group. This type of group is commonly referred to as a (link: /terms/newton-sig text: Newton SIG).
 
 ----
 
@@ -34,7 +34,7 @@ Related:
 - /terms/nenug
 - /terms/newton-fig
 - /terms/newton-japan
-- /terms/newtonsig
+- /terms/newton-sig
 - /terms/ngfun
 - /terms/ngn
 - /terms/noise

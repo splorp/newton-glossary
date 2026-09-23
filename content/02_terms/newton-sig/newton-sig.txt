@@ -1,4 +1,4 @@
-Title: NewtonSIG
+Title: Newton SIG
 
 ----
 
@@ -9,9 +9,3 @@ Date: 22 September 2026
 Text:
 
 See: (link: /terms/newton-user-group text: Newton User Group) and (link: /terms/special-interest-group text: Special Interest Group)
-
-----
-
-Source:
-
-- /sources/steve-holden
