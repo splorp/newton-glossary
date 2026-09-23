@@ -12,11 +12,16 @@ Austin Newton Users Group
 
 Founded by Deb Ayers, Rob Cox, and Kent Spaulding in October 1995 as a way for enthusiasts to explore mobile technologies. ANUG eventually changed its name to the Austin Digital Assistant Users Group ((link: /terms/adaug text: ADAUG)) as a refection of the expanding marketplace.
 
+Alberta Newton Users Group
+
+A user group [conceived by Vernon LeMoignan](https://newtontalk.net/archive/newtontalk/2002-September/0037.html) on the (link: /terms/newtontalk text: NewtonTalk) mailing list in the fall of 2002. This informal group consisted primarily of Newton users from the Edmonton area, but also included interested parties living in Red Deer, Calgary, and the surrounding region.
+
 ----
 
 Resource:
 
 - [ANUG Website](https://web.archive.org/web/19981207065148/http://www.zti.com/anug/)
+- [NewtonTalk: Alberta Newton Users Group](https://newtontalk.net/archive/newtontalk/2002-September/0037.html)
 
 ----
 

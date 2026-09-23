@@ -12,6 +12,18 @@ Italian Newton User Group
 
 A user group created to evangelize the (link: /terms/newton-os text: Newton OS) platform and help grow the Newton community in Italy.
 
+Indiana Newton User Group
+
+A user group [proposed by Jim Lopez](https://newtontalk.net/archive/newtontalk/2002-March/2186.html) during a discussion on the NewtonTalk mailing list in March 2002. Mainly consisting of Newton users based in Indiana, the group maintained there own Yahoo! Groups mailing list. 
+
+The Indiana Newton User Group was also referred to as (link: /terms/nugi text: NUGi) and (link: /terms/indynewton text: IndyNewton)).
+
+----
+
+Resource:
+
+- [NewtonTalk: Indiana Newton User Group](https://newtontalk.net/archive/newtontalk/2002-March/2186.html)
+
 ----
 
 Related:
@@ -24,6 +36,7 @@ Related:
 - /terms/gfun
 - /terms/gnut
 - /terms/hknug
+- /terms/indynewton
 - /terms/knug
 - /terms/lanug
 - /terms/misnic
@@ -39,6 +52,7 @@ Related:
 - /terms/noise
 - /terms/nose
 - /terms/nug-central
+- /terms/nugi
 - /terms/nugom
 - /terms/nycnug
 - /terms/oanug
