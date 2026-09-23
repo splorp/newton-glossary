@@ -21,5 +21,5 @@ The company was also known as (link: /terms/sineware text: Sineware).
 Resource:
 
 - [Sign of the Times Website](https://web.archive.org/web/20030728215145/http://www.sineware.com/)
-- [NewtonTalk: Sarofax/Sineware packages now open-source](http://newtontalk.net/archive/newtontalk/2004-October/0194.html)
-- [NewtonTalk: Sarofax/Sineware source as .sitx and .gz](http://newtontalk.net/archive/newtontalk/2004-October/0202.html)
+- [NewtonTalk: Sarofax/Sineware packages now open-source](https://newtontalk.net/archive/newtontalk/2004-October/0194.html)
+- [NewtonTalk: Sarofax/Sineware source as .sitx and .gz](https://newtontalk.net/archive/newtontalk/2004-October/0202.html)

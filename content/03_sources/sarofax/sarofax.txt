@@ -16,5 +16,5 @@ Resource:
 
 - [Sarofax Website](https://web.archive.org/web/20051025074752/http://www.sarofax.com/)
 - [Sarofax Technical: Short tales of writing software](https://sarofax.wordpress.com/)
-- [NewtonTalk: Sarofax/Sineware packages now open-source](http://newtontalk.net/archive/newtontalk/2004-October/0194.html)
-- [NewtonTalk: Sarofax/Sineware source as .sitx and .gz](http://newtontalk.net/archive/newtontalk/2004-October/0202.html)
+- [NewtonTalk: Sarofax/Sineware packages now open-source](https://newtontalk.net/archive/newtontalk/2004-October/0194.html)
+- [NewtonTalk: Sarofax/Sineware source as .sitx and .gz](https://newtontalk.net/archive/newtontalk/2004-October/0202.html)
