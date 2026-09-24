@@ -1,0 +1,76 @@
+Title: UNUGMUC
+
+----
+
+Date: 24 September 2026
+
+----
+
+Text:
+
+Unabhängige Newton User Group München
+
+A user group founded by (link: /sources/nick-muller text: Nick Müller) in Munich, Germany.
+
+After the Newton was [discontinued](https://web.archive.org/web/20040528183253/http://www.apple.com/pr/library/1998/feb/27newton.html), the group transitioned to the Unabhängige Mac User Group Munich (UMUGMUC).
+
+Also referred to as (link: /terms/newton-stammtisch text: Newton-Stammtisch) and (link: /terms/newton-mac-stammtisch text: Newton-Mac-Stammtisch).
+
+----
+
+Resource:
+
+- [UNUGMUC Website](https://web.archive.org/web/20000413043124/http://logictools.de/newton/german/umugmuc.shtml)
+
+----
+
+Related:
+
+- /terms/anug
+- /terms/bscng
+- /terms/dang
+- /terms/dnug
+- /terms/fnewton
+- /terms/gfun
+- /terms/gnut
+- /terms/hknug
+- /terms/knug
+- /terms/lanug
+- /terms/misnic
+- /terms/mpadclub
+- /terms/msnug
+- /terms/nanug
+- /terms/nenug
+- /terms/newton-fig
+- /terms/newton-japan
+- /terms/newton-mac-stammtisch
+- /terms/newton-stammtisch
+- /terms/newton-user-group
+- /terms/ngfun
+- /terms/ngn
+- /terms/noise
+- /terms/nose
+- /terms/nug-central
+- /terms/nugom
+- /terms/nycnug
+- /terms/oanug
+- /terms/oznug
+- /terms/random
+- /terms/sane
+- /terms/sdnug
+- /terms/sinug
+- /terms/snag
+- /terms/snug
+- /terms/sonug
+- /terms/special-interest-group
+- /terms/tcnug
+- /terms/tnwou
+- /terms/tuna
+- /terms/tvnug
+- /terms/uknug
+
+----
+
+Source:
+
+- /sources/nick-muller

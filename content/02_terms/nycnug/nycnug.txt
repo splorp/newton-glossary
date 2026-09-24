@@ -66,3 +66,4 @@ Related:
 - /terms/tuna
 - /terms/tvnug
 - /terms/uknug
+- /terms/unugmuc
