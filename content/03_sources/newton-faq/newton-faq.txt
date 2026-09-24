@@ -17,4 +17,4 @@ Resource:
 - [Newton FAQ Website](https://newtonfaq.com/)
 - [GitHub: Newton FAQ](https://github.com/splorp/newton-faq)
 - [NewtonTalk: The Newton FAQ ... Now on GitHub!](https://newtontalk.net/archive/newtontalk/2012-January/046623.html)
-- [NewtonTalk: The Newton FAQ ... it’s not dead](https://lists.newtontalk.net/pipermail/newtontalk/2021-March/000342.html)
+- [NewtonTalk: The Newton FAQ ... it’s not dead](https://newtontalk.net/archive/newtontalk/2021-March/000342.html)

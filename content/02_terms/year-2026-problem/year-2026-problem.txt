@@ -18,7 +18,7 @@ Commonly referred to as the (link: /terms/y2026 text: Y2026) bug.
 
 Resource:
 
-- [NewtonTalk: Did I miss the memo? Trying things out.](http://lists.newtontalk.net/pipermail/newtontalk/2025-January/002703.html)
+- [NewtonTalk: Did I miss the memo? Trying things out.](https://newtontalk.net/archive/newtontalk/2025-January/002703.html)
 - [40hz: Time travel](https://40hz.org/Pages/mottek/2025/2025-01-06/)
 - [40Hz: Just checking …](https://40hz.org/Pages/mottek/2016/2016-02-14/)
 - [40Hz: Newton Year 2010 Problem](https://40hz.org/Pages/newton/hacking/newton-year-2010-problem/)
