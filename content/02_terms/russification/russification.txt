@@ -10,6 +10,8 @@ Text:
 
 A term coined by (link: /sources/anton-balaban text: Anton Balaban) to describe the process of using the Russian language on a Newton device. Russification generally involves installing Cyrillic (link: /terms/font text: fonts), a special (link: /terms/keyboard text: keyboard) layout, (link: /terms/system-patch text: system patches) to modify various bits of text, and other software (link: /terms/package text: packages) to localize the English language version of (link: /terms/newton-os text: Newton OS).
 
+Also referred to as (link: /terms/russifying text: Russifying).
+
 Once a Newton device has gone through this process, it is said to have been (link: /terms/russified text: Russified).
 
 ----
@@ -26,6 +28,7 @@ Related:
 - /terms/newton-language-kit
 - /terms/newton-text-encoding
 - /terms/russified
+- /terms/russifying
 - /terms/unicode
 - /terms/unifep
 
