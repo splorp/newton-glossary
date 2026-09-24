@@ -1,22 +1,20 @@
-Title: SiNUG
+Title: NewtChamp
 
 ----
 
-Date: 22 September 2026
+Date: 24 September 2026
 
 ----
 
 Text:
 
-Singapore Newton User Group
-
-Founded by Kenneth Wong in August 1997, this user group consisting of “a bunch of crazy people who live in Singapore” also published news, reviews, tips, and other information on their website.
+A user group based in Vermont, organized by Hardy Macia of (link: /sources/catamount text: Catamount Software). Originally formed as a (link: /terms/special-interest-group text: special interest group) (SIG) within the [MacChamp](https://web.archive.org/web/19970616064854/http://www.sover.net/~gm7234/macintosh.html) Macintosh user group, NewtChamp held their first meeting in November 1995, disbanding in 1998.
 
 ----
 
 Resource:
 
-- [SiNUG Website](https://web.archive.org/web/19991003020135/http://members.tripod.com/~sinug/)
+- [NewtChamp Website](https://web.archive.org/web/19981202040912/http://homepages.together.net/~hardy/NewtChamp.html)
 
 ----
 
@@ -30,7 +28,6 @@ Related:
 - /terms/gfun
 - /terms/gnut
 - /terms/hknug
-- /terms/inug
 - /terms/knug
 - /terms/lanug
 - /terms/misnic
@@ -38,9 +35,10 @@ Related:
 - /terms/msnug
 - /terms/nanug
 - /terms/nenug
-- /terms/newtchamp
 - /terms/newton-fig
 - /terms/newton-japan
+- /terms/newton-mac-stammtisch
+- /terms/newton-stammtisch
 - /terms/newton-user-group
 - /terms/ngfun
 - /terms/ngn
@@ -54,6 +52,7 @@ Related:
 - /terms/random
 - /terms/sane
 - /terms/sdnug
+- /terms/sinug
 - /terms/snag
 - /terms/snug
 - /terms/sonug
@@ -64,3 +63,9 @@ Related:
 - /terms/tvnug
 - /terms/uknug
 - /terms/unugmuc
+
+----
+
+Source:
+
+- /sources/newton-reference

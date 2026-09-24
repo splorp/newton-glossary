@@ -37,6 +37,7 @@ Related:
 - /terms/mpadclub
 - /terms/msnug
 - /terms/nenug
+- /terms/newtchamp
 - /terms/newton-fig
 - /terms/newton-japan
 - /terms/newton-user-group

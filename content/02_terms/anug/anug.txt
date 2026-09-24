@@ -43,6 +43,7 @@ Related:
 - /terms/msnug
 - /terms/nanug
 - /terms/nenug
+- /terms/newtchamp
 - /terms/newton-fig
 - /terms/newton-japan
 - /terms/newton-user-group
