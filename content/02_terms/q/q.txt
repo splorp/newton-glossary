@@ -10,23 +10,29 @@ Text:
 
 Code name of the (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices.
 
-Also the code name of the rumoured (link: /terms/messagepad-150 text: MessagePad 150) according to the (link: /sources/mackido text: Mackido) website.
+The front of the (link: /terms/prototype text: prototype) devices were labeled either (link: /terms/q-system text: Q System) or (link: /terms/evt text: EVT), depending on the development stage.
+
+Q is also the code name of the rumoured (link: /terms/messagepad-150 text: MessagePad 150) according to the (link: /sources/mackido text: Mackido) website.
 
 ----
 
 Resource:
 
 - [Flickr: Grant Hutchinson’s Newton “Q” Prototype](https://www.flickr.com/photos/splorp/albums/72157641920770134/)
+- [NewtonTalk: “System Q” prototype](https://lists.newtontalk.net/pipermail/newtontalk/2026-September/004018.html)
+- [Justin Reid: Q System](https://drive.google.com/drive/folders/1QhqrWW2VYL3A76kKM7mRi8gEvgtoxqU7)
 
 ----
 
 Related:
 
+- /terms/evt
 - /terms/messagepad-150
 - /terms/messagepad-2000
 - /terms/messagepad-2100
 - /terms/n2
 - /terms/prototype
+- /terms/q-system
 - /terms/voyager
 
 ----
