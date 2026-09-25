@@ -20,6 +20,7 @@ Related:
 - /terms/bscng
 - /terms/dang
 - /terms/dnug
+- /terms/ensureinternal
 - /terms/fnewton
 - /terms/gfun
 - /terms/gnut

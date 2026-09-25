@@ -18,6 +18,7 @@ Related:
 
 - /terms/dram
 - /terms/eeprom
+- /terms/ensureinternal
 - /terms/eprom
 - /terms/flash-ram
 - /terms/fragmentation

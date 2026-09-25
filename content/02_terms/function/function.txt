@@ -16,6 +16,7 @@ In a (link: /terms/spreadsheet text: spreadsheet) document, a function is a pre-
 
 Related:
 
+- /terms/ensureinternal
 - /terms/finite-state-machine
 - /terms/formula
 - /terms/function-object

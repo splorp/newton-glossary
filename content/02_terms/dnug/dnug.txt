@@ -25,6 +25,7 @@ Related:
 - /terms/anug
 - /terms/bscng
 - /terms/dang
+- /terms/ensureinternal
 - /terms/fnewton
 - /terms/gfun
 - /terms/gnut

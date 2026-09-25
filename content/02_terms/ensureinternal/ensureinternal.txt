@@ -1,20 +1,16 @@
-Title: MISNIC
+Title: EnsureInternal
 
 ----
 
-Date: 24 August 2016
+Date: 25 September 2026
 
 ----
 
 Text:
 
-Mississippi Newton Interest Club
+In (link: /terms/newtonscript text: NewtonScript), `EnsureInternal` is a (link: /terms/function text: function) that makes sure an (link: /terms/object text: object) exists entirely in internal (link: /terms/ram text: RAM) or (link: /terms/rom text: ROM).
 
-----
-
-Resource:
-
-- [MISNIC Website](https://web.archive.org/web/19980122061559/http://www.misnic.com/)
+EnsureInternal was also the name of the Minnesota Newton Developers user group.
 
 ----
 
@@ -26,12 +22,13 @@ Related:
 - /terms/dnug
 - /terms/ensureinternal
 - /terms/fnewton
+- /terms/function
 - /terms/gfun
 - /terms/gnut
 - /terms/hknug
-- /terms/inug
 - /terms/knug
 - /terms/lanug
+- /terms/misnic
 - /terms/mpadclub
 - /terms/msnug
 - /terms/nanug
@@ -39,7 +36,10 @@ Related:
 - /terms/newtchamp
 - /terms/newton-fig
 - /terms/newton-japan
+- /terms/newton-mac-stammtisch
+- /terms/newton-stammtisch
 - /terms/newton-user-group
+- /terms/newtonscript
 - /terms/ngfun
 - /terms/ngn
 - /terms/noise
@@ -49,7 +49,9 @@ Related:
 - /terms/nycnug
 - /terms/oanug
 - /terms/oznug
+- /terms/ram
 - /terms/random
+- /terms/rom
 - /terms/sane
 - /terms/sdnug
 - /terms/sinug
@@ -63,3 +65,10 @@ Related:
 - /terms/tvnug
 - /terms/uknug
 - /terms/unugmuc
+
+----
+
+Source:
+
+- /sources/newton-programmers-reference
+- /sources/ultimate-newton
