@@ -1,0 +1,35 @@
+Title: Scribbles
+
+----
+
+Date: 26 September 2026
+
+----
+
+Text:
+
+An electronic newsletter published by (link: /terms/oznug text: OzNUG), a (link: /terms/newton-user-group text: Newton user group) in Australia.
+
+----
+
+Resource:
+
+- [Newted: OzNUG Scribbles June 1995](https://www.newted.org/download/newsletters/OZNUG01.PDF)
+
+----
+
+Related:
+
+- /terms/boznug
+- /terms/double-tap
+- /terms/gecko
+- /terms/infonote
+- /terms/moznug
+- /terms/newtnews
+- /terms/newtnews-pro
+- /terms/newtwire
+- /terms/oznug
+- /terms/protoreality
+- /terms/soznug
+- /terms/tapped-in
+- /terms/woznug

@@ -1,20 +1,22 @@
-Title: NewtChamp
+Title: mOzNUG
 
 ----
 
-Date: 25 September 2026
+Date: 26 September 2026
 
 ----
 
 Text:
 
-A user group based in Vermont, organized by Hardy Macia of (link: /sources/catamount text: Catamount Software). Originally formed as a (link: /terms/special-interest-group text: special interest group) (SIG) within the [MacChamp](https://web.archive.org/web/19970616064854/http://www.sover.net/~gm7234/macintosh.html) Macintosh user group, NewtChamp held their first meeting in November 1995, disbanding in 1998.
+A subchapter of (link: /terms/oznug text: OzNUG), the Australian Newton Users Group.
+
+mOzNUG was based in Melbourne, Victoria.
 
 ----
 
 Resource:
 
-- [NewtChamp Website](https://web.archive.org/web/19981202040912/http://homepages.together.net/~hardy/NewtChamp.html)
+- [Newted: OzNUG Scribbles June 1995](https://www.newted.org/download/newsletters/OZNUG01.PDF)
 
 ----
 
@@ -30,18 +32,17 @@ Related:
 - /terms/gfun
 - /terms/gnut
 - /terms/hknug
+- /terms/inug
 - /terms/knug
 - /terms/lanug
 - /terms/misnic
-- /terms/moznug
 - /terms/mpadclub
 - /terms/msnug
 - /terms/nanug
 - /terms/nenug
+- /terms/newtchamp
 - /terms/newton-fig
 - /terms/newton-japan
-- /terms/newton-mac-stammtisch
-- /terms/newton-stammtisch
 - /terms/newton-user-group
 - /terms/newton-user-groups
 - /terms/ngfun
@@ -55,6 +56,7 @@ Related:
 - /terms/oznug
 - /terms/random
 - /terms/sane
+- /terms/scribbles
 - /terms/sdnug
 - /terms/sinug
 - /terms/snag
@@ -69,9 +71,3 @@ Related:
 - /terms/uknug
 - /terms/unugmuc
 - /terms/woznug
-
-----
-
-Source:
-
-- /sources/newton-reference

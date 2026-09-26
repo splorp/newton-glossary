@@ -29,6 +29,7 @@ Related:
 - /terms/newtnews-pro
 - /terms/newton-info
 - /terms/protoreality
+- /terms/scribbles
 - /terms/tapped-in
 
 ----

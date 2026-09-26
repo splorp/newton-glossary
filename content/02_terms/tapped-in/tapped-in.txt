@@ -22,3 +22,4 @@ Related:
 - /terms/newtwire
 - /terms/newton-systems-group
 - /terms/protoreality
+- /terms/scribbles

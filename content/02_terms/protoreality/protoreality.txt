@@ -27,6 +27,7 @@ Related:
 - /terms/newtnews
 - /terms/newtnews-pro
 - /terms/newtwire
+- /terms/scribbles
 - /terms/tapped-in
 
 ----

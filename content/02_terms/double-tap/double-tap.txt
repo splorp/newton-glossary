@@ -34,6 +34,7 @@ Related:
 - /terms/pen-sound-effects
 - /terms/penning
 - /terms/protoreality
+- /terms/scribbles
 - /terms/tap
 - /terms/tap-and-a-half
 - /terms/tappable

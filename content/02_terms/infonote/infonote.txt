@@ -28,6 +28,6 @@ Related:
 - /terms/newtnews
 - /terms/newtnews-pro
 - /terms/newtwire
-- /terms/newton-user-group
 - /terms/protoreality
+- /terms/scribbles
 - /terms/tapped-in

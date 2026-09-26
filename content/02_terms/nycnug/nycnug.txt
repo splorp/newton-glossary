@@ -20,12 +20,14 @@ Resource:
 
 - [NYCNUG Website](https://web.archive.org/web/19981202080235/http://www.finepeter.com/nycnug/)
 - [NYCDAUG Website](https://web.archive.org/web/20000307161650/http://www.nycdaug.org/)
+- [Newted: NYC Newton Users Group December ‘94 Newsletter](https://www.newted.org/download/newsletters/NYCNUGNE.PDF)
 
 ----
 
 Related:
 
 - /terms/anug
+- /terms/boznug
 - /terms/bscng
 - /terms/dang
 - /terms/dnug
@@ -38,6 +40,7 @@ Related:
 - /terms/knug
 - /terms/lanug
 - /terms/misnic
+- /terms/moznug
 - /terms/mpadclub
 - /terms/msnug
 - /terms/nanug
@@ -63,6 +66,7 @@ Related:
 - /terms/snag
 - /terms/snug
 - /terms/sonug
+- /terms/soznug
 - /terms/special-interest-group
 - /terms/tcnug
 - /terms/tnwou
@@ -70,3 +74,4 @@ Related:
 - /terms/tvnug
 - /terms/uknug
 - /terms/unugmuc
+- /terms/woznug

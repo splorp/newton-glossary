@@ -20,6 +20,7 @@ Related:
 - /terms/newtnews
 - /terms/newtwire
 - /terms/protoreality
+- /terms/scribbles
 - /terms/tapped-in
 
 ----

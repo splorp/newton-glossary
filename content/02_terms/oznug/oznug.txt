@@ -10,19 +10,25 @@ Text:
 
 Australian Newton Users Group
 
-Founded in August 1994, OzNUG was based in Sydney and supported subchapters of the group throughout Australia. It was affiliated with (link: /terms/nanug text: NANUG), a very active (link: /terms/newton-user-group text: Newton user group) in the United States.
+Founded in August 1994, OzNUG was based in Sydney and supported subchapters of the group throughout Australia, including (link: /terms/boznug text: bOzNUG) in Brisbane, (link: /terms/moznug text: mOzNUG) in Melbourne, (link: /terms/soznug text: sOzNUG) in Adelaide, and (link: /terms/woznug text: wOzNUG) in Perth.
+
+The user group published a regular newsletter called (link: /terms/scribbles text: Scribbles).
+
+OzNUG was also affiliated with (link: /terms/nanug text: NANUG), a very active (link: /terms/newton-user-group text: Newton user group) in the United States.
 
 ----
 
 Resource:
 
-- [comp.sys.newton.announce: Newton User Group formed in Australia](https://groups.google.com/forum/#!msg/comp.sys.newton.announce/aRQEl4Voc8E/19zFFfgdQKsJ)
+- [comp.sys.newton.announce: Newton User Group formed in Australia](https://groups.google.com/g/comp.sys.newton.announce/c/aRQEl4Voc8E/m/19zFFfgdQKsJ)
+- [Newted: OzNUG Scribbles June 1995](https://www.newted.org/download/newsletters/OZNUG01.PDF)
 
 ----
 
 Related:
 
 - /terms/anug
+- /terms/boznug
 - /terms/bscng
 - /terms/dang
 - /terms/dnug
@@ -35,6 +41,7 @@ Related:
 - /terms/knug
 - /terms/lanug
 - /terms/misnic
+- /terms/moznug
 - /terms/mpadclub
 - /terms/msnug
 - /terms/nanug
@@ -54,11 +61,13 @@ Related:
 - /terms/oanug
 - /terms/random
 - /terms/sane
+- /terms/scribbles
 - /terms/sdnug
 - /terms/sinug
 - /terms/snag
 - /terms/snug
 - /terms/sonug
+- /terms/soznug
 - /terms/special-interest-group
 - /terms/tcnug
 - /terms/tnwou
@@ -66,3 +75,4 @@ Related:
 - /terms/tvnug
 - /terms/uknug
 - /terms/unugmuc
+- /terms/woznug

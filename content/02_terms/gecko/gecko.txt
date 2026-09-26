@@ -23,6 +23,7 @@ Related:
 - /terms/newtnews-pro
 - /terms/newtwire
 - /terms/protoreality
+- /terms/scribbles
 - /terms/tapped-in
 
 ----

@@ -23,6 +23,7 @@ Resource:
 Related:
 
 - /terms/anug
+- /terms/boznug
 - /terms/bscng
 - /terms/dang
 - /terms/dnug
@@ -34,6 +35,7 @@ Related:
 - /terms/inug
 - /terms/knug
 - /terms/misnic
+- /terms/moznug
 - /terms/mpadclub
 - /terms/msnug
 - /terms/nanug
@@ -59,6 +61,7 @@ Related:
 - /terms/snag
 - /terms/snug
 - /terms/sonug
+- /terms/soznug
 - /terms/special-interest-group
 - /terms/tcnug
 - /terms/tnwou
@@ -66,3 +69,4 @@ Related:
 - /terms/tvnug
 - /terms/uknug
 - /terms/unugmuc
+- /terms/woznug
