@@ -8,7 +8,9 @@ Date: 05 November 2024
 
 Text:
 
-Currently a senior systems engineer for the US Navy, Holden was editor and publisher of (link: /terms/newtnews text: NewtNews), a weekly newsletter that focused on the Newton platform. He was also involved with (link: /terms/sdnug text: SDNUG), the San Diego Newton User Group.
+Currently a senior systems engineer for the US Navy, Holden was editor and publisher of (link: /terms/newtnews text: NewtNews), a weekly newsletter that focused on the Newton platform.
+
+Holden was also involved with (link: /terms/sdnug text: SDNUG), the San Diego Newton User Group, and published a regularly updated list of (link: /terms/newton-user-group text: Newton user groups), appropriately named (link: /terms/newton-user-groups text: Newton User Groups).
 
 ----
 

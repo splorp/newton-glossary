@@ -43,6 +43,7 @@ Related:
 - /terms/newton-japan
 - /terms/newton-snak
 - /terms/newton-user-group
+- /terms/newton-user-groups
 - /terms/newton-versions
 - /terms/ngfun
 - /terms/ngn

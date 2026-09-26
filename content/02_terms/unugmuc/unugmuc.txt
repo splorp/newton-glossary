@@ -50,6 +50,7 @@ Related:
 - /terms/newton-mac-stammtisch
 - /terms/newton-stammtisch
 - /terms/newton-user-group
+- /terms/newton-user-groups
 - /terms/ngfun
 - /terms/ngn
 - /terms/noise

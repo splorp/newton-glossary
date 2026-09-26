@@ -42,6 +42,7 @@ Related:
 - /terms/newtchamp
 - /terms/newton-japan
 - /terms/newton-user-group
+- /terms/newton-user-groups
 - /terms/ngfun
 - /terms/ngn
 - /terms/noise
