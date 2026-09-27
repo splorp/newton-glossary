@@ -32,6 +32,7 @@ Related:
 - /terms/bospdaug
 - /terms/boznug
 - /terms/dang
+- /terms/danug
 - /terms/dnug
 - /terms/ensureinternal
 - /terms/fnewton

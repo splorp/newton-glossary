@@ -27,6 +27,7 @@ Related:
 - /terms/bcsng
 - /terms/boznug
 - /terms/dang
+- /terms/danug
 - /terms/ensureinternal
 - /terms/fnewton
 - /terms/gfun

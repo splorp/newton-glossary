@@ -1,16 +1,16 @@
-Title: TCNUG
+Title: DANUG
 
 ----
 
-Date: 24 August 2016
+Date: 27 September 2026
 
 ----
 
 Text:
 
-Twin Cities Newton Users Group
+Dallas Area Newton User Group
 
-A Minnesotan user group organized by Tim De Chant.
+A user group organized by Matt Snider and based in Dallas, Texas.
 
 ----
 
@@ -21,7 +21,6 @@ Related:
 - /terms/bcsng
 - /terms/boznug
 - /terms/dang
-- /terms/danug
 - /terms/dnug
 - /terms/ensureinternal
 - /terms/fnewton
@@ -60,9 +59,16 @@ Related:
 - /terms/sonug
 - /terms/soznug
 - /terms/special-interest-group
+- /terms/tcnug
 - /terms/tnwou
 - /terms/tuna
 - /terms/tvnug
 - /terms/uknug
 - /terms/unugmuc
 - /terms/woznug
+
+----
+
+Source:
+
+- /sources/steve-holden

@@ -26,7 +26,9 @@ Related:
 - /terms/bcs-npc
 - /terms/bcsng
 - /terms/boznug
-- /terms/dang
+- /terms/danug
+- /terms/dnug
+- /terms/ensureinternal
 - /terms/fnewton
 - /terms/gfun
 - /terms/gnut
