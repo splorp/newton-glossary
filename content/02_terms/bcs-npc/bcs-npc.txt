@@ -10,8 +10,9 @@ Text:
 
 Boston Computer Society Newton Programmers Collective
 
-An offshoot of (link: /terms/bcsng text: BCSNG), the Boston Computer Society Newton Group, that was formed to “facilitate communication and cooperation among the Newton
-developers community”. Meetings included seminars on various aspects of (link: /terms/newton-os text: Newton OS) programming, software and hardware demonstrations, as well as technical question and answer sessions.
+An offshoot of (link: /terms/bcsng text: BCSNG) (Boston Computer Society Newton Group) that was created to “… facilitate communication and cooperation among the Newton developers community.”
+
+Meetings included seminars on various aspects of (link: /terms/newton-os text: Newton OS) programming, software and hardware demonstrations, as well as regular technical question and answer sessions.
 
 ----
 

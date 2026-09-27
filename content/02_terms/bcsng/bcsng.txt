@@ -14,6 +14,8 @@ Formed by Al Willis in 1992, it later changed its name to (link: /terms/bospdaug
 
 Also referred to as the (link: /terms/bcs-newton text: BCS Newton) and the BCS Newton/PDA User Group.
 
+A related offshoot of the original group was the (link: /terms/bcs-npc text: BCS NPC) (Boston Computer Society Newton Programmers Collective) which focused on the (link: /terms/newton-os text: Newton OS) developer community.
+
 ----
 
 Resource:
