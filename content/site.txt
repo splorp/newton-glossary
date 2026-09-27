@@ -70,6 +70,10 @@ Redirects:
   touri: /terms/auto-expansion-dictionary
   code: _301
 - 
+  fromuri: /terms/bscng
+  touri: /terms/bcsng
+  code: _301
+- 
   fromuri: /terms/central-processing-unit
   touri: /terms/cpu
   code: _301
