@@ -17,8 +17,9 @@ Newton user groups can be formed as a (link: /terms/special-interest-group text:
 Related:
 
 - /terms/anug
+- /terms/bcs-npc
+- /terms/bcsng
 - /terms/boznug
-- /terms/bscng
 - /terms/dang
 - /terms/dnug
 - /terms/ensureinternal

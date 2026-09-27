@@ -1,39 +1,42 @@
-Title: FNEWTON
+Title: BCSNG
 
 ----
 
-Date: 29 January 2024
+Date: 23 March 2025
 
 ----
 
 Text:
 
-A forum for Newton users who were members of NiftyServe, the largest online service provider in Japan. The forum folded in March 2002.
+Boston Computer Society Newton Group
 
-(image: /assets/images/fnewton-2x.gif alt: FNEWTON logo width: 176)
+Formed by Al Willis in 1992, it later changed its name to (link: /terms/bospdaug text: BosPDAUG) (Boston PDA Users Group) and describing itself as “… an organization of professional and non-professional programmers and hardware designers for various PDA platforms including Pilot and Newton.”
+
+Also referred to as the (link: /terms/bcs-newton text: BCS Newton) and the BCS Newton/PDA User Group.
 
 ----
 
 Resource:
 
-- [Newton 空間: FNEWTON](https://www.waveformlab.com/Newton/index.php3-mode=keyword&id=48682.html)
+- [Boston PDA Users Group Website](https://web.archive.org/web/20010417230225/http://www.bospdaug.org/)
 
 ----
 
 Related:
 
 - /terms/anug
+- /terms/bcs-newton
 - /terms/bcs-npc
-- /terms/bcsng
+- /terms/bospdaug
 - /terms/boznug
 - /terms/dang
 - /terms/dnug
 - /terms/ensureinternal
+- /terms/fnewton
 - /terms/gfun
 - /terms/gnut
 - /terms/hknug
 - /terms/inug
-- /terms/isp
 - /terms/knug
 - /terms/lanug
 - /terms/misnic
@@ -77,4 +80,4 @@ Related:
 
 Source:
 
-- /sources/newton-space
+- /sources/newton-hall-of-fame

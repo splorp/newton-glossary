@@ -17,8 +17,9 @@ A Minnesotan user group organized by Tim De Chant.
 Related:
 
 - /terms/anug
+- /terms/bcs-npc
+- /terms/bcsng
 - /terms/boznug
-- /terms/bscng
 - /terms/dang
 - /terms/dnug
 - /terms/ensureinternal

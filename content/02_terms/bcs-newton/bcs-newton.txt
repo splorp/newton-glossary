@@ -1,0 +1,17 @@
+Title: BCS Newton
+
+----
+
+Date: 27 September 2026
+
+----
+
+Text:
+
+See: (link: /terms/bcsng text: BCSNG)
+
+----
+
+Source:
+
+- /sources/steve-holden

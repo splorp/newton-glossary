@@ -23,7 +23,8 @@ Resource:
 Related:
 
 - /terms/anug
-- /terms/bscng
+- /terms/bcs-npc
+- /terms/bcsng
 - /terms/dang
 - /terms/dnug
 - /terms/ensureinternal

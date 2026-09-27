@@ -27,8 +27,9 @@ Resource:
 Related:
 
 - /terms/anug
+- /terms/bcs-npc
+- /terms/bcsng
 - /terms/boznug
-- /terms/bscng
 - /terms/dang
 - /terms/dnug
 - /terms/ensureinternal

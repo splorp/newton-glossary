@@ -21,6 +21,7 @@ At one time, the group also maintained an archive of source code from (link: /so
 Related:
 
 - /terms/battlog
+- /terms/bcs-npc
 - /terms/newtontalk
 
 ----

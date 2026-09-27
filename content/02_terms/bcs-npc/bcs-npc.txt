@@ -1,29 +1,24 @@
-Title: BSCNG
+Title: BCS NPC
 
 ----
 
-Date: 23 March 2025
+Date: 27 September 2026
 
 ----
 
 Text:
 
-Boston Computer Society Newton Group
+Boston Computer Society Newton Programmers Collective
 
-Formed by Al Willis in 1992, it later changed its name to (link: /terms/bospdaug text: BosPDAUG) (Boston PDA Users Group) and describing itself as “… an organization of professional and non-professional programmers and hardware designers for various PDA platforms including Pilot and Newton.”
-
-----
-
-Resource:
-
-- [Boston PDA Users Group Website](https://web.archive.org/web/20010417230225/http://www.bospdaug.org/)
+An offshoot of (link: /terms/bcsng text: BCSNG), the Boston Computer Society Newton Group, that was formed to “facilitate communication and cooperation among the Newton
+developers community”. Meetings included seminars on various aspects of (link: /terms/newton-os text: Newton OS) programming, software and hardware demonstrations, as well as technical question and answer sessions.
 
 ----
 
 Related:
 
 - /terms/anug
-- /terms/bospdaug
+- /terms/bcsng
 - /terms/boznug
 - /terms/dang
 - /terms/dnug
@@ -50,6 +45,7 @@ Related:
 - /terms/ngn
 - /terms/noise
 - /terms/nose
+- /terms/ntdg
 - /terms/nug-central
 - /terms/nugom
 - /terms/nycnug
@@ -76,4 +72,4 @@ Related:
 
 Source:
 
-- /sources/newton-hall-of-fame
+- /sources/steve-holden

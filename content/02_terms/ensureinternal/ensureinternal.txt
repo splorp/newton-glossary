@@ -17,8 +17,9 @@ EnsureInternal was also the name of the Minnesota Newton Developers user group.
 Related:
 
 - /terms/anug
+- /terms/bcs-npc
+- /terms/bcsng
 - /terms/boznug
-- /terms/bscng
 - /terms/dang
 - /terms/dnug
 - /terms/ensureinternal

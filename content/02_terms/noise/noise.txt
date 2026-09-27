@@ -19,8 +19,9 @@ A (link: /terms/newton-user-group text: Newton user group) based in Germany.
 Related:
 
 - /terms/anug
+- /terms/bcs-npc
+- /terms/bcsng
 - /terms/boznug
-- /terms/bscng
 - /terms/dang
 - /terms/dnug
 - /terms/ensureinternal
