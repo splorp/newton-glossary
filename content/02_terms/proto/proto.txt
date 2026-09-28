@@ -25,6 +25,7 @@ Related:
 - /terms/newtonscript
 - /terms/prota
 - /terms/proto-template
+- /terms/protoreality
 - /terms/prototype
 - /terms/reference
 - /terms/slot
