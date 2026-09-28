@@ -2,7 +2,7 @@ Title: HAAUG
 
 ----
 
-Date: 24 August 2016
+Date: 28 September 2026
 
 ----
 
@@ -10,7 +10,7 @@ Text:
 
 Houston Area Apple Users Group
 
-A user group based in Houston, Texas that was founded in 1978. Although more generally focused on [Apple](https://www.apple.com/) and Mac OS platform, HAAUG also maintained an active Newton (link: /terms/special-interest-group text: special interest group) or (link: /terms/newton-sig text: Newton SIG) until 2002.
+A large user group in Houston, Texas founded in 1978. Although generally focused on [Apple](https://www.apple.com/) and Mac OS platform, HAAUG also maintained an active Newton (link: /terms/special-interest-group text: special interest group) or (link: /terms/newton-sig text: Newton SIG) until 2002.
 
 ----
 
