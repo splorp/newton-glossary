@@ -12,7 +12,6 @@ The process of assigning a (link: /terms/virtual-address text: virtual address) 
 
 Data contained in a package related to this process is known as (link: /terms/relocation-information text: relocation information).
 
-
 ----
 
 Related:
