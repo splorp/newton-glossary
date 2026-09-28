@@ -36,6 +36,7 @@ Related:
 - /terms/fnewton
 - /terms/gfun
 - /terms/gnut
+- /terms/haaug
 - /terms/hknug
 - /terms/inug
 - /terms/japan-newton-information

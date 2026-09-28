@@ -1,4 +1,4 @@
-Title: INUG
+Title: HAAUG
 
 ----
 
@@ -8,21 +8,15 @@ Date: 24 August 2016
 
 Text:
 
-Italian Newton User Group
+Houston Area Apple Users Group
 
-A user group created to evangelize the (link: /terms/newton-os text: Newton OS) platform and help grow the Newton community in Italy.
-
-Indiana Newton User Group
-
-A user group [proposed by Jim Lopez](https://newtontalk.net/archive/newtontalk/2002-March/2186.html) during a discussion on the NewtonTalk mailing list in March 2002. Mainly consisting of Newton users based in Indiana, the group maintained their own [Yahoo! Groups](https://en.wikipedia.org/wiki/Yahoo_Groups) mailing list. 
-
-The Indiana Newton User Group was also referred to as (link: /terms/nugi text: NUGi) and (link: /terms/indynewton text: IndyNewton).
+A user group based in Houston, Texas that was founded in 1978. Although more generally focused on [Apple](https://www.apple.com/) and Mac OS platform, HAAUG also maintained an active Newton (link: /terms/special-interest-group text: special interest group) or (link: /terms/newton-sig text: Newton SIG) until 2002.
 
 ----
 
 Resource:
 
-- [NewtonTalk: Indiana Newton User Group](https://newtontalk.net/archive/newtontalk/2002-March/2186.html)
+- [HAAUG Website](https://haaug.org/)
 
 ----
 
@@ -39,9 +33,8 @@ Related:
 - /terms/fnewton
 - /terms/gfun
 - /terms/gnut
-- /terms/haaug
 - /terms/hknug
-- /terms/indynewton
+- /terms/inug
 - /terms/knug
 - /terms/lanug
 - /terms/manda
@@ -61,7 +54,6 @@ Related:
 - /terms/noise
 - /terms/nose
 - /terms/nug-central
-- /terms/nugi
 - /terms/nugom
 - /terms/nycnug
 - /terms/oanug
@@ -85,6 +77,4 @@ Related:
 
 ----
 
-Source:
-
-- /sources/newton-reference
+- /sources/steve-holden

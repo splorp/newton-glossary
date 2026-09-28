@@ -26,6 +26,7 @@ Related:
 - /terms/fnewton
 - /terms/gfun
 - /terms/gnut
+- /terms/haaug
 - /terms/hknug
 - /terms/inug
 - /terms/knug

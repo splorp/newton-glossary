@@ -32,6 +32,7 @@ Related:
 - /terms/ensureinternal
 - /terms/gfun
 - /terms/gnut
+- /terms/haaug
 - /terms/hknug
 - /terms/inug
 - /terms/isp

@@ -34,6 +34,7 @@ Related:
 - /terms/ensureinternal
 - /terms/fnewton
 - /terms/gfun
+- /terms/haaug
 - /terms/hknug
 - /terms/inug
 - /terms/knug

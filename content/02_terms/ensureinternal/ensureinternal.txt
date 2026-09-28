@@ -28,6 +28,7 @@ Related:
 - /terms/function
 - /terms/gfun
 - /terms/gnut
+- /terms/haaug
 - /terms/hknug
 - /terms/knug
 - /terms/lanug
