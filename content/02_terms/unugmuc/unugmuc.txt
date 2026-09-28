@@ -41,6 +41,7 @@ Related:
 - /terms/gnut
 - /terms/haaug
 - /terms/hknug
+- /terms/inug
 - /terms/knug
 - /terms/lanug
 - /terms/manda

@@ -41,6 +41,7 @@ Related:
 - /terms/knug
 - /terms/lanug
 - /terms/luknug
+- /terms/manda
 - /terms/misnic
 - /terms/moznug
 - /terms/mpadclub
