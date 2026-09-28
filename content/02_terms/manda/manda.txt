@@ -1,21 +1,18 @@
-Title: Newton User Groups
+Title: MANDA
 
 ----
 
-Date: 26 September 2026
+Date: 28 September 2016
 
 ----
 
 Text:
 
-A regularly updated list of (link: /terms/newton-user-group text: Newton user groups) published by (link: /sources/steve-holden text: Steve Holden).
+Mid-Atlantic Newton Developers Association
 
-----
+A developer focused group organized by (link: /sources/bill-kearney text: Bill Kearney). MANDA pooled resources and shared meeting space with the Newton (link: /terms/special-interest-group text: special interest group) of the Washington Apple Pi user group in Rockville, Maryland.
 
-Resource:
-
-- [Newted: Newton User Groups 1.11](https://www.newted.org/download/newsletters/Newton-User-Groups-1-11.txt)
-- [Newted: Newton User Groups 1.2](https://www.newted.org/download/newsletters/Newton-User-Groups-1-2.txt)
+The group was occasionally referred to as the Mid-Atlantic Newton Developers Alliance.
 
 ----
 
@@ -36,7 +33,6 @@ Related:
 - /terms/inug
 - /terms/knug
 - /terms/lanug
-- /terms/manda
 - /terms/misnic
 - /terms/moznug
 - /terms/mpadclub
@@ -47,6 +43,7 @@ Related:
 - /terms/newton-fig
 - /terms/newton-japan
 - /terms/newton-user-group
+- /terms/newton-user-groups
 - /terms/ngfun
 - /terms/ngn
 - /terms/noise
@@ -75,6 +72,5 @@ Related:
 
 ----
 
-Source:
-
-- /sources/steve-Holden
+- /sources/steve-holden
+- /sources/creative-digital-publishing

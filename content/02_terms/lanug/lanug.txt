@@ -36,6 +36,7 @@ Related:
 - /terms/hknug
 - /terms/inug
 - /terms/knug
+- /terms/manda
 - /terms/misnic
 - /terms/moznug
 - /terms/mpadclub

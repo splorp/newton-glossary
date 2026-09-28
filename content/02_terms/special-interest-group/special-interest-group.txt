@@ -12,13 +12,14 @@ A like-minded collection of individuals who concentrate their knowledge, skills,
 
 Also referred to as a (link: /terms/sig text: SIG).
 
-A special interest group focused on the Newton platform is commonly referred to as a (link: /terms/newton-sig text: Newton SIG).
+A special interest group focused on the Newton platform is commonly referred to as a (link: /terms/newton-sig text: Newton SIG) or (link: /terms/newtonsig text: NewtonSIG).
 
 ----
 
 Related:
 
+- /terms/newton-sig
 - /terms/newton-user-group
 - /terms/newtons4ever
-- /terms/newton-sig
+- /terms/newtonsig
 - /terms/sig

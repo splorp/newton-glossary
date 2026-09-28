@@ -43,6 +43,7 @@ Related:
 - /terms/indynewton
 - /terms/knug
 - /terms/lanug
+- /terms/manda
 - /terms/misnic
 - /terms/moznug
 - /terms/mpadclub
