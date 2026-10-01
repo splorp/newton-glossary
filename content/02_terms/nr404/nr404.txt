@@ -16,6 +16,7 @@ A drum machine and beatbox (link: /terms/application text: application) develope
 
 Resource:
 
+- [newtonwidget: NR404](https://web.archive.org/web/20010516221136/http://newtonwidget.fap7.com/)
 - [UNNA: NR404](http://www.unna.org/view.php?/applications/NR404)
 
 ----
