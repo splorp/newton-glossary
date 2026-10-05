@@ -53,6 +53,7 @@ Related:
 - /terms/ngfun
 - /terms/ngn
 - /terms/noise
+- /terms/nsgoc
 - /terms/nug-central
 - /terms/nugom
 - /terms/nycnug

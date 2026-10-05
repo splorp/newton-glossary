@@ -54,6 +54,7 @@ Related:
 - /terms/ngn
 - /terms/noise
 - /terms/nose
+- /terms/nsgoc
 - /terms/nugom
 - /terms/nycnug
 - /terms/oanug

@@ -1,22 +1,18 @@
-Title: TVNUG
+Title: NSGOC
 
 ----
 
-Date: 24 August 2016
+Date: 05 October 2026
 
 ----
 
 Text:
 
-Tennessee Valley Newton Users Group
+Newton Solutions Group of Orange County
 
-Founded in August 1995, the group was a member of the northern Alabama computing community, operating an anonymous (link: /terms/ftp text: FTP) server with Newton software and support documentation.
+A user group based in Santa Ana, California and organized by Greg D. Brown.
 
-----
-
-Resource:
-
-- [TVNUG Website](https://web.archive.org/web/20000619170507/http://newton.uah.edu/)
+MSNOC held their inaugural meeting in November of 1995.
 
 ----
 
@@ -54,9 +50,8 @@ Related:
 - /terms/ngn
 - /terms/noise
 - /terms/nose
-- /terms/nsgoc
-- /terms/nug-central
 - /terms/nugom
+- /terms/nug-central
 - /terms/nycnug
 - /terms/oanug
 - /terms/oznug
@@ -72,6 +67,7 @@ Related:
 - /terms/tcnug
 - /terms/tnwou
 - /terms/tuna
+- /terms/tvnug
 - /terms/uknug
 - /terms/unugmuc
 - /terms/woznug

@@ -49,6 +49,7 @@ Related:
 - /terms/ngfun
 - /terms/ngn
 - /terms/nose
+- /terms/nsgoc
 - /terms/nug-central
 - /terms/nugom
 - /terms/nycnug
