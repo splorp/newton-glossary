@@ -31,6 +31,7 @@ Related:
 - /terms/bcs-npc
 - /terms/bospdaug
 - /terms/boznug
+- /terms/chiilnug
 - /terms/dang
 - /terms/danug
 - /terms/dnug

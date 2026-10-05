@@ -1,22 +1,16 @@
-Title: GFUN
+Title: ChiILNUG
 
 ----
 
-Date: 27 October 2016
+Date: 05 October 2026
 
 ----
 
 Text:
 
-Groupe Francophone des Utilisateurs de Newton
+Chicago Illinois Newton Users Group
 
-A support community for French speaking Newton users operated by Dominique Benet. GFUN was superseded by the similarly named (link: /terms/ngfun text: NGFUN) (Nouveau Groupe des Utilisateurs Francophones de Newton).
-
-----
-
-Resource:
-
-- [GFUN Website](https://web.archive.org/web/20030920060408/http://perso.wanadoo.fr/dbenet/)
+ChiILNUG was affiliated with (link: /terms/nanug text: NANUG), a very active (link: /terms/newton-user-group text: Newton user group) in the United States.
 
 ----
 
@@ -26,12 +20,12 @@ Related:
 - /terms/bcs-npc
 - /terms/bcsng
 - /terms/boznug
-- /terms/chiilnug
 - /terms/dang
 - /terms/danug
 - /terms/dnug
 - /terms/ensureinternal
 - /terms/fnewton
+- /terms/gfun
 - /terms/gnut
 - /terms/haaug
 - /terms/hknug
@@ -62,6 +56,7 @@ Related:
 - /terms/oznug
 - /terms/random
 - /terms/sane
+- /terms/scribbles
 - /terms/sdnug
 - /terms/sinug
 - /terms/snag

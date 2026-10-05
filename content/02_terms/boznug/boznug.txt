@@ -25,6 +25,7 @@ Related:
 - /terms/anug
 - /terms/bcs-npc
 - /terms/bcsng
+- /terms/chiilnug
 - /terms/dang
 - /terms/danug
 - /terms/dnug
