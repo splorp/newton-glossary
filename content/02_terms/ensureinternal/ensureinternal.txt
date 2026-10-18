@@ -63,6 +63,7 @@ Related:
 - /terms/rom
 - /terms/sane
 - /terms/sdnug
+- /terms/sfnug
 - /terms/sinug
 - /terms/snag
 - /terms/snug

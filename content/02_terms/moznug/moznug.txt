@@ -64,6 +64,7 @@ Related:
 - /terms/sane
 - /terms/scribbles
 - /terms/sdnug
+- /terms/sfnug
 - /terms/sinug
 - /terms/snag
 - /terms/snug

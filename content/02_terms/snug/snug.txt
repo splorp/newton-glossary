@@ -10,6 +10,8 @@ Text:
 
 Stanford Newton Users Group
 
+A user group formed in and around Palo Alto, California.
+
 ----
 
 Resource:
@@ -62,6 +64,7 @@ Related:
 - /terms/random
 - /terms/sane
 - /terms/sdnug
+- /terms/sfnug
 - /terms/sinug
 - /terms/snag
 - /terms/sonug

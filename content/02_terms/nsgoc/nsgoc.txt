@@ -10,7 +10,7 @@ Text:
 
 Newton Solutions Group of Orange County
 
-A user group based in Santa Ana, California and organized by Greg D. Brown.
+A user group organized by Greg D. Brown that was based in Santa Ana, California.
 
 MSNOC held their inaugural meeting in November of 1995.
 
@@ -59,6 +59,7 @@ Related:
 - /terms/random
 - /terms/sane
 - /terms/sdnug
+- /terms/sfnug
 - /terms/sinug
 - /terms/snag
 - /terms/snug

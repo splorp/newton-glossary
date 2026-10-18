@@ -63,6 +63,7 @@ Related:
 - /terms/oznug
 - /terms/sane
 - /terms/sdnug
+- /terms/sfnug
 - /terms/sinug
 - /terms/snag
 - /terms/snug

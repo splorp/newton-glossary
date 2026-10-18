@@ -57,6 +57,7 @@ Related:
 - /terms/oznug
 - /terms/random
 - /terms/sdnug
+- /terms/sfnug
 - /terms/sinug
 - /terms/snag
 - /terms/snug
