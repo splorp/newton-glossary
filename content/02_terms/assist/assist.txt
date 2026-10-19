@@ -12,6 +12,8 @@ A function built into Newton device that can automatically perform certain tasks
 
 Also referred to as (link: /terms/assistant text: Assistant), (link: /terms/intelligent-assistant text: Intelligent Assistant), and (link: /terms/newton-assistant text: Newton Assistant).
 
+Assist is also the name of a Newton user group organized and supported by [Apple](https://www.apple.com/) in the United Kingdom. The group published a quarterly magazine for its members called (link: /terms/stylus text: Stylus).
+
 ----
 
 Resource:
@@ -32,8 +34,11 @@ Related:
 - /terms/neat-bong
 - /terms/neat-bong-assist
 - /terms/newton-assistant
+- /terms/newton-user-group
+- /terms/newton-user-groups
 - /terms/please-picker
 - /terms/request-word
+- /terms/stylus
 - /terms/synonyms
 
 ----
@@ -42,3 +47,4 @@ Source:
 
 - /sources/applecare-knowledge-archive
 - /sources/messagepad-handbook-1993
+- /sources/steve-holden

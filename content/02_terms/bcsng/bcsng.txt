@@ -27,6 +27,7 @@ Resource:
 Related:
 
 - /terms/anug
+- /terms/assist
 - /terms/bcs-newton
 - /terms/bcs-npc
 - /terms/bospdaug
@@ -80,6 +81,7 @@ Related:
 - /terms/tnwou
 - /terms/tuna
 - /terms/tvnug
+- /terms/uknewt
 - /terms/uknug
 - /terms/unugmuc
 - /terms/woznug

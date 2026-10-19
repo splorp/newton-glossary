@@ -19,6 +19,7 @@ Meetings included seminars on various aspects of (link: /terms/newton-os text: N
 Related:
 
 - /terms/anug
+- /terms/assist
 - /terms/bcsng
 - /terms/boznug
 - /terms/chiilnug
@@ -70,6 +71,7 @@ Related:
 - /terms/tnwou
 - /terms/tuna
 - /terms/tvnug
+- /terms/uknewt
 - /terms/uknug
 - /terms/unugmuc
 - /terms/woznug

@@ -8,10 +8,13 @@ Date: 24 May 2001
 
 Text:
 
-See: (link: /terms/pen text: Pen)
+A quarterly magazine published by (link: /terms/Assist text: Assist), a user group run by [Apple](https://www.apple.com/) in the United Kingdom.
+
+A (link: /terms/pen text: pen) can also be referred to as a stylus.
 
 ----
 
 Source:
 
 - /sources/apple-service-source
+- /sources/steve-holden
