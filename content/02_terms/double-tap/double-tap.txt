@@ -22,6 +22,7 @@ Resource:
 
 Related:
 
+- /terms/assist
 - /terms/double-tapping
 - /terms/drag
 - /terms/dragging

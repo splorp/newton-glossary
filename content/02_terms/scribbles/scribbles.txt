@@ -20,6 +20,7 @@ Resource:
 
 Related:
 
+- /terms/assist
 - /terms/boznug
 - /terms/double-tap
 - /terms/gecko

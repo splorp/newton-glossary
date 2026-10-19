@@ -24,6 +24,7 @@ Resource:
 
 Related:
 
+- /terms/assist
 - /terms/double-tap
 - /terms/gecko
 - /terms/infonote
