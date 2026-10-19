@@ -14,6 +14,30 @@ A (link: /terms/pen text: pen) can also be referred to as a stylus.
 
 ----
 
+Resource:
+
+- [Bitsavers: Stylus: Issue 6: July 1995](https://bitsavers.org/pdf/apple/brochures/brochures/AppleStylusMagazineJuly1995.pdf)
+- [Bitsavers: Stylus: Issue 7: November 1995](https://bitsavers.org/pdf/apple/brochures/brochures/AppleStylusMagazineNov1995.pdf)
+
+----
+
+Related:
+
+- /terms/assist
+- /terms/double-tap
+- /terms/gecko
+- /terms/infonote
+- /terms/newtnews
+- /terms/newtnews-pro
+- /terms/newtwire
+- /terms/pen
+- /terms/protoreality
+- /terms/scribbles
+- /terms/tapped-in
+
+
+----
+
 Source:
 
 - /sources/apple-service-source
