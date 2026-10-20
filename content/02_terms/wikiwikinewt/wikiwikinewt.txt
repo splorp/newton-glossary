@@ -22,6 +22,7 @@ Resource:
 Related:
 
 - /terms/faq
+- /terms/msgn
 - /terms/newtledge
 - /terms/newtwiki
 - /terms/unna

@@ -1,0 +1,17 @@
+Title: The Medical Students’ Guide to the Newton
+
+----
+
+Date: 20 October 2026
+
+----
+
+Text:
+
+A document created by Ron Risley while attending the [University of Florida](https://med.ufl.edu/) College of Medicine. Also known as the (link: /terms/msgn text: MSGN), the document was formatted as an (link: /terms/faq text: FAQ) regarding the use of a Newton device in the field of medicine.
+
+----
+
+Resource:
+
+- [The Medical Students’ Guide to the Newton](https://web.archive.org/web/19970407144413/http://www.med.ufl.edu/medinfo/newton/msgn.txt)

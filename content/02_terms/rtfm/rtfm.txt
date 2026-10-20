@@ -24,6 +24,7 @@ Related:
 
 - /terms/actfaq
 - /terms/faq
+- /terms/msgn
 - /terms/newtledge
 - /terms/newtontalking
 - /terms/newtrtfm

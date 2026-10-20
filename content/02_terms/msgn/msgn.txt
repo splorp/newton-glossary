@@ -1,0 +1,37 @@
+Title: MSGN
+
+----
+
+Date: 20 October 2026
+
+----
+
+Text:
+
+The Medical Students’ Guide to the Newton
+
+A document created by Ron Risley while attending the [University of Florida](https://med.ufl.edu/) College of Medicine. Formatted as an (link: /terms/faq text: FAQ), the MSGN addressed common questions asked as a result of Risley carrying a Newton device around the hospital.
+
+Also known as _The Newton Medical Student FAQ_.
+
+----
+
+Resource:
+
+- [The Medical Students’ Guide to the Newton](https://web.archive.org/web/19970407144413/http://www.med.ufl.edu/medinfo/newton/msgn.txt)
+
+----
+
+Related:
+
+- /terms/actfaq
+- /terms/faq
+- /terms/newtledge
+- /terms/rtfm
+- /terms/wikiwikinewt
+
+----
+
+Source:
+
+- /sources/msgn

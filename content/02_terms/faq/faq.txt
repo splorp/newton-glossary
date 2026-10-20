@@ -24,6 +24,7 @@ Resource:
 Related:
 
 - /terms/actfaq
+- /terms/msgn
 - /terms/newtledge
 - /terms/rtfm
 - /terms/wikiwikinewt
