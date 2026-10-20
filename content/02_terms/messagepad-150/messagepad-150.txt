@@ -12,7 +12,7 @@ A rumoured successor to the (link: /terms/messagepad-120 text: MessagePad 120), 
 
 The (link: /sources/mackido text: Mackido) website lists the code name for the MessagePad 150 as (link: /terms/q text: Q). This confusion is likely due to the fact that the code names for the next two Newton devices released by Apple were very similar. The code name for the (link: /terms/messagepad-130 text: MessagePad 130) was (link: /terms/quark text: Quark) and the code name for the (link: /terms/messagepad-2000 text: MessagePad 2000) was Q.
 
-Also referred to as the (link: /terms/newton-150 text: Newton 150) in (link: /sources/new-york-times text: The New York Times).
+Also referred to as the (link: /terms/mp-150 text: MP-150) and (link: /terms/newton-150 text: Newton 150).
 
 ----
 
@@ -20,6 +20,7 @@ Resource:
 
 - [The New York Times: Apple’s Newton Poised for a Rebirth](https://web.archive.org/web/20100129170037/https://www.nytimes.com/1995/09/18/business/apple-s-newton-poised-for-a-rebirth.html)
 - [Computerworld: Nowa generacja osobistych asystentów](https://web.archive.org/web/20190818034359/https://www.computerworld.pl/news/Nowa-generacja-osobistych-asystentow,297277.html) (Polski)
+- [The Medical Students’ Guide to the Newton](https://web.archive.org/web/19970407144413/http://www.med.ufl.edu/medinfo/newton/msgn.txt)
 
 ----
 
@@ -33,6 +34,7 @@ Related:
 - /terms/messagepad-200
 - /terms/messagepad-2000
 - /terms/messagepad-3000
+- /terms/mp-150
 - /terms/newton-150
 - /terms/q
 
@@ -41,4 +43,5 @@ Related:
 Source:
 
 - /sources/mackido
+- /sources/msgn
 - /sources/new-york-times
