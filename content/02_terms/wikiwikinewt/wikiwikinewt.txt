@@ -21,10 +21,12 @@ Resource:
 
 Related:
 
+- /terms/actfaq
 - /terms/faq
 - /terms/msgn
 - /terms/newtledge
 - /terms/newtwiki
+- /terms/rtfm
 - /terms/unna
 
 ----

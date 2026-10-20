@@ -28,3 +28,4 @@ Related:
 - /terms/newtledge
 - /terms/newtontalking
 - /terms/newtrtfm
+- /terms/wikiwikinewt
