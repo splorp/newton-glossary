@@ -30,6 +30,7 @@ Related:
 - /terms/function
 - /terms/gfun
 - /terms/gnut
+- /terms/greap-nug
 - /terms/haaug
 - /terms/hknug
 - /terms/knug

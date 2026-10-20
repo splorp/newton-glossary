@@ -35,6 +35,7 @@ Related:
 - /terms/fnewton
 - /terms/gfun
 - /terms/gnut
+- /terms/greap-nug
 - /terms/haaug
 - /terms/hknug
 - /terms/inug
