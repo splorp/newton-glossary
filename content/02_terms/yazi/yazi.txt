@@ -16,11 +16,14 @@ The YAZI (link: /terms/application text: application) is a (link: /terms/bytecod
 
 (image: /assets/images/yazi-2x.gif alt: Screenshot of YAZI width: 242)
 
+Colloquially referred to as (link: /terms/newtfrotz text: NewtFrotz) likely due to the (link: /terms/package text: package) being based on the [Frotz](https://davidgriffith.gitlab.io/frotz/) interpreter.
+
 ----
 
 Resource:
 
 - [Scrawl Software: YAZI](https://web.archive.org/web/20060829065901/http://www.scrawlsoft.com/products/yazi/info.html)
+- [The Interactive Fiction Archive: YAZI](https://ifarchive.org/indexes/if-archive/infocom/interpreters/old/yazi/)
 - [Inform: A short history of the Z-machine](https://inform-fiction.org/zmachine/standards/z1point1/appd.html)
 
 ----
@@ -36,6 +39,7 @@ Related:
 - /terms/jig
 - /terms/lisp
 - /terms/motile
+- /terms/newtfrotz
 - /terms/newt-tris
 - /terms/newthack
 - /terms/newtendo
