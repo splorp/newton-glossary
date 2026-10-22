@@ -12,11 +12,11 @@ Yet Another Z Interpreter
 
 A text adventure engine developed by (link: /sources/scrawl-software text: Scrawl Software) which reads (link: /terms/package text: packages) containing source data, allowing you to play classic games such as Zork, Planetfall, and Enchanter on a Newton device.
 
-The YAZI (link: /terms/application text: application) is a (link: /terms/bytecode text: bytecode) interpreter for games written using the Zork Implementation Language (ZIL) which shares similarities with the (link: /terms/lisp text: LISP) programming language.
-
 (image: /assets/images/yazi-2x.gif alt: Screenshot of YAZI width: 242)
 
-Colloquially referred to as (link: /terms/newtfrotz text: NewtFrotz) likely due to the (link: /terms/package text: package) being based on the [Frotz](https://davidgriffith.gitlab.io/frotz/) interpreter.
+The YAZI (link: /terms/application text: application) is a (link: /terms/bytecode text: bytecode) interpreter for games written using the Zork Implementation Language (ZIL) which shares similarities with the (link: /terms/lisp text: LISP) programming language.
+
+Erroneously referred to as (link: /terms/newtfrotz text: NewtFrotz) likely due to the common use of the [Frotz](https://davidgriffith.gitlab.io/frotz/) interpreter for similar engines. Rather than Frotz, YAZI is based on Mark Howell’s [ZIP](https://ifarchive.org/indexes/if-archive/infocom/interpreters/old/zip/), otherwise known as the Infocom Z-code Interpreter Program.
 
 ----
 
@@ -24,6 +24,7 @@ Resource:
 
 - [Scrawl Software: YAZI](https://web.archive.org/web/20060829065901/http://www.scrawlsoft.com/products/yazi/info.html)
 - [The Interactive Fiction Archive: YAZI](https://ifarchive.org/indexes/if-archive/infocom/interpreters/old/yazi/)
+- [The Interactive Fiction Archive: ZIP](https://ifarchive.org/indexes/if-archive/infocom/interpreters/old/zip/)
 - [Inform: A short history of the Z-machine](https://inform-fiction.org/zmachine/standards/z1point1/appd.html)
 
 ----
