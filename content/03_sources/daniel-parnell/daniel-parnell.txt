@@ -1,0 +1,21 @@
+Title: Daniel Parnell
+
+----
+
+Date: 25 October 2026
+
+----
+
+Text:
+
+A software developer and systems analyst based in Melbourne, Australia.
+
+Parnell is known for his work on porting the (link: /terms/einstein text: Einstein) emulator to various computing platforms and (link: /terms/newton-re text: newton-re), his (link: /terms/newton-os text: Newton OS) reverse engineering project.
+
+----
+
+Resource:
+
+- [Daniel Parnell Website](https://blog.danielparnell.com/)
+- [GitHub: Daniel Parnell](https://github.com/dparnell)
+- [LinkedIn: Daniel Parnell](https://www.linkedin.com/in/daniel-parnell-2870771/)

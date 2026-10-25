@@ -1,0 +1,37 @@
+Title: newton-re
+
+----
+
+Date: 25 October 2026
+
+----
+
+Text:
+
+An open source software project instigated by (link: /sources/daniel-parnell text: Daniel Parnell) to reverse engineer the (link: /terms/newton-os text: Newton OS) ROM.
+
+The project specifically targets the (link: /terms/rom text: ROM) found in (link: /terms/n2 text: N2) devices such as the (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100), with the goal of creating a maintainable reimplementation of Newton OS running natively on other computing platforms.
+
+----
+
+Resource:
+
+- [GitHub: newton-re](https://github.com/dparnell/newton-re)
+
+----
+
+Related:
+
+- /terms/einstein
+- /terms/gnuton
+- /terms/green
+- /terms/leibniz
+- /terms/newton-os
+- /terms/poor-mans-newton
+- /terms/rom
+
+----
+
+Source:
+
+- /sources/daniel-parnell

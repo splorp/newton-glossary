@@ -28,6 +28,7 @@ Related:
 - /terms/green
 - /terms/leibniz
 - /terms/newton-os
+- /terms/newton-re
 
 ----
 

@@ -32,6 +32,7 @@ Related:
 - /terms/newton-communications-architecture
 - /terms/newton-information-architecture
 - /terms/newton-intelligence
+- /terms/newton-re
 - /terms/newton-recognition-architecture
 - /terms/nos
 - /terms/operating-system

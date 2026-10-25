@@ -31,6 +31,7 @@ Related:
 - /terms/green
 - /terms/leibniz
 - /terms/newton-os
+- /terms/newton-re
 - /terms/poor-mans-newton
 - /terms/rex-tool
 - /terms/rex-einstein

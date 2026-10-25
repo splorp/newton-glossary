@@ -29,6 +29,7 @@ Related:
 - /terms/mrom
 - /terms/nes-packager
 - /terms/newtendo
+- /terms/newton-re
 - /terms/ram
 - /terms/romulator
 - /terms/rom-extension
