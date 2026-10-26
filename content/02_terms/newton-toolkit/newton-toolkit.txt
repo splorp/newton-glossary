@@ -48,6 +48,7 @@ Related:
 - /terms/newtdevenv
 - /terms/newton-book-maker
 - /terms/newton-c-tools
+- /terms/newton-framework
 - /terms/newton-gcc-tools
 - /terms/newtonscript
 - /terms/newtrtfm

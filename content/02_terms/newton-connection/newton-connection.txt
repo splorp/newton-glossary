@@ -46,6 +46,7 @@ Related:
 - /terms/newton-connection-tools
 - /terms/newton-connection-utilities
 - /terms/newton-data-viewer
+- /terms/newton-framework
 - /terms/newton-package-installer
 - /terms/nwt
 - /terms/package-installer

@@ -28,6 +28,7 @@ Related:
 - /terms/lantern-driver
 - /terms/lantern-library
 - /terms/newton-devices
+- /terms/newton-framework
 - /terms/undo-overview
 - /terms/wilma
 

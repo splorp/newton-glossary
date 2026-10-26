@@ -34,6 +34,7 @@ Related:
 - /terms/newtcard
 - /terms/newtdevenv
 - /terms/newton-c-toolbox
+- /terms/newton-framework
 - /terms/newton-gcc-tools
 - /terms/newton-toolkit
 - /terms/newtsbug

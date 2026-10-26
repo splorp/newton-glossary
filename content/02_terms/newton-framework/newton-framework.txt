@@ -1,0 +1,40 @@
+Title: Newton Framework
+
+----
+
+Date: 26 October 2026
+
+----
+
+Text:
+
+A development framework for Mac OS created by (link: /sources/simon-bell text: Simon Bell) that includes a (link: /terms/newtonscript text: NewtonScript) interpreter written in C++ and tools for (link: /terms/debugging text: debugging) native Newton C++ modules in [Xcode](https://developer.apple.com/xcode/).
+
+Much of Newton Framework was derived by inspecting the (link: /terms/symbol text: symbols) included in the (link: /terms/newton-os text: Newton OS) ROM, header files distributed with the (link: /terms/newton-c-tools text: Newton C++ Tools) (NCT) and (link: /terms/lantern-ddk text: Lantern DDK), as well as the (link: /terms/newton-programmers-guide text: Newton Programmer’s Guide).
+
+Both the (link: /terms/newton-connection text: Newton Connection) (NCX) and (link: /terms/newton-toolkit text: Newton Toolkit) (NCT) applications are build on top of Newton Framework.
+
+----
+
+Resource:
+
+- [GitHub: Newton Framework](https://github.com/newtonresearch/newton-framework)
+
+----
+
+Related:
+
+- /terms/dcl
+- /terms/ddk
+- /terms/lantern
+- /terms/newton-c-tools
+- /terms/newton-connection
+- /terms/newton-toolkit
+- /terms/newton-os
+- /terms/rom
+
+----
+
+Source:
+
+- /sources/simon-bell

@@ -30,6 +30,7 @@ Related:
 - /terms/kernel
 - /terms/leibniz
 - /terms/newton-communications-architecture
+- /terms/newton-framework
 - /terms/newton-information-architecture
 - /terms/newton-intelligence
 - /terms/newton-re
