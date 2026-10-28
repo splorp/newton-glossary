@@ -1,0 +1,85 @@
+Title: POOR Newton Owners
+
+----
+
+Date: 28 October 2026
+
+----
+
+Text:
+
+Philadelphia Organization of Responsible Newton Owners
+
+A user group based in the Philadelphia, Pennsylvania area and organized by Lawrence Husick, an intellectual property and technology law consultant.
+
+The acronym in the group’s name is a tip of the [tricorne](https://en.wikipedia.org/wiki/Tricorne) to _Poor Richard’s Almanack_, first published in 1733 by Benjamin Franklin.
+
+----
+
+Related:
+
+- /terms/anug
+- /terms/assist
+- /terms/bcs-npc
+- /terms/bcsng
+- /terms/boznug
+- /terms/chiilnug
+- /terms/dang
+- /terms/danug
+- /terms/dnug
+- /terms/ensureinternal
+- /terms/fnewton
+- /terms/gfun
+- /terms/gnut
+- /terms/greap-nug
+- /terms/haaug
+- /terms/hknug
+- /terms/inug
+- /terms/knug
+- /terms/lanug
+- /terms/manda
+- /terms/misnic
+- /terms/moznug
+- /terms/mpadclub
+- /terms/msnug
+- /terms/nanug
+- /terms/nenug
+- /terms/newtchamp
+- /terms/newton-fig
+- /terms/newton-japan
+- /terms/newton-user-group
+- /terms/newton-user-groups
+- /terms/ngfun
+- /terms/ngn
+- /terms/noise
+- /terms/nose
+- /terms/nsgoc
+- /terms/nug-central
+- /terms/nugom
+- /terms/nycnug
+- /terms/oanug
+- /terms/oznug
+- /terms/random
+- /terms/sane
+- /terms/sdnug
+- /terms/sfnug
+- /terms/sinug
+- /terms/snag
+- /terms/snug
+- /terms/sonug
+- /terms/soznug
+- /terms/special-interest-group
+- /terms/tcnug
+- /terms/tnwou
+- /terms/tuna
+- /terms/tvnug
+- /terms/uknewt
+- /terms/uknug
+- /terms/unugmuc
+- /terms/woznug
+
+----
+
+Source:
+
+- /sources/steve-holden

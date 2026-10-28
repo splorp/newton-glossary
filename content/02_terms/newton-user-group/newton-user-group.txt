@@ -58,6 +58,7 @@ Related:
 - /terms/nycnug
 - /terms/oanug
 - /terms/oznug
+- /terms/poor-newton-users
 - /terms/random
 - /terms/sane
 - /terms/sdnug
