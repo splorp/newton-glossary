@@ -29,9 +29,11 @@ Related:
 - /terms/lantern
 - /terms/newton-c-tools
 - /terms/newton-connection
-- /terms/newton-toolkit
 - /terms/newton-os
+- /terms/newton-toolkit
+- /terms/newtonscript
 - /terms/rom
+- /terms/vsnewt
 
 ----
 

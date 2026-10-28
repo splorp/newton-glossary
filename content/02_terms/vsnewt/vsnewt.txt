@@ -1,0 +1,47 @@
+Title: VSNewt
+
+----
+
+Date: 27 October 2026
+
+----
+
+Text:
+
+An extension developed by (link: /sources/matthias-melcher text: Matthias Melcher) that provides a way to write, build, run, and debug NewtonScript using Microsoft’s [Visual Studio Code](https://code.visualstudio.com/) development envirpnment.
+
+Built around Simon Bell’s (link: /terms/newton-framework text: Newton Framework), VSNewt implements (link: /terms/newtc text: newtc) which provides a NewtonScript (link: /terms/compiler text: compiler), runtime, and (link: /terms/debugger text: debugger).
+
+Write, build, run, and debug NewtonScript, the language of the Apple Newton, in Visual Studio Code: on your Mac, in the Einstein emulator, or on a MessagePad.
+
+Everything is done by newtc, a NewtonScript compiler, runtime, and debugger built from the newton-framework (a reimplementation of the Newton OS). It comes with the extension: you need nothing else, not even NTK.
+
+Two uses:
+
+* Develop apps: build packages from NewtonScript source and debug them.
+* Look inside existing packages: decompile one and debug the original package in its decompiled source.
+
+
+----
+
+Resource:
+
+- [GitHub: VSNewt](https://github.com/MatthiasWM/VSNewt)
+
+----
+
+Related:
+
+- /terms/compiler
+- /terms/debugger
+- /terms/newtc
+- /terms/newton-framework
+- /terms/newton-re
+- /terms/newtonscript
+- /terms/newtplay
+
+----
+
+Source:
+
+- /sources/matthias-melcher

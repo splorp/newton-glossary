@@ -73,6 +73,7 @@ Related:
 - /terms/tnwou
 - /terms/tuna
 - /terms/tvnug
+- /terms/ufnug
 - /terms/uknug
 - /terms/unugmuc
 - /terms/woznug

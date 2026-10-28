@@ -83,6 +83,7 @@ Related:
 - /terms/tcnug
 - /terms/tuna
 - /terms/tvnug
+- /terms/ufnug
 - /terms/uknewt
 - /terms/uknug
 - /terms/unugmuc

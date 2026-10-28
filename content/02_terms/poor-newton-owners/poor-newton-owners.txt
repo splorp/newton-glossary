@@ -10,9 +10,9 @@ Text:
 
 Philadelphia Organization of Responsible Newton Owners
 
-A user group based in the Philadelphia, Pennsylvania area and organized by Lawrence Husick, an intellectual property and technology law consultant.
+A user group based in the Philadelphia, Pennsylvania area.
 
-The acronym in the group’s name is a tip of the [tricorne](https://en.wikipedia.org/wiki/Tricorne) to _Poor Richard’s Almanack_, first published in 1733 by Benjamin Franklin.
+Organized by Lawrence Husick, an intellectual property and technology law consultant, the group’s name is a tip of the [tricorne](https://en.wikipedia.org/wiki/Tricorne) to _Poor Richard’s Almanack_, first published in 1733 by Benjamin Franklin.
 
 ----
 
@@ -73,6 +73,7 @@ Related:
 - /terms/tnwou
 - /terms/tuna
 - /terms/tvnug
+- /terms/ufnug
 - /terms/uknewt
 - /terms/uknug
 - /terms/unugmuc

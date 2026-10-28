@@ -81,6 +81,7 @@ Related:
 - /terms/tnwou
 - /terms/tuna
 - /terms/tvnug
+- /terms/ufnug
 - /terms/uknewt
 - /terms/unugmuc
 - /terms/woznug
