@@ -16,6 +16,7 @@ The alert sound can be changed in the (link: /terms/sound text: Sound) section o
 
 Related:
 
+- /terms/action-sound-effects
 - /terms/alarm-sound
 - /terms/alarm-sound-effects
 - /terms/alarm-wakeup
@@ -42,6 +43,7 @@ Related:
 - /terms/out-there
 - /terms/page-flipping
 - /terms/paper-crumpling
+- /terms/pen-sound-effects
 - /terms/plunk
 - /terms/poof
 - /terms/psssssst

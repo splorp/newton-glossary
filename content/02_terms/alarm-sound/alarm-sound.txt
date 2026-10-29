@@ -20,9 +20,11 @@ On devices running (link: /terms/newton-os text: Newton OS) 1.x, alarm sounds ar
 
 Related:
 
+- /terms/action-sound-effects
 - /terms/alarm
 - /terms/alarm-sound-effects
 - /terms/alarm-wakeup
+- /terms/alert-sound
 - /terms/bell
 - /terms/birdie
 - /terms/boot-up-chime
@@ -46,6 +48,7 @@ Related:
 - /terms/out-there
 - /terms/page-flipping
 - /terms/paper-crumpling
+- /terms/pen-sound-effects
 - /terms/persistent-alarms
 - /terms/plunk
 - /terms/poof

@@ -18,8 +18,9 @@ Action sound effects can be turned on and off in the (link: /terms/sound text: S
 
 Related:
 
-- /terms/alarm-wakeup
+- /terms/alarm-sound
 - /terms/alarm-sound-effects
+- /terms/alarm-wakeup
 - /terms/alert-sound
 - /terms/bell
 - /terms/birdie

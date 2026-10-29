@@ -17,6 +17,8 @@ Also referred to as (link: /terms/paper-hitting-trash text: Paper Hitting Trash)
 Related:
 
 - /terms/action-sound-effects
+- /terms/alarm-sound
+- /terms/alarm-sound-effects
 - /terms/alarm-wakeup
 - /terms/alert-sound
 - /terms/bell
@@ -39,7 +41,7 @@ Related:
 - /terms/page-flipping
 - /terms/paper-crumpling
 - /terms/paper-hitting-trash
-- /terms/plunk
+- /terms/pen-sound-effects
 - /terms/poof
 - /terms/psssssst
 - /terms/sound

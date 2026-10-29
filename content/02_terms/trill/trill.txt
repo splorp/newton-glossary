@@ -18,6 +18,9 @@ Also referred to as (link: /terms/funbeep text: funBeep).
 
 Related:
 
+- /terms/action-sound-effects
+- /terms/alarm-sound
+- /terms/alarm-sound-effects
 - /terms/alarm-wakeup
 - /terms/alert-sound
 - /terms/bell

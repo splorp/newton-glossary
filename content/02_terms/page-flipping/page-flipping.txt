@@ -17,6 +17,8 @@ Also referred to as (link: /terms/flip text: Flip) and (link: /terms/notepad-scr
 Related:
 
 - /terms/action-sound-effects
+- /terms/alarm-sound
+- /terms/alarm-sound-effects
 - /terms/alarm-wakeup
 - /terms/alert-sound
 - /terms/bell
@@ -39,6 +41,7 @@ Related:
 - /terms/out-there
 - /terms/page-flipping
 - /terms/paper-crumpling
+- /terms/pen-sound-effects
 - /terms/plunk
 - /terms/poof
 - /terms/psssssst

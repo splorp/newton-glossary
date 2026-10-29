@@ -16,6 +16,7 @@ Also referred to as (link: /terms/alarmwakeup text: alarmWakeup) and (link: /ter
 
 Related:
 
+- /terms/action-sound-effects
 - /terms/alarm
 - /terms/alarm-sound
 - /terms/alarm-sound-effects
@@ -40,6 +41,7 @@ Related:
 - /terms/out-there
 - /terms/page-flipping
 - /terms/paper-crumpling
+- /terms/pen-sound-effects
 - /terms/plunk
 - /terms/poof
 - /terms/psssssst

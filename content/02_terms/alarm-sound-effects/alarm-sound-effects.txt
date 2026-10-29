@@ -12,7 +12,7 @@ A setting in (link: /terms/sound text: Sound) section of the (link: /terms/prefs
 
 This setting appears only on devices running (link: /terms/newton-os text: Newton OS) 1.x and includes the (link: /terms/bell text: Bell), (link: /terms/chord text: Chord), (link: /terms/trill text: Trill), and (link: /terms/xylo text: Xylo) alarm sounds.
 
-In Newton OS 2.0 and later, the alarm sound effects setting is changed to (link: /terms/alarm-sound text: alarm sounds) and includes the (link: /terms/birdie text: Birdie), (link: /terms/buzzer text: Buzzer), (link: /terms/chirp text: Chirp), (link: /terms/click text: Click), (link: /terms/do-re-mi text: Do Re Mi), (link: /terms/echo text: Echo), (link: /terms/gong text: Gong), (link: /terms/out-there text: Out There), (link: /terms/psssssst text: Psssssst), (link: /terms/spring text: Spring), (link: /terms/wheep text: Wheep), and (link: /terms/whoop text: Whoop) sounds.
+In Newton OS 2.0 and later, alarm sound effects are called (link: /terms/alarm-sound text: alarm sounds) and include the (link: /terms/birdie text: Birdie), (link: /terms/buzzer text: Buzzer), (link: /terms/chirp text: Chirp), (link: /terms/click text: Click), (link: /terms/do-re-mi text: Do Re Mi), (link: /terms/echo text: Echo), (link: /terms/gong text: Gong), (link: /terms/out-there text: Out There), (link: /terms/psssssst text: Psssssst), (link: /terms/spring text: Spring), (link: /terms/wheep text: Wheep), and (link: /terms/whoop text: Whoop) sounds.
 
 ----
 
@@ -22,6 +22,7 @@ Related:
 - /terms/alarm
 - /terms/alarm-sound
 - /terms/alarm-wakeup
+- /terms/alert-sound
 - /terms/bell
 - /terms/birdie
 - /terms/boot-up-chime
