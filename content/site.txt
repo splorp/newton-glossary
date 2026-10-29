@@ -5,19 +5,6 @@ Title: Newton Glossary
 Redirects:
 
 - 
-  fromuri: /sources/ezshow
-  touri: /sources/ezshow-systems
-  code: _301
-- 
-  fromuri: >
-    /sources/newton-apple-messagepad-handbook
-  touri: /sources/messagepad-handbook-1993
-  code: _301
-- 
-  fromuri: /sources/newton-toolkit-user-guide
-  touri: /sources/newton-toolkit-users-guide
-  code: _301
-- 
   fromuri: /terms/01-2k
   touri: /terms/2k
   code: _301
@@ -56,6 +43,10 @@ Redirects:
 - 
   fromuri: /terms/01-802-11
   touri: /terms/802-11
+  code: _301
+- 
+  fromuri: /terms/alert-sound-effects
+  touri: /terms/alert-sound
   code: _301
 - 
   fromuri: /terms/autoexpand
@@ -130,6 +121,23 @@ Redirects:
   touri: /sources/softwareburo-muller
   code: _301
 - 
+  fromuri: /sources/daniel-padilla
+  touri: /sources/daniel-padilla-roldan
+  code: _301
+- 
+  fromuri: /sources/ezshow
+  touri: /sources/ezshow-systems
+  code: _301
+- 
+  fromuri: >
+    /sources/newton-apple-messagepad-handbook
+  touri: /sources/messagepad-handbook-1993
+  code: _301
+- 
+  fromuri: /sources/newton-toolkit-user-guide
+  touri: /sources/newton-toolkit-users-guide
+  code: _301
+- 
   fromuri: /sources/ns-basic-handbook
   touri: /sources/ns-basic
   code: _301
@@ -144,10 +152,6 @@ Redirects:
 - 
   fromuri: /sources/the-simpsons
   touri: /sources/simpsons
-  code: _301
-- 
-  fromuri: /sources/daniel-padilla
-  touri: /sources/daniel-padilla-roldan
   code: _301
 
 ----
