@@ -19,6 +19,8 @@ Selecting a time from the list displayed in the (link: /terms/snooze-picker text
 Related:
 
 - /terms/alarm
+- /terms/alarm-sound
+- /terms/alarm-sound-effects
 - /terms/alert-box
 - /terms/alert-sound
 - /terms/notification-alert

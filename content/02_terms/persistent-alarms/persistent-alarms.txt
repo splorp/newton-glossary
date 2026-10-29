@@ -19,6 +19,8 @@ When enabled, a (link: /terms/notification-slip text: notification slip) appears
 Related:
 
 - /terms/alarm
+- /terms/alarm-sound
+- /terms/alarm-sound-effects
 - /terms/calendar
 - /terms/clock
 - /terms/notification-alert

@@ -23,6 +23,7 @@ Related:
 - /terms/action-sound-effects
 - /terms/alarm
 - /terms/alert-sound
+- /terms/alarm-sound-effects
 - /terms/bleepmaker
 - /terms/channel
 - /terms/codec
@@ -38,10 +39,10 @@ Related:
 - /terms/prefs
 - /terms/recording
 - /terms/sample
-- /terms/sound2pkg
 - /terms/sound-frame
 - /terms/sound-recorder-slip
 - /terms/sound-stationery
+- /terms/sound2pkg
 - /terms/volume
 
 ----

@@ -14,12 +14,15 @@ In the Alarm (link: /terms/slip text: slip), the user can set the type of sound 
 
 (image: /assets/images/alarm-2x.gif alt: Screenshot of the Alarm preference slip width: 240)
 
+In (link: /terms/newton-os text: Newton OS) 1.x, (link: /terms/alarm-sound text: alarm sounds) are referred to as an (link: /terms/alarm-sound-effects text: alarm sound effects) and are set in the (link: /terms/sound text: Sound) section of the Prefs application.
+
 ----
 
 Related:
 
+- /terms/alarm-sound
+- /terms/alarm-sound-effects
 - /terms/alarm-wakeup
-- /terms/alert-sound
 - /terms/calendar
 - /terms/clock
 - /terms/persistent-alarms

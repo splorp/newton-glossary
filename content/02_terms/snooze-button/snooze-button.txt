@@ -19,6 +19,8 @@ For example, if an (link: /terms/alarm text: alarm) or reminder (link: /terms/al
 Related:
 
 - /terms/alarm
+- /terms/alarm-sound
+- /terms/alarm-sound-effects
 - /terms/alert-box
 - /terms/alert-sound
 - /terms/button

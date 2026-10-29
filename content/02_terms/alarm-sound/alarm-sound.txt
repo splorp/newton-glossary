@@ -1,0 +1,69 @@
+Title: Alarm Sound
+
+----
+
+Date: 28 October 2026
+
+----
+
+Text:
+
+A setting in (link: /terms/alarm text: Alarm) section of the (link: /terms/prefs text: Prefs) application that allows the user to set the type of sound used for the minute timer and (link: /terms/calendar text: calendar) alarms. The daily alarm has its own “(link: /terms/alarm-wakeup text: alarm wakeup)” sound and cannot be changed.
+
+The (link: /terms/bell text: Bell), (link: /terms/chord text: Chord), (link: /terms/trill text: Trill), and (link: /terms/xylo text: Xylo) alarm sounds first appeared in Newton OS 1.0 and are available in all subsequent versions of the (link: /terms/operating-system text: operating system).
+
+Newton OS 2.0 introduced additional sounds, including (link: /terms/birdie text: Birdie), (link: /terms/buzzer text: Buzzer), (link: /terms/chirp text: Chirp), (link: /terms/click text: Click), (link: /terms/do-re-mi text: Do Re Mi), (link: /terms/echo text: Echo), (link: /terms/gong text: Gong), (link: /terms/out-there text: Out There), (link: /terms/psssssst text: Psssssst), (link: /terms/spring text: Spring), (link: /terms/wheep text: Wheep), and (link: /terms/whoop text: Whoop).
+
+On devices running (link: /terms/newton-os text: Newton OS) 1.x, alarm sounds are called (link: /terms/alarm-sound-effects text: alarm sound effects).
+
+----
+
+Related:
+
+- /terms/alarm
+- /terms/alarm-sound-effects
+- /terms/alarm-wakeup
+- /terms/bell
+- /terms/birdie
+- /terms/boot-up-chime
+- /terms/buzzer
+- /terms/calendar
+- /terms/chirp
+- /terms/chord
+- /terms/clank
+- /terms/click
+- /terms/clock
+- /terms/do-re-mi
+- /terms/drawer-closing
+- /terms/drawer-opening
+- /terms/echo
+- /terms/gong
+- /terms/hot-dog-song
+- /terms/keysound
+- /terms/notification-alert
+- /terms/notify-button
+- /terms/notify-picker
+- /terms/out-there
+- /terms/page-flipping
+- /terms/paper-crumpling
+- /terms/persistent-alarms
+- /terms/plunk
+- /terms/poof
+- /terms/prefs
+- /terms/psssssst
+- /terms/snooze
+- /terms/sound
+- /terms/spring
+- /terms/squeak
+- /terms/trill
+- /terms/typewriter
+- /terms/volume
+- /terms/wheep
+- /terms/whoop
+- /terms/xylo
+
+----
+
+Source:
+
+- /sources/messagepad-2000-user-manual

@@ -18,6 +18,8 @@ Related:
 
 - /terms/2008-reset
 - /terms/alarm
+- /terms/alarm-sound
+- /terms/alarm-sound-effects
 - /terms/analog-clock-button
 - /terms/bettersetter
 - /terms/dotclock

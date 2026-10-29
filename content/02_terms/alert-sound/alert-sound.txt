@@ -12,20 +12,14 @@ An audible warning that indicates an unusual or potentially undesirable situatio
 
 The alert sound can be changed in the (link: /terms/sound text: Sound) section of the (link: /terms/prefs text: Prefs) application.
 
-The (link: /terms/bell text: Bell), (link: /terms/chord text: Chord), (link: /terms/trill text: Trill), and (link: /terms/xylo text: Xylo) alert sounds first appeared in (link: /terms/newton-os text: Newton OS) 1.0 and are available in all subsequent versions of the (link: /terms/operating-system text: operating system).
-
-Newton OS 2.0 introduced additional alert sounds, including Birdie, Buzzer, Chirp, (link: /terms/click text: Click), Do Re Mi, Echo, Gong, Out There, Psssssst, Spring, Wheep, and Whoop.
-
-On devices running (link: /terms/newton-os text: Newton OS) 1.x, alert sounds are called (link: /terms/alert-sound-effects text: alert sound effects).
-
 ----
 
 Related:
 
-- /terms/action-sound-effects
+- /terms/alarm-sound
+- /terms/alarm-sound-effects
 - /terms/alarm-wakeup
 - /terms/alert-box
-- /terms/alert-sound-effects
 - /terms/bell
 - /terms/birdie
 - /terms/bleepmaker
@@ -42,13 +36,12 @@ Related:
 - /terms/gong
 - /terms/hot-dog-song
 - /terms/keysound
-- /terms/out-there
 - /terms/notification-alert
 - /terms/notify-button
 - /terms/notify-picker
+- /terms/out-there
 - /terms/page-flipping
 - /terms/paper-crumpling
-- /terms/pen-sound-effects
 - /terms/plunk
 - /terms/poof
 - /terms/psssssst
