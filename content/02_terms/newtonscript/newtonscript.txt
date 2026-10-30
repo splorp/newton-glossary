@@ -16,13 +16,13 @@ Also referred to as the (link: /terms/ns text: NS).
 
 Related:
 
-- /terms/dyne
 - /terms/book-script
 - /terms/build
 - /terms/bytecode
 - /terms/content-script
 - /terms/denali
 - /terms/dylan
+- /terms/dyne
 - /terms/gesturescript
 - /terms/hapi
 - /terms/lisp

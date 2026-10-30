@@ -39,6 +39,7 @@ Related:
 - /terms/lisp
 - /terms/macintosh-common-lisp
 - /terms/newton-os
+- /terms/newton-re
 - /terms/newton-toolkit
 - /terms/poor-mans-newton
 - /terms/ralph
