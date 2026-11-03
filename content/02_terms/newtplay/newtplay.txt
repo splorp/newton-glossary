@@ -1,0 +1,36 @@
+Title: NewtPlay
+
+----
+
+Date: 03 November 2026
+
+----
+
+Text:
+
+A utility developed by (link: /sources/matthias-melcher text: Matthias Melcher) that allows the user to launch and run a Newton (link: /terms/package text: package) as a native desktop (link: /terms/application text: application) on macOS.
+
+Created as a proof of concept, NewtPlay incorporates a very limited subset of (link: /terms/newtonscript text: NewtonScript) supplied by the (link: /terms/newtc text: newtc) component of (link: /terms/vsnewt text: VSNewt), a (link: /terms/compiler text: compiler), runtime, and (link: /terms/debugger text: debugger) is based on Simon Bell’s (link: /terms/newton-framework text: Newton Framework).
+
+----
+
+Resource:
+
+- [GitHub: VSNewt: NewtPlay](https://github.com/MatthiasWM/VSNewt#newtplay-packages-without-vs-code)
+
+----
+
+Related:
+
+- /terms/newtc
+- /terms/newton-framework
+- /terms/newton-re
+- /terms/newtonscript
+- /terms/nsm
+- /terms/vsnewt
+
+----
+
+Source:
+
+- /sources/matthias-melcher

@@ -26,7 +26,12 @@ Related:
 
 - /terms/dcl
 - /terms/ddk
+- /terms/debugger
+- /terms/interpreted
+- /terms/interpreter
 - /terms/lantern
+- /terms/newtc
+- /terms/newton-toolkit
 - /terms/newton-c-tools
 - /terms/newton-connection
 - /terms/newton-os

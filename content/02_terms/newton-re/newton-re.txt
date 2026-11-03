@@ -26,9 +26,11 @@ Related:
 - /terms/gnuton
 - /terms/green
 - /terms/leibniz
+- /terms/newtc
 - /terms/newton-os
 - /terms/poor-mans-newton
 - /terms/rom
+- /terms/vsnewt
 
 ----
 

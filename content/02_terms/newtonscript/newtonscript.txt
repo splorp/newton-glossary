@@ -31,6 +31,7 @@ Related:
 - /terms/macintosh-programmers-workshop
 - /terms/newt0
 - /terms/newt64
+- /terms/newtc
 - /terms/newton-toolkit
 - /terms/newtonscript-heap
 - /terms/ns
@@ -46,5 +47,6 @@ Related:
 - /terms/tntk
 - /terms/undo-overview
 - /terms/viewframe
+- /terms/vsnewt
 - /terms/wallyscript
 - /terms/wilma

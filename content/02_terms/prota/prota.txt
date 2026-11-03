@@ -23,10 +23,12 @@ Related:
 - /terms/dyne
 - /terms/newt0
 - /terms/newt64
+- /terms/newtc
 - /terms/newtonscript
 - /terms/nsm
 - /terms/proto
 - /terms/script
+- /terms/vsnewt
 - /terms/wallyscript
 
 ----

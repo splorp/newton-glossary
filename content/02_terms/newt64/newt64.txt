@@ -29,6 +29,7 @@ Related:
 - /terms/interpreted
 - /terms/interpreter
 - /terms/newt0
+- /terms/newtc
 - /terms/newton-toolkit
 - /terms/newtonscript
 - /terms/nsm
@@ -36,4 +37,5 @@ Related:
 - /terms/prototype
 - /terms/tntk
 - /terms/undo-overview
+- /terms/vsnewt
 - /terms/wilma

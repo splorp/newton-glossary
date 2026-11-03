@@ -44,6 +44,7 @@ Related:
 - /terms/macintosh-programmers-workshop
 - /terms/minspector
 - /terms/newtapp
+- /terms/newtc
 - /terms/newtcard
 - /terms/newtdevenv
 - /terms/newton-book-maker
@@ -68,6 +69,7 @@ Related:
 - /terms/undo-overview
 - /terms/viewframe
 - /terms/visualnewt
+- /terms/vsnewt
 - /terms/wilma
 
 ----

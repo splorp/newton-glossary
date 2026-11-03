@@ -21,10 +21,12 @@ Related:
 - /terms/hammer
 - /terms/inspector
 - /terms/minspector
+- /terms/newtc
 - /terms/newtsbug
 - /terms/quick-look
 - /terms/symbol-file
 - /terms/viewframe
+- /terms/vsnewt
 
 ----
 

@@ -23,11 +23,13 @@ Related:
 
 - /terms/bytecode
 - /terms/dyne
-- /terms/newtonscript
 - /terms/newt0
 - /terms/newt64
+- /terms/newtc
+- /terms/newtonscript
 - /terms/prota
 - /terms/tntk
+- /terms/vsnewt
 - /terms/waba
 
 ----

@@ -21,6 +21,7 @@ Related:
 - /terms/leibniz
 - /terms/newt0
 - /terms/newt64
+- /terms/newtc
 - /terms/newton-toolkit
 - /terms/project
 - /terms/project-build
@@ -30,6 +31,7 @@ Related:
 - /terms/stream-file
 - /terms/text-file
 - /terms/tntk
+- /terms/vsnewt
 
 ----
 
