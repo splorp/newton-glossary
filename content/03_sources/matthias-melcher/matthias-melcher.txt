@@ -8,7 +8,7 @@ Date: 20 May 2024
 
 Text:
 
-A software developer and hardware hacker based in Germany, Melcher’s interests range from robotics and electric vehicle conversion to 3D printing and microcontrollers. He is a significant contributor to the (link: /terms/einstein text: Einstein) emulation project, the developer of (link: /terms/newt64 text: NEWT/64), and the author of (link: /terms/undo-overview text: UNDO).
+A software developer and hardware hacker based in Germany, Melcher’s interests range from robotics and electric vehicle conversion to 3D printing and microcontrollers. He is a significant contributor to the (link: /terms/einstein text: Einstein) emulation project, the developer of (link: /terms/newt64 text: NEWT/64), (link: /terms/vsnewt text: VSNewt), (link: /terms/newtplay text: NewtPlay), and the author of (link: /terms/undo-overview text: UNDO).
 
 ----
 
@@ -16,4 +16,4 @@ Resource:
 
 - [Matthias Melcher Website](http://www.elektriktrick.com/)
 - [Elektriktrick Website](http://www.matthiasm.com/)
-- [GitHub: Matthias Melcher Website](https://github.com/matthiaswm)
+- [GitHub: Matthias Melcher](https://github.com/matthiaswm)
