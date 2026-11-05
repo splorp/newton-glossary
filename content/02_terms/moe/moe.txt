@@ -1,0 +1,36 @@
+Title: Moe
+
+----
+
+Date: 05 November 2026
+
+----
+
+Text:
+
+The main character featured in (link: /terms/motile text: Motile), a maze game for (link: /terms/newton-os text: Newton OS).
+
+(image: /assets/images/motile-how-to-play-2x.gif alt: Screenshot of the Motile help slip featuring Professor Moe width: 212)
+
+In the Motile help (link: /terms/slip text: slip), the character appears as (link: /terms/professor-moe text: Professor Moe).
+
+----
+
+Resource:
+
+- [Tactile Systems: Motile](https://web.archive.org/web/19980130104032/http://tactile.com/motile.html)
+- [Universal Videogame List: Motile!](https://www.uvlist.net/game-234516-Motile)
+- [UNNA: Motile](http://www.unna.org/view.php?/games/Motile)
+
+----
+
+Related:
+
+- /terms/motile
+- /terms/professor-moe
+
+----
+
+Source:
+
+- /sources/tactile

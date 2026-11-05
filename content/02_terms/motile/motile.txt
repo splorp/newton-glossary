@@ -10,7 +10,7 @@ Text:
 
 A game originally developed in 1994 by (link: /sources/bend-studio text: Bend Studio) for (link: /terms/newton-os text: Newton OS) and distributed by (link: /terms/starcore text: StarCore) on a (link: /terms/pcmcia text: PCMCIA) card.
 
-The challenge of the game was to manipulate an animated character through a labyrinth by (link: /terms/scrubbing text: scrubbing) out and constructing walls, while avoiding various traps.
+The challenge of the game was to manipulate an animated character named (link: /terms/moe text: Moe) through a labyrinth by (link: /terms/scrubbing text: scrubbing) out and constructing walls, while avoiding various traps.
 
 (image: /assets/images/motile-2x.gif alt: Screenshot of Motile width: 242)
 
@@ -21,6 +21,7 @@ An updated version of the game compatible with Newton OS 2.0 was distributed by 
 Resource:
 
 - [Tactile Systems: Motile](https://web.archive.org/web/19980130104032/http://tactile.com/motile.html)
+- [Universal Videogame List: Motile!](https://www.uvlist.net/game-234516-Motile)
 - [UNNA: Motile](http://www.unna.org/view.php?/games/Motile)
 
 ----
@@ -31,6 +32,7 @@ Related:
 - /terms/deep-green
 - /terms/deep-space-newt
 - /terms/jig
+- /terms/moe
 - /terms/newt-tris
 - /terms/newtendo
 - /terms/newthack
@@ -42,3 +44,4 @@ Related:
 Source:
 
 - /sources/bend-studio
+- /sources/tactile
