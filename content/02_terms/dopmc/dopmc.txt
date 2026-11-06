@@ -1,0 +1,35 @@
+Title: DOPMC
+
+----
+
+Date: 06 November 2026
+
+----
+
+Text:
+
+Department of Public Maze Construction
+
+The fictitious organization in charge of creating the maze-like puzzles found in the (link: /terms/motile text: Motile) game.
+
+----
+
+Resource:
+
+- [Tactile Systems: Motile](https://web.archive.org/web/19980130104032/http://tactile.com/motile.html)
+- [Universal Videogame List: Motile!](https://www.uvlist.net/game-234516-Motile)
+- [Newton City: Professor Moe](https://newtoncity.org/index.php/community/1137-doctor-clu/profile?actid=1070)
+- [UNNA: Motile](http://www.unna.org/view.php?/games/Motile)
+
+----
+
+Related:
+
+- /terms/moe
+- /terms/motile
+
+----
+
+Source:
+
+- /sources/tactile

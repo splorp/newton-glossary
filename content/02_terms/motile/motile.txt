@@ -14,6 +14,8 @@ The challenge of the game was to manipulate an animated character named (link: /
 
 (image: /assets/images/motile-2x.gif alt: Screenshot of Motile width: 242)
 
+The maze-like puzzles in Motile were reportedly created by a fictitious organization called the (link: /terms/dopmc text: DOPMC).
+
 An updated version of the game compatible with Newton OS 2.0 was distributed by (link: /sources/tactile text: Tactile Systems) as a downloadable product in 1997.
 
 ----
@@ -32,6 +34,7 @@ Related:
 - /terms/chiral
 - /terms/deep-green
 - /terms/deep-space-newt
+- /terms/dopmc
 - /terms/jig
 - /terms/moe
 - /terms/newt-tris
