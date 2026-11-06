@@ -8,7 +8,7 @@ Date: 06 October 2002
 
 Text:
 
-A software package of dubious utility which provides an alternate (link: /terms/input text: input) interface for system management on a Newton device, somewhat mimicking the command line environment of MS-DOS. The name references (link: /terms/llama text: Llama), the unofficial mascot of the Apple’s (link: /terms/developer-technical-services text: Developer Technical Services) team within the (link: /terms/newton-systems-group text: Newton Systems Group).
+A software package of dubious utility which provides an alternate (link: /terms/input text: input) interface for system management on a Newton device, somewhat mimicking the (link: /terms/command-line text: command line) environment of MS-DOS. The name references (link: /terms/llama text: Llama), the unofficial mascot of the Apple’s (link: /terms/developer-technical-services text: Developer Technical Services) team within the (link: /terms/newton-systems-group text: Newton Systems Group).
 
 ----
 
@@ -21,6 +21,7 @@ Resource:
 Related:
 
 - /terms/ask-the-llama
+- /terms/command-line
 - /terms/developer-technical-services
 - /terms/dr-llama
 - /terms/llama

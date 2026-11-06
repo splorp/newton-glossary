@@ -8,7 +8,7 @@ Date: 03 November 2026
 
 Text:
 
-A program developed by (link: /sources/mathias-melcher text: Mathias Melcher) as a component of his (link: /terms/vsnewt text: VSNewt) extension to Microsoft’s [Visual Studio Code](https://code.visualstudio.com/). Based on Simon Bell’s (link: /terms/newton-framework text: Newton Framework), newtc provides a (link: /terms/newtonscript text: NewtonScript) compiler, runtime, and (link: /terms/debugger text: debugger) 
+A program developed by (link: /sources/mathias-melcher text: Mathias Melcher) as a component of his (link: /terms/vsnewt text: VSNewt) extension to Microsoft’s [Visual Studio Code](https://code.visualstudio.com/). Based on Simon Bell’s (link: /terms/newton-framework text: Newton Framework), `newtc` provides a (link: /terms/newtonscript text: NewtonScript) compiler, runtime, and (link: /terms/debugger text: debugger) that can be run using Visual Studio Code’s [Debug Adapter Protocol](https://microsoft.github.io/debug-adapter-protocol/) (DAP) or from the (link: /terms/command-line text: command line).
 
 ----
 
@@ -20,6 +20,7 @@ Resource:
 
 Related:
 
+- /terms/command-line
 - /terms/compiled
 - /terms/compiler
 - /terms/debugger

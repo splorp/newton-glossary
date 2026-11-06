@@ -1,0 +1,24 @@
+Title: Command Line
+
+----
+
+Date: 06 November 2026
+
+----
+
+Text:
+
+A text-based (link: /terms/user-interface text: user interface) that allows a user to communicate with a software program. In most cases, (link: /terms/command text: commands) are typed using a (link: /terms/keyboard text: keyboard) or similar (link: /terms/input text: input) device, then (link: /terms/interpreted text: interpreted) and executed by the program. Results from the program are displayed as (link: /terms/text text: text) in a terminal (link: /terms/application text: application) or (link: /terms/output text: output) as data and passed off to another program.
+
+----
+
+Related:
+
+- /terms/input
+- /terms/output
+
+----
+
+Source:
+
+- /sources/foldoc

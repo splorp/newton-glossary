@@ -23,6 +23,7 @@ Resource:
 
 Related:
 
+- /terms/command-line
 - /terms/compiled
 - /terms/compiler
 - /terms/interpreted
