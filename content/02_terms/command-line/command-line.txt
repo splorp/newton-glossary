@@ -14,6 +14,7 @@ A text-based (link: /terms/user-interface text: user interface) that allows a us
 
 Related:
 
+- /terms/control-key
 - /terms/input
 - /terms/output
 

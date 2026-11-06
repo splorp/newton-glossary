@@ -8,7 +8,7 @@ Date: 30 October 2001
 
 Text:
 
-A pair of icon-based (link: /terms/button text: buttons) modeled after standard (link: /terms/scroll-arrows text: scroll arrows) that are used to control a (link: /terms/scrolling-list text: scrolling list) of text items within a specific (link: /terms/application text: application).
+A pair of icon-based (link: /terms/button text: buttons) modeled after standard (link: /terms/scroll-arrows text: scroll arrows) that are used to (link: /terms/control text: control) a (link: /terms/scrolling-list text: scrolling list) of text items within a specific (link: /terms/application text: application).
 
 ----
 

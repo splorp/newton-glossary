@@ -8,7 +8,9 @@ Date: 22 March 2026
 
 Text:
 
-A (link: /terms/modifier-key text: modifier key) used to produce standard, non-printing ASCII (link: /terms/character text: characters), primarily in a terminal emulation (link: /terms/application text: application). In (link: /terms/newton-os text: Newton OS), characters modified using the Control key are not inserted into text (link: /terms/input-area text: input areas), such as the (link: /terms/notepad text: Notepad) application.
+A (link: /terms/modifier-key text: modifier key) used to produce standard, non-printing ASCII (link: /terms/character text: characters), primarily in a terminal emulation (link: /terms/application text: application) or when using a (link: /terms/command-line text: command line) interface.
+
+In (link: /terms/newton-os text: Newton OS), characters modified using the Control key are not inserted into text (link: /terms/input-area text: input areas), such as the (link: /terms/notepad text: Notepad) application.
 
 Also referred to as the (link: /terms/ctrl-key text: Ctrl Key).
 
@@ -29,6 +31,7 @@ Related:
 - /terms/caps-lock-key
 - /terms/character-key
 - /terms/close-key
+- /terms/command-line
 - /terms/command-key
 - /terms/control
 - /terms/ctrl-key
