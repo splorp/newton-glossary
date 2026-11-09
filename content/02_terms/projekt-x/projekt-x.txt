@@ -1,0 +1,17 @@
+Title: Projekt X
+
+----
+
+Date: 08 November 2026
+
+----
+
+Text:
+
+See: (link: /terms/project-x text: Project X)
+
+----
+
+Source:
+
+- /sources/nick-muller

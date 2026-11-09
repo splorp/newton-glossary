@@ -1,0 +1,34 @@
+Title: Drunken Programmers Project
+
+----
+
+Date: 08 November 2026
+
+----
+
+Text:
+
+An informal group of software developers formed by (link: /sources/nick-muller text: Nick Müller) (and other unnamed individuals) in Munich, Germany.
+
+The group’s one and only contribution was the infamous (link: /terms/project-x text: Project X), a Windows 95 “emulator” for (link: /terms/newton-os text: Newton OS).
+
+----
+
+Resource:
+
+- [Planet Newton: Drunken Programmers Project Win95 Emulator](http://mirrors.unna.org/download.planetnewton.com/download/newfiles/98june.htm)
+
+----
+
+Related:
+
+- /terms/logic-tools
+- /terms/newtendo
+- /terms/twoinhand
+- /terms/project-x
+
+----
+
+Source:
+
+- /sources/nick-muller

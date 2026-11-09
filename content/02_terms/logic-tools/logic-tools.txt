@@ -1,0 +1,31 @@
+Title: Logic Tools
+
+----
+
+Date: 08 November 2026
+
+----
+
+Text:
+
+A German software development company operated by (link: /sources/nick-muller text: Nick Müller).
+
+----
+
+Resource:
+
+- [Logic Tools Website](https://web.archive.org/web/19990224041921/http://www.logictools.de/)
+
+----
+
+Related:
+
+- /terms/drunken-programmers-project
+- /terms/project-x
+- /terms/unugmuc
+
+----
+
+Source:
+
+- /sources/nick-muller

@@ -1,0 +1,44 @@
+Title: Project X
+
+----
+
+Date: 08 November 2026
+
+----
+
+Text:
+
+A Windows 95 “emulator” for (link: /terms/newton-os text: Newton OS) created by (link: /sources/nick-muller text: Nick Müller) of (link: /terms/logic-tools text: Logic Tools) as part of his (link: /terms/drunken-programmers-project text: Drunken Programmers Project).
+
+Obviously put together as a joke, the software basically mimicked Windows crashing every time the user (link: /terms/tapped text: tapped) on a (link: /terms/user-interface text: user interface) element.
+
+(image: /assets/images/project-x-2x.gif alt: Screenshot of Project X displaying a Windows error indicating “Battery empty” width: 322)
+
+Also known as (link: /terms/projekt-x text: Projekt X).
+
+----
+
+Resource:
+
+- [Logic Tools: Project “X”](https://web.archive.org/web/20010519200016fw_/http://www.logictools.de/newton/english/project_drunken.html) (English)
+- [Logic Tools: Projekt “X”](https://web.archive.org/web/20010524144010fw_/http://www.logictools.de/newton/german/project_drunken.html) (Deutsch)
+- [Sylvain Pilet: Project “X”](http://message-pad.net/Mirrors/www.logictools.de/english/project_drunken.html) (English)
+- [Sylvain Pilet: Projekt “X”](http://message-pad.net/Mirrors/www.logictools.de/project_drunken.html) (Deutsch)
+- [Planet Newton: Drunken Programmers Project Win95 Emulator](http://mirrors.unna.org/download.planetnewton.com/download/newfiles/98june.htm)
+- [Newted: Project X](https://www.newted.org/resources/projectx/)
+
+----
+
+Related:
+
+- /terms/drunken-programmers-project
+- /terms/logic-tools
+- /terms/newtendo
+- /terms/projekt-x
+- /terms/twoinhand
+
+----
+
+Source:
+
+- /sources/nick-muller
