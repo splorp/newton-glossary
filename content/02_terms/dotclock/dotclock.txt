@@ -17,7 +17,7 @@ A clock (link: /terms/application text: application) developed by (link: /source
 Resource:
 
 - [PDA-Soft: DotClock](https://www.pda-soft.de/dotclock.html) (English)
-- [PDA-Soft: DotClock](https://www.pda-soft.de/ge_dotclock.html) (Deutsche)
+- [PDA-Soft: DotClock](https://www.pda-soft.de/ge_dotclock.html) (Deutsch)
 
 ----
 

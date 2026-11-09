@@ -17,7 +17,7 @@ Software developed by (link: /sources/frank-grundel text: Frank Gründel) to per
 Resource:
 
 - [PDA-Soft: NewtTest](https://www.pda-soft.de/newttest.html) (English)
-- [PDA-Soft: NewtTest](https://www.pda-soft.de/ge_newttest.html) (Deutsche)
+- [PDA-Soft: NewtTest](https://www.pda-soft.de/ge_newttest.html) (Deutsch)
 - [Newton Poetry: Get handy Newton info with NewtTest](https://newtonpoetry.com/2009/06/01/get-handy-newton-info-with-newttest/)
 
 ----

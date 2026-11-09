@@ -29,7 +29,7 @@ Resource:
 - [NewtonTalk: NewtLight available](https://newtontalk.net/archive/newtontalk/2005-April/0052.html)
 - [Green is Better: NewtLight](https://web.archive.org/web/20060505012242/http://homepage.mac.com/adriano.angelillis/PhotoAlbum1.html)
 - [PDA-Soft: NewtLight](https://www.pda-soft.de/newtlight.html) (English)
-- [PDA-Soft: NewtLight](https://www.pda-soft.de/ge_newtlight.html) (Deutsche)
+- [PDA-Soft: NewtLight](https://www.pda-soft.de/ge_newtlight.html) (Deutsch)
 
 ----
 

@@ -15,4 +15,4 @@ Proprietor of [PDA-Soft](https://www.pda-soft.de/) and diehard Newton aficionado
 Resource:
 
 - [PDA-Soft Website](https://www.pda-soft.de/english.html) (English)
-- [PDA-Soft Website](https://www.pda-soft.de/german.html) (Deutsche)
+- [PDA-Soft Website](https://www.pda-soft.de/german.html) (Deutsch)

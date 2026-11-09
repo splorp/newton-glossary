@@ -17,7 +17,7 @@ Software developed by (link: /sources/frank-grundel text: Frank Gründel) that p
 Resource:
 
 - [PDA-Soft: BetterSetter](https://www.pda-soft.de/bettersetter.html) (English)
-- [PDA-Soft: BetterSetter](https://www.pda-soft.de/ge_bettersetter.html) (Deutsche)
+- [PDA-Soft: BetterSetter](https://www.pda-soft.de/ge_bettersetter.html) (Deutsch)
 
 ----
 

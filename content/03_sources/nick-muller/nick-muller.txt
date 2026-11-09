@@ -16,6 +16,6 @@ His infamous (link: /terms/project-x text: Project X) was part of the equally in
 
 Resource:
 
-- [Logic Tools Newton](https://web.archive.org/web/20010624160614/http://www.logictools.de/newton/) (Deutsche)
+- [Logic Tools Newton](https://web.archive.org/web/20010624160614/http://www.logictools.de/newton/) (Deutsch)
 - [Logic Tools Newton](https://web.archive.org/web/20010220212353/http://www.logictools.de/newton/english/index.html) (English)
 - [NewtonTalk: Michael Homscheidt on the story of Nick](https://newtontalk.net/archive/newtontalk/2021-April/000713.html)
