@@ -64,6 +64,7 @@ Related:
 - /terms/nsgoc
 - /terms/nug-central
 - /terms/nugom
+- /terms/nugwash
 - /terms/nycnug
 - /terms/oanug
 - /terms/oznug

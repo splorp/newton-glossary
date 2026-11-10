@@ -60,6 +60,7 @@ Related:
 - /terms/nsgoc
 - /terms/nug-central
 - /terms/nugom
+- /terms/nugwash
 - /terms/nycnug
 - /terms/oznug
 - /terms/poor-newton-users
